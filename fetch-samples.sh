@@ -18,5 +18,3 @@ function sample {
 
 sample local 'http://localhost:8983/solr/findingaids/select'
 sample prod 'http://44.218.37.122:8080/solr/findingaids/select'
-
-
