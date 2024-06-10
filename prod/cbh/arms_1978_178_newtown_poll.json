@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,7 +46,7 @@
         "author_ssm":["Matthew Gorham"],
         "unittitle_ssm":["Newtown poll records"],
         "unitid_ssm":["1978.178"],
-        "abstract_ssm":["The collection contains poll lists for District 2 on November 4, 1879, certified by James W. Smith, Clerk. The poll list includes voter names."],
+        "abstract_ssm":["The collection contains poll lists for District 2, Newtown, Queens, on November 4, 1879, certified by James W. Smith, Clerk. The poll list includes voter names."],
         "unitdate_normal_ssm":["1879/1879"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Newtown (Queens County, N.Y.)",
@@ -65,10 +65,10 @@
         "heading_ssm":["Newtown poll records"],
         "unitdate_start_ssm":["1879"],
         "unitdate_end_ssm":["1879"],
-        "unitdate_ssm":["Inclusive, 1879"],
+        "unitdate_ssm":["1879"],
         "language_ssm":["English"],
-        "_version_":1775225294710374400,
-        "timestamp":"2023-08-25T18:06:09.4Z"}]
+        "_version_":1801496603890024448,
+        "timestamp":"2024-06-10T17:37:22.223Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

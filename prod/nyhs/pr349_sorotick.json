@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -49,7 +49,7 @@
         "abstract_ssm":["112 photographs sent home from Europe by Irving Sorotick (1915-2000), a United States Army veteran of World War II, plus material relating to the presidency of John F. Kennedy, notably a high school project scrapbook assembled by Sorotick's daughter, Marsha, during the Cuban Missile Crisis of October 1962. Also includes seven political campaign pins."],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Photographic prints.",
-          "Slides (photographs).",
+          "Slides (photographs)",
           "Ephemera.",
           "Scrapbooks."],
         "persname_ssm":["Sorotick, Marsha",
@@ -63,8 +63,8 @@
           "Chisholm, Shirley, 1924-2005",
           "Kennedy, John F. (John Fitzgerald), 1917-1963"],
         "subject_ssm":["Vice-Presidential candidates -- United States.",
-          "Presidential candidates -- United States",
-          "World War, 1939-1945 -- Participation, American",
+          "Presidential candidates -- United States.",
+          "World War, 1939-1945 -- Participation, American.",
           "Cuban Missile Crisis, 1962.",
           "Mayors -- New York (State)  -- New York. "],
         "collection_ssm":["Sorotick Family photographs and papers"],
@@ -74,14 +74,14 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Collection"],
         "material_type_ssm":["Photographic prints.",
-          "Slides (photographs).",
+          "Slides (photographs)",
           "Ephemera.",
           "Scrapbooks."],
         "heading_ssm":["Sorotick Family photographs and papers"],
         "unitdate_ssm":["Inclusive, 1943-1992"],
         "language_ssm":["English"],
-        "_version_":1775219035865088000,
-        "timestamp":"2023-08-25T16:26:40.499Z"},
+        "_version_":1801484130400075776,
+        "timestamp":"2024-06-10T14:19:06.576Z"},
       {
         "id":"pr349_sorotickaspace_e4be3c7fa13b05fb39be9fb3a5844ed5",
         "ead_ssi":"pr349_sorotick",
@@ -98,8 +98,8 @@
           "Folder: 10"],
         "heading_ssm":["Newsstand photograph"],
         "unitdate_ssm":["Inclusive, 1968"],
-        "_version_":1775219036245721088,
-        "timestamp":"2023-08-25T16:26:40.862Z"},
+        "_version_":1801484130525904896,
+        "timestamp":"2024-06-10T14:19:06.696Z"},
       {
         "id":"pr349_sorotickaspace_ref1_qf1",
         "ead_ssi":"pr349_sorotick",
@@ -116,8 +116,8 @@
           "Folder: 1"],
         "heading_ssm":["WWII: photographs (52) (dated)"],
         "unitdate_ssm":["1944 May-1945 August"],
-        "_version_":1775219035903885312,
-        "timestamp":"2023-08-25T16:26:40.537Z"},
+        "_version_":1801484130413707264,
+        "timestamp":"2024-06-10T14:19:06.589Z"},
       {
         "id":"pr349_sorotickaspace_ref2_x5b",
         "ead_ssi":"pr349_sorotick",
@@ -134,8 +134,8 @@
           "Folder: 2"],
         "heading_ssm":["WWII: photographs (56 + 4 slides) (undated)"],
         "unitdate_ssm":["[1944-1945]"],
-        "_version_":1775219035941634048,
-        "timestamp":"2023-08-25T16:26:40.573Z"},
+        "_version_":1801484130427338752,
+        "timestamp":"2024-06-10T14:19:06.602Z"},
       {
         "id":"pr349_sorotickaspace_ref3_mxr",
         "ead_ssi":"pr349_sorotick",
@@ -152,8 +152,8 @@
           "Folder: 3"],
         "heading_ssm":["WWII: ephemera"],
         "unitdate_ssm":["1944, undated"],
-        "_version_":1775219035978334208,
-        "timestamp":"2023-08-25T16:26:40.607Z"},
+        "_version_":1801484130438873088,
+        "timestamp":"2024-06-10T14:19:06.613Z"},
       {
         "id":"pr349_sorotickaspace_ref4_1wl",
         "ead_ssi":"pr349_sorotick",
@@ -170,8 +170,8 @@
           "Folder: 4"],
         "heading_ssm":["WWII: newspaper | New York Herald Tribune"],
         "unitdate_ssm":["1945 January 27"],
-        "_version_":1775219036016082944,
-        "timestamp":"2023-08-25T16:26:40.644Z"},
+        "_version_":1801484130450407424,
+        "timestamp":"2024-06-10T14:19:06.624Z"},
       {
         "id":"pr349_sorotickaspace_ref5_zge",
         "ead_ssi":"pr349_sorotick",
@@ -188,8 +188,8 @@
           "Folder: 5"],
         "heading_ssm":["JFK: scrapbook"],
         "unitdate_ssm":["1962 October-November"],
-        "_version_":1775219036051734528,
-        "timestamp":"2023-08-25T16:26:40.678Z"},
+        "_version_":1801484130462990336,
+        "timestamp":"2024-06-10T14:19:06.636Z"},
       {
         "id":"pr349_sorotickaspace_ref6_cqh",
         "ead_ssi":"pr349_sorotick",
@@ -206,8 +206,8 @@
           "Folder: 7"],
         "heading_ssm":["JFK: photographs (5)"],
         "unitdate_ssm":["1964 June"],
-        "_version_":1775219036130377728,
-        "timestamp":"2023-08-25T16:26:40.752Z"},
+        "_version_":1801484130485010432,
+        "timestamp":"2024-06-10T14:19:06.657Z"},
       {
         "id":"pr349_sorotickaspace_ref7_6zl",
         "ead_ssi":"pr349_sorotick",
@@ -224,8 +224,8 @@
           "Folder: 6"],
         "heading_ssm":["JFK: newspaper | New York World-Telegram and the Sun"],
         "unitdate_ssm":["1963 November 22"],
-        "_version_":1775219036092628992,
-        "timestamp":"2023-08-25T16:26:40.717Z"},
+        "_version_":1801484130474524672,
+        "timestamp":"2024-06-10T14:19:06.647Z"},
       {
         "id":"pr349_sorotickaspace_ref8_hqi",
         "ead_ssi":"pr349_sorotick",
@@ -242,8 +242,8 @@
           "Folder: 8"],
         "heading_ssm":["JFK: souvenir journal"],
         "unitdate_ssm":["[1964]"],
-        "_version_":1775219036166029312,
-        "timestamp":"2023-08-25T16:26:40.786Z"},
+        "_version_":1801484130499690496,
+        "timestamp":"2024-06-10T14:19:06.671Z"},
       {
         "id":"pr349_sorotickaspace_ref9_jdf",
         "ead_ssi":"pr349_sorotick",
@@ -260,8 +260,8 @@
           "Folder: 9"],
         "heading_ssm":["Political campaign pins (7)"],
         "unitdate_ssm":["1960-1992"],
-        "_version_":1775219036204826624,
-        "timestamp":"2023-08-25T16:26:40.824Z"}]
+        "_version_":1801484130510176256,
+        "timestamp":"2024-06-10T14:19:06.681Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -275,9 +275,9 @@
       "subject_sim":[
         "Cuban Missile Crisis, 1962.",1,
         "Mayors -- New York (State)  -- New York. ",1,
-        "Presidential candidates -- United States",1,
+        "Presidential candidates -- United States.",1,
         "Vice-Presidential candidates -- United States.",1,
-        "World War, 1939-1945 -- Participation, American",1],
+        "World War, 1939-1945 -- Participation, American.",1],
       "name_sim":[
         "Bentsen, Lloyd",1,
         "Chisholm, Shirley, 1924-2005",1,

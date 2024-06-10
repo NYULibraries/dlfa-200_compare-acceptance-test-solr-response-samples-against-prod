@@ -75,8 +75,8 @@
         "heading_ssm":["Royal L. Haynes papers"],
         "unitdate_ssm":["Inclusive, 1800s-1945"],
         "language_ssm":["English"],
-        "_version_":1775219031927685120,
-        "timestamp":"2023-08-25T16:26:36.745Z"},
+        "_version_":1801483815024066560,
+        "timestamp":"2024-06-10T14:14:05.81Z"},
       {
         "id":"pr348_haynesaspace_ref10_px2",
         "ead_ssi":"pr348_haynes",
@@ -93,8 +93,8 @@
           "Volume: 3"],
         "heading_ssm":["Pre-printed album: Life in the Service / \"Memoirs of the Marines\""],
         "unitdate_ssm":["1943-1945"],
-        "_version_":1775219032038834176,
-        "timestamp":"2023-08-25T16:26:36.851Z"},
+        "_version_":1801483815074398208,
+        "timestamp":"2024-06-10T14:14:05.858Z"},
       {
         "id":"pr348_haynesaspace_ref13_06q",
         "ead_ssi":"pr348_haynes",
@@ -111,8 +111,8 @@
           "Volume: 2"],
         "heading_ssm":["Photograph album: \"Property of R. L. Haynes\""],
         "unitdate_ssm":["1930s-1940s"],
-        "_version_":1775219032002134016,
-        "timestamp":"2023-08-25T16:26:36.816Z"},
+        "_version_":1801483815059718144,
+        "timestamp":"2024-06-10T14:14:05.844Z"},
       {
         "id":"pr348_haynesaspace_ref14_ex2",
         "ead_ssi":"pr348_haynes",
@@ -129,8 +129,8 @@
           "Volume: 1"],
         "heading_ssm":["Photograph album: Tulley / Haynes family"],
         "unitdate_ssm":["1800s"],
-        "_version_":1775219031964385280,
-        "timestamp":"2023-08-25T16:26:36.78Z"},
+        "_version_":1801483815042940928,
+        "timestamp":"2024-06-10T14:14:05.828Z"},
       {
         "id":"pr348_haynesaspace_ref17_eog",
         "ead_ssi":"pr348_haynes",
@@ -146,8 +146,8 @@
         "location_ssm":["Folder: FF 1"],
         "heading_ssm":["Photograph: 1285th Company, Civilian Conservation Corps (Oversize)"],
         "unitdate_ssm":["1938 September 1"],
-        "_version_":1775219032152080384,
-        "timestamp":"2023-08-25T16:26:36.959Z"},
+        "_version_":1801483815157235712,
+        "timestamp":"2024-06-10T14:14:05.937Z"},
       {
         "id":"pr348_haynesaspace_ref19_it3",
         "ead_ssi":"pr348_haynes",
@@ -164,8 +164,8 @@
           "Folder: 2"],
         "heading_ssm":["Loose material from Volume 3"],
         "unitdate_ssm":["1943-1945"],
-        "_version_":1775219032112234496,
-        "timestamp":"2023-08-25T16:26:36.921Z"},
+        "_version_":1801483815134167040,
+        "timestamp":"2024-06-10T14:14:05.915Z"},
       {
         "id":"pr348_haynesaspace_ref20_0rr",
         "ead_ssi":"pr348_haynes",
@@ -182,8 +182,8 @@
           "Folder: 1"],
         "heading_ssm":["Loose material from Volume 1"],
         "unitdate_ssm":["1932-1962"],
-        "_version_":1775219032075534336,
-        "timestamp":"2023-08-25T16:26:36.886Z"}]
+        "_version_":1801483815109001216,
+        "timestamp":"2024-06-10T14:14:05.891Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

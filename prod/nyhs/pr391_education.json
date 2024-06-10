@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -54,8 +54,8 @@
           "Gibson, Emily M.",
           "Woodward, Elizabeth A."],
         "subject_ssm":["Education -- New York (State)  -- New York. ",
-          "Italian American women",
-          "Italian Americans -- New York (State)  -- New York"],
+          "Italian American women.",
+          "Italian Americans -- New York (State)  -- New York. "],
         "collection_ssm":["Education Committee for Non-English Speaking Women photographs"],
         "id":"pr391_education",
         "ead_ssi":"pr391_education",
@@ -66,8 +66,8 @@
         "heading_ssm":["Education Committee for Non-English Speaking Women photographs"],
         "unitdate_ssm":["Inclusive, 1923-circa 1927, 1930"],
         "language_ssm":["English"],
-        "_version_":1775223299982229504,
-        "timestamp":"2023-08-25T17:34:27.079Z"},
+        "_version_":1801484439186833408,
+        "timestamp":"2024-06-10T14:24:01.057Z"},
       {
         "id":"pr391_educationaspace_3be94d05d920b64378d656ed414fbc52",
         "ead_ssi":"pr391_education",
@@ -83,8 +83,8 @@
         "location_ssm":["Box: SC-1"],
         "heading_ssm":["Education Committee for Non-English Speaking Women photographs and mailing envelope"],
         "unitdate_ssm":["Inclusive, 1923-circa 1927, 1930"],
-        "_version_":1775223300023123968,
-        "timestamp":"2023-08-25T17:34:27.118Z"}]
+        "_version_":1801484439205707776,
+        "timestamp":"2024-06-10T14:24:01.076Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,8 +97,8 @@
         "undated & other",2],
       "subject_sim":[
         "Education -- New York (State)  -- New York. ",1,
-        "Italian American women",1,
-        "Italian Americans -- New York (State)  -- New York",1],
+        "Italian American women.",1,
+        "Italian Americans -- New York (State)  -- New York. ",1],
       "name_sim":[
         "Education Committee for Non-English Speaking Women",1,
         "Garretson, Edith",1,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":19,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,7 +46,7 @@
         "author_ssm":["Nicholas Pavlik"],
         "unittitle_ssm":["John Covert letter to Abram Hoogland"],
         "unitid_ssm":["1977.405"],
-        "abstract_ssm":["One letter from John Covert, Jr. of Long Island to his uncle, Abram Hoogland, discussing his prospects for divinity school and a riot that broke out at the commencement exercises of Columbia College in New York City.  The letter is dated August 13, 1811."],
+        "abstract_ssm":["One 1811 letter from John Covert, Jr. of Long Island to his uncle, Abram Hoogland, discussing his prospects for divinity school and a riot that broke out at the commencement exercises of Columbia College in New York City."],
         "unitdate_normal_ssm":["1811/1811"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Columbia College (New York, N.Y.)"],
@@ -56,7 +56,7 @@
           "Hoogland, Abram",
           "Covert, John, Jr."],
         "subject_ssm":["Theological seminaries",
-          "Commencement ceremonies |z New York (State) |z New York"],
+          "Commencement ceremonies -- New York (State) -- New York"],
         "collection_ssm":["John Covert letter to Abram Hoogland"],
         "id":"arms_1977_405_covert_hoogland",
         "ead_ssi":"arms_1977_405_covert_hoogland",
@@ -66,10 +66,10 @@
         "heading_ssm":["John Covert letter to Abram Hoogland"],
         "unitdate_start_ssm":["1811"],
         "unitdate_end_ssm":["1811"],
-        "unitdate_ssm":["Inclusive, 1811"],
+        "unitdate_ssm":["1811"],
         "language_ssm":["English"],
-        "_version_":1775224968783593472,
-        "timestamp":"2023-08-25T18:00:58.572Z"}]
+        "_version_":1801496603642560512,
+        "timestamp":"2024-06-10T17:37:21.987Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

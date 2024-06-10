@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,7 +46,7 @@
         "author_ssm":["Nicholas Pavlik"],
         "unittitle_ssm":["Mary E. Cary letter"],
         "unitid_ssm":["1977.407"],
-        "abstract_ssm":["One typed transcript of a letter from Mary E. Cary (1813-1877)to her sister in Boston, MA describing a fire that destroyed much of downtown Brooklyn on September 9, 1848.  During the fire, Cary's house on Washington Street came within 200 feet of the blaze, and her cousin, William H. Cary, lost 26 houses and the Franklin Building located on Orange and Fulton Streets.  The letter is dated September 17, 1848."],
+        "abstract_ssm":["One typed transcript of a letter from Mary E. Cary to her sister in Boston, MA describing a fire that destroyed much of downtown Brooklyn on September 9, 1848."],
         "unitdate_normal_ssm":["1848/1848"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -54,7 +54,7 @@
         "persname_ssm":["Cary, Mary E.",
           "Cary, Mary E.",
           "Cary, William H."],
-        "subject_ssm":["Fires |z New York (State) |z Kings County"],
+        "subject_ssm":["Fires -- New York (State) -- Kings County"],
         "collection_ssm":["Mary E. Cary letter"],
         "id":"arms_1977_407_cary",
         "ead_ssi":"arms_1977_407_cary",
@@ -65,10 +65,10 @@
         "heading_ssm":["Mary E. Cary letter"],
         "unitdate_start_ssm":["1848"],
         "unitdate_end_ssm":["1848"],
-        "unitdate_ssm":["Inclusive, 1848"],
+        "unitdate_ssm":["1848"],
         "language_ssm":["English"],
-        "_version_":1775225508184719360,
-        "timestamp":"2023-08-25T18:09:32.985Z"}]
+        "_version_":1801496603709669376,
+        "timestamp":"2024-06-10T17:37:22.051Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

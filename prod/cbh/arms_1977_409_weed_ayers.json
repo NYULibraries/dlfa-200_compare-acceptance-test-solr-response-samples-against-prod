@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,17 +46,17 @@
         "author_ssm":["Nicholas Pavlik"],
         "unittitle_ssm":["Edward Weed letter to Frederic Ayers"],
         "unitid_ssm":["1977.409"],
-        "abstract_ssm":["One letter from Reverend Edward Weed, pastor of the First Free Presbyterian Church in Brooklyn, N.Y., to Reverend Frederic Ayers of Stamford, CT, giving the dates of his visit to Stamford and his probable time of arrival.  The letter is dated February 6, 1845."],
+        "abstract_ssm":["One 1845 letter from Reverend Edward Weed, pastor of the First Free Presbyterian Church in Brooklyn, N.Y., to Reverend Frederic Ayers of Stamford, CT, giving the dates of his visit to Stamford and his probable time of arrival."],
         "unitdate_normal_ssm":["1845/1845"],
         "corpname_ssm":["Brooklyn Historical Society",
           "First Free Presbyterian Church (Brooklyn, New York, N.Y.)"],
         "genreform_ssm":["Correspondence"],
         "geogname_ssm":["Stamford (Conn.)",
-          "Brooklyn (New York, N.Y.) |x Religious life and customs"],
+          "Brooklyn (New York, N.Y.) -- Religious life and customs"],
         "persname_ssm":["Weed, Edward",
           "Weed, Edward",
           "Ayers, Frederic"],
-        "subject_ssm":["Clergy |z New York (State) |z Kings County"],
+        "subject_ssm":["Clergy -- New York (State) -- Kings County"],
         "collection_ssm":["Edward Weed letter to Frederic Ayers"],
         "id":"arms_1977_409_weed_ayers",
         "ead_ssi":"arms_1977_409_weed_ayers",
@@ -67,10 +67,10 @@
         "heading_ssm":["Edward Weed letter to Frederic Ayers"],
         "unitdate_start_ssm":["1845"],
         "unitdate_end_ssm":["1845"],
-        "unitdate_ssm":["Inclusive, 1845"],
+        "unitdate_ssm":["1845"],
         "language_ssm":["English"],
-        "_version_":1775225491412746240,
-        "timestamp":"2023-08-25T18:09:16.99Z"}]
+        "_version_":1801496603805089792,
+        "timestamp":"2024-06-10T17:37:22.142Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
