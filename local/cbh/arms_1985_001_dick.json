@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Dick Family papers"],
         "unitid_ssm":["1985.001"],
         "abstract_ssm":["The Dick Family papers span ther period 1848 to 1860 and measure 0.1 linear feet. The papers include correspondence, wills, deeds, mortgages, military records, clippings, and illustrations.  Archibald L. Dick, engraver, Brooklyn, N.Y. (c. 1793-1856), was once a resident of 66 Fulton Street and his last residence was 157 Gold Street. James L. Dick (c. 1833-1868), an artist in Brooklyn, was Archibald Dick's son and also resided at 157 Gold Street. He was one of the founding members of the Brooklyn Art School and Academy of Design."],
+        "creator_ssm":["Dick family",
+          "Dick, James L.",
+          "Dick, Archibald L.",
+          "Dick family",
+          "Dick, James L.",
+          "Dick, Archibald L."],
         "unitdate_normal_ssm":["1840/1868"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Dick family",
@@ -79,8 +85,8 @@
         "unitdate_end_ssm":["1868"],
         "unitdate_ssm":["Inclusive, 1840-1868"],
         "language_ssm":["English"],
-        "_version_":1799311437465649152,
-        "timestamp":"2024-05-17T14:45:05.127Z"}]
+        "_version_":1801962896629956608,
+        "timestamp":"2024-06-15T21:08:53.633Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +94,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dick family",1,
+        "Dick, Archibald L.",1,
+        "Dick, James L.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

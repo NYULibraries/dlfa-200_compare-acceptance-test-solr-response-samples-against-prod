@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["John Stansbury account book"],
         "unitid_ssm":["1973.100"],
         "abstract_ssm":["One account book belonging to John Stansbury of the town of Flushing in Queens, N.Y., containing entries recording Stansbury's various transactions throughout the period 1810 to 1821."],
+        "creator_ssm":["Stansbury family",
+          "Stansbury, John",
+          "Stansbury family",
+          "Stansbury, John"],
         "unitdate_normal_ssm":["1810/1824"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Stansbury family",
@@ -74,8 +78,8 @@
         "unitdate_end_ssm":["1824"],
         "unitdate_ssm":["Inclusive, 1810-1824"],
         "language_ssm":["English"],
-        "_version_":1799312259258777600,
-        "timestamp":"2024-05-17T14:58:08.85Z"}]
+        "_version_":1801959941005639680,
+        "timestamp":"2024-06-15T20:21:54.93Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +87,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stansbury family",1,
+        "Stansbury, John",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

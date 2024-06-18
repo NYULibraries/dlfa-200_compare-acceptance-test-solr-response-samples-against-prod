@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sue Harwig Memorial Collection"],
         "unitid_ssm":["TAM.823"],
         "abstract_ssm":["Sue Harwig (1926-2020) was a member of Judson Memorial Church and a founding member of the Village Independent Democrats (VID), a political reform club formed in 1957. Harwig graduated from Swarthmore College (1946) and later earned her MSW from Columbia University. She worked for the City of New York, at the City's Youth Board and later the Mayor's Office for the Disabled, as well as the Probation Department. Harwig was actively engaged in local and national politics, supporting civil rights, racial justice, union organizing, and voting rights. Alongside Rose James, she chaired the Social Concerns Committee at Judson Church, and for many years Harwig volunteered as an election poll worker. The Sue Harwig Memorial Collection consists of 38 buttons and pins documenting the local and national political causes that Harwig supported during her life. Movements and organizations documented through the buttons include anti-war movements, union and labor organizing, disability justice, civil rights, and international solidarity. The collection also includes buttons from the Village Independent Democrats (VID), and a 1963 March on Washington pin that Sue acquired during her attendance and participation in the event. The collection also includes materials from Harwig's memorial service, including a copy of a statement that Bethene Trexel wrote and a copy of Sue's memorial service program (which contains a brief obituary and a photograph of Sue)."],
+        "creator_ssm":["Harwig, Sue",
+          "Harwig, Sue"],
         "unitdate_normal_ssm":["1963/2020"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Buttons (information artifacts)."],
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1963"],
         "unitdate_end_ssm":["2020"],
         "unitdate_ssm":["Inclusive, 1963-2020"],
-        "_version_":1799792504170610688,
-        "timestamp":"2024-05-22T22:11:26.088Z"},
+        "_version_":1802184768185434112,
+        "timestamp":"2024-06-18T07:55:26.837Z"},
       {
         "id":"tam_823aspace_14cb6313a1561cf6bcff5167bff53999",
         "ead_ssi":"tam_823",
@@ -83,14 +85,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2-6",
-          "Folder: 2-6"],
+        "location_ssm":["Box: 1, Folder: 2-6"],
         "heading_ssm":["Buttons"],
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["2020"],
         "unitdate_ssm":["Inclusive, circa early 1960s-2020"],
-        "_version_":1799792504199970816,
-        "timestamp":"2024-05-22T22:11:26.116Z"},
+        "_version_":1802184768202211328,
+        "timestamp":"2024-06-18T07:55:26.853Z"},
       {
         "id":"tam_823aspace_e3dcf39542dc01c94dfbd9b67c601f99",
         "ead_ssi":"tam_823",
@@ -104,14 +105,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Memorial Information"],
         "unitdate_start_ssm":["2020"],
         "unitdate_end_ssm":["2020"],
         "unitdate_ssm":["2020"],
-        "_version_":1799792504185290752,
-        "timestamp":"2024-05-22T22:11:26.102Z"}]
+        "_version_":1802184768193822720,
+        "timestamp":"2024-06-18T07:55:26.845Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -119,7 +119,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Harwig, Sue",1],
       "date_range_sim":[
         "1901-2000",2,
         "2001-2100",3],

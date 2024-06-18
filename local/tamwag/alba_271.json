@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Joseph Kleinman Papers"],
         "unitid_ssm":["ALBA.271"],
         "abstract_ssm":["Joseph Kleinman served as a volunteer in the Lincoln-Washington Battalion in the Spanish Civil War.  He was wounded in March 1938 and spent some time in a hospital; he was killed at Sierra Caballs in September 1938.  The collection contains eleven letters which Kleinman wrote to friends Morris and Pauline Eitzer (and their young son, Demos) and Morris and Nettie Srebnick of the Bronx, NY.  Subjects of the correspondence include soldiers' participation in Bastille Day celebrations in Paris, the bombing of Barcelona, Kleinman's hospitalization due to a wounded right arm, his views on Nationalist General Francisco Franco, and his urging friends at home to work toward amending the Neutrality Act of 1937."],
+        "creator_ssm":["Kleinman, Joseph, 1904-1938",
+          "Kleinman, Joseph, 1904-1938"],
         "unitdate_normal_ssm":["1937/1938"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Spain. Ejército Popular de la República. Abraham Lincoln Battalion",
@@ -76,8 +78,8 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, 1937-1938"],
-        "_version_":1799748129110622208,
-        "timestamp":"2024-05-22T10:26:06.733Z"},
+        "_version_":1802111554708045824,
+        "timestamp":"2024-06-17T12:31:45.024Z"},
       {
         "id":"alba_271aspace_ref1",
         "ead_ssi":"alba_271",
@@ -95,8 +97,8 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, 1937-1938"],
-        "_version_":1799748129127399424,
-        "timestamp":"2024-05-22T10:26:06.748Z"},
+        "_version_":1802111554732163072,
+        "timestamp":"2024-06-17T12:31:45.047Z"},
       {
         "id":"alba_271aspace_ref2",
         "ead_ssi":"alba_271",
@@ -112,12 +114,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Letters to the Srebnicks and Eitzers"],
         "unitdate_ssm":["Jul 15, 1937-Aug 9, 1937"],
-        "_version_":1799748129142079488,
-        "timestamp":"2024-05-22T10:26:06.763Z"},
+        "_version_":1802111554754183168,
+        "timestamp":"2024-06-17T12:31:45.067Z"},
       {
         "id":"alba_271aspace_ref3",
         "ead_ssi":"alba_271",
@@ -133,12 +134,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Letters to the Srebnicks and Eitzers"],
         "unitdate_ssm":["Sep 12, 1937-Dec 24, 1937"],
-        "_version_":1799748129165148160,
-        "timestamp":"2024-05-22T10:26:06.785Z"},
+        "_version_":1802111554788786176,
+        "timestamp":"2024-06-17T12:31:45.101Z"},
       {
         "id":"alba_271aspace_ref4",
         "ead_ssi":"alba_271",
@@ -154,12 +154,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Letters to the Srebnicks and Eitzers"],
         "unitdate_ssm":["Jan 18, 1938-Mar 18, 1938"],
-        "_version_":1799748129180876800,
-        "timestamp":"2024-05-22T10:26:06.8Z"},
+        "_version_":1802111554808709120,
+        "timestamp":"2024-06-17T12:31:45.12Z"},
       {
         "id":"alba_271aspace_ref5",
         "ead_ssi":"alba_271",
@@ -175,12 +174,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 1, Folder: 4"],
         "heading_ssm":["Letters to the Srebnicks and Eitzers"],
         "unitdate_ssm":["May 9, 1938-Jun 28, 1938"],
-        "_version_":1799748129197654016,
-        "timestamp":"2024-05-22T10:26:06.815Z"}]
+        "_version_":1802111554830729216,
+        "timestamp":"2024-06-17T12:31:45.141Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -188,7 +186,8 @@
       "repository_sim":[
         "tamwag",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kleinman, Joseph, 1904-1938",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",4],

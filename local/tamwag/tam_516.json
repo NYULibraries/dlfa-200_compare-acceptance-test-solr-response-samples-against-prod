@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Leonard Sklar Ephemera Collection"],
         "unitid_ssm":["TAM.516"],
         "abstract_ssm":["This collection contains circulars, fliers, leaflets, newsletters, and other ephemera accumulated by Leonard Sklar, documenting a broad range of progressive/left politics in the 1980s."],
+        "creator_ssm":["Sklar, Leonard",
+          "Sklar, Leonard"],
         "unitdate_normal_ssm":["1980/1990"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "geogname_ssm":["United States |x Foreign relations |z Central America.",
@@ -73,8 +75,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, circa 1980-1990"],
-        "_version_":1799791211737776128,
-        "timestamp":"2024-05-22T21:50:53.528Z"}]
+        "_version_":1802183209328312320,
+        "timestamp":"2024-06-18T07:30:40.195Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sklar, Leonard",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

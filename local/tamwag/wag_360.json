@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lynn Porter-Bernadotte Papers"],
         "unitid_ssm":["WAG.360"],
         "abstract_ssm":["The Lynn Porter-Bernadotte Papers contain photographs, newspaper clippings, and legal documents related to Lynn Porter-Bernadotte's career in the New York City Fire Department. Porter-Bernadotte was one of the first women firefighters in New York City from 1982 to 2000."],
+        "creator_ssm":["Porter-Bernadotte, Lynn",
+          "Porter-Bernadotte, Lynn"],
         "unitdate_normal_ssm":["1981/2006"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Clippings (information artifacts)"],
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, 1981-2006"],
-        "_version_":1799334107413479424,
-        "timestamp":"2024-05-17T20:45:24.874Z"},
+        "_version_":1802197553532370944,
+        "timestamp":"2024-06-18T11:18:39.894Z"},
       {
         "id":"wag_360aspace_fefc8614d738d4aee68ef178c64977d8",
         "ead_ssi":"wag_360",
@@ -83,15 +85,14 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 049, Folder: 5",
-          "Folder: 5"],
+        "location_ssm":["Box: Shared Tamiment 049, Folder: 5"],
         "heading_ssm":["Clippings, Photographs, and Legal Documents"],
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, 1981-2006"],
         "language_ssm":["English"],
-        "_version_":1799334107435499520,
-        "timestamp":"2024-05-17T20:45:24.894Z"}]
+        "_version_":1802197553541808128,
+        "timestamp":"2024-06-18T11:18:39.903Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -99,7 +100,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Porter-Bernadotte, Lynn",1],
       "date_range_sim":[
         "1901-2000",2,
         "2001-2100",2],

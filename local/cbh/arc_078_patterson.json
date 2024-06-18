@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Patterson family papers and photographs"],
         "unitid_ssm":["ARC.078"],
         "abstract_ssm":["The Patterson family papers and photographs are comprised of materials saved by members of the Patterson family between 1847 and 1956. The collection includes financial documents, legal documents, correspondence, scrapbooks, diaries, journals, post cards, and several photographic formats, including prints, negatives, cabinet cards, cartes de visite, daguerreotypes, and tintypes. The Patterson family resided in Brooklyn Heights, and members of the family worked in a variety of fields, including construction, law, bookkeeping, and theater."],
+        "creator_ssm":["Jones, Emily Louise",
+          "Jones, Annie Louise Patterson",
+          "Jones, Emily Louise",
+          "Jones, Annie Louise Patterson"],
         "unitdate_normal_ssm":["1847/1966"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Patterson family"],
@@ -96,8 +100,8 @@
         "unitdate_end_ssm":["1966"],
         "unitdate_ssm":["Inclusive, circa 1847-1956"],
         "language_ssm":["English"],
-        "_version_":1799311511328391168,
-        "timestamp":"2024-05-17T14:46:15.568Z"},
+        "_version_":1801958910572101632,
+        "timestamp":"2024-06-15T20:05:32.232Z"},
       {
         "id":"arc_078_pattersonaspace_ref11_nb1",
         "ead_ssi":"arc_078_patterson",
@@ -112,8 +116,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 1: Papers"],
         "unitdate_ssm":["circa 1847-1956"],
-        "_version_":1799311511345168384,
-        "timestamp":"2024-05-17T14:46:15.584Z"},
+        "_version_":1801958910589927424,
+        "timestamp":"2024-06-15T20:05:32.249Z"},
       {
         "id":"arc_078_pattersonaspace_ref13_3ab",
         "ead_ssi":"arc_078_patterson",
@@ -128,8 +132,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 2: Photographs"],
         "unitdate_ssm":["circa 1884-1956"],
-        "_version_":1799311511362994176,
-        "timestamp":"2024-05-17T14:46:15.601Z"}]
+        "_version_":1801958910608801792,
+        "timestamp":"2024-06-15T20:05:32.267Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -137,7 +141,9 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Jones, Annie Louise Patterson",1,
+        "Jones, Emily Louise",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

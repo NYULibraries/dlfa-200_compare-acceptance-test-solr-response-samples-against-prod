@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["C. B. Nichols scrapbooks"],
         "unitid_ssm":["1974.134"],
         "abstract_ssm":["The collection includes five scrapbooks of Civil War era artifacts. Two scrapbooks hold envelopes with Union-themed images. One scrapbook includes Confederacy and Confederate state artifacts, especially currency and securities. Another scrapbook holds examples of various forms of scrip, not necessarily War-related, from several states. The final scrapbook holds a variety of documents on Union-related themes, including various Sanitary Commission fairs and other relief efforts, Colonel Elmer E. Ellsworth of the 11th New York Volunteer Infantry Regiment, and the Lincoln assassination."],
+        "creator_ssm":["Nichols, C. B.",
+          "Nichols, C. B."],
         "unitdate_normal_ssm":["1850/1906"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn and Long Island Fair in Aid of the United States Sanitary Commission. (1864)"],
@@ -86,8 +88,8 @@
         "unitdate_start_ssm":["1850"],
         "unitdate_end_ssm":["1906"],
         "unitdate_ssm":["Inclusive, circa 1860 to 1896"],
-        "_version_":1799256290126462976,
-        "timestamp":"2024-05-17T00:08:32.526Z"},
+        "_version_":1801960352495173632,
+        "timestamp":"2024-06-15T20:28:27.357Z"},
       {
         "id":"arms_1974_134_nichols_scrapbooksaspace_ref13_4w7",
         "ead_ssi":"arms_1974_134_nichols_scrapbooks",
@@ -101,14 +103,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-3",
-          "Folder: 1-3"],
+        "location_ssm":["Box: 1, Folder: 1-3"],
         "heading_ssm":["Volumes 2 and 3"],
         "unitdate_start_ssm":["1861"],
         "unitdate_end_ssm":["1866"],
         "unitdate_ssm":["Inclusive, 1861-1866"],
-        "_version_":1799256290143240192,
-        "timestamp":"2024-05-17T00:08:32.542Z"},
+        "_version_":1801960352511950848,
+        "timestamp":"2024-06-15T20:28:27.372Z"},
       {
         "id":"arms_1974_134_nichols_scrapbooksaspace_ref14_i0v",
         "ead_ssi":"arms_1974_134_nichols_scrapbooks",
@@ -122,14 +123,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 1-3",
-          "Folder: 1-3"],
+        "location_ssm":["Box: 2, Folder: 1-3"],
         "heading_ssm":["Volumes 4 and 5"],
         "unitdate_start_ssm":["1860"],
         "unitdate_end_ssm":["1896"],
         "unitdate_ssm":["Inclusive, circa 1860-circa 1896"],
-        "_version_":1799256290157920256,
-        "timestamp":"2024-05-17T00:08:32.556Z"},
+        "_version_":1801960352528728064,
+        "timestamp":"2024-06-15T20:28:27.388Z"},
       {
         "id":"arms_1974_134_nichols_scrapbooksaspace_ref15_995",
         "ead_ssi":"arms_1974_134_nichols_scrapbooks",
@@ -143,14 +143,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 3, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 3, Folder: 1"],
         "heading_ssm":["Volume 6"],
         "unitdate_start_ssm":["1861"],
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["Inclusive, circa 1861-1865"],
-        "_version_":1799256290172600320,
-        "timestamp":"2024-05-17T00:08:32.57Z"}]
+        "_version_":1801960352552845312,
+        "timestamp":"2024-06-15T20:28:27.412Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -158,7 +157,8 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nichols, C. B.",1],
       "date_range_sim":[
         "1801-1900",4,
         "1901-2000",1],

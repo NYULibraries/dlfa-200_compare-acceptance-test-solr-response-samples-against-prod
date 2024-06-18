@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -84,8 +84,8 @@
           "Prints (visual works)."],
         "heading_ssm":["European print file"],
         "unitdate_ssm":["Inclusive, circa 1750-1920"],
-        "_version_":1775220714450714624,
-        "timestamp":"2023-08-25T16:53:21.324Z"},
+        "_version_":1801042436707844096,
+        "timestamp":"2024-06-05T17:18:34.646Z"},
       {
         "id":"pr151_european_printsaspace_1389422822b81c728d18b99d6f9612e0",
         "ead_ssi":"pr151_european_prints",
@@ -103,8 +103,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 8"],
         "heading_ssm":["European History: French (2 of 2)"],
-        "_version_":1775220714648895488,
-        "timestamp":"2023-08-25T16:53:21.513Z"},
+        "_version_":1801042436829478912,
+        "timestamp":"2024-06-05T17:18:34.762Z"},
       {
         "id":"pr151_european_printsaspace_a2d3c58b272eb77a4b2fe0c7e7d7ceef",
         "ead_ssi":"pr151_european_prints",
@@ -122,8 +122,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 10"],
         "heading_ssm":["European history: Scenes and Characters (2 of 2)"],
-        "_version_":1775220714566057984,
-        "timestamp":"2023-08-25T16:53:21.434Z"},
+        "_version_":1801042436784390144,
+        "timestamp":"2024-06-05T17:18:34.719Z"},
       {
         "id":"pr151_european_printsaspace_ef297d06bb075fef8d4173306cb5b13f",
         "ead_ssi":"pr151_european_prints",
@@ -141,8 +141,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 7"],
         "heading_ssm":["European History: English (2 of 2)"],
-        "_version_":1775220714727538688,
-        "timestamp":"2023-08-25T16:53:21.588Z"},
+        "_version_":1801042436867227648,
+        "timestamp":"2024-06-05T17:18:34.798Z"},
       {
         "id":"pr151_european_printsaspace_ref11_luh",
         "ead_ssi":"pr151_european_prints",
@@ -160,8 +160,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 5"],
         "heading_ssm":["English Life & Misc."],
-        "_version_":1775220715074617344,
-        "timestamp":"2023-08-25T16:53:21.919Z"},
+        "_version_":1801042437014028288,
+        "timestamp":"2024-06-05T17:18:34.938Z"},
       {
         "id":"pr151_european_printsaspace_ref12_qo2",
         "ead_ssi":"pr151_european_prints",
@@ -179,8 +179,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 4"],
         "heading_ssm":["Religious"],
-        "_version_":1775220715040014336,
-        "timestamp":"2023-08-25T16:53:21.886Z"},
+        "_version_":1801042436992008192,
+        "timestamp":"2024-06-05T17:18:34.917Z"},
       {
         "id":"pr151_european_printsaspace_ref14_zu2",
         "ead_ssi":"pr151_european_prints",
@@ -199,8 +199,8 @@
         "location_ssm":["Folder: 7"],
         "heading_ssm":["Helleu, Paul Cesar (French, 1859-1927), Portrait of a Woman (possibly Alice Helleu)"],
         "unitdate_ssm":["Inclusive, circa 1900"],
-        "_version_":1775220715157454848,
-        "timestamp":"2023-08-25T16:53:21.998Z"},
+        "_version_":1801042437049679872,
+        "timestamp":"2024-06-05T17:18:34.972Z"},
       {
         "id":"pr151_european_printsaspace_ref15_aex",
         "ead_ssi":"pr151_european_prints",
@@ -214,8 +214,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I: European History prints"],
-        "_version_":1775220714491609088,
-        "timestamp":"2023-08-25T16:53:21.363Z"},
+        "_version_":1801042436735107072,
+        "timestamp":"2024-06-05T17:18:34.672Z"},
       {
         "id":"pr151_european_printsaspace_ref16_40p",
         "ead_ssi":"pr151_european_prints",
@@ -229,8 +229,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series II: Allegorical and Other prints"],
-        "_version_":1775220714874339328,
-        "timestamp":"2023-08-25T16:53:21.728Z"},
+        "_version_":1801042436922802176,
+        "timestamp":"2024-06-05T17:18:34.851Z"},
       {
         "id":"pr151_european_printsaspace_ref17_lvg",
         "ead_ssi":"pr151_european_prints",
@@ -248,8 +248,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 6"],
         "heading_ssm":["Natural History"],
-        "_version_":1775220715112366080,
-        "timestamp":"2023-08-25T16:53:21.955Z"},
+        "_version_":1801042437029756928,
+        "timestamp":"2024-06-05T17:18:34.953Z"},
       {
         "id":"pr151_european_printsaspace_ref1_ffq",
         "ead_ssi":"pr151_european_prints",
@@ -267,8 +267,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 1"],
         "heading_ssm":["European history: Scenes and Characters (1 of 2)"],
-        "_version_":1775220714530406400,
-        "timestamp":"2023-08-25T16:53:21.4Z"},
+        "_version_":1801042436764467200,
+        "timestamp":"2024-06-05T17:18:34.7Z"},
       {
         "id":"pr151_european_printsaspace_ref2_mt5",
         "ead_ssi":"pr151_european_prints",
@@ -286,8 +286,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 2"],
         "heading_ssm":["European History: French (1 of 2)"],
-        "_version_":1775220714612195328,
-        "timestamp":"2023-08-25T16:53:21.477Z"},
+        "_version_":1801042436807458816,
+        "timestamp":"2024-06-05T17:18:34.741Z"},
       {
         "id":"pr151_european_printsaspace_ref3_6a2",
         "ead_ssi":"pr151_european_prints",
@@ -305,8 +305,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 3"],
         "heading_ssm":["European History: English (1 of 2)"],
-        "_version_":1775220714685595648,
-        "timestamp":"2023-08-25T16:53:21.548Z"},
+        "_version_":1801042436850450432,
+        "timestamp":"2024-06-05T17:18:34.782Z"},
       {
         "id":"pr151_european_printsaspace_ref4_kr8",
         "ead_ssi":"pr151_european_prints",
@@ -324,8 +324,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 4"],
         "heading_ssm":["European History: Natural Sciences"],
-        "_version_":1775220714766336000,
-        "timestamp":"2023-08-25T16:53:21.625Z"},
+        "_version_":1801042436880859136,
+        "timestamp":"2024-06-05T17:18:34.811Z"},
       {
         "id":"pr151_european_printsaspace_ref5_6qy",
         "ead_ssi":"pr151_european_prints",
@@ -343,8 +343,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 5"],
         "heading_ssm":["European History: Military and Naval"],
-        "_version_":1775220714801987584,
-        "timestamp":"2023-08-25T16:53:21.659Z"},
+        "_version_":1801042436895539200,
+        "timestamp":"2024-06-05T17:18:34.825Z"},
       {
         "id":"pr151_european_printsaspace_ref6_jam",
         "ead_ssi":"pr151_european_prints",
@@ -362,8 +362,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 9"],
         "heading_ssm":["European History: Napoleonic Wars"],
-        "_version_":1775220714838687744,
-        "timestamp":"2023-08-25T16:53:21.694Z"},
+        "_version_":1801042436911267840,
+        "timestamp":"2024-06-05T17:18:34.84Z"},
       {
         "id":"pr151_european_printsaspace_ref7_r03",
         "ead_ssi":"pr151_european_prints",
@@ -381,8 +381,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Arts, Literature and Theater"],
-        "_version_":1775220714911039488,
-        "timestamp":"2023-08-25T16:53:21.763Z"},
+        "_version_":1801042436940627968,
+        "timestamp":"2024-06-05T17:18:34.868Z"},
       {
         "id":"pr151_european_printsaspace_ref8_e75",
         "ead_ssi":"pr151_european_prints",
@@ -400,8 +400,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 2"],
         "heading_ssm":["Classics and Mythology"],
-        "_version_":1775220714954031104,
-        "timestamp":"2023-08-25T16:53:21.804Z"},
+        "_version_":1801042436959502336,
+        "timestamp":"2024-06-05T17:18:34.886Z"},
       {
         "id":"pr151_european_printsaspace_ref9_uig",
         "ead_ssi":"pr151_european_prints",
@@ -419,8 +419,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 3"],
         "heading_ssm":["Continental European Life and Misc."],
-        "_version_":1775220715003314176,
-        "timestamp":"2023-08-25T16:53:21.851Z"}]
+        "_version_":1801042436977328128,
+        "timestamp":"2024-06-05T17:18:34.903Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

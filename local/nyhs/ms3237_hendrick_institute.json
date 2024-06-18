@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":19,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Hendrick Institute papers"],
         "unitid_ssm":["MS 3237"],
         "abstract_ssm":["The Hendrick Institute papers consist of documents relating to the founding and operation of the Hendrick Institute, a school founded by Susan L. Hendrick with the mission of combining knowledge and health of the body with more conventional education."],
+        "creator_ssm":["Hendrick Institute",
+          "Hendrick, Susan L.",
+          "Hendrick Institute",
+          "Hendrick, Susan L."],
         "unitdate_normal_ssm":["1875/1875"],
         "corpname_ssm":["New-York Historical Society",
           "Hendrick Institute"],
@@ -65,8 +69,8 @@
         "unitdate_start_ssm":["1875"],
         "unitdate_end_ssm":["1875"],
         "unitdate_ssm":["approximately 1875"],
-        "_version_":1799324677656543232,
-        "timestamp":"2024-05-17T18:15:31.957Z"},
+        "_version_":1802086254792146944,
+        "timestamp":"2024-06-17T05:49:37.144Z"},
       {
         "id":"ms3237_hendrick_instituteaspace_019da01c2e5c76748311972e179fff5c",
         "ead_ssi":"ms3237_hendrick_institute",
@@ -79,11 +83,10 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Promotional Language and Philosophy for the Hendrick Institute"],
-        "_version_":1799324677693243392,
-        "timestamp":"2024-05-17T18:15:31.992Z"},
+        "_version_":1802086254825701376,
+        "timestamp":"2024-06-17T05:49:37.176Z"},
       {
         "id":"ms3237_hendrick_instituteaspace_5e79c62075cd2a5f8952d14a98b4db59",
         "ead_ssi":"ms3237_hendrick_institute",
@@ -96,11 +99,10 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Teaching and Handwriting Exercises "],
-        "_version_":1799324677710020608,
-        "timestamp":"2024-05-17T18:15:32.008Z"},
+        "_version_":1802086254841430016,
+        "timestamp":"2024-06-17T05:49:37.191Z"},
       {
         "id":"ms3237_hendrick_instituteaspace_842b9bdfc08c479105e6616f37bf952e",
         "ead_ssi":"ms3237_hendrick_institute",
@@ -113,11 +115,10 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Discussions and Essays on Health and Physical Education"],
-        "_version_":1799324677677514752,
-        "timestamp":"2024-05-17T18:15:31.977Z"}]
+        "_version_":1802086254808924160,
+        "timestamp":"2024-06-17T05:49:37.16Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -125,7 +126,9 @@
       "repository_sim":[
         "nyhs",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hendrick Institute",1,
+        "Hendrick, Susan L.",1],
       "date_range_sim":[
         "1801-1900",1,
         "undated & other",3],

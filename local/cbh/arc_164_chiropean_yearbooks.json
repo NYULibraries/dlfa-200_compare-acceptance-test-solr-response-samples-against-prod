@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Chiropean yearbooks"],
         "unitid_ssm":["ARC.164"],
         "abstract_ssm":["The Chiropean was a Brooklyn-based club for women whose purpose was to \"bring together women with the view of making them helpful to each other and useful to society.\" The club was apolitical but was Christian in association. The Chiropean was organized and incorporated in 1896. The Chiropean yearbooks span the years 1911 to 1965, and are housed in one half manuscript box. The yearbooks contain the club's certificate of incorporation, constitution, and bylaws; the schedule of meetings for the year; programs for the monthly meetings (Report of Exercises); the standing rules; lists of former presidents; lists of officers and standing committees; and membership lists. The Report of Exercises lists titles of the addresses, papers, dramatic readings, and musical selections presented or performed during the meetings. The membership list includes the names and addresses of members. The supplements to the yearbooks include financial reports, as well as list newly admitted members, and note changes of officers and committee changes."],
+        "creator_ssm":["Chiropean (Brooklyn, New York, N.Y.)",
+          "Chiropean (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1911/1965",
           "1911/1920"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -78,8 +80,8 @@
           "1920"],
         "unitdate_ssm":["Inclusive, 1911-1965 ; 1911-1920"],
         "language_ssm":["English"],
-        "_version_":1799312463072591872,
-        "timestamp":"2024-05-17T15:01:23.221Z"}]
+        "_version_":1801959258764345344,
+        "timestamp":"2024-06-15T20:11:04.294Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chiropean (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

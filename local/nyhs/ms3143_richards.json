@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["David Alan Richards legal papers"],
         "unitid_ssm":["MS 3143"],
         "abstract_ssm":["Proceedings handled by real estate lawyer Richards of the 1980 transfer of air rights above Tiffany and Company's building at 727 Fifth Avenue, Manhattan, to neighboring Trump Tower, then under construction, and for the 2005 and 2012 donations of the High Line, the abandoned elevated freight railway on Manhattan's west side, by its owner, CSX Transportation, Inc., to the City of New York for use as a park."],
+        "creator_ssm":["Richards, David Alan, 1945-",
+          "Richards, David Alan, 1945-"],
         "corpname_ssm":["New-York Historical Society",
           "Coudert Brothers",
           "CSX Transportation (Firm)",
@@ -69,8 +71,8 @@
         "heading_ssm":["David Alan Richards legal papers"],
         "unitdate_ssm":["Inclusive, 1980, 2005, 2012"],
         "language_ssm":["English"],
-        "_version_":1799322977953644544,
-        "timestamp":"2024-05-17T17:48:30.993Z"},
+        "_version_":1802085502543724544,
+        "timestamp":"2024-06-17T05:37:39.744Z"},
       {
         "id":"ms3143_richardsaspace_7243662e38f732081e07918b995122f4",
         "ead_ssi":"ms3143_richards",
@@ -86,8 +88,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["McCarter & English, LLP, counsel to donor. Donation of the Upper Highline Elevated Rail Viaduct. CSX Transportation, Inc., donor, The City of New York, donee (2 volumes)"],
         "unitdate_ssm":["2012 July 11"],
-        "_version_":1799322978024947712,
-        "timestamp":"2024-05-17T17:48:31.062Z"},
+        "_version_":1802085502594056192,
+        "timestamp":"2024-06-17T05:37:39.792Z"},
       {
         "id":"ms3143_richardsaspace_bc7e1a8ccf020aa8bfc721892add0a3f",
         "ead_ssi":"ms3143_richards",
@@ -103,8 +105,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Coudert Brothers, LLP, counsel to Tiffany and Company. Zoning Lot Merger with Trump-Equitable Fifth Avenue Company (1 volume)"],
         "unitdate_ssm":["1980 June 25"],
-        "_version_":1799322977979858944,
-        "timestamp":"2024-05-17T17:48:31.019Z"},
+        "_version_":1802085502566793216,
+        "timestamp":"2024-06-17T05:37:39.766Z"},
       {
         "id":"ms3143_richardsaspace_dfc821b08af03d999176d457733b57e7",
         "ead_ssi":"ms3143_richards",
@@ -120,8 +122,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["McCarter & English, LLP, counsel to donor. Railbanked Donation of the Highline Elevated Rail Viaduct. CSX Transportation, Inc., donor, The City of New York, donee (3 volumes)"],
         "unitdate_ssm":["2005 November 4"],
-        "_version_":1799322978003976192,
-        "timestamp":"2024-05-17T17:48:31.042Z"}]
+        "_version_":1802085502580424704,
+        "timestamp":"2024-06-17T05:37:39.779Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -129,7 +131,8 @@
       "repository_sim":[
         "nyhs",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Richards, David Alan, 1945-",1],
       "date_range_sim":[
         "undated & other",4],
       "subject_sim":[

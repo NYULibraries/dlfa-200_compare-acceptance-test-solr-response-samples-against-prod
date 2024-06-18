@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,10 @@
       {
         "unittitle_ssm":["Allen-Berch Research Files on Spanish Civil War Aviators"],
         "unitid_ssm":["ALBA.147"],
+        "creator_ssm":["Berch, Victor A.",
+          "Allen, Richard Sanders, 1917-2008",
+          "Berch, Victor A.",
+          "Allen, Richard Sanders, 1917-2008"],
         "unitdate_normal_ssm":["1970/2000"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Berch, Victor A.",
@@ -60,8 +64,8 @@
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, circa 1970-2000"],
         "language_ssm":["English"],
-        "_version_":1799747951068708864,
-        "timestamp":"2024-05-22T10:23:16.939Z"}]
+        "_version_":1802111185273749504,
+        "timestamp":"2024-06-17T12:25:52.704Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -69,7 +73,9 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Allen, Richard Sanders, 1917-2008",1,
+        "Berch, Victor A.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

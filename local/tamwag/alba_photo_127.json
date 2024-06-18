@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Branko Grujic Photographs"],
         "unitid_ssm":["ALBA.PHOTO.127"],
+        "creator_ssm":["Grujic, Branko, 1904-1956",
+          "Grujic, Branko, 1904-1956"],
         "unitdate_normal_ssm":["1930/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Grujic, Branko, 1904-1956"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, circa 1930s"],
         "language_ssm":["English"],
-        "_version_":1799748398495039488,
-        "timestamp":"2024-05-22T10:30:23.638Z"},
+        "_version_":1802112299614339072,
+        "timestamp":"2024-06-17T12:43:35.422Z"},
       {
         "id":"alba_photo_127aspace_5031041ca69fc9f1f4148c0f00c1ff9b",
         "ead_ssi":"alba_photo_127",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799748398508670976,
-        "timestamp":"2024-05-22T10:30:23.651Z"}]
+        "_version_":1802112299656282112,
+        "timestamp":"2024-06-17T12:43:35.462Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Grujic, Branko, 1904-1956",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

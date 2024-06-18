@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Louis Cohen Papers"],
         "unitid_ssm":["ALBA.292"],
+        "creator_ssm":["Cohen, Louis, 1912-1938",
+          "Cohen, Louis, 1912-1938"],
         "unitdate_normal_ssm":["1937/1940",
           "1937/1938"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
@@ -64,8 +66,8 @@
           "1938"],
         "unitdate_ssm":["Inclusive, 1937-1940 ; 1937-1938"],
         "language_ssm":["English"],
-        "_version_":1799333985206140928,
-        "timestamp":"2024-05-17T20:43:28.328Z"},
+        "_version_":1802111639365877760,
+        "timestamp":"2024-06-17T12:33:05.759Z"},
       {
         "id":"alba_292aspace_8802bde91547a0515a2ab05125c4e61d",
         "ead_ssi":"alba_292",
@@ -80,8 +82,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799333985221869568,
-        "timestamp":"2024-05-17T20:43:28.343Z"}]
+        "_version_":1802111639391043584,
+        "timestamp":"2024-06-17T12:33:05.784Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cohen, Louis, 1912-1938",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

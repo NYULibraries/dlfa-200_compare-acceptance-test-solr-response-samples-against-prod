@@ -47,6 +47,12 @@
         "unittitle_ssm":["Anne Filardo Papers on Rank and File Activism in the American Federation of Teachers and in the United Federation of Teachers"],
         "unitid_ssm":["TAM.141"],
         "abstract_ssm":["Anne Filardo (1922-2010) was a guidance counselor and progressive education activist. She served in leadership positions in the United Action Caucus and the Teachers Action Caucus. The collection contains convention materials, correspondence, newsletters, fliers and leaflets, news clippings, agendas and minutes, reports, and other materials created or collected by Filardo from her involvement with several teachers' unions and other organizations. The dominant organizations represented in the collection are the United Action Caucus (UAC), part of the American Federation of Teachers (AFT); AFT as a broader organization; and the New York-based Teachers Action Caucus (TAC), part of the United Federation of Teachers (UFT)."],
+        "creator_ssm":["Filardo, Anne Levine, 1922-2010",
+          "Teachers Action Caucus",
+          "American Federation of Teachers. United Action Caucus",
+          "Teachers Action Caucus",
+          "American Federation of Teachers. United Action Caucus",
+          "Filardo, Anne Levine, 1922-2010"],
         "unitdate_normal_ssm":["1964/2001",
           "1970/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -102,8 +108,8 @@
         "unitdate_end_ssm":["2001",
           "1989"],
         "unitdate_ssm":["Inclusive, 1964-2001 ; 1970-1989"],
-        "_version_":1799780779814813696,
-        "timestamp":"2024-05-22T19:05:04.871Z"},
+        "_version_":1802170100428570624,
+        "timestamp":"2024-06-18T04:02:18.574Z"},
       {
         "id":"tam_141aspace_ref44",
         "ead_ssi":"tam_141",
@@ -122,8 +128,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, 1968-1997"],
-        "_version_":1799780779828445184,
-        "timestamp":"2024-05-22T19:05:04.884Z"},
+        "_version_":1802170100438007808,
+        "timestamp":"2024-06-18T04:02:18.583Z"},
       {
         "id":"tam_141aspace_ref46",
         "ead_ssi":"tam_141",
@@ -142,8 +148,8 @@
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1977-1990"],
-        "_version_":1799780779845222400,
-        "timestamp":"2024-05-22T19:05:04.9Z"},
+        "_version_":1802170100451639296,
+        "timestamp":"2024-06-18T04:02:18.596Z"},
       {
         "id":"tam_141aspace_ref48",
         "ead_ssi":"tam_141",
@@ -162,8 +168,8 @@
         "unitdate_start_ssm":["1971"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1971-1986"],
-        "_version_":1799780779856756736,
-        "timestamp":"2024-05-22T19:05:04.911Z"},
+        "_version_":1802170100460027904,
+        "timestamp":"2024-06-18T04:02:18.604Z"},
       {
         "id":"tam_141aspace_ref51",
         "ead_ssi":"tam_141",
@@ -182,8 +188,8 @@
         "unitdate_start_ssm":["1971"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 1972-2001"],
-        "_version_":1799780779868291072,
-        "timestamp":"2024-05-22T19:05:04.922Z"},
+        "_version_":1802170100469465088,
+        "timestamp":"2024-06-18T04:02:18.613Z"},
       {
         "id":"tam_141aspace_ref56",
         "ead_ssi":"tam_141",
@@ -202,8 +208,8 @@
         "unitdate_start_ssm":["1964"],
         "unitdate_end_ssm":["1998"],
         "unitdate_ssm":["Inclusive, 1964-1998"],
-        "_version_":1799780779879825408,
-        "timestamp":"2024-05-22T19:05:04.933Z"}]
+        "_version_":1802170100478902272,
+        "timestamp":"2024-06-18T04:02:18.622Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -211,7 +217,10 @@
       "repository_sim":[
         "tamwag",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "American Federation of Teachers. United Action Caucus",1,
+        "Filardo, Anne Levine, 1922-2010",1,
+        "Teachers Action Caucus",1],
       "date_range_sim":[
         "1901-2000",6,
         "2001-2100",2],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edward B. Hall mortgage agreement"],
         "unitid_ssm":["1974.218"],
         "abstract_ssm":["A mortgage agreement, dated 1899, for a piece of property in Brooklyn sold by William and Catherine S. Henneman to Edward B. Hall, of Glen Cove, Long Island. The agreement was prepared by Warren C. Hubbard of Rochester, NY."],
+        "creator_ssm":["Hall, Edward B.",
+          "Hall, Edward B."],
         "unitdate_normal_ssm":["1899/1899"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Brooklyn (New York, N.Y.)"],
@@ -64,8 +66,8 @@
         "unitdate_end_ssm":["1899"],
         "unitdate_ssm":["Inclusive, 1899"],
         "language_ssm":["English"],
-        "_version_":1799309976439619584,
-        "timestamp":"2024-05-17T14:21:51.784Z"}]
+        "_version_":1801960460495355904,
+        "timestamp":"2024-06-15T20:30:10.354Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hall, Edward B.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Narrows Sunday School record and minute book"],
         "unitid_ssm":["1988.011"],
         "abstract_ssm":["This collection consists of one item, a record and minute book kept by the Narrows Sunday School secretaries between 1834 and 1845. During this 11 year period, about 150 Sundays have recorded entries, with notes detailing class attendance by both teachers and students and frequent mention of the weather at the time. The behavior of the students as well as class trips, a sewing club, fundraising, collecting for missions, and exams are also noted."],
+        "creator_ssm":["Narrows Sunday School",
+          "Narrows Sunday School"],
         "unitdate_normal_ssm":["1834/1845"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Narrows Sunday School",
@@ -83,8 +85,8 @@
         "unitdate_end_ssm":["1845"],
         "unitdate_ssm":["Inclusive, 1834-1845"],
         "language_ssm":["English"],
-        "_version_":1799312275173015552,
-        "timestamp":"2024-05-17T14:58:24.027Z"}]
+        "_version_":1801963442832146432,
+        "timestamp":"2024-06-15T21:17:34.532Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +94,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Narrows Sunday School",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Edna Volck collection"],
         "unitid_ssm":["ARC.027"],
         "abstract_ssm":["The Edna Volck collection contains a scrapbook and photographs from the Volck family of Brooklyn, N.Y. during the late 19th and early 20th centuries."],
+        "creator_ssm":["Volck, Elizabeth Andrews",
+          "Volck, Edna",
+          "Cronshaw, Margery L.",
+          "Volck, Elizabeth Andrews",
+          "Volck, Edna",
+          "Cronshaw, Margery L."],
         "unitdate_normal_ssm":["1875/1986"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Consolidated Edison Company of New York, inc"],
@@ -73,8 +79,8 @@
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1875-1986"],
         "language_ssm":["English"],
-        "_version_":1775226599289913344,
-        "timestamp":"2023-08-25T18:26:53.544Z"}]
+        "_version_":1800602022648479744,
+        "timestamp":"2024-05-31T20:38:23.069Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +88,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cronshaw, Margery L.",1,
+        "Volck, Edna",1,
+        "Volck, Elizabeth Andrews",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

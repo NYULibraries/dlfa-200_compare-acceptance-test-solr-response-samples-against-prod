@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Pacuska Camp Tamiment Photographs"],
         "unitid_ssm":["PHOTOS.258"],
         "abstract_ssm":["John Pacuska worked as a waiter at Camp Tamiment, an educational and recreational summer resort for socialists and their families located near Bushkill, Pennsylvania. The collection consists of ten pages of laser photocopies of 13 black-and-white photographs dating from 1951 to 1963, with captions written by Pacuska. The images are mostly group shots of Pacuska and the wait staff at Camp Tamiment."],
+        "creator_ssm":["Camp Tamiment (Pa.)",
+          "Camp Tamiment (Pa.)"],
         "unitdate_normal_ssm":["1951/1963"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Camp Tamiment (Pa.)",
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["1951"],
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, 1951-1963"],
-        "_version_":1799776672286769152,
-        "timestamp":"2024-05-22T17:59:47.626Z"}]
+        "_version_":1802167106270134272,
+        "timestamp":"2024-06-18T03:14:43.122Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Camp Tamiment (Pa.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

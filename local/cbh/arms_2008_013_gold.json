@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":20,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lucille Fornasieri Gold photographs"],
         "unitid_ssm":["2008.013"],
         "abstract_ssm":["The 93 color and black and white and color photographs by amateur street photographer, Lucille Fornasieri Gold, were taken between 1968 and 2008. Gold's work is dominated by portraits of people who are posed and unposed, in the midst of various activities mostly in Brooklyn, but also in Manhattan and New Jersey.  Item-level description and digital versions of images from the collection are available for searching via our online image database."],
+        "creator_ssm":["Fornasieri Gold, Lucille",
+          "Fornasieri Gold, Lucille"],
         "unitdate_normal_ssm":["1968/2008",
           "1973/1985"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["2008",
           "1985"],
         "unitdate_ssm":["Inclusive, 1968 to 2008 ; 1973-1985"],
-        "_version_":1799256328603959296,
-        "timestamp":"2024-05-17T00:09:09.221Z"}]
+        "_version_":1801964033269563392,
+        "timestamp":"2024-06-15T21:26:57.617Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fornasieri Gold, Lucille",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

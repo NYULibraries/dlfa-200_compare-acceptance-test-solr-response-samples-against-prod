@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Henrietta Scherer Papers"],
         "unitid_ssm":["TAM.539"],
         "abstract_ssm":["Henrietta Scherer (1921-1990) was a social worker and at one time a Communist. This collection contains writings, correspondence, notebooks, and meeting minutes."],
+        "creator_ssm":["Scherer, Henrietta",
+          "Scherer, Henrietta"],
         "unitdate_normal_ssm":["1940/1949"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Young Men's Hebrew Association (New York, N.Y.)",
@@ -79,8 +81,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, circa 1940s"],
-        "_version_":1799791285547040768,
-        "timestamp":"2024-05-22T21:52:03.918Z"}]
+        "_version_":1802183350307258368,
+        "timestamp":"2024-06-18T07:32:54.643Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Scherer, Henrietta",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

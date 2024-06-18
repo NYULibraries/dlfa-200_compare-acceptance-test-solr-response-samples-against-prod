@@ -47,6 +47,8 @@
         "unittitle_ssm":["Julius Margolin Papers"],
         "unitid_ssm":["WAG.275"],
         "abstract_ssm":["Julius Margolin (1916-2009) was a merchant seaman, World War II veteran, film electrician, labor editor of Local 52 News, and IATSE Local 52's delegate to the New York City Labor Council beginning in 1973. Margolin organized for the CIO during the 1930s and 1940s, and continued to be active in social movements, including the New York City Labor Chorus, until late in life. The collection consists of a small amount of correspondence, including two letters from Harry Bridges of the ILWU, ephemera, photographs, and two honorary plaques pertaining to Margolin's work in unions and organizations including the International Longshoremen's and Warehouseman's Union (ILWU), New York City Central Labor Council, Council of Motion Picture Arts and Television Unions (COMPTU), and Local 52 IATSE."],
+        "creator_ssm":["Margolin, Julius",
+          "Margolin, Julius"],
         "unitdate_normal_ssm":["1940/2004"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Council of Motion Picture and Television Unions (New York, N.Y.)",
@@ -73,8 +75,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1940-2004"],
-        "_version_":1775219732095434752,
-        "timestamp":"2023-08-25T16:37:44.477Z"},
+        "_version_":1801338474357325824,
+        "timestamp":"2024-06-08T23:43:58.149Z"},
       {
         "id":"wag_275aspace_ref11",
         "ead_ssi":"wag_275",
@@ -90,8 +92,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["1st Annual Ernest DeMaio Award [Plaque]"],
         "unitdate_ssm":["Mar 23, 1991"],
-        "_version_":1775219732130037760,
-        "timestamp":"2023-08-25T16:37:44.51Z"},
+        "_version_":1801338474372005888,
+        "timestamp":"2024-06-08T23:43:58.163Z"},
       {
         "id":"wag_275aspace_ref12",
         "ead_ssi":"wag_275",
@@ -107,8 +109,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Theatrical Musical Association Award [Plaque]"],
         "unitdate_ssm":["undated"],
-        "_version_":1775219732245381120,
-        "timestamp":"2023-08-25T16:37:44.62Z"},
+        "_version_":1801338474408706048,
+        "timestamp":"2024-06-08T23:43:58.198Z"},
       {
         "id":"wag_275aspace_ref13",
         "ead_ssi":"wag_275",
@@ -124,8 +126,8 @@
         "location_ssm":["Box: Shared Tamiment MS001"],
         "heading_ssm":["Photographs"],
         "unitdate_ssm":["circa 1987, undated"],
-        "_version_":1775219732206583808,
-        "timestamp":"2023-08-25T16:37:44.583Z"},
+        "_version_":1801338474396123136,
+        "timestamp":"2024-06-08T23:43:58.186Z"},
       {
         "id":"wag_275aspace_ref14",
         "ead_ssi":"wag_275",
@@ -141,8 +143,8 @@
         "location_ssm":["Box: Shared Tamiment MS001"],
         "heading_ssm":["Correspondence, Ephemera, and Other Materials"],
         "unitdate_ssm":["circa 1960-2004"],
-        "_version_":1775219732173029376,
-        "timestamp":"2023-08-25T16:37:44.551Z"},
+        "_version_":1801338474383540224,
+        "timestamp":"2024-06-08T23:43:58.174Z"},
       {
         "id":"wag_275aspace_ref19",
         "ead_ssi":"wag_275",
@@ -162,8 +164,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, 1940-2006"],
-        "_version_":1775219732284178432,
-        "timestamp":"2023-08-25T16:37:44.657Z"}]
+        "_version_":1801338474422337536,
+        "timestamp":"2024-06-08T23:43:58.211Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -171,7 +173,8 @@
       "repository_sim":[
         "tamwag",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Margolin, Julius",1],
       "date_range_sim":[
         "1901-2000",2,
         "2001-2100",2,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Hosken Papers"],
         "unitid_ssm":["TAM.735"],
         "abstract_ssm":["John Hosken attended Harvard University from 1969 to 1973. He was a member of the Students for a Democratic Society and the Progressive Labor Party during his years as an undergraduate. The John Hosken Papers consist of flyers and leaflets distributed by the Students for a Democratic Society and the Progressive Labor Party on Harvard Universities campus from 1969 to 1973. These flyers and leaflets called for radical action against the Vietnam War, the Cambridge Project, and social injustice within the communities of Harvard University and Radcliffe College. Flyers advertising meetings advocating for squatters rights within the community of Boston, living wages for the service employees of the University, and mobilization for the 1969 March on Washington against the Vietnam War form the bulk of the collection. The collection also includes a press release, contact list, newsletter, and notes on committee logistics for the event that occurred in April 1989 to mark the 20th anniversary of the 1969 Harvard Building Occupation and Strike."],
+        "creator_ssm":["Hosken, John",
+          "Hosken, John"],
         "unitdate_normal_ssm":["1969/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Students for a Democratic Society (U.S.)",
@@ -73,8 +75,8 @@
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1969-1989"],
-        "_version_":1799792022866886656,
-        "timestamp":"2024-05-22T22:03:47.081Z"},
+        "_version_":1802184424864874496,
+        "timestamp":"2024-06-18T07:49:59.421Z"},
       {
         "id":"tam_735aspace_b712b40b6b2e6b1162e0aee6b921d12b",
         "ead_ssi":"tam_735",
@@ -88,14 +90,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 049, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: Shared Tamiment 049, Folder: 4"],
         "heading_ssm":["Dear 1969 Harvard Strike Veterans"],
         "unitdate_start_ssm":["1988"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1988-1989"],
-        "_version_":1799792022913024000,
-        "timestamp":"2024-05-22T22:03:47.125Z"},
+        "_version_":1802184424895283200,
+        "timestamp":"2024-06-18T07:49:59.45Z"},
       {
         "id":"tam_735aspace_cb9c4de75b0ce7a1d655a6f88b9c3c59",
         "ead_ssi":"tam_735",
@@ -109,15 +110,14 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2-5",
-          "Folder: 2-5"],
+        "location_ssm":["Box: 1, Folder: 2-5"],
         "heading_ssm":["Students for a Democratic Society Leaflets"],
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, 1969-1970"],
         "language_ssm":["English"],
-        "_version_":1799792022895198208,
-        "timestamp":"2024-05-22T22:03:47.108Z"},
+        "_version_":1802184424882700288,
+        "timestamp":"2024-06-18T07:49:59.438Z"},
       {
         "id":"tam_735aspace_edc8bd2b4e73294fcd3d3eb622ed03e2",
         "ead_ssi":"tam_735",
@@ -131,15 +131,14 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-2",
-          "Folder: 1-2"],
+        "location_ssm":["Box: 1, Folder: 1-2"],
         "heading_ssm":["Harvard - Radcliffe Political Action Leaflets"],
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1969-1986"],
         "language_ssm":["English"],
-        "_version_":1799792022882615296,
-        "timestamp":"2024-05-22T22:03:47.096Z"}]
+        "_version_":1802184424874311680,
+        "timestamp":"2024-06-18T07:49:59.43Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -147,7 +146,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hosken, John",1],
       "date_range_sim":[
         "1901-2000",4],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":41,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jessie Taft Smith Papers"],
         "unitid_ssm":["TAM.676"],
         "abstract_ssm":["Jessie Taft Smith (1914- ) is an activist and organizer based in New York City. She was a member of the Communist Party of the United States' (CPUSA) pioneer movement, and during her youth she helped organize in laundries and participated in garment strikes. This collection consists of materials created and collected by Smith documenting her family, personal life, union organizing, involvement with the CPUSA, and advocacy for tenants rights in New York City in the late 20th century, with her involvement with the Park Terrace Tenants Association particularly prominent. Housing issues such as landlord relations, rent increases, physical condition of apartments, repairs and habitality are addressed. The collection includes artifacts, correspondence, memoranda, flyers, handbooks, pamphlets, magazines, and audio cassettes."],
+        "creator_ssm":["Smith, Jessie Taft",
+          "Smith, Jessie Taft"],
         "unitdate_normal_ssm":["1929/2007"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Smith, Jessie Taft",
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["2007"],
         "unitdate_ssm":["Inclusive, circa 1929-2007"],
-        "_version_":1775219858320916480,
-        "timestamp":"2023-08-25T16:39:44.855Z"},
+        "_version_":1801282777531809792,
+        "timestamp":"2024-06-08T08:58:41.516Z"},
       {
         "id":"tam_676aspace_fc0e219036716c1c7176d4012cfdf864",
         "ead_ssi":"tam_676",
@@ -82,12 +84,11 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment 018, Folder: 10",
-          "Folder: 10",
           "Box: Shared Tamiment 004"],
         "heading_ssm":["May Day Parade Photographs"],
         "unitdate_ssm":["undated"],
-        "_version_":1775219858601934848,
-        "timestamp":"2023-08-25T16:39:45.123Z"},
+        "_version_":1801282777709019136,
+        "timestamp":"2024-06-08T08:58:41.686Z"},
       {
         "id":"tam_676aspace_ref14",
         "ead_ssi":"tam_676",
@@ -106,8 +107,8 @@
           "Box: 10"],
         "heading_ssm":["Personal and Family Materials"],
         "unitdate_ssm":["circa 1921-1979"],
-        "_version_":1775219858360762368,
-        "timestamp":"2023-08-25T16:39:44.893Z"},
+        "_version_":1801282777555927040,
+        "timestamp":"2024-06-08T08:58:41.54Z"},
       {
         "id":"tam_676aspace_ref15",
         "ead_ssi":"tam_676",
@@ -124,8 +125,8 @@
           "Box: 3"],
         "heading_ssm":["Trip to USSR"],
         "unitdate_ssm":["1929"],
-        "_version_":1775219858397462528,
-        "timestamp":"2023-08-25T16:39:44.928Z"},
+        "_version_":1801282777570607104,
+        "timestamp":"2024-06-08T08:58:41.554Z"},
       {
         "id":"tam_676aspace_ref16",
         "ead_ssi":"tam_676",
@@ -141,8 +142,8 @@
         "location_ssm":["Box: 4"],
         "heading_ssm":["Pamphlets and Magazines"],
         "unitdate_ssm":["circa 1950-1990"],
-        "_version_":1775219858433114112,
-        "timestamp":"2023-08-25T16:39:44.962Z"},
+        "_version_":1801282777584238592,
+        "timestamp":"2024-06-08T08:58:41.567Z"},
       {
         "id":"tam_676aspace_ref17",
         "ead_ssi":"tam_676",
@@ -161,8 +162,8 @@
           "Box: 5"],
         "heading_ssm":["Tenants Rights Materials"],
         "unitdate_ssm":["circa 1970-2006"],
-        "_version_":1775219858470862848,
-        "timestamp":"2023-08-25T16:39:44.998Z"},
+        "_version_":1801282777601015808,
+        "timestamp":"2024-06-08T08:58:41.583Z"},
       {
         "id":"tam_676aspace_ref18",
         "ead_ssi":"tam_676",
@@ -178,8 +179,8 @@
         "location_ssm":["Box: 9"],
         "heading_ssm":["MA-RK (Marble Hill, Riverdale, Kingsbridge) Committee for Civil Rights"],
         "unitdate_ssm":["circa 1952-1968"],
-        "_version_":1775219858506514432,
-        "timestamp":"2023-08-25T16:39:45.032Z"},
+        "_version_":1801282777618841600,
+        "timestamp":"2024-06-08T08:58:41.599Z"},
       {
         "id":"tam_676aspace_ref19",
         "ead_ssi":"tam_676",
@@ -195,8 +196,8 @@
         "location_ssm":["Box: 11"],
         "heading_ssm":["Buttons"],
         "unitdate_ssm":["undated"],
-        "_version_":1775219858551603200,
-        "timestamp":"2023-08-25T16:39:45.075Z"}]
+        "_version_":1801282777639813120,
+        "timestamp":"2024-06-08T08:58:41.62Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -204,7 +205,8 @@
       "repository_sim":[
         "tamwag",8],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Smith, Jessie Taft",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

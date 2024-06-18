@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Howard and Meital Teitelman photograph collection"],
         "unitid_ssm":["PR 386"],
         "abstract_ssm":["This collection consists of 13 photographs by various photographers: Arnold Eagle, Jill Freedman, Morris Huberland, Consuelo Kanaga, and Barton Silverman. The images date from circa 1860 to 1976, and include New York City street scenes and portraits."],
+        "creator_ssm":["Teitelman, Howard",
+          "Teitelman, Howard"],
         "corpname_ssm":["New-York Historical Society"],
         "geogname_ssm":["Lower East Side (New York, N.Y.)",
           "Manhattan (New York, N.Y.) --  Photographs."],
@@ -62,8 +64,8 @@
         "heading_ssm":["Howard and Meital Teitelman photograph collection"],
         "unitdate_ssm":["Inclusive, circa 1860-1976"],
         "language_ssm":["English"],
-        "_version_":1799330195981729792,
-        "timestamp":"2024-05-17T19:43:14.641Z"},
+        "_version_":1802094513688150016,
+        "timestamp":"2024-06-17T08:00:53.441Z"},
       {
         "id":"pr386_teitelmanaspace_38d91870ffeab263d477113b0c9d0c09",
         "ead_ssi":"pr386_teitelman",
@@ -79,8 +81,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Freedman, Jill"],
         "unitdate_ssm":["Inclusive, circa 1975"],
-        "_version_":1799330196016332800,
-        "timestamp":"2024-05-17T19:43:14.675Z"},
+        "_version_":1802094513734287360,
+        "timestamp":"2024-06-17T08:00:53.485Z"},
       {
         "id":"pr386_teitelmanaspace_39561e518b3dd915450877284c8c1c96",
         "ead_ssi":"pr386_teitelman",
@@ -96,8 +98,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Silverman, Barton"],
         "unitdate_ssm":["Inclusive, 1976"],
-        "_version_":1799330196084490240,
-        "timestamp":"2024-05-17T19:43:14.74Z"},
+        "_version_":1802094513795104768,
+        "timestamp":"2024-06-17T08:00:53.543Z"},
       {
         "id":"pr386_teitelmanaspace_af98772114824a248629372af49037a9",
         "ead_ssi":"pr386_teitelman",
@@ -113,8 +115,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Huberland, Morris"],
         "unitdate_ssm":["Inclusive, circa 1930"],
-        "_version_":1799330196042547200,
-        "timestamp":"2024-05-17T19:43:14.7Z"},
+        "_version_":1802094513752113152,
+        "timestamp":"2024-06-17T08:00:53.502Z"},
       {
         "id":"pr386_teitelmanaspace_ba93e587747fa8bf7b9d47e47d03c14f",
         "ead_ssi":"pr386_teitelman",
@@ -130,8 +132,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Eagle, Arnold"],
         "unitdate_ssm":["Inclusive, circa 1930"],
-        "_version_":1799330195999555584,
-        "timestamp":"2024-05-17T19:43:14.659Z"},
+        "_version_":1802094513714364416,
+        "timestamp":"2024-06-17T08:00:53.466Z"},
       {
         "id":"pr386_teitelmanaspace_cadf37f1d87adc818c59a2f5bcf3cba5",
         "ead_ssi":"pr386_teitelman",
@@ -147,8 +149,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Kanaga, Consuelo"],
         "unitdate_ssm":["Inclusive, 1935"],
-        "_version_":1799330196062470144,
-        "timestamp":"2024-05-17T19:43:14.719Z"},
+        "_version_":1802094513780424704,
+        "timestamp":"2024-06-17T08:00:53.529Z"},
       {
         "id":"pr386_teitelmanaspace_f63f55581759d0a0fa10990388dcb173",
         "ead_ssi":"pr386_teitelman",
@@ -164,8 +166,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["unidentified "],
         "unitdate_ssm":["Inclusive, circa 1860"],
-        "_version_":1799330196103364608,
-        "timestamp":"2024-05-17T19:43:14.758Z"}]
+        "_version_":1802094513815027712,
+        "timestamp":"2024-06-17T08:00:53.562Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -173,7 +175,8 @@
       "repository_sim":[
         "nyhs",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Teitelman, Howard",1],
       "date_range_sim":[
         "undated & other",7],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Richard A. Girard Papers"],
         "unitid_ssm":["MC.107"],
         "abstract_ssm":["Richard A. Girard (1903-2003) was a professor of economics at Washington Square College and New York University, between 1928 and 1972.  The Richard A. Girard Papers document Girard's experiences as a member of the New York University (NYU) community, starting as a student at the Washington Square College (WSC) in the 1920s through his retirement from the Graduate School of Arts and Sciences at NYU in 1972.  The material dates from 1916 to 1988, with the bulk of the material dating from 1981 to 1988, and includes Girard's memoirs, programs, clippings, newspapers, newsletters, correspondence, and photographs."],
+        "creator_ssm":["Girard, Richard A.",
+          "Girard, Richard A."],
         "unitdate_normal_ssm":["1916/1988"],
         "corpname_ssm":["New York University Archives",
           "New York University -- Alumni and alumnae",
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1916"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1916-1988"],
-        "_version_":1799256039228440576,
-        "timestamp":"2024-05-17T00:04:33.251Z"},
+        "_version_":1801945722224902144,
+        "timestamp":"2024-06-15T16:35:54.844Z"},
       {
         "id":"mc_107aspace_0ac82d3ed46cf3f681461bdce82f28a1",
         "ead_ssi":"mc_107",
@@ -80,14 +82,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-21",
-          "Folder: 1-21"],
+        "location_ssm":["Box: 1, Folder: 1-21"],
         "heading_ssm":["Richard A. Girard Papers"],
         "unitdate_start_ssm":["1916"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1916-1988"],
-        "_version_":1799256039251509248,
-        "timestamp":"2024-05-17T00:04:33.273Z"}]
+        "_version_":1801945722246922240,
+        "timestamp":"2024-06-15T16:35:54.865Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +96,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Girard, Richard A.",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

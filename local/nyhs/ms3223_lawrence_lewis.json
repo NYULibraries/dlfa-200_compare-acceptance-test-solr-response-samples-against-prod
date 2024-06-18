@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lewis Lawrence diaries"],
         "unitid_ssm":["MS 3223"],
         "abstract_ssm":["Pocket diaries of Irish immigrant Lewis Peter Lawrence (1850-1913), a devout Methodist, dry-goods merchant, and real estate speculator who lived in Harlem and the Bronx at the end of the 19th century. The diaries record his work and religious activities, and his involvement with the Harrisonville Cooperative Building Association, which apparently developed properties in the Mott Haven section of the Bronx."],
+        "creator_ssm":["Lawrence, Lewis Peter, 1850-1913.",
+          "Lawrence, Lewis Peter, 1850-1913."],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Diaries."],
         "geogname_ssm":["Bronx (New York, N.Y.)",
@@ -65,8 +67,8 @@
         "material_type_ssm":["Diaries."],
         "heading_ssm":["Lewis Lawrence diaries"],
         "unitdate_ssm":["Inclusive, 1887-1890"],
-        "_version_":1799315406900428800,
-        "timestamp":"2024-05-17T15:48:10.675Z"},
+        "_version_":1802086206475862016,
+        "timestamp":"2024-06-17T05:48:51.066Z"},
       {
         "id":"ms3223_lawrence_lewisaspace_0e8fd23d68aca4183aa7d0b5a68ab156",
         "ead_ssi":"ms3223_lawrence_lewis",
@@ -79,12 +81,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Offsite-Box: 1, Folder: 3"],
         "heading_ssm":["Lewis Lawrence diary"],
         "unitdate_ssm":["Inclusive, 1889"],
-        "_version_":1799315407015772160,
-        "timestamp":"2024-05-17T15:48:10.785Z"},
+        "_version_":1802086206531436544,
+        "timestamp":"2024-06-17T05:48:51.118Z"},
       {
         "id":"ms3223_lawrence_lewisaspace_2a21bc32d2ce25e590c610c19856096d",
         "ead_ssi":"ms3223_lawrence_lewis",
@@ -97,12 +98,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Offsite-Box: 1, Folder: 1"],
         "heading_ssm":["Lewis Lawrence diary"],
         "unitdate_ssm":["Inclusive, 1887"],
-        "_version_":1799315406944468992,
-        "timestamp":"2024-05-17T15:48:10.717Z"},
+        "_version_":1802086206498930688,
+        "timestamp":"2024-06-17T05:48:51.087Z"},
       {
         "id":"ms3223_lawrence_lewisaspace_6b84a948d518512f0b93e31870890e62",
         "ead_ssi":"ms3223_lawrence_lewis",
@@ -115,12 +115,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Offsite-Box: 1, Folder: 4"],
         "heading_ssm":["Lewis Lawrence diary"],
         "unitdate_ssm":["Inclusive, 1890"],
-        "_version_":1799315407054569472,
-        "timestamp":"2024-05-17T15:48:10.822Z"},
+        "_version_":1802086206557650944,
+        "timestamp":"2024-06-17T05:48:51.144Z"},
       {
         "id":"ms3223_lawrence_lewisaspace_b74d9cae0cfebfe2ea18164e8c597a83",
         "ead_ssi":"ms3223_lawrence_lewis",
@@ -133,12 +132,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Offsite-Box: 1, Folder: 2"],
         "heading_ssm":["Lewis Lawrence diary"],
         "unitdate_ssm":["Inclusive, 1888"],
-        "_version_":1799315406980120576,
-        "timestamp":"2024-05-17T15:48:10.751Z"}]
+        "_version_":1802086206514659328,
+        "timestamp":"2024-06-17T05:48:51.103Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -146,7 +144,8 @@
       "repository_sim":[
         "nyhs",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lawrence, Lewis Peter, 1850-1913.",1],
       "date_range_sim":[
         "undated & other",5],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Stephen C. Vladeck Papers"],
         "unitid_ssm":["WAG.284"],
         "abstract_ssm":["Stephen C. Vladeck was the husband of Judith Vladeck and worked as a labor and civil rights lawyer and collective bargainer in higher education. This collection contains some of Vladeck's personal and professional correspondence from the 1960s to 1970s."],
+        "creator_ssm":["Vladeck, Stephen C.",
+          "Vladeck, Stephen C."],
         "unitdate_normal_ssm":["1960/1978"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Vladeck, Stephen C.",
@@ -62,8 +64,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1960-1978"],
-        "_version_":1775222239825756160,
-        "timestamp":"2023-08-25T17:17:36.035Z"},
+        "_version_":1801340365153763328,
+        "timestamp":"2024-06-09T00:14:01.353Z"},
       {
         "id":"wag_284aspace_ref10",
         "ead_ssi":"wag_284",
@@ -82,8 +84,8 @@
         "unitdate_start_ssm":["1965"],
         "unitdate_end_ssm":["1966"],
         "unitdate_ssm":["Inclusive, 1965-1966"],
-        "_version_":1775222239864553472,
-        "timestamp":"2023-08-25T17:17:36.072Z"},
+        "_version_":1801340365174734848,
+        "timestamp":"2024-06-09T00:14:01.373Z"},
       {
         "id":"wag_284aspace_ref11",
         "ead_ssi":"wag_284",
@@ -102,8 +104,8 @@
         "unitdate_start_ssm":["1965"],
         "unitdate_end_ssm":["1966"],
         "unitdate_ssm":["Inclusive, 1965-1966"],
-        "_version_":1775222239901253632,
-        "timestamp":"2023-08-25T17:17:36.107Z"},
+        "_version_":1801340365197803520,
+        "timestamp":"2024-06-09T00:14:01.395Z"},
       {
         "id":"wag_284aspace_ref12",
         "ead_ssi":"wag_284",
@@ -122,8 +124,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1961"],
         "unitdate_ssm":["Inclusive, 1960-1961"],
-        "_version_":1775222239951585280,
-        "timestamp":"2023-08-25T17:17:36.155Z"},
+        "_version_":1801340365220872192,
+        "timestamp":"2024-06-09T00:14:01.417Z"},
       {
         "id":"wag_284aspace_ref13",
         "ead_ssi":"wag_284",
@@ -142,8 +144,8 @@
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1977-1978"],
-        "_version_":1775222239989334016,
-        "timestamp":"2023-08-25T17:17:36.191Z"}]
+        "_version_":1801340365254426624,
+        "timestamp":"2024-06-09T00:14:01.449Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -151,7 +153,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Vladeck, Stephen C.",1],
       "date_range_sim":[
         "1901-2000",5],
       "subject_sim":[],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["Samuel (Sam) Meyers Papers and Photographs"],
         "unitid_ssm":["WAG.322"],
         "abstract_ssm":["This small collection consists of correspondence and union publications (mainly newsletters) from Samuel Meyers's tenure as the president of Local 259 of the United Automobile Workers (UAW), as well as biographical information about Meyers generated after his death. Born in Brooklyn, Samuel (Sam) Meyers initially worked for Local 259 of the United Automobile Workers (UAW) as an organizer before becoming president of the union in 1958, a position he held until 1995. Photographs of Meyers with various political leaders, mostly from the 1960s and 1970s, make up a large portion of the collection. The collection also contains a gavel and two awards given to Meyers."],
+        "creator_ssm":["Meyers, Samuel (Sam), d. 2001",
+          "Meyers, Samuel (Sam), d. 2001"],
         "unitdate_normal_ssm":["1959/2004"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. Local 259",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, circa 1959 - 2004"],
         "language_ssm":["English"],
-        "_version_":1799805066249502720,
-        "timestamp":"2024-05-23T01:31:06.22Z"}]
+        "_version_":1802197218234466304,
+        "timestamp":"2024-06-18T11:13:20.129Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Meyers, Samuel (Sam), d. 2001",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

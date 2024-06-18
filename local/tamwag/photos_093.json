@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Alexander Lurkis Photographs"],
         "unitid_ssm":["PHOTOS.093"],
         "abstract_ssm":["Alexander Lurkis was a civil engineer and original member of the Civil Service Technical Guild, founded in 1937. From 1956-1958 Lurkis was president of AFSCME Local 375, the Civil Service Technical Guild. The collection consists of ten black and white photographs from the 1930s (circa) to the 1950s picturing Alexander Lurkis with other members of the Civil Service Technical Guild at conventions and retreats, and from the installation of Lurkin as president of AFSCME Local 375, the Civil Service Technical Guild."],
+        "creator_ssm":["Lurkis, Alexander",
+          "Lurkis, Alexander"],
         "unitdate_normal_ssm":["1938/1957"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Civil Service Technical Guild",
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1938"],
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["Inclusive, 1938-1957"],
-        "_version_":1799333411294281728,
-        "timestamp":"2024-05-17T20:34:21.003Z"},
+        "_version_":1802141851762819072,
+        "timestamp":"2024-06-17T20:33:18.547Z"},
       {
         "id":"photos_093aspace_ref13",
         "ead_ssi":"photos_093",
@@ -82,8 +84,8 @@
         "location_ssm":["Box: Shared Tamiment A003"],
         "heading_ssm":["Group Photographs and Candids"],
         "unitdate_ssm":["1938-1957, undated"],
-        "_version_":1799333411307913216,
-        "timestamp":"2024-05-17T20:34:21.016Z"}]
+        "_version_":1802141851773304832,
+        "timestamp":"2024-06-17T20:33:18.557Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lurkis, Alexander",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Samuel Chester Reid collection"],
         "unitid_ssm":["1973.179"],
         "abstract_ssm":["This collection consists of a photostat copy of Samuel Chester Reid's petition to Congress for the establishment of a line of telegraphs from New York to New Orleans.  Additional items include programs from the 1956 dedication of the Samuel Chester Reid Monument in Brooklyn's Green-Wood Cemetery, as well as a transcript of a speech given by Charles S. Thomas, Secretary of the Navy, at the ceremony.  A map of Green-Wood Cemetery marking the location of the Reid monument is also included."],
+        "creator_ssm":["Reid, Samuel Chester",
+          "Thomas, Charles S.",
+          "Reid, Samuel Chester",
+          "Thomas, Charles S."],
         "unitdate_normal_ssm":["1837/1956"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Green-Wood Cemetery (New York, N.Y.)"],
@@ -75,8 +79,8 @@
         "unitdate_end_ssm":["1956"],
         "unitdate_ssm":["Inclusive, 1837-1956"],
         "language_ssm":["English"],
-        "_version_":1799311558041403392,
-        "timestamp":"2024-05-17T14:47:00.117Z"}]
+        "_version_":1801960036217389056,
+        "timestamp":"2024-06-15T20:23:25.731Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +88,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Reid, Samuel Chester",1,
+        "Thomas, Charles S.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

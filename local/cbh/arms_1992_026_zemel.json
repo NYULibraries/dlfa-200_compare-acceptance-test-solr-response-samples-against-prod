@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Zemel family collection"],
         "unitid_ssm":["1992.026"],
         "abstract_ssm":["This collection includes one Air National Guard Discharge for Alexander Zemel (Oct. 30, 1956) and one Board of Elections voter registration card for Anna Zemel. Alexander and Anna Zemel lived at 223 Montawk Avenue in Brooklyn.  Alexander served in the 106th Food Service Squad at Floyd Bennett Air Field, NY (Oct. 31, 1953-Oct. 30, 1956)."],
+        "creator_ssm":["Zemel family",
+          "Zemel family"],
         "unitdate_normal_ssm":["1956/1957"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Zemel family"],
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["Inclusive, 1956-1957"],
         "language_ssm":["English"],
-        "_version_":1799311646492983296,
-        "timestamp":"2024-05-17T14:48:24.471Z"}]
+        "_version_":1801963703994679296,
+        "timestamp":"2024-06-15T21:21:43.596Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Zemel family",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Center for Multicultural Education and Programs Records"],
         "unitid_ssm":["RG.12.10"],
         "abstract_ssm":["This collection contains the archived website for the Center for Multicultural Education and Programs (CMEP). CMEP provides programming and education that support studens of color and other students from marginalized and underrepresented backgrounds."],
+        "creator_ssm":["New York University. Center for Multicultural Education and Programs",
+          "New York University. Center for Multicultural Education and Programs"],
         "unitdate_normal_ssm":["2019-06-19/2019-07-30"],
         "corpname_ssm":["New York University Archives",
           "New York University. Center for Multicultural Education and Programs"],
@@ -64,8 +66,8 @@
         "material_type_ssm":["Web sites."],
         "heading_ssm":["Center for Multicultural Education and Programs Records"],
         "unitdate_ssm":["Inclusive, 2019"],
-        "_version_":1775222050717171712,
-        "timestamp":"2023-08-25T17:14:35.686Z"},
+        "_version_":1800564901945540608,
+        "timestamp":"2024-05-31T10:48:22.008Z"},
       {
         "id":"rg_12_10aspace_a83925c9a10ebf2a382eec4413cebd8a",
         "ead_ssi":"rg_12_10",
@@ -83,8 +85,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["Inclusive, 2019"],
-        "_version_":1775222050763309056,
-        "timestamp":"2023-08-25T17:14:35.731Z"}]
+        "_version_":1800564901966512128,
+        "timestamp":"2024-05-31T10:48:22.028Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +95,8 @@
         "archives",2],
       "dao_sim":[
         "Translation missing: en.ead_indexer.fields.dao",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Center for Multicultural Education and Programs",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

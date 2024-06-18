@@ -47,6 +47,12 @@
         "unittitle_ssm":["Harriet Stryker-Rodda collection on John D. Scott and Edward Van Altena's song slides"],
         "unitid_ssm":["1977.272"],
         "abstract_ssm":["This collection consists of materials compiled by Harriet Stryker-Rodda, archivist at the Long Island Historical Society (LIHS, later the Brooklyn Historical Society), in 1964 and 1965.  The materials were compiled in preparation for an exhibit at LIHS on the song slides of John D. Scott and Edward Van Altena, though the exhibit was never realized."],
+        "creator_ssm":["Scott, John D.",
+          "Stryker-Rodda, Harriet",
+          "Van Altena, Edward",
+          "Scott, John D.",
+          "Stryker-Rodda, Harriet",
+          "Van Altena, Edward"],
         "unitdate_normal_ssm":["1910/1965"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Biographies",
@@ -82,8 +88,8 @@
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1910-1965"],
         "language_ssm":["English"],
-        "_version_":1799256312405557248,
-        "timestamp":"2024-05-17T00:08:53.773Z"}]
+        "_version_":1801961220879679488,
+        "timestamp":"2024-06-15T20:42:15.512Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +97,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Scott, John D.",1,
+        "Stryker-Rodda, Harriet",1,
+        "Van Altena, Edward",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

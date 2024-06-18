@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":29,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -120,8 +120,8 @@
           "1960"],
         "unitdate_ssm":["Inclusive, 1891-2009 ; 1920-1960"],
         "language_ssm":["English"],
-        "_version_":1775219352139726848,
-        "timestamp":"2023-08-25T16:31:42.112Z"},
+        "_version_":1800817192276590592,
+        "timestamp":"2024-06-03T05:38:24.816Z"},
       {
         "id":"arms_2016_015_baroneaspace_ref10_dwa",
         "ead_ssi":"arms_2016_015_barone",
@@ -139,8 +139,8 @@
         "unitdate_start_ssm":["1942"],
         "unitdate_end_ssm":["1956"],
         "unitdate_ssm":["Inclusive, 1942-1956"],
-        "_version_":1775219352200544256,
-        "timestamp":"2023-08-25T16:31:42.181Z"},
+        "_version_":1800817192292319232,
+        "timestamp":"2024-06-03T05:38:24.832Z"},
       {
         "id":"arms_2016_015_baroneaspace_ref11_dgn",
         "ead_ssi":"arms_2016_015_barone",
@@ -158,8 +158,8 @@
         "unitdate_start_ssm":["1891"],
         "unitdate_end_ssm":["1961"],
         "unitdate_ssm":["Inclusive, 1891-1961"],
-        "_version_":1775219352243535872,
-        "timestamp":"2023-08-25T16:31:42.221Z"},
+        "_version_":1800817192304902144,
+        "timestamp":"2024-06-03T05:38:24.844Z"},
       {
         "id":"arms_2016_015_baroneaspace_ref12_tfq",
         "ead_ssi":"arms_2016_015_barone",
@@ -177,8 +177,8 @@
         "unitdate_start_ssm":["1941"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1941-1984"],
-        "_version_":1775219352289673216,
-        "timestamp":"2023-08-25T16:31:42.266Z"},
+        "_version_":1800817192324825088,
+        "timestamp":"2024-06-03T05:38:24.863Z"},
       {
         "id":"arms_2016_015_baroneaspace_ref13_nz2",
         "ead_ssi":"arms_2016_015_barone",
@@ -196,8 +196,8 @@
         "unitdate_start_ssm":["1922"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1922-2009"],
-        "_version_":1775219352334761984,
-        "timestamp":"2023-08-25T16:31:42.309Z"},
+        "_version_":1800817192356282368,
+        "timestamp":"2024-06-03T05:38:24.892Z"},
       {
         "id":"arms_2016_015_baroneaspace_ref14_fug",
         "ead_ssi":"arms_2016_015_barone",
@@ -215,8 +215,8 @@
         "unitdate_start_ssm":["1913"],
         "unitdate_end_ssm":["1916"],
         "unitdate_ssm":["Inclusive, 1913-1963"],
-        "_version_":1775219352376705024,
-        "timestamp":"2023-08-25T16:31:42.349Z"}]
+        "_version_":1800817192370962432,
+        "timestamp":"2024-06-03T05:38:24.907Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

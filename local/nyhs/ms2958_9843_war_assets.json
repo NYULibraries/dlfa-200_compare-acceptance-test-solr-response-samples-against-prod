@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":16,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["War Assets Administration surplus property offerings"],
         "unitid_ssm":["AHMC - War Assets Administration"],
         "abstract_ssm":["Three printed forms, each dated August 19, 1946, offering surplus property to federal agencies, certified veterans of World War II, Reconstruction Finance Corporation (for small business), state and local governments and instrumentalities thereof, and tax-exempt non-profit organizations. The specific items offered were sweaters/jerseys, blankets (used), and pocket combs. The offering sheets include descriptions of the property, quantity in each package shipped, price, shipping terms, and other notes. Also in the folder is a sheet of instructions for the preparation of purchase orders for surplus property and a form for certifications by priority claimants.\n\n \nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: War Assets Administration surplus property offerings"],
+        "creator_ssm":["United States. War Assets Administration. Region 2",
+          "United States. War Assets Administration. Region 2"],
         "corpname_ssm":["New-York Historical Society",
           "United States. War Assets Administration. Region 2"],
         "collection_ssm":["War Assets Administration surplus property offerings"],
@@ -58,8 +60,8 @@
         "heading_ssm":["War Assets Administration surplus property offerings"],
         "unitdate_ssm":["Inclusive, 1946"],
         "language_ssm":["English"],
-        "_version_":1799316225476526080,
-        "timestamp":"2024-05-17T16:01:11.33Z"}]
+        "_version_":1802083795239698432,
+        "timestamp":"2024-06-17T05:10:31.532Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. War Assets Administration. Region 2",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

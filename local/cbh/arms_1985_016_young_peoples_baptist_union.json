@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Young People's Baptist Union of Brooklyn annual reports"],
         "unitid_ssm":["1986.015"],
         "abstract_ssm":["The Young People's Baptist Union of Brooklyn annual reports span the period 1882 to 1945.  The reports are supplemented with the Union's constitution and bylaws, as well as directories of officers, delegates, and committees.  The Union was organized in 1877 and was comprised of young members of Brooklyn's several Baptist churches.  Its work was devoted to Christian fellowship and community service, and among its various activities was the conducting of a summer camp and retreat."],
+        "creator_ssm":["Young People's Baptist Union of Brooklyn",
+          "Young People's Baptist Union of Brooklyn and Long Island",
+          "Young People's Baptist Union of Brooklyn",
+          "Young People's Baptist Union of Brooklyn and Long Island"],
         "unitdate_normal_ssm":["1882/1945"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Young People's Baptist Union of Brooklyn",
@@ -81,8 +85,8 @@
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, 1882-1945"],
         "language_ssm":["English"],
-        "_version_":1799309973501509632,
-        "timestamp":"2024-05-17T14:21:48.982Z"}]
+        "_version_":1801962929104355328,
+        "timestamp":"2024-06-15T21:09:24.603Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +94,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Young People's Baptist Union of Brooklyn",1,
+        "Young People's Baptist Union of Brooklyn and Long Island",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

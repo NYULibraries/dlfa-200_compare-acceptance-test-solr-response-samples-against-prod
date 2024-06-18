@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":17,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sally Genn Papers"],
         "unitid_ssm":["WAG.330"],
         "abstract_ssm":["Sally Genn (1920-1985) was a labor publicist and activist. She worked as an assistant to several secretaries of the New York City Central Labor Council, edited the Council's Trade Union Handbook, and was managing editor of its monthly Labor Chronicle. Genn was also active in the Newspaper Guild of New York and the Labor Theater. Notes, correspondence, programs, news clippings, conference materials, photographs, posters and fliers, and other materials highlight Genn's role in the New York City Central Labor Council, particularly her collaboration with various theatrical unions on behalf of the Council, and also document the Council, performing arts groups, and the labor movement in New York City more generally."],
+        "creator_ssm":["Genn, Sally, 1920-1985",
+          "Genn, Sally, 1920-1985"],
         "unitdate_normal_ssm":["1913/1982",
           "1942/1982"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -70,8 +72,8 @@
           "1942"],
         "unitdate_end_ssm":["1982"],
         "unitdate_ssm":["Inclusive, 1913-1982 ; 1942-1982"],
-        "_version_":1799805091963731968,
-        "timestamp":"2024-05-23T01:31:30.743Z"}]
+        "_version_":1802197235485638656,
+        "timestamp":"2024-06-18T11:13:36.581Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Genn, Sally, 1920-1985",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Flatbush Socialist Party leaflet"],
         "unitid_ssm":["1992.027"],
         "abstract_ssm":["A leaflet produced by the Flatbush Socialist Party. Issued after the advent of the New Deal, this leaflet promotes the Socialist Party of Flatbush, NY, as a force to empower the public to demand livable wages for the average American worker. The Flatbush Socialist Party met regularly on Monday evenings at the Colby Academy at the corner of Snyder and Bedford Avenues in Brooklyn."],
+        "creator_ssm":["Flatbush Socialist Party",
+          "Flatbush Socialist Party"],
         "unitdate_normal_ssm":["1920/1949"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Flatbush Socialist Party"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, circa 1930 to 1939"],
         "language_ssm":["English"],
-        "_version_":1799311732290617344,
-        "timestamp":"2024-05-17T14:49:46.294Z"}]
+        "_version_":1801963707071201280,
+        "timestamp":"2024-06-15T21:21:46.53Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Flatbush Socialist Party",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Amedeo Zecca papers and photographs"],
         "unitid_ssm":["ARC.207"],
         "abstract_ssm":["The Amedeo Zecca papers and photographs date from 1943 to 1956 and are contained in three folders. The collection contains documents and images relating to Zecca's work as a tailor for the U.S. Naval Clothing Depot."],
+        "creator_ssm":["Zecca, Amedeo",
+          "Zecca, Amedeo"],
         "unitdate_normal_ssm":["1943/1956"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Merchant Tailors and Designers Association of America",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1956"],
         "unitdate_ssm":["Inclusive, 1943-1956"],
         "language_ssm":["English"],
-        "_version_":1799256184762400768,
-        "timestamp":"2024-05-17T00:06:52.043Z"}]
+        "_version_":1801959390382653440,
+        "timestamp":"2024-06-15T20:13:09.815Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Zecca, Amedeo",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

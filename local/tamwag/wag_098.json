@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Joseph Califf Papers"],
         "unitid_ssm":["WAG.098"],
+        "creator_ssm":["Califf, Joseph, 1911-",
+          "Califf, Joseph, 1911-"],
         "unitdate_normal_ssm":["1936/1977",
           "1936/1950"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -70,8 +72,8 @@
           "1950"],
         "unitdate_ssm":["Inclusive, 1936-1977 ; 1936-1950"],
         "language_ssm":["English"],
-        "_version_":1799800140525993984,
-        "timestamp":"2024-05-23T00:12:48.684Z"}]
+        "_version_":1802192456629878784,
+        "timestamp":"2024-06-18T09:57:39.109Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Califf, Joseph, 1911-",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

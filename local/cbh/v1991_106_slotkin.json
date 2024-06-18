@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Morris Slotkin collection of Eugene L. Armbruster photographs of Williamsburg"],
         "unitid_ssm":["V1991.106"],
         "abstract_ssm":["The photographs primarily document architecture in the Williamsburg neighborhood of Brooklyn, circa 1920 to 1930. Included are views of streets, ferry terminals, church buildings, schools, wooden-frame houses, and elevated train track and stations, among others."],
+        "creator_ssm":["Slotkin, Morris",
+          "Armbruster, Eugene L.",
+          "Slotkin, Morris",
+          "Armbruster, Eugene L."],
         "unitdate_normal_ssm":["1920/1929"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Black-and-white prints (photographs)",
@@ -79,8 +83,8 @@
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, circa 1920s"],
         "language_ssm":["English"],
-        "_version_":1799256316112273408,
-        "timestamp":"2024-05-17T00:08:57.308Z"}]
+        "_version_":1802045528874156032,
+        "timestamp":"2024-06-16T19:02:17.882Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +92,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Armbruster, Eugene L.",1,
+        "Slotkin, Morris",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

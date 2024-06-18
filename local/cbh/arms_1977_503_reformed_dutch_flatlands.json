@@ -47,6 +47,10 @@
         "unittitle_ssm":["Protestant Reformed Dutch Church of Flatlands and Clarkson family indenture"],
         "unitid_ssm":["1977.503"],
         "abstract_ssm":["An 1825 indenture between the Protestant Reformed Dutch Church of Flatlands and the Clarkson family of New York City for a burial vault located on Church grounds."],
+        "creator_ssm":["Clarkson family",
+          "Protestant Dutch Reformed Church of Flatlands (New York, N.Y.)",
+          "Protestant Dutch Reformed Church of Flatlands (New York, N.Y.)",
+          "Clarkson family"],
         "unitdate_normal_ssm":["1824/1824"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Protestant Dutch Reformed Church of Flatlands (New York, N.Y.)",
@@ -70,8 +74,8 @@
         "unitdate_end_ssm":["1824"],
         "unitdate_ssm":["1824"],
         "language_ssm":["English"],
-        "_version_":1799311422527635456,
-        "timestamp":"2024-05-17T14:44:50.881Z"}]
+        "_version_":1801961813439414272,
+        "timestamp":"2024-06-15T20:51:40.622Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +83,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Clarkson family",1,
+        "Protestant Dutch Reformed Church of Flatlands (New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

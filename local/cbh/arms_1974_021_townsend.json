@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Townsend family papers"],
         "unitid_ssm":["1974.021"],
         "abstract_ssm":["Originally from Norwich, England, Henry Townsend (d. 1695) immigrated with his brothers, John and Richard, to the Dutch settlement of New Amsterdam (later New York) during the mid-17th century, eventually settling in the Long Island town of Oyster Bay. This collection includes materials from the Townsend family, including several deeds for land in Oyster Bay, Long Island involving European settlers and Native Americans, dated 1658 to 1678; an arithmetic book of Margaret Townsend, dated 1786; and the will of Almy Townsend, dated 1809."],
+        "creator_ssm":["Townsend family",
+          "Townsend family"],
         "unitdate_normal_ssm":["1658/1809",
           "1658/1678"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -77,8 +79,8 @@
           "1678"],
         "unitdate_ssm":["Inclusive, 1658-1809 ; 1658-1678"],
         "language_ssm":["English"],
-        "_version_":1799311647792168960,
-        "timestamp":"2024-05-17T14:48:25.71Z"},
+        "_version_":1801960259088023552,
+        "timestamp":"2024-06-15T20:26:58.277Z"},
       {
         "id":"arms_1974_021_townsendaspace_46c5bb7e55626d4ee7081b5444b30828",
         "ead_ssi":"arms_1974_021_townsend",
@@ -97,8 +99,8 @@
         "unitdate_start_ssm":["1673"],
         "unitdate_end_ssm":["1673"],
         "unitdate_ssm":["1673"],
-        "_version_":1799311647863472128,
-        "timestamp":"2024-05-17T14:48:25.777Z"},
+        "_version_":1801960259161423872,
+        "timestamp":"2024-06-15T20:26:58.347Z"},
       {
         "id":"arms_1974_021_townsendaspace_6d123004f563660058e6a7fc02946e8c",
         "ead_ssi":"arms_1974_021_townsend",
@@ -112,14 +114,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: A0011, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: A0011, Folder: 3"],
         "heading_ssm":["Oyster Bay Land Deeds"],
         "unitdate_start_ssm":["1661"],
         "unitdate_end_ssm":["1678"],
         "unitdate_ssm":["Inclusive, 1661-1678"],
-        "_version_":1799311647848792064,
-        "timestamp":"2024-05-17T14:48:25.764Z"},
+        "_version_":1801960259144646656,
+        "timestamp":"2024-06-15T20:26:58.331Z"},
       {
         "id":"arms_1974_021_townsendaspace_76a06e3046ed7540a677bd23b8e3f520",
         "ead_ssi":"arms_1974_021_townsend",
@@ -133,14 +134,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: A0011, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: A0011, Folder: 1"],
         "heading_ssm":["Almy Townsend Will"],
         "unitdate_start_ssm":["1809"],
         "unitdate_end_ssm":["1809"],
         "unitdate_ssm":["1809"],
-        "_version_":1799311647811043328,
-        "timestamp":"2024-05-17T14:48:25.728Z"},
+        "_version_":1801960259106897920,
+        "timestamp":"2024-06-15T20:26:58.295Z"},
       {
         "id":"arms_1974_021_townsendaspace_f1b87a655c01a448598548508c86a90e",
         "ead_ssi":"arms_1974_021_townsend",
@@ -154,14 +154,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: A0011, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: A0011, Folder: 2"],
         "heading_ssm":["Arithmetic Book of Margaret Townsend"],
         "unitdate_start_ssm":["1786"],
         "unitdate_end_ssm":["1786"],
         "unitdate_ssm":["1786"],
-        "_version_":1799311647828869120,
-        "timestamp":"2024-05-17T14:48:25.745Z"}]
+        "_version_":1801960259120529408,
+        "timestamp":"2024-06-15T20:26:58.308Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -169,7 +168,8 @@
       "repository_sim":[
         "cbh",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Townsend family",1],
       "date_range_sim":[
         "1601-1700",3,
         "1701-1800",1,

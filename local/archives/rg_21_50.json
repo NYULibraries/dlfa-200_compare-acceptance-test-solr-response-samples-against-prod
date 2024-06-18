@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Department of Comparative Literature"],
         "unitid_ssm":["RG.21.50"],
         "abstract_ssm":["The NYU Department of Comparative Literature's curriculum is aimed at students with broad interdisciplinary interests, a desire to explore new fields and forms of experimental thinking, and diverse language backgrounds. This collection contains issues of the Department's undergraduate literary journal, Brio and graduate literary journal, Barricade, dating from 2010 to 2019."],
+        "creator_ssm":["New York University. Department of Comparative Literature.",
+          "New York University. Department of Comparative Literature."],
         "unitdate_normal_ssm":["2010/2019"],
         "corpname_ssm":["New York University Archives",
           "New York University. Department of Comparative Literature.",
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["2010"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["Inclusive, 2010-2019"],
-        "_version_":1799248652281053184,
-        "timestamp":"2024-05-16T22:07:08.509Z"},
+        "_version_":1801952196334452736,
+        "timestamp":"2024-06-15T18:18:49.035Z"},
       {
         "id":"rg_21_50aspace_042401a6db19674b9af03723d15d0577",
         "ead_ssi":"rg_21_50",
@@ -81,14 +83,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["\n      Brio\n    "],
         "unitdate_start_ssm":["2010"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["Inclusive, 2010, 2016-2019"],
-        "_version_":1799248652330336256,
-        "timestamp":"2024-05-16T22:07:08.556Z"},
+        "_version_":1801952196405755904,
+        "timestamp":"2024-06-15T18:18:49.103Z"},
       {
         "id":"rg_21_50aspace_76ac984c7f8c366302fe96d335731514",
         "ead_ssi":"rg_21_50",
@@ -102,14 +103,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["\n      Barricade\n    "],
         "unitdate_start_ssm":["2018"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["Inclusive, 2018-2019"],
-        "_version_":1799248652306219008,
-        "timestamp":"2024-05-16T22:07:08.533Z"}]
+        "_version_":1801952196376395776,
+        "timestamp":"2024-06-15T18:18:49.076Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -117,7 +117,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Department of Comparative Literature.",1],
       "date_range_sim":[
         "2001-2100",3],
       "subject_sim":[

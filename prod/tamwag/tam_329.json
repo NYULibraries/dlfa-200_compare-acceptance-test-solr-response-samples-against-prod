@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Bruno Aron City University of New York House Plan Association Files"],
         "unitid_ssm":["TAM.329"],
+        "creator_ssm":["Aron, Bruno",
+          "Aron, Bruno"],
         "unitdate_normal_ssm":["1936/1940"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "College of the City of New York (1926-1961). City College. House Plan Association"],
@@ -62,8 +64,8 @@
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, 1936-1940"],
         "language_ssm":["English"],
-        "_version_":1775222789077204992,
-        "timestamp":"2023-08-25T17:26:19.842Z"}]
+        "_version_":1801243461598314496,
+        "timestamp":"2024-06-07T22:33:46.921Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -71,7 +73,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Aron, Bruno",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

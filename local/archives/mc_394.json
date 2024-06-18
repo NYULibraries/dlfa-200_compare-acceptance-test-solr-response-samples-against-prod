@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Anna Björnsson McCormick"],
         "unittitle_ssm":["Joseph Delafield Mineral Collection Catalog"],
-        "unitid_ssm":["MC.394",
-          "/repositories/6/resources/3477"],
+        "unitid_ssm":["MC.394"],
         "abstract_ssm":["Joseph Delafield (1790-1875) was a lawyer, veteran of the War of 1812, and a member of the University Council at the time of the founding of New York University. He collected minerals and was an active member of scientific associations in the United States and Europe. This collection includes a catalog of his collection of minerals, as well as correspondence and sales catalogs related to minerology and mineral collecting in the 19th century."],
+        "creator_ssm":["Delafield, Joseph, 1790-1875",
+          "Delafield, Joseph, 1790-1875"],
         "unitdate_normal_ssm":["1842/1902"],
         "corpname_ssm":["New York University Archives"],
         "persname_ssm":["Delafield, Joseph, 1790-1875"],
@@ -63,15 +64,15 @@
         "unitdate_start_ssm":["1842"],
         "unitdate_end_ssm":["1902"],
         "unitdate_ssm":["Inclusive, 1842-1902"],
-        "_version_":1799248917210071040,
-        "timestamp":"2024-05-16T22:11:21.164Z"},
+        "_version_":1801950311808499712,
+        "timestamp":"2024-06-15T17:48:51.811Z"},
       {
         "id":"mc_394aspace_75539933e88e2493c9b7ef05a40076c7",
         "ead_ssi":"mc_394",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Joseph Delafield Mineral Collection Catalog"],
-        "collection_unitid_ssm":["MC.394/repositories/6/resources/3477"],
+        "collection_unitid_ssm":["MC.394"],
         "unittitle_ssm":["Catalog"],
         "unitid_ssm":["/repositories/6/archival_objects/987284"],
         "unitdate_normal_ssm":["1842/1842"],
@@ -84,15 +85,15 @@
         "unitdate_start_ssm":["1842"],
         "unitdate_end_ssm":["1842"],
         "unitdate_ssm":["1842"],
-        "_version_":1799248917227896832,
-        "timestamp":"2024-05-16T22:11:21.182Z"},
+        "_version_":1801950311842054144,
+        "timestamp":"2024-06-15T17:48:51.844Z"},
       {
         "id":"mc_394aspace_f4217f9f454daac6e1c31fc5955732e2",
         "ead_ssi":"mc_394",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Joseph Delafield Mineral Collection Catalog"],
-        "collection_unitid_ssm":["MC.394/repositories/6/resources/3477"],
+        "collection_unitid_ssm":["MC.394"],
         "unittitle_ssm":["Correspondence"],
         "unitid_ssm":["/repositories/6/archival_objects/987285"],
         "unitdate_normal_ssm":["1846/1902"],
@@ -100,14 +101,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 149, Folder: 6",
-          "Folder: 6"],
+        "location_ssm":["Box: Shared University Archives 149, Folder: 6"],
         "heading_ssm":["Correspondence"],
         "unitdate_start_ssm":["1846"],
         "unitdate_end_ssm":["1902"],
         "unitdate_ssm":["Inclusive, 1846-1902"],
-        "_version_":1799248917244674048,
-        "timestamp":"2024-05-16T22:11:21.198Z"}]
+        "_version_":1801950311864074240,
+        "timestamp":"2024-06-15T17:48:51.865Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -115,7 +115,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Delafield, Joseph, 1790-1875",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",2],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Photographs of McEnery's wall sign in Midwood"],
         "unitid_ssm":["V1990.029"],
         "abstract_ssm":["The Photographs of McEnery's wall sign in Midwood contains two color photographic prints taken by Jessica Schneider showing a painted advertisement for McEnery's, a Brooklyn-based furniture, upholstery, and carpeting business. The photographs were taken in August 1988. The building on which the advertisement was painted was located on the southeast corner of Avenue J and Coney Island Avenue in the Midwood neighborhood of Brooklyn."],
+        "creator_ssm":["Schneider, Jessica",
+          "Schneider, Jessica"],
         "unitdate_normal_ssm":["1988/1988"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographs",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1988"],
         "language_ssm":["English"],
-        "_version_":1799256214523084800,
-        "timestamp":"2024-05-17T00:07:20.425Z"}]
+        "_version_":1802045353108701184,
+        "timestamp":"2024-06-16T18:59:30.259Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Schneider, Jessica",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

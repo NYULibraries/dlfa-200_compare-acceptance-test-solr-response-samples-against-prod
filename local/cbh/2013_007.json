@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":33,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Leigh Celentano collection of Hurricane Sandy aftermath photographs"],
         "unitid_ssm":["2013.007"],
         "abstract_ssm":["The Leigh Celentano collection of Hurricane Sandy aftermath photographs collection comprises 38 born-digital photographic images taken by Leigh Celentano in the days after Hurricane Sandy landed in New York City in October 2012. These images document the after effects of the storm as well as relief efforts in Brooklyn, Queens and Staten Island."],
+        "creator_ssm":["Celentano, Leigh",
+          "Celentano, Leigh"],
         "unitdate_normal_ssm":["2012/2012"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Brooklyn (New York, N.Y.)",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["2012"],
         "language_ssm":["English"],
-        "_version_":1799311514024280064,
-        "timestamp":"2024-05-17T14:46:18.138Z"}]
+        "_version_":1801958131570311168,
+        "timestamp":"2024-06-15T19:53:09.317Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Celentano, Leigh",1],
       "date_range_sim":[
         "2001-2100",1],
       "subject_sim":[

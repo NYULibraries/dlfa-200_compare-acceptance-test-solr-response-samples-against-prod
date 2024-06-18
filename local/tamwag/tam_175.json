@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,10 @@
         "author_ssm":["Tamiment Staff"],
         "unittitle_ssm":["Earl and Sylvia Price Papers"],
         "unitid_ssm":["TAM.175"],
+        "creator_ssm":["Price, Earl",
+          "Price, Sylvia",
+          "Price, Earl",
+          "Price, Sylvia"],
         "unitdate_normal_ssm":["1940/1979",
           "1945/1960"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -68,8 +72,8 @@
         "unitdate_end_ssm":["1979",
           "1960"],
         "unitdate_ssm":["Inclusive, 1940s-1970s ; 1945-1960"],
-        "_version_":1799781228707053568,
-        "timestamp":"2024-05-22T19:12:12.967Z"},
+        "_version_":1802170399750881280,
+        "timestamp":"2024-06-18T04:07:04.03Z"},
       {
         "id":"tam_175aspace_ref10",
         "ead_ssi":"tam_175",
@@ -85,8 +89,8 @@
         "location_ssm":["Box: 6"],
         "heading_ssm":["Expelled groups (including correspondence); Correspondence"],
         "unitdate_ssm":["1940s-1950s"],
-        "_version_":1799781228776259584,
-        "timestamp":"2024-05-22T19:12:13.033Z"},
+        "_version_":1802170399795970048,
+        "timestamp":"2024-06-18T04:07:04.073Z"},
       {
         "id":"tam_175aspace_ref5",
         "ead_ssi":"tam_175",
@@ -101,8 +105,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["NCP Report; [Rosenberg Case?] "],
-        "_version_":1799781228718587904,
-        "timestamp":"2024-05-22T19:12:12.979Z"},
+        "_version_":1802170399758221312,
+        "timestamp":"2024-06-18T04:07:04.037Z"},
       {
         "id":"tam_175aspace_ref6",
         "ead_ssi":"tam_175",
@@ -117,8 +121,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Rosenberg Case (Criticism of CP role, clips)"],
-        "_version_":1799781228728025088,
-        "timestamp":"2024-05-22T19:12:12.988Z"},
+        "_version_":1802170399764512768,
+        "timestamp":"2024-06-18T04:07:04.043Z"},
       {
         "id":"tam_175aspace_ref7",
         "ead_ssi":"tam_175",
@@ -134,8 +138,8 @@
         "location_ssm":["Box: 3"],
         "heading_ssm":["Activities, writings, serials from Prices; other left-CP"],
         "unitdate_ssm":["1940s-1960s"],
-        "_version_":1799781228738510848,
-        "timestamp":"2024-05-22T19:12:12.998Z"},
+        "_version_":1802170399770804224,
+        "timestamp":"2024-06-18T04:07:04.049Z"},
       {
         "id":"tam_175aspace_ref8",
         "ead_ssi":"tam_175",
@@ -150,8 +154,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 4"],
         "heading_ssm":["David Mitchell; Anti-civil defense; Early opposition to nuclear plants"],
-        "_version_":1799781228754239488,
-        "timestamp":"2024-05-22T19:12:13.013Z"},
+        "_version_":1802170399781289984,
+        "timestamp":"2024-06-18T04:07:04.059Z"},
       {
         "id":"tam_175aspace_ref9",
         "ead_ssi":"tam_175",
@@ -166,8 +170,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 5"],
         "heading_ssm":["Turning Point corresp; Paul Robeson CP club; NY, other left-CP efforts in the US"],
-        "_version_":1799781228764725248,
-        "timestamp":"2024-05-22T19:12:13.023Z"}]
+        "_version_":1802170399788630016,
+        "timestamp":"2024-06-18T04:07:04.066Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -175,7 +179,9 @@
       "repository_sim":[
         "tamwag",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Price, Earl",1,
+        "Price, Sylvia",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",6],

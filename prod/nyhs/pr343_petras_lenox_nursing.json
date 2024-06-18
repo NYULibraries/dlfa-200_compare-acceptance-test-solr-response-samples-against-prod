@@ -47,6 +47,8 @@
         "unittitle_ssm":["May Petras's Lenox Hill School of Nursing yearbook"],
         "unitid_ssm":["PR 343"],
         "abstract_ssm":["The collection includes nursing student May Petras's 1945 graduation yearbook from Lenox Hill Hospital School of Nursing in New York City and a gelatin silver photograph of sculptor Walter Russell (1871-1963). The 1943 photo is inscribed by Russell to Petras, and was taken in Russell's studio in the Carnegie Hall apartments, showing him working on a large bust of Franklin D. Roosevelt."],
+        "creator_ssm":["Petras, May",
+          "Petras, May"],
         "corpname_ssm":["New-York Historical Society",
           "Lenox Hill Hospital. School of Nursing"],
         "genreform_ssm":["Photographs.",
@@ -66,8 +68,8 @@
           "School yearbooks."],
         "heading_ssm":["May Petras's Lenox Hill School of Nursing yearbook"],
         "unitdate_ssm":["Inclusive, 1943, 1945"],
-        "_version_":1775223337307340800,
-        "timestamp":"2023-08-25T17:35:02.675Z"}]
+        "_version_":1801063825465671680,
+        "timestamp":"2024-06-05T22:58:32.555Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Petras, May",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[

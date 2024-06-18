@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -56,8 +56,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Richard A. Knight letter to the Committee on Grievances of the Association of the Bar of the City of New York"],
         "unitdate_ssm":["Inclusive, 1940 December 10"],
-        "_version_":1775225714064228352,
-        "timestamp":"2023-08-25T18:12:49.327Z"}]
+        "_version_":1800980147923320832,
+        "timestamp":"2024-06-05T00:48:31.432Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

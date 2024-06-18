@@ -47,6 +47,8 @@
         "unittitle_ssm":["Confederated Spanish Societies (Sociedades Hispanas Confederadas) Records"],
         "unitid_ssm":["ALBA.160"],
         "abstract_ssm":["The Confederated Spanish Societies (Sociedades Hispanas Confederadas) was an umbrella organization established during the Spanish Civil War to coordinate fundraising efforts on behalf of Republican factions, often thorugh events like dances, rallies, performances, or soccer matches. This unprocessed collection consists of records from the early 1960s including meeting minutes; publicity materials directed at the American public; correspondence from sympathizers; correspondence concerning the Societies' publication, Espana Libre; correspondence directed at American, Spanish, and United Nations officials concerning the treatment of Republican prisoners."],
+        "creator_ssm":["Sociedades Hispanas Confederadas de los Estados Unidos de Norte América",
+          "Sociedades Hispanas Confederadas de los Estados Unidos de Norte América"],
         "unitdate_normal_ssm":["1960/1961"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Sociedades Hispanas Confederadas de los Estados Unidos de Norte América"],
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1961"],
         "unitdate_ssm":["Inclusive, 1960-1961"],
-        "_version_":1775223162325172224,
-        "timestamp":"2023-08-25T17:32:15.799Z"},
+        "_version_":1801136184001298432,
+        "timestamp":"2024-06-06T18:08:39.032Z"},
       {
         "id":"alba_160aspace_85695a4781131ede30804bc7dd3618dc",
         "ead_ssi":"alba_160",
@@ -79,8 +81,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Box 1"],
-        "_version_":1775223162358726656,
-        "timestamp":"2023-08-25T17:32:15.831Z"}]
+        "_version_":1801136184013881344,
+        "timestamp":"2024-06-06T18:08:39.044Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sociedades Hispanas Confederadas de los Estados Unidos de Norte América",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

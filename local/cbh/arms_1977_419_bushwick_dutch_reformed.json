@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":10,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Bushwick Dutch Reformed Church records"],
         "unitid_ssm":["1977.419"],
         "abstract_ssm":["This collection includes handwritten receipts and bills for work or services provided for the Bushwick Dutch Reformed Church, dating from 1713 to 1817. Documents are in English and Dutch."],
+        "creator_ssm":["Old Bushwick Reformed Church (Brooklyn, New York, N.Y.)",
+          "Old Bushwick Reformed Church (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1713/1817"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Old Bushwick Reformed Church (Brooklyn, New York, N.Y.)",
@@ -73,8 +75,8 @@
         "unitdate_start_ssm":["1713"],
         "unitdate_end_ssm":["1817"],
         "unitdate_ssm":["Inclusive, 1713-1817"],
-        "_version_":1799256504109367296,
-        "timestamp":"2024-05-17T00:11:56.596Z"}]
+        "_version_":1801961629489823744,
+        "timestamp":"2024-06-15T20:48:45.193Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Old Bushwick Reformed Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

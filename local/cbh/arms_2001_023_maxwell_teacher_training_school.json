@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Maxwell Teacher Training School yearbook"],
         "unitid_ssm":["2001.023"],
         "abstract_ssm":["A yearbook from the Maxwell Teacher Training School, dated 1929. The school was located in Brooklyn and trained teachers for work in public schools."],
+        "creator_ssm":["Maxwell Training School for Teachers",
+          "Maxwell Training School for Teachers"],
         "unitdate_normal_ssm":["1929/1929"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Village Library of Wrightstown",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, 1929"],
         "language_ssm":["English"],
-        "_version_":1799309976715395072,
-        "timestamp":"2024-05-17T14:21:52.047Z"}]
+        "_version_":1801963853203898368,
+        "timestamp":"2024-06-15T21:24:05.893Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Maxwell Training School for Teachers",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

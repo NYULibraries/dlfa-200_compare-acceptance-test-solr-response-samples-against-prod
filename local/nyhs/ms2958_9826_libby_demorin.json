@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,10 @@
         "unittitle_ssm":["Demorin and Susan Libby letter to Thomas Kingsbury"],
         "unitid_ssm":["AHMC - Libby, Demorin"],
         "abstract_ssm":["Letter from husband and wife Demorin and Susan Libby, at New York, to Thomas Kingsbury, at Bradford, Maine, describing the Great Fire of 19 July 1845. To request this item for research, and for fuller details about it, please read its catalog record, or write to reference@nyhistory.org."],
+        "creator_ssm":["Libby, Demorin, 1814-1909",
+          "Libby, Susan L. Dean, 1822-1894",
+          "Libby, Demorin, 1814-1909",
+          "Libby, Susan L. Dean, 1822-1894"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Libby, Demorin, 1814-1909",
           "Libby, Susan L. Dean, 1822-1894"],
@@ -58,8 +62,8 @@
         "heading_ssm":["Demorin and Susan Libby letter to Thomas Kingsbury"],
         "unitdate_ssm":["1845 August 6"],
         "language_ssm":["English"],
-        "_version_":1799329877245034496,
-        "timestamp":"2024-05-17T19:38:10.67Z"}]
+        "_version_":1802083736269881344,
+        "timestamp":"2024-06-17T05:09:35.294Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +71,9 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Libby, Demorin, 1814-1909",1,
+        "Libby, Susan L. Dean, 1822-1894",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

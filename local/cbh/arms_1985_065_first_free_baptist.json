@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["First Free Baptist Church of Brooklyn records"],
         "unitid_ssm":["1985.065"],
         "abstract_ssm":["The First Free Baptist Church of Brooklyn records span the period 1858 to 1918 and contain five bound, handwritten volumes documenting the church's activities throughout its many name and location changes.  Volumes consist of two membership rolls, one of which is located in an oversize box; a directory; minutes and annual reports; and minutes of the Lee Avenue Baptist Sabbath School."],
+        "creator_ssm":["South Baptist Church (Brooklyn, New York, N.Y.)",
+          "Hooper Street Free Baptist Church (Williamsburg, New York, N.Y.)",
+          "First Free Baptist Church (Williamsburg, New York, N.Y.)",
+          "Lee Avenue Baptist Church (Brooklyn, New York, N.Y.)",
+          "South Baptist Church (Brooklyn, New York, N.Y.)",
+          "Hooper Street Free Baptist Church (Williamsburg, New York, N.Y.)",
+          "First Free Baptist Church (Williamsburg, New York, N.Y.)",
+          "Lee Avenue Baptist Church (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1858/1918"],
         "corpname_ssm":["Brooklyn Historical Society",
           "South Baptist Church (Brooklyn, New York, N.Y.)",
@@ -98,8 +106,8 @@
         "unitdate_end_ssm":["1918"],
         "unitdate_ssm":["Inclusive, 1858-1918"],
         "language_ssm":["English"],
-        "_version_":1799312355928047616,
-        "timestamp":"2024-05-17T14:59:41.041Z"}]
+        "_version_":1801963051546574848,
+        "timestamp":"2024-06-15T21:11:21.373Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -107,7 +115,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "First Free Baptist Church (Williamsburg, New York, N.Y.)",1,
+        "Hooper Street Free Baptist Church (Williamsburg, New York, N.Y.)",1,
+        "Lee Avenue Baptist Church (Brooklyn, New York, N.Y.)",1,
+        "South Baptist Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Service Employees International Union Committee of Interns and Residents Records"],
         "unitid_ssm":["TAM.640"],
         "abstract_ssm":["This collection contains newsletters and photographs from the Service Employees International Union Committee of Interns and Residents between 1980 and 2006. The Service Employees International Union Committee of Interns and Residents is a union founded in 1957 by interns and residents in New York City's public hospitals. The collection is primarily made up of union newsletters, The Housestaff Voice and CIR News. The collection also contains a large number of photographs depicting Committee of Interns and Residents events, rallies, campaigns, and images from union publications."],
+        "creator_ssm":["Committee of Interns and Residents/SEIU Healthcare.",
+          "Committee of Interns and Residents/SEIU Healthcare."],
         "unitdate_normal_ssm":["1980/2007",
           "1980/2023"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["2007",
           "2023"],
         "unitdate_ssm":["Inclusive, 1980-2007, 2010-ongoing ; 1980-2007"],
-        "_version_":1799791887661400064,
-        "timestamp":"2024-05-22T22:01:38.138Z"},
+        "_version_":1802183809559429120,
+        "timestamp":"2024-06-18T07:40:12.62Z"},
       {
         "id":"tam_640aspace_ref16",
         "ead_ssi":"tam_640",
@@ -92,8 +94,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["June 2010-ongoing"],
-        "_version_":1799791887728508928,
-        "timestamp":"2024-05-22T22:01:38.203Z"},
+        "_version_":1802183809607663616,
+        "timestamp":"2024-06-18T07:40:12.666Z"},
       {
         "id":"tam_640aspace_ref5",
         "ead_ssi":"tam_640",
@@ -112,8 +114,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1989-1992"],
-        "_version_":1799791887678177280,
-        "timestamp":"2024-05-22T22:01:38.155Z"},
+        "_version_":1802183809572012032,
+        "timestamp":"2024-06-18T07:40:12.632Z"},
       {
         "id":"tam_640aspace_ref6",
         "ead_ssi":"tam_640",
@@ -132,8 +134,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, 1980-2006"],
-        "_version_":1799791887693905920,
-        "timestamp":"2024-05-22T22:01:38.17Z"},
+        "_version_":1802183809581449216,
+        "timestamp":"2024-06-18T07:40:12.641Z"},
       {
         "id":"tam_640aspace_ref7",
         "ead_ssi":"tam_640",
@@ -152,8 +154,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1980-2002"],
-        "_version_":1799791887714877440,
-        "timestamp":"2024-05-22T22:01:38.19Z"}]
+        "_version_":1802183809597177856,
+        "timestamp":"2024-06-18T07:40:12.656Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -162,7 +164,8 @@
         "tamwag",5],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Committee of Interns and Residents/SEIU Healthcare.",1],
       "date_range_sim":[
         "1901-2000",4,
         "2001-2100",3,

@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Feminist Organization for Communication, Action and Service (FOCAS) Records"],
         "unitid_ssm":["TAM.234"],
+        "creator_ssm":["Feminist Organization for Communication, Action and Service",
+          "Feminist Organization for Communication, Action and Service"],
         "unitdate_normal_ssm":["1970/1979"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Feminist Organization for Communication, Action and Service",
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1970s"],
         "language_ssm":["English"],
-        "_version_":1775218389947514880,
-        "timestamp":"2023-08-25T16:16:24.505Z"},
+        "_version_":1801231198773575680,
+        "timestamp":"2024-06-07T19:18:52.18Z"},
       {
         "id":"tam_234aspace_ref10",
         "ead_ssi":"tam_234",
@@ -83,8 +85,8 @@
         "location_ssm":["Box: 7"],
         "heading_ssm":["Research Files: Pr-Sp"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218390213853184,
-        "timestamp":"2023-08-25T16:16:24.759Z"},
+        "_version_":1801231198864801792,
+        "timestamp":"2024-06-07T19:18:52.267Z"},
       {
         "id":"tam_234aspace_ref11",
         "ead_ssi":"tam_234",
@@ -100,8 +102,8 @@
         "location_ssm":["Box: 8"],
         "heading_ssm":["Research Files: Sp-Wr"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218390247407616,
-        "timestamp":"2023-08-25T16:16:24.791Z"},
+        "_version_":1801231198876336128,
+        "timestamp":"2024-06-07T19:18:52.278Z"},
       {
         "id":"tam_234aspace_ref12",
         "ead_ssi":"tam_234",
@@ -117,8 +119,8 @@
         "location_ssm":["Box: 9"],
         "heading_ssm":["Groups, Other"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218390280962048,
-        "timestamp":"2023-08-25T16:16:24.823Z"},
+        "_version_":1801231198887870464,
+        "timestamp":"2024-06-07T19:18:52.289Z"},
       {
         "id":"tam_234aspace_ref13",
         "ead_ssi":"tam_234",
@@ -134,8 +136,8 @@
         "location_ssm":["Box: 10"],
         "heading_ssm":["International Organizations and Issues"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218390314516480,
-        "timestamp":"2023-08-25T16:16:24.855Z"},
+        "_version_":1801231198899404800,
+        "timestamp":"2024-06-07T19:18:52.3Z"},
       {
         "id":"tam_234aspace_ref14",
         "ead_ssi":"tam_234",
@@ -151,8 +153,8 @@
         "location_ssm":["Box: 11"],
         "heading_ssm":["Issues, Initiatives, Research Files"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218390350168064,
-        "timestamp":"2023-08-25T16:16:24.889Z"},
+        "_version_":1801231198911987712,
+        "timestamp":"2024-06-07T19:18:52.312Z"},
       {
         "id":"tam_234aspace_ref15",
         "ead_ssi":"tam_234",
@@ -168,8 +170,8 @@
         "location_ssm":["Box: 12"],
         "heading_ssm":["Publications, Demonstrations, Conferences"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218390383722496,
-        "timestamp":"2023-08-25T16:16:24.921Z"},
+        "_version_":1801231198936104960,
+        "timestamp":"2024-06-07T19:18:52.335Z"},
       {
         "id":"tam_234aspace_ref16",
         "ead_ssi":"tam_234",
@@ -185,8 +187,8 @@
         "location_ssm":["Box: 13"],
         "heading_ssm":["Groups, Other"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218390418325504,
-        "timestamp":"2023-08-25T16:16:24.954Z"},
+        "_version_":1801231198949736448,
+        "timestamp":"2024-06-07T19:18:52.347Z"},
       {
         "id":"tam_234aspace_ref17",
         "ead_ssi":"tam_234",
@@ -202,8 +204,8 @@
         "location_ssm":["Box: 14"],
         "heading_ssm":["Office Files, Majority Report Files, Women's Organizations"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218390452928512,
-        "timestamp":"2023-08-25T16:16:24.987Z"},
+        "_version_":1801231198963367936,
+        "timestamp":"2024-06-07T19:18:52.361Z"},
       {
         "id":"tam_234aspace_ref18",
         "ead_ssi":"tam_234",
@@ -219,8 +221,8 @@
         "location_ssm":["Box: 15"],
         "heading_ssm":["Unprocessed, Undescribed Files (1)"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218390488580096,
-        "timestamp":"2023-08-25T16:16:25.02Z"},
+        "_version_":1801231198974902272,
+        "timestamp":"2024-06-07T19:18:52.372Z"},
       {
         "id":"tam_234aspace_ref19",
         "ead_ssi":"tam_234",
@@ -237,8 +239,8 @@
         "heading_ssm":["Unprocessed, Undescribed Files (2)"],
         "unitdate_ssm":["undated"],
         "language_ssm":["English"],
-        "_version_":1775218390522134529,
-        "timestamp":"2023-08-25T16:16:25.053Z"},
+        "_version_":1801231198987485184,
+        "timestamp":"2024-06-07T19:18:52.384Z"},
       {
         "id":"tam_234aspace_ref20",
         "ead_ssi":"tam_234",
@@ -252,8 +254,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["Unprocessed, Undescribed Files (3)"],
-        "_version_":1775218390565126144,
-        "timestamp":"2023-08-25T16:16:25.094Z"},
+        "_version_":1801231198997970944,
+        "timestamp":"2024-06-07T19:18:52.394Z"},
       {
         "id":"tam_234aspace_ref4",
         "ead_ssi":"tam_234",
@@ -269,8 +271,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Research Files: A-Ch"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218389997846528,
-        "timestamp":"2023-08-25T16:16:24.553Z"},
+        "_version_":1801231198791401472,
+        "timestamp":"2024-06-07T19:18:52.197Z"},
       {
         "id":"tam_234aspace_ref5",
         "ead_ssi":"tam_234",
@@ -286,8 +288,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Research Files: Ch-Di"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218390037692416,
-        "timestamp":"2023-08-25T16:16:24.591Z"},
+        "_version_":1801231198805032960,
+        "timestamp":"2024-06-07T19:18:52.21Z"},
       {
         "id":"tam_234aspace_ref6",
         "ead_ssi":"tam_234",
@@ -303,8 +305,8 @@
         "location_ssm":["Box: 3"],
         "heading_ssm":["Research Files: Di-Fo"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218390071246848,
-        "timestamp":"2023-08-25T16:16:24.623Z"},
+        "_version_":1801231198816567296,
+        "timestamp":"2024-06-07T19:18:52.221Z"},
       {
         "id":"tam_234aspace_ref7",
         "ead_ssi":"tam_234",
@@ -320,8 +322,8 @@
         "location_ssm":["Box: 4"],
         "heading_ssm":["Research Files: Ga-Kn"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218390104801280,
-        "timestamp":"2023-08-25T16:16:24.655Z"},
+        "_version_":1801231198829150208,
+        "timestamp":"2024-06-07T19:18:52.232Z"},
       {
         "id":"tam_234aspace_ref8",
         "ead_ssi":"tam_234",
@@ -337,8 +339,8 @@
         "location_ssm":["Box: 5"],
         "heading_ssm":["Research Files: Ko-Ma"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218390144647168,
-        "timestamp":"2023-08-25T16:16:24.693Z"},
+        "_version_":1801231198840684544,
+        "timestamp":"2024-06-07T19:18:52.244Z"},
       {
         "id":"tam_234aspace_ref9",
         "ead_ssi":"tam_234",
@@ -354,8 +356,8 @@
         "location_ssm":["Box: 6"],
         "heading_ssm":["Research Files: Ke-Pr"],
         "unitdate_ssm":["undated"],
-        "_version_":1775218390181347328,
-        "timestamp":"2023-08-25T16:16:24.728Z"}]
+        "_version_":1801231198853267456,
+        "timestamp":"2024-06-07T19:18:52.256Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -363,7 +365,8 @@
       "repository_sim":[
         "tamwag",18],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Feminist Organization for Communication, Action and Service",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",17],

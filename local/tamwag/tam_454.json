@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Sidney and Clara Solomon Papers"],
         "unitid_ssm":["TAM.454"],
         "abstract_ssm":["Sidney and Clara Solomon were New York anarchists and were members of the Vanguard Group in the 1930s and the New Trends Group in the 1940s.  The Sidney and Clara Solomon Papers document their interest in and work towards anarchist activities, including the Vanguard Group, the New Trends Group, and the Atlantic Anarchist Circle.  Materials in the collection date from the 1920s through 2004."],
+        "creator_ssm":["Solomon, Sidney",
+          "Solomon, Clara",
+          "Solomon, Sidney",
+          "Solomon, Clara"],
         "unitdate_normal_ssm":["1920/2004"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Vanguard Group",
@@ -75,8 +79,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1920-2004"],
-        "_version_":1799342374931922944,
-        "timestamp":"2024-05-17T22:56:49.394Z"}]
+        "_version_":1802183121154605056,
+        "timestamp":"2024-06-18T07:29:16.106Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +88,9 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Solomon, Clara",1,
+        "Solomon, Sidney",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

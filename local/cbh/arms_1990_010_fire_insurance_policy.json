@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":10,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Fire insurance policy for 113 Carroll Street"],
         "unitid_ssm":["1990.010"],
         "abstract_ssm":["A fire insurance certificate for a building located at 113 Carroll Street in Brooklyn, dated 1890."],
+        "creator_ssm":["Guardian Assurance Company",
+          "Guardian Assurance Company"],
         "unitdate_normal_ssm":["1890/1890"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Guardian Assurance Company"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1890"],
         "unitdate_ssm":["Inclusive, 1890"],
         "language_ssm":["English"],
-        "_version_":1799312277066743808,
-        "timestamp":"2024-05-17T14:58:25.833Z"}]
+        "_version_":1801963509280407552,
+        "timestamp":"2024-06-15T21:18:37.901Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Guardian Assurance Company",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

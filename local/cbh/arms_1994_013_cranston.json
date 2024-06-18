@@ -47,6 +47,16 @@
         "unittitle_ssm":["Cranston family papers and photographs"],
         "unitid_ssm":["1994.013"],
         "abstract_ssm":["The Cranston family papers and photographs comprise 2.5 linear feet of letters, clippings, books, certificates, ephemera, and photographs. The material originates from three generations of the Cranston and Morehouse families of Brooklyn, N.Y., who witnessed--among other events--the Civil War and Brooklyn's transition from an independent city to a borough of New York City. The majority of the collection relates to the lives of Alfred Cranston and his wife Elizabeth Petford Cranston, covering the period from 1846 to 1923 (bulk dates 1860 to 1915). The collection also contains items relating to their daughter Ella Cranston, the Morehouse family (from which family a daughter, Emma Louise, married the Cranstons' son, Alfred Petford Cranston), and the Oliver and Bellows families."],
+        "creator_ssm":["Cranston, Elizabeth Hollington Petford",
+          "Cranston, Ella",
+          "Cranston, Alfred",
+          "Morehouse family",
+          "Cranston family",
+          "Morehouse family",
+          "Cranston family",
+          "Cranston, Elizabeth Hollington Petford",
+          "Cranston, Ella",
+          "Cranston, Alfred"],
         "unitdate_normal_ssm":["1846/1923",
           "1860/1915"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -89,8 +99,8 @@
           "1915"],
         "unitdate_ssm":["Inclusive, 1846-1923 ; 1860-1915"],
         "language_ssm":["English"],
-        "_version_":1799256164752424960,
-        "timestamp":"2024-05-17T00:06:32.96Z"},
+        "_version_":1801963764253196288,
+        "timestamp":"2024-06-15T21:22:41.063Z"},
       {
         "id":"arms_1994_013_cranstonaspace_ref11_vf5",
         "ead_ssi":"arms_1994_013_cranston",
@@ -111,8 +121,8 @@
         "unitdate_start_ssm":["1861"],
         "unitdate_end_ssm":["1919"],
         "unitdate_ssm":["Inclusive, 1861-1919"],
-        "_version_":1799256164785979392,
-        "timestamp":"2024-05-17T00:06:32.992Z"},
+        "_version_":1801963764302479360,
+        "timestamp":"2024-06-15T21:22:41.11Z"},
       {
         "id":"arms_1994_013_cranstonaspace_ref13_0jm",
         "ead_ssi":"arms_1994_013_cranston",
@@ -133,8 +143,8 @@
         "unitdate_start_ssm":["1846"],
         "unitdate_end_ssm":["1923"],
         "unitdate_ssm":["Inclusive, 1846-1923"],
-        "_version_":1799256164801708032,
-        "timestamp":"2024-05-17T00:06:33.007Z"},
+        "_version_":1801963764320305152,
+        "timestamp":"2024-06-15T21:22:41.127Z"},
       {
         "id":"arms_1994_013_cranstonaspace_ref15_y4s",
         "ead_ssi":"arms_1994_013_cranston",
@@ -155,8 +165,8 @@
         "unitdate_start_ssm":["1851"],
         "unitdate_end_ssm":["1912"],
         "unitdate_ssm":["Inclusive, 1851-1912"],
-        "_version_":1799256164822679552,
-        "timestamp":"2024-05-17T00:06:33.027Z"},
+        "_version_":1801963764336033792,
+        "timestamp":"2024-06-15T21:22:41.142Z"},
       {
         "id":"arms_1994_013_cranstonaspace_ref1_pwv",
         "ead_ssi":"arms_1994_013_cranston",
@@ -175,8 +185,8 @@
         "unitdate_end_ssm":["1923"],
         "unitdate_ssm":["Inclusive, 1846-1923"],
         "language_ssm":["English"],
-        "_version_":1799256164769202176,
-        "timestamp":"2024-05-17T00:06:32.976Z"},
+        "_version_":1801963764276264960,
+        "timestamp":"2024-06-15T21:22:41.085Z"},
       {
         "id":"arms_1994_013_cranstonaspace_ref2_ivk",
         "ead_ssi":"arms_1994_013_cranston",
@@ -194,8 +204,8 @@
         "unitdate_start_ssm":["1849"],
         "unitdate_end_ssm":["1906"],
         "unitdate_ssm":["Inclusive, 1849-1906"],
-        "_version_":1799256164836311040,
-        "timestamp":"2024-05-17T00:06:33.04Z"},
+        "_version_":1801963764352811008,
+        "timestamp":"2024-06-15T21:22:41.158Z"},
       {
         "id":"arms_1994_013_cranstonaspace_ref3_iwf",
         "ead_ssi":"arms_1994_013_cranston",
@@ -214,8 +224,8 @@
         "unitdate_start_ssm":["1840"],
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, circa late 19th century"],
-        "_version_":1799256164848893952,
-        "timestamp":"2024-05-17T00:06:33.052Z"}]
+        "_version_":1801963764368539648,
+        "timestamp":"2024-06-15T21:22:41.173Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -223,7 +233,12 @@
       "repository_sim":[
         "cbh",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cranston family",1,
+        "Cranston, Alfred",1,
+        "Cranston, Elizabeth Hollington Petford",1,
+        "Cranston, Ella",1,
+        "Morehouse family",1],
       "date_range_sim":[
         "1801-1900",7,
         "1901-2000",7],

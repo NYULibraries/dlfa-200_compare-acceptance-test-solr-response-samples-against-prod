@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["George N. Caylor Photographs"],
         "unitid_ssm":["PHOTOS.015"],
         "abstract_ssm":["George Caylor (1885-1973), born George N. Cohen, was a socialist, writer, labor arbitrator, businessman, and brother of labor leader Joseph E. Cohen (1883-1950). This collection is composed of photographs removed from the George N. Caylor Papers (Tamiment 030)."],
+        "creator_ssm":["Caylor, George Nathan, 1885-1973",
+          "Caylor, George Nathan, 1885-1973"],
         "unitdate_normal_ssm":["1886/1948",
           "1914/1948"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -79,8 +81,8 @@
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["Inclusive, 1886-1948 ; 1914-1948"],
         "language_ssm":["English"],
-        "_version_":1799749483281514496,
-        "timestamp":"2024-05-22T10:47:38.171Z"},
+        "_version_":1802114433495859200,
+        "timestamp":"2024-06-17T13:17:30.45Z"},
       {
         "id":"photos_015aspace_ref13",
         "ead_ssi":"photos_015",
@@ -94,8 +96,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series Inventory"],
-        "_version_":1799749483306680320,
-        "timestamp":"2024-05-22T10:47:38.195Z"},
+        "_version_":1802114433517879296,
+        "timestamp":"2024-06-17T13:17:30.471Z"},
       {
         "id":"photos_015aspace_ref14",
         "ead_ssi":"photos_015",
@@ -113,14 +115,13 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment OS002, Folder: 1",
-          "Folder: 1",
           "Box: 1, Folder: 1"],
         "heading_ssm":["Oversized photocopies of photographs from an album, including images of: - family (incl. Joseph Cohen w/James Maurer) - friends at Arden, Delaware (Single Tax community) - Socialist Convention, Harrisburg, 1909 - Pennsylvania delegation to the national Socialist Convention, 1912 - Testimonial Dinner, International Typographical Union, Local 2, 1941 - Social Security Board Federal Advisory Council for Employment Security meeting, 1942 - Seminar Workmen's Compensation, Toronto 1946"],
         "unitdate_start_ssm":["1886"],
         "unitdate_end_ssm":["1946"],
         "unitdate_ssm":["Inclusive, 1886-1946"],
-        "_version_":1799749483329748992,
-        "timestamp":"2024-05-22T10:47:38.217Z"},
+        "_version_":1802114433549336576,
+        "timestamp":"2024-06-17T13:17:30.501Z"},
       {
         "id":"photos_015aspace_ref15",
         "ead_ssi":"photos_015",
@@ -137,14 +138,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Photographic prints of - friends and family at Arden, Delaware (Single Tax community) - Snapshot of Aaron Berkman of Philadelphia, Charlie Chaplin, and Upton Sinclair (date unknown, although it appears to be pre- 1920s, place unknown also) - Philadelphia delegation to State Socialist Convention at Reading, PA, July 4, 1932 - (Delegates to meeting of?) International Labour Organization (Geneva, Switzerland, 1938)"],
         "unitdate_start_ssm":["1900"],
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, ca. 1910-1938"],
-        "_version_":1799749483363303424,
-        "timestamp":"2024-05-22T10:47:38.249Z"}]
+        "_version_":1802114433578696704,
+        "timestamp":"2024-06-17T13:17:30.529Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -152,7 +152,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Caylor, George Nathan, 1885-1973",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",3,

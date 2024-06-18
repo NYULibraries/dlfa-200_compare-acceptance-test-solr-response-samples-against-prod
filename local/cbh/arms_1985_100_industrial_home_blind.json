@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Industrial Home for the Blind collection"],
         "unitid_ssm":["1985.100"],
         "abstract_ssm":["The Industrial Home for the Blind collection comprises 0.4 linear feet of materials and spans the years 1894 to 1953. Included are annual reports, newsletters, and two informational booklets published by the Home."],
+        "creator_ssm":["Industrial Home for the Blind",
+          "Industrial Home for the Blind"],
         "unitdate_normal_ssm":["1894/1953"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Industrial Home for the Blind",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1953"],
         "unitdate_ssm":["Inclusive, 1894-1953"],
         "language_ssm":["English"],
-        "_version_":1799311647582453760,
-        "timestamp":"2024-05-17T14:48:25.51Z"}]
+        "_version_":1801963116571918336,
+        "timestamp":"2024-06-15T21:12:23.385Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Industrial Home for the Blind",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

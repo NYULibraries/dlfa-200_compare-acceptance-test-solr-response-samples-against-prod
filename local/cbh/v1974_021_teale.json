@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles E. Teale family photobook"],
         "unitid_ssm":["V1974.021"],
         "abstract_ssm":["The Charles E. Teale family photobook, dating from circa 1895, consists of black-and-white photographs of members of the Teale family that have been commercially reproduced onto thick paper and bound into a photobook."],
+        "creator_ssm":["Teale family",
+          "Teale family"],
         "unitdate_normal_ssm":["1895/1895"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Teale family",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1895"],
         "unitdate_ssm":["Inclusive, 1895"],
         "language_ssm":["English"],
-        "_version_":1799312397743161344,
-        "timestamp":"2024-05-17T15:00:20.919Z"}]
+        "_version_":1802044784027631616,
+        "timestamp":"2024-06-16T18:50:27.541Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Teale family",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

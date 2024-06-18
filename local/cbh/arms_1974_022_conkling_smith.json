@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Thomas Conkling and Jonathan Smith land surveys"],
         "unitid_ssm":["1974.022"],
         "abstract_ssm":["Two surveys of land in Smithtown, Suffolk County, Long Island, dating from 1736.  One survey is conducted for Thomas Conkling by George Townsend, and one is conducted for Jonathan Smith by Richard Smith and Zephaniah Platt.  Also included is a map showing a section of land in controversy, presumably related to the surveyed Conkling and Smith properties."],
+        "creator_ssm":["Conkling, Thomas",
+          "Platt, Zephaniah",
+          "Smith, Richard",
+          "Smith, Jonathan",
+          "Townsend, George",
+          "Conkling, Thomas",
+          "Platt, Zephaniah",
+          "Smith, Richard",
+          "Smith, Jonathan",
+          "Townsend, George"],
         "unitdate_normal_ssm":["1736/1736"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Land surveys"],
@@ -72,8 +82,8 @@
         "unitdate_end_ssm":["1736"],
         "unitdate_ssm":["Inclusive, 1736"],
         "language_ssm":["English"],
-        "_version_":1799309976123998208,
-        "timestamp":"2024-05-17T14:21:51.483Z"}]
+        "_version_":1801960262033473536,
+        "timestamp":"2024-06-15T20:27:01.086Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +91,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Conkling, Thomas",1,
+        "Platt, Zephaniah",1,
+        "Smith, Jonathan",1,
+        "Smith, Richard",1,
+        "Townsend, George",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Randolph and Codwise families property dispute papers"],
         "unitid_ssm":["1977.117"],
         "abstract_ssm":["Accounts, correspondence, and property documents spanning the period 1849 to 1896 and relating to the property dispute between the Codwise and Randolph families. Materials mostly derive from the two families' dealings with the law firm Storrs and Sedgwick and the realtors who managed the property in question."],
+        "creator_ssm":["Codwise family",
+          "Randolph family",
+          "Storrs and Sedgwick (Firm)",
+          "Storrs and Sedgwick (Firm)",
+          "Codwise family",
+          "Randolph family"],
         "unitdate_normal_ssm":["1849/1896"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Storrs and Sedgwick (Firm)"],
@@ -75,8 +81,8 @@
         "unitdate_end_ssm":["1896"],
         "unitdate_ssm":["Inclusive, 1849-1896"],
         "language_ssm":["English"],
-        "_version_":1799312282261389312,
-        "timestamp":"2024-05-17T14:58:30.786Z"},
+        "_version_":1801960735156207616,
+        "timestamp":"2024-06-15T20:34:32.291Z"},
       {
         "id":"arms_1977_117_randolph_codwiseaspace_11694ffcddff74df298e5e46205f3a2d",
         "ead_ssi":"arms_1977_117_randolph_codwise",
@@ -95,8 +101,8 @@
         "unitdate_start_ssm":["1847"],
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["Inclusive, 1847-1865"],
-        "_version_":1799312282323255296,
-        "timestamp":"2024-05-17T14:58:30.846Z"},
+        "_version_":1801960735253725184,
+        "timestamp":"2024-06-15T20:34:32.384Z"},
       {
         "id":"arms_1977_117_randolph_codwiseaspace_247e7433f1993c6cef27030c95d69647",
         "ead_ssi":"arms_1977_117_randolph_codwise",
@@ -115,8 +121,8 @@
         "unitdate_start_ssm":["1849"],
         "unitdate_end_ssm":["1886"],
         "unitdate_ssm":["Inclusive, 1849-1886"],
-        "_version_":1799312282306478080,
-        "timestamp":"2024-05-17T14:58:30.829Z"},
+        "_version_":1801960735230656512,
+        "timestamp":"2024-06-15T20:34:32.362Z"},
       {
         "id":"arms_1977_117_randolph_codwiseaspace_b9792c5be972ba8febd897c3f9ff0168",
         "ead_ssi":"arms_1977_117_randolph_codwise",
@@ -135,8 +141,8 @@
         "unitdate_start_ssm":["1870"],
         "unitdate_end_ssm":["1886"],
         "unitdate_ssm":["Inclusive, 1870-1886"],
-        "_version_":1799312282290749440,
-        "timestamp":"2024-05-17T14:58:30.815Z"},
+        "_version_":1801960735197102080,
+        "timestamp":"2024-06-15T20:34:32.33Z"},
       {
         "id":"arms_1977_117_randolph_codwiseaspace_c6e2ebcd30683e163a8f368dc273cbae",
         "ead_ssi":"arms_1977_117_randolph_codwise",
@@ -155,8 +161,8 @@
         "unitdate_start_ssm":["1852"],
         "unitdate_end_ssm":["1866"],
         "unitdate_ssm":["Inclusive, 1852-1866"],
-        "_version_":1799312282276069376,
-        "timestamp":"2024-05-17T14:58:30.801Z"}]
+        "_version_":1801960735178227712,
+        "timestamp":"2024-06-15T20:34:32.312Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -164,7 +170,10 @@
       "repository_sim":[
         "cbh",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Codwise family",1,
+        "Randolph family",1,
+        "Storrs and Sedgwick (Firm)",1],
       "date_range_sim":[
         "1801-1900",5],
       "subject_sim":[

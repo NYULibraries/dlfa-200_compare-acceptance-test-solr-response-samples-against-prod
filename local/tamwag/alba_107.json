@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Bill Susman Papers"],
         "unitid_ssm":["ALBA.107"],
+        "creator_ssm":["Susman, Bill, 1915-2003",
+          "Susman, Bill, 1915-2003"],
         "unitdate_normal_ssm":["1940/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "famname_ssm":["Susman family",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, circa 1940s-1990s"],
         "language_ssm":["English"],
-        "_version_":1799747922549538816,
-        "timestamp":"2024-05-22T10:22:49.74Z"}]
+        "_version_":1802111030871982080,
+        "timestamp":"2024-06-17T12:23:25.455Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -70,7 +72,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Susman, Bill, 1915-2003",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -118,8 +118,8 @@
           "1935"],
         "unitdate_ssm":["Inclusive, 1899-1952 ; 1904-1935"],
         "language_ssm":["English"],
-        "_version_":1799311687623376896,
-        "timestamp":"2024-05-17T14:49:03.696Z"},
+        "_version_":1801967017618571264,
+        "timestamp":"2024-06-15T22:14:23.714Z"},
       {
         "id":"arms_2016_014_koneaspace_0c93b973640076ca5b569dffaa21f7ad",
         "ead_ssi":"arms_2016_014_kone",
@@ -134,8 +134,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Navy Yard"],
-        "_version_":1799311687793246208,
-        "timestamp":"2024-05-17T14:49:03.858Z"},
+        "_version_":1801967017952018432,
+        "timestamp":"2024-06-15T22:14:24.032Z"},
       {
         "id":"arms_2016_014_koneaspace_168c0b8b5abc1307a69b4f405820d9e7",
         "ead_ssi":"arms_2016_014_kone",
@@ -150,8 +150,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Neighborhoods"],
-        "_version_":1799311687805829120,
-        "timestamp":"2024-05-17T14:49:03.87Z"},
+        "_version_":1801967017978232832,
+        "timestamp":"2024-06-15T22:14:24.057Z"},
       {
         "id":"arms_2016_014_koneaspace_171f35736fc1531b3ff2705c30cf659e",
         "ead_ssi":"arms_2016_014_kone",
@@ -166,8 +166,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Grand Army Plaza"],
-        "_version_":1799311687739768832,
-        "timestamp":"2024-05-17T14:49:03.807Z"},
+        "_version_":1801967017849257984,
+        "timestamp":"2024-06-15T22:14:23.934Z"},
       {
         "id":"arms_2016_014_koneaspace_289981c73f5767ecaf23db38df6bd010",
         "ead_ssi":"arms_2016_014_kone",
@@ -182,8 +182,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Parks"],
-        "_version_":1799311687818412032,
-        "timestamp":"2024-05-17T14:49:03.882Z"},
+        "_version_":1801967018005495808,
+        "timestamp":"2024-06-15T22:14:24.083Z"},
       {
         "id":"arms_2016_014_koneaspace_3600f9d1bba8356fd07e8e9bc7e95f3c",
         "ead_ssi":"arms_2016_014_kone",
@@ -198,8 +198,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Monuments and statues"],
-        "_version_":1799311687778566144,
-        "timestamp":"2024-05-17T14:49:03.844Z"},
+        "_version_":1801967017920561152,
+        "timestamp":"2024-06-15T22:14:24.002Z"},
       {
         "id":"arms_2016_014_koneaspace_4157dee67c056a4fabcedf1549a9b48d",
         "ead_ssi":"arms_2016_014_kone",
@@ -214,8 +214,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Advertising and trade cards"],
-        "_version_":1799311687642251264,
-        "timestamp":"2024-05-17T14:49:03.714Z"},
+        "_version_":1801967017656320000,
+        "timestamp":"2024-06-15T22:14:23.75Z"},
       {
         "id":"arms_2016_014_koneaspace_4dba872051c1f6d7f26d1c095f7c25fb",
         "ead_ssi":"arms_2016_014_kone",
@@ -230,8 +230,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Streets"],
-        "_version_":1799311687872937984,
-        "timestamp":"2024-05-17T14:49:03.934Z"},
+        "_version_":1801967018125033472,
+        "timestamp":"2024-06-15T22:14:24.197Z"},
       {
         "id":"arms_2016_014_koneaspace_628ea5b392ae35f47ba8f3b169cb4e5d",
         "ead_ssi":"arms_2016_014_kone",
@@ -246,8 +246,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Hospitals"],
-        "_version_":1799311687753400320,
-        "timestamp":"2024-05-17T14:49:03.82Z"},
+        "_version_":1801967017877569536,
+        "timestamp":"2024-06-15T22:14:23.961Z"},
       {
         "id":"arms_2016_014_koneaspace_6e040cdb2455ddf5ad9bbfb4389c9c47",
         "ead_ssi":"arms_2016_014_kone",
@@ -262,8 +262,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["General"],
-        "_version_":1799311687725088768,
-        "timestamp":"2024-05-17T14:49:03.793Z"},
+        "_version_":1801967017818849280,
+        "timestamp":"2024-06-15T22:14:23.905Z"},
       {
         "id":"arms_2016_014_koneaspace_7e9d2cc0d2d7b4fb37057368fed006f3",
         "ead_ssi":"arms_2016_014_kone",
@@ -278,8 +278,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Stores"],
-        "_version_":1799311687860355072,
-        "timestamp":"2024-05-17T14:49:03.922Z"},
+        "_version_":1801967018095673344,
+        "timestamp":"2024-06-15T22:14:24.169Z"},
       {
         "id":"arms_2016_014_koneaspace_83136fdbf2cf607f7bc1c0402582eccc",
         "ead_ssi":"arms_2016_014_kone",
@@ -294,8 +294,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Restaurants"],
-        "_version_":1799311687833092096,
-        "timestamp":"2024-05-17T14:49:03.895Z"},
+        "_version_":1801967018033807360,
+        "timestamp":"2024-06-15T22:14:24.11Z"},
       {
         "id":"arms_2016_014_koneaspace_8314f433c55263318f190815fb59fb36",
         "ead_ssi":"arms_2016_014_kone",
@@ -310,8 +310,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Hotels"],
-        "_version_":1799311687765983232,
-        "timestamp":"2024-05-17T14:49:03.832Z"},
+        "_version_":1801967017899589632,
+        "timestamp":"2024-06-15T22:14:23.982Z"},
       {
         "id":"arms_2016_014_koneaspace_90e7f42c3644ef9448cc38cb27516e5b",
         "ead_ssi":"arms_2016_014_kone",
@@ -326,8 +326,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["YMCA and YWCA"],
-        "_version_":1799311687924318208,
-        "timestamp":"2024-05-17T14:49:03.983Z"},
+        "_version_":1801967018241425408,
+        "timestamp":"2024-06-15T22:14:24.307Z"},
       {
         "id":"arms_2016_014_koneaspace_93beb2d0902bfbd1b1729b6879e5587c",
         "ead_ssi":"arms_2016_014_kone",
@@ -342,8 +342,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Transportation"],
-        "_version_":1799311687898103808,
-        "timestamp":"2024-05-17T14:49:03.958Z"},
+        "_version_":1801967018188996608,
+        "timestamp":"2024-06-15T22:14:24.258Z"},
       {
         "id":"arms_2016_014_koneaspace_a8e0784bdd64b29708270dd86f0d689e",
         "ead_ssi":"arms_2016_014_kone",
@@ -358,8 +358,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Views and waterfront"],
-        "_version_":1799311687911735296,
-        "timestamp":"2024-05-17T14:49:03.97Z"},
+        "_version_":1801967018214162432,
+        "timestamp":"2024-06-15T22:14:24.282Z"},
       {
         "id":"arms_2016_014_koneaspace_c202930b6032585ab3e7ffea36c1e470",
         "ead_ssi":"arms_2016_014_kone",
@@ -374,8 +374,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Schools"],
-        "_version_":1799311687847772160,
-        "timestamp":"2024-05-17T14:49:03.91Z"},
+        "_version_":1801967018061070336,
+        "timestamp":"2024-06-15T22:14:24.136Z"},
       {
         "id":"arms_2016_014_koneaspace_c7d6e1d9b922be5875e1be509042976b",
         "ead_ssi":"arms_2016_014_kone",
@@ -390,8 +390,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Eagle postcards"],
-        "_version_":1799311687712505856,
-        "timestamp":"2024-05-17T14:49:03.78Z"},
+        "_version_":1801967017790537728,
+        "timestamp":"2024-06-15T22:14:23.878Z"},
       {
         "id":"arms_2016_014_koneaspace_df642e0cd85bc5523f01e4806b45b5c7",
         "ead_ssi":"arms_2016_014_kone",
@@ -406,8 +406,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Theaters"],
-        "_version_":1799311687885520896,
-        "timestamp":"2024-05-17T14:49:03.946Z"},
+        "_version_":1801967018159636480,
+        "timestamp":"2024-06-15T22:14:24.229Z"},
       {
         "id":"arms_2016_014_koneaspace_ea56cd300b8b261293f1bc8ac07a7f09",
         "ead_ssi":"arms_2016_014_kone",
@@ -422,8 +422,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Banks"],
-        "_version_":1799311687654834176,
-        "timestamp":"2024-05-17T14:49:03.726Z"},
+        "_version_":1801967017696165888,
+        "timestamp":"2024-06-15T22:14:23.788Z"},
       {
         "id":"arms_2016_014_koneaspace_eb618ec9a160d48d3d1b687a5a4b1d1d",
         "ead_ssi":"arms_2016_014_kone",
@@ -438,8 +438,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Bridges"],
-        "_version_":1799311687670562816,
-        "timestamp":"2024-05-17T14:49:03.741Z"},
+        "_version_":1801967017723428864,
+        "timestamp":"2024-06-15T22:14:23.814Z"},
       {
         "id":"arms_2016_014_koneaspace_ec92269267d05aef82b58b8f08d9ca88",
         "ead_ssi":"arms_2016_014_kone",
@@ -454,8 +454,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Buildings"],
-        "_version_":1799311687686291456,
-        "timestamp":"2024-05-17T14:49:03.756Z"},
+        "_version_":1801967017745448960,
+        "timestamp":"2024-06-15T22:14:23.835Z"},
       {
         "id":"arms_2016_014_koneaspace_ee05c58809ab07f563413d3dca6410cd",
         "ead_ssi":"arms_2016_014_kone",
@@ -470,8 +470,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Churches"],
-        "_version_":1799311687698874368,
-        "timestamp":"2024-05-17T14:49:03.768Z"}]
+        "_version_":1801967017769566208,
+        "timestamp":"2024-06-15T22:14:23.858Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

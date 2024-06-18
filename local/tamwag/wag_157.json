@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Rachel Searcy"],
         "unittitle_ssm":["Ted H. Jacobsen Papers"],
-        "unitid_ssm":["WAG.157",
-          "/repositories/2/resources/1417"],
+        "unitid_ssm":["WAG.157"],
         "abstract_ssm":["Ted H. Jacobsen is a teacher and labor activist from New York City, who served as the Secretary of the New York City Central Labor Council, AFL-CIO until 2007. A member of the United Federation of Teachers (UFT), the New York City Central Labor Council, and numerous other labor organizations in the city, Jacobsen represented nearly 400 affiliated local unions comprised of the city's working men and women. This collection documents his career and activism and consists of memoranda, correspondence, ephemera, photographs, and statistical reports concerning various aspects of labor relations in New York City, including individual unions, coalition groups, labor legislation, and political developments in New York. The collection also contains subject files documenting Jacobsen's involvement in numerous labor-related organizations in the city, including the New York City Central Labor Council and the United Federation of Teachers."],
+        "creator_ssm":["Jacobsen, Ted H.",
+          "Jacobsen, Ted H."],
         "unitdate_normal_ssm":["1979/2003"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "AFL-CIO. New York City Central Labor Council",
@@ -66,15 +67,15 @@
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1979-2003"],
-        "_version_":1799802292314046464,
-        "timestamp":"2024-05-23T00:47:00.789Z"},
+        "_version_":1802195190374465536,
+        "timestamp":"2024-06-18T10:41:06.211Z"},
       {
         "id":"wag_157aspace_41e8fde32aab1c2059b8bb0fba73d6a4",
         "ead_ssi":"wag_157",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Ted H. Jacobsen Papers"],
-        "collection_unitid_ssm":["WAG.157/repositories/2/resources/1417"],
+        "collection_unitid_ssm":["WAG.157"],
         "unittitle_ssm":["Unprocessed"],
         "unitid_ssm":["/repositories/2/archival_objects/801718"],
         "ref_ssi":"aspace_41e8fde32aab1c2059b8bb0fba73d6a4",
@@ -85,15 +86,15 @@
           "Box: 35",
           "Box: 32"],
         "heading_ssm":["Unprocessed"],
-        "_version_":1799802292349698048,
-        "timestamp":"2024-05-23T00:47:00.823Z"},
+        "_version_":1802195190396485632,
+        "timestamp":"2024-06-18T10:41:06.232Z"},
       {
         "id":"wag_157aspace_fb100d25c3b215dc09e69fe35cf055ee",
         "ead_ssi":"wag_157",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Ted H. Jacobsen Papers"],
-        "collection_unitid_ssm":["WAG.157/repositories/2/resources/1417"],
+        "collection_unitid_ssm":["WAG.157"],
         "unittitle_ssm":["LaFarge Memorial Award for Interracial Justice"],
         "unitid_ssm":["/repositories/2/archival_objects/781753"],
         "unitdate_normal_ssm":["1995/1995"],
@@ -101,14 +102,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 011, Folder: 8",
-          "Folder: 8"],
+        "location_ssm":["Box: Shared Tamiment 011, Folder: 8"],
         "heading_ssm":["LaFarge Memorial Award for Interracial Justice"],
         "unitdate_start_ssm":["1995"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["1995"],
-        "_version_":1799802292333969408,
-        "timestamp":"2024-05-23T00:47:00.808Z"}]
+        "_version_":1802195190387048448,
+        "timestamp":"2024-06-18T10:41:06.223Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -116,7 +116,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Jacobsen, Ted H.",1],
       "date_range_sim":[
         "1901-2000",2,
         "2001-2100",1,

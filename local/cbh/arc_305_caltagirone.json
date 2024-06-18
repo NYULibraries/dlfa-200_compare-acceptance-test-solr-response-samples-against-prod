@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Caltagirone family papers and photographs"],
         "unitid_ssm":["ARC.305"],
         "abstract_ssm":["The collection consists of photographs of the Caltagirone and related families (especially the La Rocca family), dating from circa 1900 to 1999, as well as related materials."],
+        "creator_ssm":["Caltagirone family",
+          "Caltagirone family"],
         "unitdate_normal_ssm":["1895/1999"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Linden Hill United Methodist Cemetery (New York, N.Y.)",
@@ -126,8 +128,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, circa 1900 to 1999"],
         "language_ssm":["English"],
-        "_version_":1799256451197173760,
-        "timestamp":"2024-05-17T00:11:06.135Z"},
+        "_version_":1801959820595560448,
+        "timestamp":"2024-06-15T20:20:00.097Z"},
       {
         "id":"arc_305_caltagironeaspace_006bdc97f13bbba9f10ec4f0743a1979",
         "ead_ssi":"arc_305_caltagirone",
@@ -146,8 +148,8 @@
         "unitdate_start_ssm":["1900"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, circa 1900-1930s"],
-        "_version_":1799256451212902400,
-        "timestamp":"2024-05-17T00:11:06.15Z"},
+        "_version_":1801959820638552064,
+        "timestamp":"2024-06-15T20:20:00.139Z"},
       {
         "id":"arc_305_caltagironeaspace_07a05c0d35c96c798e7f90089892df51",
         "ead_ssi":"arc_305_caltagirone",
@@ -166,8 +168,8 @@
         "unitdate_start_ssm":["1997"],
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["1997"],
-        "_version_":1799256451296788480,
-        "timestamp":"2024-05-17T00:11:06.23Z"},
+        "_version_":1801959820752846848,
+        "timestamp":"2024-06-15T20:20:00.248Z"},
       {
         "id":"arc_305_caltagironeaspace_1953ce34db3fca7240e99ab83f6af563",
         "ead_ssi":"arc_305_caltagirone",
@@ -186,8 +188,8 @@
         "unitdate_start_ssm":["1944"],
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1944-1976"],
-        "_version_":1799256451334537216,
-        "timestamp":"2024-05-17T00:11:06.266Z"},
+        "_version_":1801959820809469952,
+        "timestamp":"2024-06-15T20:20:00.302Z"},
       {
         "id":"arc_305_caltagironeaspace_6b51405ad3f893591e02a441fa4ebb1b",
         "ead_ssi":"arc_305_caltagirone",
@@ -206,8 +208,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1940s - 1970s"],
-        "_version_":1799256451242262528,
-        "timestamp":"2024-05-17T00:11:06.178Z"},
+        "_version_":1801959820680495104,
+        "timestamp":"2024-06-15T20:20:00.179Z"},
       {
         "id":"arc_305_caltagironeaspace_6cc10b3250dafe85c50484a0769318e6",
         "ead_ssi":"arc_305_caltagirone",
@@ -226,8 +228,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["Inclusive, 1940-1951"],
-        "_version_":1799256451225485312,
-        "timestamp":"2024-05-17T00:11:06.162Z"},
+        "_version_":1801959820657426432,
+        "timestamp":"2024-06-15T20:20:00.157Z"},
       {
         "id":"arc_305_caltagironeaspace_6e4d9f053a25fd9942d34d372522a709",
         "ead_ssi":"arc_305_caltagirone",
@@ -242,8 +244,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Concetta and Agostino Caltagirone materials"],
-        "_version_":1799256451320905728,
-        "timestamp":"2024-05-17T00:11:06.253Z"},
+        "_version_":1801959820785352704,
+        "timestamp":"2024-06-15T20:20:00.279Z"},
       {
         "id":"arc_305_caltagironeaspace_76c1950bf24d8810de76ad348229610c",
         "ead_ssi":"arc_305_caltagirone",
@@ -262,8 +264,8 @@
         "unitdate_start_ssm":["1953"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1953-1965"],
-        "_version_":1799256451255894016,
-        "timestamp":"2024-05-17T00:11:06.191Z"},
+        "_version_":1801959820697272320,
+        "timestamp":"2024-06-15T20:20:00.195Z"},
       {
         "id":"arc_305_caltagironeaspace_8c9b20b4e4e3b015ab525ab76446c95a",
         "ead_ssi":"arc_305_caltagirone",
@@ -282,8 +284,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1986-1992"],
-        "_version_":1799256451284205568,
-        "timestamp":"2024-05-17T00:11:06.218Z"},
+        "_version_":1801959820736069632,
+        "timestamp":"2024-06-15T20:20:00.232Z"},
       {
         "id":"arc_305_caltagironeaspace_b7f097d22e240f39994bcad6b6fb80ad",
         "ead_ssi":"arc_305_caltagirone",
@@ -302,8 +304,8 @@
         "unitdate_start_ssm":["1964"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1964-1965"],
-        "_version_":1799256451389063168,
-        "timestamp":"2024-05-17T00:11:06.318Z"},
+        "_version_":1801959820886016000,
+        "timestamp":"2024-06-15T20:20:00.375Z"},
       {
         "id":"arc_305_caltagironeaspace_c0bdb00dd642acbbed2a2ab3da14dcfe",
         "ead_ssi":"arc_305_caltagirone",
@@ -322,8 +324,8 @@
         "unitdate_start_ssm":["1966"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1966-1999"],
-        "_version_":1799256451269525504,
-        "timestamp":"2024-05-17T00:11:06.204Z"},
+        "_version_":1801959820715098112,
+        "timestamp":"2024-06-15T20:20:00.212Z"},
       {
         "id":"arc_305_caltagironeaspace_cb21c77b3017c51a5b7192cb40931695",
         "ead_ssi":"arc_305_caltagirone",
@@ -342,8 +344,8 @@
         "unitdate_start_ssm":["1948"],
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["1948"],
-        "_version_":1799256451374383104,
-        "timestamp":"2024-05-17T00:11:06.304Z"},
+        "_version_":1801959820869238784,
+        "timestamp":"2024-06-15T20:20:00.359Z"},
       {
         "id":"arc_305_caltagironeaspace_d6f7d1248ffd267a133f52bb2b9b2962",
         "ead_ssi":"arc_305_caltagirone",
@@ -362,8 +364,8 @@
         "unitdate_start_ssm":["1933"],
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["Inclusive, 1933, 1943"],
-        "_version_":1799256451348168704,
-        "timestamp":"2024-05-17T00:11:06.278Z"},
+        "_version_":1801959820831490048,
+        "timestamp":"2024-06-15T20:20:00.323Z"},
       {
         "id":"arc_305_caltagironeaspace_db4eb0ff263f4fcf7de426910ce3fd21",
         "ead_ssi":"arc_305_caltagirone",
@@ -382,8 +384,8 @@
         "unitdate_start_ssm":["1963"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1963-1980"],
-        "_version_":1799256451309371392,
-        "timestamp":"2024-05-17T00:11:06.242Z"},
+        "_version_":1801959820768575488,
+        "timestamp":"2024-06-15T20:20:00.263Z"},
       {
         "id":"arc_305_caltagironeaspace_f8a9a370ba7806cfaca4f969fc86795f",
         "ead_ssi":"arc_305_caltagirone",
@@ -402,8 +404,8 @@
         "unitdate_start_ssm":["1939"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["circa 1939"],
-        "_version_":1799256451360751616,
-        "timestamp":"2024-05-17T00:11:06.291Z"}]
+        "_version_":1801959820851412992,
+        "timestamp":"2024-06-15T20:20:00.342Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -411,7 +413,8 @@
       "repository_sim":[
         "cbh",15],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Caltagirone family",1],
       "date_range_sim":[
         "1801-1900",2,
         "1901-2000",14,

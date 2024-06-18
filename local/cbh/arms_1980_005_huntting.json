@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Teunis D. Huntting genealogical records of Long Island families"],
         "unitid_ssm":["1980.005"],
         "abstract_ssm":["This collection contains Teunis G. Huntting's papers on the genealogy of Long Island families, which was copied from the church records of East Hampton, New York. The volume was assembled circa 1880 to 1900, and the genealogical information included within dates from the 18th and 19th centuries. It includes the following families: Baker, Barns, Conklin, Darbe, Dayton, Dimon, Edwards, Filer, Fithian, Hand, Hedges, Hicks, Hopping, Huntting, Jones, Miller, Mulford, Murdock, Osborn, Paine, Parsons, Schellinger, Sherrill, Stratton, and Talmage."],
+        "creator_ssm":["Huntting, Teunis D.",
+          "Huntting, Teunis D."],
         "unitdate_normal_ssm":["1880/1909"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Sherrill family",
@@ -96,8 +98,8 @@
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["Inclusive, circa 1880s-1900s"],
         "language_ssm":["English"],
-        "_version_":1799256214698196992,
-        "timestamp":"2024-05-17T00:07:20.592Z"}]
+        "_version_":1801962781266673664,
+        "timestamp":"2024-06-15T21:07:03.614Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -105,7 +107,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Huntting, Teunis D.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

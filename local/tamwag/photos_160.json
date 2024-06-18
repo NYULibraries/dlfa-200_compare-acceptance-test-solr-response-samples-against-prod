@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ed Roth Photographs"],
         "unitid_ssm":["PHOTOS.160"],
         "abstract_ssm":["Ed Roth was a member of District 65, United Retail and Wholesale Employees of America (which later affiliated with and separated from a number of larger labor unions, culminating with its joining the United Automobile Workers of America (UAW)). In 1940, he joined District 65's Camera Club, and in 1941 he became the club's president. The photographs in the collection, which span from the early 1940s to the late 1990s, are personal in nature and include portraits of Ed Roth and pictures of Roth with his family and friends."],
+        "creator_ssm":["Roth family",
+          "Roth family"],
         "unitdate_normal_ssm":["1940/1998"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. District 65"],
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1998"],
         "unitdate_ssm":["Inclusive, 1940-1998"],
-        "_version_":1799764581629820928,
-        "timestamp":"2024-05-22T14:47:37.078Z"}]
+        "_version_":1802141954667970560,
+        "timestamp":"2024-06-17T20:34:56.685Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Roth family",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

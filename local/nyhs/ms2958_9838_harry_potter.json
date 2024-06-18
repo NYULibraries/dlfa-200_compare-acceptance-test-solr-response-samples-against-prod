@@ -47,6 +47,8 @@
         "unittitle_ssm":["\"Harry Potter and the Cursed Child\" Broadway theatre show programs and ephemera"],
         "unitid_ssm":["AHMC - Harry Potter"],
         "abstract_ssm":["The Showbill theatre programs of April 2018 for \"Harry Potter and the Cursed Child: Part One\" and \"Harry Potter and the Cursed Child: Part Two\"; a set of two tickets for the official Broadway opening on Sunday, April 22, 2018, of the two part Harry Potter play; a pass to the party at Cipriani 42nd Street event space held after the evening performance of Part Two; and the envelope holding the tickets and pass. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: \"Harry Potter and the Cursed Child\" Broadway theatre show programs and ephemera."],
+        "creator_ssm":["Lyric Theatre (Organization : New York, N.Y.)",
+          "Lyric Theatre (Organization : New York, N.Y.)"],
         "corpname_ssm":["New-York Historical Society",
           "Lyric Theatre (Organization : New York, N.Y.)"],
         "collection_ssm":["\"Harry Potter and the Cursed Child\" Broadway theatre show programs and ephemera"],
@@ -58,8 +60,8 @@
         "heading_ssm":["\"Harry Potter and the Cursed Child\" Broadway theatre show programs and ephemera"],
         "unitdate_ssm":["Inclusive, 2018"],
         "language_ssm":["English"],
-        "_version_":1799317870491992064,
-        "timestamp":"2024-05-17T16:27:20.139Z"}]
+        "_version_":1802083782780518400,
+        "timestamp":"2024-06-17T05:10:19.65Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lyric Theatre (Organization : New York, N.Y.)",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

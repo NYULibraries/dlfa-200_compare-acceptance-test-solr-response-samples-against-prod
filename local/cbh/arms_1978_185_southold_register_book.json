@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Southold, N.Y. register book typescript"],
         "unitid_ssm":["1978.185"],
         "abstract_ssm":["The Southold, N.Y. register book typescript covers genealogical information, indenture, bond and deed information, records of town information, enslaved person's manumission notices, town meeting minutes, and voting records with results, along with the bylaws and constitutions of  local church and school and highway commissioner records."],
+        "creator_ssm":["Southold (N.Y.)",
+          "Southold (N.Y.)"],
         "unitdate_normal_ssm":["1683/1850"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Southold (N.Y.)",
@@ -86,8 +88,8 @@
         "unitdate_end_ssm":["1850"],
         "unitdate_ssm":["Inclusive, undated copy of 1683-1850 original"],
         "language_ssm":["English"],
-        "_version_":1799311561569861632,
-        "timestamp":"2024-05-17T14:47:03.482Z"}]
+        "_version_":1801962663205404672,
+        "timestamp":"2024-06-15T21:05:11.022Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +97,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Southold (N.Y.)",1],
       "date_range_sim":[
         "1601-1700",1,
         "1801-1900",1],

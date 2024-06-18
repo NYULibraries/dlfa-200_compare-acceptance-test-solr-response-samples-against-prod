@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Abraham Lincoln Brigade and Spanish Civil War Photographs: Contact Sheets"],
         "unitid_ssm":["ALBA.PHOTO.239"],
+        "creator_ssm":["Randall, Harry W., Jr., 1915-",
+          "Randall, Harry W., Jr., 1915-"],
         "unitdate_normal_ssm":["1937/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Randall, Harry W., Jr., 1915-"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1937-1939"],
         "language_ssm":["English"],
-        "_version_":1799334312936472576,
-        "timestamp":"2024-05-17T20:48:40.876Z"},
+        "_version_":1802112437298659328,
+        "timestamp":"2024-06-17T12:45:46.728Z"},
       {
         "id":"alba_photo_239aspace_616506061f7c20b8f66a171cd49ac53b",
         "ead_ssi":"alba_photo_239",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799334312950104064,
-        "timestamp":"2024-05-17T20:48:40.889Z"}]
+        "_version_":1802112437321728000,
+        "timestamp":"2024-06-17T12:45:46.75Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Randall, Harry W., Jr., 1915-",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

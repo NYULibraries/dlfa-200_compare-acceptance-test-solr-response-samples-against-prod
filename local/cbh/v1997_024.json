@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York World's Fair scrapbook and photographs"],
         "unitid_ssm":["V1977.024"],
         "abstract_ssm":["A scrapbook and photographs documenting the 1939-1940 New York World's Fair."],
+        "creator_ssm":["Neumann, Fannie, Mrs.",
+          "Neumann, Fannie, Mrs."],
         "unitdate_normal_ssm":["1939/1940"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographs",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, 1939-1940"],
         "language_ssm":["English"],
-        "_version_":1799311561863462912,
-        "timestamp":"2024-05-17T14:47:03.761Z"}]
+        "_version_":1802045605695979520,
+        "timestamp":"2024-06-16T19:03:31.145Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Neumann, Fannie, Mrs.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

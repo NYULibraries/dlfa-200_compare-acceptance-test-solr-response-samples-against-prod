@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Malcolm F. Birch family collection"],
         "unitid_ssm":["2006.025"],
         "abstract_ssm":["This collection contains daguerreotypes, tintypes, stereo cards, cabinet cards, and studio cards produced by the photography studio of Silas Avery Holmes, as well as various other photographers. Subjects include family outings; Central Park; Petersburg, Saratoga, and Niagara Falls, N.Y.; Blackwell's Island (later Roosevelt Island); and New York City street scenes. Another set of photographs depicts members of the Holmes family, including Silas Avery Holmes."],
+        "creator_ssm":["Holmes, Silas A.",
+          "Holmes, Silas A."],
         "unitdate_normal_ssm":["1830/1896"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Holmes family"],
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1896"],
         "unitdate_ssm":["Inclusive, circa 1840 to 1886"],
         "language_ssm":["English"],
-        "_version_":1799256316161556480,
-        "timestamp":"2024-05-17T00:08:57.355Z"}]
+        "_version_":1801963944970027008,
+        "timestamp":"2024-06-15T21:25:33.408Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Holmes, Silas A.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

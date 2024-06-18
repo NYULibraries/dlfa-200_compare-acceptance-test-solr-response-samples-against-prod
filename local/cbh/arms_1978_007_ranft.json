@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jacob Ranft title abstract"],
         "unitid_ssm":["1978.007"],
         "abstract_ssm":["An 1843-1907 title abstract for a piece of property purchased by Jacob Ranft and his wife, Margaret, in Queens, New York."],
+        "creator_ssm":["Ranft, Jacob",
+          "Ranft, Jacob"],
         "unitdate_normal_ssm":["1843/1907"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Abstracts (summaries)"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1907"],
         "unitdate_ssm":["Inclusive, 1843-1907"],
         "language_ssm":["English"],
-        "_version_":1799312376506351616,
-        "timestamp":"2024-05-17T15:00:00.666Z"}]
+        "_version_":1801962219881103360,
+        "timestamp":"2024-06-15T20:58:08.234Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ranft, Jacob",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Jacques Denyse estate administration document"],
         "unitid_ssm":["1977.076"],
         "abstract_ssm":["One document, dated April 12, 1796, that appoints Adam Denyse and John Denyse as administrators of the estate of Jacques Denyse."],
+        "creator_ssm":["Lefferts, Jacobus L.",
+          "Denyse, Jacques",
+          "Lefferts, Jacobus L.",
+          "Denyse, Jacques"],
         "unitdate_normal_ssm":["1796/1796"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Estate records"],
@@ -67,8 +71,8 @@
         "unitdate_end_ssm":["1796"],
         "unitdate_ssm":["1796"],
         "language_ssm":["English"],
-        "_version_":1799311478052880384,
-        "timestamp":"2024-05-17T14:45:43.834Z"}]
+        "_version_":1801960646738182144,
+        "timestamp":"2024-06-15T20:33:07.969Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +80,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Denyse, Jacques",1,
+        "Lefferts, Jacobus L.",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[],

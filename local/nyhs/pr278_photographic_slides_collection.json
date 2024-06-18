@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":16,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New-York Historical Society Collection of Photographic Slides Collection"],
         "unitid_ssm":["PR 278"],
         "abstract_ssm":["This collection is a format-based collection for small accessions of slides. It includes photographic slides of New York City in the 1960s and 1970s taken by amateur photographers Herbert Sendecki and Ray H. Billings."],
+        "creator_ssm":["New-York Historical Society",
+          "New-York Historical Society"],
         "corpname_ssm":["New-York Historical Society",
           "New-York Historical Society"],
         "geogname_ssm":["New York (N.Y.) -- Photographs."],
@@ -58,8 +60,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["New-York Historical Society Collection of Photographic Slides Collection"],
         "unitdate_ssm":["Inclusive, 1960-1979"],
-        "_version_":1799319027525353472,
-        "timestamp":"2024-05-17T16:45:43.572Z"},
+        "_version_":1802093884232171520,
+        "timestamp":"2024-06-17T07:50:53.144Z"},
       {
         "id":"pr278_photographic_slides_collectionaspace_ref33_y8y",
         "ead_ssi":"pr278_photographic_slides_collection",
@@ -72,12 +74,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Sendecki slides"],
         "unitdate_ssm":["1963-1964"],
-        "_version_":1799319027542130688,
-        "timestamp":"2024-05-17T16:45:43.587Z"},
+        "_version_":1802093884256288768,
+        "timestamp":"2024-06-17T07:50:53.168Z"},
       {
         "id":"pr278_photographic_slides_collectionaspace_ref35_y8v",
         "ead_ssi":"pr278_photographic_slides_collection",
@@ -90,12 +91,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Billings Slides"],
         "unitdate_ssm":["Inclusive, 1960-1979"],
-        "_version_":1799319027554713600,
-        "timestamp":"2024-05-17T16:45:43.6Z"}]
+        "_version_":1802093884281454592,
+        "timestamp":"2024-06-17T07:50:53.192Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -103,7 +103,8 @@
       "repository_sim":[
         "nyhs",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New-York Historical Society",1],
       "date_range_sim":[
         "undated & other",3],
       "subject_sim":[],

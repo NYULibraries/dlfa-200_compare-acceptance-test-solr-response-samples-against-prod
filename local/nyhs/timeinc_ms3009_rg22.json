@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Time Inc. Printing Developments, Inc. Records"],
         "unitid_ssm":["MS 3009-RG 22"],
         "abstract_ssm":["Includes business expenses ledgers and payroll books of Printing Developments, Inc., a wholly-owned subsidiary of Time Inc., that manufactured and marketed technological products and services related to printing."],
+        "creator_ssm":["Time, inc.",
+          "Time, inc."],
         "corpname_ssm":["New-York Historical Society",
           "Time, inc.",
           "Printing Developments, Inc.",
@@ -73,8 +75,8 @@
           "Payroll records."],
         "heading_ssm":["Time Inc. Printing Developments, Inc. Records"],
         "unitdate_ssm":["Inclusive, 1950-1974"],
-        "_version_":1799324382809554944,
-        "timestamp":"2024-05-17T18:10:50.769Z"},
+        "_version_":1802104477786832896,
+        "timestamp":"2024-06-17T10:39:15.946Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_64fe1f501614cbf17518b6893bf244e7",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -93,8 +95,8 @@
         "location_ssm":["Offsite-Box: 876"],
         "heading_ssm":["Ledgers"],
         "unitdate_ssm":["Inclusive, 1973-1974"],
-        "_version_":1799324383043387392,
-        "timestamp":"2024-05-17T18:10:50.992Z"},
+        "_version_":1802104478097211392,
+        "timestamp":"2024-06-17T10:39:16.242Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_aaacbfb8c9741ef04ec4675556cfc62d",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -113,8 +115,8 @@
         "location_ssm":["Offsite-Box: 875"],
         "heading_ssm":["Ledgers"],
         "unitdate_ssm":["Inclusive, 1973-1974"],
-        "_version_":1799324383030804480,
-        "timestamp":"2024-05-17T18:10:50.98Z"},
+        "_version_":1802104478077288448,
+        "timestamp":"2024-06-17T10:39:16.223Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_ref10_8vj",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -132,8 +134,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 665"],
         "heading_ssm":["1950"],
-        "_version_":1799324382839963648,
-        "timestamp":"2024-05-17T18:10:50.798Z"},
+        "_version_":1802104477825630208,
+        "timestamp":"2024-06-17T10:39:15.983Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_ref11_n0s",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -151,8 +153,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 665"],
         "heading_ssm":["1951"],
-        "_version_":1799324382858838016,
-        "timestamp":"2024-05-17T18:10:50.816Z"},
+        "_version_":1802104477850796032,
+        "timestamp":"2024-06-17T10:39:16.007Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_ref12_rik",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -170,8 +172,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 665"],
         "heading_ssm":["1952"],
-        "_version_":1799324382875615232,
-        "timestamp":"2024-05-17T18:10:50.832Z"},
+        "_version_":1802104477867573248,
+        "timestamp":"2024-06-17T10:39:16.023Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_ref13_6co",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -189,8 +191,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 665"],
         "heading_ssm":["1953"],
-        "_version_":1799324382907072512,
-        "timestamp":"2024-05-17T18:10:50.862Z"},
+        "_version_":1802104477903224832,
+        "timestamp":"2024-06-17T10:39:16.057Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_ref14_90w",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -208,8 +210,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 664"],
         "heading_ssm":["1954"],
-        "_version_":1799324382922801152,
-        "timestamp":"2024-05-17T18:10:50.877Z"},
+        "_version_":1802104477922099200,
+        "timestamp":"2024-06-17T10:39:16.075Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_ref15_ov8",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -227,8 +229,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 666"],
         "heading_ssm":["1964"],
-        "_version_":1799324382997250048,
-        "timestamp":"2024-05-17T18:10:50.948Z"},
+        "_version_":1802104478031151104,
+        "timestamp":"2024-06-17T10:39:16.179Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_ref22_6ew",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -243,8 +245,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I. Business Expenses Ledgers"],
         "unitdate_ssm":["1950-1964"],
-        "_version_":1799324382826332160,
-        "timestamp":"2024-05-17T18:10:50.785Z"},
+        "_version_":1802104477805707264,
+        "timestamp":"2024-06-17T10:39:15.964Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_ref25_8el",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -259,8 +261,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series II. Manufacturers Hanover Trust Company Ledgers [RESTRICTED]"],
         "unitdate_ssm":["Inclusive, 1973-1974"],
-        "_version_":1799324383016124416,
-        "timestamp":"2024-05-17T18:10:50.966Z"},
+        "_version_":1802104478058414080,
+        "timestamp":"2024-06-17T10:39:16.204Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_ref5_o93",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -278,8 +280,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 664"],
         "heading_ssm":["1955"],
-        "_version_":1799324382936432640,
-        "timestamp":"2024-05-17T18:10:50.89Z"},
+        "_version_":1802104477945167872,
+        "timestamp":"2024-06-17T10:39:16.097Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_ref6_el8",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -297,8 +299,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 666"],
         "heading_ssm":["1952-1954"],
-        "_version_":1799324382892392448,
-        "timestamp":"2024-05-17T18:10:50.848Z"},
+        "_version_":1802104477885399040,
+        "timestamp":"2024-06-17T10:39:16.04Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_ref7_k10",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -316,8 +318,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 666"],
         "heading_ssm":["1958"],
-        "_version_":1799324382979424256,
-        "timestamp":"2024-05-17T18:10:50.931Z"},
+        "_version_":1802104478009131008,
+        "timestamp":"2024-06-17T10:39:16.158Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_ref8_qm1",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -335,8 +337,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 664"],
         "heading_ssm":["1956"],
-        "_version_":1799324382950064128,
-        "timestamp":"2024-05-17T18:10:50.903Z"},
+        "_version_":1802104477969285120,
+        "timestamp":"2024-06-17T10:39:16.12Z"},
       {
         "id":"timeinc_ms3009_rg22aspace_ref9_3dt",
         "ead_ssi":"timeinc_ms3009_rg22",
@@ -354,8 +356,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 664"],
         "heading_ssm":["1957"],
-        "_version_":1799324382965792768,
-        "timestamp":"2024-05-17T18:10:50.918Z"}]
+        "_version_":1802104477987110912,
+        "timestamp":"2024-06-17T10:39:16.137Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -363,7 +365,8 @@
       "repository_sim":[
         "nyhs",16],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Time, inc.",1],
       "date_range_sim":[
         "undated & other",16],
       "subject_sim":[

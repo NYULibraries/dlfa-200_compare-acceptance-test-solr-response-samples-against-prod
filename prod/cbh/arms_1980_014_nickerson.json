@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Nickerson family papers"],
         "unitid_ssm":["1980.014"],
         "abstract_ssm":["The Nickerson family papers contain the papers of the Joshua Nickerson family of Sag Harbor, Long Island and Forest Hills, Queens. Documents include wills, mortgages, estate inventories, deeds, and letters."],
+        "creator_ssm":["Nickerson family",
+          "Nickerson family"],
         "unitdate_normal_ssm":["1863/1975",
           "1863/1911"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -97,8 +99,8 @@
           "1911"],
         "unitdate_ssm":["Inclusive, 1863-1975 ; 1863-1911"],
         "language_ssm":["English"],
-        "_version_":1798678244287840256,
-        "timestamp":"2024-05-10T15:00:45.056Z"}]
+        "_version_":1800754598774833152,
+        "timestamp":"2024-06-02T13:03:31.002Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -106,7 +108,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nickerson family",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Joseph North Spanish Civil War Artifacts"],
         "unitid_ssm":["ALBA.294"],
+        "creator_ssm":["North, Joseph",
+          "North, Joseph"],
         "unitdate_normal_ssm":["1930/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["North, Joseph"],
@@ -60,8 +62,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, circa 1930s"],
         "language_ssm":["English"],
-        "_version_":1799748154692730880,
-        "timestamp":"2024-05-22T10:26:31.13Z"},
+        "_version_":1802111644785967104,
+        "timestamp":"2024-06-17T12:33:10.929Z"},
       {
         "id":"alba_294aspace_ref1",
         "ead_ssi":"alba_294",
@@ -70,6 +72,8 @@
         "collection_ssm":["Joseph North Spanish Civil War Artifacts"],
         "collection_unitid_ssm":["ALBA.294"],
         "unittitle_ssm":["Series I: Artifacts"],
+        "creator_ssm":["North, Joseph",
+          "North, Joseph"],
         "genreform_ssm":["Artifacts (object genre)"],
         "geogname_ssm":["Spain -- History -- Civil War, 1936-1939."],
         "persname_ssm":["North, Joseph",
@@ -81,8 +85,8 @@
         "place_ssm":["Spain -- History -- Civil War, 1936-1939."],
         "material_type_ssm":["Artifacts (object genre)"],
         "heading_ssm":["Series I: Artifacts"],
-        "_version_":1799748154707410944,
-        "timestamp":"2024-05-22T10:26:31.144Z"},
+        "_version_":1802111644854124544,
+        "timestamp":"2024-06-17T12:33:10.993Z"},
       {
         "id":"alba_294aspace_ref10",
         "ead_ssi":"alba_294",
@@ -100,8 +104,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Wallet"],
-        "_version_":1799748154813317120,
-        "timestamp":"2024-05-22T10:26:31.245Z"},
+        "_version_":1802111645188620288,
+        "timestamp":"2024-06-17T12:33:11.313Z"},
       {
         "id":"alba_294aspace_ref11",
         "ead_ssi":"alba_294",
@@ -119,8 +123,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Fragment of a Label"],
-        "_version_":1799748154825900032,
-        "timestamp":"2024-05-22T10:26:31.257Z"},
+        "_version_":1802111645221126144,
+        "timestamp":"2024-06-17T12:33:11.343Z"},
       {
         "id":"alba_294aspace_ref12",
         "ead_ssi":"alba_294",
@@ -138,8 +142,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Group Portrait"],
-        "_version_":1799748154837434368,
-        "timestamp":"2024-05-22T10:26:31.268Z"},
+        "_version_":1802111645250486272,
+        "timestamp":"2024-06-17T12:33:11.371Z"},
       {
         "id":"alba_294aspace_ref13",
         "ead_ssi":"alba_294",
@@ -157,8 +161,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["CPUSA Patch"],
-        "_version_":1799748154850017280,
-        "timestamp":"2024-05-22T10:26:31.28Z"},
+        "_version_":1802111645291380736,
+        "timestamp":"2024-06-17T12:33:11.411Z"},
       {
         "id":"alba_294aspace_ref14",
         "ead_ssi":"alba_294",
@@ -176,8 +180,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Envelope with Message on it"],
-        "_version_":1799748154863648768,
-        "timestamp":"2024-05-22T10:26:31.293Z"},
+        "_version_":1802111645318643712,
+        "timestamp":"2024-06-17T12:33:11.437Z"},
       {
         "id":"alba_294aspace_ref15",
         "ead_ssi":"alba_294",
@@ -195,8 +199,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Currency (Spanish and German)"],
-        "_version_":1799748154877280256,
-        "timestamp":"2024-05-22T10:26:31.306Z"},
+        "_version_":1802111645345906688,
+        "timestamp":"2024-06-17T12:33:11.463Z"},
       {
         "id":"alba_294aspace_ref16",
         "ead_ssi":"alba_294",
@@ -214,8 +218,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Guide to Barcelona"],
-        "_version_":1799748154891960320,
-        "timestamp":"2024-05-22T10:26:31.32Z"},
+        "_version_":1802111645371072512,
+        "timestamp":"2024-06-17T12:33:11.487Z"},
       {
         "id":"alba_294aspace_ref17",
         "ead_ssi":"alba_294",
@@ -233,8 +237,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Baggage Tickets (Ship)"],
-        "_version_":1799748154903494656,
-        "timestamp":"2024-05-22T10:26:31.331Z"},
+        "_version_":1802111645394141184,
+        "timestamp":"2024-06-17T12:33:11.509Z"},
       {
         "id":"alba_294aspace_ref18",
         "ead_ssi":"alba_294",
@@ -252,8 +256,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Normandie Matchbook"],
-        "_version_":1799748154915028992,
-        "timestamp":"2024-05-22T10:26:31.342Z"},
+        "_version_":1802111645414064128,
+        "timestamp":"2024-06-17T12:33:11.528Z"},
       {
         "id":"alba_294aspace_ref19",
         "ead_ssi":"alba_294",
@@ -271,8 +275,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Stationary: \"Saludo a Franco: !Arriba Espana!\" & Majestic Hotel Inglaterra (Barcelona)"],
-        "_version_":1799748154927611904,
-        "timestamp":"2024-05-22T10:26:31.354Z"},
+        "_version_":1802111645433987072,
+        "timestamp":"2024-06-17T12:33:11.546Z"},
       {
         "id":"alba_294aspace_ref2",
         "ead_ssi":"alba_294",
@@ -290,8 +294,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["40 Miniatures of Barcelona (in broken box)"],
-        "_version_":1799748154719993856,
-        "timestamp":"2024-05-22T10:26:31.156Z"},
+        "_version_":1802111644899213312,
+        "timestamp":"2024-06-17T12:33:11.037Z"},
       {
         "id":"alba_294aspace_ref20",
         "ead_ssi":"alba_294",
@@ -309,8 +313,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Pamphlets: \"Primero de Mayo\", \"Ayuda Infantil De Retaguardia\""],
-        "_version_":1799748154940194816,
-        "timestamp":"2024-05-22T10:26:31.365Z"},
+        "_version_":1802111645458104320,
+        "timestamp":"2024-06-17T12:33:11.57Z"},
       {
         "id":"alba_294aspace_ref21",
         "ead_ssi":"alba_294",
@@ -328,8 +332,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Envelopes: Spanish Republic"],
-        "_version_":1799748154952777728,
-        "timestamp":"2024-05-22T10:26:31.378Z"},
+        "_version_":1802111645484318720,
+        "timestamp":"2024-06-17T12:33:11.594Z"},
       {
         "id":"alba_294aspace_ref22",
         "ead_ssi":"alba_294",
@@ -347,8 +351,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Stamps/Seal"],
-        "_version_":1799748154964312064,
-        "timestamp":"2024-05-22T10:26:31.389Z"},
+        "_version_":1802111645504241664,
+        "timestamp":"2024-06-17T12:33:11.614Z"},
       {
         "id":"alba_294aspace_ref23",
         "ead_ssi":"alba_294",
@@ -366,8 +370,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Tickets (French)"],
-        "_version_":1799748154976894976,
-        "timestamp":"2024-05-22T10:26:31.401Z"},
+        "_version_":1802111645522067456,
+        "timestamp":"2024-06-17T12:33:11.631Z"},
       {
         "id":"alba_294aspace_ref24",
         "ead_ssi":"alba_294",
@@ -385,8 +389,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Postcards (Blank)"],
-        "_version_":1799748154989477888,
-        "timestamp":"2024-05-22T10:26:31.413Z"},
+        "_version_":1802111645547233280,
+        "timestamp":"2024-06-17T12:33:11.654Z"},
       {
         "id":"alba_294aspace_ref3",
         "ead_ssi":"alba_294",
@@ -404,8 +408,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Hat"],
-        "_version_":1799748154732576768,
-        "timestamp":"2024-05-22T10:26:31.168Z"},
+        "_version_":1802111644939059200,
+        "timestamp":"2024-06-17T12:33:11.075Z"},
       {
         "id":"alba_294aspace_ref5",
         "ead_ssi":"alba_294",
@@ -423,8 +427,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Scarf"],
-        "_version_":1799748154750402560,
-        "timestamp":"2024-05-22T10:26:31.184Z"},
+        "_version_":1802111645005119488,
+        "timestamp":"2024-06-17T12:33:11.138Z"},
       {
         "id":"alba_294aspace_ref6",
         "ead_ssi":"alba_294",
@@ -442,8 +446,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Lighter (x2)"],
-        "_version_":1799748154762985472,
-        "timestamp":"2024-05-22T10:26:31.197Z"},
+        "_version_":1802111645033431040,
+        "timestamp":"2024-06-17T12:33:11.165Z"},
       {
         "id":"alba_294aspace_ref7",
         "ead_ssi":"alba_294",
@@ -461,8 +465,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Hat"],
-        "_version_":1799748154775568384,
-        "timestamp":"2024-05-22T10:26:31.209Z"},
+        "_version_":1802111645071179776,
+        "timestamp":"2024-06-17T12:33:11.201Z"},
       {
         "id":"alba_294aspace_ref8",
         "ead_ssi":"alba_294",
@@ -480,8 +484,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Hat (blue with red band)"],
-        "_version_":1799748154789199872,
-        "timestamp":"2024-05-22T10:26:31.222Z"},
+        "_version_":1802111645113122816,
+        "timestamp":"2024-06-17T12:33:11.241Z"},
       {
         "id":"alba_294aspace_ref9",
         "ead_ssi":"alba_294",
@@ -499,8 +503,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Rope"],
-        "_version_":1799748154801782784,
-        "timestamp":"2024-05-22T10:26:31.234Z"}]
+        "_version_":1802111645154017280,
+        "timestamp":"2024-06-17T12:33:11.28Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -508,7 +512,8 @@
       "repository_sim":[
         "tamwag",24],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "North, Joseph",2],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",23],

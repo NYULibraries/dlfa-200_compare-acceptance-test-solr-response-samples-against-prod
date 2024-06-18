@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["George T. Lain sketchbook"],
         "unitid_ssm":["1973.140"],
         "abstract_ssm":["This collection consists of one sketchbook of pencil drawings created by George T. Lain while a student at the Brooklyn Institute from 1861 to 1862.  The drawings depict Brooklyn homes, landscapes, and sailing scenes.  George Theodore Lain (1844-1893) was born in Goshen, N.Y and attended the Brooklyn Institute in Brooklyn, N.Y.  He was an artist and publisher who published the Brooklyn City Directory for 20 years.  Lain lived at 146 South Portland Avenue in Brooklyn with his wife and three children, and was a member of the Hanson Place Baptist Church."],
+        "creator_ssm":["Lain, George T.",
+          "Lain, George T."],
         "unitdate_normal_ssm":["1861/1862"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Sketchbooks",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1862"],
         "unitdate_ssm":["Inclusive, 1861-1862"],
         "language_ssm":["English"],
-        "_version_":1799311440039903232,
-        "timestamp":"2024-05-17T14:45:07.582Z"}]
+        "_version_":1801959993383059456,
+        "timestamp":"2024-06-15T20:22:44.881Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lain, George T.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

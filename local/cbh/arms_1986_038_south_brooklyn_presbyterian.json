@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["South Brooklyn Presbyterian Church membership roll"],
         "unitid_ssm":["1986.038"],
         "abstract_ssm":["The South Brooklyn Presbyterian Church (also known as the South Presbyterian Church) was organized in 1842. The church edifice was completed at the corner of Clinton and Amity Streets in Brooklyn Heights in 1845. In 1875, the church was consolidated with the First Presbyterian Church and became known as the Clinton Street Presbyterian Church. The collection consist of one item: a membership roll, dated 1842 to 1874."],
+        "creator_ssm":["South Brooklyn Presbyterian Church",
+          "South Brooklyn Presbyterian Church"],
         "unitdate_normal_ssm":["1842/1874"],
         "corpname_ssm":["Brooklyn Historical Society",
           "South Brooklyn Presbyterian Church",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1874"],
         "unitdate_ssm":["Inclusive, 1842-1874"],
         "language_ssm":["English"],
-        "_version_":1799312248042160128,
-        "timestamp":"2024-05-17T14:57:58.152Z"}]
+        "_version_":1801963288935792640,
+        "timestamp":"2024-06-15T21:15:07.765Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "South Brooklyn Presbyterian Church",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

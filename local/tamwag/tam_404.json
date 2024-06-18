@@ -47,6 +47,10 @@
         "unittitle_ssm":["Marc Edelman Collection on the North American Congress on Latin America (NACLA)"],
         "unitid_ssm":["TAM.404"],
         "abstract_ssm":["Marc Edelman led the research department of the North American Congress on Latin America (NACLA). Founded in 1966 ,NACLA provides information and analysis on the region, and on its relationship with the United States, notably through its bimonthly magazine, the NACLA Report on the Americas. The collection includes correspondence, minutes, reports and memorandums, and other organizational records for the years 1984-1988, including some written by Marc Edelman, and some printed ephemera."],
+        "creator_ssm":["Edelman, Marc",
+          "North American Congress on Latin America",
+          "North American Congress on Latin America",
+          "Edelman, Marc"],
         "unitdate_normal_ssm":["1984/1988"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "North American Congress on Latin America",
@@ -82,8 +86,8 @@
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1984-1988"],
         "language_ssm":["English"],
-        "_version_":1799782890738810880,
-        "timestamp":"2024-05-22T19:38:38.005Z"}]
+        "_version_":1802176954578763776,
+        "timestamp":"2024-06-18T05:51:15.201Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +95,9 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Edelman, Marc",1,
+        "North American Congress on Latin America",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

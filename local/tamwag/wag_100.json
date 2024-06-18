@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Carl Blum Papers"],
         "unitid_ssm":["WAG.100"],
+        "creator_ssm":["Blum, Carl",
+          "Blum, Carl"],
         "unitdate_normal_ssm":["1964/1994"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Brotherhood of Painters and Allied Trades",
@@ -80,8 +82,8 @@
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, 1964-1994"],
         "language_ssm":["English"],
-        "_version_":1799800150935207936,
-        "timestamp":"2024-05-23T00:12:58.611Z"},
+        "_version_":1802192463639609344,
+        "timestamp":"2024-06-18T09:57:45.794Z"},
       {
         "id":"wag_100aspace_fd1eefdd246446e57ff1d7ec4de9978e",
         "ead_ssi":"wag_100",
@@ -96,8 +98,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799800150950936576,
-        "timestamp":"2024-05-23T00:12:58.626Z"}]
+        "_version_":1802192463647997952,
+        "timestamp":"2024-06-18T09:57:45.802Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -105,7 +107,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Blum, Carl",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

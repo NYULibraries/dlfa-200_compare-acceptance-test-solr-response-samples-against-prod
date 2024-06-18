@@ -47,6 +47,8 @@
         "unittitle_ssm":["Albertype Company viewbooks of Brooklyn"],
         "unitid_ssm":["V1986.017"],
         "abstract_ssm":["The Albertype Company viewbooks of Brooklyn was published in 1903 and 1904 and contain images of Brooklyn including parks, buildings, and monuments located throughout the borough."],
+        "creator_ssm":["Albertype Co",
+          "Albertype Co"],
         "unitdate_normal_ssm":["1903/1904"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Albertype Co",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1904"],
         "unitdate_ssm":["Inclusive, 1903-1904"],
         "language_ssm":["English"],
-        "_version_":1799311643494055936,
-        "timestamp":"2024-05-17T14:48:21.611Z"}]
+        "_version_":1802045016818843648,
+        "timestamp":"2024-06-16T18:54:09.548Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Albertype Co",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

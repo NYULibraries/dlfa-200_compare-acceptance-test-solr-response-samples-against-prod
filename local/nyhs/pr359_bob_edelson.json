@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Bob Edelson photographs"],
         "unitid_ssm":["PR 359"],
         "abstract_ssm":["The collection includes 55 photographs and one poster by photographer Bob Edelson. The images, taken in the 1970s-1980s, are primarily of the SoHo neighborhood of New York City. These images include exterior views of restaurants, cafes, stores, music venues, and other commercial establishments in SoHo and, to a limited extent, the immediate areas to the north and south. Pedestrians, customers sitting at sidewalk tables and window seats, street art/graffiti, murals, sidewalk cellar entrances, and other features of the urban streetscape appear throughout."],
+        "creator_ssm":["Edelson, Bob, 1934-",
+          "Edelson, Bob, 1934-"],
         "corpname_ssm":["New-York Historical Society"],
         "geogname_ssm":["SoHo (New York, N.Y.) -- Photographs."],
         "persname_ssm":["Edelson, Bob, 1934-"],
@@ -62,8 +64,8 @@
         "heading_ssm":["Bob Edelson photographs"],
         "unitdate_ssm":["Inclusive, 1970s-1980s"],
         "language_ssm":["English"],
-        "_version_":1799322911760187392,
-        "timestamp":"2024-05-17T17:47:27.867Z"},
+        "_version_":1802094347829641216,
+        "timestamp":"2024-06-17T07:58:15.265Z"},
       {
         "id":"pr359_bob_edelsonaspace_ref11_13h",
         "ead_ssi":"pr359_bob_edelson",
@@ -79,8 +81,8 @@
         "location_ssm":["Folder: FF 1"],
         "heading_ssm":["20 x 30 photographs (2)"],
         "unitdate_ssm":["undated"],
-        "_version_":1799322911790596096,
-        "timestamp":"2024-05-17T17:47:27.896Z"},
+        "_version_":1802094347867389952,
+        "timestamp":"2024-06-17T07:58:15.302Z"},
       {
         "id":"pr359_bob_edelsonaspace_ref13_vtn",
         "ead_ssi":"pr359_bob_edelson",
@@ -96,8 +98,8 @@
         "location_ssm":["Folder: FF 1"],
         "heading_ssm":["22 x 30 SoHo (one poster)"],
         "unitdate_ssm":["Undated"],
-        "_version_":1799322911776964608,
-        "timestamp":"2024-05-17T17:47:27.883Z"},
+        "_version_":1802094347850612736,
+        "timestamp":"2024-06-17T07:58:15.286Z"},
       {
         "id":"pr359_bob_edelsonaspace_ref17_j62",
         "ead_ssi":"pr359_bob_edelson",
@@ -113,8 +115,8 @@
         "location_ssm":["Folder: FF 1"],
         "heading_ssm":["11 x 16 photograph (1)"],
         "unitdate_ssm":["undated"],
-        "_version_":1799322911840927744,
-        "timestamp":"2024-05-17T17:47:27.944Z"},
+        "_version_":1802094347932401664,
+        "timestamp":"2024-06-17T07:58:15.364Z"},
       {
         "id":"pr359_bob_edelsonaspace_ref19_212",
         "ead_ssi":"pr359_bob_edelson",
@@ -130,8 +132,8 @@
         "location_ssm":["Folder: FF 1"],
         "heading_ssm":["15 x 16 photograph (1)"],
         "unitdate_ssm":["undated"],
-        "_version_":1799322911823101952,
-        "timestamp":"2024-05-17T17:47:27.927Z"},
+        "_version_":1802094347914575872,
+        "timestamp":"2024-06-17T07:58:15.347Z"},
       {
         "id":"pr359_bob_edelsonaspace_ref21_qws",
         "ead_ssi":"pr359_bob_edelson",
@@ -147,8 +149,8 @@
         "location_ssm":["Folder: FF 1"],
         "heading_ssm":["14 x 20 photographs (12)"],
         "unitdate_ssm":["undated"],
-        "_version_":1799322911808421888,
-        "timestamp":"2024-05-17T17:47:27.913Z"},
+        "_version_":1802094347888361472,
+        "timestamp":"2024-06-17T07:58:15.322Z"},
       {
         "id":"pr359_bob_edelsonaspace_ref23_ja4",
         "ead_ssi":"pr359_bob_edelson",
@@ -161,12 +163,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["11 x 14 photographs (22)"],
         "unitdate_ssm":["undated"],
-        "_version_":1799322911856656384,
-        "timestamp":"2024-05-17T17:47:27.959Z"},
+        "_version_":1802094347950227456,
+        "timestamp":"2024-06-17T07:58:15.381Z"},
       {
         "id":"pr359_bob_edelsonaspace_ref25_0i4",
         "ead_ssi":"pr359_bob_edelson",
@@ -179,12 +180,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["8 x 10 photographs (4)"],
         "unitdate_ssm":["undated"],
-        "_version_":1799322911873433600,
-        "timestamp":"2024-05-17T17:47:27.975Z"},
+        "_version_":1802094347972247552,
+        "timestamp":"2024-06-17T07:58:15.402Z"},
       {
         "id":"pr359_bob_edelsonaspace_ref26_84x",
         "ead_ssi":"pr359_bob_edelson",
@@ -197,12 +197,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["5 x 7 photographs (13)"],
         "unitdate_ssm":["undated"],
-        "_version_":1799322911887065088,
-        "timestamp":"2024-05-17T17:47:27.987Z"}]
+        "_version_":1802094347994267648,
+        "timestamp":"2024-06-17T07:58:15.423Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -210,7 +209,8 @@
       "repository_sim":[
         "nyhs",9],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Edelson, Bob, 1934-",1],
       "date_range_sim":[
         "undated & other",9],
       "subject_sim":[

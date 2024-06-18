@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Cornell family land deeds"],
         "unitid_ssm":["1974.053"],
         "abstract_ssm":["Deeds documenting transactions among members of the Cornell family for land along the East River in Brooklyn, dating from 1784 to 1792.  Isaac Cornell (d. 1824) purchased a large tract of land from the heirs of Jacob Sebring in 1784.  A year later, he sold one-third of the shares to his brothers, John (1753-1820) and William (ca. 1755-1820).  In 1787, Isaac sold William an additional portion, and in 1792 John purchased all tracts belonging to his brothers."],
+        "creator_ssm":["Cornell, William",
+          "Cornell, Isaac",
+          "Cornell, John",
+          "Cornell family",
+          "Cornell family",
+          "Cornell, William",
+          "Cornell, Isaac",
+          "Cornell, John"],
         "unitdate_normal_ssm":["1784/1792"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Cornell family",
@@ -74,8 +82,8 @@
         "unitdate_end_ssm":["1792"],
         "unitdate_ssm":["Inclusive, 1784-1792"],
         "language_ssm":["English"],
-        "_version_":1799256497246437376,
-        "timestamp":"2024-05-17T00:11:50.051Z"}]
+        "_version_":1801960302237974528,
+        "timestamp":"2024-06-15T20:27:39.428Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +91,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cornell family",1,
+        "Cornell, Isaac",1,
+        "Cornell, John",1,
+        "Cornell, William",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

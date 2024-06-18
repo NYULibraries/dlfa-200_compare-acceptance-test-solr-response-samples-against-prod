@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Brooklyn Church Society of the Methodist Episcopal Church annual reports"],
         "unitid_ssm":["1985.095"],
         "abstract_ssm":["The Brooklyn Church Society of the Methodist Episcopal Church annual reports span the period 1883 to 1928.  The Brooklyn Church Society of the Methodist Episcopal Church was chartered in 1878."],
+        "creator_ssm":["Methodist Episcopal Church. Brooklyn Church Society",
+          "Methodist Episcopal Church. Brooklyn and Long Island Church Society",
+          "Methodist Episcopal Church. Brooklyn Church Society",
+          "Methodist Episcopal Church. Brooklyn and Long Island Church Society"],
         "unitdate_normal_ssm":["1883/1928"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Methodist Episcopal Church. Brooklyn Church Society",
@@ -100,8 +104,8 @@
         "unitdate_end_ssm":["1928"],
         "unitdate_ssm":["Inclusive, 1883-1928"],
         "language_ssm":["English"],
-        "_version_":1799256312713838592,
-        "timestamp":"2024-05-17T00:08:54.067Z"}]
+        "_version_":1801963102804115456,
+        "timestamp":"2024-06-15T21:12:10.256Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -109,7 +113,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Methodist Episcopal Church. Brooklyn Church Society",1,
+        "Methodist Episcopal Church. Brooklyn and Long Island Church Society",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

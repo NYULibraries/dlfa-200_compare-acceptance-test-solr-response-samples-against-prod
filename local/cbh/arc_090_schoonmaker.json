@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Martin Schoonmaker family papers"],
         "unitid_ssm":["ARC.090"],
         "abstract_ssm":["Martin Schoonmaker was a resident of the town of Gravesend in Kings County, N.Y.  In the 1840s he served as Gravesend's first postmaster.  He later served as the Gravesend Assessor, as Kings County Deputy Commissioner of Juries, and as secretary of the Ocean Parkway Owners Association.  This collection spans the period 1793 to 1889 and contains materials relating to Schoonmaker and his family.  Materials mainly include accounts, receipts, indentures, deeds, bonds, agreements, and other property and legal documents."],
+        "creator_ssm":["Schoonmaker, Martin",
+          "Schoonmaker family",
+          "Schoonmaker family",
+          "Schoonmaker, Martin"],
         "unitdate_normal_ssm":["1793/1889"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Schoonmaker family",
@@ -111,8 +115,8 @@
         "unitdate_end_ssm":["1889"],
         "unitdate_ssm":["Inclusive, 1793-1889"],
         "language_ssm":["English"],
-        "_version_":1799311716270473216,
-        "timestamp":"2024-05-17T14:49:31.015Z"}]
+        "_version_":1801958956546916352,
+        "timestamp":"2024-06-15T20:06:16.077Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -120,7 +124,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Schoonmaker family",1,
+        "Schoonmaker, Martin",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

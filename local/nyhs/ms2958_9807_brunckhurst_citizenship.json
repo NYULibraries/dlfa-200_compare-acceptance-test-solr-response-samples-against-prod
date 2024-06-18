@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Fred Brunckhurst citizenship certificate"],
         "unitid_ssm":["AHMC - Brunckhurst, Fred"],
         "abstract_ssm":["Citizenship certificate issued from the Court of Common Pleas for the City and County of New York granting Fred Brunckhurst citizenship of the United States of America. Dated April 25, 1888. For more information and to request this item, see the catalog record, or write to manuscripts@nyhistory.org."],
+        "creator_ssm":["New York (State). Court of Common Pleas (City and County of New York)",
+          "New York (State). Court of Common Pleas (City and County of New York)"],
         "corpname_ssm":["New-York Historical Society",
           "New York (State). Court of Common Pleas (City and County of New York)"],
         "collection_ssm":["Fred Brunckhurst citizenship certificate"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Fred Brunckhurst citizenship certificate"],
         "unitdate_ssm":["1888 April 25"],
         "language_ssm":["English"],
-        "_version_":1799318561190051840,
-        "timestamp":"2024-05-17T16:38:18.84Z"}]
+        "_version_":1802083673710788608,
+        "timestamp":"2024-06-17T05:08:35.633Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (State). Court of Common Pleas (City and County of New York)",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Hotel Company Stock Certificate"],
         "unitid_ssm":["1987.017"],
         "abstract_ssm":["A stock certificate issued to Leander J. Powell, dated August 16, 1892, entitling him to 150 shares of stock in the Brooklyn Hotel Company. The Brooklyn Hotel Company was incorporated in October 1891."],
+        "creator_ssm":["Brooklyn Hotel Company (Brooklyn, New York, N.Y.)",
+          "Brooklyn Hotel Company (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1892/1892"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Hotel Company (Brooklyn, New York, N.Y.)"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1892"],
         "unitdate_ssm":["Inclusive, 1892"],
         "language_ssm":["English"],
-        "_version_":1799309976755240960,
-        "timestamp":"2024-05-17T14:21:52.085Z"}]
+        "_version_":1801963408216555520,
+        "timestamp":"2024-06-15T21:17:01.52Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Hotel Company (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

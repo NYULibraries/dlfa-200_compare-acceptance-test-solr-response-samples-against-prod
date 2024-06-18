@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Board of Commissioners for the Improvement of Brooklyn Heights records"],
         "unitid_ssm":["1974.161"],
         "abstract_ssm":["The Board of Commissioners for the Improvement of Brooklyn Heights records consists of 12 letters and 2 legal memos documenting the activities of the Board, including a document that discusses the Board's dissolution following Brooklyn's consolidation with New York City in 1898."],
+        "creator_ssm":["Board of Commissioners for the Improvement of Brooklyn Heights",
+          "Board of Commissioners for the Improvement of Brooklyn Heights"],
         "unitdate_normal_ssm":["1896/1900"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Board of Commissioners for the Improvement of Brooklyn Heights"],
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1900"],
         "unitdate_ssm":["Inclusive, 1896-1900"],
         "language_ssm":["English"],
-        "_version_":1799311392751222784,
-        "timestamp":"2024-05-17T14:44:22.483Z"}]
+        "_version_":1801960394794729472,
+        "timestamp":"2024-06-15T20:29:07.697Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Board of Commissioners for the Improvement of Brooklyn Heights",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

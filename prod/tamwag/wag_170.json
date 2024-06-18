@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":22,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["John Francis O'Donnell Papers"],
         "unitid_ssm":["WAG.170"],
         "abstract_ssm":["John Francis O'Donnell (1907-1993) was a New York City labor lawyer for 55 years. Over the course of his career, O'Donnell achieved many victories for transit and postal workers. The bulk of O'Donnell's papers relate to his work as general counsel for the Transport Workers Union of America (TWU), though his work with the American Postal Workers Union and various other unions also comprises a significant portion of the collection. O'Donnell's daughter, Eileen Ginn, used his papers when researching for her biography on O'Donnell, and some of her correspondence and research files, including a number of oral histories she conducted, are present in the collection."],
+        "creator_ssm":["O'Donnell, John Francis, 1907-1993",
+          "Ginn, Eileen O'Donnell Sheehan",
+          "O'Donnell, John Francis, 1907-1993",
+          "Ginn, Eileen O'Donnell Sheehan"],
         "unitdate_normal_ssm":["1921/2006"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "American Postal Workers Union",
@@ -72,8 +76,8 @@
         "unitdate_start_ssm":["1921"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, 1921-2006"],
-        "_version_":1775217300437204992,
-        "timestamp":"2023-08-25T15:59:05.467Z"},
+        "_version_":1801326505445294080,
+        "timestamp":"2024-06-08T20:33:43.705Z"},
       {
         "id":"wag_170aspace_ref15",
         "ead_ssi":"wag_170",
@@ -92,8 +96,8 @@
         "unitdate_start_ssm":["1921"],
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1921-2000"],
-        "_version_":1775217300523188224,
-        "timestamp":"2023-08-25T15:59:05.549Z"},
+        "_version_":1801326505483042816,
+        "timestamp":"2024-06-08T20:33:43.741Z"},
       {
         "id":"wag_170aspace_ref17",
         "ead_ssi":"wag_170",
@@ -112,8 +116,8 @@
         "unitdate_start_ssm":["1939"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1936-1999"],
-        "_version_":1775217300558839808,
-        "timestamp":"2023-08-25T15:59:05.583Z"},
+        "_version_":1801326505499820032,
+        "timestamp":"2024-06-08T20:33:43.757Z"},
       {
         "id":"wag_170aspace_ref20",
         "ead_ssi":"wag_170",
@@ -132,8 +136,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, circa 1960-1999"],
-        "_version_":1775217300615462912,
-        "timestamp":"2023-08-25T15:59:05.637Z"},
+        "_version_":1801326505512402944,
+        "timestamp":"2024-06-08T20:33:43.769Z"},
       {
         "id":"wag_170aspace_ref22",
         "ead_ssi":"wag_170",
@@ -152,8 +156,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, circa 1990-2006"],
-        "_version_":1775217300656357376,
-        "timestamp":"2023-08-25T15:59:05.675Z"},
+        "_version_":1801326505526034432,
+        "timestamp":"2024-06-08T20:33:43.782Z"},
       {
         "id":"wag_170aspace_ref25",
         "ead_ssi":"wag_170",
@@ -172,8 +176,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, circa 1940-1999"],
-        "_version_":1775217300697251840,
-        "timestamp":"2023-08-25T15:59:05.715Z"},
+        "_version_":1801326505538617344,
+        "timestamp":"2024-06-08T20:33:43.794Z"},
       {
         "id":"wag_170aspace_ref3",
         "ead_ssi":"wag_170",
@@ -192,8 +196,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, circa 1930-1969"],
-        "_version_":1775217300483342336,
-        "timestamp":"2023-08-25T15:59:05.511Z"}]
+        "_version_":1801326505464168448,
+        "timestamp":"2024-06-08T20:33:43.723Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -201,7 +205,9 @@
       "repository_sim":[
         "tamwag",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ginn, Eileen O'Donnell Sheehan",1,
+        "O'Donnell, John Francis, 1907-1993",1],
       "date_range_sim":[
         "1901-2000",7,
         "2001-2100",2],

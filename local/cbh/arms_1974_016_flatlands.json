@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Flatlands land patents and military commission"],
         "unitid_ssm":["1974.016"],
         "abstract_ssm":["Two land patents issued by colonial New York Governors Richard Nicolls and Thomas Dongan, dating from 1667 and 1685, for the Town of Amersfort (Flatlands) in Kings County.  Also included is a commission of appointment to the Kings County Militia issued to Nicholas Schenk of Gravesend, dated 1787."],
+        "creator_ssm":["Nicolls, Richard",
+          "Kings County (N.Y.). Militia",
+          "New York (Colony). Governor (1664-1668 : Nicolls)",
+          "Limerick, Thomas Dongan, Earl of",
+          "Kings County (N.Y.). Militia",
+          "New York (Colony). Governor (1664-1668 : Nicolls)",
+          "Nicolls, Richard",
+          "Limerick, Thomas Dongan, Earl of"],
         "unitdate_normal_ssm":["1667/1787"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Kings County (N.Y.). Militia",
@@ -73,8 +81,8 @@
         "unitdate_end_ssm":["1787"],
         "unitdate_ssm":["Inclusive, 1667-1787"],
         "language_ssm":["English"],
-        "_version_":1799312281719275520,
-        "timestamp":"2024-05-17T14:58:30.27Z"}]
+        "_version_":1801960251145060352,
+        "timestamp":"2024-06-15T20:26:50.702Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +90,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kings County (N.Y.). Militia",1,
+        "Limerick, Thomas Dongan, Earl of",1,
+        "New York (Colony). Governor (1664-1668 : Nicolls)",1,
+        "Nicolls, Richard",1],
       "date_range_sim":[
         "1601-1700",1,
         "1701-1800",1],

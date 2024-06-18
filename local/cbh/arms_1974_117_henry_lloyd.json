@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Henry Lloyd ledgers"],
         "unitid_ssm":["1974.117"],
         "abstract_ssm":["Six ledgers of Henry Lloyd, recording financial transactions and accounts throughout the period 1703 to 1744."],
+        "creator_ssm":["Lloyd, Henry",
+          "Lloyd, Henry"],
         "unitdate_normal_ssm":["1703/1744"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Financial records",
@@ -77,8 +79,8 @@
         "unitdate_start_ssm":["1703"],
         "unitdate_end_ssm":["1744"],
         "unitdate_ssm":["Inclusive, 1703-1744"],
-        "_version_":1799312250277724160,
-        "timestamp":"2024-05-17T14:58:00.285Z"}]
+        "_version_":1801960331428233216,
+        "timestamp":"2024-06-15T20:28:07.266Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lloyd, Henry",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

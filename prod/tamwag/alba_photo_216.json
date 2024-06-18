@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["<em>The Good Fight: The Abraham Lincoln Brigade in the Spanish Civil War:</em> Photographs"],
         "unitid_ssm":["ALBA.PHOTO.216"],
+        "creator_ssm":["Sills, Sam",
+          "Sills, Sam"],
         "unitdate_normal_ssm":["1936/1983"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Sills, Sam",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1936-1983"],
         "language_ssm":["English"],
-        "_version_":1775223015646167040,
-        "timestamp":"2023-08-25T17:29:55.915Z"},
+        "_version_":1801159479866163200,
+        "timestamp":"2024-06-07T00:18:55.7Z"},
       {
         "id":"alba_photo_216aspace_b256b8100c1fe7f0c26a327a317cbbb1",
         "ead_ssi":"alba_photo_216",
@@ -78,8 +80,8 @@
         "location_ssm":["Box: 1",
           "Box: 2"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1775223015681818624,
-        "timestamp":"2023-08-25T17:29:55.949Z"}]
+        "_version_":1801159479878746112,
+        "timestamp":"2024-06-07T00:18:55.712Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sills, Sam",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

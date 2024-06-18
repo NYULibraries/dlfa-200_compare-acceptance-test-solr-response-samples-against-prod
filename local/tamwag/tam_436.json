@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Rachel Schimke, Nov 2011"],
         "unittitle_ssm":["Women's International League for Peace and Freedom Records"],
         "unitid_ssm":["TAM.436"],
+        "creator_ssm":["Women's International League for Peace and Freedom",
+          "Women's International League for Peace and Freedom"],
         "unitdate_normal_ssm":["1985/2009"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Women's International League for Peace and Freedom",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1985"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1985-2009"],
-        "_version_":1799791065023119360,
-        "timestamp":"2024-05-22T21:48:33.61Z"},
+        "_version_":1802183047170228224,
+        "timestamp":"2024-06-18T07:28:05.549Z"},
       {
         "id":"tam_436aspace_dbfec0facb2e6938008b42e3938302e4",
         "ead_ssi":"tam_436",
@@ -84,14 +86,13 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment 013, Cassette: 3-4",
-          "Cassette: 3-4",
           "Box: 11"],
         "heading_ssm":["Videos"],
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1986-2000"],
-        "_version_":1799791065199280128,
-        "timestamp":"2024-05-22T21:48:33.778Z"},
+        "_version_":1802183047330660352,
+        "timestamp":"2024-06-18T07:28:05.702Z"},
       {
         "id":"tam_436aspace_ref10",
         "ead_ssi":"tam_436",
@@ -110,8 +111,8 @@
         "unitdate_start_ssm":["1996"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, circa 1996-2003"],
-        "_version_":1799791065125879808,
-        "timestamp":"2024-05-22T21:48:33.708Z"},
+        "_version_":1802183047264600064,
+        "timestamp":"2024-06-18T07:28:05.638Z"},
       {
         "id":"tam_436aspace_ref11",
         "ead_ssi":"tam_436",
@@ -130,8 +131,8 @@
         "unitdate_start_ssm":["1996"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1996-circa 2004"],
-        "_version_":1799791065139511296,
-        "timestamp":"2024-05-22T21:48:33.721Z"},
+        "_version_":1802183047277182976,
+        "timestamp":"2024-06-18T07:28:05.651Z"},
       {
         "id":"tam_436aspace_ref12",
         "ead_ssi":"tam_436",
@@ -150,8 +151,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1989-2004"],
-        "_version_":1799791065152094208,
-        "timestamp":"2024-05-22T21:48:33.733Z"},
+        "_version_":1802183047288717312,
+        "timestamp":"2024-06-18T07:28:05.661Z"},
       {
         "id":"tam_436aspace_ref13",
         "ead_ssi":"tam_436",
@@ -170,8 +171,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1990-2002"],
-        "_version_":1799791065165725696,
-        "timestamp":"2024-05-22T21:48:33.746Z"},
+        "_version_":1802183047300251648,
+        "timestamp":"2024-06-18T07:28:05.673Z"},
       {
         "id":"tam_436aspace_ref18",
         "ead_ssi":"tam_436",
@@ -204,8 +205,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["August 2009-ongoing"],
-        "_version_":1799791065184600064,
-        "timestamp":"2024-05-22T21:48:33.764Z"},
+        "_version_":1802183047318077440,
+        "timestamp":"2024-06-18T07:28:05.69Z"},
       {
         "id":"tam_436aspace_ref4",
         "ead_ssi":"tam_436",
@@ -224,8 +225,8 @@
         "unitdate_start_ssm":["1999"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, circa 1997-2006"],
-        "_version_":1799791065037799424,
-        "timestamp":"2024-05-22T21:48:33.624Z"},
+        "_version_":1802183047183859712,
+        "timestamp":"2024-06-18T07:28:05.562Z"},
       {
         "id":"tam_436aspace_ref5",
         "ead_ssi":"tam_436",
@@ -244,8 +245,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1985-2005"],
-        "_version_":1799791065051430912,
-        "timestamp":"2024-05-22T21:48:33.637Z"},
+        "_version_":1802183047194345472,
+        "timestamp":"2024-06-18T07:28:05.572Z"},
       {
         "id":"tam_436aspace_ref6",
         "ead_ssi":"tam_436",
@@ -264,8 +265,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1987-2004"],
-        "_version_":1799791065070305280,
-        "timestamp":"2024-05-22T21:48:33.655Z"},
+        "_version_":1802183047213219840,
+        "timestamp":"2024-06-18T07:28:05.59Z"},
       {
         "id":"tam_436aspace_ref7",
         "ead_ssi":"tam_436",
@@ -284,8 +285,8 @@
         "unitdate_start_ssm":["1997"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, circa 1997-2006"],
-        "_version_":1799791065083936768,
-        "timestamp":"2024-05-22T21:48:33.668Z"},
+        "_version_":1802183047228948480,
+        "timestamp":"2024-06-18T07:28:05.605Z"},
       {
         "id":"tam_436aspace_ref8",
         "ead_ssi":"tam_436",
@@ -304,8 +305,8 @@
         "unitdate_start_ssm":["1999"],
         "unitdate_end_ssm":["2007"],
         "unitdate_ssm":["Inclusive, circa 1999-2007"],
-        "_version_":1799791065097568256,
-        "timestamp":"2024-05-22T21:48:33.681Z"},
+        "_version_":1802183047242579968,
+        "timestamp":"2024-06-18T07:28:05.618Z"},
       {
         "id":"tam_436aspace_ref9",
         "ead_ssi":"tam_436",
@@ -324,8 +325,8 @@
         "unitdate_start_ssm":["1995"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, circa 1995-circa 2003"],
-        "_version_":1799791065111199744,
-        "timestamp":"2024-05-22T21:48:33.694Z"}]
+        "_version_":1802183047253065728,
+        "timestamp":"2024-06-18T07:28:05.628Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -334,7 +335,8 @@
         "tamwag",13],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Women's International League for Peace and Freedom",1],
       "date_range_sim":[
         "1901-2000",12,
         "2001-2100",11,

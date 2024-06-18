@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Women Hospital Workers Study Records"],
         "unitid_ssm":["WAG.195"],
+        "creator_ssm":["Coalition of Labor Union Women (U.S.). Center for Education and Research",
+          "Coalition of Labor Union Women (U.S.). Center for Education and Research"],
         "unitdate_normal_ssm":["1978/1979"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Coalition of Labor Union Women (U.S.). Center for Education and Research"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1978-1979"],
         "language_ssm":["English"],
-        "_version_":1799802476956745728,
-        "timestamp":"2024-05-23T00:49:56.878Z"},
+        "_version_":1802195482819166208,
+        "timestamp":"2024-06-18T10:45:45.108Z"},
       {
         "id":"wag_195aspace_3f2be3e161310e80ee62562f1004ebe5",
         "ead_ssi":"wag_195",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Series"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799802476971425792,
-        "timestamp":"2024-05-23T00:49:56.892Z"}]
+        "_version_":1802195482828603392,
+        "timestamp":"2024-06-18T10:45:45.117Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Coalition of Labor Union Women (U.S.). Center for Education and Research",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

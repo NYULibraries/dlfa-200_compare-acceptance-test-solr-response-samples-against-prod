@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Nelson Cross papers"],
         "unitid_ssm":["1977.234"],
         "abstract_ssm":["This collection includes various documents dating from 1844 to 1872 and pertaining to Nelson Cross's law career and military service with the 67th New York Volunteer Infantry during the Civil War."],
+        "creator_ssm":["Cross, Nelson",
+          "Cross, Nelson"],
         "unitdate_normal_ssm":["1844/1872"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Army. New York Infantry Regiment, 67th (1861-1864)"],
@@ -82,8 +84,8 @@
         "unitdate_end_ssm":["1872"],
         "unitdate_ssm":["Inclusive, 1844-1872"],
         "language_ssm":["English"],
-        "_version_":1799312275628097536,
-        "timestamp":"2024-05-17T14:58:24.461Z"}]
+        "_version_":1801960988246802432,
+        "timestamp":"2024-06-15T20:38:33.657Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cross, Nelson",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

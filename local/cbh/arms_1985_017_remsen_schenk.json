@@ -47,6 +47,10 @@
         "unittitle_ssm":["Remsen and Schenk family papers"],
         "unitid_ssm":["1985.017"],
         "abstract_ssm":["The Remsen and Schenk family papers are comprised of various land documents land documents, including deeds, mortgages, wills, and conveyances to land primarily in Brooklyn. Most documents concern property owned by the Remsen and Schenk families. The collection relates to the following farmers: Jacob Remsen (1719-1794), Joris Remsen (1721-1794) Martin Schenk (1796-1823) and Lambert Schenk (1796-1815)."],
+        "creator_ssm":["Remsen family",
+          "Schenk family",
+          "Remsen family",
+          "Schenk family"],
         "unitdate_normal_ssm":["1698/1837"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Remsen family",
@@ -76,8 +80,8 @@
         "unitdate_end_ssm":["1837"],
         "unitdate_ssm":["Inclusive, 1698-1837"],
         "language_ssm":["English"],
-        "_version_":1799311716724506624,
-        "timestamp":"2024-05-17T14:49:31.449Z"}]
+        "_version_":1801962932770177024,
+        "timestamp":"2024-06-15T21:09:28.099Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +89,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Remsen family",1,
+        "Schenk family",1],
       "date_range_sim":[
         "1601-1700",1,
         "1801-1900",1],

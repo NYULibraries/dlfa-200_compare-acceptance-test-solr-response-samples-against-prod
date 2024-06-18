@@ -47,6 +47,10 @@
         "unittitle_ssm":["Fulton Street retail survey"],
         "unitid_ssm":["1978.149"],
         "abstract_ssm":["This collection consists of papers pertaining to a survey commissioned for Ohrbach's department store of New York City, including preliminary planning maps, subway and bus use studies, location map of retail stores, zoning requirements, a photograph of the corner of Sands Street, and alteration costs for an undisclosed building on Fulton Street."],
+        "creator_ssm":["Jones, M.A.",
+          "Brooklyn Real Estate Board (New York, N.Y.)",
+          "Brooklyn Real Estate Board (New York, N.Y.)",
+          "Jones, M.A."],
         "unitdate_normal_ssm":["1961/1962"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Real Estate Board (New York, N.Y.)",
@@ -78,8 +82,8 @@
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1961-1962"],
         "language_ssm":["English"],
-        "_version_":1799256164351868928,
-        "timestamp":"2024-05-17T00:06:32.578Z"}]
+        "_version_":1801962576911794176,
+        "timestamp":"2024-06-15T21:03:48.725Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +91,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Real Estate Board (New York, N.Y.)",1,
+        "Jones, M.A.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

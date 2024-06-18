@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Norah Chase Papers on the City University of New York Professional Staff Congress"],
         "unitid_ssm":["WAG.122"],
+        "creator_ssm":["Chase, Norah C.",
+          "Chase, Norah C."],
         "unitdate_normal_ssm":["1999/2000"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Professional Staff Congress/City University of New York",
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1999"],
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1999-2000"],
-        "_version_":1799800367676915712,
-        "timestamp":"2024-05-23T00:16:25.312Z"}]
+        "_version_":1802192585207316480,
+        "timestamp":"2024-06-18T09:59:41.73Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chase, Norah C.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

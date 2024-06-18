@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Gellatly diaries"],
         "unitid_ssm":["1973.298"],
         "abstract_ssm":["The collection consists of 2 diaries, dated 1852-1856, kept by John Gellatly of Brooklyn. Entries include short notes on the weather and his daily activities, including names of people with whom he socialized."],
+        "creator_ssm":["Gellatly, John",
+          "Gellatly, John"],
         "unitdate_normal_ssm":["1852/1856"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Diaries"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1856"],
         "unitdate_ssm":["Inclusive, 1852-1856"],
         "language_ssm":["English"],
-        "_version_":1799311486015766528,
-        "timestamp":"2024-05-17T14:45:51.428Z"}]
+        "_version_":1801960201140568064,
+        "timestamp":"2024-06-15T20:26:03.014Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gellatly, John",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

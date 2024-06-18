@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":17,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["David Miller Papers"],
         "unitid_ssm":["ALBA.076"],
+        "creator_ssm":["Miller, David, 1908-1977",
+          "Miller, David, 1908-1977"],
         "unitdate_normal_ssm":["1930/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Miller, David (Estate of)",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, circa 1930s"],
         "language_ssm":["English"],
-        "_version_":1799747870132273152,
-        "timestamp":"2024-05-22T10:21:59.752Z"}]
+        "_version_":1802110915665985536,
+        "timestamp":"2024-06-17T12:21:35.586Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -70,7 +72,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Miller, David, 1908-1977",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

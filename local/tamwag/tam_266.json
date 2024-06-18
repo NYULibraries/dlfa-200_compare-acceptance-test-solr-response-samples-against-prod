@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Students Organizing Students Records"],
         "unitid_ssm":["TAM.266"],
         "abstract_ssm":["This collection contains the records of Students Organizing Students, a women's health and reproductive rights organization, active from 1989-1995. The collection consists of office working files and materials from programs and campaigns."],
+        "creator_ssm":["Students Organizing Students",
+          "Students Organizing Students"],
         "unitdate_normal_ssm":["1989/1995"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Students Organizing Students",
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1989-1995"],
-        "_version_":1799782508389203968,
-        "timestamp":"2024-05-22T19:32:33.368Z"},
+        "_version_":1802171318644244480,
+        "timestamp":"2024-06-18T04:21:40.355Z"},
       {
         "id":"tam_266aspace_689fdb65dc866aa5e3c11b338c276c50",
         "ead_ssi":"tam_266",
@@ -87,8 +89,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1989-1995"],
-        "_version_":1799782508405981184,
-        "timestamp":"2024-05-22T19:32:33.384Z"},
+        "_version_":1802171318653681664,
+        "timestamp":"2024-06-18T04:21:40.364Z"},
       {
         "id":"tam_266aspace_6ee22ceaea7616697426c71e7e76f43d",
         "ead_ssi":"tam_266",
@@ -107,8 +109,8 @@
         "unitdate_start_ssm":["1991"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1991-1995"],
-        "_version_":1799782508460507136,
-        "timestamp":"2024-05-22T19:32:33.436Z"},
+        "_version_":1802171318683041792,
+        "timestamp":"2024-06-18T04:21:40.392Z"},
       {
         "id":"tam_266aspace_abd43dbc8788b2a0ee34ddf8eb4a0c7e",
         "ead_ssi":"tam_266",
@@ -127,8 +129,8 @@
         "unitdate_start_ssm":["1994"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1994-1995"],
-        "_version_":1799782508478332928,
-        "timestamp":"2024-05-22T19:32:33.452Z"},
+        "_version_":1802171318691430400,
+        "timestamp":"2024-06-18T04:21:40.4Z"},
       {
         "id":"tam_266aspace_c21100f22af368721a190bc90f0b4f1d",
         "ead_ssi":"tam_266",
@@ -147,8 +149,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1989-1993"],
-        "_version_":1799782508444778496,
-        "timestamp":"2024-05-22T19:32:33.421Z"},
+        "_version_":1802171318674653184,
+        "timestamp":"2024-06-18T04:21:40.384Z"},
       {
         "id":"tam_266aspace_d3816dc319efd0641dda2fa425a5debd",
         "ead_ssi":"tam_266",
@@ -167,8 +169,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1989-1991"],
-        "_version_":1799782508420661248,
-        "timestamp":"2024-05-22T19:32:33.398Z"},
+        "_version_":1802171318662070272,
+        "timestamp":"2024-06-18T04:21:40.372Z"},
       {
         "id":"tam_266aspace_df5c91c6b47f78713b6b1bdac736e62d",
         "ead_ssi":"tam_266",
@@ -187,8 +189,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1989-1995"],
-        "_version_":1799782508493012992,
-        "timestamp":"2024-05-22T19:32:33.467Z"}]
+        "_version_":1802171318699819008,
+        "timestamp":"2024-06-18T04:21:40.408Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -196,7 +198,8 @@
       "repository_sim":[
         "tamwag",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Students Organizing Students",1],
       "date_range_sim":[
         "1901-2000",7],
       "subject_sim":[

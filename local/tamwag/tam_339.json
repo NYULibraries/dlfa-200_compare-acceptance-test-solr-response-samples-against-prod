@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Peter Filardo"],
         "unittitle_ssm":["Michael Gold Manuscripts on Peter V. Cacchione"],
         "unitid_ssm":["TAM.339"],
+        "creator_ssm":["Gold, Michael, 1893-1967",
+          "Gold, Michael, 1893-1967"],
         "unitdate_normal_ssm":["1948/1974"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Plays (performed works)",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, circa 1948-1974"],
         "language_ssm":["English"],
-        "_version_":1799782686286413824,
-        "timestamp":"2024-05-22T19:35:23.024Z"},
+        "_version_":1802176804752982016,
+        "timestamp":"2024-06-18T05:48:52.316Z"},
       {
         "id":"tam_339aspace_ref11",
         "ead_ssi":"tam_339",
@@ -96,8 +98,8 @@
         "unitdate_start_ssm":["1953"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, circa 1953, 1974"],
-        "_version_":1799782686303191040,
-        "timestamp":"2024-05-22T19:35:23.04Z"},
+        "_version_":1802176804765564928,
+        "timestamp":"2024-06-18T05:48:52.328Z"},
       {
         "id":"tam_339aspace_ref12",
         "ead_ssi":"tam_339",
@@ -116,8 +118,8 @@
         "unitdate_start_ssm":["1953"],
         "unitdate_end_ssm":["1953"],
         "unitdate_ssm":["Inclusive, circa 1953"],
-        "_version_":1799782686316822528,
-        "timestamp":"2024-05-22T19:35:23.053Z"},
+        "_version_":1802176804775002112,
+        "timestamp":"2024-06-18T05:48:52.337Z"},
       {
         "id":"tam_339aspace_ref13",
         "ead_ssi":"tam_339",
@@ -136,8 +138,8 @@
         "unitdate_start_ssm":["1948"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive,  circa 1948, 1974"],
-        "_version_":1799782686340939776,
-        "timestamp":"2024-05-22T19:35:23.075Z"}]
+        "_version_":1802176804788633600,
+        "timestamp":"2024-06-18T05:48:52.35Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -145,7 +147,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gold, Michael, 1893-1967",1],
       "date_range_sim":[
         "1901-2000",4],
       "subject_sim":[

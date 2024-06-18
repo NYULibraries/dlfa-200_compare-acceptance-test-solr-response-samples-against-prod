@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Frank Battaglia photographs"],
         "unitid_ssm":["PR 429"],
         "abstract_ssm":["Digitized photographs taken by retired freelance photographer Frank Battaglia of Edith \"Little Edie\" Bouvier Beale in 1979 and the New York/Coney Island Polar Bear Club circa 1978-79."],
+        "creator_ssm":["Battaglia, Frank, 1954-",
+          "Battaglia, Frank, 1954-"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Digital images.",
           "Portraits."],
@@ -63,8 +65,8 @@
           "Portraits."],
         "heading_ssm":["Frank Battaglia photographs"],
         "unitdate_ssm":["Inclusive, 1978-1979"],
-        "_version_":1799315442545721344,
-        "timestamp":"2024-05-17T15:48:44.668Z"},
+        "_version_":1802094718163615744,
+        "timestamp":"2024-06-17T08:04:08.444Z"},
       {
         "id":"pr429_frank_battagliaaspace_45a22a921c0b8cf36490356f3b056016",
         "ead_ssi":"pr429_frank_battaglia",
@@ -80,8 +82,8 @@
         "location_ssm":["Folder: 2"],
         "heading_ssm":["New York/Coney Island Polar Bear Club"],
         "unitdate_ssm":["Inclusive, 1978-1979"],
-        "_version_":1799315442631704576,
-        "timestamp":"2024-05-17T15:48:44.75Z"},
+        "_version_":1802094718197170176,
+        "timestamp":"2024-06-17T08:04:08.476Z"},
       {
         "id":"pr429_frank_battagliaaspace_50435f420405a5c6d9826b9f784e347d",
         "ead_ssi":"pr429_frank_battaglia",
@@ -97,8 +99,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["CDs with images (RESTRICTED)"],
         "unitdate_ssm":["Inclusive, 1978-1979"],
-        "_version_":1799315442685181952,
-        "timestamp":"2024-05-17T15:48:44.802Z"},
+        "_version_":1802094718214995968,
+        "timestamp":"2024-06-17T08:04:08.493Z"},
       {
         "id":"pr429_frank_battagliaaspace_fa3f0037016101a6c3b5c36b8dcd03c1",
         "ead_ssi":"pr429_frank_battaglia",
@@ -114,8 +116,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Edie Beale"],
         "unitdate_ssm":["1979"],
-        "_version_":1799315442593955840,
-        "timestamp":"2024-05-17T15:48:44.715Z"}]
+        "_version_":1802094718180392960,
+        "timestamp":"2024-06-17T08:04:08.46Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -123,7 +125,8 @@
       "repository_sim":[
         "nyhs",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Battaglia, Frank, 1954-",1],
       "date_range_sim":[
         "undated & other",4],
       "subject_sim":[],

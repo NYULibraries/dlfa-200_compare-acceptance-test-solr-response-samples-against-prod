@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":36,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Grand Army of the Republic, Department of New York, Gen. James B. McPherson Post 614 personal war sketches"],
         "unitid_ssm":["2011.011"],
         "abstract_ssm":["One bound commemorative volume containing handwritten sketches of the war service records of members of the Grand Army of the Republic, Gen. James B. McPherson Post No. 614, as well as sketches of the post itself. Approximately 50 sketches are included. The volume dates from 1897."],
+        "creator_ssm":["Grand Army of the Republic. Gen. James B. McPherson Post No. 614 (Brooklyn, New York, N.Y.)",
+          "Grand Army of the Republic. Gen. James B. McPherson Post No. 614 (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1897/1897"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Grand Army of the Republic. Gen. James B. McPherson Post No. 614 (Brooklyn, New York, N.Y.)",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1897"],
         "unitdate_ssm":["Inclusive, 1897"],
         "language_ssm":["English"],
-        "_version_":1799312374166978560,
-        "timestamp":"2024-05-17T14:59:58.435Z"},
+        "_version_":1801964133745164288,
+        "timestamp":"2024-06-15T21:28:33.438Z"},
       {
         "id":"arms_2011_011_mcphersonaspace_ref9_nkp",
         "ead_ssi":"arms_2011_011_mcpherson",
@@ -86,8 +88,8 @@
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["1003321"],
-        "_version_":1799312374180610048,
-        "timestamp":"2024-05-17T14:59:58.448Z"}]
+        "_version_":1801964133760892928,
+        "timestamp":"2024-06-15T21:28:33.453Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +97,8 @@
       "repository_sim":[
         "cbh",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Grand Army of the Republic. Gen. James B. McPherson Post No. 614 (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "undated & other",1],

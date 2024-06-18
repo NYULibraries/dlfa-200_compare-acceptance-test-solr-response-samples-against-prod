@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":22,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["George Hall address to the Brooklyn Board of Trustees"],
         "unitid_ssm":["1977.637"],
         "abstract_ssm":["A handwritten manuscript of an 1834 address given by George Hall (1795-1868) to the Brooklyn Board of Trustees of Brooklyn upon his election as Mayor."],
+        "creator_ssm":["Hall, George",
+          "Hall, George"],
         "unitdate_normal_ssm":["1834/1834"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Speeches"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1834"],
         "unitdate_ssm":["1834"],
         "language_ssm":["English"],
-        "_version_":1785657349797576704,
-        "timestamp":"2023-12-18T21:39:12.404Z"}]
+        "_version_":1800729752412094464,
+        "timestamp":"2024-06-02T06:28:35.664Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hall, George",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

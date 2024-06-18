@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Harold Edelhoch Letters"],
         "unitid_ssm":["MC.310"],
         "abstract_ssm":["Dr. Harold Edelhoch (1922-1986) was a biochemist whose research focused on the physical chemistry of thyroglobulin and polypeptide hormones. Dr. Edelhoch earned his B.A. in chemistry from New York University (1943) and his M.A. (1946) and Ph.D. (1947) in physical chemistry from Princeton University. He served in the United States Army during World War II as a scientist assigned to the Manhattan Project. He later worked at the National Institute of Arthritis, Diabetes, and Digestive and Kidney Diseases, eventually becoming chief of the Protein Structure section of the institute's Clinical Endocrinology Branch. This collection consists of letters addressed to Sgt. Harold Edelhoch from 1943 to 1946 written by Edelhoch's friends, colleagues, and fellow servicemen from World War II. Many of the letters were written by Elizabeth Bristol Greenleaf, who was married to the Department of Chemistry Chair William Greenleaf and worked in the chemistry department's library while Edelhoch was a student at NYU. The majority of the letters were addressed to Edelhoch while he worked at the Frick Chemical Laboratory at Princeton University in New Jersey."],
+        "creator_ssm":["Edelhoch, Harold, 1922-",
+          "Edelhoch, Harold, 1922-"],
         "unitdate_normal_ssm":["1943/1946"],
         "corpname_ssm":["New York University Archives"],
         "genreform_ssm":["Personal correspondence."],
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1943"],
         "unitdate_end_ssm":["1946"],
         "unitdate_ssm":["Inclusive, 1943-1946"],
-        "_version_":1799256000257064960,
-        "timestamp":"2024-05-17T00:03:56.085Z"},
+        "_version_":1801949657576767488,
+        "timestamp":"2024-06-15T17:38:27.888Z"},
       {
         "id":"mc_310aspace_1c59548e5c9e0032edaf922f4260838e",
         "ead_ssi":"mc_310",
@@ -83,14 +85,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Correspondence -- Letters from Elizabeth Bristol Greenleaf"],
         "unitdate_start_ssm":["1944"],
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, 1944-1945"],
-        "_version_":1799256000301105152,
-        "timestamp":"2024-05-17T00:03:56.127Z"},
+        "_version_":1801949657619759104,
+        "timestamp":"2024-06-15T17:38:27.929Z"},
       {
         "id":"mc_310aspace_ed2a3ff74081dffb09f90e0dad764542",
         "ead_ssi":"mc_310",
@@ -104,14 +105,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-2, 4-5",
-          "Folder: 1-2, 4-5"],
+        "location_ssm":["Box: 1, Folder: 1-2, 4-5"],
         "heading_ssm":["Correspondence -- General"],
         "unitdate_start_ssm":["1943"],
         "unitdate_end_ssm":["1946"],
         "unitdate_ssm":["Inclusive, 1943-1946"],
-        "_version_":1799256000278036480,
-        "timestamp":"2024-05-17T00:03:56.105Z"}]
+        "_version_":1801949657597739008,
+        "timestamp":"2024-06-15T17:38:27.908Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -119,7 +119,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Edelhoch, Harold, 1922-",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

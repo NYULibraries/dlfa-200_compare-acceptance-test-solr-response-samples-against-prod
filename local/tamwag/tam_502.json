@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Andree Aelion Brooks Research Files on Bluet Rabinoff"],
         "unitid_ssm":["TAM.502"],
         "abstract_ssm":["Andree Aelion Brooks (http://www.andreeaelionbrooks.com/) is a journalist, lecturer and author, including the book Russian Dance: A True Story of Intrigue and Passion in Stalinist Moscow (2004), concerning Bluet Rabinoff (d. 1976) an American Jewish woman who lived in the Soviet Union in the late 1920s-early 1930s. The collection consists principally of research materials for this book, including FOIA material, copies of documents from various repositories, printed material, correspondence from Moscow, an autobiographical typescript by Bluet Rabinoff, and the author's correspondence with Rabinoff."],
+        "creator_ssm":["Brooks, Andree Aelion",
+          "Brooks, Andree Aelion"],
         "unitdate_normal_ssm":["1920/2009"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "geogname_ssm":["Soviet Union -- History -- 1925-1953.",
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, circa 1920-2009"],
-        "_version_":1799791196130770944,
-        "timestamp":"2024-05-22T21:50:38.644Z"},
+        "_version_":1802183192771297280,
+        "timestamp":"2024-06-18T07:30:24.405Z"},
       {
         "id":"tam_502aspace_8df1b5cc482f19c96236d2fc56365b5e",
         "ead_ssi":"tam_502",
@@ -86,8 +88,8 @@
         "location_ssm":["Box: 1",
           "Box: 2"],
         "heading_ssm":["Research files"],
-        "_version_":1799791196146499584,
-        "timestamp":"2024-05-22T21:50:38.659Z"}]
+        "_version_":1802183192781783040,
+        "timestamp":"2024-06-18T07:30:24.415Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +97,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooks, Andree Aelion",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

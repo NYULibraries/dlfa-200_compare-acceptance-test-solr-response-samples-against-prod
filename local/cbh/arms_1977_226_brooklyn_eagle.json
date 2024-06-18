@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Brooklyn Eagle records"],
         "unitid_ssm":["1977.226"],
         "abstract_ssm":["The Brooklyn Eagle records span the years 1887 to 1955 (bulk dates 1930 to 1955) and primarily covers the last years of publication of the Brooklyn Eagle before its bankruptcy in 1955."],
+        "creator_ssm":["Brooklyn Daily Eagle (Firm)",
+          "Schroth, Frank D.",
+          "Brooklyn Daily Eagle (Firm)",
+          "Schroth, Frank D."],
         "unitdate_normal_ssm":["1887/1955",
           "1930/1955"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -92,8 +96,8 @@
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["Inclusive, 1887-1955 ; 1930-1955"],
         "language_ssm":["English"],
-        "_version_":1799256498162892800,
-        "timestamp":"2024-05-17T00:11:50.924Z"}]
+        "_version_":1801960966778257408,
+        "timestamp":"2024-06-15T20:38:13.183Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -101,7 +105,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Daily Eagle (Firm)",1,
+        "Schroth, Frank D.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

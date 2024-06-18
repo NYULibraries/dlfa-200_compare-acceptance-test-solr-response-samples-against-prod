@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Rachel Searcy."],
         "unittitle_ssm":["Marc Ribot Papers"],
-        "unitid_ssm":["MSS.529",
-          "/repositories/3/resources/2552"],
+        "unitid_ssm":["MSS.529"],
         "abstract_ssm":["Marc Ribot is an American guitarist and composer associated with avant-garde music, free jazz, no wave, rock, and Cuban musical styles. In addition to his original compositions, he has worked extensively as a session musician and collaborated with artists including Tom Waits, John Zorn, The Lounge Lizards, and Elvis Costello. This collection consists of materials created and collected by Ribot between 1975 and 2005 documenting his musical career and include original scores and charts of Ribot's compositions, original writings, posters and flyers for performances, press kits, address books, tour diaries, music industry publications featuring Ribot, and photographs, including those from press kits, live performances, and touring. In addition to materials strictly documenting Ribot's musical career, this collection includes materials documenting his political interests and activities, with particular focus on squatting and housing issues. These materials provide documentation on Ribot's musical career, compositional processes, and the larger context of the Radical Jewish Culture movement of the early 1990s in New York that combined elements of free jazz, Klezmer improvisation, blues, and punk music."],
+        "creator_ssm":["Ribot, Marc",
+          "Ribot, Marc"],
         "unitdate_normal_ssm":["1975/2018",
           "1975/2018"],
         "corpname_ssm":["Fales Library and Special Collections",
@@ -69,15 +70,15 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["2018"],
         "unitdate_ssm":["Inclusive, 1975-2024, ongoing ; 1975-2018"],
-        "_version_":1799744588311691264,
-        "timestamp":"2024-05-22T09:29:49.964Z"},
+        "_version_":1802080583605551104,
+        "timestamp":"2024-06-17T04:19:28.679Z"},
       {
         "id":"mss_529aspace_152b005654ed39a64893c5783d225823",
         "ead_ssi":"mss_529",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Marc Ribot Papers"],
-        "collection_unitid_ssm":["MSS.529/repositories/3/resources/2552"],
+        "collection_unitid_ssm":["MSS.529"],
         "unittitle_ssm":["Archived Websites"],
         "unitid_ssm":["/repositories/3/archival_objects/964843"],
         "unitdate_normal_ssm":["2017-05/2017-05"],
@@ -92,8 +93,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["May 2017-ongoing"],
-        "_version_":1799744588330565632,
-        "timestamp":"2024-05-22T09:29:49.981Z"}]
+        "_version_":1802080583637008384,
+        "timestamp":"2024-06-17T04:19:28.709Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -102,7 +103,8 @@
         "fales",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ribot, Marc",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

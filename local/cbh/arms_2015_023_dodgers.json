@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Dodgers Spring Training photographs"],
         "unitid_ssm":["2015.023"],
         "abstract_ssm":["The collection is composed of 24 candid photographs taken during the Brooklyn Dodgers' spring training at \"Dodgertown\" in Vero Beach, Florida in the early 1950s and one panoramic photograph taken on April 13, 1953 at the Brooklyn Dodgers' \"Welcome Home\" dinner held at the Hotel St. George in Brooklyn and given by the Knothole Club, Inc."],
+        "creator_ssm":["Mascola, Lawrence",
+          "Mascola, Lawrence"],
         "unitdate_normal_ssm":["1953/1953"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Dodgers (Baseball team)",
@@ -80,8 +82,8 @@
         "unitdate_end_ssm":["1953"],
         "unitdate_ssm":["Inclusive, 1953"],
         "language_ssm":["English"],
-        "_version_":1799256218214072320,
-        "timestamp":"2024-05-17T00:07:23.945Z"}]
+        "_version_":1801966987500322816,
+        "timestamp":"2024-06-15T22:13:54.991Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Mascola, Lawrence",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

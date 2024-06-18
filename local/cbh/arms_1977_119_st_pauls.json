@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["St. Paul's Free Church account book"],
         "unitid_ssm":["1977.119"],
         "abstract_ssm":["Account book of St. Paul's Free Church for the period 1834 to 1840, including treasurer's accounts of income and expenditures; accounts of the minister, vestry, and sexton; and lists of special donations."],
+        "creator_ssm":["St. Paul's Free Church (Brooklyn, New York, N.Y.)",
+          "St. Paul's Free Church (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1834/1840"],
         "corpname_ssm":["Brooklyn Historical Society",
           "St. Paul's Free Church (Brooklyn, New York, N.Y.)",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1840"],
         "unitdate_ssm":["Inclusive, 1834-1840"],
         "language_ssm":["English"],
-        "_version_":1799311721658056704,
-        "timestamp":"2024-05-17T14:49:36.154Z"}]
+        "_version_":1801960742985924608,
+        "timestamp":"2024-06-15T20:34:39.758Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "St. Paul's Free Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

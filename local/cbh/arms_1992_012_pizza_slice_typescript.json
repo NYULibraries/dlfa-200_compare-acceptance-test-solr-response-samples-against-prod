@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>Pizza by the Slice</em> typescript"],
         "unitid_ssm":["1992.012"],
         "abstract_ssm":["Typescript of the play Pizza by the Slice by Tony Walsh."],
+        "creator_ssm":["Walsh, Tony",
+          "Walsh, Tony"],
         "unitdate_normal_ssm":["1987/1987"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Plays (document genre)",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1987"],
         "language_ssm":["English"],
-        "_version_":1799256308662140928,
-        "timestamp":"2024-05-17T00:08:50.203Z"}]
+        "_version_":1801963672577245184,
+        "timestamp":"2024-06-15T21:21:13.634Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Walsh, Tony",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

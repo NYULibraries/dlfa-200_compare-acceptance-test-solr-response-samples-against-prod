@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Morris Rosenzweig Papers"],
         "unitid_ssm":["WAG.273"],
         "abstract_ssm":["Morris Rosenzweig was the comptroller of District 65/United Automobile Workers. This collection contains clippings, booklets, buttons, photographs, artifacts, ephemera and a typescript on the history of District 65 written by Morris Rosenzweig."],
+        "creator_ssm":["Rosenzweig, Morris",
+          "Rosenzweig, Morris"],
         "unitdate_normal_ssm":["1939/1993"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. District 65",
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1939"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1939-1993"],
-        "_version_":1799803931583315968,
-        "timestamp":"2024-05-23T01:13:04.117Z"},
+        "_version_":1802196466250285056,
+        "timestamp":"2024-06-18T11:01:22.981Z"},
       {
         "id":"wag_273aspace_9087e04a9f00baf7a8ef1df8e46c2f98",
         "ead_ssi":"wag_273",
@@ -86,8 +88,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1950s-1980s"],
-        "_version_":1799803931596947456,
-        "timestamp":"2024-05-23T01:13:04.131Z"}]
+        "_version_":1802196466259722240,
+        "timestamp":"2024-06-18T11:01:22.99Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +97,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rosenzweig, Morris",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[],

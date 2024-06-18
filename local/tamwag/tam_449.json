@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Collection of Mary K. Simkhovitch Correspondence"],
         "unitid_ssm":["TAM.449"],
+        "creator_ssm":["Simkhovitch, Mary K. (Mary Kingsbury), 1867-1951",
+          "Simkhovitch, Mary K. (Mary Kingsbury), 1867-1951"],
         "unitdate_normal_ssm":["1946/1951"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Greenwich House (New York, N.Y.)"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["Inclusive, 1946-1951"],
         "language_ssm":["English"],
-        "_version_":1799791117517979648,
-        "timestamp":"2024-05-22T21:49:23.673Z"}]
+        "_version_":1802183108181622784,
+        "timestamp":"2024-06-18T07:29:03.734Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Simkhovitch, Mary K. (Mary Kingsbury), 1867-1951",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

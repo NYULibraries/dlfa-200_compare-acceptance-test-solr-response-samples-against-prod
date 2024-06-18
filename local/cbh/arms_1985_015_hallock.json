@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles Hallock papers"],
         "unitid_ssm":["1985.015"],
         "abstract_ssm":["The Charles Hallock papers include a biography, handwritten notes on club memberships, essays, and publsihed works by Hallock. One document in the collection is titled Escapes and Deliverances of Charles Hallock. Charles Hallock (1834-1917) was an author, journalist, geographer, naturalist, and explorer. Born in New York City, Hallock was a descendent of Peter Holyoke, one of the original settlers of Southold, Long Island."],
+        "creator_ssm":["Hallock, Charles",
+          "Hallock, Charles"],
         "unitdate_normal_ssm":["1854/1906"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Publications",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1906"],
         "unitdate_ssm":["Inclusive, 1854-1906"],
         "language_ssm":["English"],
-        "_version_":1799256310905044992,
-        "timestamp":"2024-05-17T00:08:52.342Z"}]
+        "_version_":1801962925311655936,
+        "timestamp":"2024-06-15T21:09:20.986Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hallock, Charles",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

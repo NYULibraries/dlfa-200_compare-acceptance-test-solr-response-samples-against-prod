@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Maggie Schreiner"],
         "unittitle_ssm":["Joel Shufro Papers"],
         "unitid_ssm":["WAG.028"],
+        "creator_ssm":["Shufro, Joel A., 1943-",
+          "Shufro, Joel A., 1943-"],
         "unitdate_normal_ssm":["1971/1977"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Empire State College. Center for Labor Studies",
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["1971"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1971-1977"],
-        "_version_":1799333266585550848,
-        "timestamp":"2024-05-17T20:32:02.998Z"}]
+        "_version_":1802191814356107264,
+        "timestamp":"2024-06-18T09:47:26.589Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Shufro, Joel A., 1943-",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

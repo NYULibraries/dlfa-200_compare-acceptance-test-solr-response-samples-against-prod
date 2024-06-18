@@ -63,8 +63,8 @@
         "unitdate_end_ssm":["1852"],
         "unitdate_ssm":["Inclusive, 1848-1852"],
         "language_ssm":["English"],
-        "_version_":1799311646009589760,
-        "timestamp":"2024-05-17T14:48:24.009Z"},
+        "_version_":1802043852097323008,
+        "timestamp":"2024-06-16T18:35:38.783Z"},
       {
         "id":"bcms_0036aspace_ref11",
         "ead_ssi":"bcms_0036",
@@ -79,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Coney Island House Register, 1848-1852."],
-        "_version_":1799311646023221248,
-        "timestamp":"2024-05-17T14:48:24.023Z"}]
+        "_version_":1802043852112003072,
+        "timestamp":"2024-06-16T18:35:38.797Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

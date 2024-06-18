@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Michi Kobi Papers"],
         "unitid_ssm":["TAM.697"],
         "abstract_ssm":["Michi Kobi (1924-2016) was a Japanese American actress and activist who was forcibly removed from her home and incarcerated at the Central Utah Relocation Center, a concentration camp (euphemistically referred to as an internment camp) in Topaz, Utah during World War II. The Michi Kobi Papers consist of correspondence, newspaper clippings, photographs, and drafts of her writings. Correspondence predominantly relates to Kobi's study of Japanese American history and the incarceration of Japanese Americans, and includes letters to personal friends, scholars, and activists in the Japanese American community. Kobi's writings include multiple drafts of an untitled novel about Japanese Americans in San Francisco, research files on Japanese Americans, and drafts of her unpublished memoir about her experience at the Topaz concentration camp. The collection also contains photographs from Kobi's visit to the Topaz historic site in the 1980s, as well as audio recordings of conferences and meetings on this period of Japanese American incarceration."],
+        "creator_ssm":["Kobi, Michi",
+          "Kobi, Michi"],
         "unitdate_normal_ssm":["1977/2015"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Central Utah Relocation Center"],
@@ -72,8 +74,8 @@
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 1977-2015"],
-        "_version_":1799791982334181376,
-        "timestamp":"2024-05-22T22:03:08.425Z"},
+        "_version_":1802184329327017984,
+        "timestamp":"2024-06-18T07:48:28.309Z"},
       {
         "id":"tam_697aspace_0c8c4c2788cafb63173c6c0688437d10",
         "ead_ssi":"tam_697",
@@ -92,8 +94,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 1987-2015"],
-        "_version_":1799791982428553216,
-        "timestamp":"2024-05-22T22:03:08.516Z"},
+        "_version_":1802184329396224000,
+        "timestamp":"2024-06-18T07:48:28.375Z"},
       {
         "id":"tam_697aspace_29458cdfae1ce45acd024b8c460d3d7f",
         "ead_ssi":"tam_697",
@@ -113,8 +115,8 @@
         "unitdate_start_ssm":["1988"],
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1988-2000"],
-        "_version_":1799791982391853056,
-        "timestamp":"2024-05-22T22:03:08.481Z"},
+        "_version_":1802184329368961024,
+        "timestamp":"2024-06-18T07:48:28.349Z"},
       {
         "id":"tam_697aspace_3e646bbe33532afd12883a954b7336f7",
         "ead_ssi":"tam_697",
@@ -133,8 +135,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 1983-2001"],
-        "_version_":1799791982466301952,
-        "timestamp":"2024-05-22T22:03:08.552Z"},
+        "_version_":1802184329424535552,
+        "timestamp":"2024-06-18T07:48:28.402Z"},
       {
         "id":"tam_697aspace_6cd691346bb69070d922358b0e178806",
         "ead_ssi":"tam_697",
@@ -153,8 +155,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1981-1988"],
-        "_version_":1799791982442184704,
-        "timestamp":"2024-05-22T22:03:08.528Z"},
+        "_version_":1802184329405661184,
+        "timestamp":"2024-06-18T07:48:28.384Z"},
       {
         "id":"tam_697aspace_6dea1c55fc95e0dd4addd5a3d1ae75dc",
         "ead_ssi":"tam_697",
@@ -174,8 +176,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1983, 1986"],
-        "_version_":1799791982378221568,
-        "timestamp":"2024-05-22T22:03:08.468Z"},
+        "_version_":1802184329359523840,
+        "timestamp":"2024-06-18T07:48:28.34Z"},
       {
         "id":"tam_697aspace_6f79a9378850274821f19ad6ea1ad6b0",
         "ead_ssi":"tam_697",
@@ -194,8 +196,8 @@
         "unitdate_start_ssm":["1988"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 1988-2015"],
-        "_version_":1799791982348861440,
-        "timestamp":"2024-05-22T22:03:08.44Z"},
+        "_version_":1802184329337503744,
+        "timestamp":"2024-06-18T07:48:28.319Z"},
       {
         "id":"tam_697aspace_808f194f1c1e78941e35b810c512c402",
         "ead_ssi":"tam_697",
@@ -214,8 +216,8 @@
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1977-1992"],
-        "_version_":1799791982404435968,
-        "timestamp":"2024-05-22T22:03:08.493Z"},
+        "_version_":1802184329378398208,
+        "timestamp":"2024-06-18T07:48:28.358Z"},
       {
         "id":"tam_697aspace_84a1c95ed2f524f7884f4cea3ce5d0ff",
         "ead_ssi":"tam_697",
@@ -234,8 +236,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 1987-2014"],
-        "_version_":1799791982360395776,
-        "timestamp":"2024-05-22T22:03:08.451Z"},
+        "_version_":1802184329345892352,
+        "timestamp":"2024-06-18T07:48:28.327Z"},
       {
         "id":"tam_697aspace_9fad6e63975cdb70a3a16fa58d3bd0dd",
         "ead_ssi":"tam_697",
@@ -255,8 +257,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1970s-1980s"],
-        "_version_":1799791982453719040,
-        "timestamp":"2024-05-22T22:03:08.54Z"},
+        "_version_":1802184329415098368,
+        "timestamp":"2024-06-18T07:48:28.393Z"},
       {
         "id":"tam_697aspace_a16543dba94a042ad232c4cf3be8f14d",
         "ead_ssi":"tam_697",
@@ -275,8 +277,8 @@
         "unitdate_start_ssm":["1985"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["1985"],
-        "_version_":1799791982493564928,
-        "timestamp":"2024-05-22T22:03:08.578Z"},
+        "_version_":1802184329445507072,
+        "timestamp":"2024-06-18T07:48:28.422Z"},
       {
         "id":"tam_697aspace_b1966dd0c1bab7e8e5c09cc4ccc6fd42",
         "ead_ssi":"tam_697",
@@ -295,8 +297,8 @@
         "unitdate_start_ssm":["1982"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 1982-2012"],
-        "_version_":1799791982415970304,
-        "timestamp":"2024-05-22T22:03:08.504Z"},
+        "_version_":1802184329386786816,
+        "timestamp":"2024-06-18T07:48:28.366Z"},
       {
         "id":"tam_697aspace_b1ee63736e725c1ff5545a1b546c1594",
         "ead_ssi":"tam_697",
@@ -311,15 +313,13 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment OS009, Folder: 1",
-          "Folder: 1",
-          "Box: Shared Tamiment 165, Folder: 3",
-          "Folder: 3"],
+          "Box: Shared Tamiment 165, Folder: 3"],
         "heading_ssm":["Topaz Demolition Site Photographs"],
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1980s"],
-        "_version_":1799791982507196416,
-        "timestamp":"2024-05-22T22:03:08.591Z"},
+        "_version_":1802184329455992832,
+        "timestamp":"2024-06-18T07:48:28.432Z"},
       {
         "id":"tam_697aspace_ca475ddcb5f2d1ccd9d0296d5f5dd148",
         "ead_ssi":"tam_697",
@@ -338,8 +338,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 1983-2012"],
-        "_version_":1799791982478884864,
-        "timestamp":"2024-05-22T22:03:08.564Z"}]
+        "_version_":1802184329433972736,
+        "timestamp":"2024-06-18T07:48:28.411Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -347,7 +347,8 @@
       "repository_sim":[
         "tamwag",14],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kobi, Michi",1],
       "date_range_sim":[
         "1901-2000",14,
         "2001-2100",7],

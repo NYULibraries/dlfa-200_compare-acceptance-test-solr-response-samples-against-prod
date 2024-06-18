@@ -47,6 +47,8 @@
         "unittitle_ssm":["Queens County Court of General Sessions of the Peace record"],
         "unitid_ssm":["1977.106"],
         "abstract_ssm":["A decision issued by the Queens County Court of General Sessions of the Peace, dated 1799. The case in question concerned a John Schenck of the town of North Hempstead, Long Island, who sought the court's approval to manumit (or free) an enslaved African-American man named Prince."],
+        "creator_ssm":["Queens County (N.Y.). Court of General Sessions of the Peace",
+          "Queens County (N.Y.). Court of General Sessions of the Peace"],
         "unitdate_normal_ssm":["1799/1799"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Queens County (N.Y.). Court of General Sessions of the Peace"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1799"],
         "unitdate_ssm":["1799"],
         "language_ssm":["English"],
-        "_version_":1799311500535398400,
-        "timestamp":"2024-05-17T14:46:05.275Z"}]
+        "_version_":1801960720653352960,
+        "timestamp":"2024-06-15T20:34:18.46Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Queens County (N.Y.). Court of General Sessions of the Peace",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

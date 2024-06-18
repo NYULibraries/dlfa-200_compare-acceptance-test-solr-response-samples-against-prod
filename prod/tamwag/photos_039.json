@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":22,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Girolamo Valenti Photographs"],
         "unitid_ssm":["PHOTOS.039"],
         "abstract_ssm":["Girolamo Valenti (1893-1958) was an anti-fascist, anti-communist Italian-American labor leader, socialist, and editor. Collection consists of 11 black and white photographs of varying sizes, including two small panoramic prints, two clippings of photographs from periodicals or newspapers, and a printing plate. Images are of anti-fascist rallies in New York City, and of Valenti and his associates."],
+        "creator_ssm":["Valenti, Girolamo",
+          "Valenti, Girolamo"],
         "unitdate_normal_ssm":["1936/1945"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Partito repubblicano italiano",
@@ -86,8 +88,8 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, 1936-1945"],
-        "_version_":1775220177248452608,
-        "timestamp":"2023-08-25T16:44:49.008Z"},
+        "_version_":1801183400045838336,
+        "timestamp":"2024-06-07T06:39:07.761Z"},
       {
         "id":"photos_039aspace_ref15",
         "ead_ssi":"photos_039",
@@ -101,8 +103,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Container list"],
-        "_version_":1775220177291444224,
-        "timestamp":"2023-08-25T16:44:49.049Z"},
+        "_version_":1801183400083587072,
+        "timestamp":"2024-06-07T06:39:07.797Z"},
       {
         "id":"photos_039aspace_ref16",
         "ead_ssi":"photos_039",
@@ -119,14 +121,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Anti-fascist rallies in New York City, 1936, nd.; snapshots of Girolamo Valenti and others"],
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, 1936 , 1945 , undated"],
-        "_version_":1775220177329192960,
-        "timestamp":"2023-08-25T16:44:49.085Z"},
+        "_version_":1801183400136015872,
+        "timestamp":"2024-06-07T06:39:07.847Z"},
       {
         "id":"photos_039aspace_ref17",
         "ead_ssi":"photos_039",
@@ -143,14 +144,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Printing plate"],
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1775220177366941696,
-        "timestamp":"2023-08-25T16:44:49.121Z"},
+        "_version_":1801183400175861760,
+        "timestamp":"2024-06-07T06:39:07.885Z"},
       {
         "id":"photos_039aspace_ref18",
         "ead_ssi":"photos_039",
@@ -167,12 +167,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment OS002, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment OS002, Folder: 1"],
         "heading_ssm":["Oversized: Photo-essay by Valenti (\"Italian Fascist Propaganda in the United States,\" ) published in Look magazine, December 17, 1940."],
         "unitdate_ssm":["Dec 17, 1940"],
-        "_version_":1775220177405739008,
-        "timestamp":"2023-08-25T16:44:49.158Z"}]
+        "_version_":1801183400221999104,
+        "timestamp":"2024-06-07T06:39:07.929Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -180,7 +179,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Valenti, Girolamo",1],
       "date_range_sim":[
         "1901-2000",3,
         "undated & other",2],

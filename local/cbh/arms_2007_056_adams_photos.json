@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":21,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Adams family photographs and papers"],
         "unitid_ssm":["2007.056"],
         "abstract_ssm":["The Adams family photographs and papers consists of 95 cabinet card photographs, one tintype photograph, five pocket journals, one leather wallet, and 13 pieces of correspondence, postcards, and other ephemera. Many of the photographs were taken and developed by Lindsay E. Adams, who operated a photography business out of 123 Lincoln Place, in the Prospect Heights neighborhood of Brooklyn, New York, during the 1890s."],
+        "creator_ssm":["Adams, Lindsay E.",
+          "Adams, Lindsay E."],
         "unitdate_normal_ssm":["1880/1912",
           "1880/1900"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -94,8 +96,8 @@
           "1900"],
         "unitdate_ssm":["Inclusive, 1880-1912 ; 1880-1900"],
         "language_ssm":["English"],
-        "_version_":1799311437202456576,
-        "timestamp":"2024-05-17T14:45:04.876Z"}]
+        "_version_":1801964020547190784,
+        "timestamp":"2024-06-15T21:26:45.484Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -103,7 +105,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Adams, Lindsay E.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

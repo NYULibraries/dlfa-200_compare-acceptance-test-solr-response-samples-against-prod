@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":22,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Alexander Cohen Tamiment Playhouse Photographs"],
         "unitid_ssm":["PHOTOS.080"],
         "abstract_ssm":["Most of the 25 images in this collection are photographs of performances at the Tamiment Playhouse; all were shot by Alexander Cohen. The Playhouse, located in Bushkill, Pennsylvania, was a prominent incubator of and a major creative outlet for theater, dance, film, and television in the mid-twentieth century. It nurtured many performers and writers who later became famous, such as Danny Kaye, Carol Burnett, Woody Allen, and Neil Simon. Much of the copious original material performed at Tamiment found its way to the professional stage, Broadway, and television. The Playhouse was part of Camp Tamiment, a summer resort for socialists and their families that opened in 1921."],
+        "creator_ssm":["Cohen, Alexander",
+          "Cohen, Alexander"],
         "unitdate_normal_ssm":["1947/1958",
           "1947/1952"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -103,8 +105,8 @@
           "1952"],
         "unitdate_ssm":["Inclusive, 1947-1958 ; 1947-1952"],
         "language_ssm":["English"],
-        "_version_":1799335389851287552,
-        "timestamp":"2024-05-17T21:05:47.902Z"},
+        "_version_":1802141831266304000,
+        "timestamp":"2024-06-17T20:32:59Z"},
       {
         "id":"photos_080aspace_ref13",
         "ead_ssi":"photos_080",
@@ -118,8 +120,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Container list"],
-        "_version_":1799335389870161920,
-        "timestamp":"2024-05-17T21:05:47.92Z"},
+        "_version_":1802141831284129792,
+        "timestamp":"2024-06-17T20:32:59.017Z"},
       {
         "id":"photos_080aspace_ref14",
         "ead_ssi":"photos_080",
@@ -141,8 +143,8 @@
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["Inclusive, 1947, 1950, 1952, 1953, 1958, undated"],
-        "_version_":1799335389895327744,
-        "timestamp":"2024-05-17T21:05:47.944Z"}]
+        "_version_":1802141831304052736,
+        "timestamp":"2024-06-17T20:32:59.036Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -150,7 +152,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cohen, Alexander",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",1],

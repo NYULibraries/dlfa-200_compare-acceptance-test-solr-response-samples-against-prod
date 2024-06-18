@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Thomas J. Conant papers"],
         "unitid_ssm":["1977.002"],
         "abstract_ssm":["Various papers (dating ca. 1867 to 1883) of Thomas J. Conant (1802-1891), a prominent biblical scholar, including published and unpublished manuscript translations of biblical texts as well as lecture and research notes."],
+        "creator_ssm":["Conant, Thomas Jefferson",
+          "Conant, Thomas Jefferson"],
         "unitdate_normal_ssm":["1857/1893"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Translations (documents)",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1893"],
         "unitdate_ssm":["Inclusive, circa 1867-1883"],
         "language_ssm":["English"],
-        "_version_":1799256217899499520,
-        "timestamp":"2024-05-17T00:07:23.645Z"}]
+        "_version_":1801960537855098880,
+        "timestamp":"2024-06-15T20:31:24.129Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Conant, Thomas Jefferson",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

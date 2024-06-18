@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Co-operative Educational Institute Association Records"],
         "unitid_ssm":["TAM.016"],
         "abstract_ssm":["The Co-Operative Educational Instite Association in the Brownsville neighborhood of Brooklyn, New York City, administered a cooperative evening school offering high school equivalency courses. The records consist of reports, minutes, schedules, and correspondence that document the life of the school."],
+        "creator_ssm":["Co-operative Educational Institute Association",
+          "Co-operative Educational Institute Association"],
         "unitdate_normal_ssm":["1919/1927"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Co-operative Educational Institute Association",
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1927"],
         "unitdate_ssm":["Inclusive, 1919-1927"],
         "language_ssm":["English"],
-        "_version_":1775222912141230080,
-        "timestamp":"2023-08-25T17:28:17.205Z"},
+        "_version_":1801197236330168320,
+        "timestamp":"2024-06-07T10:19:03.07Z"},
       {
         "id":"tam_016aspace_ref6",
         "ead_ssi":"tam_016",
@@ -82,8 +84,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Schedules; Registrar's reports; Financial Reports; Finances; Lists of Officers; Executive Committee; Board of Directors"],
-        "_version_":1775222912180027392,
-        "timestamp":"2023-08-25T17:28:17.242Z"},
+        "_version_":1801197236366868480,
+        "timestamp":"2024-06-07T10:19:03.105Z"},
       {
         "id":"tam_016aspace_ref7",
         "ead_ssi":"tam_016",
@@ -98,8 +100,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Membership Meetings: Minutes; Executive Committee of the Students Cooperative School; Minutes of Student Body Meetings; Membership Committee Minutes; Educational Committee Minutes; Finance Committee Minutes; Joint Educational/Finance Committee Minutes; Provisional Commzittee Minutes; Intercooperation Committee Minutes; Entertainment Committee Minutes; Grievance Committee 'Minutes; Miscellaneous Minutes, Reports\n"],
-        "_version_":1775222912225116160,
-        "timestamp":"2023-08-25T17:28:17.285Z"},
+        "_version_":1801197236407762944,
+        "timestamp":"2024-06-07T10:19:03.144Z"},
       {
         "id":"tam_016aspace_ref8",
         "ead_ssi":"tam_016",
@@ -114,8 +116,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 3"],
         "heading_ssm":["Correspondence (1922, 1923, 1924, 1925, 1926, undated); Registration and Regents Requirements; Firing of teachers; School announcements; Entertainment and excursions; Mailings to membership; leaflets; Constitutions; Lecture announcements; Correspondence with Cooperative League of America; Afros dismissal case; Resignations; Advertising; The Coop Student; Miscellaneous\t"],
-        "_version_":1775222912260767744,
-        "timestamp":"2023-08-25T17:28:17.319Z"}]
+        "_version_":1801197236439220224,
+        "timestamp":"2024-06-07T10:19:03.174Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -123,7 +125,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Co-operative Educational Institute Association",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",3],

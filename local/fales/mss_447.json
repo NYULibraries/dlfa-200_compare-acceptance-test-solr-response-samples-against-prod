@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Queer Nation Collection"],
         "unitid_ssm":["MSS.447"],
         "abstract_ssm":["The Queer Nation Collection contain items from protests, petitions, and demonstrations organized by the LGBT activist organization known as Queer Nation. The organization's disapproval of the Employment Non-Discrimination Act (ENDA) and  their Dump Russian Vodka campaign, which began in response to Russia's recent passage of repressive, anti-gay legislation, is heavily documented by ephemera in the collection. Materials include an oversized banner, flyers, invitations, protest signs, and t-shirts."],
+        "creator_ssm":["Queer Nation (Organization)",
+          "Queer Nation (Organization)"],
         "unitdate_normal_ssm":["1990/2014"],
         "corpname_ssm":["Fales Library and Special Collections",
           "Queer Nation (Organization)"],
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, circa 1990-2014"],
-        "_version_":1799740781345374208,
-        "timestamp":"2024-05-22T08:29:19.358Z"},
+        "_version_":1802072766658117632,
+        "timestamp":"2024-06-17T02:15:13.857Z"},
       {
         "id":"mss_447aspace_ref11",
         "ead_ssi":"mss_447",
@@ -81,8 +83,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["T-shirts"],
         "unitdate_ssm":["undated"],
-        "_version_":1799740781374734336,
-        "timestamp":"2024-05-22T08:29:19.386Z"},
+        "_version_":1802072766702157824,
+        "timestamp":"2024-06-17T02:15:13.899Z"},
       {
         "id":"mss_447aspace_ref12",
         "ead_ssi":"mss_447",
@@ -102,8 +104,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["2014, undated"],
-        "_version_":1799740781387317248,
-        "timestamp":"2024-05-22T08:29:19.398Z"},
+        "_version_":1802072766729420800,
+        "timestamp":"2024-06-17T02:15:13.925Z"},
       {
         "id":"mss_447aspace_ref13",
         "ead_ssi":"mss_447",
@@ -116,12 +118,11 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Ephemera"],
         "unitdate_ssm":["undated"],
-        "_version_":1799740781362151424,
-        "timestamp":"2024-05-22T08:29:19.374Z"},
+        "_version_":1802072766682234880,
+        "timestamp":"2024-06-17T02:15:13.88Z"},
       {
         "id":"mss_447aspace_ref14",
         "ead_ssi":"mss_447",
@@ -137,8 +138,8 @@
         "location_ssm":["Box: 4"],
         "heading_ssm":["Banner"],
         "unitdate_ssm":["undated"],
-        "_version_":1799740781407240192,
-        "timestamp":"2024-05-22T08:29:19.417Z"}]
+        "_version_":1802072766754586624,
+        "timestamp":"2024-06-17T02:15:13.949Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -146,7 +147,8 @@
       "repository_sim":[
         "fales",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Queer Nation (Organization)",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",2,

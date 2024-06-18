@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":46,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Spanish Civil War Propaganda Leaflets Collection"],
         "unitid_ssm":["ALBA.253"],
+        "creator_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
+          "Tamiment Library and Robert F. Wagner Labor Archives"],
         "unitdate_normal_ssm":["1936/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Tamiment Library and Robert F. Wagner Labor Archives"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1936-1939"],
         "language_ssm":["English"],
-        "_version_":1799333597648257024,
-        "timestamp":"2024-05-17T20:37:18.724Z"},
+        "_version_":1802111479784144896,
+        "timestamp":"2024-06-17T12:30:33.571Z"},
       {
         "id":"alba_253aspace_7e1f171002e1e1bfa8807eef957f47c1",
         "ead_ssi":"alba_253",
@@ -76,8 +78,8 @@
         "location_ssm":["Box: 1",
           "Box: 2"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799333597661888512,
-        "timestamp":"2024-05-17T20:37:18.737Z"}]
+        "_version_":1802111479818747904,
+        "timestamp":"2024-06-17T12:30:33.604Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tamiment Library and Robert F. Wagner Labor Archives",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

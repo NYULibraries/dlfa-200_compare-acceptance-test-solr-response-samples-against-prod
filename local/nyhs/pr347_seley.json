@@ -47,6 +47,8 @@
         "unittitle_ssm":["John E. Seley Ground Zero photographs"],
         "unitid_ssm":["PR 347"],
         "abstract_ssm":["Seventy-nine digital images documenting the destruction of the World Trade Center at Ground Zero in the two months following the terrorist attack of September 11, 2001. The photographer, John E. Seley, is a professor of Urban Planning and Geography at The City University of New York Graduate Center."],
+        "creator_ssm":["Seley, John E.",
+          "Seley, John E."],
         "corpname_ssm":["New-York Historical Society",
           "World Trade Center (New York, N.Y. : 1970-2001) -- Photographs."],
         "genreform_ssm":["Digital images."],
@@ -61,8 +63,8 @@
         "material_type_ssm":["Digital images."],
         "heading_ssm":["John E. Seley Ground Zero photographs"],
         "unitdate_ssm":["Inclusive, 2001"],
-        "_version_":1799324438910468096,
-        "timestamp":"2024-05-17T18:11:44.271Z"},
+        "_version_":1802094286174420992,
+        "timestamp":"2024-06-17T07:57:16.467Z"},
       {
         "id":"pr347_seleyaspace_ref11_4si",
         "ead_ssi":"pr347_seley",
@@ -78,8 +80,8 @@
         "location_ssm":["Folder: 1 of 1"],
         "heading_ssm":["Seventy-nine digital photographs of Ground Zero taken between September 12 and circa November 12, 2001"],
         "unitdate_ssm":["2001"],
-        "_version_":1799324438926196736,
-        "timestamp":"2024-05-17T18:11:44.286Z"}]
+        "_version_":1802094286201683968,
+        "timestamp":"2024-06-17T07:57:16.493Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Seley, John E.",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

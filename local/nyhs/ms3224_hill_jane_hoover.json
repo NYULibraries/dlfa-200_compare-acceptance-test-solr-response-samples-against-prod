@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jane Hoover Hill guestbook"],
         "unitid_ssm":["MS 3224"],
         "abstract_ssm":["Guestbook kept by Jane (Hoover) Hill, daughter of the president of the Hoover Company, vacuum cleaner manufacturers, recording names and inscriptions of friends and relatives who attended dinner parties and social gatherings in her New York City and Ohio homes, 1936–1949."],
+        "creator_ssm":["Hill, Jane Hoover, 1912-1991.",
+          "Hill, Jane Hoover, 1912-1991."],
         "corpname_ssm":["New-York Historical Society"],
         "famname_ssm":["Hoover (Family)"],
         "genreform_ssm":["Visitors' books"],
@@ -65,8 +67,8 @@
         "material_type_ssm":["Visitors' books"],
         "heading_ssm":["Jane Hoover Hill guestbook"],
         "unitdate_ssm":["Inclusive, 1936-1949"],
-        "_version_":1799316038245941248,
-        "timestamp":"2024-05-17T15:58:12.773Z"},
+        "_version_":1802086209708621824,
+        "timestamp":"2024-06-17T05:48:54.149Z"},
       {
         "id":"ms3224_hill_jane_hooveraspace_e6bdbbaeab9efa237e35f41747b4d911",
         "ead_ssi":"ms3224_hill_jane_hoover",
@@ -79,12 +81,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Offsite-Box: 1, Folder: 1"],
         "heading_ssm":["Jane Hoover Hill guestbook"],
         "unitdate_ssm":["Inclusive, 1936-1949"],
-        "_version_":1799316038302564352,
-        "timestamp":"2024-05-17T15:58:12.827Z"}]
+        "_version_":1802086209726447616,
+        "timestamp":"2024-06-17T05:48:54.166Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +93,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hill, Jane Hoover, 1912-1991.",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

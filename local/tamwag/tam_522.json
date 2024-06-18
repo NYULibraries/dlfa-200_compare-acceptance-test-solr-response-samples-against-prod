@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Time's Up Records"],
         "unitid_ssm":["TAM.522"],
         "abstract_ssm":["Time's Up is a New York City environmentalist organization whose principal activity is the promotion of bicycle riding and the rights of cyclists through its Critical Mass campaigns. This collection consists of photographs, ephemera, and clippings related to Time's Up environmental organizing in New York City. These documents include posters, pamphlets, zines, flyers, and events calendars created to promote Critical Mass demonstrations and other acts of protest, events and celebrations, and fundraisers for Time's Up. They also include several binders containing local articles related to bike safety, the construction of bike lanes, and cycling events."],
+        "creator_ssm":["Time's Up (New York, N.Y.)",
+          "Time's Up (New York, N.Y.)"],
         "unitdate_normal_ssm":["1993/2012"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Time's Up (New York, N.Y.)"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1993"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 1993-2012"],
-        "_version_":1799345015551426560,
-        "timestamp":"2024-05-17T23:38:47.685Z"},
+        "_version_":1802183244830998528,
+        "timestamp":"2024-06-18T07:31:14.053Z"},
       {
         "id":"tam_522aspace_ref292",
         "ead_ssi":"tam_522",
@@ -83,8 +85,8 @@
         "location_ssm":["Box: 4",
           "Box: 3"],
         "heading_ssm":["2010 Donation"],
-        "_version_":1799345015601758208,
-        "timestamp":"2024-05-17T23:38:47.733Z"},
+        "_version_":1802183244870844416,
+        "timestamp":"2024-06-18T07:31:14.091Z"},
       {
         "id":"tam_522aspace_ref293",
         "ead_ssi":"tam_522",
@@ -99,8 +101,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 4"],
         "heading_ssm":["2011 Donation"],
-        "_version_":1799345015624826880,
-        "timestamp":"2024-05-17T23:38:47.755Z"},
+        "_version_":1802183244888670208,
+        "timestamp":"2024-06-18T07:31:14.108Z"},
       {
         "id":"tam_522aspace_ref297",
         "ead_ssi":"tam_522",
@@ -121,8 +123,8 @@
         "unitdate_start_ssm":["1993"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 1993-2012"],
-        "_version_":1799345015639506944,
-        "timestamp":"2024-05-17T23:38:47.769Z"},
+        "_version_":1802183244899155968,
+        "timestamp":"2024-06-18T07:31:14.118Z"},
       {
         "id":"tam_522aspace_ref4",
         "ead_ssi":"tam_522",
@@ -138,8 +140,8 @@
         "location_ssm":["Box: 1",
           "Box: 2"],
         "heading_ssm":["2009 Donation"],
-        "_version_":1799345015586029568,
-        "timestamp":"2024-05-17T23:38:47.718Z"}]
+        "_version_":1802183244853018624,
+        "timestamp":"2024-06-18T07:31:14.073Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -147,7 +149,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Time's Up (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",2,
         "2001-2100",2,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Japanese American Social Services, Inc. (JASSI) Records"],
         "unitid_ssm":["TAM.357"],
         "abstract_ssm":["The Japanese American Social Services, Inc. (JASSI) was formed in 1981 by Midori Shimanouchi Lederer to address the lack of social services for aging Japanese Americans with limited English language skills and little access to information about social service programs. Currently the only professional social services agency for the Japanese community on the East Coast, it provides information and referral services to a wide range of Japanese Americans, including restaurant workers, students, recent immigrants, and others in the New York area. This unprocessed collection contains administrative materials, including minutes, correspondence, grant applications and employee files as well as financial information such as budgets, audits and payroll information. Also included are materials on services, workshops and events sponsored by JASSI, including client files, intake sheets and volunteer work records. Publicity materials, including brochures, newsletters and press releases are also present. The collection also includes photographs and scrapbooks documenting JASSI events and services."],
+        "creator_ssm":["Japanese American Social Services, Inc.",
+          "Japanese American Social Services, Inc."],
         "unitdate_normal_ssm":["1981/2005"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Japanese American Social Services, Inc.",
@@ -72,8 +74,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1981-2005"],
-        "_version_":1775216787769524224,
-        "timestamp":"2023-08-25T15:50:56.549Z"},
+        "_version_":1801247546011549696,
+        "timestamp":"2024-06-07T23:38:42.121Z"},
       {
         "id":"tam_357aspace_68f1985f42e56e35a5777c6440b6a897",
         "ead_ssi":"tam_357",
@@ -92,8 +94,8 @@
         "unitdate_start_ssm":["1982"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1775216788706951168,
-        "timestamp":"2023-08-25T15:50:57.443Z"},
+        "_version_":1801247546499137536,
+        "timestamp":"2024-06-07T23:38:42.586Z"},
       {
         "id":"tam_357aspace_e575e23808f3c7bb474740ecb7df7bb2",
         "ead_ssi":"tam_357",
@@ -112,8 +114,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1775216788901986304,
-        "timestamp":"2023-08-25T15:50:57.628Z"},
+        "_version_":1801247546589315072,
+        "timestamp":"2024-06-07T23:38:42.672Z"},
       {
         "id":"tam_357aspace_feb7d593a944d0879d4e5d2d7bc13aba",
         "ead_ssi":"tam_357",
@@ -132,8 +134,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1990-1999"],
-        "_version_":1775216788775108608,
-        "timestamp":"2023-08-25T15:50:57.507Z"},
+        "_version_":1801247546513817600,
+        "timestamp":"2024-06-07T23:38:42.6Z"},
       {
         "id":"tam_357aspace_ref10",
         "ead_ssi":"tam_357",
@@ -152,8 +154,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1989-2005"],
-        "_version_":1775216787863896064,
-        "timestamp":"2023-08-25T15:50:56.639Z"},
+        "_version_":1801247546053492736,
+        "timestamp":"2024-06-07T23:38:42.161Z"},
       {
         "id":"tam_357aspace_ref11",
         "ead_ssi":"tam_357",
@@ -172,8 +174,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1989-2005"],
-        "_version_":1775216787900596224,
-        "timestamp":"2023-08-25T15:50:56.674Z"},
+        "_version_":1801247546073415680,
+        "timestamp":"2024-06-07T23:38:42.18Z"},
       {
         "id":"tam_357aspace_ref12",
         "ead_ssi":"tam_357",
@@ -192,8 +194,8 @@
         "unitdate_start_ssm":["1995"],
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1995-2000"],
-        "_version_":1775216787941490688,
-        "timestamp":"2023-08-25T15:50:56.712Z"},
+        "_version_":1801247546094387200,
+        "timestamp":"2024-06-07T23:38:42.2Z"},
       {
         "id":"tam_357aspace_ref14",
         "ead_ssi":"tam_357",
@@ -212,8 +214,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1992-2005"],
-        "_version_":1775216787986579456,
-        "timestamp":"2023-08-25T15:50:56.756Z"},
+        "_version_":1801247546116407296,
+        "timestamp":"2024-06-07T23:38:42.221Z"},
       {
         "id":"tam_357aspace_ref15",
         "ead_ssi":"tam_357",
@@ -232,8 +234,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1989-2005"],
-        "_version_":1775216788034813952,
-        "timestamp":"2023-08-25T15:50:56.802Z"},
+        "_version_":1801247546144718848,
+        "timestamp":"2024-06-07T23:38:42.248Z"},
       {
         "id":"tam_357aspace_ref16",
         "ead_ssi":"tam_357",
@@ -252,8 +254,8 @@
         "unitdate_start_ssm":["2000"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 2000-2004"],
-        "_version_":1775216788085145600,
-        "timestamp":"2023-08-25T15:50:56.85Z"},
+        "_version_":1801247546163593216,
+        "timestamp":"2024-06-07T23:38:42.266Z"},
       {
         "id":"tam_357aspace_ref17",
         "ead_ssi":"tam_357",
@@ -272,8 +274,8 @@
         "unitdate_start_ssm":["1997"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1997-2005"],
-        "_version_":1775216788120797184,
-        "timestamp":"2023-08-25T15:50:56.884Z"},
+        "_version_":1801247546181419008,
+        "timestamp":"2024-06-07T23:38:42.283Z"},
       {
         "id":"tam_357aspace_ref19",
         "ead_ssi":"tam_357",
@@ -292,8 +294,8 @@
         "unitdate_start_ssm":["1995"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1995-2004"],
-        "_version_":1775216788159594496,
-        "timestamp":"2023-08-25T15:50:56.921Z"},
+        "_version_":1801247546201341952,
+        "timestamp":"2024-06-07T23:38:42.302Z"},
       {
         "id":"tam_357aspace_ref20",
         "ead_ssi":"tam_357",
@@ -312,8 +314,8 @@
         "unitdate_start_ssm":["1985"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1985-2004"],
-        "_version_":1775216788201537536,
-        "timestamp":"2023-08-25T15:50:56.961Z"},
+        "_version_":1801247546235944960,
+        "timestamp":"2024-06-07T23:38:42.335Z"},
       {
         "id":"tam_357aspace_ref21",
         "ead_ssi":"tam_357",
@@ -332,8 +334,8 @@
         "unitdate_start_ssm":["1999"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 1999-2001"],
-        "_version_":1775216788270743552,
-        "timestamp":"2023-08-25T15:50:57.026Z"},
+        "_version_":1801247546265305088,
+        "timestamp":"2024-06-07T23:38:42.363Z"},
       {
         "id":"tam_357aspace_ref22",
         "ead_ssi":"tam_357",
@@ -352,8 +354,8 @@
         "unitdate_start_ssm":["2002"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["2002"],
-        "_version_":1775216788308492288,
-        "timestamp":"2023-08-25T15:50:57.063Z"},
+        "_version_":1801247546282082304,
+        "timestamp":"2024-06-07T23:38:42.379Z"},
       {
         "id":"tam_357aspace_ref23",
         "ead_ssi":"tam_357",
@@ -372,8 +374,8 @@
         "unitdate_start_ssm":["2002"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 2002-2004"],
-        "_version_":1775216788357775360,
-        "timestamp":"2023-08-25T15:50:57.11Z"},
+        "_version_":1801247546307248128,
+        "timestamp":"2024-06-07T23:38:42.403Z"},
       {
         "id":"tam_357aspace_ref24",
         "ead_ssi":"tam_357",
@@ -392,8 +394,8 @@
         "unitdate_start_ssm":["1999"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 2002-2004"],
-        "_version_":1775216788396572672,
-        "timestamp":"2023-08-25T15:50:57.146Z"},
+        "_version_":1801247546363871232,
+        "timestamp":"2024-06-07T23:38:42.457Z"},
       {
         "id":"tam_357aspace_ref25",
         "ead_ssi":"tam_357",
@@ -412,8 +414,8 @@
         "unitdate_start_ssm":["1996"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1996-2004"],
-        "_version_":1775216788446904320,
-        "timestamp":"2023-08-25T15:50:57.195Z"},
+        "_version_":1801247546390085632,
+        "timestamp":"2024-06-07T23:38:42.482Z"},
       {
         "id":"tam_357aspace_ref26",
         "ead_ssi":"tam_357",
@@ -432,8 +434,8 @@
         "unitdate_start_ssm":["2002"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 2002-2004"],
-        "_version_":1775216788503527424,
-        "timestamp":"2023-08-25T15:50:57.249Z"},
+        "_version_":1801247546406862848,
+        "timestamp":"2024-06-07T23:38:42.498Z"},
       {
         "id":"tam_357aspace_ref27",
         "ead_ssi":"tam_357",
@@ -452,8 +454,8 @@
         "unitdate_start_ssm":["1982"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1982-1992"],
-        "_version_":1775216788542324736,
-        "timestamp":"2023-08-25T15:50:57.286Z"},
+        "_version_":1801247546428882944,
+        "timestamp":"2024-06-07T23:38:42.518Z"},
       {
         "id":"tam_357aspace_ref28",
         "ead_ssi":"tam_357",
@@ -472,8 +474,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["1998"],
         "unitdate_ssm":["Inclusive, 1992-1998"],
-        "_version_":1775216788589510656,
-        "timestamp":"2023-08-25T15:50:57.331Z"},
+        "_version_":1801247546454048768,
+        "timestamp":"2024-06-07T23:38:42.542Z"},
       {
         "id":"tam_357aspace_ref29",
         "ead_ssi":"tam_357",
@@ -492,8 +494,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1987-1992"],
-        "_version_":1775216788634599424,
-        "timestamp":"2023-08-25T15:50:57.374Z"},
+        "_version_":1801247546467680256,
+        "timestamp":"2024-06-07T23:38:42.556Z"},
       {
         "id":"tam_357aspace_ref30",
         "ead_ssi":"tam_357",
@@ -512,8 +514,8 @@
         "unitdate_start_ssm":["1982"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1982-1988"],
-        "_version_":1775216788669202432,
-        "timestamp":"2023-08-25T15:50:57.407Z"},
+        "_version_":1801247546481311744,
+        "timestamp":"2024-06-07T23:38:42.569Z"},
       {
         "id":"tam_357aspace_ref31",
         "ead_ssi":"tam_357",
@@ -532,8 +534,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1986-2002"],
-        "_version_":1775216788811808768,
-        "timestamp":"2023-08-25T15:50:57.543Z"},
+        "_version_":1801247546535837696,
+        "timestamp":"2024-06-07T23:38:42.621Z"},
       {
         "id":"tam_357aspace_ref32",
         "ead_ssi":"tam_357",
@@ -552,8 +554,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, 1981-1994, undated"],
-        "_version_":1775216788860043264,
-        "timestamp":"2023-08-25T15:50:57.589Z"},
+        "_version_":1801247546569392128,
+        "timestamp":"2024-06-07T23:38:42.653Z"},
       {
         "id":"tam_357aspace_ref9",
         "ead_ssi":"tam_357",
@@ -572,8 +574,8 @@
         "unitdate_start_ssm":["1982"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1982-2002"],
-        "_version_":1775216787819855872,
-        "timestamp":"2023-08-25T15:50:56.597Z"}]
+        "_version_":1801247546037764096,
+        "timestamp":"2024-06-07T23:38:42.146Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -581,7 +583,8 @@
       "repository_sim":[
         "tamwag",26],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Japanese American Social Services, Inc.",1],
       "date_range_sim":[
         "1901-2000",23,
         "2001-2100",17],

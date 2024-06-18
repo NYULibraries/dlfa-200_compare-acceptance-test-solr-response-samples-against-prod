@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>Dissent</em> Magazine Records"],
         "unitid_ssm":["TAM.642"],
         "abstract_ssm":["Dissent is a quarterly magazine that provides political commentary from intellectuals on the political left. This collection is largely comprised of Dissent's editorial board and administrative records, which contain documentation of editorial decisions from the 1950s to the early 2000s, including correspondence among editorial board members and minutes from board meetings. The collection also contains the personal papers of Emanuel Geltman, who was one of Dissent's founding members. Other materials in this collection include indices of Dissent issues in the 1990s, pamphlets, and scrapbooks documenting the development of the magazine, photographs, and audio visual recordings of special events."],
+        "creator_ssm":["Dissent (New York, N.Y.)",
+          "Dissent (New York, N.Y.)"],
         "unitdate_normal_ssm":["1952/2013"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Dissent (New York, N.Y.)",
@@ -72,8 +74,8 @@
         "unitdate_start_ssm":["1952"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["Inclusive, 1952-2013"],
-        "_version_":1799335388897083392,
-        "timestamp":"2024-05-17T21:05:46.992Z"},
+        "_version_":1802183813884805120,
+        "timestamp":"2024-06-18T07:40:16.745Z"},
       {
         "id":"tam_642aspace_ref1",
         "ead_ssi":"tam_642",
@@ -89,8 +91,8 @@
         "location_ssm":["Box: 1",
           "Box: 2"],
         "heading_ssm":["Series I. Editorial Board Records"],
-        "_version_":1799335388913860608,
-        "timestamp":"2024-05-17T21:05:47.008Z"},
+        "_version_":1802183813896339456,
+        "timestamp":"2024-06-18T07:40:16.756Z"},
       {
         "id":"tam_642aspace_ref17",
         "ead_ssi":"tam_642",
@@ -108,8 +110,8 @@
         "format_ssm":["Archival Series"],
         "location_ssm":["Box: 8"],
         "heading_ssm":["Video-recordings "],
-        "_version_":1799335389037592576,
-        "timestamp":"2024-05-17T21:05:47.126Z"},
+        "_version_":1802183813978128384,
+        "timestamp":"2024-06-18T07:40:16.834Z"},
       {
         "id":"tam_642aspace_ref18",
         "ead_ssi":"tam_642",
@@ -127,8 +129,8 @@
         "format_ssm":["Archival Series"],
         "location_ssm":["Box: 8"],
         "heading_ssm":["Cassette tapes"],
-        "_version_":1799335389051224064,
-        "timestamp":"2024-05-17T21:05:47.139Z"},
+        "_version_":1802183813986516992,
+        "timestamp":"2024-06-18T07:40:16.842Z"},
       {
         "id":"tam_642aspace_ref2",
         "ead_ssi":"tam_642",
@@ -147,8 +149,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1949-1985"],
-        "_version_":1799335388952657920,
-        "timestamp":"2024-05-17T21:05:47.044Z"},
+        "_version_":1802183813920456704,
+        "timestamp":"2024-06-18T07:40:16.779Z"},
       {
         "id":"tam_642aspace_ref22",
         "ead_ssi":"tam_642",
@@ -167,8 +169,8 @@
         "unitdate_start_ssm":["1978"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1978-1995"],
-        "_version_":1799335388984115200,
-        "timestamp":"2024-05-17T21:05:47.075Z"},
+        "_version_":1802183813940379648,
+        "timestamp":"2024-06-18T07:40:16.798Z"},
       {
         "id":"tam_642aspace_ref27",
         "ead_ssi":"tam_642",
@@ -187,8 +189,8 @@
         "unitdate_start_ssm":["1954"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["Inclusive, 1954-2013"],
-        "_version_":1799335388998795264,
-        "timestamp":"2024-05-17T21:05:47.089Z"},
+        "_version_":1802183813949816832,
+        "timestamp":"2024-06-18T07:40:16.807Z"},
       {
         "id":"tam_642aspace_ref3",
         "ead_ssi":"tam_642",
@@ -203,11 +205,10 @@
         "format_ssm":["Archival Series"],
         "location_ssm":["Box: 3",
           "Box: 5",
-          "Box: Shared Tamiment MSOS007, Folder: 1",
-          "Folder: 1"],
+          "Box: Shared Tamiment MSOS007, Folder: 1"],
         "heading_ssm":["Series II. Administrative Files"],
-        "_version_":1799335388927492096,
-        "timestamp":"2024-05-17T21:05:47.021Z"},
+        "_version_":1802183813904728064,
+        "timestamp":"2024-06-18T07:40:16.764Z"},
       {
         "id":"tam_642aspace_ref4",
         "ead_ssi":"tam_642",
@@ -228,8 +229,8 @@
           "1990"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1954-1999, bulk 1990-1999 ; 1990-1999"],
-        "_version_":1799335388969435136,
-        "timestamp":"2024-05-17T21:05:47.061Z"},
+        "_version_":1802183813930942464,
+        "timestamp":"2024-06-18T07:40:16.789Z"},
       {
         "id":"tam_642aspace_ref45",
         "ead_ssi":"tam_642",
@@ -248,8 +249,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, circa 1970-2002"],
-        "_version_":1799335389012426752,
-        "timestamp":"2024-05-17T21:05:47.102Z"},
+        "_version_":1802183813959254016,
+        "timestamp":"2024-06-18T07:40:16.816Z"},
       {
         "id":"tam_642aspace_ref50",
         "ead_ssi":"tam_642",
@@ -265,8 +266,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series IX. Archived Website"],
         "unitdate_ssm":["February 7, 2007-ongoing"],
-        "_version_":1799335389063806976,
-        "timestamp":"2024-05-17T21:05:47.151Z"},
+        "_version_":1802183813995954176,
+        "timestamp":"2024-06-18T07:40:16.851Z"},
       {
         "id":"tam_642aspace_ref6",
         "ead_ssi":"tam_642",
@@ -281,8 +282,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series VIII. Multimedia"],
         "unitdate_ssm":["1989-2002"],
-        "_version_":1799335389025009664,
-        "timestamp":"2024-05-17T21:05:47.114Z"}]
+        "_version_":1802183813967642624,
+        "timestamp":"2024-06-18T07:40:16.824Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -291,7 +292,8 @@
         "tamwag",12],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dissent (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",6,
         "2001-2100",3,

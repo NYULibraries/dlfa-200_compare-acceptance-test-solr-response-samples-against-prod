@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["ACT-UAW, Local 7902 Archived Websites"],
         "unitid_ssm":["WAG.370"],
         "abstract_ssm":["ACT-UAW Local 7902 represents over 4,000 part-time and adjunct teachers at the New School and New York University. This collection is consists of the websites for Local 7902, dating back to 2013. The union is made-up of four bargaining units, the New York University Adjuncts, New School Part-Time Faculty (PTF), New School Student Employees (SENS), and New School Student Health Services Employees (SHENS)."],
+        "creator_ssm":["International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. Local 7902. (New York, N.Y.)",
+          "International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. Local 7902. (New York, N.Y.)"],
         "unitdate_normal_ssm":["2013-10-13/2013-10-13"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. Local 7902. (New York, N.Y.)",
@@ -66,8 +68,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["ACT-UAW, Local 7902 Archived Websites"],
         "unitdate_ssm":["October 2013-ongoing"],
-        "_version_":1799334328874827776,
-        "timestamp":"2024-05-17T20:48:56.076Z"},
+        "_version_":1802197577082339328,
+        "timestamp":"2024-06-18T11:19:02.352Z"},
       {
         "id":"wag_370aspace_48060082e286efe179c234abaccbaaf0",
         "ead_ssi":"wag_370",
@@ -95,8 +97,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["October 2013-ongoing"],
-        "_version_":1799334328891604992,
-        "timestamp":"2024-05-17T20:48:56.092Z"}]
+        "_version_":1802197577093873664,
+        "timestamp":"2024-06-18T11:19:02.364Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -105,7 +107,8 @@
         "tamwag",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. Local 7902. (New York, N.Y.)",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":17,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment Staff"],
         "unittitle_ssm":["International Brotherhood of Painters and Allied Trades, Local 874 Minute Book"],
         "unitid_ssm":["WAG.152"],
+        "creator_ssm":["International Brotherhood of Painters and Allied Trades. Local 874",
+          "International Brotherhood of Painters and Allied Trades. Local 874"],
         "unitdate_normal_ssm":["1971/1978"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Brotherhood of Painters and Allied Trades. Local 874"],
@@ -59,8 +61,8 @@
         "unitdate_start_ssm":["1971"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1971-1978"],
-        "_version_":1775222319865659392,
-        "timestamp":"2023-08-25T17:18:52.367Z"},
+        "_version_":1801324304309157888,
+        "timestamp":"2024-06-08T19:58:44.538Z"},
       {
         "id":"wag_152aspace_ref8",
         "ead_ssi":"wag_152",
@@ -79,8 +81,8 @@
         "unitdate_start_ssm":["1971"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1971-1978"],
-        "_version_":1775222319932768256,
-        "timestamp":"2023-08-25T17:18:52.431Z"}]
+        "_version_":1801324304331177984,
+        "timestamp":"2024-06-08T19:58:44.558Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "International Brotherhood of Painters and Allied Trades. Local 874",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[],

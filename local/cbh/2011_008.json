@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jackie Weisberg's Gowanus Impressions photographs"],
         "unitid_ssm":["2011.008"],
         "abstract_ssm":["This collection includes 27 digital photographs and two archival inkjet prints by Jackie Weisberg depicting the neighborhood of Gowanus."],
+        "creator_ssm":["Weisberg, Jackie",
+          "Weisberg, Jackie"],
         "unitdate_normal_ssm":["2009/2009"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Digital Photographs"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["2009"],
         "language_ssm":["English"],
-        "_version_":1799256199041908736,
-        "timestamp":"2024-05-17T00:07:05.661Z"}]
+        "_version_":1801958071131439104,
+        "timestamp":"2024-06-15T19:52:11.679Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Weisberg, Jackie",1],
       "date_range_sim":[
         "2001-2100",1],
       "subject_sim":[],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Shari Segel Goldberg collection of graphic materials"],
         "unitid_ssm":["PR 396"],
         "abstract_ssm":["The collection holds an etching dated 1879 by Henry Farrer and five items from the 1939 World's Fair: a booklet \"Puppet World\" and four postcards of a mural shown at the General Motors Building."],
+        "creator_ssm":["Goldberg, Shari Segel",
+          "Goldberg, Shari Segel"],
         "corpname_ssm":["New-York Historical Society",
           "New York World's Fair (1939-1940 : New York, N.Y.) [111]"],
         "genreform_ssm":["Etchings (prints)",
@@ -65,8 +67,8 @@
         "heading_ssm":["Shari Segel Goldberg collection of graphic materials"],
         "unitdate_ssm":["Inclusive, 1879, 1939"],
         "language_ssm":["English"],
-        "_version_":1799315513775489024,
-        "timestamp":"2024-05-17T15:49:52.599Z"},
+        "_version_":1802094563257483264,
+        "timestamp":"2024-06-17T08:01:40.714Z"},
       {
         "id":"pr396_shari_goldbergaspace_4432d5497b4eb2394db8e4ef190cc081",
         "ead_ssi":"pr396_shari_goldberg",
@@ -82,8 +84,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Etching. Henry Farrer, On N.Y. Bay"],
         "unitdate_ssm":["1879"],
-        "_version_":1799315513938018304,
-        "timestamp":"2024-05-17T15:49:52.754Z"},
+        "_version_":1802094563276357632,
+        "timestamp":"2024-06-17T08:01:40.732Z"},
       {
         "id":"pr396_shari_goldbergaspace_a54249b9ed892df048e961cf55747856",
         "ead_ssi":"pr396_shari_goldberg",
@@ -99,8 +101,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Postcards with images of Strength and Safety murals"],
         "unitdate_ssm":["Inclusive, 1939"],
-        "_version_":1799315514140393472,
-        "timestamp":"2024-05-17T15:49:52.947Z"},
+        "_version_":1802094563320397824,
+        "timestamp":"2024-06-17T08:01:40.773Z"},
       {
         "id":"pr396_shari_goldbergaspace_b246d570a24a523b3e15fe312689cacc",
         "ead_ssi":"pr396_shari_goldberg",
@@ -116,8 +118,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Booklet. Puppet World, Vol 1, No. 1"],
         "unitdate_ssm":["1939"],
-        "_version_":1799315514035535872,
-        "timestamp":"2024-05-17T15:49:52.846Z"}]
+        "_version_":1802094563301523456,
+        "timestamp":"2024-06-17T08:01:40.756Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -125,7 +127,8 @@
       "repository_sim":[
         "nyhs",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Goldberg, Shari Segel",1],
       "date_range_sim":[
         "undated & other",4],
       "subject_sim":[],

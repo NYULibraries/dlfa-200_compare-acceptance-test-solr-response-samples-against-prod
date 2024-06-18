@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jacob Schermerhorn correspondence"],
         "unitid_ssm":["1977.646"],
         "abstract_ssm":["This collection consists of two letters from Jacob Schermerhorn of Schodack, New York to J & R Dikeman, addressed New York City.  The letters concern an undisclosed situation in which Schermerhorn requires money."],
+        "creator_ssm":["Schermerhorn, Jacob",
+          "Schermerhorn, Jacob"],
         "unitdate_normal_ssm":["1814/1814"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -64,8 +66,8 @@
         "unitdate_end_ssm":["1814"],
         "unitdate_ssm":["Inclusive, 1814"],
         "language_ssm":["English"],
-        "_version_":1799256499232440320,
-        "timestamp":"2024-05-17T00:11:51.945Z"}]
+        "_version_":1801962137901334528,
+        "timestamp":"2024-06-15T20:56:50.052Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Schermerhorn, Jacob",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

@@ -47,6 +47,10 @@
         "unittitle_ssm":["Christine Armbruster certificates"],
         "unitid_ssm":["1977.541"],
         "abstract_ssm":["One 1868 award of merit issued to Christine Armbruster from the Bions Academy and one 1874 confirmation certificate issued to Armbruster from the Evangelical Lutheran Church in Brooklyn and written in German."],
+        "creator_ssm":["Evangelical Lutheran Church (Brooklyn, New York, N.Y.)",
+          "Bions Academy (Brooklyn, New York, N.Y.)",
+          "Evangelical Lutheran Church (Brooklyn, New York, N.Y.)",
+          "Bions Academy (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1868/1874"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Evangelical Lutheran Church (Brooklyn, New York, N.Y.)",
@@ -71,8 +75,8 @@
         "unitdate_start_ssm":["1868"],
         "unitdate_end_ssm":["1874"],
         "unitdate_ssm":["Inclusive, 1868-1874"],
-        "_version_":1784570714094829568,
-        "timestamp":"2023-12-06T21:47:35.843Z"}]
+        "_version_":1800721247694225408,
+        "timestamp":"2024-06-02T04:13:24.933Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +84,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bions Academy (Brooklyn, New York, N.Y.)",1,
+        "Evangelical Lutheran Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

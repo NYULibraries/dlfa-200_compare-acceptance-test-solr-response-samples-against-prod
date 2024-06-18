@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Joseph Selly Papers"],
         "unitid_ssm":["WAG.204"],
+        "creator_ssm":["Selly, Joseph",
+          "Selly, Joseph"],
         "unitdate_normal_ssm":["1959/1974"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Selly, Joseph",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, 1959-1974"],
         "language_ssm":["English"],
-        "_version_":1799334312993095680,
-        "timestamp":"2024-05-17T20:48:40.93Z"}]
+        "_version_":1802195522963898368,
+        "timestamp":"2024-06-18T10:46:23.393Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -70,7 +72,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Selly, Joseph",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

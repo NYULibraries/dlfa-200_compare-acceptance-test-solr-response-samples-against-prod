@@ -47,6 +47,8 @@
         "unittitle_ssm":["United Brotherhood of Carpenters and Joiners of America, Local 1456 Records"],
         "unitid_ssm":["WAG.018"],
         "abstract_ssm":["The United Brotherhood of Carpenters and Joiners of America, Local 1456, trained and advocated for New York City dockworkers since the late 1800s until 2011, when it merged with another carpenters' unit. This collection consists of Local 1456's records from the 20th century."],
+        "creator_ssm":["United Brotherhood of Carpenters and Joiners of America. Local 1456",
+          "United Brotherhood of Carpenters and Joiners of America. Local 1456"],
         "unitdate_normal_ssm":["1908/1989",
           "1925/1980"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1989",
           "1980"],
         "unitdate_ssm":["Inclusive, 1908-1989 ; 1925-1980"],
-        "_version_":1799793194991353856,
-        "timestamp":"2024-05-22T22:22:24.906Z"},
+        "_version_":1802187568086777856,
+        "timestamp":"2024-06-18T08:39:57.03Z"},
       {
         "id":"wag_018aspace_ref2",
         "ead_ssi":"wag_018",
@@ -92,8 +94,8 @@
         "unitdate_start_ssm":["1924"],
         "unitdate_end_ssm":["1956"],
         "unitdate_ssm":["Inclusive, 1924-1956"],
-        "_version_":1799793195011276800,
-        "timestamp":"2024-05-22T22:22:24.925Z"},
+        "_version_":1802187568099360768,
+        "timestamp":"2024-06-18T08:39:57.042Z"},
       {
         "id":"wag_018aspace_ref3",
         "ead_ssi":"wag_018",
@@ -112,8 +114,8 @@
         "unitdate_start_ssm":["1925"],
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, 1925-1967"],
-        "_version_":1799793195024908288,
-        "timestamp":"2024-05-22T22:22:24.938Z"},
+        "_version_":1802187568107749376,
+        "timestamp":"2024-06-18T08:39:57.051Z"},
       {
         "id":"wag_018aspace_ref4",
         "ead_ssi":"wag_018",
@@ -132,8 +134,8 @@
         "unitdate_start_ssm":["1925"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1925-1986"],
-        "_version_":1799793195042734080,
-        "timestamp":"2024-05-22T22:22:24.955Z"},
+        "_version_":1802187568123478016,
+        "timestamp":"2024-06-18T08:39:57.066Z"},
       {
         "id":"wag_018aspace_ref5",
         "ead_ssi":"wag_018",
@@ -152,8 +154,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1960-1980"],
-        "_version_":1799793195055316992,
-        "timestamp":"2024-05-22T22:22:24.967Z"},
+        "_version_":1802187568135012352,
+        "timestamp":"2024-06-18T08:39:57.077Z"},
       {
         "id":"wag_018aspace_ref6",
         "ead_ssi":"wag_018",
@@ -172,8 +174,8 @@
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1908-1985"],
-        "_version_":1799793195068948480,
-        "timestamp":"2024-05-22T22:22:24.98Z"},
+        "_version_":1802187568145498112,
+        "timestamp":"2024-06-18T08:39:57.087Z"},
       {
         "id":"wag_018aspace_ref7",
         "ead_ssi":"wag_018",
@@ -192,8 +194,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1950-1980"],
-        "_version_":1799793195082579968,
-        "timestamp":"2024-05-22T22:22:24.993Z"},
+        "_version_":1802187568154935296,
+        "timestamp":"2024-06-18T08:39:57.096Z"},
       {
         "id":"wag_018aspace_ref9",
         "ead_ssi":"wag_018",
@@ -212,8 +214,8 @@
         "unitdate_start_ssm":["1939"],
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1939-1968"],
-        "_version_":1799793195096211456,
-        "timestamp":"2024-05-22T22:22:25.006Z"}]
+        "_version_":1802187568164372480,
+        "timestamp":"2024-06-18T08:39:57.105Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -221,7 +223,8 @@
       "repository_sim":[
         "tamwag",8],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United Brotherhood of Carpenters and Joiners of America. Local 1456",1],
       "date_range_sim":[
         "1901-2000",8],
       "subject_sim":[

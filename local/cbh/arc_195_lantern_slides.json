@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Brooklyn, Manhattan, and Long Island lantern slide collection"],
         "unitid_ssm":["ARC.195"],
         "abstract_ssm":["The Brooklyn, Manhattan, and Long Island lantern slide collection consists of 235 lantern slides that primarily depict historic houses, homesteads, churches, schools, and other buildings located in Brooklyn, N.Y. There are also images of houses and buildings located on Long Island, N.Y. and Manhattan."],
+        "creator_ssm":["Hart, Gould W.",
+          "McAllister-Keller Company, New York",
+          "Charles Beseler Lantern Slide Company",
+          "McAllister-Keller Company, New York",
+          "Charles Beseler Lantern Slide Company",
+          "Hart, Gould W."],
         "unitdate_normal_ssm":["1860/1920"],
         "corpname_ssm":["Brooklyn Historical Society",
           "McAllister-Keller Company, New York",
@@ -87,8 +93,8 @@
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, circa 1870 to circa 1910"],
         "language_ssm":["English"],
-        "_version_":1799312397555466240,
-        "timestamp":"2024-05-17T15:00:20.74Z"}]
+        "_version_":1801959355202928640,
+        "timestamp":"2024-06-15T20:12:36.264Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +102,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Charles Beseler Lantern Slide Company",1,
+        "Hart, Gould W.",1,
+        "McAllister-Keller Company, New York",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

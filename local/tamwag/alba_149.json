@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Maury Colow Papers"],
         "unitid_ssm":["ALBA.149"],
         "abstract_ssm":["Maury Colow (1917- ) was born in Brooklyn. In the 1930s, Colow was a member of the Young Communist League and the Communist Party. He joined the Abraham Lincoln Brigades and arrived in Spain on February 17, 1937, serving with the 86 BD, 20th BN, Co. 2. He returned to the United States in 1938 and later served in the US Navy during World War II. Upon his return he worked in the Midwest as an organizer for the Congress of Industrial Workers (CIO) affiliated International Fur & Leather Workers Union. This unprocessed collection consists of Maury Colow's correspondence with fellow Spanish Civil War veterans and other friends and family during the 1970s and 1980s. Other materials photographs, include newspaper articles, and other ephemeral materials collected by Colow concerning his participation in the war and his later life. The collection also contains a typescript of \"The Volunteers: Outline for a Proposed Film\" written by Howard Koch in 1978."],
+        "creator_ssm":["Colow, Maury",
+          "Colow, Maury"],
         "unitdate_normal_ssm":["1937/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Spain. Ejército Popular de la República. Abraham Lincoln Battalion"],
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1937-1989"],
-        "_version_":1799747953194172416,
-        "timestamp":"2024-05-22T10:23:18.966Z"},
+        "_version_":1802111189708177408,
+        "timestamp":"2024-06-17T12:25:56.933Z"},
       {
         "id":"alba_149aspace_13386cde8cdd572480c6d6c49fa21193",
         "ead_ssi":"alba_149",
@@ -80,8 +82,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Box 1"],
-        "_version_":1799747953205706752,
-        "timestamp":"2024-05-22T10:23:18.977Z"}]
+        "_version_":1802111189724954624,
+        "timestamp":"2024-06-17T12:25:56.949Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Colow, Maury",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

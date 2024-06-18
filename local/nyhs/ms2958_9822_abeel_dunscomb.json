@@ -47,6 +47,8 @@
         "unittitle_ssm":["Abeel &amp; Dunscomb records"],
         "unitid_ssm":["AHMC - Abeel & Dunscomb"],
         "abstract_ssm":["A small collection of receipts and invoices, dated 1795-1827, mostly for goods purchased at auction or from other dealers, for resale by Abeel & Dunscomb, New York City iron merchants. To request this item for research, and for fuller details about it, please read its catalog record, or write to reference@nyhistory.org."],
+        "creator_ssm":["Abeel & Dunscomb (New York, N.Y.)",
+          "Abeel & Dunscomb (New York, N.Y.)"],
         "corpname_ssm":["New-York Historical Society",
           "Abeel & Dunscomb (New York, N.Y.)"],
         "collection_ssm":["Abeel & Dunscomb records"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Abeel & Dunscomb records"],
         "unitdate_ssm":["Inclusive, 1795-1827"],
         "language_ssm":["English"],
-        "_version_":1799323403043209216,
-        "timestamp":"2024-05-17T17:55:16.391Z"}]
+        "_version_":1802083719703429120,
+        "timestamp":"2024-06-17T05:09:19.495Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Abeel & Dunscomb (New York, N.Y.)",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

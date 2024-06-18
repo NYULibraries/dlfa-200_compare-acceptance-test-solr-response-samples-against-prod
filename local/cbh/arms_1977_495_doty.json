@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Isaac Doty papers"],
         "unitid_ssm":["1977.495"],
         "abstract_ssm":["Deeds, agreements, and receipts of Isaac Doty, a resident of New York City who lived at the corner of Oak and Pearl Streets."],
+        "creator_ssm":["Doughty, William",
+          "Doty, Isaac",
+          "Doughty, Benjamin",
+          "Doughty, William",
+          "Doty, Isaac",
+          "Doughty, Benjamin"],
         "unitdate_normal_ssm":["1797/1823"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Receipts (financial records)",
@@ -81,8 +87,8 @@
         "unitdate_end_ssm":["1823"],
         "unitdate_ssm":["Inclusive, 1797-1823"],
         "language_ssm":["English"],
-        "_version_":1799256231856046080,
-        "timestamp":"2024-05-17T00:07:36.955Z"}]
+        "_version_":1801961793644396544,
+        "timestamp":"2024-06-15T20:51:21.744Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +96,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Doty, Isaac",1,
+        "Doughty, Benjamin",1,
+        "Doughty, William",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

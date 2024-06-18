@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Southampton census of 1821"],
         "unitid_ssm":["1973.123"],
         "abstract_ssm":["The Southampton census of 1821 consists of a single bound, handwritten volume."],
+        "creator_ssm":["Southampton (N.Y.)",
+          "Southampton (N.Y.)"],
         "unitdate_normal_ssm":["1821/1821"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Southampton (N.Y.)"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1821"],
         "unitdate_ssm":["Inclusive, 1821"],
         "language_ssm":["English"],
-        "_version_":1799312399213264896,
-        "timestamp":"2024-05-17T15:00:22.321Z"}]
+        "_version_":1801959972058169344,
+        "timestamp":"2024-06-15T20:22:24.543Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Southampton (N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

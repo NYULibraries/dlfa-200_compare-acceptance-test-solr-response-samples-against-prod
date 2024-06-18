@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Crago-Kramer collection of sugar packets"],
         "unitid_ssm":["PR 354"],
         "abstract_ssm":["The Crago-Kramer collection includes a variety of sugar packets from New York City and New York State, dating from the 1930s-1960s. The packets are often distinctive in that they refer to particular business establishments, especially hotels and restaurants, institutions, and some events, notably the World's Fairs of 1939-40 and of 1964-65 and the 1980 Winter Olympics."],
+        "creator_ssm":["Crago, Priscilla Hayward",
+          "Crago, Priscilla Hayward"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Packets (containers)",
           "Ephemera."],
@@ -63,8 +65,8 @@
         "heading_ssm":["Crago-Kramer collection of sugar packets"],
         "unitdate_ssm":["Inclusive, circa 1939-1960s"],
         "language_ssm":["English"],
-        "_version_":1799331088065101824,
-        "timestamp":"2024-05-17T19:57:25.398Z"},
+        "_version_":1802094323925254144,
+        "timestamp":"2024-06-17T07:57:52.469Z"},
       {
         "id":"pr354_sugar_packetsaspace_ref13_ab0",
         "ead_ssi":"pr354_sugar_packets",
@@ -77,12 +79,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-7",
-          "Folder: 1-7"],
+        "location_ssm":["Box: 1, Folder: 1-7"],
         "heading_ssm":["Sugar Packets (7 folders)"],
         "unitdate_ssm":["circa 1939-1960s"],
-        "_version_":1799331088094461952,
-        "timestamp":"2024-05-17T19:57:25.427Z"}]
+        "_version_":1802094323944128512,
+        "timestamp":"2024-06-17T07:57:52.487Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +91,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Crago, Priscilla Hayward",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

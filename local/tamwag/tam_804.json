@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":22,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Cathy Cockrell Collection of Political Ephemera"],
         "unitid_ssm":["TAM.804"],
         "abstract_ssm":["Cathy Cockrell is a writer, editor, journalist, and activist. She worked at Liberation News Service from 1975-1978, and from 1996-2016 at the University of California, Berkeley as a writer and editor in the department of Communications and Public Affairs. The Cathy Cockrell Collection of Political Ephemera (dated 1975-1991) consists of materials collected by Cockrell documenting her participation in a number of national and international protest and solidarity movements from the 1970s through 1980s, including feminist, lesbian, anti-nuclear, anti-Reagan, and international solidarity movements. It includes approximately 50 political leaflets and fliers collected by Cockrell at protests, marches, and rallies. Leaflets and fliers from 1975-1987 are from Cathy's time living in New York City. She relocated to San Francisco in 1987 and leaflets and fliers after that point are reflective of her activism on the west coast.  Also included in the collection are three issues of Nicaraguan Perspectives, and a t-shirt made and worn in solidarity with the Nicaraguan liberation movement, the Sandinista National Liberation Front (FSLN), and the Sandinista People's Army."],
+        "creator_ssm":["Cockrell, Cathy, 1951-",
+          "Cockrell, Cathy, 1951-"],
         "unitdate_normal_ssm":["1975/1991"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Frente Sandinista de Liberación Nacional",
@@ -74,8 +76,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1975-1991"],
-        "_version_":1799792476554264576,
-        "timestamp":"2024-05-22T22:10:59.751Z"},
+        "_version_":1802184743246102528,
+        "timestamp":"2024-06-18T07:55:03.053Z"},
       {
         "id":"tam_804aspace_24bc56b2458ca1acdeb5634e8f2ed651",
         "ead_ssi":"tam_804",
@@ -89,14 +91,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-2",
-          "Folder: 1-2"],
+        "location_ssm":["Box: 1, Folder: 1-2"],
         "heading_ssm":["New York City Leaflets"],
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1975-1987"],
-        "_version_":1799792476569993216,
-        "timestamp":"2024-05-22T22:10:59.766Z"},
+        "_version_":1802184743257636864,
+        "timestamp":"2024-06-18T07:55:03.064Z"},
       {
         "id":"tam_804aspace_2b840e937f675fb029e6ab9f603c11e1",
         "ead_ssi":"tam_804",
@@ -110,14 +111,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 6",
-          "Folder: 6"],
+        "location_ssm":["Box: 1, Folder: 6"],
         "heading_ssm":["Sandinista Sombrero Figurine"],
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1980s"],
-        "_version_":1799792476616130560,
-        "timestamp":"2024-05-22T22:10:59.81Z"},
+        "_version_":1802184743291191296,
+        "timestamp":"2024-06-18T07:55:03.096Z"},
       {
         "id":"tam_804aspace_81aca9a3dda21324673a5e03967370b1",
         "ead_ssi":"tam_804",
@@ -131,14 +131,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 4-5",
-          "Folder: 4-5"],
+        "location_ssm":["Box: 1, Folder: 4-5"],
         "heading_ssm":["Publications"],
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1979-1991"],
-        "_version_":1799792476601450496,
-        "timestamp":"2024-05-22T22:10:59.796Z"},
+        "_version_":1802184743281754112,
+        "timestamp":"2024-06-18T07:55:03.087Z"},
       {
         "id":"tam_804aspace_81f72ba3d76741938e64e3fac4471d17",
         "ead_ssi":"tam_804",
@@ -157,8 +156,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1980s"],
-        "_version_":1799792476629762048,
-        "timestamp":"2024-05-22T22:10:59.823Z"},
+        "_version_":1802184743300628480,
+        "timestamp":"2024-06-18T07:55:03.105Z"},
       {
         "id":"tam_804aspace_b414bb09fbe7da82b584e9ab2fcf4972",
         "ead_ssi":"tam_804",
@@ -172,14 +171,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["San Francisco Leaflets"],
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1987-1990"],
-        "_version_":1799792476582576128,
-        "timestamp":"2024-05-22T22:10:59.778Z"}]
+        "_version_":1802184743267074048,
+        "timestamp":"2024-06-18T07:55:03.073Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -187,7 +185,8 @@
       "repository_sim":[
         "tamwag",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cockrell, Cathy, 1951-",1],
       "date_range_sim":[
         "1901-2000",6],
       "subject_sim":[

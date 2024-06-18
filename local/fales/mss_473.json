@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Kemstedt-Waller Family Papers"],
         "unitid_ssm":["MSS.473"],
         "abstract_ssm":["The Kemstedt-Waller Family Papers consist of a handwritten recipe notebook, written by Frederick Herman Kemstedt, who immigrated from Germany to Baltimore, Maryland around 1912. He worked for many years as a baker for a family-run business, Ervin's Bakery, on North Charles Street. He was known to use only fresh ingredients and refused to use artificial food-color dyes, making his own from fruit extracts.\n\nKemstedt's grandson, James Waller, is the author of the Drinkology book series, the first published in 2003: Drinkology: The Art and Science of the Cocktail, was wildly popular, with a first and second edition published and a revised edition in 2010. He also published Drinkology Wine: A Guide to the Grape (2005), Drinkology EATS: A Guide to Bar Food and Cocktail Party Fair (with Romona Ponce, 2006), and Drinkology Beer: A Book About the Brew  (2011). \nWaller's section of the family papers contains files related to his series of Drinkology books, including publicity, appearances, and clippings. A small selection of restaurant menus and play/event programs collected by Waller are also in this collection."],
+        "creator_ssm":["Waller, James",
+          "Kemstedt, Frederick Herman",
+          "Waller, James",
+          "Kemstedt, Frederick Herman"],
         "unitdate_normal_ssm":["1910/2011",
           "1990/2011"],
         "corpname_ssm":["Fales Library and Special Collections"],
@@ -73,8 +77,8 @@
           "1990"],
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["Inclusive, circa 1912-2011 ; 1990-2011"],
-        "_version_":1799740853286076416,
-        "timestamp":"2024-05-22T08:30:27.966Z"},
+        "_version_":1802072902939443200,
+        "timestamp":"2024-06-17T02:17:23.825Z"},
       {
         "id":"mss_473aspace_c2e57b45084b3a2827623fddcd629305",
         "ead_ssi":"mss_473",
@@ -94,8 +98,8 @@
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["Inclusive, 1964-2011"],
         "language_ssm":["English"],
-        "_version_":1799740853301805056,
-        "timestamp":"2024-05-22T08:30:27.981Z"},
+        "_version_":1802072902969851904,
+        "timestamp":"2024-06-17T02:17:23.854Z"},
       {
         "id":"mss_473aspace_c89e23786fdaedff1a1cabdde9d17477",
         "ead_ssi":"mss_473",
@@ -115,8 +119,8 @@
         "unitdate_end_ssm":["2007"],
         "unitdate_ssm":["Inclusive, 2004-2007"],
         "language_ssm":["English"],
-        "_version_":1799740853315436544,
-        "timestamp":"2024-05-22T08:30:27.994Z"},
+        "_version_":1802072902998163456,
+        "timestamp":"2024-06-17T02:17:23.881Z"},
       {
         "id":"mss_473aspace_dc7954f878910691003ebb43ce9ee51f",
         "ead_ssi":"mss_473",
@@ -135,8 +139,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1910s-1950s"],
-        "_version_":1799740853333262336,
-        "timestamp":"2024-05-22T08:30:28.011Z"}]
+        "_version_":1802072903036960768,
+        "timestamp":"2024-06-17T02:17:23.918Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -144,7 +148,9 @@
       "repository_sim":[
         "fales",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kemstedt, Frederick Herman",1,
+        "Waller, James",1],
       "date_range_sim":[
         "1901-2000",3,
         "2001-2100",3],

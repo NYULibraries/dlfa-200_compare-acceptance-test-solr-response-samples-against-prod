@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Kings County Clerk bonds of administration"],
         "unitid_ssm":["1986.005"],
         "abstract_ssm":["This collection contains 12 bound volumes of Kings County Clerk's office bonds of administration, with registers of property transactions in the county. Each volume's entries span approximately 2 months, noting the principles, dates, and locations of each transaction. Each volume also contains an index of names."],
+        "creator_ssm":["Kings County (N.Y.). Office of the County Clerk",
+          "Kings County (N.Y.). Office of the County Clerk"],
         "unitdate_normal_ssm":["1904/1935"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Kings County (N.Y.). Office of the County Clerk"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1935"],
         "unitdate_ssm":["Inclusive, 1904-1935"],
         "language_ssm":["English"],
-        "_version_":1799256184929124352,
-        "timestamp":"2024-05-17T00:06:52.201Z"}]
+        "_version_":1801963183524544512,
+        "timestamp":"2024-06-15T21:13:27.237Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kings County (N.Y.). Office of the County Clerk",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["New-York Historical Society collection of matchbook covers"],
         "unitid_ssm":["PR 432"],
         "abstract_ssm":["The collection holds matchbook covers, likely dating from the 1930s-1950s, principally of hotels/motels and dining establishments from across the United States, its territories, and other locales, as well as military posts, universities, United States ships (USS), hospitals, and other institutions. Most of the collection is well-organized by geographic (e.g. state) source."],
+        "creator_ssm":["New-York Historical Society",
+          "New-York Historical Society"],
         "corpname_ssm":["New-York Historical Society",
           "New-York Historical Society"],
         "genreform_ssm":["Matchbooks."],
@@ -62,8 +64,8 @@
         "material_type_ssm":["Matchbooks."],
         "heading_ssm":["New-York Historical Society collection of matchbook covers"],
         "unitdate_ssm":["Inclusive, 1930s?-1950s"],
-        "_version_":1775218987084283904,
-        "timestamp":"2023-08-25T16:25:53.979Z"},
+        "_version_":1801078007959388160,
+        "timestamp":"2024-06-06T02:43:58.035Z"},
       {
         "id":"pr432_matchbook_coversaspace_0150d42f0073c9f0be65a36f465b1cc3",
         "ead_ssi":"pr432_matchbook_covers",
@@ -81,8 +83,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 6"],
         "heading_ssm":["N (North Dakota) - O (Oregon)"],
-        "_version_":1775218987382079488,
-        "timestamp":"2023-08-25T16:25:54.262Z"},
+        "_version_":1801078008067391488,
+        "timestamp":"2024-06-06T02:43:58.138Z"},
       {
         "id":"pr432_matchbook_coversaspace_02d0d60989bad50525ffabf0d339004b",
         "ead_ssi":"pr432_matchbook_covers",
@@ -100,8 +102,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 10"],
         "heading_ssm":["H. Maxson Holloway matchbook covers"],
-        "_version_":1775218987667292160,
-        "timestamp":"2023-08-25T16:25:54.535Z"},
+        "_version_":1801078008159666176,
+        "timestamp":"2024-06-06T02:43:58.225Z"},
       {
         "id":"pr432_matchbook_coversaspace_12e33162a49526c149d4139eecec8db5",
         "ead_ssi":"pr432_matchbook_covers",
@@ -119,8 +121,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 8"],
         "heading_ssm":["T (Texas) - W (Wyoming)"],
-        "_version_":1775218987462819840,
-        "timestamp":"2023-08-25T16:25:54.34Z"},
+        "_version_":1801078008092557312,
+        "timestamp":"2024-06-06T02:43:58.162Z"},
       {
         "id":"pr432_matchbook_coversaspace_3820807425d2c020cb0f050160159aa9",
         "ead_ssi":"pr432_matchbook_covers",
@@ -138,8 +140,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 7"],
         "heading_ssm":["3 inch wide matchbook covers. United States ships (U.S.S.), military bases, airfields, hospitals, hotels"],
-        "_version_":1775218987589697536,
-        "timestamp":"2023-08-25T16:25:54.461Z"},
+        "_version_":1801078008132403200,
+        "timestamp":"2024-06-06T02:43:58.2Z"},
       {
         "id":"pr432_matchbook_coversaspace_4db80f58e45ef8b62e8d6c7ad3104705",
         "ead_ssi":"pr432_matchbook_covers",
@@ -157,8 +159,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 11"],
         "heading_ssm":["Abel I. Smith, Jr. matchbook covers"],
-        "_version_":1775218987741741056,
-        "timestamp":"2023-08-25T16:25:54.606Z"},
+        "_version_":1801078008184832000,
+        "timestamp":"2024-06-06T02:43:58.25Z"},
       {
         "id":"pr432_matchbook_coversaspace_4dd3b9b3f1f6c7bed215b2f10b7b38d6",
         "ead_ssi":"pr432_matchbook_covers",
@@ -176,8 +178,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 5"],
         "heading_ssm":["New York"],
-        "_version_":1775218987343282176,
-        "timestamp":"2023-08-25T16:25:54.226Z"},
+        "_version_":1801078008054808576,
+        "timestamp":"2024-06-06T02:43:58.126Z"},
       {
         "id":"pr432_matchbook_coversaspace_4f0f75d2518d9cb483cfbf492a174974",
         "ead_ssi":"pr432_matchbook_covers",
@@ -195,8 +197,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["K (Kansas) - M (Minnesota)"],
-        "_version_":1775218987261493248,
-        "timestamp":"2023-08-25T16:25:54.148Z"},
+        "_version_":1801078008024399872,
+        "timestamp":"2024-06-06T02:43:58.097Z"},
       {
         "id":"pr432_matchbook_coversaspace_553905a35f4b55e0ad4e5c7001cdde73",
         "ead_ssi":"pr432_matchbook_covers",
@@ -211,8 +213,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series II. Maxson Holloway Collection"],
         "unitdate_ssm":["Inclusive, 1940s?"],
-        "_version_":1775218987630592000,
-        "timestamp":"2023-08-25T16:25:54.5Z"},
+        "_version_":1801078008143937536,
+        "timestamp":"2024-06-06T02:43:58.211Z"},
       {
         "id":"pr432_matchbook_coversaspace_655f4ac8b9b21045fb818781409038cf",
         "ead_ssi":"pr432_matchbook_covers",
@@ -230,8 +232,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 9"],
         "heading_ssm":["Various"],
-        "_version_":1775218987498471424,
-        "timestamp":"2023-08-25T16:25:54.373Z"},
+        "_version_":1801078008105140224,
+        "timestamp":"2024-06-06T02:43:58.174Z"},
       {
         "id":"pr432_matchbook_coversaspace_7b6a7da7d91832204f8a87b259122057",
         "ead_ssi":"pr432_matchbook_covers",
@@ -246,8 +248,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series III. Abel I. Smith, Jr. Collection"],
         "unitdate_ssm":["Inclusive, circa 1950"],
-        "_version_":1775218987702943744,
-        "timestamp":"2023-08-25T16:25:54.569Z"},
+        "_version_":1801078008172249088,
+        "timestamp":"2024-06-06T02:43:58.238Z"},
       {
         "id":"pr432_matchbook_coversaspace_7c823a5e1c42d7ae598e5b5823f3696a",
         "ead_ssi":"pr432_matchbook_covers",
@@ -265,8 +267,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 7"],
         "heading_ssm":["P (Pennsylvania) - T (Tennessee)"],
-        "_version_":1775218987421925376,
-        "timestamp":"2023-08-25T16:25:54.301Z"},
+        "_version_":1801078008079974400,
+        "timestamp":"2024-06-06T02:43:58.15Z"},
       {
         "id":"pr432_matchbook_coversaspace_8992f68e10a9b4925bad3921e293e192",
         "ead_ssi":"pr432_matchbook_covers",
@@ -284,8 +286,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 6"],
         "heading_ssm":["3 inch wide matchbook covers. United States ships (U.S.S.), military bases, airfields, hospitals, hotels"],
-        "_version_":1775218987551948800,
-        "timestamp":"2023-08-25T16:25:54.425Z"},
+        "_version_":1801078008119820288,
+        "timestamp":"2024-06-06T02:43:58.188Z"},
       {
         "id":"pr432_matchbook_coversaspace_93d1eadc79490476628d911e8a4b0b64",
         "ead_ssi":"pr432_matchbook_covers",
@@ -303,8 +305,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 4"],
         "heading_ssm":["M (Mississippi) - N (North Carolina)"],
-        "_version_":1775218987301339136,
-        "timestamp":"2023-08-25T16:25:54.186Z"},
+        "_version_":1801078008036982784,
+        "timestamp":"2024-06-06T02:43:58.109Z"},
       {
         "id":"pr432_matchbook_coversaspace_9d80ec2055a43b3d445c7d2693bce1c8",
         "ead_ssi":"pr432_matchbook_covers",
@@ -322,8 +324,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["F (Florida) - I (Iowa)"],
-        "_version_":1775218987221647360,
-        "timestamp":"2023-08-25T16:25:54.11Z"},
+        "_version_":1801078008010768384,
+        "timestamp":"2024-06-06T02:43:58.084Z"},
       {
         "id":"pr432_matchbook_coversaspace_a47c2e047b8f4195f2ee7bda11db4eae",
         "ead_ssi":"pr432_matchbook_covers",
@@ -338,8 +340,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I. Harvey J. Hess Collection"],
         "unitdate_ssm":["Inclusive, 1930s?-1950s?"],
-        "_version_":1775218987128324096,
-        "timestamp":"2023-08-25T16:25:54.021Z"},
+        "_version_":1801078007981408256,
+        "timestamp":"2024-06-06T02:43:58.056Z"},
       {
         "id":"pr432_matchbook_coversaspace_b27707e1c66ed5e2ad508d03c4741248",
         "ead_ssi":"pr432_matchbook_covers",
@@ -357,8 +359,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["A (Alabama) - D (District of Columbia)"],
-        "_version_":1775218987181801472,
-        "timestamp":"2023-08-25T16:25:54.072Z"}]
+        "_version_":1801078007995039744,
+        "timestamp":"2024-06-06T02:43:58.069Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -366,7 +368,8 @@
       "repository_sim":[
         "nyhs",17],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New-York Historical Society",1],
       "date_range_sim":[
         "undated & other",17],
       "subject_sim":[

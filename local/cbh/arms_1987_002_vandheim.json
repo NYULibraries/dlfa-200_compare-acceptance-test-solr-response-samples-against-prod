@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Robert Vadheim Brooklyn neighborhood renewal and development collection"],
         "unitid_ssm":["1987.002"],
         "abstract_ssm":["The Brooklyn neighborhood renewal and development collection contains 2.33 linear feet of materials dating from 1962 to 1987, compiled by Dr. Robert H. Vadheim. The collection focuses on revival, renewal, and renovation efforts within Brooklyn's neighborhoods and cultural institutions. Document types in the collection include newspaper clippings, magazine articles, social announcements, invitations, neighborhood tour pamphlets, and other ephemera. In addition to Brooklyn neighborhoods, brownstones, and building restoration, the collection also documents the Brooklyn Museum, Brooklyn Botanic Garden, and the Brooklyn Bridge--particularly the 1983 Brooklyn Bridge Centennial. Magazine clippings discussing specific observances or general occasions of change in New York City as a whole are also included."],
+        "creator_ssm":["Vadheim, Robert",
+          "Vadheim, Robert"],
         "unitdate_normal_ssm":["1962/1987"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Botanic Garden",
@@ -82,8 +84,8 @@
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1962-1987"],
         "language_ssm":["English"],
-        "_version_":1799309972418330624,
-        "timestamp":"2024-05-17T14:21:47.949Z"},
+        "_version_":1801963367118667776,
+        "timestamp":"2024-06-15T21:16:22.325Z"},
       {
         "id":"arms_1987_002_vandheimaspace_ref10_gqg",
         "ead_ssi":"arms_1987_002_vandheim",
@@ -101,8 +103,8 @@
         "unitdate_start_ssm":["1966"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1966-1987"],
-        "_version_":1799309972483342336,
-        "timestamp":"2024-05-17T14:21:48.011Z"},
+        "_version_":1801963367192068096,
+        "timestamp":"2024-06-15T21:16:22.396Z"},
       {
         "id":"arms_1987_002_vandheimaspace_ref11_uh1",
         "ead_ssi":"arms_1987_002_vandheim",
@@ -120,8 +122,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1973-1983"],
-        "_version_":1799309972499070976,
-        "timestamp":"2024-05-17T14:21:48.026Z"},
+        "_version_":1801963367222476800,
+        "timestamp":"2024-06-15T21:16:22.425Z"},
       {
         "id":"arms_1987_002_vandheimaspace_ref12_euz",
         "ead_ssi":"arms_1987_002_vandheim",
@@ -139,8 +141,8 @@
         "unitdate_start_ssm":["1974"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1974-1986"],
-        "_version_":1799309972518993920,
-        "timestamp":"2024-05-17T14:21:48.045Z"},
+        "_version_":1801963367241351168,
+        "timestamp":"2024-06-15T21:16:22.443Z"},
       {
         "id":"arms_1987_002_vandheimaspace_ref8_vvp",
         "ead_ssi":"arms_1987_002_vandheim",
@@ -158,8 +160,8 @@
         "unitdate_start_ssm":["1962"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1962-1987"],
-        "_version_":1799309972443496448,
-        "timestamp":"2024-05-17T14:21:47.973Z"},
+        "_version_":1801963367140687872,
+        "timestamp":"2024-06-15T21:16:22.347Z"},
       {
         "id":"arms_1987_002_vandheimaspace_ref9_t4r",
         "ead_ssi":"arms_1987_002_vandheim",
@@ -177,8 +179,8 @@
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1969-1987"],
-        "_version_":1799309972460273664,
-        "timestamp":"2024-05-17T14:21:47.989Z"}]
+        "_version_":1801963367165853696,
+        "timestamp":"2024-06-15T21:16:22.371Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -186,7 +188,8 @@
       "repository_sim":[
         "cbh",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Vadheim, Robert",1],
       "date_range_sim":[
         "1901-2000",6],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Peter Mahoney papers"],
         "unitid_ssm":["1986.050"],
         "abstract_ssm":["Two life insurance certificates and one stock certificate issued to Peter Mahoney, along with corresponding letters and envelopes."],
+        "creator_ssm":["Mahoney, Peter",
+          "Mahoney, Peter"],
         "unitdate_normal_ssm":["1885/1906"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Certificates",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1906"],
         "unitdate_ssm":["Inclusive, 1885-1906"],
         "language_ssm":["English"],
-        "_version_":1799312251332591616,
-        "timestamp":"2024-05-17T14:58:01.291Z"}]
+        "_version_":1801963330225569792,
+        "timestamp":"2024-06-15T21:15:47.142Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Mahoney, Peter",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

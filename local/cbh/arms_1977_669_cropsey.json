@@ -47,6 +47,8 @@
         "unittitle_ssm":["Andrew G. Cropsey letter"],
         "unitid_ssm":["1977.669"],
         "abstract_ssm":["A 1910 letter from Andrew G. Cropsey to a Mr. Van Cleef at the Brooklyn Hall of Records regarding a painting of the house of Nicasius DeSille, who lived in the town of New Utrecht."],
+        "creator_ssm":["Cropsey, Andrew G.",
+          "Cropsey, Andrew G."],
         "unitdate_normal_ssm":["1910/1910"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["1910"],
         "language_ssm":["English"],
-        "_version_":1799311436088868864,
-        "timestamp":"2024-05-17T14:45:03.814Z"}]
+        "_version_":1801962189448282112,
+        "timestamp":"2024-06-15T20:57:39.212Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cropsey, Andrew G.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

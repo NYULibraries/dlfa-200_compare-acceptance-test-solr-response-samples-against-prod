@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lewis E. Shaw papers"],
         "unitid_ssm":["MS 671.1"],
         "abstract_ssm":["Lewis E. Shaw served as a 1st Lieutenant in the 369th Infantry Regiment of the United States Army (known as the Harlem Hellfighters) during World War I. His letters to his mother, dated November 12, 1917 to January 27, 1919, tell of his experiences with the American Expeditionary Forces (AEF) in France."],
+        "creator_ssm":["Shaw, Lewis E., -1926",
+          "Shaw, Lewis E., -1926"],
         "corpname_ssm":["New-York Historical Society",
           "United States. Army. American Expeditionary Forces",
           "United States. Army. Infantry Regiment, 369th"],
@@ -66,8 +68,8 @@
         "material_type_ssm":["Correspondence."],
         "heading_ssm":["Lewis E. Shaw papers"],
         "unitdate_ssm":["Inclusive, 1917-1922 (Bulk 1917-1919)"],
-        "_version_":1799317333860155392,
-        "timestamp":"2024-05-17T16:18:48.367Z"},
+        "_version_":1802087248691200000,
+        "timestamp":"2024-06-17T06:05:24.999Z"},
       {
         "id":"ms671_1_lewis_shawaspace_ref12_i08",
         "ead_ssi":"ms671_1_lewis_shaw",
@@ -80,12 +82,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Letters, November 12, 1917-June 17, 1918"],
         "unitdate_ssm":["Inclusive, 1917-1918"],
-        "_version_":1799317333879029760,
-        "timestamp":"2024-05-17T16:18:48.385Z"},
+        "_version_":1802087248716365824,
+        "timestamp":"2024-06-17T06:05:25.024Z"},
       {
         "id":"ms671_1_lewis_shawaspace_ref13_7rc",
         "ead_ssi":"ms671_1_lewis_shaw",
@@ -98,12 +99,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Letters and postcard, July 1, 1918-Jan. 27, 1919"],
         "unitdate_ssm":["Inclusive, 1918-1919"],
-        "_version_":1799317333897904128,
-        "timestamp":"2024-05-17T16:18:48.403Z"},
+        "_version_":1802087248732094464,
+        "timestamp":"2024-06-17T06:05:25.039Z"},
       {
         "id":"ms671_1_lewis_shawaspace_ref14_naf",
         "ead_ssi":"ms671_1_lewis_shaw",
@@ -116,11 +116,10 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Official Papers and Map of Ypres"],
-        "_version_":1799317333920972800,
-        "timestamp":"2024-05-17T16:18:48.425Z"}]
+        "_version_":1802087248750968832,
+        "timestamp":"2024-06-17T06:05:25.057Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -128,7 +127,8 @@
       "repository_sim":[
         "nyhs",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Shaw, Lewis E., -1926",1],
       "date_range_sim":[
         "undated & other",4],
       "subject_sim":[

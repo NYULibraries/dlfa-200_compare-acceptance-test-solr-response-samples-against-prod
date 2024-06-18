@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Mrs. M.G. Spooner resolution"],
         "unitid_ssm":["1978.017"],
         "abstract_ssm":["A red leather-bound resolution presented to Mrs. M.G. Spooner on March 7, 1903 by the New York Fire Department for service rendered to the Fund for the Benefit of the Widows and Orphans of New York Firemen."],
+        "creator_ssm":["New York (N.Y.). Fire Dept",
+          "New York (N.Y.). Fire Dept"],
         "unitdate_normal_ssm":["1903/1903"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (N.Y.). Fire Dept"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1903"],
         "unitdate_ssm":["1903"],
         "language_ssm":["English"],
-        "_version_":1799256308711424000,
-        "timestamp":"2024-05-17T00:08:50.25Z"}]
+        "_version_":1801962243794927616,
+        "timestamp":"2024-06-15T20:58:31.041Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (N.Y.). Fire Dept",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

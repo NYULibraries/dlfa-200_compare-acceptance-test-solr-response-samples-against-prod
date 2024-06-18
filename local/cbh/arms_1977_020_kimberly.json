@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["David and Gideon Kimberly papers"],
         "unitid_ssm":["1977.020"],
         "abstract_ssm":["This collection contains deeds, bonds, and letters spanning the period 1788 to 1845."],
+        "creator_ssm":["Kimberly, David",
+          "Kimberly, Gideon",
+          "Kimberly, David",
+          "Kimberly, Gideon"],
         "unitdate_normal_ssm":["1788/1845"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Bonds (legal records)",
@@ -72,8 +76,8 @@
         "unitdate_end_ssm":["1845"],
         "unitdate_ssm":["Inclusive, 1788-1845"],
         "language_ssm":["English"],
-        "_version_":1799256189266034688,
-        "timestamp":"2024-05-17T00:06:56.337Z"}]
+        "_version_":1801960564235173888,
+        "timestamp":"2024-06-15T20:31:49.288Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +85,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kimberly, David",1,
+        "Kimberly, Gideon",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

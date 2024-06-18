@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Isaac and Silas Ludlam papers"],
         "unitid_ssm":["ARC.118"],
         "abstract_ssm":["The Isaac and Silas Ludlam papers document the surveying activities of the Ludlams in Brooklyn between 1826 and 1839. During this period, the Ludlams were frequently sought out to perform a variety of surveys for public officials of the village, and later the city, of Brooklyn, and for private citizens. The bulk of the collection is composed of correspondence addressed to Isaac, Silas, or both requesting surveying services. The writers of these letters include many prominent citizens of 19th century Brooklyn, such as Joshua Sands, Joseph Sprague, Richard Stanton, Gabriel Furman, as well as other trustees, aldermen, village presidents, and Brooklyn mayors. Most of the collection relates to property in Brooklyn Heights, though some correspondence also references the Bedford-Stuyvesant neighborhood of Brooklyn."],
+        "creator_ssm":["Ludlam, Isaac T.",
+          "Ludlam, Silas",
+          "Ludlam, Isaac T.",
+          "Ludlam, Silas"],
         "unitdate_normal_ssm":["1826/1839"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -69,8 +73,8 @@
         "unitdate_end_ssm":["1839"],
         "unitdate_ssm":["Inclusive, 1826-1839"],
         "language_ssm":["English"],
-        "_version_":1799256329246736384,
-        "timestamp":"2024-05-17T00:09:09.834Z"}]
+        "_version_":1801959078927269888,
+        "timestamp":"2024-06-15T20:08:12.788Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +82,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ludlam, Isaac T.",1,
+        "Ludlam, Silas",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Denise Duhamel Collection"],
         "unitid_ssm":["MSS.083"],
         "abstract_ssm":["Denise Duhamel (1961) is an American poet and author. She attended Emerson College and Sarah Lawrence College and lived in New York City from 1985 to 1999. She has published numerous collections of poetry and won several national awards and grants, including a fellowship from the National Endowment of the Arts. Materials in this collection include books, literary journals, and periodicals published between 1983 and 2002 that include poems and essays written by Duhamel, primarily during her time in New York."],
+        "creator_ssm":["Duhamel, Denise ",
+          "Duhamel, Denise "],
         "unitdate_normal_ssm":["1983/2002",
           "1994/2002"],
         "corpname_ssm":["Fales Library and Special Collections"],
@@ -68,8 +70,8 @@
           "1994"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1983-2002 ; 1994-2002"],
-        "_version_":1775223540294877184,
-        "timestamp":"2023-08-25T17:38:16.259Z"},
+        "_version_":1800876647189053440,
+        "timestamp":"2024-06-03T21:23:25.44Z"},
       {
         "id":"mss_083aspace_c52c8b3e3c98e088af433789a6a24484",
         "ead_ssi":"mss_083",
@@ -90,8 +92,8 @@
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1983-2002"],
         "language_ssm":["English"],
-        "_version_":1775223540372471808,
-        "timestamp":"2023-08-25T17:38:16.333Z"}]
+        "_version_":1800876647213170688,
+        "timestamp":"2024-06-03T21:23:25.463Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -99,7 +101,8 @@
       "repository_sim":[
         "fales",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Duhamel, Denise ",1],
       "date_range_sim":[
         "1901-2000",2,
         "2001-2100",2],

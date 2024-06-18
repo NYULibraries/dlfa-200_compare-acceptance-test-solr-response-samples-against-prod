@@ -47,6 +47,8 @@
         "unittitle_ssm":["Peter Praa certificate"],
         "unitid_ssm":["1977.355"],
         "abstract_ssm":["One photostat copy of a certificate, dated 1702, appointing Peter Praa a Captain in the Bushwick Militia in the regiment of Colonel Jacob Van Cortland."],
+        "creator_ssm":["Praa, Pieter",
+          "Praa, Pieter"],
         "unitdate_normal_ssm":["1702/1702"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Certificates"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1702"],
         "unitdate_ssm":["1702"],
         "language_ssm":["English"],
-        "_version_":1799311732029521920,
-        "timestamp":"2024-05-17T14:49:46.044Z"}]
+        "_version_":1801961416020721664,
+        "timestamp":"2024-06-15T20:45:21.614Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Praa, Pieter",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

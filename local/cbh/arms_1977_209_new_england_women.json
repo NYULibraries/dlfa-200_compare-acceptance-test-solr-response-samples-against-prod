@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Society of New England Women records"],
         "unitid_ssm":["1977.209"],
         "abstract_ssm":["The Brooklyn Society of New England Women records date from 1909 to 1958 and contains membership rolls, constitution and bylaws, yearbooks, and a scrapbook of programs and news clippings."],
+        "creator_ssm":["Brooklyn Society of New England Women",
+          "Brooklyn Society of New England Women"],
         "unitdate_normal_ssm":["1909/1958"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Society of New England Women",
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["Inclusive, 1909-1958"],
         "language_ssm":["English"],
-        "_version_":1799256497754996736,
-        "timestamp":"2024-05-17T00:11:50.536Z"}]
+        "_version_":1801960945440784384,
+        "timestamp":"2024-06-15T20:37:52.834Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Society of New England Women",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

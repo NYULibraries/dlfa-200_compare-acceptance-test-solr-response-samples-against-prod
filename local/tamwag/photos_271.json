@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Peter Hall Higley Hill Camp Photographs"],
         "unitid_ssm":["PHOTOS.271"],
         "abstract_ssm":["Camp Higley Hill, a left-wing summer camp for children in Wilmington, Vermont, owned and operated by Max and Grace Granich, who had been active in the Communist Party, USA in the years before the opening of Higley Hill.  Donated by Camp Higley Hill alumnus Peter Hall, this collection contains black and white photographs of Camp Higley Hill Camp from 1947 to 1952 that show children and adults engaged in activities at the camp, camp facilities, group shots and portraits of campers and staff including Peter Hall, Grace Granich, Becca Shiffren, and Joan Mogliocano."],
+        "creator_ssm":["Hall, Peter",
+          "Hall, Peter"],
         "unitdate_normal_ssm":["1947/1952",
           "1951/1952"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -74,8 +76,8 @@
           "1951"],
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, 1947-1952 ; 1951-1952"],
-        "_version_":1799776684037111808,
-        "timestamp":"2024-05-22T17:59:58.833Z"},
+        "_version_":1802167117981679616,
+        "timestamp":"2024-06-18T03:14:54.291Z"},
       {
         "id":"photos_271aspace_ref7",
         "ead_ssi":"photos_271",
@@ -88,12 +90,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Peter Hall Higley Hill Camp Photographs"],
         "unitdate_ssm":["1947 - 1952"],
-        "_version_":1799776684051791872,
-        "timestamp":"2024-05-22T17:59:58.847Z"}]
+        "_version_":1802167117993213952,
+        "timestamp":"2024-06-18T03:14:54.302Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -101,7 +102,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hall, Peter",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

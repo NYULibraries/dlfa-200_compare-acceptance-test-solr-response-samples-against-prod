@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lucy Maria Tappan Bowen letters"],
         "unitid_ssm":["2000.034"],
         "abstract_ssm":["This collection consists of eight letters written by Lucy Maria Tappan Bowen to her husband, Henry Bowen, and her sister, Susan Barney. Lucy Maria Tappan Bowen is more well-known as one of the women with whom Henry Ward Beecher had allegedly had an affair in the early 1860s, around the time some of these letters were written."],
+        "creator_ssm":["Bowen, Lucy Maria Tappan",
+          "Bowen, Lucy Maria Tappan"],
         "unitdate_normal_ssm":["1843/1863"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1863"],
         "unitdate_ssm":["Inclusive, 1843-1863"],
         "language_ssm":["English"],
-        "_version_":1799256301183696896,
-        "timestamp":"2024-05-17T00:08:43.071Z"}]
+        "_version_":1801963840797147136,
+        "timestamp":"2024-06-15T21:23:54.061Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bowen, Lucy Maria Tappan",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

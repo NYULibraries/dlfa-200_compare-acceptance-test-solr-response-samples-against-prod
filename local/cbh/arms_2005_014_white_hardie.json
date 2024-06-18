@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Maude White and Charles H. Hardie papers"],
         "unitid_ssm":["ARC.298"],
         "abstract_ssm":["Maude White Hardie (1892-1959) was a writer and poet who lived with her husband, Charles H. Hardie, on East 19th Street in Brooklyn, NY. The collection contains the papers of Brooklyn writer and poet Maude White Hardie, and her husband, chemist Charles H. Hardie. These include autobiographical writings, poems, essays, correspondence, course work (from Pratt Institute and Union Theological Seminary), diaries, publications, photographs, postcards, travel ephemera, and legal and financial documents."],
+        "creator_ssm":["Hardie, Charles H.",
+          "Hardie, Maude White",
+          "Hardie, Charles H.",
+          "Hardie, Maude White"],
         "unitdate_normal_ssm":["1881/1947",
           "1914/1947"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -101,8 +105,8 @@
           "1914"],
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["Inclusive, 1881-1947 ; 1914-1947"],
-        "_version_":1799311715257548800,
-        "timestamp":"2024-05-17T14:49:30.05Z"}]
+        "_version_":1801963904175177728,
+        "timestamp":"2024-06-15T21:24:54.502Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -110,7 +114,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hardie, Charles H.",1,
+        "Hardie, Maude White",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

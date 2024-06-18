@@ -47,6 +47,8 @@
         "unittitle_ssm":["An analysis of the Chelsea District, Borough of Manhattan"],
         "unitid_ssm":["PR 389"],
         "abstract_ssm":["A report from Marie-Louise Love (1922-2012) to Mr. J.O. Johnsen of Drydock Savings Bank concerning the New York City neighborhood of Chelsea. In the form of an album, the report includes Love's summary of the area's history, status as of 1961 of the area's demographics and built environment, the Chelsea Conservation Area Program, and Chelsea's transportation, recreation, religious, and restaurant and hotel facilities. The report also includes several photographs of prominent buildings in the neighborhood and street views."],
+        "creator_ssm":["Love, Marie-Louise, 1922-2012",
+          "Love, Marie-Louise, 1922-2012"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Photographs."],
         "geogname_ssm":["Chelsea (Manhattan, New York, N.Y.)"],
@@ -62,8 +64,8 @@
         "heading_ssm":["An analysis of the Chelsea District, Borough of Manhattan"],
         "unitdate_ssm":["1961 June 6"],
         "language_ssm":["English"],
-        "_version_":1799322982378635264,
-        "timestamp":"2024-05-17T17:48:35.214Z"},
+        "_version_":1802094526373822464,
+        "timestamp":"2024-06-17T08:01:05.539Z"},
       {
         "id":"pr389_chelsea_loveaspace_f2acf51aeb626f59f71f9311821387a1",
         "ead_ssi":"pr389_chelsea_love",
@@ -79,8 +81,8 @@
         "location_ssm":["Box: SC-1"],
         "heading_ssm":["\"An Analysis of the Chelsea District, Borough of Manhattan\""],
         "unitdate_ssm":["1961 June 6"],
-        "_version_":1799322982475104256,
-        "timestamp":"2024-05-17T17:48:35.306Z"}]
+        "_version_":1802094526395842560,
+        "timestamp":"2024-06-17T08:01:05.56Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Love, Marie-Louise, 1922-2012",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Peter Filardo"],
         "unittitle_ssm":["Charles A. Barker Annotated Bibliography for <em>Henry George</em>"],
         "unitid_ssm":["TAM.557"],
+        "creator_ssm":["Barker, Charles A. (Charles Albro), 1904-",
+          "Barker, Charles A. (Charles Albro), 1904-"],
         "unitdate_normal_ssm":["1951/1951"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Bibliographies",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["1951, undated"],
         "language_ssm":["English"],
-        "_version_":1799791480415453184,
-        "timestamp":"2024-05-22T21:55:09.759Z"}]
+        "_version_":1802183490256502784,
+        "timestamp":"2024-06-18T07:35:08.109Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Barker, Charles A. (Charles Albro), 1904-",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

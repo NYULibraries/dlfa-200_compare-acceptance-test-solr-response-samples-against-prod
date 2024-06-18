@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Samuel McCallum Papers"],
         "unitid_ssm":["MC.118"],
         "abstract_ssm":["Samuel McCallum was a student in the Medical Department at the University of the City of New-York (1878-1879).  He received his diploma in 1879.  This collection contains his diploma from the University of the City of New-York Medical Department and an autograph book dated 1878 to 1879 with autographs of his fellow students."],
+        "creator_ssm":["McCallum, Samuel",
+          "McCallum, Samuel"],
         "unitdate_normal_ssm":["1878/1879"],
         "corpname_ssm":["New York University Archives",
           "University of the City of New York. Medical Department"],
@@ -62,8 +64,8 @@
         "unitdate_start_ssm":["1878"],
         "unitdate_end_ssm":["1879"],
         "unitdate_ssm":["Inclusive, 1878-1879"],
-        "_version_":1799248564034994176,
-        "timestamp":"2024-05-16T22:05:44.35Z"},
+        "_version_":1801945757987635200,
+        "timestamp":"2024-06-15T16:36:28.95Z"},
       {
         "id":"mc_118aspace_ref10",
         "ead_ssi":"mc_118",
@@ -85,8 +87,8 @@
         "unitdate_end_ssm":["1879"],
         "unitdate_ssm":["Inclusive, 1879"],
         "language_ssm":["English"],
-        "_version_":1799248564108394496,
-        "timestamp":"2024-05-16T22:05:44.421Z"},
+        "_version_":1801945758067326976,
+        "timestamp":"2024-06-15T16:36:29.026Z"},
       {
         "id":"mc_118aspace_ref2",
         "ead_ssi":"mc_118",
@@ -105,8 +107,8 @@
         "unitdate_end_ssm":["1879"],
         "unitdate_ssm":["Inclusive, 1878-1879"],
         "language_ssm":["English"],
-        "_version_":1799248564053868544,
-        "timestamp":"2024-05-16T22:05:44.369Z"},
+        "_version_":1801945758005460992,
+        "timestamp":"2024-06-15T16:36:28.966Z"},
       {
         "id":"mc_118aspace_ref3",
         "ead_ssi":"mc_118",
@@ -123,15 +125,14 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Autograph Album"],
         "unitdate_start_ssm":["1878"],
         "unitdate_end_ssm":["1879"],
         "unitdate_ssm":["Inclusive, 1878-1879"],
         "language_ssm":["English"],
-        "_version_":1799248564073791488,
-        "timestamp":"2024-05-16T22:05:44.388Z"},
+        "_version_":1801945758026432512,
+        "timestamp":"2024-06-15T16:36:28.987Z"},
       {
         "id":"mc_118aspace_ref9",
         "ead_ssi":"mc_118",
@@ -150,8 +151,8 @@
         "unitdate_end_ssm":["1879"],
         "unitdate_ssm":["Inclusive, 1879"],
         "language_ssm":["English"],
-        "_version_":1799248564090568704,
-        "timestamp":"2024-05-16T22:05:44.404Z"}]
+        "_version_":1801945758051598336,
+        "timestamp":"2024-06-15T16:36:29.011Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -159,7 +160,8 @@
       "repository_sim":[
         "archives",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "McCallum, Samuel",1],
       "date_range_sim":[
         "1801-1900",5],
       "subject_sim":[

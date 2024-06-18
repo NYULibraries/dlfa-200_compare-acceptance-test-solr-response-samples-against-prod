@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Kenneth P. Neilson Collection on Frederic Ewen"],
         "unitid_ssm":["TAM.574"],
         "abstract_ssm":["Kenneth P. Neilsen is an educator, artist, composer, publisher and author, and friend of Frederic Ewen. Ewen (1899-1989) was a professor of English from Brooklyn College who was forced to resign in 1952 because of his progressive politics and resistance to McCarthyism, and who later formed a theater company. The collection contains correspondence, notes, clippings, and playbills."],
+        "creator_ssm":["Neilson, Kenneth P.",
+          "Neilson, Kenneth P."],
         "unitdate_normal_ssm":["1964/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Clippings (information artifacts)",
@@ -72,8 +74,8 @@
         "unitdate_start_ssm":["1964"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1964-1989"],
-        "_version_":1799791523371417600,
-        "timestamp":"2024-05-22T21:55:50.725Z"}]
+        "_version_":1802183522198224896,
+        "timestamp":"2024-06-18T07:35:38.571Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Neilson, Kenneth P.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

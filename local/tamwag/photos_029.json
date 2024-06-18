@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["International Federation of Professional and Technical Engineers, Local 66 Photographs"],
         "unitid_ssm":["PHOTOS.029"],
         "abstract_ssm":["The International Federation of Professional and Technical Engineers (IFTPE) Local 66 was founded by architectural draftsmen in 1934 as the Architectural Guild and affiliated with the International Federation of Technical Engineers', Architects' and Draftsmen's Union, AFL, as its Local 66, later becoming IFPTE Local 66. This small collection of twenty-two photographs (including nine color snapshots) shows the leadership of Local 66 at special functions, at training sessions, and making presentations at meetings."],
+        "creator_ssm":["International Federation of Professional and Technical Engineers. Local 66 (Engineering and Professional Guild)",
+          "International Federation of Professional and Technical Engineers. Local 66 (Engineering and Professional Guild)"],
         "unitdate_normal_ssm":["1940/1970"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Federation of Professional and Technical Engineers. Local 66 (Engineering and Professional Guild)"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, ca. 1950-1970"],
         "language_ssm":["English"],
-        "_version_":1799764316400910336,
-        "timestamp":"2024-05-22T14:43:24.136Z"},
+        "_version_":1802141734360055808,
+        "timestamp":"2024-06-17T20:31:26.583Z"},
       {
         "id":"photos_029aspace_ref13",
         "ead_ssi":"photos_029",
@@ -80,8 +82,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Container list"],
-        "_version_":1799764316416638976,
-        "timestamp":"2024-05-22T14:43:24.151Z"},
+        "_version_":1802141734376833024,
+        "timestamp":"2024-06-17T20:31:26.599Z"},
       {
         "id":"photos_029aspace_ref14",
         "ead_ssi":"photos_029",
@@ -97,12 +99,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Meetings, conventions, dinners"],
         "unitdate_ssm":["undated"],
-        "_version_":1799764316432367616,
-        "timestamp":"2024-05-22T14:43:24.166Z"}]
+        "_version_":1802141734390464512,
+        "timestamp":"2024-06-17T20:31:26.612Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -110,7 +111,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "International Federation of Professional and Technical Engineers. Local 66 (Engineering and Professional Guild)",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",2],

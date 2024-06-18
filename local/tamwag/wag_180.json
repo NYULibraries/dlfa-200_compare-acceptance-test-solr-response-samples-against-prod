@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sheet Metal Workers International Association, Local 137 Records"],
         "unitid_ssm":["WAG.180"],
         "abstract_ssm":["Sheet Metal Workers International Association, Local 137 is the Greater New York, Long Island, Westchester and Rockland local union of the International Association of Sheet Metal, Air, Rail, and Transportation Workers.  Most of its members' work is fabricating, rigging, and installing metal signboards. This has included production of many of the electric signs on Broadway's \"Great White Way,\" the time ball used at New Year's Eve celebrations at Times Square, as well as signs for suburban shopping centers. Its charter was issued in 1924, but the Local was founded earlier, possibly as early as 1911.  The collection includes correspondence, executive board minutes, apprenticeship records, contracts, and a small number of photographs, mainly from the 1970s and 1980s. This collection also includes an archived version of Local 137's website, http://www.local137.com. An early version of the website was first captured in September 2007, although regular web crawls began in June 2019 of their new web address, http://www.smart137.com."],
+        "creator_ssm":["Sheet Metal Workers' International Association. Local 137",
+          "Sheet Metal Workers' International Association. Local 137"],
         "unitdate_normal_ssm":["1916/1997",
           "1968/1993"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1997",
           "1993"],
         "unitdate_ssm":["Inclusive, 1916-1997, 2007, 2019-ongoing ; 1968-1993"],
-        "_version_":1799802339124576256,
-        "timestamp":"2024-05-23T00:47:45.431Z"},
+        "_version_":1802195401404579840,
+        "timestamp":"2024-06-18T10:44:27.465Z"},
       {
         "id":"wag_180aspace_4b1063c3b354e6094433c3c4a8bf96a7",
         "ead_ssi":"wag_180",
@@ -97,8 +99,8 @@
         "unitdate_start_ssm":["1956"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1956-1986"],
-        "_version_":1799802339377283072,
-        "timestamp":"2024-05-23T00:47:45.672Z"},
+        "_version_":1802195401519923200,
+        "timestamp":"2024-06-18T10:44:27.575Z"},
       {
         "id":"wag_180aspace_e93b9228579055387d8004e2a6a85c30",
         "ead_ssi":"wag_180",
@@ -117,8 +119,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, circa 1970-1996"],
-        "_version_":1799802339355262976,
-        "timestamp":"2024-05-23T00:47:45.651Z"},
+        "_version_":1802195401508388864,
+        "timestamp":"2024-06-18T10:44:27.564Z"},
       {
         "id":"wag_180aspace_ref10",
         "ead_ssi":"wag_180",
@@ -137,8 +139,8 @@
         "unitdate_start_ssm":["1988"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1988-1995"],
-        "_version_":1799802339293396992,
-        "timestamp":"2024-05-23T00:47:45.592Z"},
+        "_version_":1802195401482174464,
+        "timestamp":"2024-06-18T10:44:27.539Z"},
       {
         "id":"wag_180aspace_ref11",
         "ead_ssi":"wag_180",
@@ -157,8 +159,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1984-1993"],
-        "_version_":1799802339313319936,
-        "timestamp":"2024-05-23T00:47:45.611Z"},
+        "_version_":1802195401490563072,
+        "timestamp":"2024-06-18T10:44:27.547Z"},
       {
         "id":"wag_180aspace_ref12",
         "ead_ssi":"wag_180",
@@ -177,8 +179,8 @@
         "unitdate_start_ssm":["1951"],
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, 1951-1997"],
-        "_version_":1799802339333242880,
-        "timestamp":"2024-05-23T00:47:45.63Z"},
+        "_version_":1802195401498951680,
+        "timestamp":"2024-06-18T10:44:27.555Z"},
       {
         "id":"wag_180aspace_ref13",
         "ead_ssi":"wag_180",
@@ -192,14 +194,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment MSOS003, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment MSOS003, Folder: 1"],
         "heading_ssm":["Certificate of Incorporation for Sheet Metal Workers Sick and Benevolent Association of New York, from State of New York"],
         "unitdate_start_ssm":["1916"],
         "unitdate_end_ssm":["1916"],
         "unitdate_ssm":["Inclusive, 1916"],
-        "_version_":1799802339398254592,
-        "timestamp":"2024-05-23T00:47:45.691Z"},
+        "_version_":1802195401529360384,
+        "timestamp":"2024-06-18T10:44:27.584Z"},
       {
         "id":"wag_180aspace_ref14",
         "ead_ssi":"wag_180",
@@ -213,14 +214,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment A005, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment A005, Folder: 1"],
         "heading_ssm":["Photographs"],
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["Inclusive, circa 1930s-1950s"],
-        "_version_":1799802339415031808,
-        "timestamp":"2024-05-23T00:47:45.708Z"},
+        "_version_":1802195401538797568,
+        "timestamp":"2024-06-18T10:44:27.593Z"},
       {
         "id":"wag_180aspace_ref2",
         "ead_ssi":"wag_180",
@@ -239,8 +239,8 @@
         "unitdate_start_ssm":["1956"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1956-1990"],
-        "_version_":1799802339147644928,
-        "timestamp":"2024-05-23T00:47:45.453Z"},
+        "_version_":1802195401415065600,
+        "timestamp":"2024-06-18T10:44:27.475Z"},
       {
         "id":"wag_180aspace_ref3",
         "ead_ssi":"wag_180",
@@ -259,8 +259,8 @@
         "unitdate_start_ssm":["1948"],
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, 1948-1996"],
-        "_version_":1799802339167567872,
-        "timestamp":"2024-05-23T00:47:45.472Z"},
+        "_version_":1802195401424502784,
+        "timestamp":"2024-06-18T10:44:27.484Z"},
       {
         "id":"wag_180aspace_ref36",
         "ead_ssi":"wag_180",
@@ -281,8 +281,8 @@
         "unitdate_start_ssm":["2007"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["Inclusive, September 2007, June 2019-ongoing"],
-        "_version_":1799802339434954752,
-        "timestamp":"2024-05-23T00:47:45.727Z"},
+        "_version_":1802195401548234752,
+        "timestamp":"2024-06-18T10:44:27.602Z"},
       {
         "id":"wag_180aspace_ref4",
         "ead_ssi":"wag_180",
@@ -301,8 +301,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1968-1991"],
-        "_version_":1799802339199025152,
-        "timestamp":"2024-05-23T00:47:45.501Z"},
+        "_version_":1802195401438134272,
+        "timestamp":"2024-06-18T10:44:27.496Z"},
       {
         "id":"wag_180aspace_ref5",
         "ead_ssi":"wag_180",
@@ -321,8 +321,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, 1968-1996"],
-        "_version_":1799802339219996672,
-        "timestamp":"2024-05-23T00:47:45.522Z"},
+        "_version_":1802195401446522880,
+        "timestamp":"2024-06-18T10:44:27.505Z"},
       {
         "id":"wag_180aspace_ref7",
         "ead_ssi":"wag_180",
@@ -341,8 +341,8 @@
         "unitdate_start_ssm":["1966"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1966-1992"],
-        "_version_":1799802339238871040,
-        "timestamp":"2024-05-23T00:47:45.54Z"},
+        "_version_":1802195401455960064,
+        "timestamp":"2024-06-18T10:44:27.514Z"},
       {
         "id":"wag_180aspace_ref8",
         "ead_ssi":"wag_180",
@@ -361,8 +361,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1975-1990"],
-        "_version_":1799802339257745408,
-        "timestamp":"2024-05-23T00:47:45.558Z"},
+        "_version_":1802195401464348672,
+        "timestamp":"2024-06-18T10:44:27.522Z"},
       {
         "id":"wag_180aspace_ref9",
         "ead_ssi":"wag_180",
@@ -381,8 +381,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1972-1993"],
-        "_version_":1799802339275571200,
-        "timestamp":"2024-05-23T00:47:45.575Z"}]
+        "_version_":1802195401472737280,
+        "timestamp":"2024-06-18T10:44:27.53Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -391,7 +391,8 @@
         "tamwag",16],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sheet Metal Workers' International Association. Local 137",1],
       "date_range_sim":[
         "1901-2000",15,
         "2001-2100",1],

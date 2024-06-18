@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Peter Filardo"],
         "unittitle_ssm":["Carole Turbin Collection on Women's Liberation"],
         "unitid_ssm":["TAM.412"],
+        "creator_ssm":["Turbin, Carole",
+          "Turbin, Carole"],
         "unitdate_normal_ssm":["1968/1975"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Redstockings, Inc.",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1968-1975, undated"],
         "language_ssm":["English"],
-        "_version_":1775222663457800192,
-        "timestamp":"2023-08-25T17:24:20.042Z"}]
+        "_version_":1801252574887673856,
+        "timestamp":"2024-06-08T00:58:38.031Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Turbin, Carole",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

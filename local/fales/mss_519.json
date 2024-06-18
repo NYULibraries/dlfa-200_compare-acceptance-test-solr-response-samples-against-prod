@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Richard Wagner Manuscripts"],
         "unitid_ssm":["MSS.519"],
         "abstract_ssm":["Richard Wagner (1813-1883) was a German composer. Rena Charnin Mueller is an associate professor of music at New York University. The Richard Wagner Manuscripts include two items handwritten by Wagner. One item is a song written by Wagner, dedicated to Louis [Kn]ass.  The other item is a poem invitation to celebrate the completion of Die Götterdämmerung, with a list on its verso of potential singers for the first complete production of Der Ring des Nibelungen at Bayreuth, Germany, written by Anton Seidl with notations by Wagner."],
+        "creator_ssm":["Wagner, Richard, 1813-1883",
+          "Seidl, Anton, 1850-1898",
+          "Wagner, Richard, 1813-1883",
+          "Seidl, Anton, 1850-1898"],
         "unitdate_normal_ssm":["1871/1876"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Manuscripts",
@@ -68,8 +72,8 @@
         "unitdate_start_ssm":["1871"],
         "unitdate_end_ssm":["1876"],
         "unitdate_ssm":["Inclusive, 1871-1876"],
-        "_version_":1799744566234972160,
-        "timestamp":"2024-05-22T09:29:28.91Z"}]
+        "_version_":1802080540405268480,
+        "timestamp":"2024-06-17T04:18:47.48Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +81,9 @@
       "repository_sim":[
         "fales",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Seidl, Anton, 1850-1898",1,
+        "Wagner, Richard, 1813-1883",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

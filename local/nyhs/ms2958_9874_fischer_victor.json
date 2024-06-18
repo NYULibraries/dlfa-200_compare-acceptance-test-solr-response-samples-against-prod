@@ -46,6 +46,8 @@
         "unittitle_ssm":["Victor Fischer citizenship certificate"],
         "unitid_ssm":["AHMC - Fischer, Victor"],
         "abstract_ssm":["Certificate of United States citizenship issued to Czech immigrant Victor Fischer (1877–1941) by the Supreme Court of the State of New York, First Judicial District, on 8 July 1903. Accompanied by a billfold with printed advertisements, in Czech, for \"Bohemia,\" akclová banka, a Prague bank. For further details about this collection, and to request it for research, please read its catalog record, or write to reference@nyhistory.org."],
+        "creator_ssm":["Fischer, Victor Adolph, 1877–1941",
+          "Fischer, Victor Adolph, 1877–1941"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Fischer, Victor Adolph, 1877–1941"],
         "collection_ssm":["Victor Fischer citizenship certificate"],
@@ -56,8 +58,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Victor Fischer citizenship certificate"],
         "unitdate_ssm":["1903 July 8"],
-        "_version_":1799318003536363520,
-        "timestamp":"2024-05-17T16:29:27.02Z"}]
+        "_version_":1802083912384512000,
+        "timestamp":"2024-06-17T05:12:23.25Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -65,7 +67,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fischer, Victor Adolph, 1877–1941",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

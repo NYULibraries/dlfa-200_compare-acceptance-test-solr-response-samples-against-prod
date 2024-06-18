@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -71,8 +71,8 @@
         "heading_ssm":["Demonstrations in Alexandria - 1921"],
         "unitdate_ssm":["May 1921"],
         "language_ssm":["English"],
-        "_version_":1775226164340588544,
-        "timestamp":"2023-08-25T18:19:58.744Z"}]
+        "_version_":1800514255863152640,
+        "timestamp":"2024-05-30T21:23:22.14Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

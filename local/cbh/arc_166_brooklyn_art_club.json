@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Art Club annual exhibition catalogs"],
         "unitid_ssm":["ARC.166"],
         "abstract_ssm":["The Brooklyn Art Club annual exhibition catalogs span the years 1882 to 1898 and are housed in one half manuscript box. The collection consists of both originals and photocopies of annual exhibition catalogs of the Brooklyn Art Club."],
+        "creator_ssm":["Brooklyn Art Club",
+          "Brooklyn Art Club"],
         "unitdate_normal_ssm":["1882/1898"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Art Club",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1898"],
         "unitdate_ssm":["Inclusive, 1882-1898"],
         "language_ssm":["English"],
-        "_version_":1799312397601603584,
-        "timestamp":"2024-05-17T15:00:20.784Z"}]
+        "_version_":1801959264602816512,
+        "timestamp":"2024-06-15T20:11:09.862Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Art Club",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

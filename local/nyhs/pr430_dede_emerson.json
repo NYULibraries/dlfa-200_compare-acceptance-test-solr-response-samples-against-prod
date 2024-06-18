@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Dede Emerson photographs"],
         "unitid_ssm":["PR 430"],
         "abstract_ssm":["The collection includes over 1,500 color photographs taken by Dede Emerson of buildings and street life as she walked in Manhattan from 215th Street to the Battery between April 24, 2005 and January 26, 2008."],
+        "creator_ssm":["Emerson, Dede",
+          "Emerson, Dede"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Color photographs.",
           "Digital images.",
@@ -67,8 +69,8 @@
           "Photographic prints."],
         "heading_ssm":["Dede Emerson photographs"],
         "unitdate_ssm":["Inclusive, 2005 April-2008 January"],
-        "_version_":1799323409846370304,
-        "timestamp":"2024-05-17T17:55:22.879Z"},
+        "_version_":1802094721751842816,
+        "timestamp":"2024-06-17T08:04:11.866Z"},
       {
         "id":"pr430_dede_emersonaspace_362e5cdd682b7975a36463981b88e1f6",
         "ead_ssi":"pr430_dede_emerson",
@@ -81,12 +83,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Inventory of files on \"Photos of Manhattan\" CD"],
         "unitdate_ssm":["Inclusive, 2005-2008"],
-        "_version_":1799323409902993408,
-        "timestamp":"2024-05-17T17:55:22.933Z"},
+        "_version_":1802094721850408960,
+        "timestamp":"2024-06-17T08:04:11.96Z"},
       {
         "id":"pr430_dede_emersonaspace_3b686311c4709641898d12f939fd96b2",
         "ead_ssi":"pr430_dede_emerson",
@@ -99,12 +100,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 1, Folder: 4"],
         "heading_ssm":["Photos of Manhattan"],
         "unitdate_ssm":["Inclusive, 2005-2008"],
-        "_version_":1799323409940742144,
-        "timestamp":"2024-05-17T17:55:22.968Z"},
+        "_version_":1802094721892352000,
+        "timestamp":"2024-06-17T08:04:12Z"},
       {
         "id":"pr430_dede_emersonaspace_3fa052c664c7a10d61a5be6c7000ecec",
         "ead_ssi":"pr430_dede_emerson",
@@ -120,8 +120,8 @@
         "location_ssm":["Digital-Folder: 1"],
         "heading_ssm":["Photos of Manhattan (Disc 1)"],
         "unitdate_ssm":["Inclusive, 2005-2008"],
-        "_version_":1799323409862098944,
-        "timestamp":"2024-05-17T17:55:22.894Z"},
+        "_version_":1802094721775960064,
+        "timestamp":"2024-06-17T08:04:11.889Z"},
       {
         "id":"pr430_dede_emersonaspace_85da5025b720cfbd999e72ee01c2b6d4",
         "ead_ssi":"pr430_dede_emerson",
@@ -134,12 +134,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["CD \"Photos of Manhattan\" (RESTRICTED)"],
         "unitdate_ssm":["Inclusive, 2005-2008"],
-        "_version_":1799323409888313344,
-        "timestamp":"2024-05-17T17:55:22.919Z"},
+        "_version_":1802094721822097408,
+        "timestamp":"2024-06-17T08:04:11.933Z"},
       {
         "id":"pr430_dede_emersonaspace_9b3cad4eac131a6ceb318e65f5f3eb86",
         "ead_ssi":"pr430_dede_emerson",
@@ -155,8 +154,8 @@
         "location_ssm":["Digital-Folder: 2"],
         "heading_ssm":["Stars (Disc 2)"],
         "unitdate_ssm":["Inclusive, 2005-2008"],
-        "_version_":1799323409875730432,
-        "timestamp":"2024-05-17T17:55:22.907Z"},
+        "_version_":1802094721799028736,
+        "timestamp":"2024-06-17T08:04:11.911Z"},
       {
         "id":"pr430_dede_emersonaspace_add5281ae58d0beb4607c2198eabd3f5",
         "ead_ssi":"pr430_dede_emerson",
@@ -169,12 +168,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["CD \"Stars\" and \"Post 1/26/08\" (RESTRICTED)"],
         "unitdate_ssm":["Inclusive, 2005-2008"],
-        "_version_":1799323409926062080,
-        "timestamp":"2024-05-17T17:55:22.955Z"}]
+        "_version_":1802094721869283328,
+        "timestamp":"2024-06-17T08:04:11.978Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -182,7 +180,8 @@
       "repository_sim":[
         "nyhs",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Emerson, Dede",1],
       "date_range_sim":[
         "undated & other",7],
       "subject_sim":[

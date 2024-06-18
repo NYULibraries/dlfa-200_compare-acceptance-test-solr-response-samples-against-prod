@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Center for Religion and Media"],
         "unitid_ssm":["RG.37.59"],
         "abstract_ssm":["The Center for Religion and Media at New York University is one of the ten Centers of Excellence funded by The Pew Charitable Trusts from 2003-2007. The Center works to further interdisciplinary and cross-crultural knowledge on the intersection of religious practices and ideas with contemporary mass media. The Center sponsors education events and produces the web journal The Revealer: a review of religion and media. The Center for Religion and Media is a joint project of the Religious Studies Program and the Center for Media, Culture, and History. This collection consists of the records of the Center for Religion and Media from approximately 2004-2019, including administrative records, publications, and materials documenting the center's events, including flyers, programs, audio recordings, and video recordings."],
+        "creator_ssm":["New York University. The Center for Religion and Media",
+          "New York University. The Center for Religion and Media"],
         "unitdate_normal_ssm":["2004/2019"],
         "corpname_ssm":["New York University Archives",
           "New York University. The Center for Religion and Media"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["2004"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["Inclusive, 2004-2019"],
-        "_version_":1799253257829220352,
-        "timestamp":"2024-05-16T23:20:20.701Z"},
+        "_version_":1801953457213538304,
+        "timestamp":"2024-06-15T18:38:51.504Z"},
       {
         "id":"rg_37_59aspace_528b84d9f3b0a5e4d976f5f854b26b80",
         "ead_ssi":"rg_37_59",
@@ -86,8 +88,8 @@
         "unitdate_start_ssm":["2004"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 2004-2017"],
-        "_version_":1799253257890037760,
-        "timestamp":"2024-05-16T23:20:20.76Z"},
+        "_version_":1801953457297424384,
+        "timestamp":"2024-06-15T18:38:51.584Z"},
       {
         "id":"rg_37_59aspace_843db5f1fe56bf012b4a279bc103094a",
         "ead_ssi":"rg_37_59",
@@ -106,8 +108,8 @@
         "unitdate_start_ssm":["2004"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2004-2014"],
-        "_version_":1799253257844948992,
-        "timestamp":"2024-05-16T23:20:20.717Z"},
+        "_version_":1801953457234509824,
+        "timestamp":"2024-06-15T18:38:51.524Z"},
       {
         "id":"rg_37_59aspace_8df720be5a951898ffc36609cb137e62",
         "ead_ssi":"rg_37_59",
@@ -127,8 +129,8 @@
         "unitdate_start_ssm":["2004"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 2004-2017"],
-        "_version_":1799253257874309120,
-        "timestamp":"2024-05-16T23:20:20.745Z"},
+        "_version_":1801953457281695744,
+        "timestamp":"2024-06-15T18:38:51.569Z"},
       {
         "id":"rg_37_59aspace_9424a28f6e1936758f6af697e3dda2c7",
         "ead_ssi":"rg_37_59",
@@ -147,8 +149,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["May 2019-ongoing"],
-        "_version_":1799253257904717824,
-        "timestamp":"2024-05-16T23:20:20.774Z"},
+        "_version_":1801953457313153024,
+        "timestamp":"2024-06-15T18:38:51.599Z"},
       {
         "id":"rg_37_59aspace_9dfe1dd17cca66ad3ba265b076f981d0",
         "ead_ssi":"rg_37_59",
@@ -168,8 +170,8 @@
         "unitdate_start_ssm":["2007"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 2007-2017"],
-        "_version_":1799253257860677632,
-        "timestamp":"2024-05-16T23:20:20.732Z"}]
+        "_version_":1801953457253384192,
+        "timestamp":"2024-06-15T18:38:51.542Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -178,7 +180,8 @@
         "archives",6],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. The Center for Religion and Media",1],
       "date_range_sim":[
         "2001-2100",5,
         "undated & other",1],

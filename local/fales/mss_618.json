@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sister Spit Archived Website"],
         "unitid_ssm":["MSS.618"],
         "abstract_ssm":["Sister Spit was an all woman, spoken word and performance series in San Francisco, founded by Sini Anderson and Michelle Tea.  The website mostly contains information about their 1997, 1998, and 2001 Ramblin' Road Show tours, including biographies of performers, poems and writings by the performers, images from the tour, and tour diaries."],
+        "creator_ssm":["Sister Spit",
+          "Sister Spit"],
         "unitdate_normal_ssm":["2016-02-10/2021-10-26"],
         "corpname_ssm":["Fales Library and Special Collections",
           "Sister Spit"],
@@ -79,8 +81,8 @@
         "material_type_ssm":["Spoken word poetry"],
         "heading_ssm":["Sister Spit Archived Website"],
         "unitdate_ssm":["Inclusive, February 2016-October 2021"],
-        "_version_":1799745476303519744,
-        "timestamp":"2024-05-22T09:43:56.819Z"},
+        "_version_":1802081734207995904,
+        "timestamp":"2024-06-17T04:37:45.979Z"},
       {
         "id":"mss_618aspace_bfa42c09a9dd89058012dc95b4485d2d",
         "ead_ssi":"mss_618",
@@ -98,8 +100,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["Inclusive, February 2016-October 2021"],
-        "_version_":1799745476321345536,
-        "timestamp":"2024-05-22T09:43:56.836Z"}]
+        "_version_":1802081734223724544,
+        "timestamp":"2024-06-17T04:37:45.994Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -108,7 +110,8 @@
         "fales",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sister Spit",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

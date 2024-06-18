@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":23,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Nora Herting photographs"],
         "unitid_ssm":["2009.002"],
         "abstract_ssm":["Face of Brooklyn consists of 281 digital photographic images, stored on 3 DVDs. The images are all portraits of Brooklyn residents and visitors, taken by Nora Herting at open portrait studios in neighborhoods throughout Brooklyn in 2008. Subjects volunteered to be photographed on the spot; most, photographed either alone or with friends or family, appear in front of a white background.\n\nThe artist views the collection as a response to the portraits already featured in the Brooklyn Historical Society's collection, which do not represent the diversity of Brooklyn's residents."],
+        "creator_ssm":["Herting, Nora",
+          "Herting, Nora"],
         "unitdate_normal_ssm":["2008/2008"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Digital Photographs"],
@@ -75,8 +77,8 @@
         "unitdate_start_ssm":["2008"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 2008 August-September, November"],
-        "_version_":1799256189455826944,
-        "timestamp":"2024-05-17T00:06:56.519Z"}]
+        "_version_":1801964073836871680,
+        "timestamp":"2024-06-15T21:27:36.305Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Herting, Nora",1],
       "date_range_sim":[
         "2001-2100",1],
       "subject_sim":[],

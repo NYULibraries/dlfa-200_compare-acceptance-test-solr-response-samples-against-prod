@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Coney Island and Rockaway viewbook"],
         "unitid_ssm":["V1987.022"],
         "abstract_ssm":["Images in the viewbook show panoramic views of both Coney Island and Rockaway, as well as hotels and piers."],
+        "creator_ssm":["Brunswick, George",
+          "Brunswick, George"],
         "unitdate_normal_ssm":["1880/1880"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Illustrations (layout features)",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1880"],
         "unitdate_ssm":["Inclusive, 1880"],
         "language_ssm":["English"],
-        "_version_":1799312455589953536,
-        "timestamp":"2024-05-17T15:01:16.086Z"}]
+        "_version_":1802045163267162112,
+        "timestamp":"2024-06-16T18:56:29.212Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brunswick, George",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

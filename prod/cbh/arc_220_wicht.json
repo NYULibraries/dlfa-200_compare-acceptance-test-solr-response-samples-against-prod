@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":10,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ken Wicht photograph collection"],
         "unitid_ssm":["ARC.220"],
         "abstract_ssm":["The Ken Wicht photograph collection consists of 19 photographic negatives (35mm) and one black-and-white print showing views of Brooklyn Heights neighborhood, with many views of Henry Street, circa 1980."],
+        "creator_ssm":["Wicht, Ken",
+          "Wicht, Ken"],
         "unitdate_normal_ssm":["1970/1990"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Color slides",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, circa 1980"],
         "language_ssm":["English"],
-        "_version_":1777670149548015616,
-        "timestamp":"2023-09-21T17:46:04.666Z"}]
+        "_version_":1800632222930173952,
+        "timestamp":"2024-06-01T04:38:24.302Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wicht, Ken",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -67,8 +67,8 @@
         "material_type_ssm":["Photographs."],
         "heading_ssm":["New York City Public Works construction photograph collection"],
         "unitdate_ssm":["Inclusive, 1930s-1950s"],
-        "_version_":1799330679546183680,
-        "timestamp":"2024-05-17T19:50:55.805Z"},
+        "_version_":1802094021886083072,
+        "timestamp":"2024-06-17T07:53:04.422Z"},
       {
         "id":"pr302_public_works_constructionaspace_ref1_y3z",
         "ead_ssi":"pr302_public_works_construction",
@@ -81,12 +81,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Sewage Plants (26th Ward, Bowery Bay, Wards Island)"],
         "unitdate_ssm":["1937, 1940, 1948"],
-        "_version_":1799330679569252352,
-        "timestamp":"2024-05-17T19:50:55.827Z"},
+        "_version_":1802094021906006016,
+        "timestamp":"2024-06-17T07:53:04.441Z"},
       {
         "id":"pr302_public_works_constructionaspace_ref2_hcj",
         "ead_ssi":"pr302_public_works_construction",
@@ -99,12 +98,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Rikers Island, East 124th Street, Grand Central Parkway (gas station), 86th Street Pumping Station"],
         "unitdate_ssm":["1927, 1931, 1945"],
-        "_version_":1799330679586029568,
-        "timestamp":"2024-05-17T19:50:55.843Z"},
+        "_version_":1802094021923831808,
+        "timestamp":"2024-06-17T07:53:04.458Z"},
       {
         "id":"pr302_public_works_constructionaspace_ref3_ycr",
         "ead_ssi":"pr302_public_works_construction",
@@ -117,12 +115,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Lincoln Hospital, Neponsit Beach Hospital, Harlem Welfare Center, Betsy Head Bath House, Jamaica High School"],
         "unitdate_ssm":["1930's, 1941, 1951-52"],
-        "_version_":1799330679611195392,
-        "timestamp":"2024-05-17T19:50:55.867Z"}]
+        "_version_":1802094021948997632,
+        "timestamp":"2024-06-17T07:53:04.482Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

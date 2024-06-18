@@ -47,6 +47,14 @@
         "unittitle_ssm":["Lutheran and Moravian churches of Brooklyn collection"],
         "unitid_ssm":["1986.031"],
         "abstract_ssm":["The Lutheran and Moravian churches of Brooklyn collection dates from 1881 to 1973 and measures 0.21 linear feet. The following churches are represented in the collection: Advent Lutheran Church, Lutheran Church of the Redeemer, St. Stephen's Evangelical Lutheran Church, and Moravian Church of Brooklyn. Document types in the collection include newsletters and periodicals, church service programs, and printed ephemera."],
+        "creator_ssm":["St. Stephen's Lutheran Church (Brooklyn, New York, N.Y.)",
+          "Advent Lutheran Church (Brooklyn, New York, N.Y.)",
+          "Lutheran Church of the Redeemer (Brooklyn, New York, N.Y.)",
+          "Moravian Church (Brooklyn, New York, N.Y.)",
+          "St. Stephen's Lutheran Church (Brooklyn, New York, N.Y.)",
+          "Advent Lutheran Church (Brooklyn, New York, N.Y.)",
+          "Lutheran Church of the Redeemer (Brooklyn, New York, N.Y.)",
+          "Moravian Church (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1881/1973"],
         "corpname_ssm":["Brooklyn Historical Society",
           "St. Stephen's Lutheran Church (Brooklyn, New York, N.Y.)",
@@ -77,8 +85,8 @@
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1881-1973"],
         "language_ssm":["English"],
-        "_version_":1775224686464991232,
-        "timestamp":"2023-08-25T17:56:29.332Z"}]
+        "_version_":1800773785902645248,
+        "timestamp":"2024-06-02T18:08:29.273Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +94,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Advent Lutheran Church (Brooklyn, New York, N.Y.)",1,
+        "Lutheran Church of the Redeemer (Brooklyn, New York, N.Y.)",1,
+        "Moravian Church (Brooklyn, New York, N.Y.)",1,
+        "St. Stephen's Lutheran Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

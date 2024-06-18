@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -66,8 +66,8 @@
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["1980"],
         "language_ssm":["English"],
-        "_version_":1799256288095371264,
-        "timestamp":"2024-05-17T00:08:30.589Z"}]
+        "_version_":1802044142843330560,
+        "timestamp":"2024-06-16T18:40:16.06Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

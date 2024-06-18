@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Dwight B. Demeritt, Jr. photographs of the Cadman Plaza excavation site"],
         "unitid_ssm":["V1991.054"],
         "abstract_ssm":["The collection, dating from 1965, shows views of the excavation site of a parcel of land in Brooklyn Heights that had been razed for the construction of Cadman Plaza."],
+        "creator_ssm":["Demeritt, Dwight B., Jr.",
+          "Demeritt, Dwight B., Jr."],
         "unitdate_normal_ssm":["1965/1965"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Black-and-white prints (photographs)",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1965"],
         "language_ssm":["English"],
-        "_version_":1799311732866285568,
-        "timestamp":"2024-05-17T14:49:46.843Z"}]
+        "_version_":1802045467161264128,
+        "timestamp":"2024-06-16T19:01:19.028Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Demeritt, Dwight B., Jr.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

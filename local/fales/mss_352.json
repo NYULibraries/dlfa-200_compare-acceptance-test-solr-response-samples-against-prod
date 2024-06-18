@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["David Giannini and Theodore Enslin Correspondence"],
         "unitid_ssm":["MSS.352"],
         "abstract_ssm":["Poet Theodore Enslin (1925-2011) published over 80 books of poetry in his career. He lived the majority of his life in rural Maine, where he farmed and wrote until he passed away at the age of 86. Poet David Giannini began publishing poetry in 1971 and his works have appeared in national and international literary magazines and anthologies. As of 2017, he lives and writes in the Berkshires in western Massachusetts. \nThis collection contains letters between Giannini and Enslin beginning in 1981 until Enslin's death in 2011. Throughout their 30 year friendship, Giannini and Enslin corresponded regularly from their homes in New Mexico, Maine, and western Massachusetts, discussing weather, politics, health, and personal issues. They also critiqued each other's writings and shared reading recommendations. Critiques and news of other writer friends including Cid Corman, John Taggart, and George Oppen can also be found in this collection."],
+        "creator_ssm":["Enslin, Theodore",
+          "Giannini, David",
+          "Enslin, Theodore",
+          "Giannini, David"],
         "unitdate_normal_ssm":["1981/2011"],
         "corpname_ssm":["Fales Library and Special Collections",
           "Granary Books (Firm)",
@@ -74,8 +78,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["Inclusive, 1981-2011"],
-        "_version_":1799739506894569472,
-        "timestamp":"2024-05-22T08:09:03.947Z"},
+        "_version_":1802071033382961152,
+        "timestamp":"2024-06-17T01:47:40.877Z"},
       {
         "id":"mss_352aspace_07b25c6cf567fde9763c7011ce671f69",
         "ead_ssi":"mss_352",
@@ -93,8 +97,8 @@
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["Inclusive, 1981-03-31-1992-11-30"],
         "language_ssm":["English"],
-        "_version_":1799739506907152384,
-        "timestamp":"2024-05-22T08:09:03.959Z"},
+        "_version_":1802071033398689792,
+        "timestamp":"2024-06-17T01:47:40.892Z"},
       {
         "id":"mss_352aspace_13603019edbac8b172eba67540dab5b3",
         "ead_ssi":"mss_352",
@@ -112,8 +116,8 @@
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["Inclusive, 1993-01-11-1999-12-28"],
         "language_ssm":["English"],
-        "_version_":1799739506919735296,
-        "timestamp":"2024-05-22T08:09:03.971Z"},
+        "_version_":1802071033415467008,
+        "timestamp":"2024-06-17T01:47:40.908Z"},
       {
         "id":"mss_352aspace_e5065b80a3336cf17ce0d6e9b7085551",
         "ead_ssi":"mss_352",
@@ -131,8 +135,8 @@
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["Inclusive, 2000-01-08-2011-10-13"],
         "language_ssm":["English"],
-        "_version_":1799739506935463936,
-        "timestamp":"2024-05-22T08:09:03.986Z"}]
+        "_version_":1802071033439584256,
+        "timestamp":"2024-06-17T01:47:40.931Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -140,7 +144,9 @@
       "repository_sim":[
         "fales",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Enslin, Theodore",1,
+        "Giannini, David",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

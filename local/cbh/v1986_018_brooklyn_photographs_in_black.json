@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>Brooklyn: Photographs in Black</em> viewbook"],
         "unitid_ssm":["V1986.018"],
         "abstract_ssm":["The viewbook documents the built environment in Brooklyn and includes 43 black-and-white non-photographic prints of photographs of buildings (schools, churches, factories, among others), bridges, monuments, and parks in Brooklyn."],
+        "creator_ssm":["Albertype Co",
+          "Albertype Co"],
         "unitdate_normal_ssm":["1891/1891"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Albertype Co"],
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1891"],
         "unitdate_ssm":["Inclusive, 1891"],
         "language_ssm":["English"],
-        "_version_":1799256291462348800,
-        "timestamp":"2024-05-17T00:08:33.8Z"}]
+        "_version_":1802045020708012032,
+        "timestamp":"2024-06-16T18:54:13.257Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Albertype Co",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

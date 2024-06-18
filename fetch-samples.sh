@@ -1,4 +1,4 @@
-#!/bin/bash                                                                                              
+#!/bin/bash
 
 function sample {
     local sample_set_name=$1
@@ -17,4 +17,7 @@ function sample {
 }
 
 sample local 'http://localhost:8983/solr/findingaids/select'
-sample prod 'http://44.218.37.122:8080/solr/findingaids/select'
+# This is actually the dev Solr server, not prod, but we need to do the
+# comparison on the FABified Solr index, which currently only exists in dev.
+#sample prod 'http://44.216.225.190:8080/solr/findingaids/select'
+# sample prod 'http://44.218.37.122:8080/solr/findingaids/select'

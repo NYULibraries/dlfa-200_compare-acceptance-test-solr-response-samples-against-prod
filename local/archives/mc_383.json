@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Rachel Searcy"],
         "unittitle_ssm":["Constance Reid Collection of Richard Courant Oral History Interviews"],
-        "unitid_ssm":["MC.383",
-          "/repositories/6/resources/3490"],
+        "unitid_ssm":["MC.383"],
         "abstract_ssm":["Constance Reid (1918-2010) was a writer who specialized in biographies of mathematicians. The Constance Reid Collection of Richard Courant Oral History Interviews consists of oral history transcripts and some additional ephemera donated by Constance Reid to the Courant Institute Library."],
+        "creator_ssm":["Reid, Constance",
+          "Reid, Constance"],
         "unitdate_normal_ssm":["1973/1975"],
         "corpname_ssm":["New York University Archives",
           "Courant Institute of Mathematical Sciences. Library",
@@ -66,15 +67,15 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1973-1975"],
-        "_version_":1799251519877414912,
-        "timestamp":"2024-05-16T22:52:43.262Z"},
+        "_version_":1801950268412133376,
+        "timestamp":"2024-06-15T17:48:10.426Z"},
       {
         "id":"mc_383aspace_825ba903d71978fcc07e9e17028c6e46",
         "ead_ssi":"mc_383",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Constance Reid Collection of Richard Courant Oral History Interviews"],
-        "collection_unitid_ssm":["MC.383/repositories/6/resources/3490"],
+        "collection_unitid_ssm":["MC.383"],
         "unittitle_ssm":["Transcripts and Ephemera"],
         "unitid_ssm":["/repositories/6/archival_objects/989038"],
         "ref_ssi":"aspace_825ba903d71978fcc07e9e17028c6e46",
@@ -84,8 +85,8 @@
         "location_ssm":["Box: 1",
           "Box: 2"],
         "heading_ssm":["Transcripts and Ephemera"],
-        "_version_":1799251519902580736,
-        "timestamp":"2024-05-16T22:52:43.286Z"}]
+        "_version_":1801950268434153472,
+        "timestamp":"2024-06-15T17:48:10.447Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +94,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Reid, Constance",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

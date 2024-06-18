@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Sarah Lovell Papers"],
         "unitid_ssm":["TAM.459"],
+        "creator_ssm":["Lovell, Sarah",
+          "Lovell, Sarah"],
         "unitdate_normal_ssm":["1950/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Typographical Union. No. 6 (New York, N.Y.)",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1950s-1980s"],
         "language_ssm":["English"],
-        "_version_":1799791128383324160,
-        "timestamp":"2024-05-22T21:49:34.035Z"}]
+        "_version_":1802183133449158656,
+        "timestamp":"2024-06-18T07:29:27.83Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lovell, Sarah",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

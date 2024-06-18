@@ -47,6 +47,10 @@
         "unittitle_ssm":["Francis B. Stryker and John Delaplaine land conveynace"],
         "unitid_ssm":["1991.026"],
         "abstract_ssm":["A conveyance between Francis B. Stryker, Mayor of the City of Brooklyn, to John Delaplaine for property located in Brooklyn.  The property sold was located on Navy Stret in the Seventh Ward of Brooklyn. The conveyance is dated 1846."],
+        "creator_ssm":["Delaplaine, John",
+          "Stryker, Francis",
+          "Delaplaine, John",
+          "Stryker, Francis"],
         "unitdate_normal_ssm":["1846/1846"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Conveyances"],
@@ -67,8 +71,8 @@
         "unitdate_end_ssm":["1846"],
         "unitdate_ssm":["Inclusive, 1846"],
         "language_ssm":["English"],
-        "_version_":1799312233020260352,
-        "timestamp":"2024-05-17T14:57:43.827Z"}]
+        "_version_":1801963606234890240,
+        "timestamp":"2024-06-15T21:20:10.365Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +80,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Delaplaine, John",1,
+        "Stryker, Francis",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

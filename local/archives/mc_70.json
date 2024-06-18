@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":18,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["NYU Guest Books"],
         "unitid_ssm":["MC.70"],
         "abstract_ssm":["This collection consists of seven bound guest books recording visitors to New York University's (NYU) University Archives and other NYU locations."],
+        "creator_ssm":["New York University Archives",
+          "New York University Archives"],
         "unitdate_normal_ssm":["1911/1989"],
         "corpname_ssm":["New York University Archives",
           "New York University Archives"],
@@ -62,8 +64,8 @@
         "unitdate_start_ssm":["1911"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1911-1989"],
-        "_version_":1799247984845651968,
-        "timestamp":"2024-05-16T21:56:31.993Z"},
+        "_version_":1801950582740615168,
+        "timestamp":"2024-06-15T17:53:10.193Z"},
       {
         "id":"mc_70aspace_1c243fdd5c8d7d7db8d7d965545813e7",
         "ead_ssi":"mc_70",
@@ -77,14 +79,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-6",
-          "Folder: 1-6"],
+        "location_ssm":["Box: 1, Folder: 1-6"],
         "heading_ssm":["Guest books from University Archives, Brown House, and Washington Square University and College"],
         "unitdate_start_ssm":["1911"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1911-1989"],
-        "_version_":1799247984870817792,
-        "timestamp":"2024-05-16T21:56:32.017Z"}]
+        "_version_":1801950582759489536,
+        "timestamp":"2024-06-15T17:53:10.211Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +93,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University Archives",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[],

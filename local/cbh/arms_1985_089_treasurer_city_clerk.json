@@ -47,6 +47,10 @@
         "unittitle_ssm":["Brooklyn Treasurer and City Court Clerk receipt books"],
         "unitid_ssm":["1985.089"],
         "abstract_ssm":["This collection contains a receipt book of the Village of Brooklyn with entries for payments by John S. Doughty Jr., the Village Treasurer, dated 1827. Also included is a receipt book of the City Court Clerk of the City of Brooklyn with entries for payments to court officers, dated 1869"],
+        "creator_ssm":["Village of Brooklyn",
+          "Brooklyn (New York, N.Y.)",
+          "Village of Brooklyn",
+          "Brooklyn (New York, N.Y.)"],
         "unitdate_normal_ssm":["1827/1869"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Village of Brooklyn",
@@ -68,8 +72,8 @@
         "unitdate_end_ssm":["1869"],
         "unitdate_ssm":["Inclusive, 1827-1869"],
         "language_ssm":["English"],
-        "_version_":1799312447854608384,
-        "timestamp":"2024-05-17T15:01:08.709Z"}]
+        "_version_":1801963092334084096,
+        "timestamp":"2024-06-15T21:12:00.271Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +81,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn (New York, N.Y.)",1,
+        "Village of Brooklyn",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

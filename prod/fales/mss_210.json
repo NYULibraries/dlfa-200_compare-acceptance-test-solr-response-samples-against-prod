@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["An American Family DVD Collection"],
         "unitid_ssm":["MSS.210"],
         "abstract_ssm":["The An American Family Collection consists of 12 one-hour episodes of the 12-hour documentary, \"An American Family,\" that debuted on PBS-TV in early 1973. It consists of 12 DVDs."],
+        "creator_ssm":["Raymond, Susan",
+          "Raymond, Alan",
+          "Raymond, Susan",
+          "Raymond, Alan"],
         "unitdate_normal_ssm":["1973/1973"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "famname_ssm":["Loud Family"],
@@ -63,8 +67,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["1973"],
-        "_version_":1775220982064087040,
-        "timestamp":"2023-08-25T16:57:36.539Z"},
+        "_version_":1800894900664795136,
+        "timestamp":"2024-06-04T02:13:33.311Z"},
       {
         "id":"mss_210aspace_ref10",
         "ead_ssi":"mss_210",
@@ -84,8 +88,8 @@
         "location_ssm":["case: 210.0002"],
         "heading_ssm":["An American Family, Episode #102"],
         "unitdate_ssm":["1971"],
-        "_version_":1775220982188867584,
-        "timestamp":"2023-08-25T16:57:36.659Z"},
+        "_version_":1800894900701495296,
+        "timestamp":"2024-06-04T02:13:33.346Z"},
       {
         "id":"mss_210aspace_ref11",
         "ead_ssi":"mss_210",
@@ -105,8 +109,8 @@
         "location_ssm":["case: 210.0003"],
         "heading_ssm":["An American Family, Episode #103"],
         "unitdate_ssm":["1971"],
-        "_version_":1775220982252830720,
-        "timestamp":"2023-08-25T16:57:36.72Z"},
+        "_version_":1800894900721418240,
+        "timestamp":"2024-06-04T02:13:33.364Z"},
       {
         "id":"mss_210aspace_ref12",
         "ead_ssi":"mss_210",
@@ -126,8 +130,8 @@
         "location_ssm":["case: 210.0004"],
         "heading_ssm":["An American Family, Episode #104"],
         "unitdate_ssm":["1971"],
-        "_version_":1775220982291628032,
-        "timestamp":"2023-08-25T16:57:36.757Z"},
+        "_version_":1800894900737146880,
+        "timestamp":"2024-06-04T02:13:33.38Z"},
       {
         "id":"mss_210aspace_ref13",
         "ead_ssi":"mss_210",
@@ -147,8 +151,8 @@
         "location_ssm":["case: 210.0005"],
         "heading_ssm":["An American Family, Episode #105"],
         "unitdate_ssm":["1971"],
-        "_version_":1775220982344056832,
-        "timestamp":"2023-08-25T16:57:36.806Z"},
+        "_version_":1800894900749729792,
+        "timestamp":"2024-06-04T02:13:33.392Z"},
       {
         "id":"mss_210aspace_ref14",
         "ead_ssi":"mss_210",
@@ -168,8 +172,8 @@
         "location_ssm":["case: 210.0006"],
         "heading_ssm":["An American Family, Episode #106"],
         "unitdate_ssm":["1971"],
-        "_version_":1775220982413262848,
-        "timestamp":"2023-08-25T16:57:36.872Z"},
+        "_version_":1800894900763361280,
+        "timestamp":"2024-06-04T02:13:33.405Z"},
       {
         "id":"mss_210aspace_ref15",
         "ead_ssi":"mss_210",
@@ -189,8 +193,8 @@
         "location_ssm":["case: 210.0007"],
         "heading_ssm":["An American Family, Episode #107"],
         "unitdate_ssm":["1971"],
-        "_version_":1775220982465691648,
-        "timestamp":"2023-08-25T16:57:36.922Z"},
+        "_version_":1800894900776992768,
+        "timestamp":"2024-06-04T02:13:33.418Z"},
       {
         "id":"mss_210aspace_ref16",
         "ead_ssi":"mss_210",
@@ -210,8 +214,8 @@
         "location_ssm":["case: 210.0008"],
         "heading_ssm":["An American Family, Episode #108"],
         "unitdate_ssm":["1971"],
-        "_version_":1775220982527557632,
-        "timestamp":"2023-08-25T16:57:36.982Z"},
+        "_version_":1800894900790624256,
+        "timestamp":"2024-06-04T02:13:33.431Z"},
       {
         "id":"mss_210aspace_ref17",
         "ead_ssi":"mss_210",
@@ -231,8 +235,8 @@
         "location_ssm":["case: 210.0009"],
         "heading_ssm":["An American Family, Episode #109"],
         "unitdate_ssm":["1971"],
-        "_version_":1775220982573694976,
-        "timestamp":"2023-08-25T16:57:37.026Z"},
+        "_version_":1800894900804255744,
+        "timestamp":"2024-06-04T02:13:33.444Z"},
       {
         "id":"mss_210aspace_ref18",
         "ead_ssi":"mss_210",
@@ -252,8 +256,8 @@
         "location_ssm":["case: 210.0010"],
         "heading_ssm":["An American Family, Episode #110"],
         "unitdate_ssm":["1971"],
-        "_version_":1775220982625075200,
-        "timestamp":"2023-08-25T16:57:37.075Z"},
+        "_version_":1800894900822081536,
+        "timestamp":"2024-06-04T02:13:33.461Z"},
       {
         "id":"mss_210aspace_ref19",
         "ead_ssi":"mss_210",
@@ -273,8 +277,8 @@
         "location_ssm":["case: 210.0011"],
         "heading_ssm":["An American Family, Episode #111"],
         "unitdate_ssm":["1971"],
-        "_version_":1775220982664921088,
-        "timestamp":"2023-08-25T16:57:37.113Z"},
+        "_version_":1800894900853538816,
+        "timestamp":"2024-06-04T02:13:33.491Z"},
       {
         "id":"mss_210aspace_ref20",
         "ead_ssi":"mss_210",
@@ -294,8 +298,8 @@
         "location_ssm":["case: 210.0012"],
         "heading_ssm":["An American Family, Episode #112"],
         "unitdate_ssm":["1971"],
-        "_version_":1775220982703718401,
-        "timestamp":"2023-08-25T16:57:37.15Z"},
+        "_version_":1800894900871364608,
+        "timestamp":"2024-06-04T02:13:33.508Z"},
       {
         "id":"mss_210aspace_ref8",
         "ead_ssi":"mss_210",
@@ -310,8 +314,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I: Videos"],
         "unitdate_ssm":["1971"],
-        "_version_":1775220982101835776,
-        "timestamp":"2023-08-25T16:57:36.576Z"},
+        "_version_":1800894900676329472,
+        "timestamp":"2024-06-04T02:13:33.322Z"},
       {
         "id":"mss_210aspace_ref9",
         "ead_ssi":"mss_210",
@@ -331,8 +335,8 @@
         "location_ssm":["case: 210.0001"],
         "heading_ssm":["An American Family, Episode #101"],
         "unitdate_ssm":["1971"],
-        "_version_":1775220982139584512,
-        "timestamp":"2023-08-25T16:57:36.611Z"}]
+        "_version_":1800894900688912384,
+        "timestamp":"2024-06-04T02:13:33.334Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -340,7 +344,9 @@
       "repository_sim":[
         "fales",14],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Raymond, Alan",1,
+        "Raymond, Susan",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",13],

@@ -47,6 +47,8 @@
         "unittitle_ssm":["James and Georganne Garfinkel collection of photography"],
         "unitid_ssm":["PR 380"],
         "abstract_ssm":["This collection, assembled and donated by James and Georganne Garfinkel, contains four sets of photographs: 39 cyanotypes of the construction of the Manhattan Bridge (1913-1922); \ntheatrical portraits taken by Nicholas Muray of Muray Studio, N.Y. (1920-1925); portraits of Marilyn Monroe by Andre de Dienes (1949-1953); and photos of celebrities by photojournalist Ken Regan (1977-1982)."],
+        "creator_ssm":["Garfinkel, James",
+          "Garfinkel, James"],
         "corpname_ssm":["New-York Historical Society"],
         "geogname_ssm":["Manhattan Bridge (New York, N.Y.)"],
         "persname_ssm":["Garfinkel, James",
@@ -64,8 +66,8 @@
         "heading_ssm":["James and Georganne Garfinkel collection of photography"],
         "unitdate_ssm":["Inclusive, 1920-1982"],
         "language_ssm":["English"],
-        "_version_":1799316224490864640,
-        "timestamp":"2024-05-17T16:01:10.39Z"},
+        "_version_":1802094478474870784,
+        "timestamp":"2024-06-17T08:00:19.858Z"},
       {
         "id":"pr380_james_garfinkelaspace_1509efe21f19ea42a70c105ef3c779c0",
         "ead_ssi":"pr380_james_garfinkel",
@@ -78,12 +80,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 2, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Offsite-Box: 2, Folder: 1"],
         "heading_ssm":["Andre de Dienes Portraits"],
         "unitdate_ssm":["Inclusive, 1949-1953"],
-        "_version_":1799316224596770816,
-        "timestamp":"2024-05-17T16:01:10.491Z"},
+        "_version_":1802094478523105280,
+        "timestamp":"2024-06-17T08:00:19.905Z"},
       {
         "id":"pr380_james_garfinkelaspace_ref374_7h6",
         "ead_ssi":"pr380_james_garfinkel",
@@ -96,12 +97,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Offsite-Box: 1, Folder: 3"],
         "heading_ssm":["Muray Studio Portraits"],
         "unitdate_ssm":["Inclusive, circa 1920-1927"],
-        "_version_":1799316224554827776,
-        "timestamp":"2024-05-17T16:01:10.451Z"},
+        "_version_":1802094478495842304,
+        "timestamp":"2024-06-17T08:00:19.878Z"},
       {
         "id":"pr380_james_garfinkelaspace_ref376_l2r",
         "ead_ssi":"pr380_james_garfinkel",
@@ -114,12 +114,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Offsite-Box: 1, Folder: 4"],
         "heading_ssm":["Ken Regan Portraits"],
         "unitdate_ssm":["Inclusive, 1977-1982, undated"],
-        "_version_":1799316224648151040,
-        "timestamp":"2024-05-17T16:01:10.54Z"}]
+        "_version_":1802094478547222528,
+        "timestamp":"2024-06-17T08:00:19.928Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -127,7 +126,8 @@
       "repository_sim":[
         "nyhs",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Garfinkel, James",1],
       "date_range_sim":[
         "undated & other",4],
       "subject_sim":[],

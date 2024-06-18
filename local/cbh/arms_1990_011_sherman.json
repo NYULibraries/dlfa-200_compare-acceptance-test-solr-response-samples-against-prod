@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Joseph V. Sherman papers"],
         "unitid_ssm":["1990.011"],
         "abstract_ssm":["This collection contains the personal papers of Joseph V. Sherman, a consulting economist and writer. Items include bank drafts, hotel receipts from Brooklyn's Hotel St. George, correspondence, miltary induction papers, certificates of draft registration, and signed letters from Richard M. Nixon, Eugene McCarthy, and Carol Bellamy. The papers span the period 1937 to 1974 and measure 0.1 linear feet"],
+        "creator_ssm":["Nixon, Richard M. (Richard Milhous)",
+          "Sherman, Joseph V.",
+          "Nixon, Richard M. (Richard Milhous)",
+          "Sherman, Joseph V."],
         "unitdate_normal_ssm":["1937/1974"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Certificates",
@@ -75,8 +79,8 @@
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, 1937-1974"],
         "language_ssm":["English"],
-        "_version_":1799312275072352256,
-        "timestamp":"2024-05-17T14:58:23.93Z"}]
+        "_version_":1801963513991659520,
+        "timestamp":"2024-06-15T21:18:42.395Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +88,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nixon, Richard M. (Richard Milhous)",1,
+        "Sherman, Joseph V.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Theatre playbill copy"],
         "unitid_ssm":["1980.011"],
         "abstract_ssm":["A newspaper copy of the original playbill for \"The Two Orphans\" on December 5, 1876 at the Brooklyn Theatre, during which the Brooklyn Theatre fire killed 300 people."],
+        "creator_ssm":["Brooklyn Theatre (Theater company : New York, N.Y.)",
+          "Brooklyn Theatre (Theater company : New York, N.Y.)"],
         "unitdate_normal_ssm":["1876/1877"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Theatre (Theater company : New York, N.Y.)",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1877"],
         "unitdate_ssm":["Inclusive, circa 1877"],
         "language_ssm":["English"],
-        "_version_":1799256450497773568,
-        "timestamp":"2024-05-17T00:11:05.467Z"}]
+        "_version_":1801962795316543488,
+        "timestamp":"2024-06-15T21:07:17.013Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Theatre (Theater company : New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

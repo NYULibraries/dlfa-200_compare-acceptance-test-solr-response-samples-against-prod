@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Confederated Spanish Societies (Sociedades Hispanas Confederadas) Records"],
         "unitid_ssm":["ALBA.160"],
         "abstract_ssm":["The Confederated Spanish Societies (Sociedades Hispanas Confederadas) was an umbrella organization established during the Spanish Civil War to coordinate fundraising efforts on behalf of Republican factions, often thorugh events like dances, rallies, performances, or soccer matches. This unprocessed collection consists of records from the early 1960s including meeting minutes; publicity materials directed at the American public; correspondence from sympathizers; correspondence concerning the Societies' publication, Espana Libre; correspondence directed at American, Spanish, and United Nations officials concerning the treatment of Republican prisoners."],
+        "creator_ssm":["Sociedades Hispanas Confederadas de los Estados Unidos de Norte América",
+          "Sociedades Hispanas Confederadas de los Estados Unidos de Norte América"],
         "unitdate_normal_ssm":["1960/1961"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Sociedades Hispanas Confederadas de los Estados Unidos de Norte América"],
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1961"],
         "unitdate_ssm":["Inclusive, 1960-1961"],
-        "_version_":1799747962047299584,
-        "timestamp":"2024-05-22T10:23:27.409Z"},
+        "_version_":1802111209773727744,
+        "timestamp":"2024-06-17T12:26:16.069Z"},
       {
         "id":"alba_160aspace_85695a4781131ede30804bc7dd3618dc",
         "ead_ssi":"alba_160",
@@ -79,8 +81,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Box 1"],
-        "_version_":1799747962059882496,
-        "timestamp":"2024-05-22T10:23:27.421Z"}]
+        "_version_":1802111209802039296,
+        "timestamp":"2024-06-17T12:26:16.096Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sociedades Hispanas Confederadas de los Estados Unidos de Norte América",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

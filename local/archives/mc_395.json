@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Danielle Nista and Rachel Searcy"],
         "unittitle_ssm":["Robert Matz Collection of New York University Postcards"],
-        "unitid_ssm":["MC.395",
-          "/repositories/6/resources/3499"],
+        "unitid_ssm":["MC.395"],
         "abstract_ssm":["Dr. Robert Matz is an alumnus of New York University. The Robert Matz Collection of New York University Postcards consists of postcards collected by Dr. Robert Matz documenting the University Heights and Washington Square campuses. Most of the postcards date from the early 1900s. The Gould Memorial Library, the Hall of Fame of Great Americans, and the Loeb Student Student are depicted in many of the postcards, alongside other NYU buildings and programs. The majority of the postcards are blank, but some contain handwritten messages."],
+        "creator_ssm":["Matz, Robert",
+          "Matz, Robert"],
         "unitdate_normal_ssm":["1905/1999",
           "1905/1920"],
         "corpname_ssm":["New York University Archives",
@@ -71,15 +72,15 @@
         "unitdate_end_ssm":["1999",
           "1920"],
         "unitdate_ssm":["Inclusive, 1905-1990s ; 1905-1920"],
-        "_version_":1799248917420834816,
-        "timestamp":"2024-05-16T22:11:21.366Z"},
+        "_version_":1801950315871731712,
+        "timestamp":"2024-06-15T17:48:55.687Z"},
       {
         "id":"mc_395aspace_ec4b8d4428b8a53b97370fccddd44ce6",
         "ead_ssi":"mc_395",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Robert Matz Collection of New York University Postcards"],
-        "collection_unitid_ssm":["MC.395/repositories/6/resources/3499"],
+        "collection_unitid_ssm":["MC.395"],
         "unittitle_ssm":["Postcards"],
         "unitid_ssm":["/repositories/6/archival_objects/989724"],
         "unitdate_normal_ssm":["1905/1999",
@@ -88,15 +89,14 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-2",
-          "Folder: 1-2"],
+        "location_ssm":["Box: 1, Folder: 1-2"],
         "heading_ssm":["Postcards"],
         "unitdate_start_ssm":["1905"],
         "unitdate_end_ssm":["1999",
           "1920"],
         "unitdate_ssm":["Inclusive, 1905-1990s ; 1905-1920"],
-        "_version_":1799248917440757760,
-        "timestamp":"2024-05-16T22:11:21.385Z"}]
+        "_version_":1801950315897946112,
+        "timestamp":"2024-06-15T17:48:55.712Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -104,7 +104,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Matz, Robert",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

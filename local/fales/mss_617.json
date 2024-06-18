@@ -47,6 +47,8 @@
         "unittitle_ssm":["Autonomedia Archived Websites"],
         "unitid_ssm":["MSS.617"],
         "abstract_ssm":["Autonomedia, founded in 1984, is a North American publisher of radical theoretical works. The collection consists of their main website, online bookstore, and their online forum, the InterActivist Info Exchange. The websites were collected from 2007-2017."],
+        "creator_ssm":["Autonomedia.",
+          "Autonomedia."],
         "unitdate_normal_ssm":["2007-09/2017-11"],
         "corpname_ssm":["Fales Library and Special Collections",
           "Autonomedia."],
@@ -62,8 +64,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Autonomedia Archived Websites"],
         "unitdate_ssm":["Inclusive, September 2007-November 2017"],
-        "_version_":1799745473176666112,
-        "timestamp":"2024-05-22T09:43:53.836Z"},
+        "_version_":1802081730919661568,
+        "timestamp":"2024-06-17T04:37:42.843Z"},
       {
         "id":"mss_617aspace_d8fa7e183fcb0e083ad737fd6e3be270",
         "ead_ssi":"mss_617",
@@ -85,8 +87,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["Inclusive, September 2007-November 2017"],
-        "_version_":1799745473194491904,
-        "timestamp":"2024-05-22T09:43:53.854Z"}]
+        "_version_":1802081730939584512,
+        "timestamp":"2024-06-17T04:37:42.862Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +97,8 @@
         "fales",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Autonomedia.",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

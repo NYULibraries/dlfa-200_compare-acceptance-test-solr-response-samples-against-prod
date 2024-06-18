@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Hooper lecture transcription"],
         "unitid_ssm":["1977.662"],
         "abstract_ssm":["A transcription of a lecture by John Hooper, \"The Birds of Long Island,\" delivered at the Long Island Historical Society on April 29, 1865."],
+        "creator_ssm":["Hooper, John",
+          "Hooper, John"],
         "unitdate_normal_ssm":["1865/1865"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island Historical Society",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["1865"],
         "language_ssm":["English"],
-        "_version_":1799256450452684800,
-        "timestamp":"2024-05-17T00:11:05.425Z"}]
+        "_version_":1801962174824841216,
+        "timestamp":"2024-06-15T20:57:25.266Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hooper, John",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

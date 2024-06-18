@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Miriam Allen De Ford Papers Relating to Maynard Shipley"],
         "unitid_ssm":["TAM.223"],
+        "creator_ssm":["De Ford, Miriam Allen, 1888-1975",
+          "De Ford, Miriam Allen, 1888-1975"],
         "unitdate_normal_ssm":["1920/1959"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Correspondence.",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, Circa 1950s"],
         "language_ssm":["English"],
-        "_version_":1799782385577885696,
-        "timestamp":"2024-05-22T19:30:36.246Z"}]
+        "_version_":1802171199123357696,
+        "timestamp":"2024-06-18T04:19:46.371Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "De Ford, Miriam Allen, 1888-1975",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

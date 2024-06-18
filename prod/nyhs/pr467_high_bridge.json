@@ -66,8 +66,8 @@
         "material_type_ssm":["Black-and-white photographs."],
         "heading_ssm":["High Bridge construction photographs"],
         "unitdate_ssm":["1928"],
-        "_version_":1793623896827625472,
-        "timestamp":"2024-03-15T20:04:03.697Z"},
+        "_version_":1801082070756229120,
+        "timestamp":"2024-06-06T03:48:32.619Z"},
       {
         "id":"pr467_high_bridgeaspace_3df622e2a719ad791223414889ce6e0a",
         "ead_ssi":"pr467_high_bridge",
@@ -83,8 +83,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["High Bridge construction photographs"],
         "unitdate_ssm":["1928"],
-        "_version_":1793623896842305536,
-        "timestamp":"2024-03-15T20:04:03.711Z"}]
+        "_version_":1801082070771957760,
+        "timestamp":"2024-06-06T03:48:32.635Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

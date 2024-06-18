@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["New York State Militia, 22nd Brigade general order books"],
         "unitid_ssm":["1977.191"],
         "abstract_ssm":["Two handwritten bound volumes of general orders for the 22nd Brigade of the New York State Militia, issued by Brigadier General Jeremiah Johnson.  The order books date from 1814 to 1815."],
+        "creator_ssm":["New York (State). Militia. Brigade, 22nd",
+          "Johnson, Jeremiah",
+          "New York (State). Militia. Brigade, 22nd",
+          "Johnson, Jeremiah"],
         "unitdate_normal_ssm":["1814/1815"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Militia. Brigade, 22nd",
@@ -70,8 +74,8 @@
         "unitdate_end_ssm":["1815"],
         "unitdate_ssm":["Inclusive, 1814-1815"],
         "language_ssm":["English"],
-        "_version_":1799311678200872960,
-        "timestamp":"2024-05-17T14:48:54.71Z"}]
+        "_version_":1801960899600187392,
+        "timestamp":"2024-06-15T20:37:09.116Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +83,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Johnson, Jeremiah",1,
+        "New York (State). Militia. Brigade, 22nd",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

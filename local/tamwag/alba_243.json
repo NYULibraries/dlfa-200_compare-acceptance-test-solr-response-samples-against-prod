@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Vaughn Love Papers"],
         "unitid_ssm":["ALBA.243"],
+        "creator_ssm":["Love, Vaughn",
+          "Love, Vaughn"],
         "unitdate_normal_ssm":["1982/1982"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Love, Vaughn"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1982"],
         "unitdate_ssm":["1982"],
         "language_ssm":["English"],
-        "_version_":1799748097439432704,
-        "timestamp":"2024-05-22T10:25:36.529Z"},
+        "_version_":1802111458307211264,
+        "timestamp":"2024-06-17T12:30:13.089Z"},
       {
         "id":"alba_243aspace_ebaabf52fb2f907268d6dbcbd6ce965b",
         "ead_ssi":"alba_243",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799748097452015616,
-        "timestamp":"2024-05-22T10:25:36.541Z"}]
+        "_version_":1802111458334474240,
+        "timestamp":"2024-06-17T12:30:13.115Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Love, Vaughn",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

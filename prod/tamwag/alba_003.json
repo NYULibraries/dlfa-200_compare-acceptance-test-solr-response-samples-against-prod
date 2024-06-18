@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Randall Smith: Veterans of the Abraham Lincoln Brigade Historical Commission Records"],
         "unitid_ssm":["ALBA.003"],
+        "creator_ssm":["Smith, Randall, 1917-1989",
+          "Smith, Randall, 1917-1989"],
         "unitdate_normal_ssm":["1970/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Smith, Randall, 1917-1989"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1970s-1980s"],
         "language_ssm":["English"],
-        "_version_":1775223227291795456,
-        "timestamp":"2023-08-25T17:33:17.756Z"}]
+        "_version_":1801121707069538304,
+        "timestamp":"2024-06-06T14:18:32.754Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Smith, Randall, 1917-1989",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

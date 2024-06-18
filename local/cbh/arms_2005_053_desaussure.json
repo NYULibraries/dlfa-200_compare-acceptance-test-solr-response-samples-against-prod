@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Mary DeSaussure Sobers collection"],
         "unitid_ssm":["2005.053"],
         "abstract_ssm":["The Mary DeSaussure Sobers collection contains materials concerning Sobers's track career. Materials include correspondence, programs, publications, newspaper clippings, and photographs. Also included are three of Sobers's track medals from 1945."],
+        "creator_ssm":["Sobers, Mary DeSaussure",
+          "Sobers, Mary DeSaussure"],
         "unitdate_normal_ssm":["1945/2002"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Programs (documents)",
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1945-2002"],
         "language_ssm":["English"],
-        "_version_":1799311486248550400,
-        "timestamp":"2024-05-17T14:45:51.649Z"}]
+        "_version_":1801963924901330944,
+        "timestamp":"2024-06-15T21:25:14.269Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sobers, Mary DeSaussure",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

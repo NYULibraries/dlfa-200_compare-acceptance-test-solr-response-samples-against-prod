@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Fire Department ledgers"],
         "unitid_ssm":["1990.004"],
         "abstract_ssm":["This collection contains two record books of the Brooklyn Fire Department, one pertaining to Engine Company No. 1 (dated 1898-1899), and the other pertaining to Engine Company #40 (dated 1910). The ledgers contain day-by-day logs of each engine company's activities, including responses to fires and other emergencies. The date and time of day for each activity logged are included in both ledgers."],
+        "creator_ssm":["Brooklyn (New York, N.Y.). Fire Dept",
+          "Brooklyn (New York, N.Y.). Fire Dept"],
         "unitdate_normal_ssm":["1898/1910"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn (New York, N.Y.). Fire Dept"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, 1898-1910"],
         "language_ssm":["English"],
-        "_version_":1799311436141297664,
-        "timestamp":"2024-05-17T14:45:03.864Z"}]
+        "_version_":1801963496043184128,
+        "timestamp":"2024-06-15T21:18:25.278Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn (New York, N.Y.). Fire Dept",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

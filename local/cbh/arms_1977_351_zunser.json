@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Helen Zunser Wortis collection"],
         "unitid_ssm":["1977.351"],
         "abstract_ssm":["The Helen Zunser Wortis collection contains research materials compiled by Wortis during the period 1943 to 1976 while researcing African American history on Long Island and Shelter Island history.  The research is mostly dedicated to slavery and the African American population on Long Island."],
+        "creator_ssm":["Wortis, Helen Zunser",
+          "Wortis, Helen Zunser"],
         "unitdate_normal_ssm":["1600/1976"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence",
@@ -80,8 +82,8 @@
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1600-1976"],
         "language_ssm":["English"],
-        "_version_":1799256214744334336,
-        "timestamp":"2024-05-17T00:07:20.635Z"}]
+        "_version_":1801961405413326848,
+        "timestamp":"2024-06-15T20:45:11.498Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wortis, Helen Zunser",1],
       "date_range_sim":[
         "1501-1600",1,
         "1901-2000",1],

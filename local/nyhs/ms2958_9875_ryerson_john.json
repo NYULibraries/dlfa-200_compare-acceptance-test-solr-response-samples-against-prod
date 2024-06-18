@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["John H. and Catharine R. Ryerson deed to Absalom L. Anderson"],
         "unitid_ssm":["AHMC - Ryerson, John H."],
         "abstract_ssm":["Indenture transferring a parcel of land in Manhattan from John H. Ryerson and his wife, Catharine R. Ryerson, to Absalom L. Anderson. For further details about this item, and to request it for research, please read its catalog record, or write to reference@nyhistory.org."],
+        "creator_ssm":["Ryerson, John H., active 1867",
+          "Ryerson, John H., active 1867"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Ryerson, John H., active 1867"],
         "collection_ssm":["John H. and Catharine R. Ryerson deed to Absalom L. Anderson"],
@@ -56,8 +58,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["John H. and Catharine R. Ryerson deed to Absalom L. Anderson"],
         "unitdate_ssm":["1867 October 18"],
-        "_version_":1799322467953541120,
-        "timestamp":"2024-05-17T17:40:24.62Z"}]
+        "_version_":1802083916542115840,
+        "timestamp":"2024-06-17T05:12:27.215Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -65,7 +67,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ryerson, John H., active 1867",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

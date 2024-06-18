@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lutheran Hospital of Brooklyn collection"],
         "unitid_ssm":["2006.032"],
         "abstract_ssm":["The Luthern Hospital of Brooklyn collection spans the period 1881 to 1978 and measures 0.82 linear feet. The collection contains newsletters, newspaper clippings concerning the hospital, fundraising seals, and other printed ephemera. The bulk of the collection consists of over 200 black and white photographs of the hospital, its patients, and its staff. A large portion of the photos date from the 1950s and depict hospital patients, staff and board members, and events held at the hospital. Also included are photographs depicting the construction of a new hospital building in 1927."],
+        "creator_ssm":["Lutheran Hospital (Brooklyn, New York, N.Y.)",
+          "Lutheran Hospital (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1881/1978"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Lutheran Hospital (Brooklyn, New York, N.Y.)",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1881-1978"],
         "language_ssm":["English"],
-        "_version_":1799311494219825152,
-        "timestamp":"2024-05-17T14:45:59.252Z"}]
+        "_version_":1801963954291867648,
+        "timestamp":"2024-06-15T21:25:42.298Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lutheran Hospital (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

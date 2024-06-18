@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff, 2009"],
         "unittitle_ssm":["Theresa Branstetter Taft Papers"],
         "unitid_ssm":["TAM.031"],
+        "creator_ssm":["Taft, Theresa Branstetter",
+          "Taft, Theresa Branstetter"],
         "unitdate_normal_ssm":["1911/1934"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Taft, Theresa Branstetter",
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1934"],
         "unitdate_ssm":["Inclusive, 1911-1934"],
         "language_ssm":["English"],
-        "_version_":1799776972698550272,
-        "timestamp":"2024-05-22T18:04:34.122Z"}]
+        "_version_":1802167303227310080,
+        "timestamp":"2024-06-18T03:17:50.955Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Taft, Theresa Branstetter",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

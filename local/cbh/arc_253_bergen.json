@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Teunis G. Bergen Kings County history collection"],
         "unitid_ssm":["ARC.253"],
         "abstract_ssm":["This collection contains an 1881 copy of Early Settlers of Kings County by Teunis G. Bergen, containing genealogical and biographical information on the early families of Kings County from circa 1650 to 1780."],
+        "creator_ssm":["Bergen, Teunis G.",
+          "Bergen, Teunis G."],
         "unitdate_normal_ssm":["1640/1911"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Schenk family",
@@ -89,8 +91,8 @@
         "unitdate_end_ssm":["1911"],
         "unitdate_ssm":["Inclusive, circa 1650 to 1901"],
         "language_ssm":["English"],
-        "_version_":1799311711307563008,
-        "timestamp":"2024-05-17T14:49:26.283Z"}]
+        "_version_":1801959597242580992,
+        "timestamp":"2024-06-15T20:16:27.092Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -98,7 +100,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bergen, Teunis G.",1],
       "date_range_sim":[
         "1601-1700",1,
         "1901-2000",1],

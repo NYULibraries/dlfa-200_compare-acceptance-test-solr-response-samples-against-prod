@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Wyandanch and Henry Whitnee land deed"],
         "unitid_ssm":["1977.366"],
         "abstract_ssm":["A photocopy of a deed documenting the sale of land by Wyandanch (often spelled Wyandance), Sachem (Chief) of the Montaukett (Montauk) Native Americans on Long Island, to Henry Whitnee of the town of Huntington."],
+        "creator_ssm":["Wyandanch, Sachem, circa 1620-1659",
+          "Whitnee, Henry",
+          "Wyandanch, Sachem, circa 1620-1659",
+          "Whitnee, Henry"],
         "unitdate_normal_ssm":["1658/1658"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Huntington (N.Y.)"],
@@ -69,8 +73,8 @@
         "unitdate_end_ssm":["1658"],
         "unitdate_ssm":["1658"],
         "language_ssm":["English"],
-        "_version_":1783298224126164992,
-        "timestamp":"2023-11-22T20:41:54.842Z"}]
+        "_version_":1800706780515270656,
+        "timestamp":"2024-06-02T00:23:27.956Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +82,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Whitnee, Henry",1,
+        "Wyandanch, Sachem, circa 1620-1659",1],
       "date_range_sim":[
         "1601-1700",1],
       "subject_sim":[

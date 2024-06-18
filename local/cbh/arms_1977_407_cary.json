@@ -47,6 +47,8 @@
         "unittitle_ssm":["Mary E. Cary letter"],
         "unitid_ssm":["1977.407"],
         "abstract_ssm":["One typed transcript of a letter from Mary E. Cary to her sister in Boston, MA describing a fire that destroyed much of downtown Brooklyn on September 9, 1848."],
+        "creator_ssm":["Cary, Mary E.",
+          "Cary, Mary E."],
         "unitdate_normal_ssm":["1848/1848"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1848"],
         "unitdate_ssm":["1848"],
         "language_ssm":["English"],
-        "_version_":1799256466567200768,
-        "timestamp":"2024-05-17T00:11:20.793Z"}]
+        "_version_":1801961581996670976,
+        "timestamp":"2024-06-15T20:47:59.901Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cary, Mary E.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Crown Publishers photographs of Brooklyn"],
         "unitid_ssm":["V1987.011"],
         "abstract_ssm":["The images were included in When Brooklyn Was the World by Elliot Willensky, originally published by Crown Publishers in 1986. Images of buildings, people, transportation, neighborhoods, public events, recreation, and parks are included in the collection, as are images of Coney Island, and the New York Naval Shipyard (now the Brooklyn Navy Yard), among others."],
+        "creator_ssm":["Crown Publishers",
+          "Crown Publishers"],
         "unitdate_normal_ssm":["1910/1970"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Crown Publishers",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, circa 1920 to 1960"],
         "language_ssm":["English"],
-        "_version_":1799256201198829568,
-        "timestamp":"2024-05-17T00:07:07.718Z"}]
+        "_version_":1802045131815124992,
+        "timestamp":"2024-06-16T18:55:59.217Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Crown Publishers",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

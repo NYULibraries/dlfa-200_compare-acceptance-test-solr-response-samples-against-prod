@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Henry W. Slocum military report"],
         "unitid_ssm":["1973.098"],
         "abstract_ssm":["One report written by Henry W. Slocum in his capacity as Major General of the Army of Georgia during the Civil War.  The report, addressed to Major L.M. Dayton, Assistant Adjutant General of the Military Division of the Mississippi, is written from the Goldsboro, N.C. headquarters of the Left Wing of the Army of Georgia and details the Left Wing's activities and operations from December 21, 1864 to March 30, 1865."],
+        "creator_ssm":["Slocum, Henry Warner",
+          "Slocum, Henry Warner"],
         "unitdate_normal_ssm":["1865/1865"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Army. Army of Georgia"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["Inclusive, 1865"],
         "language_ssm":["English"],
-        "_version_":1799256201975824384,
-        "timestamp":"2024-05-17T00:07:08.459Z"}]
+        "_version_":1801959937827405824,
+        "timestamp":"2024-06-15T20:21:51.899Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Slocum, Henry Warner",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

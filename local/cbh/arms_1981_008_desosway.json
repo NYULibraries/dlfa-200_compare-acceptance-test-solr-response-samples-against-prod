@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Cornelius Desosway receipt fragment"],
         "unitid_ssm":["1981.008"],
         "abstract_ssm":["Handwritten fragment of a receipt, dated 1820, between Cornelius Desosway and an individual residing in New York City whose first name is Gerardus.  The surname of the second individual is not included on the fragment."],
+        "creator_ssm":["Desosway, Cornelius",
+          "Desosway, Cornelius"],
         "unitdate_normal_ssm":["1820/1820"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Receipts (financial records)"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1820"],
         "unitdate_ssm":["Inclusive, 1820"],
         "language_ssm":["English"],
-        "_version_":1799312464099147776,
-        "timestamp":"2024-05-17T15:01:24.201Z"}]
+        "_version_":1801962875573501952,
+        "timestamp":"2024-06-15T21:08:33.552Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Desosway, Cornelius",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Bob Gore photographs"],
         "unitid_ssm":["PR 424"],
         "abstract_ssm":["The collection includes 11 16x20 inch, color photographic prints from Bob Gore's series of images of Brooklyn's West Indian American Parade (2017) and of the social justice protests in New York in response to the killing of George Floyd (2020)."],
+        "creator_ssm":["Gore, Bob (photographer)",
+          "Gore, Bob (photographer)"],
         "corpname_ssm":["New-York Historical Society",
           "West Indian American Day Carnival Parade (Brooklyn, N.Y.) [111]"],
         "genreform_ssm":["Color photographs."],
@@ -63,8 +65,8 @@
         "material_type_ssm":["Color photographs."],
         "heading_ssm":["Bob Gore photographs"],
         "unitdate_ssm":["Inclusive, 2017, 2020"],
-        "_version_":1799323407947399168,
-        "timestamp":"2024-05-17T17:55:21.068Z"},
+        "_version_":1802094697083043840,
+        "timestamp":"2024-06-17T08:03:48.339Z"},
       {
         "id":"pr424_bob_goreaspace_0614bd889aaa4362d7a43e4ba7574c54",
         "ead_ssi":"pr424_bob_gore",
@@ -83,8 +85,8 @@
         "location_ssm":["Folder: FF-2"],
         "heading_ssm":["#8 - the army vet"],
         "unitdate_ssm":["2020"],
-        "_version_":1799323408097345536,
-        "timestamp":"2024-05-17T17:55:21.211Z"},
+        "_version_":1802094697265496064,
+        "timestamp":"2024-06-17T08:03:48.514Z"},
       {
         "id":"pr424_bob_goreaspace_0ecb19c1bb6d79598bf773803210a2cf",
         "ead_ssi":"pr424_bob_gore",
@@ -103,8 +105,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["5. Woman in multicolored costume with winglike structures"],
         "unitdate_ssm":["2017"],
-        "_version_":1799323408042819584,
-        "timestamp":"2024-05-17T17:55:21.159Z"},
+        "_version_":1802094697199435776,
+        "timestamp":"2024-06-17T08:03:48.451Z"},
       {
         "id":"pr424_bob_goreaspace_3107855032006f40adc9f076f0a23dc9",
         "ead_ssi":"pr424_bob_gore",
@@ -123,8 +125,8 @@
         "location_ssm":["Folder: FF-2"],
         "heading_ssm":["#7 - prayers"],
         "unitdate_ssm":["2020"],
-        "_version_":1799323408082665472,
-        "timestamp":"2024-05-17T17:55:21.197Z"},
+        "_version_":1802094697247670272,
+        "timestamp":"2024-06-17T08:03:48.496Z"},
       {
         "id":"pr424_bob_goreaspace_3b3e31feae7fa85ac2e77460434af3e7",
         "ead_ssi":"pr424_bob_gore",
@@ -143,8 +145,8 @@
         "location_ssm":["Folder: FF-2"],
         "heading_ssm":["#24 - Black Lives Matter in the window"],
         "unitdate_ssm":["2020"],
-        "_version_":1799323408135094272,
-        "timestamp":"2024-05-17T17:55:21.247Z"},
+        "_version_":1802094697307439104,
+        "timestamp":"2024-06-17T08:03:48.554Z"},
       {
         "id":"pr424_bob_goreaspace_3f1db3d5511d0cbba1f15d996ea199b0",
         "ead_ssi":"pr424_bob_gore",
@@ -163,8 +165,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["4. Woman in massive red and yellow feather ensemble"],
         "unitdate_ssm":["2017"],
-        "_version_":1799323408029188096,
-        "timestamp":"2024-05-17T17:55:21.146Z"},
+        "_version_":1802094697180561408,
+        "timestamp":"2024-06-17T08:03:48.433Z"},
       {
         "id":"pr424_bob_goreaspace_4f5e9a46f05d0aaa6f1e18788fde913f",
         "ead_ssi":"pr424_bob_gore",
@@ -183,8 +185,8 @@
         "location_ssm":["Folder: FF-2"],
         "heading_ssm":["#13 - too many names"],
         "unitdate_ssm":["2020"],
-        "_version_":1799323408114122752,
-        "timestamp":"2024-05-17T17:55:21.226Z"},
+        "_version_":1802094697286467584,
+        "timestamp":"2024-06-17T08:03:48.534Z"},
       {
         "id":"pr424_bob_goreaspace_593ea79d28784121fcf6106aff475b99",
         "ead_ssi":"pr424_bob_gore",
@@ -199,8 +201,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series II. George Floyd Protests New York"],
         "unitdate_ssm":["Inclusive, 2020"],
-        "_version_":1799323408054353920,
-        "timestamp":"2024-05-17T17:55:21.17Z"},
+        "_version_":1802094697213067264,
+        "timestamp":"2024-06-17T08:03:48.464Z"},
       {
         "id":"pr424_bob_goreaspace_86e3b2b9f53d71f0674d1c2e0618527c",
         "ead_ssi":"pr424_bob_gore",
@@ -219,8 +221,8 @@
         "location_ssm":["Folder: FF-2"],
         "heading_ssm":["#26 - George Floyd"],
         "unitdate_ssm":["2020"],
-        "_version_":1799323408150822912,
-        "timestamp":"2024-05-17T17:55:21.262Z"},
+        "_version_":1802094697327362048,
+        "timestamp":"2024-06-17T08:03:48.573Z"},
       {
         "id":"pr424_bob_goreaspace_c817d67b43a6ca622ac63d0a41994c95",
         "ead_ssi":"pr424_bob_gore",
@@ -239,8 +241,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["2. Lucifer in White costume"],
         "unitdate_ssm":["2017"],
-        "_version_":1799323407995633664,
-        "timestamp":"2024-05-17T17:55:21.114Z"},
+        "_version_":1802094697133375488,
+        "timestamp":"2024-06-17T08:03:48.388Z"},
       {
         "id":"pr424_bob_goreaspace_ce02ff6feed9ccdd6b1ab170e62f84c2",
         "ead_ssi":"pr424_bob_gore",
@@ -259,8 +261,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["1. African American man with white beard and black hat and vest"],
         "unitdate_ssm":["2017"],
-        "_version_":1799323407976759296,
-        "timestamp":"2024-05-17T17:55:21.096Z"},
+        "_version_":1802094697116598272,
+        "timestamp":"2024-06-17T08:03:48.372Z"},
       {
         "id":"pr424_bob_goreaspace_f095ecdc66715630bc6d60bee0afc388",
         "ead_ssi":"pr424_bob_gore",
@@ -275,8 +277,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I. West Indian American Parade"],
         "unitdate_ssm":["Inclusive, 2017 September 4"],
-        "_version_":1799323407963127808,
-        "timestamp":"2024-05-17T17:55:21.083Z"},
+        "_version_":1802094697100869632,
+        "timestamp":"2024-06-17T08:03:48.357Z"},
       {
         "id":"pr424_bob_goreaspace_f25090399cb556e709d26f87cbbafca4",
         "ead_ssi":"pr424_bob_gore",
@@ -295,8 +297,8 @@
         "location_ssm":["Folder: FF-2"],
         "heading_ssm":["#6 - the police behind the barricades"],
         "unitdate_ssm":["2020"],
-        "_version_":1799323408069033984,
-        "timestamp":"2024-05-17T17:55:21.184Z"},
+        "_version_":1802094697229844480,
+        "timestamp":"2024-06-17T08:03:48.48Z"},
       {
         "id":"pr424_bob_goreaspace_fe7d7ee39cee55c35d6d9d4717b89867",
         "ead_ssi":"pr424_bob_gore",
@@ -315,8 +317,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["3. Close up of woman with blue makeup highlights"],
         "unitdate_ssm":["2017"],
-        "_version_":1799323408016605184,
-        "timestamp":"2024-05-17T17:55:21.133Z"}]
+        "_version_":1802094697159589888,
+        "timestamp":"2024-06-17T08:03:48.413Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -324,7 +326,8 @@
       "repository_sim":[
         "nyhs",14],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gore, Bob (photographer)",1],
       "date_range_sim":[
         "undated & other",14],
       "subject_sim":[

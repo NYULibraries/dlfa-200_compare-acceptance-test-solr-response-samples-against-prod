@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Edith Chevat Papers"],
         "unitid_ssm":["TAM.247"],
+        "creator_ssm":["Chevat, Edith",
+          "Chevat, Edith"],
         "unitdate_normal_ssm":["1930/1952",
           "1936/1940"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -78,8 +80,8 @@
           "1940"],
         "unitdate_ssm":["Inclusive, 1930-1952 ; 1936-1940"],
         "language_ssm":["English"],
-        "_version_":1799334300871557120,
-        "timestamp":"2024-05-17T20:48:29.37Z"}]
+        "_version_":1802171253014921216,
+        "timestamp":"2024-06-18T04:20:37.766Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chevat, Edith",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

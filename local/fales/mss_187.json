@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Holly Anderson Papers"],
         "unitid_ssm":["MSS.187"],
         "abstract_ssm":["Holly Anderson was a poet and designer whose work was exhibited in museums and galleries in the United States and Europe. This collection consists of poems and artwork from her time in New York in the 1980s and 1990s, plus some later music CDs."],
+        "creator_ssm":["Anderson, Holly",
+          "Anderson, Holly"],
         "unitdate_normal_ssm":["1978/2005"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "persname_ssm":["Anderson, Holly"],
@@ -62,8 +64,8 @@
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1978-2005"],
         "language_ssm":["English"],
-        "_version_":1799730933841002496,
-        "timestamp":"2024-05-22T05:52:48.046Z"},
+        "_version_":1802059101097689088,
+        "timestamp":"2024-06-16T22:38:01.363Z"},
       {
         "id":"mss_187aspace_94bc3c7d2fcf3be2155b8337107a0254",
         "ead_ssi":"mss_187",
@@ -82,8 +84,8 @@
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 1979-2001"],
-        "_version_":1799730933866168320,
-        "timestamp":"2024-05-22T05:52:48.07Z"},
+        "_version_":1802059101131243520,
+        "timestamp":"2024-06-16T22:38:01.395Z"},
       {
         "id":"mss_187aspace_ab8b3265ba61b4cbfa397acd60b92d29",
         "ead_ssi":"mss_187",
@@ -102,8 +104,8 @@
         "unitdate_start_ssm":["1988"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1988-2005"],
-        "_version_":1799730933882945536,
-        "timestamp":"2024-05-22T05:52:48.086Z"},
+        "_version_":1802059101153263616,
+        "timestamp":"2024-06-16T22:38:01.416Z"},
       {
         "id":"mss_187aspace_cb0667470e742fde7602e4f1d2dc19e2",
         "ead_ssi":"mss_187",
@@ -117,14 +119,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-20",
-          "Folder: 1-20"],
+        "location_ssm":["Box: 1, Folder: 1-20"],
         "heading_ssm":["Writings, correspondence, publicity materials, reviews, slides, exhibition announcements"],
         "unitdate_start_ssm":["1978"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1978-2005"],
-        "_version_":1799730933854633984,
-        "timestamp":"2024-05-22T05:52:48.059Z"}]
+        "_version_":1802059101115514880,
+        "timestamp":"2024-06-16T22:38:01.38Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -132,7 +133,8 @@
       "repository_sim":[
         "fales",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Anderson, Holly",1],
       "date_range_sim":[
         "1901-2000",4,
         "2001-2100",4],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":17,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Roger Hargrave Scrapbooks"],
         "unitid_ssm":["ALBA.245"],
         "abstract_ssm":["Roger Hargrave served as a volunteer first-aid man in the Abraham Lincoln Brigade during the Spanish Civil War. He repatriated to the U.S. after suffering shrapnel wounds, returning to his studies at the University of Iowa and later pursuing concurrent careers in teaching, Minnesota Democratic-Farmer-Labor (DFL) politics, and law. The collection is comprised of three scrapbooks; all are of a personal and biographical nature, containing materials ranging from news clippings, personal and professional correspondence, and photographs to personal memorabilia, genealogies, resumes, and certificates. Subjects represented include Hargrave's involvement in the Civilian Conservation Corps during the Depression, his service in the Spanish Civil War and continued connections with fellow veterans, his education, participation in amateur boxing, careers in teaching, law, and politics, his term as Master of the Euclid Masonic Lodge, his espousal of local causes such as pollution control in Duluth, MN, and his family genealogy. Scrapbook 1, housed separately in the Karl Ichiro Akiya Papers, TAM #236, contains the bulk of Spanish Civil War-related material."],
+        "creator_ssm":["Hargrave, Roger, 1911-1980",
+          "Hargrave, Roger, 1911-1980"],
         "unitdate_normal_ssm":["1873/1984",
           "1930/1979"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -117,8 +119,8 @@
         "unitdate_end_ssm":["1984",
           "1979"],
         "unitdate_ssm":["Inclusive, 1873-1984 ; 1930-1979"],
-        "_version_":1799333944560189440,
-        "timestamp":"2024-05-17T20:42:49.565Z"},
+        "_version_":1802111462815039488,
+        "timestamp":"2024-06-17T12:30:17.388Z"},
       {
         "id":"alba_245aspace_ref17",
         "ead_ssi":"alba_245",
@@ -136,8 +138,8 @@
         "unitdate_start_ssm":["1873"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1873-1980"],
-        "_version_":1799333944587452416,
-        "timestamp":"2024-05-17T20:42:49.591Z"},
+        "_version_":1802111462844399616,
+        "timestamp":"2024-06-17T12:30:17.416Z"},
       {
         "id":"alba_245aspace_ref18",
         "ead_ssi":"alba_245",
@@ -159,8 +161,8 @@
         "unitdate_start_ssm":["1944"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1944-1980"],
-        "_version_":1799333944609472512,
-        "timestamp":"2024-05-17T20:42:49.612Z"},
+        "_version_":1802111462882148352,
+        "timestamp":"2024-06-17T12:30:17.452Z"},
       {
         "id":"alba_245aspace_ref19",
         "ead_ssi":"alba_245",
@@ -182,8 +184,8 @@
         "unitdate_start_ssm":["1963"],
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, 1963"],
-        "_version_":1799333944631492608,
-        "timestamp":"2024-05-17T20:42:49.633Z"},
+        "_version_":1802111462907314176,
+        "timestamp":"2024-06-17T12:30:17.476Z"},
       {
         "id":"alba_245aspace_ref20",
         "ead_ssi":"alba_245",
@@ -205,8 +207,8 @@
         "unitdate_start_ssm":["1873"],
         "unitdate_end_ssm":["1946"],
         "unitdate_ssm":["Inclusive, 1873-1946, Undated"],
-        "_version_":1799333944648269824,
-        "timestamp":"2024-05-17T20:42:49.649Z"},
+        "_version_":1802111462931431424,
+        "timestamp":"2024-06-17T12:30:17.499Z"},
       {
         "id":"alba_245aspace_ref21",
         "ead_ssi":"alba_245",
@@ -228,8 +230,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1930-1980"],
-        "_version_":1799333944663998464,
-        "timestamp":"2024-05-17T20:42:49.664Z"},
+        "_version_":1802111462957645824,
+        "timestamp":"2024-06-17T12:30:17.524Z"},
       {
         "id":"alba_245aspace_ref22",
         "ead_ssi":"alba_245",
@@ -248,8 +250,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Memorabilia: RH family crest; ALB materials (ambulance guidons, beret, pins, medals)"],
         "unitdate_ssm":["Undated"],
-        "_version_":1799333944679727104,
-        "timestamp":"2024-05-17T20:42:49.679Z"},
+        "_version_":1802111462979665920,
+        "timestamp":"2024-06-17T12:30:17.545Z"},
       {
         "id":"alba_245aspace_ref23",
         "ead_ssi":"alba_245",
@@ -271,8 +273,8 @@
         "unitdate_start_ssm":["1924"],
         "unitdate_end_ssm":["1928"],
         "unitdate_ssm":["Inclusive, 1924-1928"],
-        "_version_":1799333944702795776,
-        "timestamp":"2024-05-17T20:42:49.701Z"},
+        "_version_":1802111463006928896,
+        "timestamp":"2024-06-17T12:30:17.571Z"},
       {
         "id":"alba_245aspace_ref24",
         "ead_ssi":"alba_245",
@@ -290,8 +292,8 @@
         "unitdate_start_ssm":["1928"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1928-1980"],
-        "_version_":1799333944717475840,
-        "timestamp":"2024-05-17T20:42:49.715Z"},
+        "_version_":1802111463023706112,
+        "timestamp":"2024-06-17T12:30:17.586Z"},
       {
         "id":"alba_245aspace_ref26",
         "ead_ssi":"alba_245",
@@ -313,8 +315,8 @@
         "unitdate_start_ssm":["1942"],
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, 1942-1967"],
-        "_version_":1799333944736350208,
-        "timestamp":"2024-05-17T20:42:49.733Z"},
+        "_version_":1802111463057260544,
+        "timestamp":"2024-06-17T12:30:17.619Z"},
       {
         "id":"alba_245aspace_ref27",
         "ead_ssi":"alba_245",
@@ -336,8 +338,8 @@
         "unitdate_start_ssm":["1949"],
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, 1949"],
-        "_version_":1799333944755224576,
-        "timestamp":"2024-05-17T20:42:49.751Z"},
+        "_version_":1802111463085572096,
+        "timestamp":"2024-06-17T12:30:17.646Z"},
       {
         "id":"alba_245aspace_ref28",
         "ead_ssi":"alba_245",
@@ -356,8 +358,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Programs: RH's Convocation at National U. School of Law"],
         "unitdate_ssm":["Undated"],
-        "_version_":1799333944773050368,
-        "timestamp":"2024-05-17T20:42:49.768Z"},
+        "_version_":1802111463105495040,
+        "timestamp":"2024-06-17T12:30:17.665Z"},
       {
         "id":"alba_245aspace_ref29",
         "ead_ssi":"alba_245",
@@ -379,8 +381,8 @@
         "unitdate_start_ssm":["1944"],
         "unitdate_end_ssm":["1971"],
         "unitdate_ssm":["Inclusive, 1944-1971"],
-        "_version_":1799333944790876160,
-        "timestamp":"2024-05-17T20:42:49.785Z"},
+        "_version_":1802111463127515136,
+        "timestamp":"2024-06-17T12:30:17.686Z"},
       {
         "id":"alba_245aspace_ref30",
         "ead_ssi":"alba_245",
@@ -402,8 +404,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1940-1968"],
-        "_version_":1799333944811847680,
-        "timestamp":"2024-05-17T20:42:49.805Z"},
+        "_version_":1802111463153729536,
+        "timestamp":"2024-06-17T12:30:17.711Z"},
       {
         "id":"alba_245aspace_ref31",
         "ead_ssi":"alba_245",
@@ -425,8 +427,8 @@
         "unitdate_start_ssm":["1944"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1944-1980"],
-        "_version_":1799333944829673472,
-        "timestamp":"2024-05-17T20:42:49.822Z"},
+        "_version_":1802111463184138240,
+        "timestamp":"2024-06-17T12:30:17.74Z"},
       {
         "id":"alba_245aspace_ref32",
         "ead_ssi":"alba_245",
@@ -448,8 +450,8 @@
         "unitdate_start_ssm":["1928"],
         "unitdate_end_ssm":["1954"],
         "unitdate_ssm":["Inclusive, 1928-1954"],
-        "_version_":1799333944845402112,
-        "timestamp":"2024-05-17T20:42:49.837Z"},
+        "_version_":1802111463205109760,
+        "timestamp":"2024-06-17T12:30:17.76Z"},
       {
         "id":"alba_245aspace_ref33",
         "ead_ssi":"alba_245",
@@ -467,8 +469,8 @@
         "unitdate_start_ssm":["1965"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1965-1980"],
-        "_version_":1799333944860082176,
-        "timestamp":"2024-05-17T20:42:49.851Z"},
+        "_version_":1802111463222935552,
+        "timestamp":"2024-06-17T12:30:17.776Z"},
       {
         "id":"alba_245aspace_ref34",
         "ead_ssi":"alba_245",
@@ -490,8 +492,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1980"],
-        "_version_":1799333944876859392,
-        "timestamp":"2024-05-17T20:42:49.867Z"},
+        "_version_":1802111463247052800,
+        "timestamp":"2024-06-17T12:30:17.8Z"},
       {
         "id":"alba_245aspace_ref35",
         "ead_ssi":"alba_245",
@@ -510,8 +512,8 @@
         "location_ssm":["Box: 3"],
         "heading_ssm":["Pamphlet: \"40th Anniversary Tribute to the Veterans of ALB\""],
         "unitdate_ssm":["Undated"],
-        "_version_":1799333944895733760,
-        "timestamp":"2024-05-17T20:42:49.884Z"},
+        "_version_":1802111463274315776,
+        "timestamp":"2024-06-17T12:30:17.826Z"},
       {
         "id":"alba_245aspace_ref36",
         "ead_ssi":"alba_245",
@@ -530,8 +532,8 @@
         "location_ssm":["Box: 3"],
         "heading_ssm":["Flyer: DFL \"Vote Perpich for Lt. Governor\""],
         "unitdate_ssm":["Undated"],
-        "_version_":1799333944915656704,
-        "timestamp":"2024-05-17T20:42:49.904Z"},
+        "_version_":1802111463294238720,
+        "timestamp":"2024-06-17T12:30:17.845Z"},
       {
         "id":"alba_245aspace_ref37",
         "ead_ssi":"alba_245",
@@ -553,8 +555,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1970-1980"],
-        "_version_":1799333944931385344,
-        "timestamp":"2024-05-17T20:42:49.919Z"},
+        "_version_":1802111463317307392,
+        "timestamp":"2024-06-17T12:30:17.867Z"},
       {
         "id":"alba_245aspace_ref38",
         "ead_ssi":"alba_245",
@@ -576,8 +578,8 @@
         "unitdate_start_ssm":["1965"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1965-1980"],
-        "_version_":1799333944948162560,
-        "timestamp":"2024-05-17T20:42:49.935Z"},
+        "_version_":1802111463335133184,
+        "timestamp":"2024-06-17T12:30:17.884Z"},
       {
         "id":"alba_245aspace_ref39",
         "ead_ssi":"alba_245",
@@ -599,8 +601,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1968-1984"],
-        "_version_":1799333944984862720,
-        "timestamp":"2024-05-17T20:42:49.97Z"},
+        "_version_":1802111463366590464,
+        "timestamp":"2024-06-17T12:30:17.914Z"},
       {
         "id":"alba_245aspace_ref40",
         "ead_ssi":"alba_245",
@@ -622,8 +624,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1980"],
-        "_version_":1799333945003737088,
-        "timestamp":"2024-05-17T20:42:49.987Z"}]
+        "_version_":1802111463394902016,
+        "timestamp":"2024-06-17T12:30:17.941Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -631,7 +633,8 @@
       "repository_sim":[
         "tamwag",24],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hargrave, Roger, 1911-1980",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",20,

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ferdinand Roth slides of New York City"],
         "unitid_ssm":["PR 457"],
         "abstract_ssm":["Color slides capturing balloons and floats in the 1951 and 1952 Macy's Thanksgiving Day Parades, and the lighted neon signs of Times Square around 1958."],
+        "creator_ssm":["Roth, Ferdinand, 1906-1971",
+          "Roth, Ferdinand, 1906-1971"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Color slides.",
           "Night photography."],
@@ -66,8 +68,8 @@
           "Night photography."],
         "heading_ssm":["Ferdinand Roth slides of New York City"],
         "unitdate_ssm":["Inclusive, 1951, 1952, [1958]"],
-        "_version_":1775220587984060416,
-        "timestamp":"2023-08-25T16:51:20.716Z"},
+        "_version_":1801081122411511808,
+        "timestamp":"2024-06-06T03:33:28.208Z"},
       {
         "id":"pr457_roth_slidesaspace_7fa7166e79044a69fe54ce615d1de9d6",
         "ead_ssi":"pr457_roth_slides",
@@ -80,12 +82,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Times Square neon lights [14 slides]"],
         "unitdate_ssm":["Inclusive, [1958]"],
-        "_version_":1775220588082626560,
-        "timestamp":"2023-08-25T16:51:20.81Z"},
+        "_version_":1801081122457649152,
+        "timestamp":"2024-06-06T03:33:28.251Z"},
       {
         "id":"pr457_roth_slidesaspace_ab34f1f16b57f8ab5b8bc1c87d60332d",
         "ead_ssi":"pr457_roth_slides",
@@ -98,12 +99,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Macy's Thanksgiving Day Parade, 1951 [5 slides]"],
         "unitdate_ssm":["1951 November 22"],
-        "_version_":1775220588017614848,
-        "timestamp":"2023-08-25T16:51:20.747Z"},
+        "_version_":1801081122430386176,
+        "timestamp":"2024-06-06T03:33:28.226Z"},
       {
         "id":"pr457_roth_slidesaspace_b03f15ef5a3b74e960daa515b4e9925e",
         "ead_ssi":"pr457_roth_slides",
@@ -116,12 +116,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Macy's Thanksgiving Day Parade, 1952 [25 slides]"],
         "unitdate_ssm":["1952 November 27"],
-        "_version_":1775220588049072128,
-        "timestamp":"2023-08-25T16:51:20.778Z"}]
+        "_version_":1801081122444017664,
+        "timestamp":"2024-06-06T03:33:28.239Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -129,7 +128,8 @@
       "repository_sim":[
         "nyhs",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Roth, Ferdinand, 1906-1971",1],
       "date_range_sim":[
         "undated & other",4],
       "subject_sim":[

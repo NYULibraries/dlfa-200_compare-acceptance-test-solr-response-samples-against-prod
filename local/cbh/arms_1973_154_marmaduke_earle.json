@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Marmaduke Earle register of marriages in Oyster Bay"],
         "unitid_ssm":["1973.154"],
         "abstract_ssm":["One handwritten register created by Reverend Marmaduke Earle (1769-1856) of marriages occurring in the Long Island town of Oyster Bay throughout the period 1802 to 1855."],
+        "creator_ssm":["Earle, Marmaduke",
+          "Earle, Marmaduke"],
         "unitdate_normal_ssm":["1802/1855"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Marriage registers"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1855"],
         "unitdate_ssm":["Inclusive, 1802-1855"],
         "language_ssm":["English"],
-        "_version_":1799311502757330944,
-        "timestamp":"2024-05-17T14:46:07.394Z"}]
+        "_version_":1801960002395570176,
+        "timestamp":"2024-06-15T20:22:53.476Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Earle, Marmaduke",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

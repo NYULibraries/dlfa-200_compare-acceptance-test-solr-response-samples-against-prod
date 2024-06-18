@@ -46,6 +46,8 @@
         "unittitle_ssm":["Ebenezer Stevens bill of lading for the sloop Minerva"],
         "unitid_ssm":["AHMC - Stevens, Ebenezer"],
         "abstract_ssm":["Bill of lading — \"Entry of Merchandize Imported by Ebenezer Stevens in the Sloop Minerva, Captain Living, from New Orleans\" — dated New York, 6 July 1799. For further details about this item, and to request it for research, please read its catalog record, or write to reference@nyhistory.org."],
+        "creator_ssm":["Stevens, Ebenezer, 1751-1823",
+          "Stevens, Ebenezer, 1751-1823"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Stevens, Ebenezer, 1751-1823"],
         "collection_ssm":["Ebenezer Stevens bill of lading for the sloop Minerva"],
@@ -56,8 +58,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Ebenezer Stevens bill of lading for the sloop Minerva"],
         "unitdate_ssm":["1799 July 6"],
-        "_version_":1775225940273528832,
-        "timestamp":"2023-08-25T18:16:25.057Z"}]
+        "_version_":1800991156998242304,
+        "timestamp":"2024-06-05T03:43:30.504Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -65,7 +67,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stevens, Ebenezer, 1751-1823",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

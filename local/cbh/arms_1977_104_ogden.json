@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jacob Ogden promissory note"],
         "unitid_ssm":["1977.104"],
         "abstract_ssm":["A promissory note signed by Jacob Ogden of Queens County, New York, dated June 5, 1759. The note obliges Ogden to repay the loaned sum of 9500 pounds to King George II of Great Britain."],
+        "creator_ssm":["Ogden, Jacob",
+          "Ogden, Jacob"],
         "unitdate_normal_ssm":["1759/1759"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Promissory notes"],
@@ -64,8 +66,8 @@
         "unitdate_end_ssm":["1759"],
         "unitdate_ssm":["1759"],
         "language_ssm":["English"],
-        "_version_":1799311647256346624,
-        "timestamp":"2024-05-17T14:48:25.199Z"}]
+        "_version_":1801960712061321216,
+        "timestamp":"2024-06-15T20:34:10.265Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ogden, Jacob",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Richard Nicolls Breuckelen patent"],
         "unitid_ssm":["1974.149"],
         "abstract_ssm":["Land patent for the town of Breuckelen from 1667, issued by New York Governor Richard Nicolls in an apparent reconfirmation of an earlier Dutch patent."],
+        "creator_ssm":["New York (Colony). Governor (1664-1668 : Nicolls)",
+          "Nicolls, Richard",
+          "New York (Colony). Governor (1664-1668 : Nicolls)",
+          "Nicolls, Richard"],
         "unitdate_normal_ssm":["1667/1667"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (Colony). Governor (1664-1668 : Nicolls)"],
@@ -66,8 +70,8 @@
         "unitdate_end_ssm":["1667"],
         "unitdate_ssm":["Inclusive, 1667"],
         "language_ssm":["English"],
-        "_version_":1799311497812246528,
-        "timestamp":"2024-05-17T14:46:02.678Z"}]
+        "_version_":1801960367866249216,
+        "timestamp":"2024-06-15T20:28:42.016Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +79,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (Colony). Governor (1664-1668 : Nicolls)",1,
+        "Nicolls, Richard",1],
       "date_range_sim":[
         "1601-1700",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":40,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Morris Loeb Scrapbook"],
         "unitid_ssm":["MC.63"],
         "abstract_ssm":["The Morris Loeb Scrapbook is a collection of newspaper tributes and obituaries compiled shortly after the death of Dr. Morris Loeb, a chemist and former NYU Chemistry Department Chair (1891-1906), in October 1912."],
+        "creator_ssm":["New York University. Department of Chemistry",
+          "New York University. Department of Chemistry"],
         "unitdate_normal_ssm":["1912/1912"],
         "corpname_ssm":["New York University Archives",
           "New York University. Department of Chemistry"],
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1912"],
         "unitdate_end_ssm":["1912"],
         "unitdate_ssm":["1912"],
-        "_version_":1799248900040687616,
-        "timestamp":"2024-05-16T22:11:04.791Z"},
+        "_version_":1801950544527360000,
+        "timestamp":"2024-06-15T17:52:33.75Z"},
       {
         "id":"mc_63aspace_ref10",
         "ead_ssi":"mc_63",
@@ -82,15 +84,14 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 008, Folder: 5",
-          "Folder: 5"],
+        "location_ssm":["Box: Shared University Archives 008, Folder: 5"],
         "heading_ssm":["Scrapbook"],
         "unitdate_start_ssm":["1912"],
         "unitdate_end_ssm":["1912"],
         "unitdate_ssm":["1912"],
         "language_ssm":["English"],
-        "_version_":1799248900058513408,
-        "timestamp":"2024-05-16T22:11:04.808Z"}]
+        "_version_":1801950544543088640,
+        "timestamp":"2024-06-15T17:52:33.765Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -98,7 +99,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Department of Chemistry",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

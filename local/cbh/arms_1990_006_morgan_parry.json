@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Morgan-Parry family papers"],
         "unitid_ssm":["1990.006"],
         "abstract_ssm":["The Morgan-Parry Family Papers include the official and personal papers of Henry C. Morgan and Augusta Parry.  Materials of an official nature include documents and correspondence of Henry C. Morgan relating to his work as a 1st Lieutenant in the 12th infantry of the U.S. Army, and later as Captain in the 30th Regiment of the Infantry.  Personal materials include correspondence and letters relating to Henry and Augusta, as well as their daughter Mary and Augusta's father, Edward O. Parry.  The collection contains a contract for Henry and Augusta's residence on Clinton Street dating from December 1870. The collection contains five portraits, which include the following people: A.V. Lt. E. Cooker (?),  Lt. Col. Henry C. Morgan, Mary Churchill Morgan, William A. Stedman, Jr., and Mr. and Mrs. William Witman. It also contains two cards containing images and plans of the Royal Mail Steam Ship Scotia."],
+        "creator_ssm":["Morgan, Henry C.",
+          "Morgan-Parry family",
+          "Morgan-Parry family",
+          "Morgan, Henry C."],
         "unitdate_normal_ssm":["1861/1909"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Army"],
@@ -74,8 +78,8 @@
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["Inclusive, 1861-1909"],
         "language_ssm":["English"],
-        "_version_":1799256310318891008,
-        "timestamp":"2024-05-17T00:08:51.782Z"}]
+        "_version_":1801963500371705856,
+        "timestamp":"2024-06-15T21:18:29.406Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +87,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Morgan, Henry C.",1,
+        "Morgan-Parry family",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

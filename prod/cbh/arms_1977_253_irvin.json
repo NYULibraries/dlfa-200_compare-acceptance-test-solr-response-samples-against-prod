@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":10,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Rea Irvin drawings"],
         "unitid_ssm":["1977.253"],
         "abstract_ssm":["Original cartoon drawings by Rea Irvin, created during the period 1910 to 1920 and presumably published in the weekly magazine Life.  Handwritten transcriptions of the captions that accompanied the cartoons in publication are also featured underneath the original drawings, and typed transcriptions of the captions are printed on the versos.  The cartoons make references to several national and international events of the early 20th century, and are also puncuated with prevailing American social and cultural attitudes of the time."],
+        "creator_ssm":["Irvin, Rea",
+          "Irvin, Rea"],
         "unitdate_normal_ssm":["1910/1920"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Drawings (visual works)",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, 1910-1920"],
         "language_ssm":["English"],
-        "_version_":1775225717244559360,
-        "timestamp":"2023-08-25T18:12:52.36Z"}]
+        "_version_":1800697979075559424,
+        "timestamp":"2024-06-01T22:03:34.249Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Irvin, Rea",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

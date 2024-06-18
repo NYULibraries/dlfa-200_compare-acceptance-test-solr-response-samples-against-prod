@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Liman collection of 19th century McLoughlin Brothers illustrated children books"],
         "unitid_ssm":["2007.002"],
         "abstract_ssm":["Extensive collection of children's books published by the McLoughlin Bros. publishing company of New York City."],
+        "creator_ssm":["McLoughlin Bros., inc",
+          "McLoughlin Bros., inc"],
         "unitdate_normal_ssm":["1840/1910"],
         "corpname_ssm":["Brooklyn Historical Society",
           "McLoughlin Bros., inc"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, circa 1850-1900"],
         "language_ssm":["English"],
-        "_version_":1775224306338365441,
-        "timestamp":"2023-08-25T17:50:26.815Z"}]
+        "_version_":1800803690588667904,
+        "timestamp":"2024-06-03T02:03:48.604Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "McLoughlin Bros., inc",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

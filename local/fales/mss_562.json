@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":17,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Dr. Paul Meyer Menu Collection"],
         "unitid_ssm":["MSS.562"],
         "abstract_ssm":["This collection includes over two hundred restaurant menus collected by Dr. Paul Meyer, an orthodondist from Queens, New York. The menus were collected from the New York City and greater tri-state area, between the late 1930s through the 1960s. The menus included cover a wide range of ethnic cuisines, types of dining establishments, and geographical locations within the greater New York City area. This collection offers perspective on the history of food service, commercial design, and American cuisine in the New York Century area in the mid twentieth century."],
+        "creator_ssm":["Meyer, Paul, 1904-",
+          "Meyer, Paul, 1904-"],
         "unitdate_normal_ssm":["1935/1970"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Menus."],
@@ -74,8 +76,8 @@
         "unitdate_start_ssm":["1935"],
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, 1935-1970"],
-        "_version_":1799745328095690752,
-        "timestamp":"2024-05-22T09:41:35.477Z"},
+        "_version_":1802081589684862976,
+        "timestamp":"2024-06-17T04:35:28.151Z"},
       {
         "id":"mss_562aspace_203212b68bb092628630546b661630b7",
         "ead_ssi":"mss_562",
@@ -90,18 +92,15 @@
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1, Folder: 1-6",
-          "Folder: 1-6",
           "Box: 2, Folder: 1-9",
-          "Folder: 1-9",
           "Box: 3, Folder: 1-9",
-          "Box: 4, Folder: 1-4",
-          "Folder: 1-4"],
+          "Box: 4, Folder: 1-4"],
         "heading_ssm":["Menus"],
         "unitdate_start_ssm":["1935"],
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, 1935-1970"],
-        "_version_":1799745328113516544,
-        "timestamp":"2024-05-22T09:41:35.494Z"}]
+        "_version_":1802081589705834496,
+        "timestamp":"2024-06-17T04:35:28.171Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -109,7 +108,8 @@
       "repository_sim":[
         "fales",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Meyer, Paul, 1904-",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

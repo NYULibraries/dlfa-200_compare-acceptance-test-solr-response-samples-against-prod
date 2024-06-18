@@ -47,6 +47,8 @@
         "unittitle_ssm":["Village of Williamsburgh declarations of sale"],
         "unitid_ssm":["1985.027"],
         "abstract_ssm":["The collection contains seven declarations of sale for property in Village of Williamsburgh, dated 1836 to 1837."],
+        "creator_ssm":["Village of Williamsburgh (Kings County, N.Y.)",
+          "Village of Williamsburgh (Kings County, N.Y.)"],
         "unitdate_normal_ssm":["1836/1837"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Village of Williamsburgh (Kings County, N.Y.)"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1837"],
         "unitdate_ssm":["Inclusive, 1836 to 1837"],
         "language_ssm":["English"],
-        "_version_":1799311721729359872,
-        "timestamp":"2024-05-17T14:49:36.222Z"}]
+        "_version_":1801962962896814080,
+        "timestamp":"2024-06-15T21:09:56.83Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Village of Williamsburgh (Kings County, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

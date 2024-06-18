@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Herman Singer Papers"],
         "unitid_ssm":["TAM.243"],
         "abstract_ssm":["Herman Singer (1915-2001) was an editor of the New Leader from 1945-1950. He worked for Radio Free Europe (RFE) and collected documents relating to his work on Calverton, Socialist Party history, NY Call/SDF, the Newspaper Guild-Free Europe Unit, and Free Europe Guild News. He corresponded regularly with  Bob Rindel, Sam Solon, Tom Berger, Calverton and other editors and publishers."],
+        "creator_ssm":["Singer, Herman, 1915-2001",
+          "Singer, Herman, 1915-2001"],
         "unitdate_normal_ssm":["1940/2001"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Radio Free Europe",
@@ -74,8 +76,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 1940-2001"],
-        "_version_":1799334116801380352,
-        "timestamp":"2024-05-17T20:45:33.826Z"},
+        "_version_":1802171241236267008,
+        "timestamp":"2024-06-18T04:20:26.533Z"},
       {
         "id":"tam_243aspace_ref10",
         "ead_ssi":"tam_243",
@@ -94,8 +96,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1970s-1980s"],
-        "_version_":1799334116855906304,
-        "timestamp":"2024-05-17T20:45:33.878Z"},
+        "_version_":1802171241266675712,
+        "timestamp":"2024-06-18T04:20:26.562Z"},
       {
         "id":"tam_243aspace_ref11",
         "ead_ssi":"tam_243",
@@ -110,8 +112,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 5"],
         "heading_ssm":["2005 Accession"],
-        "_version_":1799334116870586368,
-        "timestamp":"2024-05-17T20:45:33.893Z"},
+        "_version_":1802171241274015744,
+        "timestamp":"2024-06-18T04:20:26.569Z"},
       {
         "id":"tam_243aspace_ref7",
         "ead_ssi":"tam_243",
@@ -127,8 +129,8 @@
         "location_ssm":["Box: 1",
           "Box: 2"],
         "heading_ssm":["Calverton, Socialist Party history, Radio Free Europe, East Europe; Max Nomad - Aspects of Revolt, J.T. Farrell"],
-        "_version_":1799334116823400448,
-        "timestamp":"2024-05-17T20:45:33.848Z"},
+        "_version_":1802171241245704192,
+        "timestamp":"2024-06-18T04:20:26.542Z"},
       {
         "id":"tam_243aspace_ref9",
         "ead_ssi":"tam_243",
@@ -148,8 +150,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1940s-1960s"],
-        "_version_":1799334116842274816,
-        "timestamp":"2024-05-17T20:45:33.865Z"}]
+        "_version_":1802171241254092800,
+        "timestamp":"2024-06-18T04:20:26.55Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -157,7 +159,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Singer, Herman, 1915-2001",1],
       "date_range_sim":[
         "1901-2000",3,
         "2001-2100",1,

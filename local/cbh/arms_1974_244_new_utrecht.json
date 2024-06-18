@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["New Utrecht land deeds and executor documents"],
         "unitid_ssm":["1974.244"],
         "abstract_ssm":["This collection contains two deeds for property in the town of New Utrect in Kings County, purchased by William Dowling from Mary Bullocke.  Also included are a bond and an assignment of mortgage signed by Francis Hopkins in his capacity as executor of the will of Sarah Sears, late of Fort Hamilton, New Utrecht."],
+        "creator_ssm":["Hopkins, Francis",
+          "Dowling, William",
+          "Hopkins, Francis",
+          "Dowling, William"],
         "unitdate_normal_ssm":["1873/1897"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Mortgages",
@@ -74,8 +78,8 @@
         "unitdate_end_ssm":["1897"],
         "unitdate_ssm":["Inclusive, 1873-1897"],
         "language_ssm":["English"],
-        "_version_":1799311430221037568,
-        "timestamp":"2024-05-17T14:44:58.218Z"}]
+        "_version_":1801960499248627712,
+        "timestamp":"2024-06-15T20:30:47.312Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +87,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dowling, William",1,
+        "Hopkins, Francis",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

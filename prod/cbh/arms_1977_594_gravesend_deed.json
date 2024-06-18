@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -70,8 +70,8 @@
           "1909"],
         "unitdate_ssm":["1665 1909"],
         "language_ssm":["English"],
-        "_version_":1785648214350757888,
-        "timestamp":"2023-12-18T19:14:00.163Z"}]
+        "_version_":1800725982876794880,
+        "timestamp":"2024-06-02T05:28:40.755Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

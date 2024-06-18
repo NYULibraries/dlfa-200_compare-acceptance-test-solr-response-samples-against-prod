@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John R. Couwenhoven papers"],
         "unitid_ssm":["1973.167"],
         "abstract_ssm":["The John R. Couwenhoven papers span the period 1783 to 1812 and consist of a single bound account book and several loose handwritten documents."],
+        "creator_ssm":["Couwenhoven, John R.",
+          "Couwenhoven, John R."],
         "unitdate_normal_ssm":["1783/1812"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Cowenhoven family"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1812"],
         "unitdate_ssm":["Inclusive, 1783-1812"],
         "language_ssm":["English"],
-        "_version_":1799256308799504384,
-        "timestamp":"2024-05-17T00:08:50.334Z"}]
+        "_version_":1801960014887256064,
+        "timestamp":"2024-06-15T20:23:05.388Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Couwenhoven, John R.",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Gunterman, Forse, Powell, Oliver, and Stillwell families papers"],
         "unitid_ssm":["1990.013"],
         "abstract_ssm":["This collection chronicles the geanealogy and history of several generations of the Forse, Gunterman, Powell, Oliver, and Stillwell Families.  A significant part of the collection also contains information about the military actions of American troops in Cuba during the Spanish-American War of 1898 and the American Indian Wars of the 19th century, as several family members were involved in these events.  The collection is a photocopied collection of family accounts, much of it in the same hand.  Items include photocopies of letters, clippings, photos, and many family accounts from various people.  It has been left in the order received.  The primary Brooklyn connection is through the Powell and Stillwell families."],
+        "creator_ssm":["Oliver family",
+          "Stillwell family",
+          "Powell family",
+          "Gunterman family",
+          "Forse family",
+          "Oliver family",
+          "Stillwell family",
+          "Powell family",
+          "Gunterman family",
+          "Forse family"],
         "unitdate_normal_ssm":["1848/1986"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Oliver family",
@@ -83,8 +93,8 @@
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1848-1986"],
         "language_ssm":["English"],
-        "_version_":1799311678571020288,
-        "timestamp":"2024-05-17T14:48:55.063Z"}]
+        "_version_":1801963523590324224,
+        "timestamp":"2024-06-15T21:18:51.548Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +102,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Forse family",1,
+        "Gunterman family",1,
+        "Oliver family",1,
+        "Powell family",1,
+        "Stillwell family",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

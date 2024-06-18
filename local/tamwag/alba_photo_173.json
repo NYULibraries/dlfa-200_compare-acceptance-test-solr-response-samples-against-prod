@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["John Tisa Photographs"],
         "unitid_ssm":["ALBA.PHOTO.173"],
+        "creator_ssm":["Tisa, John",
+          "Tisa, John"],
         "unitdate_normal_ssm":["1937/1985"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Tisa, John"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1937-1985"],
         "language_ssm":["English"],
-        "_version_":1799334946506014720,
-        "timestamp":"2024-05-17T20:58:45.095Z"},
+        "_version_":1802112332189401088,
+        "timestamp":"2024-06-17T12:44:06.488Z"},
       {
         "id":"alba_photo_173aspace_0a145aeb8dc2aa914c872672b66e1b73",
         "ead_ssi":"alba_photo_173",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799334946529083392,
-        "timestamp":"2024-05-17T20:58:45.117Z"}]
+        "_version_":1802112332208275456,
+        "timestamp":"2024-06-17T12:44:06.506Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tisa, John",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

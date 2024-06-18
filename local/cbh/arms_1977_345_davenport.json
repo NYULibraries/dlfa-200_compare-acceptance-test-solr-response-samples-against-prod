@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Davenport family papers"],
         "unitid_ssm":["1977.345"],
         "abstract_ssm":["The Davenport family papers date from 1700 to 1915, with the bulk of the material dating from 1840 to 1899. Document types include correspondence, deeds, bonds, receipts, indentures, stock certificates, and military commissions. A large portion of the collection consists of the personal and business documents of Brooklyn real estate dealer Amzi B. Davenport and his son, attorney Henry B. Davenport."],
+        "creator_ssm":["Davenport, Amzi Benedict",
+          "Davenport family",
+          "Davenport, Henry B.",
+          "Davenport family",
+          "Davenport, Amzi Benedict",
+          "Davenport, Henry B."],
         "unitdate_normal_ssm":["1700/1915",
           "1840/1899"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -90,8 +96,8 @@
         "unitdate_end_ssm":["1915",
           "1899"],
         "unitdate_ssm":["Inclusive, 1700-1915 ; 1840-1899"],
-        "_version_":1799311723801346048,
-        "timestamp":"2024-05-17T14:49:38.198Z"}]
+        "_version_":1801961386593484800,
+        "timestamp":"2024-06-15T20:44:53.55Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -99,7 +105,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Davenport family",1,
+        "Davenport, Amzi Benedict",1,
+        "Davenport, Henry B.",1],
       "date_range_sim":[
         "1601-1700",1,
         "1801-1900",1,

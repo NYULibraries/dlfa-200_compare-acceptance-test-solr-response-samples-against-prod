@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Wel-Met Camps Supervisory Manuals"],
         "unitid_ssm":["TAM.380"],
+        "creator_ssm":["Wel-Met Camps",
+          "Wel-Met Camps"],
         "unitdate_normal_ssm":["1950/1969"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Wel-Met Camps",
@@ -64,8 +66,8 @@
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1959, undated"],
         "language_ssm":["English"],
-        "_version_":1799782850945351680,
-        "timestamp":"2024-05-22T19:38:00.055Z"}]
+        "_version_":1802176926100488192,
+        "timestamp":"2024-06-18T05:50:48.042Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wel-Met Camps",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

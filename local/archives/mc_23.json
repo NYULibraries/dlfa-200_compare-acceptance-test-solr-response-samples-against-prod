@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Wallace Clark Collection on Henry Laurence Gantt"],
         "unitid_ssm":["MC.23"],
         "abstract_ssm":["The Wallace Clark Collection on Henry Laurence Gantt contains four bound volumes of manuscripts, photographs, newspaper clippings, gallery proofs and correspondence. The material, which documents the life and work of one of the American pioneers in scientific management, was compiled by Wallace Clark."],
+        "creator_ssm":["Clark, Wallace, 1880-1948",
+          "Clark, Wallace, 1880-1948"],
         "unitdate_normal_ssm":["1901/1937"],
         "corpname_ssm":["New York University Archives"],
         "genreform_ssm":["Charts (graphic documents)",
@@ -71,8 +73,8 @@
         "unitdate_start_ssm":["1901"],
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Inclusive, 1901-1937"],
-        "_version_":1799254218835492864,
-        "timestamp":"2024-05-16T23:35:37.189Z"},
+        "_version_":1801949233369055232,
+        "timestamp":"2024-06-15T17:31:43.332Z"},
       {
         "id":"mc_23aspace_ref2",
         "ead_ssi":"mc_23",
@@ -88,8 +90,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Volume I. Biography"],
         "language_ssm":["English"],
-        "_version_":1799254218861707264,
-        "timestamp":"2024-05-16T23:35:37.214Z"},
+        "_version_":1801949233385832448,
+        "timestamp":"2024-06-15T17:31:43.348Z"},
       {
         "id":"mc_23aspace_ref3",
         "ead_ssi":"mc_23",
@@ -105,8 +107,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Volume II. Philosophy, Methods and Charts"],
         "language_ssm":["English"],
-        "_version_":1799254218887921664,
-        "timestamp":"2024-05-16T23:35:37.239Z"},
+        "_version_":1801949233399463936,
+        "timestamp":"2024-06-15T17:31:43.361Z"},
       {
         "id":"mc_23aspace_ref4",
         "ead_ssi":"mc_23",
@@ -122,8 +124,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Volume III. Correspondence about H.L. Gantt: His Life, Publications and Charts"],
         "language_ssm":["English"],
-        "_version_":1799254218909941760,
-        "timestamp":"2024-05-16T23:35:37.26Z"},
+        "_version_":1801949233414144000,
+        "timestamp":"2024-06-15T17:31:43.375Z"},
       {
         "id":"mc_23aspace_ref5",
         "ead_ssi":"mc_23",
@@ -139,8 +141,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Volume IV. Articles and Speeches by H.L. Gantt, and Other Related Materials"],
         "language_ssm":["English"],
-        "_version_":1799254218934059008,
-        "timestamp":"2024-05-16T23:35:37.283Z"}]
+        "_version_":1801949233434066944,
+        "timestamp":"2024-06-15T17:31:43.394Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -148,7 +150,8 @@
       "repository_sim":[
         "archives",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Clark, Wallace, 1880-1948",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",4],

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Julius Wilcox photograph collection"],
         "unitid_ssm":["BCMS.0054"],
         "abstract_ssm":["This collection includes 446 digital photographs, scans of items in the unprocessed Julius Wilcox photograph collection. The collection is a mix of cyanotypes, copy negatives, and contact prints from copy negatives, created by relatively unknown Brooklyn photographer, Julius Wilcox. Images are of Manhattan and Brooklyn, showing churches, bridges, street scenes, lodging houses, and various borough buildings."],
+        "creator_ssm":["Wilcox, Julius",
+          "Wilcox, Julius"],
         "corpname_ssm":["Brooklyn Collection"],
         "genreform_ssm":["Cyanotypes (photographic prints)"],
         "geogname_ssm":["Brooklyn Bridge (New York, N.Y.)",
@@ -70,8 +72,8 @@
         "heading_ssm":["Julius Wilcox photograph collection"],
         "unitdate_ssm":["Inclusive, circa 1880-circa 1905 ; 1892"],
         "language_ssm":["English"],
-        "_version_":1799312301221740544,
-        "timestamp":"2024-05-17T14:58:48.869Z"}]
+        "_version_":1802044034427912192,
+        "timestamp":"2024-06-16T18:38:32.667Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wilcox, Julius",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[

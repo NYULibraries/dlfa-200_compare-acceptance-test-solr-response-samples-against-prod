@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Mary Engelberg Movie Script for <em>The Winner</em>"],
         "unitid_ssm":["TAM.242"],
         "abstract_ssm":["The collection consists of the one movie script by Mary Engelberg entitled The Winner. The movie begins in 1936 in Monessen, PA, and chronicles the rise of a corrupt union official."],
+        "creator_ssm":["Engelberg, Mary",
+          "Engelberg, Mary"],
         "unitdate_normal_ssm":["1936/1995"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Scripts (documents)",
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, circa 1930s-1990s"],
-        "_version_":1775222799722348544,
-        "timestamp":"2023-08-25T17:26:29.994Z"}]
+        "_version_":1801232471041245184,
+        "timestamp":"2024-06-07T19:39:05.509Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Engelberg, Mary",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

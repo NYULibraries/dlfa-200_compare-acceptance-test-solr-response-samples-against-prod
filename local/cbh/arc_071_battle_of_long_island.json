@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Battle of Long Island 200th anniversary proclamations"],
         "unitid_ssm":["ARC.071"],
         "abstract_ssm":["This collection includes proclamations issued in 1976 by Brooklyn Borough President Sebastian Leone, New York City Mayor Abraham D. Beame, and New York State Governor Hugh L. Carey in observance of the 200th anniversary of the Battle of Long Island. The proclamations establish August 27, 1976 as \"Battle of Long Island Observance Day\" and October 17, 1976 as \"Whig and Tory Day.\" Also included is a letter from the New York State Governor's Office to Edward J. Whitney, President of the Citizens Committee of Brooklyn, regarding the issuing of the Governor's proclamation."],
+        "creator_ssm":["Beame, Abraham D. (Abraham David)",
+          "Brooklyn (New York, N.Y.). Office of Brooklyn Borough President",
+          "New York (State). Governor (1975-1982 : Carey)",
+          "Carey, Hugh L.",
+          "Leone, Sebastian",
+          "Brooklyn (New York, N.Y.). Office of Brooklyn Borough President",
+          "New York (State). Governor (1975-1982 : Carey)",
+          "Beame, Abraham D. (Abraham David)",
+          "Carey, Hugh L.",
+          "Leone, Sebastian"],
         "unitdate_normal_ssm":["1976/1976"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn (New York, N.Y.). Office of Brooklyn Borough President",
@@ -75,8 +85,8 @@
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1976"],
         "language_ssm":["English"],
-        "_version_":1799311392115785728,
-        "timestamp":"2024-05-17T14:44:21.878Z"}]
+        "_version_":1801958884002234368,
+        "timestamp":"2024-06-15T20:05:06.892Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +94,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Beame, Abraham D. (Abraham David)",1,
+        "Brooklyn (New York, N.Y.). Office of Brooklyn Borough President",1,
+        "Carey, Hugh L.",1,
+        "Leone, Sebastian",1,
+        "New York (State). Governor (1975-1982 : Carey)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

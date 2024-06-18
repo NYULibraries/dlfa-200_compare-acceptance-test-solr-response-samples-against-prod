@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Otto Dommerich residence drawings and photographs"],
         "unitid_ssm":["PR 436"],
         "abstract_ssm":["The collection holds two principal formats: 35 blueprints (e.g., elevations, floor plans, structural details) by architect Harry Pelton of the original house built at 50 East 69th Street, New York City, for Otto L. Dommerich in 1917-18, with one blueprint of the 1944 renovation, and photographs of the house. 13 of the photographs are black-and-white prints of the original house interior and furnishings. Many more of the photographs are color snapshots of details from the interior taken in advance of a 1980s renovation."],
+        "creator_ssm":["Pelton, Harry C., 1867-1935",
+          "Pelton, Harry C., 1867-1935"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Blueprints (reprographic copies)",
           "Photographs."],
@@ -65,8 +67,8 @@
           "Photographs."],
         "heading_ssm":["Otto Dommerich residence drawings and photographs"],
         "unitdate_ssm":["Inclusive, 1916-1983"],
-        "_version_":1775220608391446528,
-        "timestamp":"2023-08-25T16:51:40.177Z"},
+        "_version_":1801078618315554816,
+        "timestamp":"2024-06-06T02:53:40.116Z"},
       {
         "id":"pr436_dommerich_houseaspace_0825186020a3e3b3c52294532bcf1668",
         "ead_ssi":"pr436_dommerich_house",
@@ -79,12 +81,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["History"],
         "unitdate_ssm":["1980s?"],
-        "_version_":1775220608426049536,
-        "timestamp":"2023-08-25T16:51:40.211Z"},
+        "_version_":1801078618329186304,
+        "timestamp":"2024-06-06T02:53:40.129Z"},
       {
         "id":"pr436_dommerich_houseaspace_4abfbcc18c3d12e4f3262b3250bf210c",
         "ead_ssi":"pr436_dommerich_house",
@@ -100,8 +101,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Blueprints (rolled)"],
         "unitdate_ssm":["Inclusive, 1916-1917, 1944"],
-        "_version_":1775220608530907136,
-        "timestamp":"2023-08-25T16:51:40.311Z"},
+        "_version_":1801078618365886464,
+        "timestamp":"2024-06-06T02:53:40.164Z"},
       {
         "id":"pr436_dommerich_houseaspace_6565c443ea5dd9505ed5b718859f48bd",
         "ead_ssi":"pr436_dommerich_house",
@@ -114,12 +115,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 5-9",
-          "Folder: 5-9"],
+        "location_ssm":["Box: 1, Folder: 5-9"],
         "heading_ssm":["Snapshots of 1980s interior details (5 folders)"],
         "unitdate_ssm":["Inclusive, 1982-1983"],
-        "_version_":1775220608497352704,
-        "timestamp":"2023-08-25T16:51:40.278Z"},
+        "_version_":1801078618354352128,
+        "timestamp":"2024-06-06T02:53:40.153Z"},
       {
         "id":"pr436_dommerich_houseaspace_f39a335a77c39cb77207947260bfb68c",
         "ead_ssi":"pr436_dommerich_house",
@@ -132,12 +132,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2-4",
-          "Folder: 2-4"],
+        "location_ssm":["Box: 1, Folder: 2-4"],
         "heading_ssm":["Prints of original photographs (3 folders)"],
         "unitdate_ssm":["Inclusive, 1920s?"],
-        "_version_":1775220608460652544,
-        "timestamp":"2023-08-25T16:51:40.244Z"}]
+        "_version_":1801078618341769216,
+        "timestamp":"2024-06-06T02:53:40.141Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -145,7 +144,8 @@
       "repository_sim":[
         "nyhs",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Pelton, Harry C., 1867-1935",1],
       "date_range_sim":[
         "undated & other",5],
       "subject_sim":[

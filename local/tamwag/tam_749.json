@@ -47,6 +47,8 @@
         "unittitle_ssm":["Marilyn Young Papers"],
         "unitid_ssm":["TAM.749"],
         "abstract_ssm":["The Marilyn Young Papers (dated 1972–2002) consist of writings and research files of New York University historian Marilyn B. Young. Marilyn Young was an historian of foreign policy whose work focused on United States foreign policy in Asia during the Cold War. Her papers consist of research files and writings related to her scholarship on US Cold War policy and the Vietnam War. Her papers also include correspondence, articles, and drafts related to China, the Korean War, 1940s Japan, Women's Rights in the US, and American policy in Guatemala and El Salvador in the 1980s."],
+        "creator_ssm":["Young, Marilyn Blatt",
+          "Young, Marilyn Blatt"],
         "unitdate_normal_ssm":["1972/2002"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "geogname_ssm":["Vietnam -- Politics and government -- 1945-1975."],
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1972-2002"],
-        "_version_":1799792261418975232,
-        "timestamp":"2024-05-22T22:07:34.582Z"}]
+        "_version_":1802184597563244544,
+        "timestamp":"2024-06-18T07:52:44.119Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Young, Marilyn Blatt",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

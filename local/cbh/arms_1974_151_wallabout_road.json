@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Commissioners' report on Wallabout Road construction damages"],
         "unitid_ssm":["1974.151"],
         "abstract_ssm":["A report issued by commissioners appointed to investigate damages to property sustained as a result of the construction of Wallabout Road in Brooklyn in 1821. The owners of the damaged property were Abraham Boerum, Abraham Remsen, Jeremiah A. Remsen, and Jeremiah Johnson. The commissioners appointed to investigate the matter were John C. Vanderveer, John Tehune, and Jeremiah Lott. The report names all of the individuals involved in the matter, as well as the commissioners' assessment of the damages incurred by the construction."],
+        "creator_ssm":["Lott, Jeremiah",
+          "Terhune, John",
+          "Vanderveer, John C.",
+          "Lott, Jeremiah",
+          "Terhune, John",
+          "Vanderveer, John C."],
         "unitdate_normal_ssm":["1821/1821"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Remsen family"],
@@ -73,8 +79,8 @@
         "unitdate_end_ssm":["1821"],
         "unitdate_ssm":["Inclusive, 1821"],
         "language_ssm":["English"],
-        "_version_":1799256301812842496,
-        "timestamp":"2024-05-17T00:08:43.671Z"}]
+        "_version_":1801960373701574656,
+        "timestamp":"2024-06-15T20:28:47.581Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +88,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lott, Jeremiah",1,
+        "Terhune, John",1,
+        "Vanderveer, John C.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

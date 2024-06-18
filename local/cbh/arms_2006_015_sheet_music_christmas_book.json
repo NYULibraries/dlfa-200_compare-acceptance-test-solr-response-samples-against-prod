@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sheet music and Christmas book"],
         "unitid_ssm":["2006.015"],
         "abstract_ssm":["Sheet music for the song \"Moon over Brooklyn,\" dated 1946, and an illustrated Christmas story book titled To the Little Boys of Long Island, dated 1885.  The book was printed by clothier O.S. Baldwin of Baldwin Building at the southwest corner of Smith and Fulton Streets in Brooklyn."],
+        "creator_ssm":["Baldwin, O. S.",
+          "Baldwin, O. S."],
         "unitdate_normal_ssm":["1885/1946"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Christmas stories",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1946"],
         "unitdate_ssm":["Inclusive, 1885, 1946"],
         "language_ssm":["English"],
-        "_version_":1799311715305783296,
-        "timestamp":"2024-05-17T14:49:30.096Z"}]
+        "_version_":1801963938546450432,
+        "timestamp":"2024-06-15T21:25:27.282Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Baldwin, O. S.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

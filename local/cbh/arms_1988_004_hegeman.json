@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Hegeman family papers"],
         "unitid_ssm":["1988.004"],
         "abstract_ssm":["The Hegeman family papers, measuring .21 linear feet, document the daily lives, careers, property, financial concerns, and family matters of the Hegeman family of Brooklyn, 1809 to 1886."],
+        "creator_ssm":["Hegeman, John L.",
+          "Hegeman, James",
+          "Hegeman family",
+          "Hegeman, Rem",
+          "Hegeman family",
+          "Hegeman, John L.",
+          "Hegeman, James",
+          "Hegeman, Rem"],
         "unitdate_normal_ssm":["1809/1886"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Hegeman family",
@@ -83,8 +91,8 @@
         "unitdate_end_ssm":["1886"],
         "unitdate_ssm":["Inclusive, 1809-1886"],
         "language_ssm":["English"],
-        "_version_":1799311723681808384,
-        "timestamp":"2024-05-17T14:49:38.084Z"},
+        "_version_":1801963433454731264,
+        "timestamp":"2024-06-15T21:17:25.589Z"},
       {
         "id":"arms_1988_004_hegemanaspace_ref10_d2p",
         "ead_ssi":"arms_1988_004_hegeman",
@@ -103,8 +111,8 @@
         "unitdate_end_ssm":["1884"],
         "unitdate_ssm":["Inclusive, circa 1800s"],
         "language_ssm":["English"],
-        "_version_":1799311723726897152,
-        "timestamp":"2024-05-17T14:49:38.127Z"},
+        "_version_":1801963433530228736,
+        "timestamp":"2024-06-15T21:17:25.661Z"},
       {
         "id":"arms_1988_004_hegemanaspace_ref12_hqs",
         "ead_ssi":"arms_1988_004_hegeman",
@@ -123,8 +131,8 @@
         "unitdate_end_ssm":["1886"],
         "unitdate_ssm":["Inclusive, 1847-1886"],
         "language_ssm":["English"],
-        "_version_":1799311723740528640,
-        "timestamp":"2024-05-17T14:49:38.14Z"},
+        "_version_":1801963433547005952,
+        "timestamp":"2024-06-15T21:17:25.677Z"},
       {
         "id":"arms_1988_004_hegemanaspace_ref14_quz",
         "ead_ssi":"arms_1988_004_hegeman",
@@ -143,8 +151,8 @@
         "unitdate_end_ssm":["1879"],
         "unitdate_ssm":["Inclusive, 1832-1879"],
         "language_ssm":["English"],
-        "_version_":1799311723754160128,
-        "timestamp":"2024-05-17T14:49:38.153Z"},
+        "_version_":1801963433571123200,
+        "timestamp":"2024-06-15T21:17:25.7Z"},
       {
         "id":"arms_1988_004_hegemanaspace_ref6_oav",
         "ead_ssi":"arms_1988_004_hegeman",
@@ -163,8 +171,8 @@
         "unitdate_end_ssm":["1845"],
         "unitdate_ssm":["Inclusive, 1838-1845"],
         "language_ssm":["English"],
-        "_version_":1799311723698585600,
-        "timestamp":"2024-05-17T14:49:38.1Z"},
+        "_version_":1801963433478848512,
+        "timestamp":"2024-06-15T21:17:25.612Z"},
       {
         "id":"arms_1988_004_hegemanaspace_ref8_7jy",
         "ead_ssi":"arms_1988_004_hegeman",
@@ -183,8 +191,8 @@
         "unitdate_end_ssm":["1878"],
         "unitdate_ssm":["Inclusive, 1809-1878"],
         "language_ssm":["English"],
-        "_version_":1799311723713265664,
-        "timestamp":"2024-05-17T14:49:38.114Z"}]
+        "_version_":1801963433500868608,
+        "timestamp":"2024-06-15T21:17:25.633Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -192,7 +200,11 @@
       "repository_sim":[
         "cbh",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hegeman family",1,
+        "Hegeman, James",1,
+        "Hegeman, John L.",1,
+        "Hegeman, Rem",1],
       "date_range_sim":[
         "1801-1900",6],
       "subject_sim":[

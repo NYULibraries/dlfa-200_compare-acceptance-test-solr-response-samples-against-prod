@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Abbot Low Moffat collection of Brooklyn photography"],
         "unitid_ssm":["V1980.003"],
         "abstract_ssm":["Images in the collection primarily depict houses and street scenes in Brooklyn, N.Y. While many houses are unidentified, the collection also includes images of notable Brooklyn homes, such as the Cortelyou House, the Lefferts House, the Lott House, and the Duryea house."],
+        "creator_ssm":["Martense, Adrian V. (Adrian Vanderveer)",
+          "Pierrepont, John Jay",
+          "Martense, Adrian V. (Adrian Vanderveer)",
+          "Pierrepont, John Jay"],
         "unitdate_normal_ssm":["1875/1925"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Green-Wood Cemetery (New York, N.Y.)"],
@@ -79,8 +83,8 @@
         "unitdate_end_ssm":["1925"],
         "unitdate_ssm":["Inclusive, circa 1885 to 1915"],
         "language_ssm":["English"],
-        "_version_":1799311646334648320,
-        "timestamp":"2024-05-17T14:48:24.32Z"}]
+        "_version_":1802044881198120960,
+        "timestamp":"2024-06-16T18:52:00.209Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +92,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Martense, Adrian V. (Adrian Vanderveer)",1,
+        "Pierrepont, John Jay",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

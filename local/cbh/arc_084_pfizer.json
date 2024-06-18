@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Pfizer Inc. collection"],
         "unitid_ssm":["ARC.084"],
         "abstract_ssm":["Pfizer Inc. was founded in 1849 by German immigrants and cousins Charles Pfizer and Charles Erhart under the name Charles Pfizer & Company.  The company's original headquarters were in a red-brick building in the Town of Williamsburgh, now the neighborhood of Williamsburg in the borough of Brooklyn.  By 1899 Pfizer was an established leader in the American chemical industry, and by the end of the 20th century it was a worldwide leader in the pharmaceutical industry.  Pfizer has also served as one of the major employers of the Brooklyn labor force, and when the area surrounding its plant fell into a period of decline in the 1970s and 1980s, the company formed a public-private partnership with the city that resulted in increased jobs, housing, and education.  The Pfizer Inc. collection contains materials pertaining to Pfizer's roles as a global leader in the pharmaceutical industry and a local employer in the Brooklyn community, as well as the closing of the company's Brooklyn plant in 2009.  Materials include reports and publications, photographs, and oral history transcripts and recordings."],
+        "creator_ssm":["Pfizer Inc.",
+          "Brooklyn Historical Society (Brooklyn, New York, N.Y.)",
+          "Pfizer Inc.",
+          "Brooklyn Historical Society (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1839/2008"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Pfizer Inc.",
@@ -90,8 +94,8 @@
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, circa 1849-1992, 2007-2008"],
         "language_ssm":["English"],
-        "_version_":1799311444538294272,
-        "timestamp":"2024-05-17T14:45:11.872Z"},
+        "_version_":1801958932006043648,
+        "timestamp":"2024-06-15T20:05:52.673Z"},
       {
         "id":"arc_084_pfizeraspace_ref1_aha",
         "ead_ssi":"arc_084_pfizer",
@@ -109,8 +113,8 @@
         "unitdate_start_ssm":["1963"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1963-1992"],
-        "_version_":1799311444562411520,
-        "timestamp":"2024-05-17T14:45:11.895Z"},
+        "_version_":1801958932028063744,
+        "timestamp":"2024-06-15T20:05:52.694Z"},
       {
         "id":"arc_084_pfizeraspace_ref3_1ua",
         "ead_ssi":"arc_084_pfizer",
@@ -128,8 +132,8 @@
         "unitdate_start_ssm":["2007"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 2007-2008"],
-        "_version_":1799311444598063104,
-        "timestamp":"2024-05-17T14:45:11.929Z"},
+        "_version_":1801958932071055360,
+        "timestamp":"2024-06-15T20:05:52.735Z"},
       {
         "id":"arc_084_pfizeraspace_ref4_t0j",
         "ead_ssi":"arc_084_pfizer",
@@ -145,8 +149,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 2: Photographs"],
         "unitdate_ssm":["circa 1849-1985"],
-        "_version_":1799311444581285888,
-        "timestamp":"2024-05-17T14:45:11.913Z"}]
+        "_version_":1801958932044840960,
+        "timestamp":"2024-06-15T20:05:52.71Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -154,7 +158,9 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Historical Society (Brooklyn, New York, N.Y.)",1,
+        "Pfizer Inc.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

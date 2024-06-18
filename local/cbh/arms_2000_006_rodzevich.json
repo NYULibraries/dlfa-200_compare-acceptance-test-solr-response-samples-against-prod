@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Helen Rodzevich school ephemera collection"],
         "unitid_ssm":["2000.006"],
         "abstract_ssm":["Junior high school and high school programs, certificates, graduation commencement exercises, and congratulatory cards belonging to Brooklyn resident Helen Rodzevich."],
+        "creator_ssm":["Rodzevich, Helen",
+          "Rodzevich, Helen"],
         "unitdate_normal_ssm":["1944/1947"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Cards (information artifacts)",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["Inclusive, 1944-1947"],
         "language_ssm":["English"],
-        "_version_":1799311503248064512,
-        "timestamp":"2024-05-17T14:46:07.862Z"},
+        "_version_":1801963816244740096,
+        "timestamp":"2024-06-15T21:23:30.646Z"},
       {
         "id":"arms_2000_006_rodzevichaspace_04ff5989b8cb6aaaba60b739b33e9bdd",
         "ead_ssi":"arms_2000_006_rodzevich",
@@ -86,8 +88,8 @@
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["John Ericsson Junior High School at P.S. 126"],
-        "_version_":1799311503367602176,
-        "timestamp":"2024-05-17T14:46:07.976Z"},
+        "_version_":1801963816333869056,
+        "timestamp":"2024-06-15T21:23:30.731Z"},
       {
         "id":"arms_2000_006_rodzevichaspace_072aea6378557c5611974fae787806a9",
         "ead_ssi":"arms_2000_006_rodzevich",
@@ -101,8 +103,8 @@
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Prospect Heights High School"],
-        "_version_":1799311503291056128,
-        "timestamp":"2024-05-17T14:46:07.903Z"},
+        "_version_":1801963816280391680,
+        "timestamp":"2024-06-15T21:23:30.679Z"},
       {
         "id":"arms_2000_006_rodzevichaspace_3636ab801f36308bda9cf6541bc69e3b",
         "ead_ssi":"arms_2000_006_rodzevich",
@@ -123,8 +125,8 @@
         "location_ssm":["Box: A0143"],
         "heading_ssm":["Graduating Exercises program and ticket"],
         "unitdate_ssm":["1944 January 19"],
-        "_version_":1799311503396962304,
-        "timestamp":"2024-05-17T14:46:08.004Z"},
+        "_version_":1801963816349597696,
+        "timestamp":"2024-06-15T21:23:30.746Z"},
       {
         "id":"arms_2000_006_rodzevichaspace_55b1308274f6a7e416f07fa893b85f69",
         "ead_ssi":"arms_2000_006_rodzevich",
@@ -145,8 +147,8 @@
         "location_ssm":["Box: A0143"],
         "heading_ssm":["Diploma"],
         "unitdate_ssm":["1944 January 24"],
-        "_version_":1799311503432613888,
-        "timestamp":"2024-05-17T14:46:08.038Z"},
+        "_version_":1801963816366374912,
+        "timestamp":"2024-06-15T21:23:30.762Z"},
       {
         "id":"arms_2000_006_rodzevichaspace_5eb323fcc2a4781da8d3107b37280b7f",
         "ead_ssi":"arms_2000_006_rodzevich",
@@ -167,8 +169,8 @@
         "location_ssm":["Box: A0143"],
         "heading_ssm":["Class day booklet"],
         "unitdate_ssm":["1947 January 10"],
-        "_version_":1799311503316221952,
-        "timestamp":"2024-05-17T14:46:07.927Z"},
+        "_version_":1801963816296120320,
+        "timestamp":"2024-06-15T21:23:30.695Z"},
       {
         "id":"arms_2000_006_rodzevichaspace_6d8cef5756d43577653622c5da5065d8",
         "ead_ssi":"arms_2000_006_rodzevich",
@@ -184,8 +186,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: A0143"],
         "heading_ssm":["Graduation cards from Mother and Willy"],
-        "_version_":1799311503270084608,
-        "timestamp":"2024-05-17T14:46:07.883Z"},
+        "_version_":1801963816262565888,
+        "timestamp":"2024-06-15T21:23:30.663Z"},
       {
         "id":"arms_2000_006_rodzevichaspace_7282e7057a95ca839b3871fa12c9b3bd",
         "ead_ssi":"arms_2000_006_rodzevich",
@@ -206,8 +208,8 @@
         "location_ssm":["Box: A0143"],
         "heading_ssm":["Fifty-Fourth Commencement Exercises booklet"],
         "unitdate_ssm":["1947 February 4"],
-        "_version_":1799311503345582080,
-        "timestamp":"2024-05-17T14:46:07.955Z"}]
+        "_version_":1801963816320237568,
+        "timestamp":"2024-06-15T21:23:30.718Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -215,7 +217,8 @@
       "repository_sim":[
         "cbh",8],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rodzevich, Helen",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",7],

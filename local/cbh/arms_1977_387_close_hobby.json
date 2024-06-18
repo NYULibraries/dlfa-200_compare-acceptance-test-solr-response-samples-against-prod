@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Thomas Close letter to Jemima Hobby"],
         "unitid_ssm":["1977.387"],
         "abstract_ssm":["One 1806 letter from Thomas Close of New York to Jemima Hobby containing a love poem."],
+        "creator_ssm":["Close, Thomas",
+          "Close, Thomas"],
         "unitdate_normal_ssm":["1806/1806"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1806"],
         "unitdate_ssm":["1806"],
         "language_ssm":["English"],
-        "_version_":1799256330497687552,
-        "timestamp":"2024-05-17T00:09:11.027Z"}]
+        "_version_":1801961505479983104,
+        "timestamp":"2024-06-15T20:46:46.929Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Close, Thomas",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

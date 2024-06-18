@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -70,8 +70,8 @@
         "unitdate_end_ssm":["1923"],
         "unitdate_ssm":["1923"],
         "language_ssm":["English"],
-        "_version_":1799312455259652096,
-        "timestamp":"2024-05-17T15:01:15.771Z"},
+        "_version_":1802043959735746560,
+        "timestamp":"2024-06-16T18:37:21.435Z"},
       {
         "id":"bcms_0042aspace_ref14",
         "ead_ssi":"bcms_0042",
@@ -86,8 +86,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Autograph book"],
-        "_version_":1799312455275380736,
-        "timestamp":"2024-05-17T15:01:15.786Z"},
+        "_version_":1802043959761960960,
+        "timestamp":"2024-06-16T18:37:21.46Z"},
       {
         "id":"bcms_0042aspace_ref15",
         "ead_ssi":"bcms_0042",
@@ -102,8 +102,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Graduation photograph of class 8B"],
-        "_version_":1799312455291109376,
-        "timestamp":"2024-05-17T15:01:15.801Z"},
+        "_version_":1802043959791321088,
+        "timestamp":"2024-06-16T18:37:21.488Z"},
       {
         "id":"bcms_0042aspace_ref16",
         "ead_ssi":"bcms_0042",
@@ -118,8 +118,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Photograph of class 8B in their play costumes"],
-        "_version_":1799312455304740864,
-        "timestamp":"2024-05-17T15:01:15.814Z"},
+        "_version_":1802043959820681216,
+        "timestamp":"2024-06-16T18:37:21.516Z"},
       {
         "id":"bcms_0042aspace_ref17",
         "ead_ssi":"bcms_0042",
@@ -134,8 +134,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Postcard of P.S. 64"],
-        "_version_":1799312455320469504,
-        "timestamp":"2024-05-17T15:01:15.829Z"}]
+        "_version_":1802043959851089920,
+        "timestamp":"2024-06-16T18:37:21.545Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

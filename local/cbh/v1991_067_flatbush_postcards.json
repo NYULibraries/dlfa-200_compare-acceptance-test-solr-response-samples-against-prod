@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Collection of Flatbush postcards"],
         "unitid_ssm":["V1991.067"],
         "abstract_ssm":["The Collection of Flatbush postcards consists of 12 black-and-white photographic and picture postcards showing views of streets, houses, churches, schools, and storefronts located in the Flatbush neighborhood of Brooklyn, circa 1825 to 1905. The postcards include historical information pertaining to the subject depicted on each postcard and are labeled \"Town of Flatbush Civic and Cultural Association, Inc.\""],
+        "creator_ssm":["Flatbush Civic and Cultural Association",
+          "Flatbush Civic and Cultural Association"],
         "unitdate_normal_ssm":["1815/1915"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Flatbush Civic and Cultural Association"],
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1915"],
         "unitdate_ssm":["Inclusive, circa 1825 to 1905"],
         "language_ssm":["English"],
-        "_version_":1799312397700169728,
-        "timestamp":"2024-05-17T15:00:20.878Z"}]
+        "_version_":1802045481551921152,
+        "timestamp":"2024-06-16T19:01:32.752Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Flatbush Civic and Cultural Association",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

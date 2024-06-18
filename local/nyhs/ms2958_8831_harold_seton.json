@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Harold Seton papers"],
         "unitid_ssm":["AHMC - Seton, Harold"],
         "abstract_ssm":["Collection of 12 letters written by Seton to Lucius Beebe, society columnist for the New York Herald-Tribune, and 36 pages of notes, presumably written by Seton. The letters divulge gossip about upper-class society members of New York City and Newport, Rhode Island. The notes discuss Seton's extensive photograph collection, and various New York City topics such as news items from the 1890s, bohemia, restaurants, gambling, and hotels."],
+        "creator_ssm":["Seton, Harold",
+          "Seton, Harold"],
         "corpname_ssm":["New-York Historical Society",
           "New York Herald Tribune (Firm)"],
         "genreform_ssm":["Correspondence.",
@@ -77,8 +79,8 @@
           "Notes (documents)"],
         "heading_ssm":["Harold Seton papers"],
         "unitdate_ssm":["1935"],
-        "_version_":1799318560234799104,
-        "timestamp":"2024-05-17T16:38:17.929Z"},
+        "_version_":1802083634388140032,
+        "timestamp":"2024-06-17T05:07:58.132Z"},
       {
         "id":"ms2958_8831_harold_setonaspace_9500426e0507ca8c6d376bb534dafb0d",
         "ead_ssi":"ms2958_8831_harold_seton",
@@ -94,8 +96,8 @@
         "location_ssm":["Folder: AHMC-Seton, Harold"],
         "heading_ssm":["Harold Seton papers"],
         "unitdate_ssm":["Inclusive, 1935"],
-        "_version_":1799318560259964928,
-        "timestamp":"2024-05-17T16:38:17.952Z"}]
+        "_version_":1802083634408062976,
+        "timestamp":"2024-06-17T05:07:58.15Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -103,7 +105,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Seton, Harold",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

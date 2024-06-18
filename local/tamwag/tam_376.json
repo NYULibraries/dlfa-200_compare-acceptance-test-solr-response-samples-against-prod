@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Barney Mayes Untitled Novel on Maritime Labor"],
         "unitid_ssm":["TAM.376"],
+        "creator_ssm":["Mayes, Barney",
+          "Mayes, Barney"],
         "unitdate_normal_ssm":["1930/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Sailors' Union of the Pacific",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1930s-1980s"],
         "language_ssm":["English"],
-        "_version_":1799782847547965440,
-        "timestamp":"2024-05-22T19:37:56.815Z"}]
+        "_version_":1802176923695054848,
+        "timestamp":"2024-06-18T05:50:45.748Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Mayes, Barney",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

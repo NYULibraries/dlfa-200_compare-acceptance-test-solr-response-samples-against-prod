@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of NYU Shanghai"],
         "unitid_ssm":["RG.50"],
         "abstract_ssm":["New York University Shanghai (NYU Shanghai) is a university established jointly by New York University and East China Normal University of Shanghai in 2012. The student population is approximately 1,300 undergraduate and graduate students, about half of whom are from China. The Records of NYU Shanghai consists of materials documenting the school's campus, courses, and students. Materials in this collection include ephemera, course catalogs, and other publications dated approximately 2013-2018."],
+        "creator_ssm":["New York University in Shanghai",
+          "New York University in Shanghai"],
         "unitdate_normal_ssm":["2013/2018"],
         "corpname_ssm":["New York University Archives",
           "New York University in Shanghai",
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["2013"],
         "unitdate_end_ssm":["2018"],
         "unitdate_ssm":["Inclusive, 2013-2018"],
-        "_version_":1799255804336930816,
-        "timestamp":"2024-05-17T00:00:49.241Z"},
+        "_version_":1801955222310879232,
+        "timestamp":"2024-06-15T19:06:54.832Z"},
       {
         "id":"rg_50aspace_382b2207f402a894e7d22c37f81675cf",
         "ead_ssi":"rg_50",
@@ -79,14 +81,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 1-4",
-          "Folder: 1-4"],
+        "location_ssm":["Box: 2, Folder: 1-4"],
         "heading_ssm":["Ephemera and Publications"],
         "unitdate_start_ssm":["2013"],
         "unitdate_end_ssm":["2018"],
         "unitdate_ssm":["Inclusive, 2013-2018"],
-        "_version_":1799255804374679552,
-        "timestamp":"2024-05-17T00:00:49.277Z"},
+        "_version_":1801955222345482240,
+        "timestamp":"2024-06-15T19:06:54.865Z"},
       {
         "id":"rg_50aspace_7ee78fda0d3f8cad44a0c092885c212a",
         "ead_ssi":"rg_50",
@@ -105,8 +106,8 @@
         "unitdate_start_ssm":["2012"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["Inclusive, circa 2012-2019"],
-        "_version_":1799255804357902336,
-        "timestamp":"2024-05-17T00:00:49.261Z"}]
+        "_version_":1801955222327656448,
+        "timestamp":"2024-06-15T19:06:54.848Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -114,7 +115,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University in Shanghai",1],
       "date_range_sim":[
         "2001-2100",3],
       "subject_sim":[

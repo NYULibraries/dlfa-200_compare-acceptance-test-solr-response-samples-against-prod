@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Steven W. Giles glass plate negatives and other photographic material"],
         "unitid_ssm":["V1980.001"],
         "abstract_ssm":["The collection is composed of glass plate negatives, film negatives, prints, and a scrapbook  by Flatbush resident Steven W. Giles. The images show houses, businesses, and street scenes in the Flatbush and Flatlands neighborhoods of Brooklyn, concentrated on or around Flatbush Avenue and Kings Highway."],
+        "creator_ssm":["Giles, Steven W.",
+          "Giles, Steven W."],
         "unitdate_normal_ssm":["1898/1920"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Scrapbooks",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, 1898 to circa 1910"],
         "language_ssm":["English"],
-        "_version_":1799256202021961728,
-        "timestamp":"2024-05-17T00:07:08.503Z"}]
+        "_version_":1802044871528153088,
+        "timestamp":"2024-06-16T18:51:50.988Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Giles, Steven W.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

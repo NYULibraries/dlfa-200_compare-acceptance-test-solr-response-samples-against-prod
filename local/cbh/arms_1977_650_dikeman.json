@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["John Dikeman papers"],
         "unitid_ssm":["1977.650"],
         "abstract_ssm":["This collection includes a document drawn up by John Dikeman pertaining to the estate of Josiah Dikeman and signed by his four sons (dated February 8, 1819), and a receipt of items bought from John Dikeman by William R. Dean (dated April  24, 1819).  John Dikeman, judge and lawyer, helped found and taught in a Sunday School for African-Americans in the village of Brooklyn (circa 1815)."],
+        "creator_ssm":["Dean, William R.",
+          "Dikeman, John",
+          "Dean, William R.",
+          "Dikeman, John"],
         "unitdate_normal_ssm":["1819/1819"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Estate records"],
@@ -65,8 +69,8 @@
         "unitdate_end_ssm":["1819"],
         "unitdate_ssm":["Inclusive, 1819"],
         "language_ssm":["English"],
-        "_version_":1799311499205804032,
-        "timestamp":"2024-05-17T14:46:04.007Z"}]
+        "_version_":1801962146907553792,
+        "timestamp":"2024-06-15T20:56:58.641Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +78,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dean, William R.",1,
+        "Dikeman, John",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

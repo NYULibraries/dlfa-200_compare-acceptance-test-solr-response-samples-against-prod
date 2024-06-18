@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ralph Marx real estate records"],
         "unitid_ssm":["ARC.013"],
         "abstract_ssm":["The Ralph Marx real estate records contain appraisals, property information, and photographs for Brooklyn properties in the 1960s and 1970s. All records were created by Ralph Marx during the course of his career as a real estate broker in New York City."],
+        "creator_ssm":["Marx, Ralph",
+          "Marx, Ralph"],
         "unitdate_normal_ssm":["1967/1975"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographs",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1967-1975"],
         "language_ssm":["English"],
-        "_version_":1775221896495759360,
-        "timestamp":"2023-08-25T17:12:08.61Z"},
+        "_version_":1800599822462353408,
+        "timestamp":"2024-05-31T20:03:24.807Z"},
       {
         "id":"arc_013_marxaspace_ref10_xdw",
         "ead_ssi":"arc_013_marx",
@@ -90,8 +92,8 @@
         "unitdate_start_ssm":["1967"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1967-1975"],
-        "_version_":1775221896631025664,
-        "timestamp":"2023-08-25T17:12:08.739Z"},
+        "_version_":1800599822503247872,
+        "timestamp":"2024-05-31T20:03:24.847Z"},
       {
         "id":"arc_013_marxaspace_ref8_x71",
         "ead_ssi":"arc_013_marx",
@@ -109,8 +111,8 @@
         "unitdate_start_ssm":["1967"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1967-1975"],
-        "_version_":1775221896547139584,
-        "timestamp":"2023-08-25T17:12:08.659Z"},
+        "_version_":1800599822477033472,
+        "timestamp":"2024-05-31T20:03:24.822Z"},
       {
         "id":"arc_013_marxaspace_ref9_7yr",
         "ead_ssi":"arc_013_marx",
@@ -128,8 +130,8 @@
         "unitdate_start_ssm":["1963"],
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, circa 1963"],
-        "_version_":1775221896589082624,
-        "timestamp":"2023-08-25T17:12:08.699Z"}]
+        "_version_":1800599822490664960,
+        "timestamp":"2024-05-31T20:03:24.835Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -137,7 +139,8 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Marx, Ralph",1],
       "date_range_sim":[
         "1901-2000",4],
       "subject_sim":[

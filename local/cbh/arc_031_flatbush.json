@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":22,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Town of Flatbush records"],
         "unitid_ssm":["ARC.031"],
         "abstract_ssm":["The Town of Flatbush, one of the six original towns to comprise the present-day borough of Brooklyn, was founded in 1636 when Dutch settlers purchased land from the Native Americans of the region, known as the Lenape (people).  Flatbush flourished as a rural farming community until the latter half of the 19th century, when the advent of a system of roads and advances in transportation began to bring commercial influence to the area.  With the completion of the Brooklyn Bridge in 1883 and Brooklyn's consolidation as a borough of New York City in 1898, the character of Flatbush changed profoundly as waves of New York residents and new immigrants came flooding in to settle in the developing area, transforming it into a thriving suburb.  As of 2010, Flatbush is one of the most multicultural neighborhoods of the borough of Brooklyn.  The Town of Flatbush records consist of assessment roles recording real and personal estate tax assessments for the years 1839 and 1853, as well as Registers of Electors recording voter names for the years 1860 and 1861.  There are also three bound volumes spanning the period 1799 to 1894 and including a list of candidates, reports of election committees, poll lists, minutes of meetings of the Electors, and minutes of annual town meetings."],
+        "creator_ssm":["Flatbush (New York, N.Y.)",
+          "Flatbush (New York, N.Y.)"],
         "unitdate_normal_ssm":["1799/1894"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Flatbush (New York, N.Y.)",
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["1894"],
         "unitdate_ssm":["Inclusive, 1799-1894"],
         "language_ssm":["English"],
-        "_version_":1799312376431902720,
-        "timestamp":"2024-05-17T15:00:00.594Z"}]
+        "_version_":1801958724941643776,
+        "timestamp":"2024-06-15T20:02:35.201Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Flatbush (New York, N.Y.)",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

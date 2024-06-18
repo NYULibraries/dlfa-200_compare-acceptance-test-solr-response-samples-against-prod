@@ -47,6 +47,12 @@
         "unittitle_ssm":["Elizabeth A. Finck stereoscopic photographs"],
         "unitid_ssm":["V1991.044"],
         "abstract_ssm":["The Elizabeth A. Finck stereoscopic photographs consist of 13 items dating from circa 1900. The collection includes 10 black-and-white stereoscopic prints, one double-sided stereograph, and two black-and-white stereoscopic glass negatives. The photographs show views of Prospect Park and an unidentified area in Brooklyn (possibly the Brooklyn Botanic Garden). It is unclear if the photographer was Seth W. Fox or Arthur W. Fox."],
+        "creator_ssm":["Fox, Seth W.",
+          "Finck, Elizabeth A.",
+          "Fox, Arthur W.",
+          "Fox, Seth W.",
+          "Finck, Elizabeth A.",
+          "Fox, Arthur W."],
         "unitdate_normal_ssm":["1890/1910"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Landscapes (representations)",
@@ -74,8 +80,8 @@
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, circa 1900"],
         "language_ssm":["English"],
-        "_version_":1799256292865343488,
-        "timestamp":"2024-05-17T00:08:35.137Z"}]
+        "_version_":1802045454218690560,
+        "timestamp":"2024-06-16T19:01:06.685Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +89,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Finck, Elizabeth A.",1,
+        "Fox, Arthur W.",1,
+        "Fox, Seth W.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

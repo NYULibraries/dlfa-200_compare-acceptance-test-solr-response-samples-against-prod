@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Margaret Nagle Letters"],
         "unitid_ssm":["AIA.077"],
         "abstract_ssm":["Margaret Nagle was an Irish emigrant from County Cork, who lived and worked in New York City as a domestic servant in the 1860s. This collection consists of scans and typescripts of letters written between Nagle and members of her family in the late 1860s and early 1870s. Nagle dictated her letters to a professional letter-writer in New York City and kept the drafts while the finished versions were sent to her family in Cork. The letters detail everyday activities and document the ways in which illiterate or semi-literate immigrants communicated with their families in a written format."],
+        "creator_ssm":["Kearin, Chris",
+          "Nagle, Margaret",
+          "Kearin, Chris",
+          "Nagle, Margaret"],
         "unitdate_normal_ssm":["1866/1870"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "geogname_ssm":["Ireland -- Emigration and immigration.",
@@ -65,8 +69,8 @@
         "unitdate_start_ssm":["1866"],
         "unitdate_end_ssm":["1870"],
         "unitdate_ssm":["Inclusive, 1866-1870"],
-        "_version_":1775223231950618624,
-        "timestamp":"2023-08-25T17:33:22.199Z"}]
+        "_version_":1801119191313416192,
+        "timestamp":"2024-06-06T13:38:33.541Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +78,9 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kearin, Chris",1,
+        "Nagle, Margaret",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

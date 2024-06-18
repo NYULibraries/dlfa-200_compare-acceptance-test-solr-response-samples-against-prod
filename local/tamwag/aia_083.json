@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["FitzSimons Family Letters"],
         "unitid_ssm":["AIA.083"],
         "abstract_ssm":["The FitzSimons family lived in Ireland, mainly in Dublin, with some members immigrating to the United States.  The most famous member of the family was the film actress Maureen O'Hara.  The FitzSimons Family Letters consist of letters sent to and from members of the FitzSimons family in Ireland, the United States, and Rhodesia, between 1941 and 1977.  The majority of the letters are addressed to Maureen O'Hara."],
+        "creator_ssm":["Fitzsimmons family",
+          "Fitzsimmons family"],
         "unitdate_normal_ssm":["1941/1977"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "famname_ssm":["Fitzsimmons family"],
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1941"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1941-1977"],
-        "_version_":1799747616431407104,
-        "timestamp":"2024-05-22T10:17:57.804Z"},
+        "_version_":1802110338936602624,
+        "timestamp":"2024-06-17T12:12:25.573Z"},
       {
         "id":"aia_083aspace_07acc3a9959ab11626eaa738e86c5c08",
         "ead_ssi":"aia_083",
@@ -82,14 +84,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-6",
-          "Folder: 1-6"],
+        "location_ssm":["Box: 1, Folder: 1-6"],
         "heading_ssm":["Letters"],
         "unitdate_start_ssm":["1941"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1941-1977"],
-        "_version_":1799747616447135744,
-        "timestamp":"2024-05-22T10:17:57.819Z"}]
+        "_version_":1802110338957574144,
+        "timestamp":"2024-06-17T12:12:25.593Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,7 +98,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fitzsimmons family",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Oliver Starr St. John lecture notes on the Battle of Long Island"],
         "unitid_ssm":["1973.286"],
         "abstract_ssm":["One bound volume containing handwritten notes on a lecture given by Oliver Starr St. John on the Battle of Long Island at the Long Island Historical Society (now the Brooklyn Historical Society) in 1864."],
+        "creator_ssm":["St. John, Oliver S.",
+          "St. John, Oliver S."],
         "unitdate_normal_ssm":["1864/1864"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Lecture notes"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1864"],
         "unitdate_ssm":["Inclusive, 1864"],
         "language_ssm":["English"],
-        "_version_":1799256312784093184,
-        "timestamp":"2024-05-17T00:08:54.134Z"}]
+        "_version_":1801960180079919104,
+        "timestamp":"2024-06-15T20:25:42.929Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "St. John, Oliver S.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

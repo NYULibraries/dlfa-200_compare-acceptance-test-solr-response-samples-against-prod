@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Josiah M. Grumman diary"],
         "unitid_ssm":["1973.110"],
         "abstract_ssm":["One diary kept by Josiah M. Grumman while he was held prisoner at the Confederate Libby Prison in Richmond, VA from 1861 to 1862."],
+        "creator_ssm":["Grumman, Josiah M.",
+          "Grumman, Josiah M."],
         "unitdate_normal_ssm":["1861/1862"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Army. New York Infantry Regiment, 84th (1861-1864)",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1862"],
         "unitdate_ssm":["Inclusive, 1861-1862"],
         "language_ssm":["English"],
-        "_version_":1799256214831366144,
-        "timestamp":"2024-05-17T00:07:20.719Z"}]
+        "_version_":1801959956419706880,
+        "timestamp":"2024-06-15T20:22:09.63Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Grumman, Josiah M.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

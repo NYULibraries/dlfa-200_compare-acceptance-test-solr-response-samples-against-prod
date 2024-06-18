@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Association for Erecting a Monument to the 11,500 Martyrs of the British Prison Ships bylaws and minutes"],
         "unitid_ssm":["1977.048"],
         "abstract_ssm":["One bound volume containing bylaws and minutes of the Brooklyn-based Association for Erecting a Monument to the 11,500 Martyrs of the British Prison Ships, spanning 1852 to 1855."],
+        "creator_ssm":["Association for Erecting a Monument to the 11,500 Martyrs of the British Prison Ships (Brooklyn, New York, N.Y.)",
+          "Association for Erecting a Monument to the 11,500 Martyrs of the British Prison Ships (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1852/1855"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Association for Erecting a Monument to the 11,500 Martyrs of the British Prison Ships (Brooklyn, New York, N.Y.)"],
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1855"],
         "unitdate_ssm":["Inclusive, 1852-1855"],
         "language_ssm":["English"],
-        "_version_":1799256310228713472,
-        "timestamp":"2024-05-17T00:08:51.697Z"}]
+        "_version_":1801960597039874048,
+        "timestamp":"2024-06-15T20:32:20.573Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Association for Erecting a Monument to the 11,500 Martyrs of the British Prison Ships (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

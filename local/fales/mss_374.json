@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":21,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Fales Zine Collection"],
         "unitid_ssm":["MSS.374"],
         "abstract_ssm":["The Fales Zine Collection includes zines donated to the Fales Library & Special Collections and zines created through various projects.  The collection was created by the Fales Library & Special Collections to house the zines in its collections that did not belong to any collection already."],
+        "creator_ssm":["Fales Library",
+          "Fales Library"],
         "unitdate_normal_ssm":["1990/2013"],
         "corpname_ssm":["Fales Library and Special Collections",
           "Fales Library"],
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["Inclusive, 1990-2013"],
-        "_version_":1799739692447432704,
-        "timestamp":"2024-05-22T08:12:00.904Z"},
+        "_version_":1802071271806074880,
+        "timestamp":"2024-06-17T01:51:28.255Z"},
       {
         "id":"mss_374aspace_ref1",
         "ead_ssi":"mss_374",
@@ -82,8 +84,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["Inclusive, Undated"],
-        "_version_":1799739692460015616,
-        "timestamp":"2024-05-22T08:12:00.916Z"},
+        "_version_":1802071271822852096,
+        "timestamp":"2024-06-17T01:51:28.271Z"},
       {
         "id":"mss_374aspace_ref10",
         "ead_ssi":"mss_374",
@@ -107,8 +109,8 @@
         "unitdate_start_ssm":["2012"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, [2012]"],
-        "_version_":1799739692682313728,
-        "timestamp":"2024-05-22T08:12:01.128Z"},
+        "_version_":1802071272125890560,
+        "timestamp":"2024-06-17T01:51:28.56Z"},
       {
         "id":"mss_374aspace_ref11",
         "ead_ssi":"mss_374",
@@ -132,8 +134,8 @@
         "unitdate_start_ssm":["2012"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, [2012]"],
-        "_version_":1799739692696993792,
-        "timestamp":"2024-05-22T08:12:01.142Z"},
+        "_version_":1802071272163639296,
+        "timestamp":"2024-06-17T01:51:28.595Z"},
       {
         "id":"mss_374aspace_ref12",
         "ead_ssi":"mss_374",
@@ -154,8 +156,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Jonathan Berger's Class"],
         "unitdate_ssm":["undated"],
-        "_version_":1799739692485181440,
-        "timestamp":"2024-05-22T08:12:00.94Z"},
+        "_version_":1802071271857455104,
+        "timestamp":"2024-06-17T01:51:28.304Z"},
       {
         "id":"mss_374aspace_ref13",
         "ead_ssi":"mss_374",
@@ -177,8 +179,8 @@
         "unitdate_start_ssm":["2011"],
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["Inclusive, 2011"],
-        "_version_":1799739692724256768,
-        "timestamp":"2024-05-22T08:12:01.168Z"},
+        "_version_":1802071272203485184,
+        "timestamp":"2024-06-17T01:51:28.634Z"},
       {
         "id":"mss_374aspace_ref14",
         "ead_ssi":"mss_374",
@@ -197,8 +199,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["A Brief History of the 23rd Precinct"],
         "unitdate_ssm":["undated"],
-        "_version_":1799739692736839680,
-        "timestamp":"2024-05-22T08:12:01.18Z"},
+        "_version_":1802071272218165248,
+        "timestamp":"2024-06-17T01:51:28.648Z"},
       {
         "id":"mss_374aspace_ref15",
         "ead_ssi":"mss_374",
@@ -217,8 +219,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Mayday 1971 or, How to Lose Street Battles and Alienate People"],
         "unitdate_ssm":["undated"],
-        "_version_":1799739692748374016,
-        "timestamp":"2024-05-22T08:12:01.191Z"},
+        "_version_":1802071272232845312,
+        "timestamp":"2024-06-17T01:51:28.662Z"},
       {
         "id":"mss_374aspace_ref16",
         "ead_ssi":"mss_374",
@@ -237,8 +239,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Riot Control"],
         "unitdate_ssm":["undated"],
-        "_version_":1799739692774588416,
-        "timestamp":"2024-05-22T08:12:01.216Z"},
+        "_version_":1802071272267448320,
+        "timestamp":"2024-06-17T01:51:28.695Z"},
       {
         "id":"mss_374aspace_ref17",
         "ead_ssi":"mss_374",
@@ -260,8 +262,8 @@
         "unitdate_start_ssm":["2012"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 2012"],
-        "_version_":1799739692816531456,
-        "timestamp":"2024-05-22T08:12:01.256Z"},
+        "_version_":1802071272321974272,
+        "timestamp":"2024-06-17T01:51:28.747Z"},
       {
         "id":"mss_374aspace_ref18",
         "ead_ssi":"mss_374",
@@ -280,8 +282,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Anarchist Panther"],
         "unitdate_ssm":["undated"],
-        "_version_":1799739692516638720,
-        "timestamp":"2024-05-22T08:12:00.969Z"},
+        "_version_":1802071271898349568,
+        "timestamp":"2024-06-17T01:51:28.343Z"},
       {
         "id":"mss_374aspace_ref19",
         "ead_ssi":"mss_374",
@@ -303,8 +305,8 @@
         "unitdate_start_ssm":["2004"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 2004"],
-        "_version_":1799739692529221632,
-        "timestamp":"2024-05-22T08:12:00.982Z"},
+        "_version_":1802071271920369664,
+        "timestamp":"2024-06-17T01:51:28.364Z"},
       {
         "id":"mss_374aspace_ref2",
         "ead_ssi":"mss_374",
@@ -322,8 +324,8 @@
         "unitdate_start_ssm":["2012"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["2012"],
-        "_version_":1799739692612059136,
-        "timestamp":"2024-05-22T08:12:01.061Z"},
+        "_version_":1802071272037810176,
+        "timestamp":"2024-06-17T01:51:28.475Z"},
       {
         "id":"mss_374aspace_ref20",
         "ead_ssi":"mss_374",
@@ -345,8 +347,8 @@
         "unitdate_start_ssm":["2006"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, 2006"],
-        "_version_":1799739692583747584,
-        "timestamp":"2024-05-22T08:12:01.034Z"},
+        "_version_":1802071271992721408,
+        "timestamp":"2024-06-17T01:51:28.433Z"},
       {
         "id":"mss_374aspace_ref21",
         "ead_ssi":"mss_374",
@@ -368,8 +370,8 @@
         "unitdate_start_ssm":["2011"],
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["Inclusive, 2011"],
-        "_version_":1799739692570116096,
-        "timestamp":"2024-05-22T08:12:01.02Z"},
+        "_version_":1802071271972798464,
+        "timestamp":"2024-06-17T01:51:28.414Z"},
       {
         "id":"mss_374aspace_ref22",
         "ead_ssi":"mss_374",
@@ -391,8 +393,8 @@
         "unitdate_start_ssm":["2011"],
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["Inclusive, [2011]"],
-        "_version_":1799739692555436032,
-        "timestamp":"2024-05-22T08:12:01.007Z"},
+        "_version_":1802071271957069824,
+        "timestamp":"2024-06-17T01:51:28.399Z"},
       {
         "id":"mss_374aspace_ref24",
         "ead_ssi":"mss_374",
@@ -414,8 +416,8 @@
         "unitdate_start_ssm":["2012"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 2012"],
-        "_version_":1799739692542853120,
-        "timestamp":"2024-05-22T08:12:00.995Z"},
+        "_version_":1802071271938195456,
+        "timestamp":"2024-06-17T01:51:28.381Z"},
       {
         "id":"mss_374aspace_ref25",
         "ead_ssi":"mss_374",
@@ -437,8 +439,8 @@
         "unitdate_start_ssm":["2012"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 2012"],
-        "_version_":1799739692597379072,
-        "timestamp":"2024-05-22T08:12:01.047Z"},
+        "_version_":1802071272012644352,
+        "timestamp":"2024-06-17T01:51:28.452Z"},
       {
         "id":"mss_374aspace_ref26",
         "ead_ssi":"mss_374",
@@ -462,8 +464,8 @@
         "unitdate_start_ssm":["2012"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 2012"],
-        "_version_":1799739692667633664,
-        "timestamp":"2024-05-22T08:12:01.113Z"},
+        "_version_":1802071272109113344,
+        "timestamp":"2024-06-17T01:51:28.544Z"},
       {
         "id":"mss_374aspace_ref27",
         "ead_ssi":"mss_374",
@@ -485,8 +487,8 @@
         "unitdate_start_ssm":["2013"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["Inclusive, June, 2013"],
-        "_version_":1799739692763054080,
-        "timestamp":"2024-05-22T08:12:01.204Z"},
+        "_version_":1802071272250671104,
+        "timestamp":"2024-06-17T01:51:28.679Z"},
       {
         "id":"mss_374aspace_ref28",
         "ead_ssi":"mss_374",
@@ -508,8 +510,8 @@
         "unitdate_start_ssm":["2010"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, December, 2010"],
-        "_version_":1799739692789268480,
-        "timestamp":"2024-05-22T08:12:01.23Z"},
+        "_version_":1802071272286322688,
+        "timestamp":"2024-06-17T01:51:28.713Z"},
       {
         "id":"mss_374aspace_ref29",
         "ead_ssi":"mss_374",
@@ -531,8 +533,8 @@
         "unitdate_start_ssm":["2013"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["Inclusive, June, 2013"],
-        "_version_":1799739692802899968,
-        "timestamp":"2024-05-22T08:12:01.243Z"},
+        "_version_":1802071272305197056,
+        "timestamp":"2024-06-17T01:51:28.731Z"},
       {
         "id":"mss_374aspace_ref3",
         "ead_ssi":"mss_374",
@@ -550,8 +552,8 @@
         "unitdate_start_ssm":["2010"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["Inclusive, 2010-2013"],
-        "_version_":1799739692708528128,
-        "timestamp":"2024-05-22T08:12:01.153Z"},
+        "_version_":1802071272181465088,
+        "timestamp":"2024-06-17T01:51:28.612Z"},
       {
         "id":"mss_374aspace_ref30",
         "ead_ssi":"mss_374",
@@ -573,8 +575,8 @@
         "unitdate_start_ssm":["2013"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["Inclusive, Summer 2013"],
-        "_version_":1799739692831211520,
-        "timestamp":"2024-05-22T08:12:01.269Z"},
+        "_version_":1802071272340848640,
+        "timestamp":"2024-06-17T01:51:28.765Z"},
       {
         "id":"mss_374aspace_ref4",
         "ead_ssi":"mss_374",
@@ -591,8 +593,8 @@
         "repository_ssm":["fales"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Subseries A: Zines by Jonathan Berger's Students"],
-        "_version_":1799739692471549952,
-        "timestamp":"2024-05-22T08:12:00.927Z"},
+        "_version_":1802071271839629312,
+        "timestamp":"2024-06-17T01:51:28.287Z"},
       {
         "id":"mss_374aspace_ref5",
         "ead_ssi":"mss_374",
@@ -609,8 +611,8 @@
         "repository_ssm":["fales"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Subseries A: Zines by Stephanie Hsu's Students"],
-        "_version_":1799739692623593472,
-        "timestamp":"2024-05-22T08:12:01.072Z"},
+        "_version_":1802071272053538816,
+        "timestamp":"2024-06-17T01:51:28.491Z"},
       {
         "id":"mss_374aspace_ref7",
         "ead_ssi":"mss_374",
@@ -628,8 +630,8 @@
         "unitdate_start_ssm":["2004"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 2004-2012"],
-        "_version_":1799739692503007232,
-        "timestamp":"2024-05-22T08:12:00.957Z"},
+        "_version_":1802071271880523776,
+        "timestamp":"2024-06-17T01:51:28.325Z"},
       {
         "id":"mss_374aspace_ref8",
         "ead_ssi":"mss_374",
@@ -653,8 +655,8 @@
         "unitdate_start_ssm":["2012"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, [2012]"],
-        "_version_":1799739692637224960,
-        "timestamp":"2024-05-22T08:12:01.085Z"},
+        "_version_":1802071272070316032,
+        "timestamp":"2024-06-17T01:51:28.507Z"},
       {
         "id":"mss_374aspace_ref9",
         "ead_ssi":"mss_374",
@@ -678,8 +680,8 @@
         "unitdate_start_ssm":["2012"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, [2012]"],
-        "_version_":1799739692652953600,
-        "timestamp":"2024-05-22T08:12:01.099Z"}]
+        "_version_":1802071272089190400,
+        "timestamp":"2024-06-17T01:51:28.525Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -687,7 +689,8 @@
       "repository_sim":[
         "fales",29],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fales Library",1],
       "date_range_sim":[
         "1901-2000",2,
         "2001-2100",22,

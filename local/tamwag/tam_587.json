@@ -47,6 +47,8 @@
         "unittitle_ssm":["Herbert M. Morais Papers"],
         "unitid_ssm":["TAM.587"],
         "abstract_ssm":["Herbert M. Morais (1905-1970) was an historian and co-author of Labor's Untold Story (1955). He taught at Brooklyn College but left in the 1940s after being investigated for his allegedly Communist political associations, and became a member of the Research Division of the United Electrical, Radio and Machine Workers Union, CIO (UE). The collection contains a CD and printed reproductions of files on Morais and other ex-teachers and Brooklyn College and the City University of New York (CCNY) investigated and in most cases dismissed for their radicalism. The twenty-three files contain legal documents, correspondence, and clippings, most related to the investigation of Morais and other professors."],
+        "creator_ssm":["Morais, Herbert M. (Herbert Montfort), 1905-1970",
+          "Morais, Herbert M. (Herbert Montfort), 1905-1970"],
         "unitdate_normal_ssm":["1930/1959"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "College of the City of New York (1926-1961). City College",
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1930s-1950s"],
-        "_version_":1799791586918268928,
-        "timestamp":"2024-05-22T21:56:51.328Z"}]
+        "_version_":1802183571246415872,
+        "timestamp":"2024-06-18T07:36:25.347Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Morais, Herbert M. (Herbert Montfort), 1905-1970",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Riva Rosenfield Papers on Camp Wo-Chi-Ca and Camp Higley Hill"],
         "unitid_ssm":["TAM.434"],
+        "creator_ssm":["Rosenfield, Riva.",
+          "Rosenfield, Riva."],
         "unitdate_normal_ssm":["1950/1959"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Higley Hill Camp (Wilmington, Vt.)",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1950s"],
         "language_ssm":["English"],
-        "_version_":1799791060093763584,
-        "timestamp":"2024-05-22T21:48:28.909Z"}]
+        "_version_":1802183042639331328,
+        "timestamp":"2024-06-18T07:28:01.228Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rosenfield, Riva.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Brooklyn Sabbath School Union collection"],
         "unitid_ssm":["1985.111"],
         "abstract_ssm":["The Brooklyn Sabbath School Union collection measures 0.3 linear feet and spans the dates 1855 to 1974. Included in the collection are annual reports, hymnals, newsletters, and event programs."],
+        "creator_ssm":["Brooklyn Sunday School Union",
+          "Brooklyn Sabbath School Union (Brooklyn, New York, N.Y.)",
+          "Brooklyn Sunday School Union",
+          "Brooklyn Sabbath School Union (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1855/1974"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Sunday School Union",
@@ -73,8 +77,8 @@
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, 1855-1974"],
         "language_ssm":["English"],
-        "_version_":1799256313063014400,
-        "timestamp":"2024-05-17T00:08:54.4Z"}]
+        "_version_":1801963144537440256,
+        "timestamp":"2024-06-15T21:12:50.056Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +86,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Sabbath School Union (Brooklyn, New York, N.Y.)",1,
+        "Brooklyn Sunday School Union",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,26 @@
         "unittitle_ssm":["Orange County, Queens County, and New York City legal documents"],
         "unitid_ssm":["1977.061"],
         "abstract_ssm":["This collection contains a small assortment of legal documents relating to residents of Orange County, Queens County, and New York, N.Y."],
+        "creator_ssm":["Wannamaker, Jacobus",
+          "Wigons, Thomas",
+          "Wannamaker, Hendrick",
+          "Wannamaker, Abraham",
+          "Dobbs, William",
+          "Hoffman, Harmanus",
+          "Suffren, Andrew",
+          "Bayard, William",
+          "McEvers, James, merchant",
+          "Phillips, Edward C.",
+          "Wannamaker, Jacobus",
+          "Wigons, Thomas",
+          "Wannamaker, Hendrick",
+          "Wannamaker, Abraham",
+          "Dobbs, William",
+          "Hoffman, Harmanus",
+          "Suffren, Andrew",
+          "Bayard, William",
+          "McEvers, James, merchant",
+          "Phillips, Edward C."],
         "unitdate_normal_ssm":["1688/1866"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Army. Regiment, California U.S. Volunteer Infantry, 1st"],
@@ -95,8 +115,8 @@
         "unitdate_end_ssm":["1866"],
         "unitdate_ssm":["Inclusive, 1688-1866"],
         "language_ssm":["English"],
-        "_version_":1799312301022511104,
-        "timestamp":"2024-05-17T14:58:48.679Z"}]
+        "_version_":1801960618946723840,
+        "timestamp":"2024-06-15T20:32:41.465Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -104,7 +124,17 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bayard, William",1,
+        "Dobbs, William",1,
+        "Hoffman, Harmanus",1,
+        "McEvers, James, merchant",1,
+        "Phillips, Edward C.",1,
+        "Suffren, Andrew",1,
+        "Wannamaker, Abraham",1,
+        "Wannamaker, Hendrick",1,
+        "Wannamaker, Jacobus",1,
+        "Wigons, Thomas",1],
       "date_range_sim":[
         "1601-1700",1,
         "1801-1900",1],

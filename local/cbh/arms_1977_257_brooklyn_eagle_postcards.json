@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Daily Eagle postcard albums"],
         "unitid_ssm":["1977.257"],
         "abstract_ssm":["Two postcard albums containing postcards printed by the Brooklyn Daily Eagle newspaper from 1905-1907."],
+        "creator_ssm":["Brooklyn Daily Eagle (Firm)",
+          "Brooklyn Daily Eagle (Firm)"],
         "unitdate_normal_ssm":["1905/1907"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Daily Eagle (Firm)",
@@ -89,8 +91,8 @@
         "unitdate_end_ssm":["1907"],
         "unitdate_ssm":["Inclusive, 1905-1907"],
         "language_ssm":["English"],
-        "_version_":1799256315576451072,
-        "timestamp":"2024-05-17T00:08:56.797Z"}]
+        "_version_":1801961195962368000,
+        "timestamp":"2024-06-15T20:41:51.749Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -98,7 +100,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Daily Eagle (Firm)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

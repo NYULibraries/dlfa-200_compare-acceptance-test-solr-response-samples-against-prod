@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff, 2009"],
         "unittitle_ssm":["Erwin Edelman Typescript: The Suppressed Facts of the Rosenberg Case"],
         "unitid_ssm":["TAM.199"],
+        "creator_ssm":["Edelman, Erwin",
+          "Edelman, Erwin"],
         "unitdate_normal_ssm":["1950/1969"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Edelman, Erwin",
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, circa 1950s-1960s"],
-        "_version_":1799782276318363648,
-        "timestamp":"2024-05-22T19:28:52.048Z"},
+        "_version_":1802171129517834240,
+        "timestamp":"2024-06-18T04:18:39.99Z"},
       {
         "id":"tam_199aspace_2f1be5d100de919cc4fe084c538381a4",
         "ead_ssi":"tam_199",
@@ -86,8 +88,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Typescript"],
-        "_version_":1799782276334092288,
-        "timestamp":"2024-05-22T19:28:52.063Z"}]
+        "_version_":1802171129526222848,
+        "timestamp":"2024-06-18T04:18:39.998Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +97,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Edelman, Erwin",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

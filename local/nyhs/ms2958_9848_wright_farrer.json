@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Old New York: A new look: The first series of etchings by Henry Farrer (1844-1903)"],
         "unitid_ssm":["AHMC - Wright, David G. "],
         "abstract_ssm":["One typescript, draft manuscript concerning a set of fifteen etchings made by Henry Farrer between 1870 and 1877. The author provides a historical essay about Farrer and the etchings series, then provides contextual information about each of the fifteen etchings in the Old New York series. The manuscript is illustrated with photographs and with images of Farrer's works. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Old New York: A new look: The first series of etchings by Henry Farrer (1844-1903)"],
+        "creator_ssm":["Wright, David Gilmore",
+          "Wright, David Gilmore"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Wright, David Gilmore"],
         "collection_ssm":["Old New York: A new look: The first series of etchings by Henry Farrer (1844-1903)"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Old New York: A new look: The first series of etchings by Henry Farrer (1844-1903)"],
         "unitdate_ssm":["2018"],
         "language_ssm":["English"],
-        "_version_":1799330652998336512,
-        "timestamp":"2024-05-17T19:50:30.487Z"}]
+        "_version_":1802083811088924672,
+        "timestamp":"2024-06-17T05:10:46.647Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wright, David Gilmore",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

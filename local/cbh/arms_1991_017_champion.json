@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John C. Champion journal"],
         "unitid_ssm":["1991.017"],
         "abstract_ssm":["A manuscript journal, written by John C. Champion, a crew member of the U.S.S. Adirondack, listing all the men on board, their rank, duties, battle stations, arms carried, and written orders and commands for 11 foot pivot guns. The journal is dated 1862."],
+        "creator_ssm":["Champion, John C.",
+          "Champion, John C."],
         "unitdate_normal_ssm":["1862/1862"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Naval Shipyard",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1862"],
         "unitdate_ssm":["Inclusive, 1862"],
         "language_ssm":["English"],
-        "_version_":1799312406934978560,
-        "timestamp":"2024-05-17T15:00:29.685Z"}]
+        "_version_":1801963589219647488,
+        "timestamp":"2024-06-15T21:19:54.138Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Champion, John C.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

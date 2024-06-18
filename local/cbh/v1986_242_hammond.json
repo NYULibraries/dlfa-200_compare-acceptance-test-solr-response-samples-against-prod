@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["John Farnsworth Hammond, Jr. collection"],
         "unitid_ssm":["V1986.242"],
         "abstract_ssm":["The album in that comprises the majority of this collection consists of photographic prints and cyanotypes that document sewer construction projects in Brooklyn, Rochester, and Oswego, N.Y., as well as Mifflinburg, PA."],
+        "creator_ssm":["Mayhew, V.",
+          "Hammond, John Farnsworth, Jr.",
+          "Mayhew, V.",
+          "Hammond, John Farnsworth, Jr."],
         "unitdate_normal_ssm":["1899/1939",
           "1913/1915"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -95,8 +99,8 @@
           "1915"],
         "unitdate_ssm":["Inclusive, 1899-1939 ; 1913-1915"],
         "language_ssm":["English"],
-        "_version_":1799311511546494976,
-        "timestamp":"2024-05-17T14:46:15.776Z"}]
+        "_version_":1802045084975235072,
+        "timestamp":"2024-06-16T18:55:14.547Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -104,7 +108,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hammond, John Farnsworth, Jr.",1,
+        "Mayhew, V.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

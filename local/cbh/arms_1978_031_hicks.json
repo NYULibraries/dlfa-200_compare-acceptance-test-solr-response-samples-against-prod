@@ -47,6 +47,8 @@
         "unittitle_ssm":["Hicks family papers"],
         "unitid_ssm":["1978.031"],
         "abstract_ssm":["The collection contains indentures, deeds, and the last will and testaments of the Hicks family of the Town of Flushing, Long Island, New York, dating from 1730 to 1788."],
+        "creator_ssm":["Hicks family",
+          "Hicks family"],
         "unitdate_normal_ssm":["1730/1788"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Hicks family",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1788"],
         "unitdate_ssm":["Inclusive, 1730-1788"],
         "language_ssm":["English"],
-        "_version_":1799256466295619584,
-        "timestamp":"2024-05-17T00:11:20.534Z"}]
+        "_version_":1801962276479041536,
+        "timestamp":"2024-06-15T20:59:02.211Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hicks family",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

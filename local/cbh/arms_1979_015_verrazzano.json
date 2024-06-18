@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Giovanni da Verrazzano letter transcription facsimiles"],
         "unitid_ssm":["1979.015"],
         "abstract_ssm":["1905 photographic facsimiles of an undated manuscript transcription of a 1524 letter from explorer Giovanni da Verrazzano to King Frances I of France upon Verrazzano's exploration of the Atlantic Coast of the United States, obtained from Florence, Italy by historian Arthur J. Weise for the Committee on Brooklyn History."],
+        "creator_ssm":["Verrazzano, Giovanni da",
+          "Weise, Arthur James, 1838-1921",
+          "Long Island Historical Society. Committee on Brooklyn History",
+          "Long Island Historical Society. Committee on Brooklyn History",
+          "Verrazzano, Giovanni da",
+          "Weise, Arthur James, 1838-1921"],
         "unitdate_normal_ssm":["1905/1905"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island Historical Society. Committee on Brooklyn History"],
@@ -69,8 +75,8 @@
         "unitdate_end_ssm":["1905"],
         "unitdate_ssm":["1905 photographs of an undated manuscript transcription of a 1524 letter"],
         "language_ssm":["English"],
-        "_version_":1799256328840937472,
-        "timestamp":"2024-05-17T00:09:09.447Z"}]
+        "_version_":1801962744439635968,
+        "timestamp":"2024-06-15T21:06:28.493Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +84,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Long Island Historical Society. Committee on Brooklyn History",1,
+        "Verrazzano, Giovanni da",1,
+        "Weise, Arthur James, 1838-1921",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

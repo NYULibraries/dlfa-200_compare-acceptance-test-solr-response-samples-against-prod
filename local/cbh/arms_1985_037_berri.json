@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William Berri papers"],
         "unitid_ssm":["1985.037"],
         "abstract_ssm":["The William Berri papers span the period 1869 to 1931 and include contain correspondence regarding Mr. Berri's career and his dealings as a trustee of the New York and Brooklyn Bridge Company.  William Berri was born in Brooklyn, N.Y. in 1848. He began his professional career at his father's business in oilcloth manufacturing and carpet merchandizing. Later he established a printing business, eventually becoming one of the owners of the Brooklyn Standard Union. In 1896, he was appointed president of the Board of Trustees of the New York and Brooklyn Bridge Company. Berri died in 1917."],
+        "creator_ssm":["Berri, William",
+          "Berri, William"],
         "unitdate_normal_ssm":["1869/1931"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Republican Party (Kings County, N.Y.)"],
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1931"],
         "unitdate_ssm":["Inclusive, 1869-1931"],
         "language_ssm":["English"],
-        "_version_":1799256496629874688,
-        "timestamp":"2024-05-17T00:11:49.463Z"}]
+        "_version_":1801962988064735232,
+        "timestamp":"2024-06-15T21:10:20.832Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Berri, William",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

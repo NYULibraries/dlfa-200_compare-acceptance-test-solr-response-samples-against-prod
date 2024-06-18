@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edith Horton papers"],
         "unitid_ssm":["1977.472"],
         "abstract_ssm":["The collection includes correspondence and documents pertaining to Edith Horton and her sister Alice Horton Stiles."],
+        "creator_ssm":["Horton, Edith",
+          "Horton, Edith"],
         "unitdate_normal_ssm":["1892/1936"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Brooklyn (New York, N.Y.)"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1936"],
         "unitdate_ssm":["Inclusive, 1892-1936"],
         "language_ssm":["English"],
-        "_version_":1799256330305798144,
-        "timestamp":"2024-05-17T00:09:10.844Z"}]
+        "_version_":1801961721621905408,
+        "timestamp":"2024-06-15T20:50:13.057Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Horton, Edith",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

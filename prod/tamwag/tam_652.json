@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Gregory Smulewicz-Zucker Collection on the Socialist Scholars Conference"],
         "unitid_ssm":["TAM.652"],
         "abstract_ssm":["This collection consists of video and audio recordings of Socialist Scholars Conference (SSC) panels and lectures from 1992 to 2003. The Socialists Scholars Conference (SSC) was an annual conference created in 1981 as a forum for presenting theoretical and historical work of new left academics. Recordings of panels were created by organizations and individuals associated with the SSC and complied by conference co-coordinator Gregory Smulewicz-Zucker. Panel discussions are recorded on VHS, cassette, and Mini-DV tape and feature a number of activists, politicians, and intellectuals on the left who attended the annual conferences. The collection also contains a small set of papers and ephemera related to scheduling and programming from 1991 to 2002."],
+        "creator_ssm":["Radio Free Maine",
+          "Socialist Scholars Conference",
+          "Smulewicz-Zucker, Gregory R., 1983-",
+          "Radio Free Maine",
+          "Socialist Scholars Conference",
+          "Smulewicz-Zucker, Gregory R., 1983-"],
         "unitdate_normal_ssm":["1991/2003"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Radio Free Maine",
@@ -75,8 +81,8 @@
         "unitdate_start_ssm":["1991"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1991-2003"],
-        "_version_":1775218324967260160,
-        "timestamp":"2023-08-25T16:15:22.535Z"},
+        "_version_":1801279974973374464,
+        "timestamp":"2024-06-08T08:14:08.789Z"},
       {
         "id":"tam_652aspace_ref17",
         "ead_ssi":"tam_652",
@@ -95,8 +101,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 2003"],
-        "_version_":1775218325216821248,
-        "timestamp":"2023-08-25T16:15:22.773Z"},
+        "_version_":1801279975060406272,
+        "timestamp":"2024-06-08T08:14:08.872Z"},
       {
         "id":"tam_652aspace_ref18",
         "ead_ssi":"tam_652",
@@ -115,8 +121,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 2003"],
-        "_version_":1775218325282881536,
-        "timestamp":"2023-08-25T16:15:22.836Z"},
+        "_version_":1801279975072989184,
+        "timestamp":"2024-06-08T08:14:08.884Z"},
       {
         "id":"tam_652aspace_ref19",
         "ead_ssi":"tam_652",
@@ -135,8 +141,8 @@
         "unitdate_start_ssm":["1998"],
         "unitdate_end_ssm":["1998"],
         "unitdate_ssm":["Inclusive, circa 1998"],
-        "_version_":1775218325334261760,
-        "timestamp":"2023-08-25T16:15:22.885Z"},
+        "_version_":1801279975085572096,
+        "timestamp":"2024-06-08T08:14:08.896Z"},
       {
         "id":"tam_652aspace_ref2",
         "ead_ssi":"tam_652",
@@ -156,8 +162,8 @@
         "unitdate_start_ssm":["1995"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1995-2003"],
-        "_version_":1775218325013397504,
-        "timestamp":"2023-08-25T16:15:22.579Z"},
+        "_version_":1801279974989103104,
+        "timestamp":"2024-06-08T08:14:08.804Z"},
       {
         "id":"tam_652aspace_ref20",
         "ead_ssi":"tam_652",
@@ -176,8 +182,8 @@
         "unitdate_start_ssm":["1991"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1991-2003"],
-        "_version_":1775218325376204800,
-        "timestamp":"2023-08-25T16:15:22.925Z"},
+        "_version_":1801279975100252160,
+        "timestamp":"2024-06-08T08:14:08.91Z"},
       {
         "id":"tam_652aspace_ref21",
         "ead_ssi":"tam_652",
@@ -193,8 +199,8 @@
         "location_ssm":["Box: 3"],
         "heading_ssm":["Gregory Smulewicz-Zucker Audio Recordings "],
         "unitdate_ssm":["undated"],
-        "_version_":1775218325179072512,
-        "timestamp":"2023-08-25T16:15:22.737Z"},
+        "_version_":1801279975048871936,
+        "timestamp":"2024-06-08T08:14:08.86Z"},
       {
         "id":"tam_652aspace_ref3",
         "ead_ssi":"tam_652",
@@ -213,8 +219,8 @@
         "unitdate_start_ssm":["1996"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1996, 1999"],
-        "_version_":1775218325054291968,
-        "timestamp":"2023-08-25T16:15:22.617Z"},
+        "_version_":1801279975003783168,
+        "timestamp":"2024-06-08T08:14:08.818Z"},
       {
         "id":"tam_652aspace_ref4",
         "ead_ssi":"tam_652",
@@ -233,8 +239,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1992"],
-        "_version_":1775218325096235008,
-        "timestamp":"2023-08-25T16:15:22.658Z"},
+        "_version_":1801279975022657536,
+        "timestamp":"2024-06-08T08:14:08.836Z"},
       {
         "id":"tam_652aspace_ref5",
         "ead_ssi":"tam_652",
@@ -253,8 +259,8 @@
         "unitdate_start_ssm":["2001"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, circa 2001-2003 "],
-        "_version_":1775218325141323776,
-        "timestamp":"2023-08-25T16:15:22.701Z"}]
+        "_version_":1801279975037337600,
+        "timestamp":"2024-06-08T08:14:08.85Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -262,7 +268,10 @@
       "repository_sim":[
         "tamwag",10],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Radio Free Maine",1,
+        "Smulewicz-Zucker, Gregory R., 1983-",1,
+        "Socialist Scholars Conference",1],
       "date_range_sim":[
         "1901-2000",6,
         "2001-2100",6,

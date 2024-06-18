@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Benjamin D. Silliman property dispute report"],
         "unitid_ssm":["1977.549"],
         "abstract_ssm":["Photostat copy of an 1846 report prepared by Benjamin D. Silliman concerning a dispute over the high water rights conveyed by Richard Berry when he sold property to the Brooklyn and Gowanus Bridge Company."],
+        "creator_ssm":["Silliman, Benjamin D. (Benjamin Douglas)",
+          "Silliman, Benjamin D. (Benjamin Douglas)"],
         "unitdate_normal_ssm":["1846/1846"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Gowanus Bridge Company"],
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1846"],
         "unitdate_ssm":["1846"],
         "language_ssm":["English"],
-        "_version_":1799256321671823360,
-        "timestamp":"2024-05-17T00:09:02.61Z"}]
+        "_version_":1801961931166187520,
+        "timestamp":"2024-06-15T20:53:32.895Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Silliman, Benjamin D. (Benjamin Douglas)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

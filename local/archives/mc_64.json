@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Atwood Townsend Papers"],
         "unitid_ssm":["MC.64"],
         "abstract_ssm":["In 1941, New York University Professor Atwood H. Townsend surveyed a number of prominent writers, economists, historians, journalists, and commentators on what they believed to be essential reading materials. With the feedback he received, Townsend compiled \"Good Reading: A Guide for Serious Readers\" as a suggested guideline of important titles for readers among a diversity of fields. The University Archives holds a number of returned questionnaires as well as Townsend's correspondence with participants."],
+        "creator_ssm":["Townsend, Atwood H. (Atwood Halsey) , 1896-1967",
+          "Townsend, Atwood H. (Atwood Halsey) , 1896-1967"],
         "unitdate_normal_ssm":["1941/1943"],
         "corpname_ssm":["New York University Archives"],
         "persname_ssm":["Townsend, Atwood H. (Atwood Halsey) , 1896-1967",
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1941"],
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["Inclusive, 1941-1943"],
-        "_version_":1799247982763180032,
-        "timestamp":"2024-05-16T21:56:30.007Z"},
+        "_version_":1801950547598639104,
+        "timestamp":"2024-06-15T17:52:36.678Z"},
       {
         "id":"mc_64aspace_ref1",
         "ead_ssi":"mc_64",
@@ -82,15 +84,14 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 008, Folder: 6",
-          "Folder: 6"],
+        "location_ssm":["Box: Shared University Archives 008, Folder: 6"],
         "heading_ssm":["\"Good Reading Questionnaire\" "],
         "unitdate_start_ssm":["1941"],
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["Inclusive, 1941-1943"],
         "language_ssm":["English"],
-        "_version_":1799247982793588736,
-        "timestamp":"2024-05-16T21:56:30.036Z"}]
+        "_version_":1801950547615416320,
+        "timestamp":"2024-06-15T17:52:36.695Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -98,7 +99,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Townsend, Atwood H. (Atwood Halsey) , 1896-1967",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

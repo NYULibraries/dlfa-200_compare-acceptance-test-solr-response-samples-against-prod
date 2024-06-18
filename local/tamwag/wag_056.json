@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["United Federation of Teachers: Italian-American Studies Committee Records"],
         "unitid_ssm":["WAG.056"],
+        "creator_ssm":["United Federation of Teachers. Italian-American Studies Committee",
+          "United Federation of Teachers. Italian-American Studies Committee"],
         "unitdate_normal_ssm":["1978/1987"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United Federation of Teachers. Italian-American Studies Committee"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1978-1987"],
         "language_ssm":["English"],
-        "_version_":1799799909578178560,
-        "timestamp":"2024-05-23T00:09:08.435Z"}]
+        "_version_":1802192306530418688,
+        "timestamp":"2024-06-18T09:55:15.963Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United Federation of Teachers. Italian-American Studies Committee",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

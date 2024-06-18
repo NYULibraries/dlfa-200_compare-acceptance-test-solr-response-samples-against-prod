@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Note from Thomas Latto introducing Henry J. McClennan"],
         "unitid_ssm":["1991.016"],
         "abstract_ssm":["A handwritten note from Thomas Latto, a Brooklyn poet, introducing Henry J. McClennan (the son of Rev. Prof. Adam McClennan).  The younger McClennan had invented a railroad danger signal, and Latto was helping to promote McClennan and his invention. The name of the note's recipient is largely illegible."],
+        "creator_ssm":["Latto, Thomas C.",
+          "Latto, Thomas C."],
         "unitdate_normal_ssm":["1891/1891"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1891"],
         "unitdate_ssm":["Inclusive, 1891"],
         "language_ssm":["English"],
-        "_version_":1799309976800329728,
-        "timestamp":"2024-05-17T14:21:52.128Z"}]
+        "_version_":1801963585638760448,
+        "timestamp":"2024-06-15T21:19:50.722Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Latto, Thomas C.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

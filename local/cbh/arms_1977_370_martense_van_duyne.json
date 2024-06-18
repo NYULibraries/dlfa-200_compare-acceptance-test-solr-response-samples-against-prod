@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Adrian Martense and Jacobus Van Duyne bond of indenture and related documents"],
         "unitid_ssm":["1977.370"],
         "abstract_ssm":["This collection consists of a circa 1780-1800 bond of indenture between Adrian Martense and Jacobus Van Duyne, both of the town of Flatbush in Kings County, as well as two financial documents relating to the bond."],
+        "creator_ssm":["Van Duyne, Jacobus",
+          "Martense, Adrian",
+          "Van Duyne, Jacobus",
+          "Martense, Adrian"],
         "unitdate_normal_ssm":["1770/1810"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Financial records",
@@ -71,8 +75,8 @@
         "unitdate_end_ssm":["1810"],
         "unitdate_ssm":["Inclusive, circa 1780 to 1800"],
         "language_ssm":["English"],
-        "_version_":1799256294434013184,
-        "timestamp":"2024-05-17T00:08:36.634Z"}]
+        "_version_":1801961463277944832,
+        "timestamp":"2024-06-15T20:46:06.682Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +84,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Martense, Adrian",1,
+        "Van Duyne, Jacobus",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

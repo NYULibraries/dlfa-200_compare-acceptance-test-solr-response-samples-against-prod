@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["University Place Bookshop Records"],
         "unitid_ssm":["TAM.301"],
         "abstract_ssm":["Walter Goldwater (c. 1908-1985) was an antiquarian book collector and bookseller who specialized in African, African American, and Caribbean literature. Goldwater operated the University Place Bookshop in New York City's Book Row from 1932 to 1985, where he sold old and rare books, African diasporic literature, and literature about the left. The University Place Bookshop Records, bulk dated from 1965-1983, documents Goldwater's work related to his publication Radical Periodicals in America, 1890-1950, his book sales, and his work advising Greenwood Press on Africana materials. The collection predominately consists of correspondence and includes University Place Bookshop purchase orders, as well as a small number of writings and other print material related to leftist politics and history."],
+        "creator_ssm":["Goldwater, Walter",
+          "Goldwater, Walter"],
         "unitdate_normal_ssm":["1936/1985",
           "1965/1983"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1985",
           "1983"],
         "unitdate_ssm":["Inclusive, 1936-1985 ; 1965-1983"],
-        "_version_":1799782602847027200,
-        "timestamp":"2024-05-22T19:34:03.45Z"},
+        "_version_":1802171521753415680,
+        "timestamp":"2024-06-18T04:24:54.055Z"},
       {
         "id":"tam_301aspace_53a8e3e38ce0dce3ac55de733943da79",
         "ead_ssi":"tam_301",
@@ -91,14 +93,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 6-7",
-          "Folder: 6-7"],
+        "location_ssm":["Box: 2, Folder: 6-7"],
         "heading_ssm":["Purchase orders"],
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1968-1983"],
-        "_version_":1799782602894213120,
-        "timestamp":"2024-05-22T19:34:03.495Z"},
+        "_version_":1802171521781727232,
+        "timestamp":"2024-06-18T04:24:54.082Z"},
       {
         "id":"tam_301aspace_59633afbaf3f93fd72106644b77c42f4",
         "ead_ssi":"tam_301",
@@ -112,15 +113,12 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment 158, Folder: 7",
-          "Folder: 7",
           "Box: 2, Folder: 8-10",
-          "Folder: 8-10",
-          "Box: 3, Folder: 1-5",
-          "Folder: 1-5"],
+          "Box: 3, Folder: 1-5"],
         "heading_ssm":["Writings and other print materials"],
         "unitdate_ssm":["Inclusive, 1944-1969, undated"],
-        "_version_":1799782602875338752,
-        "timestamp":"2024-05-22T19:34:03.477Z"},
+        "_version_":1802171521770192896,
+        "timestamp":"2024-06-18T04:24:54.071Z"},
       {
         "id":"tam_301aspace_d0305af258a7016914c86800e3d8bff6",
         "ead_ssi":"tam_301",
@@ -134,13 +132,11 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1, Folder: 1-8",
-          "Folder: 1-8",
-          "Box: 2, Folder: 1-5",
-          "Folder: 1-5"],
+          "Box: 2, Folder: 1-5"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["Inclusive, 1936-1985, bulk 1965-1983"],
-        "_version_":1799782602861707264,
-        "timestamp":"2024-05-22T19:34:03.464Z"}]
+        "_version_":1802171521762852864,
+        "timestamp":"2024-06-18T04:24:54.063Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -148,7 +144,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Goldwater, Walter",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",2],

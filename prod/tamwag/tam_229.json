@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Elizabeth Danto Collection on the Sarah Lawrence College Strike and Teach-In against the United States' Invasion of Cambodia"],
         "unitid_ssm":["TAM.229"],
+        "creator_ssm":["Danto, Elizabeth Ann",
+          "Danto, Elizabeth Ann"],
         "unitdate_normal_ssm":["1970/1970"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Sarah Lawrence College"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, 1970"],
         "language_ssm":["English"],
-        "_version_":1775222814676090880,
-        "timestamp":"2023-08-25T17:26:44.255Z"},
+        "_version_":1801230559771361280,
+        "timestamp":"2024-06-07T19:08:42.779Z"},
       {
         "id":"tam_229aspace_ref4",
         "ead_ssi":"tam_229",
@@ -80,11 +82,10 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["\n      Emanon\n    "],
-        "_version_":1775222814721179648,
-        "timestamp":"2023-08-25T17:26:44.298Z"},
+        "_version_":1801230559783944192,
+        "timestamp":"2024-06-07T19:08:42.792Z"},
       {
         "id":"tam_229aspace_ref5",
         "ead_ssi":"tam_229",
@@ -97,11 +98,10 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Strike Sheet (a student newsletter)\n"],
-        "_version_":1775222814765219840,
-        "timestamp":"2023-08-25T17:26:44.34Z"},
+        "_version_":1801230559795478528,
+        "timestamp":"2024-06-07T19:08:42.803Z"},
       {
         "id":"tam_229aspace_ref6",
         "ead_ssi":"tam_229",
@@ -114,11 +114,10 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Strike and Teach-In Documents"],
-        "_version_":1775222814815551488,
-        "timestamp":"2023-08-25T17:26:44.388Z"},
+        "_version_":1801230559805964288,
+        "timestamp":"2024-06-07T19:08:42.813Z"},
       {
         "id":"tam_229aspace_ref7",
         "ead_ssi":"tam_229",
@@ -131,11 +130,10 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 1, Folder: 4"],
         "heading_ssm":["Strike and Teach-In Research Materials"],
-        "_version_":1775222814858543104,
-        "timestamp":"2023-08-25T17:26:44.429Z"}]
+        "_version_":1801230559817498624,
+        "timestamp":"2024-06-07T19:08:42.824Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -143,7 +141,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Danto, Elizabeth Ann",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",4],

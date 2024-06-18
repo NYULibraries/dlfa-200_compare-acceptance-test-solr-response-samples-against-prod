@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Batt Jones and Edward R. Squibb Civil War letter"],
         "unitid_ssm":["1977.535"],
         "abstract_ssm":["One 1865 letter sent from Lieutenant Colonel Batt Jones while being held prisoner in a Confederate Army camp at Johnson's Island, OH, requesting that provisions be smuggled in for him. There is a note on the back of the letter written by Edward R. Squibb stating that provisions will be sent with permission by Major Scovil."],
+        "creator_ssm":["Jones, Batt",
+          "Squibb, Edward Robinson",
+          "Jones, Batt",
+          "Squibb, Edward Robinson"],
         "unitdate_normal_ssm":["1865/1865"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -71,8 +75,8 @@
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["1865"],
         "language_ssm":["English"],
-        "_version_":1799311510359506944,
-        "timestamp":"2024-05-17T14:46:14.643Z"}]
+        "_version_":1801961902145798144,
+        "timestamp":"2024-06-15T20:53:05.219Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +84,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Jones, Batt",1,
+        "Squibb, Edward Robinson",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

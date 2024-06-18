@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Roy Nathanson Papers"],
         "unitid_ssm":["MSS.457"],
         "abstract_ssm":["Roy Nathanson (1951- ) is a saxophonist, composer, actor, writer, and bandleader who has been a central figure on the New York downtown scene since the late 1970s. He was a member of the Hot Peaches, a drag theater troupe active in the 1970s, played in John Lurie's postmodern jazz ensemble, the Lounge Lizards, was co-founder (with Curtis Fowlkes) in 1987 of the Jazz Passengers, a quintessentially downtown ensemble that performs a postmodernist blend of jazz and vaudeville, and acted as an early instigator in downtown's Radical Jewish Culture scene. The collection documents not only Nathanson's career and creative process, but also the larger landscape of downtown's experimental music (jazz) and theater scene from the 1970s through the present."],
+        "creator_ssm":["Nathanson, Roy",
+          "Nathanson, Roy"],
         "unitdate_normal_ssm":["1976/2016"],
         "corpname_ssm":["Fales Library and Special Collections",
           "Jazz Passengers (Musical group)"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1976"],
         "unitdate_end_ssm":["2016"],
         "unitdate_ssm":["Inclusive, 1976-2016, undated"],
-        "_version_":1799740804318625792,
-        "timestamp":"2024-05-22T08:29:41.267Z"},
+        "_version_":1802072809833234432,
+        "timestamp":"2024-06-17T02:15:55.032Z"},
       {
         "id":"mss_457aspace_1a8755be1894565eedf6e62b20da994e",
         "ead_ssi":"mss_457",
@@ -86,8 +88,8 @@
         "location_ssm":["Box: Electronic records"],
         "heading_ssm":["Roy Nathanson Archived Websites"],
         "unitdate_ssm":["Inclusive, May 2017-October 2022"],
-        "_version_":1799740804335403008,
-        "timestamp":"2024-05-22T08:29:41.283Z"}]
+        "_version_":1802072809865740288,
+        "timestamp":"2024-06-17T02:15:55.063Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +98,8 @@
         "fales",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nathanson, Roy",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

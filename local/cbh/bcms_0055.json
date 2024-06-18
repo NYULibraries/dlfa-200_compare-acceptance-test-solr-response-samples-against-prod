@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jamel Shabazz photograph collection"],
         "unitid_ssm":["BCMS.0055"],
         "abstract_ssm":["Approximately 400 photographs by Jamel Shabazz, in both black and white and color, representing urban street life in Brooklyn from 1980-2010."],
+        "creator_ssm":["Shabazz, Jamel, 1960-",
+          "Shabazz, Jamel, 1960-"],
         "unitdate_normal_ssm":["1980/2010"],
         "corpname_ssm":["Brooklyn Collection"],
         "geogname_ssm":["Brooklyn (New York, N.Y.)",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, 1980-2010"],
         "language_ssm":["English"],
-        "_version_":1799312374751035392,
-        "timestamp":"2024-05-17T14:59:58.992Z"}]
+        "_version_":1802044039906721792,
+        "timestamp":"2024-06-16T18:38:37.892Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Shabazz, Jamel, 1960-",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

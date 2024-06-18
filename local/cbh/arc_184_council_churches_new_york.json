@@ -47,6 +47,16 @@
         "unittitle_ssm":["Council of Churches of the City of New York collection"],
         "unitid_ssm":["ARC.184"],
         "abstract_ssm":["The Council of Churches of the City of New York collection dates from 1947 to 1985 and measures 0.62 linear feet. The collection contains material from the Council of Churches and its Brooklyn Division, as well as predecessor organizations, the Brooklyn Church and Mission Federation and the Protestant Council of the City of New York. Document types in the collection include meeting minutes, reports, pamphlets, and newsletters."],
+        "creator_ssm":["Council of Churches of the City of New York. Brooklyn Division",
+          "Brooklyn Church and Mission Federation (New York, N.Y.)",
+          "Council of Churches of the City of New York",
+          "Protestant Council of the City of New York. Brooklyn Division",
+          "Protestant Council of the City of New York",
+          "Council of Churches of the City of New York. Brooklyn Division",
+          "Brooklyn Church and Mission Federation (New York, N.Y.)",
+          "Council of Churches of the City of New York",
+          "Protestant Council of the City of New York. Brooklyn Division",
+          "Protestant Council of the City of New York"],
         "unitdate_normal_ssm":["1947/1985"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Council of Churches of the City of New York. Brooklyn Division",
@@ -87,8 +97,8 @@
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1947-1985"],
         "language_ssm":["English"],
-        "_version_":1799256216560467968,
-        "timestamp":"2024-05-17T00:07:22.368Z"}]
+        "_version_":1801959319709679616,
+        "timestamp":"2024-06-15T20:12:02.416Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +106,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Church and Mission Federation (New York, N.Y.)",1,
+        "Council of Churches of the City of New York",1,
+        "Council of Churches of the City of New York. Brooklyn Division",1,
+        "Protestant Council of the City of New York",1,
+        "Protestant Council of the City of New York. Brooklyn Division",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

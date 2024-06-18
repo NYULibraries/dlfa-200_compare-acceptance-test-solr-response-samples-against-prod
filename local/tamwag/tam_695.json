@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Vago Papers"],
         "unitid_ssm":["TAM.695"],
         "abstract_ssm":["The John Vago Papers contain flyers, programs, photographs, slides, and video reels related to his work with the New York Marxist School and his travels to the Soviet Union, Mongolia, and Switzerland. John Vago worked for the Communist Party of the United States of America's New York School for Marxist Studies where he served as chairman of the Student Committee on Progressive Education. He also visited the Soviet Union where he participated in several youth festivals and was selected as a Communist Party delegate to the Mongolian People's Republic in 1975. Approximately half of the collection consists of New York School for Marxist Studies curriculum materials and flyers from 1959 to 1968. The remainder of the collection contains travel documents, notes, photographs, and memorabilia from Vago's travels in Europe and the USSR between 1959 and 1975."],
+        "creator_ssm":["Vago, John",
+          "Vago, John"],
         "unitdate_normal_ssm":["1959/1978"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Communist Party of the United States of America"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1959"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1959-1978"],
-        "_version_":1799335371641716736,
-        "timestamp":"2024-05-17T21:05:30.536Z"},
+        "_version_":1802184327322140672,
+        "timestamp":"2024-06-18T07:48:26.397Z"},
       {
         "id":"tam_695aspace_303d3b64c21c3bfbd744d8fdba90dd1d",
         "ead_ssi":"tam_695",
@@ -86,8 +88,8 @@
         "unitdate_start_ssm":["1959"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1959-1978"],
-        "_version_":1799335371672125440,
-        "timestamp":"2024-05-17T21:05:30.565Z"},
+        "_version_":1802184327341015040,
+        "timestamp":"2024-06-18T07:48:26.415Z"},
       {
         "id":"tam_695aspace_414a3b7d3abf3ad4d5d100b1dbd8e834",
         "ead_ssi":"tam_695",
@@ -107,8 +109,8 @@
         "unitdate_start_ssm":["1959"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1959-1975"],
-        "_version_":1799335371685756928,
-        "timestamp":"2024-05-17T21:05:30.578Z"},
+        "_version_":1802184327354646528,
+        "timestamp":"2024-06-18T07:48:26.428Z"},
       {
         "id":"tam_695aspace_dd13ab7a24972df07f398e0d986ed064",
         "ead_ssi":"tam_695",
@@ -127,8 +129,8 @@
         "unitdate_start_ssm":["1959"],
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1959-1968"],
-        "_version_":1799335371658493952,
-        "timestamp":"2024-05-17T21:05:30.552Z"}]
+        "_version_":1802184327332626432,
+        "timestamp":"2024-06-18T07:48:26.407Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -136,7 +138,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Vago, John",1],
       "date_range_sim":[
         "1901-2000",4],
       "subject_sim":[

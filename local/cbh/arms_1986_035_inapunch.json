@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Inapunch real estate collection"],
         "unitid_ssm":["1986.035"],
         "abstract_ssm":["The Inapunch real estate collection measures 0.2 linear feet and spans the period 1909 to 1929. The collection contains correspondence, bonds, and insurance policies of the Onslow-Moore Company, a land developing company based on Court Street in Brooklyn Heights. Also included are stock certificates for Brooklyn City and Newtown Railroad Company and Brooklyn City Rail Company, and an insurance policy for Morgenstern & Company."],
+        "creator_ssm":["Onslow-Moore Company (Brooklyn, New York, N.Y.)",
+          "Brooklyn City Railroad Co. (New York, N.Y.)",
+          "Brooklyn City and Newtown Railroad Company",
+          "Morgenstern & Company (New York, N.Y.)",
+          "Onslow-Moore Company (Brooklyn, New York, N.Y.)",
+          "Brooklyn City Railroad Co. (New York, N.Y.)",
+          "Brooklyn City and Newtown Railroad Company",
+          "Morgenstern & Company (New York, N.Y.)"],
         "unitdate_normal_ssm":["1909/1929"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Paterson Museum",
@@ -79,8 +87,8 @@
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, 1909-1929"],
         "language_ssm":["English"],
-        "_version_":1799312230317031424,
-        "timestamp":"2024-05-17T14:57:41.248Z"}]
+        "_version_":1801963279443034112,
+        "timestamp":"2024-06-15T21:14:58.711Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +96,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn City Railroad Co. (New York, N.Y.)",1,
+        "Brooklyn City and Newtown Railroad Company",1,
+        "Morgenstern & Company (New York, N.Y.)",1,
+        "Onslow-Moore Company (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

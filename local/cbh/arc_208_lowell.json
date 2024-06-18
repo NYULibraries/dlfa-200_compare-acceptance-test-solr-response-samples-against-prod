@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Sidney V. Lowell papers"],
         "unitid_ssm":["ARC.208"],
         "abstract_ssm":["This collection consists mostly of the correspondence of Brooklyn lawyer Sidney V. Lowell.  Of particular interest are two letters from Judge William J. Gaynor and one from McKim, Mead & White, architects."],
+        "creator_ssm":["Farrell, Josiah Marshall",
+          "Gaynor, William J.",
+          "Cox, Samuel H. (Samuel Hanson)",
+          "McKim, Mead & White",
+          "Lowell, Sidney V.",
+          "McKim, Mead & White",
+          "Farrell, Josiah Marshall",
+          "Gaynor, William J.",
+          "Cox, Samuel H. (Samuel Hanson)",
+          "Lowell, Sidney V."],
         "unitdate_normal_ssm":["1862/1925"],
         "corpname_ssm":["Brooklyn Historical Society",
           "McKim, Mead & White",
@@ -77,8 +87,8 @@
         "unitdate_end_ssm":["1925"],
         "unitdate_ssm":["Inclusive, 1862-1925"],
         "language_ssm":["English"],
-        "_version_":1799312462558789632,
-        "timestamp":"2024-05-17T15:01:22.732Z"}]
+        "_version_":1801959393378435072,
+        "timestamp":"2024-06-15T20:13:12.672Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +96,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cox, Samuel H. (Samuel Hanson)",1,
+        "Farrell, Josiah Marshall",1,
+        "Gaynor, William J.",1,
+        "Lowell, Sidney V.",1,
+        "McKim, Mead & White",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

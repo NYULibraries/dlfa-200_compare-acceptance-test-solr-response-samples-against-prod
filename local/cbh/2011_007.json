@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["F. &amp; M. Schaefer Brewing Company's <em>The Last Night at Ebbets Field</em> scrapbook"],
         "unitid_ssm":["2011.007"],
         "abstract_ssm":["One photographic scrapbook documenting the last night of Brooklyn Dodgers baseball at Ebbets Field in Brooklyn, New York, on September 24, 1957. The scrapbook was produced by the F. & M. Schaefer Brewing Company for Dodgers owner and president Walter O'Malley. It includes photographs of baseball players, staff, sportscasters, sportswriters, fans, and Schaefer employees. Notable individuals featured in the photographs include Roy Campanella, Carl Erskine, Gil Hodges, Emmett Kelly, Sandy Koufax, Johnny Podres, and Vin Scully."],
+        "creator_ssm":["F. & M. Schaefer Brewing Co",
+          "F. & M. Schaefer Brewing Co"],
         "unitdate_normal_ssm":["1957/1957"],
         "corpname_ssm":["Brooklyn Historical Society",
           "F. & M. Schaefer Brewing Co",
@@ -82,8 +84,8 @@
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["Inclusive, 1957"],
         "language_ssm":["English"],
-        "_version_":1799312398054588416,
-        "timestamp":"2024-05-17T15:00:21.216Z"}]
+        "_version_":1801958066997952512,
+        "timestamp":"2024-06-15T19:52:07.737Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "F. & M. Schaefer Brewing Co",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Town of East Hampton land patent"],
         "unitid_ssm":["1973.160"],
         "abstract_ssm":["One land patent, dated 1686, for the Town of East Hampton in Long Island, N.Y.  The patent, granted and written by Thomas Dongan, General Governor in Chief and Vice Admiral of the Province of New York, awards land title to Thomas Baker, Thomas Chatfield, Jeremiah Conklin, Stephen Hedges, John Mulford, John Osborn, and Thomas Osborn."],
+        "creator_ssm":["Limerick, Thomas Dongan, Earl of",
+          "New York (Colony)",
+          "New York (Colony)",
+          "Limerick, Thomas Dongan, Earl of"],
         "unitdate_normal_ssm":["1686/1686"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (Colony)"],
@@ -66,8 +70,8 @@
         "unitdate_end_ssm":["1686"],
         "unitdate_ssm":["Inclusive, 1686"],
         "language_ssm":["English"],
-        "_version_":1775226466113421312,
-        "timestamp":"2023-08-25T18:24:46.537Z"}]
+        "_version_":1800651098390790144,
+        "timestamp":"2024-06-01T09:38:25.344Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +79,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Limerick, Thomas Dongan, Earl of",1,
+        "New York (Colony)",1],
       "date_range_sim":[
         "1601-1700",1],
       "subject_sim":[

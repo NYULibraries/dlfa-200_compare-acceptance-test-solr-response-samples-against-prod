@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Time Inc. <em>Time</em> Covers"],
         "unitid_ssm":["MS 3009-RG 32"],
         "abstract_ssm":["The Time Inc. Time Covers contains a chronological run of detached covers."],
+        "creator_ssm":["Time, inc.",
+          "Time, inc."],
         "unitdate_normal_ssm":["1923/2015"],
         "corpname_ssm":["New-York Historical Society",
           "Time, inc.",
@@ -75,8 +77,8 @@
         "unitdate_start_ssm":["1923"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 1923-2015"],
-        "_version_":1799324348130000896,
-        "timestamp":"2024-05-17T18:10:17.696Z"},
+        "_version_":1802105347152805888,
+        "timestamp":"2024-06-17T10:53:05.037Z"},
       {
         "id":"timeinc_ms3009_rg32aspace_ref16_dy3",
         "ead_ssi":"timeinc_ms3009_rg32",
@@ -96,8 +98,8 @@
         "unitdate_start_ssm":["1923"],
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, 1923-1929"],
-        "_version_":1799324348146778112,
-        "timestamp":"2024-05-17T18:10:17.712Z"},
+        "_version_":1802105347173777408,
+        "timestamp":"2024-06-17T10:53:05.058Z"},
       {
         "id":"timeinc_ms3009_rg32aspace_ref17_5ft",
         "ead_ssi":"timeinc_ms3009_rg32",
@@ -117,8 +119,8 @@
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["1942"],
         "unitdate_ssm":["Inclusive, 1929-1942"],
-        "_version_":1799324348163555328,
-        "timestamp":"2024-05-17T18:10:17.728Z"},
+        "_version_":1802105347193700352,
+        "timestamp":"2024-06-17T10:53:05.077Z"},
       {
         "id":"timeinc_ms3009_rg32aspace_ref18_ujn",
         "ead_ssi":"timeinc_ms3009_rg32",
@@ -138,8 +140,8 @@
         "unitdate_start_ssm":["1943"],
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["Inclusive, 1943-1958"],
-        "_version_":1799324348183478272,
-        "timestamp":"2024-05-17T18:10:17.747Z"},
+        "_version_":1802105347224109056,
+        "timestamp":"2024-06-17T10:53:05.106Z"},
       {
         "id":"timeinc_ms3009_rg32aspace_ref19_472",
         "ead_ssi":"timeinc_ms3009_rg32",
@@ -159,8 +161,8 @@
         "unitdate_start_ssm":["1959"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, 1959-1974"],
-        "_version_":1799324348203401216,
-        "timestamp":"2024-05-17T18:10:17.765Z"},
+        "_version_":1802105347249274880,
+        "timestamp":"2024-06-17T10:53:05.13Z"},
       {
         "id":"timeinc_ms3009_rg32aspace_ref20_xrj",
         "ead_ssi":"timeinc_ms3009_rg32",
@@ -180,8 +182,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1975-1986"],
-        "_version_":1799324348218081280,
-        "timestamp":"2024-05-17T18:10:17.78Z"},
+        "_version_":1802105347266052096,
+        "timestamp":"2024-06-17T10:53:05.146Z"},
       {
         "id":"timeinc_ms3009_rg32aspace_ref21_l7r",
         "ead_ssi":"timeinc_ms3009_rg32",
@@ -201,8 +203,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1987-2000"],
-        "_version_":1799324348231712768,
-        "timestamp":"2024-05-17T18:10:17.793Z"},
+        "_version_":1802105347280732160,
+        "timestamp":"2024-06-17T10:53:05.16Z"},
       {
         "id":"timeinc_ms3009_rg32aspace_ref22_yru",
         "ead_ssi":"timeinc_ms3009_rg32",
@@ -222,8 +224,8 @@
         "unitdate_start_ssm":["2001"],
         "unitdate_end_ssm":["2007"],
         "unitdate_ssm":["Inclusive, 2001-2007"],
-        "_version_":1799324348245344256,
-        "timestamp":"2024-05-17T18:10:17.806Z"},
+        "_version_":1802105347302752256,
+        "timestamp":"2024-06-17T10:53:05.181Z"},
       {
         "id":"timeinc_ms3009_rg32aspace_ref23_7ww",
         "ead_ssi":"timeinc_ms3009_rg32",
@@ -243,8 +245,8 @@
         "unitdate_start_ssm":["2007"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 2007-2009"],
-        "_version_":1799324348262121472,
-        "timestamp":"2024-05-17T18:10:17.822Z"},
+        "_version_":1802105347325820928,
+        "timestamp":"2024-06-17T10:53:05.203Z"},
       {
         "id":"timeinc_ms3009_rg32aspace_ref29_rzf",
         "ead_ssi":"timeinc_ms3009_rg32",
@@ -264,8 +266,8 @@
         "unitdate_start_ssm":["2009"],
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["Inclusive, 2009-2011"],
-        "_version_":1799324348275752960,
-        "timestamp":"2024-05-17T18:10:17.834Z"},
+        "_version_":1802105347346792448,
+        "timestamp":"2024-06-17T10:53:05.223Z"},
       {
         "id":"timeinc_ms3009_rg32aspace_ref30_rx7",
         "ead_ssi":"timeinc_ms3009_rg32",
@@ -285,8 +287,8 @@
         "unitdate_start_ssm":["2011"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["Inclusive, 2011-2013"],
-        "_version_":1799324348289384448,
-        "timestamp":"2024-05-17T18:10:17.847Z"},
+        "_version_":1802105347365666816,
+        "timestamp":"2024-06-17T10:53:05.241Z"},
       {
         "id":"timeinc_ms3009_rg32aspace_ref31_9kp",
         "ead_ssi":"timeinc_ms3009_rg32",
@@ -306,8 +308,8 @@
         "unitdate_start_ssm":["2013"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2013-2014"],
-        "_version_":1799324348304064512,
-        "timestamp":"2024-05-17T18:10:17.862Z"},
+        "_version_":1802105347389784064,
+        "timestamp":"2024-06-17T10:53:05.264Z"},
       {
         "id":"timeinc_ms3009_rg32aspace_ref32_m37",
         "ead_ssi":"timeinc_ms3009_rg32",
@@ -327,8 +329,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 2014-2015"],
-        "_version_":1799324348321890304,
-        "timestamp":"2024-05-17T18:10:17.879Z"}]
+        "_version_":1802105347411804160,
+        "timestamp":"2024-06-17T10:53:05.285Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -336,7 +338,8 @@
       "repository_sim":[
         "nyhs",13],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Time, inc.",1],
       "date_range_sim":[
         "1901-2000",7,
         "2001-2100",7],

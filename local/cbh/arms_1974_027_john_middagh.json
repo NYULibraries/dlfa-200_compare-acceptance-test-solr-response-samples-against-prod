@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Middagh account book"],
         "unitid_ssm":["1974.027"],
         "abstract_ssm":["This collection consists of one item:  the account book of John Middagh, hatter and merchant of Brooklyn. The account book contains the autograph signatures of Middagh's business associates in both Brooklyn and New York City, with their notations for dates of payment, amounts, and items or services purchased by Middagh for the period, 1773-1810.  It also records the collection of Middagh's taxes.  Many prominent early Brooklynites set their hands to this book, including John Jacob Astor (1763-1848) and his agents."],
+        "creator_ssm":["Middagh, John",
+          "Middagh, John"],
         "unitdate_normal_ssm":["1773/1810"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Account books",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1773"],
         "unitdate_end_ssm":["1810"],
         "unitdate_ssm":["Inclusive, 1773-1810"],
-        "_version_":1799311514237140992,
-        "timestamp":"2024-05-17T14:46:18.342Z"}]
+        "_version_":1801960268157157376,
+        "timestamp":"2024-06-15T20:27:06.926Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Middagh, John",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

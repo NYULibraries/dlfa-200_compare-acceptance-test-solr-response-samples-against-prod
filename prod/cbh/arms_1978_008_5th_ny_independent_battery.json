@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Union Army Light Artillery, 5th New York Independent Battery records"],
         "unitid_ssm":["1978.008"],
         "abstract_ssm":["The Union Army Light Artillery, 5th New York Independent Battery records consist mainly of muster rolls for the period 1861-1865, covering the unit's service during the Civil War. In addition to periodic muster rolls, the collection also holds the unit's initial muster-in roll and the 1864 muster-out roll from the conclusion of the unit's initial term of service. Additional items include rolls of absentees and deserters, and discharge, furlough and other documents of Private (later 2nd Lieutenant) William H. Cornell.  Finally, the collection includes the printed roster and by-laws of the Brooklyn (N.Y.) George C. Strong Post No. 534 of the Grand Army of the Republic, circa 1910 with annotated updates through circa 1912."],
+        "creator_ssm":["United States. Army. New York Artillery. Independent Battery, 5th (1861-1865)",
+          "United States. Army. New York Artillery. Independent Battery, 5th (1861-1865)"],
         "unitdate_normal_ssm":["1861/1922"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Army. New York Artillery. Independent Battery, 5th (1861-1865)",
@@ -80,8 +82,8 @@
         "unitdate_start_ssm":["1861"],
         "unitdate_end_ssm":["1922"],
         "unitdate_ssm":["Inclusive, 1861-1865, circa 1912"],
-        "_version_":1775221450843619328,
-        "timestamp":"2023-08-25T17:05:03.602Z"},
+        "_version_":1800733836803309568,
+        "timestamp":"2024-06-02T07:33:30.842Z"},
       {
         "id":"arms_1978_008_5th_ny_independent_batteryaspace_ref12_zbm",
         "ead_ssi":"arms_1978_008_5th_ny_independent_battery",
@@ -100,8 +102,8 @@
         "unitdate_start_ssm":["1861"],
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["Inclusive, 1861-1865"],
-        "_version_":1775221450880319488,
-        "timestamp":"2023-08-25T17:05:03.638Z"},
+        "_version_":1800733836821135360,
+        "timestamp":"2024-06-02T07:33:30.86Z"},
       {
         "id":"arms_1978_008_5th_ny_independent_batteryaspace_ref13_tni",
         "ead_ssi":"arms_1978_008_5th_ny_independent_battery",
@@ -120,8 +122,8 @@
         "unitdate_start_ssm":["1864"],
         "unitdate_end_ssm":["1912"],
         "unitdate_ssm":["Inclusive, 1864, circa 1912"],
-        "_version_":1775221450920165376,
-        "timestamp":"2023-08-25T17:05:03.676Z"},
+        "_version_":1800733836857835520,
+        "timestamp":"2024-06-02T07:33:30.895Z"},
       {
         "id":"arms_1978_008_5th_ny_independent_batteryaspace_ref14_8dv",
         "ead_ssi":"arms_1978_008_5th_ny_independent_battery",
@@ -140,8 +142,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1912"],
         "unitdate_ssm":["Inclusive, 1910-circa 1912"],
-        "_version_":1775221450956865536,
-        "timestamp":"2023-08-25T17:05:03.71Z"}]
+        "_version_":1800733836886147072,
+        "timestamp":"2024-06-02T07:33:30.922Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -149,7 +151,8 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. Army. New York Artillery. Independent Battery, 5th (1861-1865)",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",3],

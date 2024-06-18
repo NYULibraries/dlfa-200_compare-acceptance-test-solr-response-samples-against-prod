@@ -47,6 +47,8 @@
         "unittitle_ssm":["Black Student Service Center Records"],
         "unitid_ssm":["RG.39.212"],
         "abstract_ssm":["The Black Student Service Center (BSSC) at New York University was established in 1973 \"to enrich the cultural, social, and educational experiences of the Black student.\" This collection contains the organization's records and photographs from BSSC special events."],
+        "creator_ssm":["New York University. Black Student Service Center",
+          "New York University. Black Student Service Center"],
         "unitdate_normal_ssm":["1979/2019"],
         "corpname_ssm":["New York University Archives",
           "New York University. Black Student Service Center",
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["Inclusive, 1979-2019"],
-        "_version_":1799248564168163328,
-        "timestamp":"2024-05-16T22:05:44.478Z"},
+        "_version_":1801953711969271808,
+        "timestamp":"2024-06-15T18:42:54.458Z"},
       {
         "id":"rg_39_212aspace_95378476b82ae6363cadaf81d584cbfa",
         "ead_ssi":"rg_39_212",
@@ -91,8 +93,8 @@
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, 1979-1996"],
-        "_version_":1799248564192280576,
-        "timestamp":"2024-05-16T22:05:44.501Z"},
+        "_version_":1801953711989194752,
+        "timestamp":"2024-06-15T18:42:54.477Z"},
       {
         "id":"rg_39_212aspace_b26c443a1900f3c29d41574fdac736a4",
         "ead_ssi":"rg_39_212",
@@ -106,14 +108,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 010, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: Shared University Archives 010, Folder: 2"],
         "heading_ssm":["Oversize graphics"],
         "unitdate_start_ssm":["1988"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["undated, 1988"],
-        "_version_":1799248564212203520,
-        "timestamp":"2024-05-16T22:05:44.52Z"}]
+        "_version_":1801953712005971968,
+        "timestamp":"2024-06-15T18:42:54.493Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -121,7 +122,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Black Student Service Center",1],
       "date_range_sim":[
         "1901-2000",3,
         "2001-2100",1],

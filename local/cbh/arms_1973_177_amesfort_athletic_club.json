@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Amersfort Athletic Club constitution and bylaws"],
         "unitid_ssm":["1973.177"],
         "abstract_ssm":["Constitution and bylaws of the Amersfort Athletic Club, with member signatures included on the final page."],
+        "creator_ssm":["Amersfort Athletic Club",
+          "Amersfort Athletic Club"],
         "unitdate_normal_ssm":["1887/1887"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Amersfort Athletic Club",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1887"],
         "unitdate_ssm":["Inclusive, 1887"],
         "language_ssm":["English"],
-        "_version_":1799311732338851840,
-        "timestamp":"2024-05-17T14:49:46.34Z"}]
+        "_version_":1801960030080073728,
+        "timestamp":"2024-06-15T20:23:19.878Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Amersfort Athletic Club",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

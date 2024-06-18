@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Marcy Avenue Baptist Church records"],
         "unitid_ssm":["ARC.274"],
         "abstract_ssm":["This collection contains the administrative and organizational records of the Marcy Avenue Baptist Church, which began as an outgrowth of the Washington Avenue Baptist Church.  The Church, located in the Bedford-Stuyvesant area of Brooklyn, was formed in 1872 and disbanned in 1939, after which its building became home to the Concord Baptist Church of Christ. The church experienced rapid growth and underwent several expansions in the 1870s and 1880s.  By 1900, Marcy Avenue Baptist Church was the largest Baptist church in Brooklyn.  Materials in the collection include membership rolls, registers, and marriage stubs, as well as Deacons reports, Ladies Aid Society reports, Sunday School Superintendent reports, Benevolent Society reports, reports of the Board of Trustees, and general Church statistics."],
+        "creator_ssm":["Marcy Avenue Baptist Church (Brooklyn, New York, N.Y.)",
+          "Marcy Avenue Baptist Church (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1872/1958"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Marcy Avenue Baptist Church (Brooklyn, New York, N.Y.)",
@@ -80,8 +82,8 @@
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["Inclusive, 1872-1958"],
         "language_ssm":["English"],
-        "_version_":1799312377973309440,
-        "timestamp":"2024-05-17T15:00:02.064Z"},
+        "_version_":1801959708436725760,
+        "timestamp":"2024-06-15T20:18:13.135Z"},
       {
         "id":"arc_274_marcy_avenue_baptist_churchaspace_ref15_q17",
         "ead_ssi":"arc_274_marcy_avenue_baptist_church",
@@ -100,8 +102,8 @@
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["Inclusive, circa 1925"],
         "language_ssm":["English"],
-        "_version_":1799312378024689664,
-        "timestamp":"2024-05-17T15:00:02.114Z"},
+        "_version_":1801959708523757568,
+        "timestamp":"2024-06-15T20:18:13.217Z"},
       {
         "id":"arc_274_marcy_avenue_baptist_churchaspace_ref7_tvn",
         "ead_ssi":"arc_274_marcy_avenue_baptist_church",
@@ -119,8 +121,8 @@
         "unitdate_start_ssm":["1872"],
         "unitdate_end_ssm":["1927"],
         "unitdate_ssm":["Inclusive, 1872-1927"],
-        "_version_":1799312377993232384,
-        "timestamp":"2024-05-17T15:00:02.084Z"},
+        "_version_":1801959708465037312,
+        "timestamp":"2024-06-15T20:18:13.162Z"},
       {
         "id":"arc_274_marcy_avenue_baptist_churchaspace_ref9_d0b",
         "ead_ssi":"arc_274_marcy_avenue_baptist_church",
@@ -138,8 +140,8 @@
         "unitdate_start_ssm":["1874"],
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["Inclusive, 1874-1958"],
-        "_version_":1799312378006863872,
-        "timestamp":"2024-05-17T15:00:02.097Z"}]
+        "_version_":1801959708488105984,
+        "timestamp":"2024-06-15T20:18:13.184Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -147,7 +149,8 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Marcy Avenue Baptist Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",4],

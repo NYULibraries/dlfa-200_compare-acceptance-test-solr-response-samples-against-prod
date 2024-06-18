@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Arthur Felberbaum Papers"],
         "unitid_ssm":["TAM.319"],
+        "creator_ssm":["Felberbaum, Arthur, 1935-1979",
+          "Felberbaum, Arthur, 1935-1979"],
         "unitdate_normal_ssm":["1950/1979"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "New York Marxist School"],
@@ -61,8 +63,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1950s-1970s"],
-        "_version_":1775226136236654592,
-        "timestamp":"2023-08-25T18:19:31.942Z"}]
+        "_version_":1801242507809390592,
+        "timestamp":"2024-06-07T22:18:37.317Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -70,7 +72,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Felberbaum, Arthur, 1935-1979",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

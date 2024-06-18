@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Adrian Voorhees sworn statements"],
         "unitid_ssm":["1977.639"],
         "abstract_ssm":["One sworn affidavit (1779) and one sworn statement (1780) related to the home and property of Adrian Voorhees of Flatbush during the Revolutionary War."],
+        "creator_ssm":["Voorhees, Adrian",
+          "Tavles, O.",
+          "Voorhees, Adrian",
+          "Tavles, O."],
         "unitdate_normal_ssm":["1779/1780"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Brooklyn (New York, N.Y.)",
@@ -66,8 +70,8 @@
         "unitdate_end_ssm":["1780"],
         "unitdate_ssm":["Inclusive, 1779-1780"],
         "language_ssm":["English"],
-        "_version_":1799312407361748992,
-        "timestamp":"2024-05-17T15:00:30.092Z"}]
+        "_version_":1801962119304839168,
+        "timestamp":"2024-06-15T20:56:32.318Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +79,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tavles, O.",1,
+        "Voorhees, Adrian",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[],

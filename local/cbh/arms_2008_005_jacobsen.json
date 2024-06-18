@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Michael C. Jacobsen collection of Coney Island memorabilia"],
         "unitid_ssm":["2008.005"],
         "abstract_ssm":["Collection consists of Coney Island related memorabilia and ephemera that was collected by Michael C. Jacobsen, with items dating from circa 1880 to 1998. Among the amusement parks, rides, and businesses represented in the collection are Cook's Baths, the Cyclone, Elephantine Colossus, Luna Park, Nathan's Famous, the Parachute Jump, Steeplechase Park and Pool, and the Wonder Wheel. The collection contains assorted commemorative memorabilia, postcards, photographs, viewbooks, motion pictures, and other Coney Island related ephemera."],
+        "creator_ssm":["Jacobsen, Michael C.",
+          "Jacobsen, Michael C."],
         "unitdate_normal_ssm":["1875/1998"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Luna Park (New York, N.Y.)",
@@ -105,8 +107,8 @@
         "unitdate_end_ssm":["1998"],
         "unitdate_ssm":["Inclusive, circa 1880-1998"],
         "language_ssm":["English"],
-        "_version_":1799311563269603328,
-        "timestamp":"2024-05-17T14:47:05.103Z"}]
+        "_version_":1801964023566041088,
+        "timestamp":"2024-06-15T21:26:48.363Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -114,7 +116,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Jacobsen, Michael C.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["DUMBA Archived Website"],
         "unitid_ssm":["MSS.621"],
         "abstract_ssm":["The DUMBA Collective (1998-2006) was a non-profit arts collective in the DUMBO neighborhood in Brooklyn, New York. It was devoted to the contemporary art practices of the queer community. This collection contains the MySpace page for the DUMBA collective. It describes planning for a sex party, fliers from events at DUMBA, and well wishes from DUMBA's MySpace friends."],
+        "creator_ssm":["Dumba Collective",
+          "Dumba Collective"],
         "unitdate_normal_ssm":["2009-12/2017-11"],
         "corpname_ssm":["Fales Library and Special Collections",
           "Dumba Collective"],
@@ -63,8 +65,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["DUMBA Archived Website"],
         "unitdate_ssm":["Inclusive, December 2009-November 2017"],
-        "_version_":1799745485278281728,
-        "timestamp":"2024-05-22T09:44:05.378Z"},
+        "_version_":1802081743289712640,
+        "timestamp":"2024-06-17T04:37:54.64Z"},
       {
         "id":"mss_621aspace_5be076c8b6ed50eb17f4714f27881d09",
         "ead_ssi":"mss_621",
@@ -82,8 +84,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["Inclusive, December 2009-November 2017"],
-        "_version_":1799745485291913216,
-        "timestamp":"2024-05-22T09:44:05.391Z"}]
+        "_version_":1802081743308587008,
+        "timestamp":"2024-06-17T04:37:54.658Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +94,8 @@
         "fales",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dumba Collective",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

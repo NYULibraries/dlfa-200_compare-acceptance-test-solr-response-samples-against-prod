@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Emma Doris Meyer journals"],
         "unitid_ssm":["2016.031"],
         "abstract_ssm":["The collection consists of two handwritten journals created by Emma Meyer during her girlhood in Brooklyn in the late-nineteenth century.  One journal was kept during two of Meyer's teenage years (1891-1893) and is a personal diary in which she describes, among other things, her home life, love of learning, school experiences, and dream of becoming a teacher.  In the other journal, Meyer copied snippets of poetry and full poems attributed to various poets and also collected news clippings featuring poetry."],
+        "creator_ssm":["Meyer, Emma Doris",
+          "Meyer, Emma Doris"],
         "unitdate_normal_ssm":["1891/1893"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Journals (accounts)",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1893"],
         "unitdate_ssm":["Inclusive, 1891-1893"],
         "language_ssm":["English"],
-        "_version_":1799312275500171264,
-        "timestamp":"2024-05-17T14:58:24.339Z"}]
+        "_version_":1801967052063244288,
+        "timestamp":"2024-06-15T22:14:56.563Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Meyer, Emma Doris",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

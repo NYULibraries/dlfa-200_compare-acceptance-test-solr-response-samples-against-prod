@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>Science &amp; Society</em> Editorial Files"],
         "unitid_ssm":["TAM.555"],
         "abstract_ssm":["Science & Society is a scholarly Marxist quarterly founded in 1936. The editorial staff's records are comprised of author files, administrative correspondence, and the minutes and correspondence of the editorial board."],
+        "creator_ssm":["Science & Society (New York, N.Y.)",
+          "Science & Society (New York, N.Y.)"],
         "unitdate_normal_ssm":["1960/2009",
           "1990/2009"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -73,8 +75,8 @@
           "1990"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, circa 1960-2009 ; 1990-2009"],
-        "_version_":1775219936306659328,
-        "timestamp":"2023-08-25T16:40:59.228Z"},
+        "_version_":1801267674036043776,
+        "timestamp":"2024-06-08T04:58:37.701Z"},
       {
         "id":"tam_555aspace_ref10",
         "ead_ssi":"tam_555",
@@ -93,8 +95,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1960s-2000s"],
-        "_version_":1775219936388448256,
-        "timestamp":"2023-08-25T16:40:59.305Z"},
+        "_version_":1801267674075889664,
+        "timestamp":"2024-06-08T04:58:37.739Z"},
       {
         "id":"tam_555aspace_ref12",
         "ead_ssi":"tam_555",
@@ -113,8 +115,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1980s-2000s"],
-        "_version_":1775219936428294144,
-        "timestamp":"2023-08-25T16:40:59.344Z"},
+        "_version_":1801267674090569728,
+        "timestamp":"2024-06-08T04:58:37.752Z"},
       {
         "id":"tam_555aspace_ref14",
         "ead_ssi":"tam_555",
@@ -133,8 +135,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1990s-2000s"],
-        "_version_":1775219936473382912,
-        "timestamp":"2023-08-25T16:40:59.387Z"},
+        "_version_":1801267674102104064,
+        "timestamp":"2024-06-08T04:58:37.764Z"},
       {
         "id":"tam_555aspace_ref17",
         "ead_ssi":"tam_555",
@@ -153,8 +155,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1990s-2000s"],
-        "_version_":1775219936519520256,
-        "timestamp":"2023-08-25T16:40:59.431Z"},
+        "_version_":1801267674118881280,
+        "timestamp":"2024-06-08T04:58:37.779Z"},
       {
         "id":"tam_555aspace_ref20",
         "ead_ssi":"tam_555",
@@ -173,8 +175,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1990s-2000s"],
-        "_version_":1775219936561463296,
-        "timestamp":"2023-08-25T16:40:59.471Z"},
+        "_version_":1801267674133561344,
+        "timestamp":"2024-06-08T04:58:37.794Z"},
       {
         "id":"tam_555aspace_ref29",
         "ead_ssi":"tam_555",
@@ -189,8 +191,8 @@
         "format_ssm":["Archival Object"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["May 1, 2011-ongoing"],
-        "_version_":1775219936624377856,
-        "timestamp":"2023-08-25T16:40:59.531Z"},
+        "_version_":1801267674145095680,
+        "timestamp":"2024-06-08T04:58:37.805Z"},
       {
         "id":"tam_555aspace_ref8",
         "ead_ssi":"tam_555",
@@ -209,8 +211,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1960s-2000s"],
-        "_version_":1775219936346505216,
-        "timestamp":"2023-08-25T16:40:59.266Z"}]
+        "_version_":1801267674057015296,
+        "timestamp":"2024-06-08T04:58:37.721Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -218,7 +220,8 @@
       "repository_sim":[
         "tamwag",8],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Science & Society (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",7,
         "2001-2100",7,

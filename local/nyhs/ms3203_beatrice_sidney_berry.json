@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Beatrice and Sidney Berry scrapbooks"],
         "unitid_ssm":["MS 3204"],
         "abstract_ssm":["The collection holds 8 scrapbooks documenting the married lives and, to a somewhat lesser extent, careers of a New York City Jewish couple, Beatrice and Sidney Berry. The scrapbooks begin in 1931, shortly before they marry, and end in 1961, with a gap from 1952-55. The scrapbooks include photographs; programs to various cultural, sporting, and other events; travel souvenirs; ephemera; menus; letters and greeting cards; and announcements and invitations for weddings, births, opening ceremonies, events at Rodeph Sholom temple, and other religious, political, etc. events. Sidney's career with the Office of War Information during World War II and with Voice of America in the 1940s-1950s, and Beatrice's career as a fashion saleswoman and columnist, are also represented in the scrapbooks."],
+        "creator_ssm":["Berry, Beatrice, active 1920s-1970s",
+          "Berry, Sidney N.",
+          "Berry, Beatrice, active 1920s-1970s",
+          "Berry, Sidney N."],
         "corpname_ssm":["New-York Historical Society",
           "Congregation Rodeph Sholom (New York, N.Y.)",
           "Fight for Freedom (Organization)",
@@ -74,8 +78,8 @@
           "Scrapbooks."],
         "heading_ssm":["Beatrice and Sidney Berry scrapbooks"],
         "unitdate_ssm":["Inclusive, 1931-1960"],
-        "_version_":1799325417244459008,
-        "timestamp":"2024-05-17T18:27:17.282Z"},
+        "_version_":1802086127644966912,
+        "timestamp":"2024-06-17T05:47:35.886Z"},
       {
         "id":"ms3203_beatrice_sidney_berryaspace_70ec527550c7730387aff6c1c26d86bf",
         "ead_ssi":"ms3203_beatrice_sidney_berry",
@@ -91,8 +95,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Scrapbook #4"],
         "unitdate_ssm":["Inclusive, 1938-1940"],
-        "_version_":1799325417343025152,
-        "timestamp":"2024-05-17T18:27:17.376Z"},
+        "_version_":1802086127712075776,
+        "timestamp":"2024-06-17T05:47:35.951Z"},
       {
         "id":"ms3203_beatrice_sidney_berryaspace_71ba49d5ed9bd867dff917d2f0ee7e8c",
         "ead_ssi":"ms3203_beatrice_sidney_berry",
@@ -108,8 +112,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Scrapbook #1"],
         "unitdate_ssm":["Inclusive, 1931-1933"],
-        "_version_":1799325417266479104,
-        "timestamp":"2024-05-17T18:27:17.304Z"},
+        "_version_":1802086127662792704,
+        "timestamp":"2024-06-17T05:47:35.904Z"},
       {
         "id":"ms3203_beatrice_sidney_berryaspace_b685961834d9c68a097185fd0a2885f3",
         "ead_ssi":"ms3203_beatrice_sidney_berry",
@@ -125,8 +129,8 @@
         "location_ssm":["Offsite-Box: 4"],
         "heading_ssm":["Scrapbook #7"],
         "unitdate_ssm":["Inclusive, 1949-1951"],
-        "_version_":1799325417397551104,
-        "timestamp":"2024-05-17T18:27:17.429Z"},
+        "_version_":1802086127765553152,
+        "timestamp":"2024-06-17T05:47:36.002Z"},
       {
         "id":"ms3203_beatrice_sidney_berryaspace_c5b45d131bc4124877cbe10870b49c06",
         "ead_ssi":"ms3203_beatrice_sidney_berry",
@@ -142,8 +146,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Scrapbook #5"],
         "unitdate_ssm":["Inclusive, 1940-1945"],
-        "_version_":1799325417363996672,
-        "timestamp":"2024-05-17T18:27:17.397Z"},
+        "_version_":1802086127734095872,
+        "timestamp":"2024-06-17T05:47:35.972Z"},
       {
         "id":"ms3203_beatrice_sidney_berryaspace_cfd9eae71bb9afa58767ae0b4c9156a1",
         "ead_ssi":"ms3203_beatrice_sidney_berry",
@@ -159,8 +163,8 @@
         "location_ssm":["Offsite-Box: 4"],
         "heading_ssm":["Scrapbook #6"],
         "unitdate_ssm":["Inclusive, 1945-1949"],
-        "_version_":1799325417384968192,
-        "timestamp":"2024-05-17T18:27:17.417Z"},
+        "_version_":1802086127750873088,
+        "timestamp":"2024-06-17T05:47:35.988Z"},
       {
         "id":"ms3203_beatrice_sidney_berryaspace_e70bc081690494a3d8a127b63b4649df",
         "ead_ssi":"ms3203_beatrice_sidney_berry",
@@ -176,8 +180,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Scrapbook #8"],
         "unitdate_ssm":["Inclusive, circa 1956-1961"],
-        "_version_":1799325417414328320,
-        "timestamp":"2024-05-17T18:27:17.445Z"},
+        "_version_":1802086127779184640,
+        "timestamp":"2024-06-17T05:47:36.015Z"},
       {
         "id":"ms3203_beatrice_sidney_berryaspace_f1d9fbbbec41106d7de89f9ff5432337",
         "ead_ssi":"ms3203_beatrice_sidney_berry",
@@ -193,8 +197,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Scrapbook #3"],
         "unitdate_ssm":["Inclusive, 1935-1937"],
-        "_version_":1799325417324150784,
-        "timestamp":"2024-05-17T18:27:17.359Z"},
+        "_version_":1802086127692152832,
+        "timestamp":"2024-06-17T05:47:35.932Z"},
       {
         "id":"ms3203_beatrice_sidney_berryaspace_f5037783451299167ade48e34d7ec249",
         "ead_ssi":"ms3203_beatrice_sidney_berry",
@@ -210,8 +214,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Scrapbook #2"],
         "unitdate_ssm":["Inclusive, 1934-1935"],
-        "_version_":1799325417293742080,
-        "timestamp":"2024-05-17T18:27:17.33Z"}]
+        "_version_":1802086127677472768,
+        "timestamp":"2024-06-17T05:47:35.918Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -219,7 +223,9 @@
       "repository_sim":[
         "nyhs",9],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Berry, Beatrice, active 1920s-1970s",1,
+        "Berry, Sidney N.",1],
       "date_range_sim":[
         "undated & other",9],
       "subject_sim":[

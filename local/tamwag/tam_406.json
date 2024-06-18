@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Vivian Mae Leighton Papers"],
         "unitid_ssm":["TAM.406"],
         "abstract_ssm":["Vivian Mae Leighton (b. March 5, 1910) was a U.S. citizen employed by the United Nations, beginning in 1946, and an alumna of Brown University. In 1955, she submitted her replies to a questionnaire from the International Organizations Loyalty Board, established by Executive Order 10422, pertaining to the employment of U.S. citizens by international organizations, notably the United Nations. This small collection includes the questionnaire filled out by Leighton and related correspondence, a copy of Executive Order 10422, The Secretary General's Remarks to the United Nations Correspondents Association (July 10, 1953), which include discussion of the Order, and an envelope from the Brown University Almnae Fund."],
+        "creator_ssm":["Leighton, Vivian Mae, 1910-",
+          "Leighton, Vivian Mae, 1910-"],
         "unitdate_normal_ssm":["1953/1955"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United Nations"],
@@ -62,8 +64,8 @@
         "unitdate_start_ssm":["1953"],
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["Inclusive, 1953-1955"],
-        "_version_":1799782895358836736,
-        "timestamp":"2024-05-22T19:38:42.411Z"},
+        "_version_":1802176958623121408,
+        "timestamp":"2024-06-18T05:51:19.058Z"},
       {
         "id":"tam_406aspace_b90b27c3caea7497297939df3bcab1c6",
         "ead_ssi":"tam_406",
@@ -77,14 +79,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-4",
-          "Folder: 1-4"],
+        "location_ssm":["Box: 1, Folder: 1-4"],
         "heading_ssm":["Vivian Mae Leighton Papers"],
         "unitdate_start_ssm":["1953"],
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["Inclusive, 1953-1955"],
-        "_version_":1799782895372468224,
-        "timestamp":"2024-05-22T19:38:42.424Z"}]
+        "_version_":1802176958633607168,
+        "timestamp":"2024-06-18T05:51:19.068Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +93,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Leighton, Vivian Mae, 1910-",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn trolley lines blueprints"],
         "unitid_ssm":["1977.286"],
         "abstract_ssm":["This collection consists of 80 blueprints of Brooklyn trolley lines, showing schematics of electrical power feeder lines and trolley connections.  The blueprints were issued by the New York City Board of Transportation."],
+        "creator_ssm":["New York (N.Y.). Board of Transportation",
+          "New York (N.Y.). Board of Transportation"],
         "unitdate_normal_ssm":["1926/1951"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (N.Y.). Board of Transportation"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["Inclusive, 1926-1951"],
         "language_ssm":["English"],
-        "_version_":1799311563741462528,
-        "timestamp":"2024-05-17T14:47:05.553Z"}]
+        "_version_":1801961252162895872,
+        "timestamp":"2024-06-15T20:42:45.347Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (N.Y.). Board of Transportation",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

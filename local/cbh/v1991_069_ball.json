@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Clifford Ball photographs of the Pieter Claesen Wyckoff House and the Wyckoff-Bennett Homestead"],
         "unitid_ssm":["V1991.069"],
         "abstract_ssm":["The Clifford Ball photographs of the Pieter Claesen Wyckoff House and the Wyckoff-Bennett Homestead consist of 48 color photographic prints and one black-and-white copy print of an illustration documenting historic Dutch Colonial style houses in Brooklyn. The photographs were taken by Clifford Ball from March 1982 to 1983."],
+        "creator_ssm":["Ball, Clifford",
+          "Ball, Clifford"],
         "unitdate_normal_ssm":["1982/1982"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Wyckoff House & Association",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1982"],
         "unitdate_ssm":["Inclusive, 1982"],
         "language_ssm":["English"],
-        "_version_":1799311562254581760,
-        "timestamp":"2024-05-17T14:47:04.134Z"}]
+        "_version_":1802045487430238208,
+        "timestamp":"2024-06-16T19:01:38.358Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ball, Clifford",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

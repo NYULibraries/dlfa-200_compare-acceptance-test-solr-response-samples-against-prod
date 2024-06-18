@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Archives of Irish America Photograph Collection"],
         "unitid_ssm":["AIA.053"],
         "abstract_ssm":["This is an artifical collection created by the Archives of Irish America during its early years of collecting. The collection consists of a variety of photographs, many of which document sporting events, musical performances, and social functions organized by various Irish American social or fraternal organizations in the greater New York City area."],
+        "creator_ssm":["Archives of Irish America",
+          "Archives of Irish America"],
         "unitdate_normal_ssm":["1920/2008"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Archives of Irish America"],
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 1920-2008"],
-        "_version_":1799747280432005120,
-        "timestamp":"2024-05-22T10:12:37.37Z"},
+        "_version_":1802109772033425408,
+        "timestamp":"2024-06-17T12:03:24.933Z"},
       {
         "id":"aia_053aspace_9b9f2e8d55fb1730c1d0f1f022679e45",
         "ead_ssi":"aia_053",
@@ -78,14 +80,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 149, Folder: 5",
-          "Folder: 5"],
+        "location_ssm":["Box: Shared Tamiment 149, Folder: 5"],
         "heading_ssm":["Emerald Musical Society group photograph"],
         "unitdate_start_ssm":["1949"],
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["1949"],
-        "_version_":1799747280465559552,
-        "timestamp":"2024-05-22T10:12:37.402Z"},
+        "_version_":1802109772082708480,
+        "timestamp":"2024-06-17T12:03:24.98Z"},
       {
         "id":"aia_053aspace_b113073e1dbfbad7155e33a704a742ec",
         "ead_ssi":"aia_053",
@@ -99,14 +100,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 165, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment 165, Folder: 1"],
         "heading_ssm":["Re-Enactment of 1860s Requiem Mass for Civil War Dead at Old St. Patrick's Cathedral, NYC (photographs)"],
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["circa 1990"],
-        "_version_":1799747280485482496,
-        "timestamp":"2024-05-22T10:12:37.421Z"},
+        "_version_":1802109772106825728,
+        "timestamp":"2024-06-17T12:03:25.003Z"},
       {
         "id":"aia_053aspace_e13bfa67ba55a19c6e47598a4f007edd",
         "ead_ssi":"aia_053",
@@ -121,16 +121,14 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment AIAXOS001, Folder: 1",
-          "Folder: 1",
           "Box: 1",
-          "Box: Shared Tamiment 065, Folder: 6",
-          "Folder: 6"],
+          "Box: Shared Tamiment 065, Folder: 6"],
         "heading_ssm":["Photographs"],
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 1920-2008"],
-        "_version_":1799747280450879488,
-        "timestamp":"2024-05-22T10:12:37.388Z"}]
+        "_version_":1802109772059639808,
+        "timestamp":"2024-06-17T12:03:24.958Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -138,7 +136,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Archives of Irish America",1],
       "date_range_sim":[
         "1901-2000",4,
         "2001-2100",2],

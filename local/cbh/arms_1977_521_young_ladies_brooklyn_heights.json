@@ -47,6 +47,8 @@
         "unittitle_ssm":["Institution for Young Ladies on Brooklyn Heights advertisment"],
         "unitid_ssm":["1977.521"],
         "abstract_ssm":["Advertisement for the Institution for Young Ladies on Brooklyn Heights describing the school's tuition, location, and curriculum. The Institution for Young Ladies on Brooklyn Heights, also known as the Greenleaf Female Institute, was founded and established in 1837 by Alfred Greenleaf."],
+        "creator_ssm":["Institution for Young Ladies on Brooklyn Heights",
+          "Institution for Young Ladies on Brooklyn Heights"],
         "unitdate_normal_ssm":["1840/1869"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Institution for Young Ladies on Brooklyn Heights",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1869"],
         "unitdate_ssm":["Inclusive, circa 1850 to 1859"],
         "language_ssm":["English"],
-        "_version_":1799309976511971328,
-        "timestamp":"2024-05-17T14:21:51.853Z"}]
+        "_version_":1801961873911840768,
+        "timestamp":"2024-06-15T20:52:38.293Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Institution for Young Ladies on Brooklyn Heights",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

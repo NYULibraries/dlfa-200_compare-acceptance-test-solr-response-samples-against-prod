@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["International Typographical Union, Local 6, Journal of Commerce Chapel"],
         "unitid_ssm":["WAG.276"],
         "abstract_ssm":["The International Typographical Union (ITU) was a trade union for the printing trade, founded in 1852. This collection consists of a reproduction of a membership ledger for one of the shops within the ITU Local 6."],
+        "creator_ssm":["International Typographical Union. Local 6 (New York, N.Y.). Journel of Commerce Chapel",
+          "International Typographical Union. Local 6 (New York, N.Y.). Journel of Commerce Chapel"],
         "unitdate_normal_ssm":["1873/1962"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Typographical Union. Local 6 (New York, N.Y.). Journel of Commerce Chapel"],
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1873-1962"],
         "language_ssm":["English"],
-        "_version_":1799803939719217152,
-        "timestamp":"2024-05-23T01:13:11.877Z"},
+        "_version_":1802196471943004160,
+        "timestamp":"2024-06-18T11:01:28.41Z"},
       {
         "id":"wag_276aspace_81f0dc9c72911ca5aff2e804b7461310",
         "ead_ssi":"wag_276",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment 043"],
         "heading_ssm":["Separated Materials"],
-        "_version_":1799803939733897216,
-        "timestamp":"2024-05-23T01:13:11.891Z"}]
+        "_version_":1802196471952441344,
+        "timestamp":"2024-06-18T11:01:28.419Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "International Typographical Union. Local 6 (New York, N.Y.). Journel of Commerce Chapel",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

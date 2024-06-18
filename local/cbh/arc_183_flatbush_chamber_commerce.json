@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Flatbush Chamber of Commerce publications"],
         "unitid_ssm":["ARC.183"],
         "abstract_ssm":["The Flatbush Chamber of Commerce publications span the years 1924 to 1963 and measure .42 linear feet. The collection is primarily comprised of monthly newsletters, titled Flatbush, dating from 1928 to 1963. The other item in the collection consists of one issue of the newsletter, Flatbush Bulletin, dated November 1924. The newsletters were published monthly."],
+        "creator_ssm":["Flatbush Chamber of Commerce (New York, N.Y.)",
+          "Flatbush Chamber of Commerce (New York, N.Y.)"],
         "unitdate_normal_ssm":["1924/1963"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Flatbush Chamber of Commerce (New York, N.Y.)",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, 1924-1963"],
         "language_ssm":["English"],
-        "_version_":1799311562519871488,
-        "timestamp":"2024-05-17T14:47:04.387Z"}]
+        "_version_":1801959316873281536,
+        "timestamp":"2024-06-15T20:11:59.711Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Flatbush Chamber of Commerce (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

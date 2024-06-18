@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":22,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Institute of International Finance Press Clippings"],
         "unitid_ssm":["MC.79"],
         "abstract_ssm":["The Investment Bankers Association of America, in cooperation with New York University, founded the Institute of International Finance in 1926 as a fact-finding body concerned with foreign economic and financial conditions. This collection contains a scrapbook of press clippings that mention the Institute of International Finance from between 1927 and 1939 and \"The Bulletins of NYU's Institute of Finance, 1926-1970: A Review Article,\" reprinted from the Journal of Economic Literature."],
+        "creator_ssm":["Institute of International Finance",
+          "Institute of International Finance"],
         "unitdate_normal_ssm":["1927/1971",
           "1927/1939"],
         "corpname_ssm":["New York University Archives",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1971",
           "1939"],
         "unitdate_ssm":["Inclusive, 1927-1971 ; 1927-1939"],
-        "_version_":1799255034939047936,
-        "timestamp":"2024-05-16T23:48:35.485Z"},
+        "_version_":1801950616589697024,
+        "timestamp":"2024-06-15T17:53:42.474Z"},
       {
         "id":"mc_79aspace_ref1",
         "ead_ssi":"mc_79",
@@ -86,14 +88,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, volume: 1",
-          "volume: 1"],
+        "location_ssm":["Box: 1, volume: 1"],
         "heading_ssm":["Institute of International Finance, Press Clippings"],
         "unitdate_start_ssm":["1927"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1927-1939"],
-        "_version_":1799255034962116608,
-        "timestamp":"2024-05-16T23:48:35.507Z"},
+        "_version_":1801950616611717120,
+        "timestamp":"2024-06-15T17:53:42.495Z"},
       {
         "id":"mc_79aspace_ref2",
         "ead_ssi":"mc_79",
@@ -107,14 +108,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["The Bulletins of NYU's Institute of Finance, 1926-1970: A Review Article"],
         "unitdate_start_ssm":["1971"],
         "unitdate_end_ssm":["1971"],
         "unitdate_ssm":["1971"],
-        "_version_":1799255034978893824,
-        "timestamp":"2024-05-16T23:48:35.524Z"}]
+        "_version_":1801950616633737216,
+        "timestamp":"2024-06-15T17:53:42.516Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -122,7 +122,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Institute of International Finance",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[],

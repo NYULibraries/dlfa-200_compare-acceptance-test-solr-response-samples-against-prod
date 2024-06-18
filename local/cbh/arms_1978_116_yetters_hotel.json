@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["H.C. Yetter's Hotel register"],
         "unitid_ssm":["1978.116"],
         "abstract_ssm":["Register of H.C. Yetter's Hotel in Greenport, Long Island, N.Y., operated by proprietor Henry C. Yetter.  The register lists the names of guests and entertainers staying at the hotel for the period 1891 to 1895, and includes each guest's signature, address and place of residence, room number, and date and time of arrival.  The last several pages of the register contain children's drawings dating from 1909."],
+        "creator_ssm":["H.C. Yetter's Hotel (Greenport, N.Y.)",
+          "H.C. Yetter's Hotel (Greenport, N.Y.)"],
         "unitdate_normal_ssm":["1891/1909"],
         "corpname_ssm":["Brooklyn Historical Society",
           "H.C. Yetter's Hotel (Greenport, N.Y.)",
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["Inclusive, 1891-1909"],
         "language_ssm":["English"],
-        "_version_":1799311514177372160,
-        "timestamp":"2024-05-17T14:46:18.285Z"}]
+        "_version_":1801962482560925696,
+        "timestamp":"2024-06-15T21:02:18.746Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "H.C. Yetter's Hotel (Greenport, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

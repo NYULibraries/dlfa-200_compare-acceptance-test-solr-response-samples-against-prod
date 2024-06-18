@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Tide-Water Building Company collection"],
         "unitid_ssm":["2007.018"],
         "abstract_ssm":["The Tide-Water Building Company collection dates from 1910 to 1919, with the bulk of materials dated 1910 to 1911, and contains approximately 80 items. Document types in the collection include photographs, clippings, periodicals, and ads. The bulk of the collection documents Tide-Water's construction of a section of the 4th Avenue subway line in Brooklyn. Documentation of other Tide-Water building projects in Brooklyn, New York City, and throughout the United States is also included."],
+        "creator_ssm":["Tide-Water Building Company",
+          "Tide-Water Building Company"],
         "unitdate_normal_ssm":["1910/1919",
           "1910/1911"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -82,8 +84,8 @@
           "1911"],
         "unitdate_ssm":["Inclusive, 1910-1919 ; 1910-1911"],
         "language_ssm":["English"],
-        "_version_":1799312463235121152,
-        "timestamp":"2024-05-17T15:01:23.377Z"}]
+        "_version_":1801963989591130112,
+        "timestamp":"2024-06-15T21:26:15.961Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tide-Water Building Company",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

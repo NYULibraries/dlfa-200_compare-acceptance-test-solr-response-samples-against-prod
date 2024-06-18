@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":17,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,18 @@
         "unittitle_ssm":["Blossom and Hill family papers"],
         "unitid_ssm":["ARC.010"],
         "abstract_ssm":["The Blossom and Hill family papers date from 1842 to 1902 and measure one linear foot. Items include travel journals to Europe by Josephine Hill and Mary Hill; correspondence, news clippings, diaries, and recipe books belonging to Sarah Hill Blossom; printed material collected by the Blossom family, including programs from the Church of the Savior in Brooklyn Heights; and news clippings from the period, such as the statement by Ulysses S. Grant beginning the tradition of Thanksgiving Day in 1869."],
+        "creator_ssm":["Hill family",
+          "Blossom, Katherine E.",
+          "Blossom family",
+          "Blossom, Sarah Hill",
+          "Hill, Mary",
+          "Hill, Josephine Mason",
+          "Hill family",
+          "Blossom family",
+          "Blossom, Katherine E.",
+          "Blossom, Sarah Hill",
+          "Hill, Mary",
+          "Hill, Josephine Mason"],
         "unitdate_normal_ssm":["1842/1902"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Church of the Savior"],
@@ -87,8 +99,8 @@
         "unitdate_end_ssm":["1902"],
         "unitdate_ssm":["Inclusive, 1842-1902"],
         "language_ssm":["English"],
-        "_version_":1799256466524209152,
-        "timestamp":"2024-05-17T00:11:20.752Z"}]
+        "_version_":1801958643730481152,
+        "timestamp":"2024-06-15T20:01:17.751Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +108,13 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Blossom family",1,
+        "Blossom, Katherine E.",1,
+        "Blossom, Sarah Hill",1,
+        "Hill family",1,
+        "Hill, Josephine Mason",1,
+        "Hill, Mary",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Bernard Gotfryd color slides and photographs"],
         "unitid_ssm":["V1987.003"],
         "abstract_ssm":["The collection includes 150 color slides that document the 1983 Brooklyn Bridge Centennial celebration. The majority of the slides show views of the Brooklyn Bridge, as well as the fireworks display that took place during the celebration. Also included are 24 black-and-white photographic prints that primarily document predominantly African American neighborhoods in Brooklyn in the late 1960s to early 1970s."],
+        "creator_ssm":["Gotfryd, Bernard",
+          "Gotfryd, Bernard"],
         "unitdate_normal_ssm":["1955/1993"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographs",
@@ -79,8 +81,8 @@
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, circa 1965 to 1983"],
         "language_ssm":["English"],
-        "_version_":1777668577250246656,
-        "timestamp":"2023-09-21T17:21:05.206Z"}]
+        "_version_":1800846766023639040,
+        "timestamp":"2024-06-03T13:28:28.54Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gotfryd, Bernard",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

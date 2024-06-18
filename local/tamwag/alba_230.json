@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Edward Heitman Collection"],
         "unitid_ssm":["ALBA.230"],
+        "creator_ssm":["Heitman, Edward",
+          "Heitman, Edward"],
         "unitdate_normal_ssm":["1936/1991"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Abraham Lincoln Brigade Archives",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, circa 1936-1991"],
         "language_ssm":["English"],
-        "_version_":1799748080039362560,
-        "timestamp":"2024-05-22T10:25:19.935Z"},
+        "_version_":1802111418430914560,
+        "timestamp":"2024-06-17T12:29:35.06Z"},
       {
         "id":"alba_230aspace_47e163018de8cb8879e2b18e98a3fa01",
         "ead_ssi":"alba_230",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799748080052994048,
-        "timestamp":"2024-05-22T10:25:19.948Z"}]
+        "_version_":1802111418445594624,
+        "timestamp":"2024-06-17T12:29:35.074Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Heitman, Edward",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

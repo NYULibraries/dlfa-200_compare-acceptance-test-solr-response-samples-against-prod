@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Washington Square and University College (CAS) Evening College of Arts and Sciences, Department of Economics"],
         "unitid_ssm":["RG.19.13"],
         "abstract_ssm":["This collection contains materials from New York University's Washington Square College Evening Division Department of Economics."],
+        "creator_ssm":["New York University. Washington Square College of Arts and Science",
+          "New York University. Washington Square College of Arts and Science"],
         "unitdate_normal_ssm":["1922/1983"],
         "corpname_ssm":["New York University Archives",
           "New York University. Washington Square College of Arts and Science",
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1922"],
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1922-1983"],
-        "_version_":1799254170746748928,
-        "timestamp":"2024-05-16T23:34:51.328Z"},
+        "_version_":1801951690328375296,
+        "timestamp":"2024-06-15T18:10:46.471Z"},
       {
         "id":"rg_19_13aspace_482d800ba5ca1297137c6be7455904b9",
         "ead_ssi":"rg_19_13",
@@ -84,8 +86,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, 1930-1970"],
-        "_version_":1799254170826440704,
-        "timestamp":"2024-05-16T23:34:51.404Z"},
+        "_version_":1801951690375561216,
+        "timestamp":"2024-06-15T18:10:46.516Z"},
       {
         "id":"rg_19_13aspace_5f23297bc61b460fea1e1927c743d902",
         "ead_ssi":"rg_19_13",
@@ -100,8 +102,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 3"],
         "heading_ssm":["Notecards, seal, pins"],
-        "_version_":1799254170875723776,
-        "timestamp":"2024-05-16T23:34:51.451Z"},
+        "_version_":1801951690397581312,
+        "timestamp":"2024-06-15T18:10:46.537Z"},
       {
         "id":"rg_19_13aspace_721cb695f9a703a2e1bb2b861e22400d",
         "ead_ssi":"rg_19_13",
@@ -120,8 +122,8 @@
         "unitdate_start_ssm":["1922"],
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1922-1983"],
-        "_version_":1799254170788691968,
-        "timestamp":"2024-05-16T23:34:51.367Z"}]
+        "_version_":1801951690353541120,
+        "timestamp":"2024-06-15T18:10:46.495Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -129,7 +131,8 @@
       "repository_sim":[
         "archives",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Washington Square College of Arts and Science",1],
       "date_range_sim":[
         "1901-2000",3,
         "undated & other",1],

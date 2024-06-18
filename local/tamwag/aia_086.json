@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Daniel Lane Collection"],
         "unitid_ssm":["AIA.086"],
         "abstract_ssm":["Daniel Lane was the Chairman of the Nassau County Chapter of the Irish Northern Aid Committee (NORAID). In 2013 he acted as the Grand Marshall of the Glen Cove St. Patrick's Day Parade. The Daniel Lane Collection consists of textiles and ephemera collected by Lane documenting Irish American organizations, with emphasis on conflict in Northern Ireland in the late 1970s through the early 2000s. Materials from the Nassau County chapter of Irish Northern Aid and Irish American Society of Nassau, Suffolk, and Queens include newsletters, event programs, and items expressing opposition to the extradition and deportation of Joe Doherty, including buttons and a record for the song \"Let Joe Go!\" by Erin's Pride. The collection also includes St. Patrick's Day parade marshall sashes, a rubber bullet fired by the Royal Ulster Constabulary (RUC) on August 1, 1981 after the death of Kevin Lynch, and textiles created by Irish Republican prisoners in Long Kesh Detention Center for an Irish Northern Aid auction, including a flag signed by prisoners in Cage 22."],
+        "creator_ssm":["Lane, Daniel",
+          "Lane, Daniel"],
         "unitdate_normal_ssm":["1984/2013"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Irish Northern Aid Committee",
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["Inclusive, 1984-2013"],
-        "_version_":1799747624051408896,
-        "timestamp":"2024-05-22T10:18:05.071Z"},
+        "_version_":1802110350848425984,
+        "timestamp":"2024-06-17T12:12:36.934Z"},
       {
         "id":"aia_086aspace_1386b8eff234f99aed22092654e47db5",
         "ead_ssi":"aia_086",
@@ -85,14 +87,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 062, Folder: 20",
-          "Folder: 20"],
+        "location_ssm":["Box: Shared Tamiment 062, Folder: 20"],
         "heading_ssm":["Newsletters and Event Ephemera"],
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1984-2009"],
-        "_version_":1799747624137392128,
-        "timestamp":"2024-05-22T10:18:05.153Z"},
+        "_version_":1802110351021441024,
+        "timestamp":"2024-06-17T12:12:37.099Z"},
       {
         "id":"aia_086aspace_3978dd7f13f47006473828c5e9630157",
         "ead_ssi":"aia_086",
@@ -110,8 +111,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Rubber Bullet Fired by Royal Irish Constabulary"],
         "unitdate_ssm":["1981-08-01"],
-        "_version_":1799747624078671872,
-        "timestamp":"2024-05-22T10:18:05.097Z"},
+        "_version_":1802110350892466176,
+        "timestamp":"2024-06-17T12:12:36.976Z"},
       {
         "id":"aia_086aspace_4ff87ba3035212eec63f36184279e5b3",
         "ead_ssi":"aia_086",
@@ -131,8 +132,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1970s-1980s"],
-        "_version_":1799747624124809216,
-        "timestamp":"2024-05-22T10:18:05.14Z"},
+        "_version_":1802110350989983744,
+        "timestamp":"2024-06-17T12:12:37.069Z"},
       {
         "id":"aia_086aspace_761ac417d0747d4a279db3662a92e248",
         "ead_ssi":"aia_086",
@@ -152,8 +153,8 @@
         "unitdate_start_ssm":["2013"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["2013, undated"],
-        "_version_":1799747624111177728,
-        "timestamp":"2024-05-22T10:18:05.128Z"},
+        "_version_":1802110350955380736,
+        "timestamp":"2024-06-17T12:12:37.035Z"},
       {
         "id":"aia_086aspace_ca2cb09606f90bd1bc96e88f197ab39d",
         "ead_ssi":"aia_086",
@@ -173,8 +174,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, circa 1983-1992"],
-        "_version_":1799747624066088960,
-        "timestamp":"2024-05-22T10:18:05.085Z"},
+        "_version_":1802110350870446080,
+        "timestamp":"2024-06-17T12:12:36.955Z"},
       {
         "id":"aia_086aspace_dff1780a21f244a800fa33401a2085e1",
         "ead_ssi":"aia_086",
@@ -194,8 +195,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1970s-1980s"],
-        "_version_":1799747624097546240,
-        "timestamp":"2024-05-22T10:18:05.115Z"}]
+        "_version_":1802110350928117760,
+        "timestamp":"2024-06-17T12:12:37.01Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -203,7 +204,8 @@
       "repository_sim":[
         "tamwag",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lane, Daniel",1],
       "date_range_sim":[
         "1901-2000",5,
         "2001-2100",3,

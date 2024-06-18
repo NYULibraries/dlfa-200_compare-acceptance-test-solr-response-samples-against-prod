@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New-York Manumission Society records"],
         "unitid_ssm":["BV Manumission Society"],
         "abstract_ssm":["This collection contains 11 volumes of records for the New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated (commonly known as the New-York Manumission Society), covering its activities from its founding in 1785 through its dissolution in 1849. \n \nThe New-York Manumission Society records are digitized and available in the Shelby White and Leon Levy Digital Library."],
+        "creator_ssm":["New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated",
+          "New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated"],
         "corpname_ssm":["New-York Historical Society",
           "New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated",
           "American Convention for Promoting the Abolition of Slavery and Improving the Condition of the African Race [111]",
@@ -95,8 +97,8 @@
         "heading_ssm":["New-York Manumission Society records"],
         "unitdate_ssm":["Inclusive, 1785-1849"],
         "language_ssm":["English"],
-        "_version_":1799323197205643264,
-        "timestamp":"2024-05-17T17:52:00.089Z"},
+        "_version_":1802082211742089216,
+        "timestamp":"2024-06-17T04:45:21.391Z"},
       {
         "id":"ms1465_manumission_societyaspace_ref15_063",
         "ead_ssi":"ms1465_manumission_society",
@@ -112,8 +114,8 @@
         "location_ssm":["reel: 1"],
         "heading_ssm":["Volume 1, Minutes of the Ways and Means Committee"],
         "unitdate_ssm":["1810-1838"],
-        "_version_":1799323197221371904,
-        "timestamp":"2024-05-17T17:52:00.104Z"},
+        "_version_":1802082211770400768,
+        "timestamp":"2024-06-17T04:45:21.418Z"},
       {
         "id":"ms1465_manumission_societyaspace_ref16_7ld",
         "ead_ssi":"ms1465_manumission_society",
@@ -129,8 +131,8 @@
         "location_ssm":["reel: 1"],
         "heading_ssm":["Volume 2, Register of Manumissions of Slaves (New York City)"],
         "unitdate_ssm":["1816-1818"],
-        "_version_":1799323197232906240,
-        "timestamp":"2024-05-17T17:52:00.115Z"},
+        "_version_":1802082211794518016,
+        "timestamp":"2024-06-17T04:45:21.441Z"},
       {
         "id":"ms1465_manumission_societyaspace_ref17_x4w",
         "ead_ssi":"ms1465_manumission_society",
@@ -146,8 +148,8 @@
         "location_ssm":["reel: 1"],
         "heading_ssm":["Volume 3, Manumissions and Indentures"],
         "unitdate_ssm":["1809-1829"],
-        "_version_":1799323197252829184,
-        "timestamp":"2024-05-17T17:52:00.134Z"},
+        "_version_":1802082211829121024,
+        "timestamp":"2024-06-17T04:45:21.474Z"},
       {
         "id":"ms1465_manumission_societyaspace_ref18_con",
         "ead_ssi":"ms1465_manumission_society",
@@ -163,8 +165,8 @@
         "location_ssm":["reel: 1"],
         "heading_ssm":["Volume 4, Treasurer's Account Book"],
         "unitdate_ssm":["1819-1849"],
-        "_version_":1799323197272752128,
-        "timestamp":"2024-05-17T17:52:00.153Z"},
+        "_version_":1802082211854286848,
+        "timestamp":"2024-06-17T04:45:21.498Z"},
       {
         "id":"ms1465_manumission_societyaspace_ref19_3h5",
         "ead_ssi":"ms1465_manumission_society",
@@ -180,8 +182,8 @@
         "location_ssm":["reel: 1"],
         "heading_ssm":["Volume 5, Minutes of Meetings, Records and Reports of Committees"],
         "unitdate_ssm":["1785-1822"],
-        "_version_":1799323197286383616,
-        "timestamp":"2024-05-17T17:52:00.166Z"},
+        "_version_":1802082211880501248,
+        "timestamp":"2024-06-17T04:45:21.523Z"},
       {
         "id":"ms1465_manumission_societyaspace_ref20_715",
         "ead_ssi":"ms1465_manumission_society",
@@ -197,8 +199,8 @@
         "location_ssm":["reel: 1"],
         "heading_ssm":["Volume 6, Minutes"],
         "unitdate_ssm":["1785-1787"],
-        "_version_":1799323197298966528,
-        "timestamp":"2024-05-17T17:52:00.178Z"},
+        "_version_":1802082211902521344,
+        "timestamp":"2024-06-17T04:45:21.544Z"},
       {
         "id":"ms1465_manumission_societyaspace_ref21_ezk",
         "ead_ssi":"ms1465_manumission_society",
@@ -214,8 +216,8 @@
         "location_ssm":["reel: 1"],
         "heading_ssm":["Volume 7, Minutes"],
         "unitdate_ssm":["1791-1797"],
-        "_version_":1799323197310500864,
-        "timestamp":"2024-05-17T17:52:00.189Z"},
+        "_version_":1802082211924541440,
+        "timestamp":"2024-06-17T04:45:21.565Z"},
       {
         "id":"ms1465_manumission_societyaspace_ref22_vmn",
         "ead_ssi":"ms1465_manumission_society",
@@ -231,8 +233,8 @@
         "location_ssm":["reel: 2"],
         "heading_ssm":["Volume 7, Minutes"],
         "unitdate_ssm":["1797-1807"],
-        "_version_":1799323197322035200,
-        "timestamp":"2024-05-17T17:52:00.2Z"},
+        "_version_":1802082211945512960,
+        "timestamp":"2024-06-17T04:45:21.585Z"},
       {
         "id":"ms1465_manumission_societyaspace_ref23_pif",
         "ead_ssi":"ms1465_manumission_society",
@@ -248,8 +250,8 @@
         "location_ssm":["reel: 2"],
         "heading_ssm":["Volume 8, Minutes"],
         "unitdate_ssm":["1829-1849"],
-        "_version_":1799323197333569536,
-        "timestamp":"2024-05-17T17:52:00.211Z"},
+        "_version_":1802082211968581632,
+        "timestamp":"2024-06-17T04:45:21.607Z"},
       {
         "id":"ms1465_manumission_societyaspace_ref24_iu0",
         "ead_ssi":"ms1465_manumission_society",
@@ -265,8 +267,8 @@
         "location_ssm":["reel: 2"],
         "heading_ssm":["Volume 9, Minutes"],
         "unitdate_ssm":["1798-1814"],
-        "_version_":1799323197345103872,
-        "timestamp":"2024-05-17T17:52:00.222Z"},
+        "_version_":1802082211987456000,
+        "timestamp":"2024-06-17T04:45:21.625Z"},
       {
         "id":"ms1465_manumission_societyaspace_ref25_7lj",
         "ead_ssi":"ms1465_manumission_society",
@@ -282,8 +284,8 @@
         "location_ssm":["reel: 2"],
         "heading_ssm":["Volume 10, Minutes"],
         "unitdate_ssm":["1807-1817"],
-        "_version_":1799323197358735360,
-        "timestamp":"2024-05-17T17:52:00.235Z"},
+        "_version_":1802082212007378944,
+        "timestamp":"2024-06-17T04:45:21.644Z"},
       {
         "id":"ms1465_manumission_societyaspace_ref26_bhc",
         "ead_ssi":"ms1465_manumission_society",
@@ -299,8 +301,8 @@
         "location_ssm":["reel: 2"],
         "heading_ssm":["Volume 11, Minutes"],
         "unitdate_ssm":["1817-1842"],
-        "_version_":1799323197371318272,
-        "timestamp":"2024-05-17T17:52:00.247Z"}]
+        "_version_":1802082212028350464,
+        "timestamp":"2024-06-17T04:45:21.663Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -308,7 +310,8 @@
       "repository_sim":[
         "nyhs",13],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New-York Society for Promoting the Manumission of Slaves, and Protecting Such of Them as Have Been, or May Be Liberated",1],
       "date_range_sim":[
         "undated & other",13],
       "subject_sim":[

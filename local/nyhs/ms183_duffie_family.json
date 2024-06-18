@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Duffie Family papers"],
         "unitid_ssm":["MS 183"],
         "abstract_ssm":["The Duffie Family Papers consist primarily of legal documents concerning the development and sale of property in New York City in the mid-19th century and include information regarding the last will and testament of John Duffie and his heirs."],
+        "creator_ssm":["Duffy family",
+          "Duffy family"],
         "corpname_ssm":["New-York Historical Society",
           "John Duffie & Company (New York, N.Y.)",
           "St. John the Baptist (Church : New York, N.Y.)"],
@@ -82,8 +84,8 @@
           "Tintypes (prints)"],
         "heading_ssm":["Duffie Family papers"],
         "unitdate_ssm":["Inclusive, 1834-1859 (bulk, 1851)"],
-        "_version_":1799330058284826624,
-        "timestamp":"2024-05-17T19:41:03.324Z"},
+        "_version_":1802082901080145920,
+        "timestamp":"2024-06-17T04:56:18.795Z"},
       {
         "id":"ms183_duffie_familyaspace_ref15_z1p",
         "ead_ssi":"ms183_duffie_family",
@@ -96,12 +98,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Legal and real estate documents"],
         "unitdate_ssm":["Inclusive, 1834-1858"],
-        "_version_":1799330058305798144,
-        "timestamp":"2024-05-17T19:41:03.344Z"},
+        "_version_":1802082901105311744,
+        "timestamp":"2024-06-17T04:56:18.819Z"},
       {
         "id":"ms183_duffie_familyaspace_ref16_u6p",
         "ead_ssi":"ms183_duffie_family",
@@ -114,12 +115,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Legal drafts"],
         "unitdate_ssm":["Inclusive, 1842-1851"],
-        "_version_":1799330058322575360,
-        "timestamp":"2024-05-17T19:41:03.36Z"},
+        "_version_":1802082901139914752,
+        "timestamp":"2024-06-17T04:56:18.852Z"},
       {
         "id":"ms183_duffie_familyaspace_ref17_19v",
         "ead_ssi":"ms183_duffie_family",
@@ -132,12 +132,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Papers relating to St. John the Baptist Church"],
         "unitdate_ssm":["Inclusive, 1848-1854"],
-        "_version_":1799330058350886912,
-        "timestamp":"2024-05-17T19:41:03.387Z"},
+        "_version_":1802082901159837696,
+        "timestamp":"2024-06-17T04:56:18.871Z"},
       {
         "id":"ms183_duffie_familyaspace_ref18_pyo",
         "ead_ssi":"ms183_duffie_family",
@@ -150,12 +149,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 1, Folder: 4"],
         "heading_ssm":["Papers relating to house at corner of Lexington Ave and 35th Street (Rectory)"],
         "unitdate_ssm":["Inclusive, 1850-1854"],
-        "_version_":1799330058372907008,
-        "timestamp":"2024-05-17T19:41:03.408Z"},
+        "_version_":1802082901180809216,
+        "timestamp":"2024-06-17T04:56:18.891Z"},
       {
         "id":"ms183_duffie_familyaspace_ref19_rd8",
         "ead_ssi":"ms183_duffie_family",
@@ -168,12 +166,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 5",
-          "Folder: 5"],
+        "location_ssm":["Box: 1, Folder: 5"],
         "heading_ssm":["Other receipts/photos"],
         "unitdate_ssm":["Inclusive, 1851-1852"],
-        "_version_":1799330058387587072,
-        "timestamp":"2024-05-17T19:41:03.422Z"}]
+        "_version_":1802082901209120768,
+        "timestamp":"2024-06-17T04:56:18.918Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -181,7 +178,8 @@
       "repository_sim":[
         "nyhs",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Duffy family",1],
       "date_range_sim":[
         "undated & other",6],
       "subject_sim":[

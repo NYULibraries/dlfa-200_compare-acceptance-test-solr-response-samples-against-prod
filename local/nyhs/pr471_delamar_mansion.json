@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["De Lamar Mansion interior photographs"],
         "unitid_ssm":["PR 471"],
         "abstract_ssm":["One exterior and twenty-seven interior photographs of the Joseph Raphael De Lamar House, a Beaux-Arts style mansion at 233 Madsion Avenue, Manhattan, designed by noted architect C. P. H. Gilbert and built in 1902–1905. Since 1973 the building has housed the Consulate General of the Republic of Poland in New York."],
+        "creator_ssm":["Ward, DeWitt Clinton",
+          "Ward, DeWitt Clinton"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Black-and-white photographs."],
         "geogname_ssm":["Murray Hill (New York, N.Y.) -- Buildings, structures, etc."],
@@ -66,8 +68,8 @@
         "material_type_ssm":["Black-and-white photographs."],
         "heading_ssm":["De Lamar Mansion interior photographs"],
         "unitdate_ssm":["Inclusive, circa 1905"],
-        "_version_":1799319242460364800,
-        "timestamp":"2024-05-17T16:49:08.55Z"},
+        "_version_":1802094887869349888,
+        "timestamp":"2024-06-17T08:06:50.288Z"},
       {
         "id":"pr471_delamar_mansionaspace_bed1b544a33e0a93e7a8e42f42584430",
         "ead_ssi":"pr471_delamar_mansion",
@@ -83,8 +85,8 @@
         "location_ssm":["Folder: 1 (of 1)"],
         "heading_ssm":["De Lamar Mansion interior photographs [29 items]"],
         "unitdate_ssm":["Inclusive, circa 1905"],
-        "_version_":1799319242473996288,
-        "timestamp":"2024-05-17T16:49:08.563Z"}]
+        "_version_":1802094887892418560,
+        "timestamp":"2024-06-17T08:06:50.31Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +94,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ward, DeWitt Clinton",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

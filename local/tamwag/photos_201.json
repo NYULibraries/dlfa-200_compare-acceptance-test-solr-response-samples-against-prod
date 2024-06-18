@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ruth Abramowitz Photographs"],
         "unitid_ssm":["PHOTOS.201"],
         "abstract_ssm":["Ruth Abramowitz (1924-2001) was secretary of Local 101, Utility Division of the Transport Workers Union. The collection contains thirty-five photographs depicting events in which Abramowitz took part in the 1950s. Many represent social welfare campaigns undertaken in cooperation with the Greater New York Fund. There are also photographs depicting events of New York City CIO's Community Services Committee, a labor campaign to control cancer in Brooklyn, and different events held in Atlantic City, at the United Nations, and at Sarah Lawrence College."],
+        "creator_ssm":["Abramowitz, Ruth",
+          "Abramowitz, Ruth"],
         "unitdate_normal_ssm":["1952/1957"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Greater New York Fund",
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1952"],
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["Inclusive, 1952-1957"],
-        "_version_":1799764606303862784,
-        "timestamp":"2024-05-22T14:48:00.609Z"},
+        "_version_":1802141975437115392,
+        "timestamp":"2024-06-17T20:35:16.492Z"},
       {
         "id":"photos_201aspace_ref7",
         "ead_ssi":"photos_201",
@@ -89,8 +91,8 @@
         "unitdate_start_ssm":["1952"],
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["Inclusive, 1952-1957"],
-        "_version_":1799764606325882880,
-        "timestamp":"2024-05-22T14:48:00.63Z"}]
+        "_version_":1802141975450746880,
+        "timestamp":"2024-06-17T20:35:16.505Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -98,7 +100,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Abramowitz, Ruth",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

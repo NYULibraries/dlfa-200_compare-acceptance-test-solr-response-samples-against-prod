@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Stock and Rettberg family papers"],
         "unitid_ssm":["1979.007"],
         "abstract_ssm":["This collection contains the papers of the Stock and Rettberg families who rented a house at 61 Court Street, Brooklyn around 1872. Documents include legal documentation (leases, deeds, bonds, and receipts), documents relating to the death of Ernst Rettberg, a certificate of copyright for Lina Rettberg, and one photograph."],
+        "creator_ssm":["Stock family",
+          "Rettberg family",
+          "Stock family",
+          "Rettberg family"],
         "unitdate_normal_ssm":["1866/1906"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Stock family",
@@ -79,8 +83,8 @@
         "unitdate_end_ssm":["1906"],
         "unitdate_ssm":["Inclusive, 1866-1906"],
         "language_ssm":["English"],
-        "_version_":1799311567737585664,
-        "timestamp":"2024-05-17T14:47:09.364Z"}]
+        "_version_":1801962719763496960,
+        "timestamp":"2024-06-15T21:06:04.96Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +92,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rettberg family",1,
+        "Stock family",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

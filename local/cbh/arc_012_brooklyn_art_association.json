@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Art Association records"],
         "unitid_ssm":["ARC.012"],
         "abstract_ssm":["The Brooklyn Art Association records span the period 1861 to 1970 and consists primarily of catalogs of exhibitions produced by the Association. Other materials include janitorial accounts, checks, bills, receipts, proxies, lists of stockholders and annual and life members, a photocopy of a certificate of incorporation for the association, and various annual reports."],
+        "creator_ssm":["Brooklyn Art Association",
+          "Brooklyn Art Association"],
         "unitdate_normal_ssm":["1861/1970"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Art Association",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, 1861-1970"],
         "language_ssm":["English"],
-        "_version_":1799256164672733184,
-        "timestamp":"2024-05-17T00:06:32.884Z"}]
+        "_version_":1801958651736358912,
+        "timestamp":"2024-06-15T20:01:25.387Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Art Association",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

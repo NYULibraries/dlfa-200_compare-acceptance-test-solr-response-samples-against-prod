@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Margaret Wright Eadie papers"],
         "unitid_ssm":["MS 1271"],
         "abstract_ssm":["This collection contains six manuscript diaries kept by Maggie Wright during her fourteenth through nineteenth and twenty-second through twenty-sixth years, 1872-1877 and 1880-1884, as well as several school compositions and a hand-made \"Herbarium of Flowers.\""],
+        "creator_ssm":["Eadie, Margaret A. Wright, 1858-",
+          "Eadie, Margaret A. Wright, 1858-"],
         "corpname_ssm":["New-York Historical Society"],
         "famname_ssm":["Bell family",
           "Cox family",
@@ -77,8 +79,8 @@
         "material_type_ssm":["Diaries."],
         "heading_ssm":["Margaret Wright Eadie papers"],
         "unitdate_ssm":["Inclusive, 1872-1877, 1880-1884"],
-        "_version_":1775220880038690816,
-        "timestamp":"2023-08-25T16:55:59.241Z"},
+        "_version_":1800974843750907904,
+        "timestamp":"2024-06-04T23:24:12.979Z"},
       {
         "id":"ms1271_margaret_wright_eadieaspace_ref12_ct3",
         "ead_ssi":"ms1271_margaret_wright_eadie",
@@ -94,8 +96,8 @@
         "location_ssm":["Volume: 1"],
         "heading_ssm":["Diary"],
         "unitdate_ssm":["Inclusive, 1872 Apr.- Dec."],
-        "_version_":1775220880081682432,
-        "timestamp":"2023-08-25T16:55:59.282Z"},
+        "_version_":1800974843769782272,
+        "timestamp":"2024-06-04T23:24:12.997Z"},
       {
         "id":"ms1271_margaret_wright_eadieaspace_ref13_0fv",
         "ead_ssi":"ms1271_margaret_wright_eadie",
@@ -111,8 +113,8 @@
         "location_ssm":["Volume: 2"],
         "heading_ssm":["Diary"],
         "unitdate_ssm":["Inclusive, 1872 Dec.- 1873 May"],
-        "_version_":1775220880115236864,
-        "timestamp":"2023-08-25T16:55:59.314Z"},
+        "_version_":1800974843785510912,
+        "timestamp":"2024-06-04T23:24:13.011Z"},
       {
         "id":"ms1271_margaret_wright_eadieaspace_ref14_31m",
         "ead_ssi":"ms1271_margaret_wright_eadie",
@@ -128,8 +130,8 @@
         "location_ssm":["Volume: 3"],
         "heading_ssm":["Diary"],
         "unitdate_ssm":["Inclusive, 1874 Nov.- 1875 July"],
-        "_version_":1775220880160325632,
-        "timestamp":"2023-08-25T16:55:59.357Z"},
+        "_version_":1800974843799142400,
+        "timestamp":"2024-06-04T23:24:13.025Z"},
       {
         "id":"ms1271_margaret_wright_eadieaspace_ref15_m42",
         "ead_ssi":"ms1271_margaret_wright_eadie",
@@ -145,8 +147,8 @@
         "location_ssm":["Volume: 4"],
         "heading_ssm":["Diary"],
         "unitdate_ssm":["Inclusive, 1876 May - 1877 July"],
-        "_version_":1775220880200171521,
-        "timestamp":"2023-08-25T16:55:59.395Z"},
+        "_version_":1800974843811725312,
+        "timestamp":"2024-06-04T23:24:13.037Z"},
       {
         "id":"ms1271_margaret_wright_eadieaspace_ref16_4u6",
         "ead_ssi":"ms1271_margaret_wright_eadie",
@@ -162,8 +164,8 @@
         "location_ssm":["Volume: 5"],
         "heading_ssm":["Diary"],
         "unitdate_ssm":["Inclusive, 1880 Jan.- 1882 Sept."],
-        "_version_":1775220880236871680,
-        "timestamp":"2023-08-25T16:55:59.43Z"},
+        "_version_":1800974843825356800,
+        "timestamp":"2024-06-04T23:24:13.05Z"},
       {
         "id":"ms1271_margaret_wright_eadieaspace_ref17_4bf",
         "ead_ssi":"ms1271_margaret_wright_eadie",
@@ -179,8 +181,8 @@
         "location_ssm":["Volume: 6"],
         "heading_ssm":["Diary"],
         "unitdate_ssm":["Inclusive, 1882 Sept.- 1884 Dec."],
-        "_version_":1775220880274620416,
-        "timestamp":"2023-08-25T16:55:59.465Z"},
+        "_version_":1800974843842134016,
+        "timestamp":"2024-06-04T23:24:13.066Z"},
       {
         "id":"ms1271_margaret_wright_eadieaspace_ref18_9eh",
         "ead_ssi":"ms1271_margaret_wright_eadie",
@@ -196,8 +198,8 @@
         "location_ssm":["Volume: 7"],
         "heading_ssm":["School compositions, handmade \"Herbarium of Flowers\""],
         "unitdate_ssm":["Inclusive, 1871-1873"],
-        "_version_":1775220880309223425,
-        "timestamp":"2023-08-25T16:55:59.499Z"}]
+        "_version_":1800974843857862656,
+        "timestamp":"2024-06-04T23:24:13.081Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -205,7 +207,8 @@
       "repository_sim":[
         "nyhs",8],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Eadie, Margaret A. Wright, 1858-",1],
       "date_range_sim":[
         "undated & other",8],
       "subject_sim":[

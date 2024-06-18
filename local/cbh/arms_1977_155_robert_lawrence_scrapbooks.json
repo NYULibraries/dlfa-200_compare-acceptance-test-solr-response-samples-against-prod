@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Robert B. Lawrence scrapbooks"],
         "unitid_ssm":["1977.155"],
         "abstract_ssm":["The collection consists of three scrapbooks compiled by Robert B. Lawrence. They contain newspaper and magazine articles on birding, fishing, and hunting, dating from 1870 to 1933. All of the scrapbooks contain indexes. One of the scrapbooks specifically documents Lawrence's fowling (bird hunting) and egg collecting activities in Flushing (today part of Queens, NY), Long Island, and other areas of the United States. That scrapbook contains detailed information on bird sightings, and includes correspondence and two photographs of a Louisiana heron and a Great-tailed grackle on Green Island, Long Island, NY, dated 1927."],
+        "creator_ssm":["Lawrence, Robert B.",
+          "Lawrence, Robert B."],
         "unitdate_normal_ssm":["1870/1933"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Houston Public Library",
@@ -79,8 +81,8 @@
         "unitdate_end_ssm":["1933"],
         "unitdate_ssm":["Inclusive, 1870-1933"],
         "language_ssm":["English"],
-        "_version_":1799311719904837632,
-        "timestamp":"2024-05-17T14:49:34.482Z"}]
+        "_version_":1801960817031118848,
+        "timestamp":"2024-06-15T20:35:50.373Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lawrence, Robert B.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Stevanus Van Cortlandt Red Hook land deeds"],
         "unitid_ssm":["1974.007"],
         "abstract_ssm":["Deed issued to Stephanus (spelled Stevanus) Van Cortlandt by William III, King of England, Scotland, and Ireland, granting Van Cortlandt a mill house, mill dam, waterways, and land tracts in an area of the Island of Nassau known as Red Hook (the present-day Brooklyn neighborhood of Red Hook), dated 1697."],
+        "creator_ssm":["Van Dyk, Matthias",
+          "Van Cortlandt, Stephanus",
+          "William, King of England, III",
+          "Van Dyk, Matthias",
+          "Van Cortlandt, Stephanus",
+          "William, King of England, III"],
         "unitdate_normal_ssm":["1697/1712"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Red Hook (New York, N.Y.)",
@@ -71,8 +77,8 @@
         "unitdate_end_ssm":["1712"],
         "unitdate_ssm":["Inclusive, 1697, 1712"],
         "language_ssm":["English"],
-        "_version_":1799256289944010752,
-        "timestamp":"2024-05-17T00:08:32.352Z"}]
+        "_version_":1801960244190904320,
+        "timestamp":"2024-06-15T20:26:44.07Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +86,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Van Cortlandt, Stephanus",1,
+        "Van Dyk, Matthias",1,
+        "William, King of England, III",1],
       "date_range_sim":[
         "1601-1700",1,
         "1701-1800",1],

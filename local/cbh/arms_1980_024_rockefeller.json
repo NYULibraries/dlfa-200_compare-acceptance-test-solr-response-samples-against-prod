@@ -47,6 +47,10 @@
         "unittitle_ssm":["Nelson Rockefeller Citizenship Day proclamation"],
         "unitid_ssm":["1980.024"],
         "abstract_ssm":["Proclamation issued by New York Governor Nelson Rockefeller in regards to establishing September 17 as Citizenship Day in New York State.  The proclamation dates from 1962."],
+        "creator_ssm":["Rockefeller, Nelson A. (Nelson Aldrich)",
+          "New York (State). Governor (1959-1973 : Rockefeller)",
+          "New York (State). Governor (1959-1973 : Rockefeller)",
+          "Rockefeller, Nelson A. (Nelson Aldrich)"],
         "unitdate_normal_ssm":["1962/1962"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Governor (1959-1973 : Rockefeller)"],
@@ -67,8 +71,8 @@
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1962"],
         "language_ssm":["English"],
-        "_version_":1799312381771251712,
-        "timestamp":"2024-05-17T15:00:05.686Z"}]
+        "_version_":1801962829631193088,
+        "timestamp":"2024-06-15T21:07:49.738Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +80,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (State). Governor (1959-1973 : Rockefeller)",1,
+        "Rockefeller, Nelson A. (Nelson Aldrich)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Winston Churchill letter to Jesse Merritt"],
         "unitid_ssm":["1977.411"],
         "abstract_ssm":["One 1943 typewritten letter from Winston Churchill to Jesse Merritt concerning a previous letter Merritt had sent about Sir George Downing's connection to 10 Downing Street and an unnamed university."],
+        "creator_ssm":["Churchill, Winston",
+          "Churchill, Winston"],
         "unitdate_normal_ssm":["1943/1943"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["1943"],
         "language_ssm":["English"],
-        "_version_":1799256328700428288,
-        "timestamp":"2024-05-17T00:09:09.313Z"}]
+        "_version_":1801961592387010560,
+        "timestamp":"2024-06-15T20:48:09.81Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Churchill, Winston",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

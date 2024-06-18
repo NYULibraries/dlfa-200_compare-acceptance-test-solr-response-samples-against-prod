@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":16,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Hemispheric Institute Collection on Diana Raznovich"],
         "unitid_ssm":["TAM.350"],
+        "creator_ssm":["Raznovich, Diana",
+          "Raznovich, Diana"],
         "unitdate_normal_ssm":["1987/2005"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Hemispheric Institute of Performance and Politics"],
@@ -73,8 +75,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1987-2005"],
-        "_version_":1799782760072609792,
-        "timestamp":"2024-05-22T19:36:33.392Z"},
+        "_version_":1802176861154836480,
+        "timestamp":"2024-06-18T05:49:46.105Z"},
       {
         "id":"tam_350aspace_f4e24ba95241812b9140676d8e09a931",
         "ead_ssi":"tam_350",
@@ -89,8 +91,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799782760089387008,
-        "timestamp":"2024-05-22T19:36:33.408Z"}]
+        "_version_":1802176861165322240,
+        "timestamp":"2024-06-18T05:49:46.115Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -98,7 +100,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Raznovich, Diana",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

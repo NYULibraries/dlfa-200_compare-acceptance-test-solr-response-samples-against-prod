@@ -47,6 +47,8 @@
         "unittitle_ssm":["Richard Beverly and Louis Wimpelberg power of attorney document"],
         "unitid_ssm":["1977.508"],
         "abstract_ssm":["One 1866 power of attorney document appointing Louis Wimpelberg the attorney of Richard Beverly, and granting Wimpelberg the power in Beverly's stead to collect from Reuben Case of Brooklyn, N.Y. all money that may be due Beverly."],
+        "creator_ssm":["Beverly, Richard",
+          "Beverly, Richard"],
         "unitdate_normal_ssm":["1866/1866"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Navy",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1866"],
         "unitdate_ssm":["1866"],
         "language_ssm":["English"],
-        "_version_":1799311647377981440,
-        "timestamp":"2024-05-17T14:48:25.315Z"}]
+        "_version_":1801961831939440640,
+        "timestamp":"2024-06-15T20:51:58.265Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Beverly, Richard",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["Rubin Ehrlich Papers"],
         "unitid_ssm":["ALBA.035"],
         "abstract_ssm":["The Rubin Ehrlich Papers mostly contain military materials and documents belonging to Rubin Ehrlich (1913-2001) , who served in the Lincoln Battalion during the Spanish Civil War."],
+        "creator_ssm":["Ehrlich, Rubin",
+          "Ehrlich, Rubin"],
         "unitdate_normal_ssm":["1913/2001"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Ehrlich, Rubin"],
@@ -59,8 +61,8 @@
         "unitdate_start_ssm":["1913"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, circa 1913-2001"],
-        "_version_":1775223215227928576,
-        "timestamp":"2023-08-25T17:33:06.251Z"}]
+        "_version_":1801123910869057536,
+        "timestamp":"2024-06-06T14:53:34.461Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ehrlich, Rubin",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

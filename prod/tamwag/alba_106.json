@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Leland Stowe Papers"],
         "unitid_ssm":["ALBA.106"],
+        "creator_ssm":["Stowe, Leland, 1899-1994",
+          "Stowe, Leland, 1899-1994"],
         "unitdate_normal_ssm":["1920/1994"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Stowe, Leland, 1899-1994"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, circa 1920s-1990s"],
         "language_ssm":["English"],
-        "_version_":1775226046632689664,
-        "timestamp":"2023-08-25T18:18:06.489Z"}]
+        "_version_":1801131457376157696,
+        "timestamp":"2024-06-06T16:53:31.371Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stowe, Leland, 1899-1994",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Fales Library Collection of Artwork and Memorabilia"],
         "unitid_ssm":["MSS.509"],
         "abstract_ssm":["The Fales Library Collection of Artwork and Memorabilia was created in 2017 to track artworks that had been found in the collection and artworks donated to the Fales Library & Special Collections.  The collection consists of artworks found in the collection and artworks donated to the Fales Library & Special Collections.  The artworks consist of paintings, drawings, photographs, religious objects, realia, and sculptures.  The artworks date from 1851 to 2016."],
+        "creator_ssm":["Fales Library",
+          "Fales Library"],
         "unitdate_normal_ssm":["1851/2016"],
         "corpname_ssm":["Fales Library and Special Collections",
           "Fales Library"],
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1851"],
         "unitdate_end_ssm":["2016"],
         "unitdate_ssm":["Inclusive, 1851-2016, undated"],
-        "_version_":1799741647082225664,
-        "timestamp":"2024-05-22T08:43:04.988Z"},
+        "_version_":1802074137700597760,
+        "timestamp":"2024-06-17T02:37:01.384Z"},
       {
         "id":"mss_509aspace_12037a5861e6d992195210600fd2e5fd",
         "ead_ssi":"mss_509",
@@ -89,8 +91,8 @@
         "unitdate_start_ssm":["1988"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["1988"],
-        "_version_":1799741647488024576,
-        "timestamp":"2024-05-22T08:43:05.376Z"},
+        "_version_":1802074138295140352,
+        "timestamp":"2024-06-17T02:37:01.952Z"},
       {
         "id":"mss_509aspace_4c4f9cd3dd43e3600866d0e1080eb86f",
         "ead_ssi":"mss_509",
@@ -107,8 +109,8 @@
         "location_ssm":["Item: MSS.509.cuid21312"],
         "heading_ssm":["Judaica, velvet bag"],
         "unitdate_ssm":["undated"],
-        "_version_":1799741647339126784,
-        "timestamp":"2024-05-22T08:43:05.234Z"},
+        "_version_":1802074138002587648,
+        "timestamp":"2024-06-17T02:37:01.672Z"},
       {
         "id":"mss_509aspace_51e7e96610281fc911011fca0d610fd5",
         "ead_ssi":"mss_509",
@@ -125,8 +127,8 @@
         "location_ssm":["Item: MSS.509.cuid21373"],
         "heading_ssm":["James Joyce"],
         "unitdate_ssm":["1966"],
-        "_version_":1799741647447130112,
-        "timestamp":"2024-05-22T08:43:05.337Z"},
+        "_version_":1802074138217545728,
+        "timestamp":"2024-06-17T02:37:01.878Z"},
       {
         "id":"mss_509aspace_5b4cf6de91766d3f5f655a79c0e358e5",
         "ead_ssi":"mss_509",
@@ -143,8 +145,8 @@
         "location_ssm":["Item: MSS.509.cuid21374"],
         "heading_ssm":["Satyr awakening a nymph"],
         "unitdate_ssm":["unknown"],
-        "_version_":1799741647460761600,
-        "timestamp":"2024-05-22T08:43:05.35Z"},
+        "_version_":1802074138244808704,
+        "timestamp":"2024-06-17T02:37:01.904Z"},
       {
         "id":"mss_509aspace_6255b3bde980c700aa5a41d78ad988f4",
         "ead_ssi":"mss_509",
@@ -164,8 +166,8 @@
         "unitdate_start_ssm":["1935"],
         "unitdate_end_ssm":["1935"],
         "unitdate_ssm":["1935"],
-        "_version_":1799741647474393088,
-        "timestamp":"2024-05-22T08:43:05.363Z"},
+        "_version_":1802074138272071680,
+        "timestamp":"2024-06-17T02:37:01.93Z"},
       {
         "id":"mss_509aspace_800f32f890348b1aeaf03c8f6ad50c6c",
         "ead_ssi":"mss_509",
@@ -182,8 +184,8 @@
         "location_ssm":["Item: MSS.509.cuid21316"],
         "heading_ssm":["photograph of monkey (Amber Creeger, photographer)"],
         "unitdate_ssm":["undated"],
-        "_version_":1799741647419867136,
-        "timestamp":"2024-05-22T08:43:05.31Z"},
+        "_version_":1802074138120028160,
+        "timestamp":"2024-06-17T02:37:01.785Z"},
       {
         "id":"mss_509aspace_8410b454ebd1e69d2a20de0884d75d17",
         "ead_ssi":"mss_509",
@@ -200,8 +202,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Portrait of Henry P. Barry "],
         "unitdate_ssm":["undated"],
-        "_version_":1799741647500607488,
-        "timestamp":"2024-05-22T08:43:05.388Z"},
+        "_version_":1802074138322403328,
+        "timestamp":"2024-06-17T02:37:01.978Z"},
       {
         "id":"mss_509aspace_8fddba9120c2a774cd9ba2d29b036035",
         "ead_ssi":"mss_509",
@@ -223,8 +225,8 @@
         "unitdate_start_ssm":["1962"],
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["1962"],
-        "_version_":1799741647159820288,
-        "timestamp":"2024-05-22T08:43:05.063Z"},
+        "_version_":1802074137865224192,
+        "timestamp":"2024-06-17T02:37:01.542Z"},
       {
         "id":"mss_509aspace_90bf54d19461763fcbd758877a508c79",
         "ead_ssi":"mss_509",
@@ -246,8 +248,8 @@
         "unitdate_start_ssm":["1850"],
         "unitdate_end_ssm":["1950"],
         "unitdate_ssm":["Inclusive, Undated"],
-        "_version_":1799741647111585792,
-        "timestamp":"2024-05-22T08:43:05.017Z"},
+        "_version_":1802074137762463744,
+        "timestamp":"2024-06-17T02:37:01.444Z"},
       {
         "id":"mss_509aspace_93c40265d068f036e02f4331a0f3c70d",
         "ead_ssi":"mss_509",
@@ -269,8 +271,8 @@
         "unitdate_start_ssm":["1978"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1978-1987"],
-        "_version_":1799741647146188800,
-        "timestamp":"2024-05-22T08:43:05.05Z"},
+        "_version_":1802074137834815488,
+        "timestamp":"2024-06-17T02:37:01.513Z"},
       {
         "id":"mss_509aspace_ac3887d2cd8eb1865f2267c6eb8b8a50",
         "ead_ssi":"mss_509",
@@ -292,8 +294,8 @@
         "unitdate_start_ssm":["1958"],
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["1958"],
-        "_version_":1799741647202811904,
-        "timestamp":"2024-05-22T08:43:05.104Z"},
+        "_version_":1802074137952256000,
+        "timestamp":"2024-06-17T02:37:01.625Z"},
       {
         "id":"mss_509aspace_b5438ffbfe52e7aa9dfc2ee30185c6e8",
         "ead_ssi":"mss_509",
@@ -315,8 +317,8 @@
         "unitdate_start_ssm":["1941"],
         "unitdate_end_ssm":["1941"],
         "unitdate_ssm":["1941"],
-        "_version_":1799741647096905728,
-        "timestamp":"2024-05-22T08:43:05.003Z"},
+        "_version_":1802074137733103616,
+        "timestamp":"2024-06-17T02:37:01.415Z"},
       {
         "id":"mss_509aspace_b839b67a4385a6f9f6728ed49216dc20",
         "ead_ssi":"mss_509",
@@ -338,8 +340,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, Undated"],
-        "_version_":1799741647131508736,
-        "timestamp":"2024-05-22T08:43:05.036Z"},
+        "_version_":1802074137802309632,
+        "timestamp":"2024-06-17T02:37:01.482Z"},
       {
         "id":"mss_509aspace_bd6676c6c2315134a5dad8ad16881c75",
         "ead_ssi":"mss_509",
@@ -359,8 +361,8 @@
         "unitdate_start_ssm":["1996"],
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["1996"],
-        "_version_":1799741647529967616,
-        "timestamp":"2024-05-22T08:43:05.416Z"},
+        "_version_":1802074138376929280,
+        "timestamp":"2024-06-17T02:37:02.03Z"},
       {
         "id":"mss_509aspace_c7b53db1e5ce90c77364ba4e7fa6acc7",
         "ead_ssi":"mss_509",
@@ -377,8 +379,8 @@
         "location_ssm":["Item: MSS.509.cuid21314"],
         "heading_ssm":["Judaica, candlestick"],
         "unitdate_ssm":["undated"],
-        "_version_":1799741647391555584,
-        "timestamp":"2024-05-22T08:43:05.284Z"},
+        "_version_":1802074138059210752,
+        "timestamp":"2024-06-17T02:37:01.727Z"},
       {
         "id":"mss_509aspace_cba22fe9b620257eaab65b7058ae128f",
         "ead_ssi":"mss_509",
@@ -395,8 +397,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Portrait of Anna Tracey "],
         "unitdate_ssm":["undated"],
-        "_version_":1799741647512141824,
-        "timestamp":"2024-05-22T08:43:05.399Z"},
+        "_version_":1802074138347569152,
+        "timestamp":"2024-06-17T02:37:02.002Z"},
       {
         "id":"mss_509aspace_d00c9113ffd882e35bd70a24fa2bcd62",
         "ead_ssi":"mss_509",
@@ -418,8 +420,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, Undated"],
-        "_version_":1799741647189180416,
-        "timestamp":"2024-05-22T08:43:05.091Z"},
+        "_version_":1802074137920798720,
+        "timestamp":"2024-06-17T02:37:01.595Z"},
       {
         "id":"mss_509aspace_d67548391840eeb6c089b2fb8f4dce24",
         "ead_ssi":"mss_509",
@@ -436,8 +438,8 @@
         "location_ssm":["Item: MSS.509.cuid21315"],
         "heading_ssm":["Judaica, hanukkiah"],
         "unitdate_ssm":["undated"],
-        "_version_":1799741647404138496,
-        "timestamp":"2024-05-22T08:43:05.296Z"},
+        "_version_":1802074138090668032,
+        "timestamp":"2024-06-17T02:37:01.757Z"},
       {
         "id":"mss_509aspace_dbcdce62a32b53b18bf1778bd1200f87",
         "ead_ssi":"mss_509",
@@ -459,8 +461,8 @@
         "unitdate_start_ssm":["2016"],
         "unitdate_end_ssm":["2016"],
         "unitdate_ssm":["2016"],
-        "_version_":1799741647216443392,
-        "timestamp":"2024-05-22T08:43:05.117Z"},
+        "_version_":1802074137978470400,
+        "timestamp":"2024-06-17T02:37:01.65Z"},
       {
         "id":"mss_509aspace_e24955a8642348176109ba82695d8665",
         "ead_ssi":"mss_509",
@@ -477,8 +479,8 @@
         "location_ssm":["Item: MSS.509.cuid21313"],
         "heading_ssm":["Judaica, candlestick"],
         "unitdate_ssm":["undated"],
-        "_version_":1799741647368486912,
-        "timestamp":"2024-05-22T08:43:05.262Z"},
+        "_version_":1802074138027753472,
+        "timestamp":"2024-06-17T02:37:01.697Z"},
       {
         "id":"mss_509aspace_e4cb6c74b9cc426be8753d89c5681a96",
         "ead_ssi":"mss_509",
@@ -495,8 +497,8 @@
         "location_ssm":["Item: MSS.509.cuid21317"],
         "heading_ssm":["Henry Fernald (Kaiden-Keystone Photos)"],
         "unitdate_ssm":["undated"],
-        "_version_":1799741647433498624,
-        "timestamp":"2024-05-22T08:43:05.324Z"},
+        "_version_":1802074138179796992,
+        "timestamp":"2024-06-17T02:37:01.841Z"},
       {
         "id":"mss_509aspace_ef5391354714917bbe915a4ac7103e0a",
         "ead_ssi":"mss_509",
@@ -516,8 +518,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, Undated"],
-        "_version_":1799741647173451776,
-        "timestamp":"2024-05-22T08:43:05.076Z"}]
+        "_version_":1802074137893535744,
+        "timestamp":"2024-06-17T02:37:01.569Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -525,7 +527,8 @@
       "repository_sim":[
         "fales",23],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fales Library",1],
       "date_range_sim":[
         "1801-1900",2,
         "1901-2000",11,

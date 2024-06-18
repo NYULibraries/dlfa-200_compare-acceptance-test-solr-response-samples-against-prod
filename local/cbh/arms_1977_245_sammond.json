@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Herbert Stavely Sammond papers"],
         "unitid_ssm":["1977.245"],
         "abstract_ssm":["Herbert Stavely Sammond (1871-1964) was a Brooklyn-based organist, choral leader, and music teacher whose career spanned over 70 years. The Hebert Stavely Sammond papers, dating from 1885 to 1964 (bulk dates 1891 to 1958) and measuring 1.67 linear feet, constitute a personal record of Sammond's musical activity. Materials represented in the collection include correspondence, scrapbooks, clippings, writings, scores, sheet music, concert programs, and one black and white photograph of Sammond. Materials relating to the Morning Choral Society, Clinton Avenue Congregational Church, and the Middle Collegiate Church are included in the collection. Further, Sammond's own musical compositions and arrangements can also be found in the collection."],
+        "creator_ssm":["Sammond, Herbert Stavely",
+          "Clinton Avenue Congregational Church (Brooklyn, New York, N.Y.)",
+          "Morning Choral Society (Brooklyn, New York, N.Y.)",
+          "Middle Collegiate Church (New York, N.Y.)",
+          "Clinton Avenue Congregational Church (Brooklyn, New York, N.Y.)",
+          "Morning Choral Society (Brooklyn, New York, N.Y.)",
+          "Middle Collegiate Church (New York, N.Y.)",
+          "Sammond, Herbert Stavely"],
         "unitdate_normal_ssm":["1885/1964",
           "1891/1958"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -105,8 +113,8 @@
           "1958"],
         "unitdate_ssm":["Inclusive, 1885-1964 ; 1891-1958"],
         "language_ssm":["English"],
-        "_version_":1799256468544815104,
-        "timestamp":"2024-05-17T00:11:22.679Z"},
+        "_version_":1801961008335421440,
+        "timestamp":"2024-06-15T20:38:52.815Z"},
       {
         "id":"arms_1977_245_sammondaspace_ref10_fmt",
         "ead_ssi":"arms_1977_245_sammond",
@@ -125,8 +133,8 @@
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1895-1962"],
         "language_ssm":["English"],
-        "_version_":1799256468561592320,
-        "timestamp":"2024-05-17T00:11:22.695Z"},
+        "_version_":1801961008368975872,
+        "timestamp":"2024-06-15T20:38:52.846Z"},
       {
         "id":"arms_1977_245_sammondaspace_ref12_jil",
         "ead_ssi":"arms_1977_245_sammond",
@@ -145,8 +153,8 @@
         "unitdate_end_ssm":["1964"],
         "unitdate_ssm":["Inclusive, 1891-1964"],
         "language_ssm":["English"],
-        "_version_":1799256468574175232,
-        "timestamp":"2024-05-17T00:11:22.707Z"},
+        "_version_":1801961008405676032,
+        "timestamp":"2024-06-15T20:38:52.882Z"},
       {
         "id":"arms_1977_245_sammondaspace_ref14_0yq",
         "ead_ssi":"arms_1977_245_sammond",
@@ -165,8 +173,8 @@
         "unitdate_end_ssm":["1953"],
         "unitdate_ssm":["Inclusive, 1889-1953"],
         "language_ssm":["English"],
-        "_version_":1799256468587806720,
-        "timestamp":"2024-05-17T00:11:22.72Z"},
+        "_version_":1801961008429793280,
+        "timestamp":"2024-06-15T20:38:52.905Z"},
       {
         "id":"arms_1977_245_sammondaspace_ref17_q7t",
         "ead_ssi":"arms_1977_245_sammond",
@@ -185,8 +193,8 @@
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["Inclusive, 1915-1958"],
         "language_ssm":["English"],
-        "_version_":1799256468600389632,
-        "timestamp":"2024-05-17T00:11:22.732Z"}]
+        "_version_":1801961008458104832,
+        "timestamp":"2024-06-15T20:38:52.932Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -194,7 +202,11 @@
       "repository_sim":[
         "cbh",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Clinton Avenue Congregational Church (Brooklyn, New York, N.Y.)",1,
+        "Middle Collegiate Church (New York, N.Y.)",1,
+        "Morning Choral Society (Brooklyn, New York, N.Y.)",1,
+        "Sammond, Herbert Stavely",1],
       "date_range_sim":[
         "1801-1900",4,
         "1901-2000",5],

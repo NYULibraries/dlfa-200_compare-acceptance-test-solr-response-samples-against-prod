@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Granbery and Barr home movies"],
         "unitid_ssm":["2008.039"],
         "abstract_ssm":["The Granbery and Barr home movies consist of 16mm film originals in black and white and color from 1920-1943.  The films, shot by E.C. Granbery, Jr., E.C. Granbery, Sr., and John Granbery, reflect family life during vacations in the 1920s such as weddings, Yale class reunions, cross-Atlantic steamship voyages, dude ranch visits, and Manhattan and Brooklyn scenes.  The collection also includes footage from the Asian arena of World War II.  There are four narrative films that the family created including, \"On Holiday\", \"Race for Love\", a newsreel film on Charles Lindbergh crossing the Atlantic, an untitled film, and \"War on the Roof\".  \"On Holiday\" was edited by the donor and descendent, Joya Hoyt, with a soundtrack by one of the original creators E.C. Granbery Jr.  \"War on the Roof\" shows children playing in the Brooklyn Heights neighborhood of Brooklyn during the 1920s.  \n\nThe Granbery and Barr families lived in Brooklyn Heights from 1841 to 1936. They moved there in 1841 from Norfolk, Virginia and lived in several locations in the neighborhood before leaving in 1936."],
+        "creator_ssm":["Granbery Family",
+          "Barr family",
+          "Granbery, E.C., Junior",
+          "Granbery, E.C., Senior",
+          "Granbery, John",
+          "Granbery Family",
+          "Barr family",
+          "Granbery, E.C., Junior",
+          "Granbery, E.C., Senior",
+          "Granbery, John"],
         "unitdate_normal_ssm":["1920/1943"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Granbery Family",
@@ -118,8 +128,8 @@
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["Inclusive, 1920-1943"],
         "language_ssm":["English"],
-        "_version_":1799311564436668416,
-        "timestamp":"2024-05-17T14:47:06.215Z"},
+        "_version_":1801964066519908352,
+        "timestamp":"2024-06-15T21:27:29.327Z"},
       {
         "id":"arms_2008_039_granbery_barraspace_17a7c499c34b80b174cb720a47443c70",
         "ead_ssi":"arms_2008_039_granbery_barr",
@@ -142,8 +152,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["1930"],
-        "_version_":1799311564774309888,
-        "timestamp":"2024-05-17T14:47:06.538Z"},
+        "_version_":1801964066790440960,
+        "timestamp":"2024-06-15T21:27:29.585Z"},
       {
         "id":"arms_2008_039_granbery_barraspace_29cb2f32b97f5278f6d567b0f3e5084a",
         "ead_ssi":"arms_2008_039_granbery_barr",
@@ -166,8 +176,8 @@
         "unitdate_start_ssm":["1926"],
         "unitdate_end_ssm":["1926"],
         "unitdate_ssm":["1926"],
-        "_version_":1799311564596051968,
-        "timestamp":"2024-05-17T14:47:06.368Z"},
+        "_version_":1801964066675097600,
+        "timestamp":"2024-06-15T21:27:29.475Z"},
       {
         "id":"arms_2008_039_granbery_barraspace_2d25e06bf987d6b39ebdbf084a32ab58",
         "ead_ssi":"arms_2008_039_granbery_barr",
@@ -190,8 +200,8 @@
         "unitdate_start_ssm":["1925"],
         "unitdate_end_ssm":["1925"],
         "unitdate_ssm":["1925"],
-        "_version_":1799311564569837568,
-        "timestamp":"2024-05-17T14:47:06.342Z"},
+        "_version_":1801964066649931776,
+        "timestamp":"2024-06-15T21:27:29.451Z"},
       {
         "id":"arms_2008_039_granbery_barraspace_3dde21a8dea51190afd1d3fe41048bf8",
         "ead_ssi":"arms_2008_039_granbery_barr",
@@ -214,8 +224,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["1930"],
-        "_version_":1799311564745998336,
-        "timestamp":"2024-05-17T14:47:06.511Z"},
+        "_version_":1801964066774712320,
+        "timestamp":"2024-06-15T21:27:29.57Z"},
       {
         "id":"arms_2008_039_granbery_barraspace_3ed5dc1abf052456457e295b224a4f0e",
         "ead_ssi":"arms_2008_039_granbery_barr",
@@ -238,8 +248,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["1930"],
-        "_version_":1799311564684132352,
-        "timestamp":"2024-05-17T14:47:06.452Z"},
+        "_version_":1801964066735915008,
+        "timestamp":"2024-06-15T21:27:29.533Z"},
       {
         "id":"arms_2008_039_granbery_barraspace_5760452ba1a87805bbcbaea1fd53b969",
         "ead_ssi":"arms_2008_039_granbery_barr",
@@ -262,8 +272,8 @@
         "unitdate_start_ssm":["1927"],
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["Inclusive, 1927-1947"],
-        "_version_":1799311564625412096,
-        "timestamp":"2024-05-17T14:47:06.396Z"},
+        "_version_":1801964066698166272,
+        "timestamp":"2024-06-15T21:27:29.497Z"},
       {
         "id":"arms_2008_039_granbery_barraspace_5e4ade0a54c24701ba45e7832c5b033e",
         "ead_ssi":"arms_2008_039_granbery_barr",
@@ -286,8 +296,8 @@
         "unitdate_start_ssm":["1924"],
         "unitdate_end_ssm":["1924"],
         "unitdate_ssm":["1924"],
-        "_version_":1799311564549914624,
-        "timestamp":"2024-05-17T14:47:06.324Z"},
+        "_version_":1801964066633154560,
+        "timestamp":"2024-06-15T21:27:29.435Z"},
       {
         "id":"arms_2008_039_granbery_barraspace_77f93e74c30c2f7185a03adec8811161",
         "ead_ssi":"arms_2008_039_granbery_barr",
@@ -310,8 +320,8 @@
         "unitdate_start_ssm":["1938"],
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["1938"],
-        "_version_":1799311564655820800,
-        "timestamp":"2024-05-17T14:47:06.425Z"},
+        "_version_":1801964066717040640,
+        "timestamp":"2024-06-15T21:27:29.515Z"},
       {
         "id":"arms_2008_039_granbery_barraspace_fc984710faa1d75ec42debc151f990fb",
         "ead_ssi":"arms_2008_039_granbery_barr",
@@ -334,8 +344,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["1930"],
-        "_version_":1799311564711395328,
-        "timestamp":"2024-05-17T14:47:06.478Z"},
+        "_version_":1801964066754789376,
+        "timestamp":"2024-06-15T21:27:29.551Z"},
       {
         "id":"arms_2008_039_granbery_barraspace_ref1_kxu",
         "ead_ssi":"arms_2008_039_granbery_barr",
@@ -354,8 +364,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["Inclusive, 1920-1943"],
-        "_version_":1799311564457639936,
-        "timestamp":"2024-05-17T14:47:06.236Z"},
+        "_version_":1801964066546122752,
+        "timestamp":"2024-06-15T21:27:29.352Z"},
       {
         "id":"arms_2008_039_granbery_barraspace_ref2_bdx",
         "ead_ssi":"arms_2008_039_granbery_barr",
@@ -373,8 +383,8 @@
         "unitdate_start_ssm":["1924"],
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["Inclusive, 1924-1943"],
-        "_version_":1799311564531040256,
-        "timestamp":"2024-05-17T14:47:06.306Z"},
+        "_version_":1801964066612183040,
+        "timestamp":"2024-06-15T21:27:29.415Z"},
       {
         "id":"arms_2008_039_granbery_barraspace_ref3_o8u",
         "ead_ssi":"arms_2008_039_granbery_barr",
@@ -395,8 +405,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["Inclusive, 1920-1930"],
-        "_version_":1799311564476514304,
-        "timestamp":"2024-05-17T14:47:06.254Z"},
+        "_version_":1801964066562899968,
+        "timestamp":"2024-06-15T21:27:29.368Z"},
       {
         "id":"arms_2008_039_granbery_barraspace_ref4_1m0",
         "ead_ssi":"arms_2008_039_granbery_barr",
@@ -417,8 +427,8 @@
         "unitdate_start_ssm":["1931"],
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, 1931 - 1940"],
-        "_version_":1799311564494340096,
-        "timestamp":"2024-05-17T14:47:06.271Z"},
+        "_version_":1801964066578628608,
+        "timestamp":"2024-06-15T21:27:29.383Z"},
       {
         "id":"arms_2008_039_granbery_barraspace_ref5_afg",
         "ead_ssi":"arms_2008_039_granbery_barr",
@@ -439,8 +449,8 @@
         "unitdate_start_ssm":["1943"],
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["Inclusive, 1943"],
-        "_version_":1799311564513214464,
-        "timestamp":"2024-05-17T14:47:06.289Z"}]
+        "_version_":1801964066596454400,
+        "timestamp":"2024-06-15T21:27:29.4Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -448,7 +458,12 @@
       "repository_sim":[
         "cbh",15],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Barr family",1,
+        "Granbery Family",1,
+        "Granbery, E.C., Junior",1,
+        "Granbery, E.C., Senior",1,
+        "Granbery, John",1],
       "date_range_sim":[
         "1901-2000",15],
       "subject_sim":[

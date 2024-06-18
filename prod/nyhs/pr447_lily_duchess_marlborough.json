@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lily Spencer-Churchill, Duchess of Marlborough collection"],
         "unitid_ssm":["PR 447"],
         "abstract_ssm":["A small collection of images, primarily of Lily, Duchess of Marlborough, compiled by Lily's biographer, Sally E. Svenson. Svenson's book is also in the collection."],
+        "creator_ssm":["Svenson, Sally E.",
+          "Svenson, Sally E."],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Books.",
           "Digital images.",
@@ -67,8 +69,8 @@
           "Tear sheets."],
         "heading_ssm":["Lily Spencer-Churchill, Duchess of Marlborough collection"],
         "unitdate_ssm":["Inclusive, circa 1892-2012"],
-        "_version_":1775220596045512704,
-        "timestamp":"2023-08-25T16:51:28.404Z"},
+        "_version_":1801080193101594624,
+        "timestamp":"2024-06-06T03:18:41.949Z"},
       {
         "id":"pr447_lily_duchess_marlboroughaspace_23a6eec7144f43df1c7ecb1876d869e3",
         "ead_ssi":"pr447_lily_duchess_marlborough",
@@ -84,8 +86,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Photographs (4) of Lily"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1775220596227964928,
-        "timestamp":"2023-08-25T16:51:28.578Z"},
+        "_version_":1801080193157169152,
+        "timestamp":"2024-06-06T03:18:42.001Z"},
       {
         "id":"pr447_lily_duchess_marlboroughaspace_6283da27afbdb087eb59861c42abda91",
         "ead_ssi":"pr447_lily_duchess_marlborough",
@@ -101,8 +103,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Book. \"Lily, Duchess of Marlborough (1854-1909): A Portrait with Husbands\" by Sally E. Svenson"],
         "unitdate_ssm":["2012"],
-        "_version_":1775220596461797376,
-        "timestamp":"2023-08-25T16:51:28.801Z"},
+        "_version_":1801080193235812352,
+        "timestamp":"2024-06-06T03:18:42.077Z"},
       {
         "id":"pr447_lily_duchess_marlboroughaspace_83134d527f6c239c15c69c6427833988",
         "ead_ssi":"pr447_lily_duchess_marlborough",
@@ -118,8 +120,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["CDs (RESTRICTED)"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1775220596414611457,
-        "timestamp":"2023-08-25T16:51:28.756Z"},
+        "_version_":1801080193223229440,
+        "timestamp":"2024-06-06T03:18:42.065Z"},
       {
         "id":"pr447_lily_duchess_marlboroughaspace_8e7664100711bf10e845845d769aee61",
         "ead_ssi":"pr447_lily_duchess_marlborough",
@@ -135,8 +137,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\"Country Life Illustrated\""],
         "unitdate_ssm":["1899"],
-        "_version_":1775220596375814144,
-        "timestamp":"2023-08-25T16:51:28.719Z"},
+        "_version_":1801080193201209344,
+        "timestamp":"2024-06-06T03:18:42.044Z"},
       {
         "id":"pr447_lily_duchess_marlboroughaspace_95f7d5ae2030fd843b6c2f804108645e",
         "ead_ssi":"pr447_lily_duchess_marlborough",
@@ -152,8 +154,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Lady William Beresford, after court presentation in three feather headdress. Cabinet card"],
         "unitdate_ssm":["1895?"],
-        "_version_":1775220596124155904,
-        "timestamp":"2023-08-25T16:51:28.479Z"},
+        "_version_":1801080193129906176,
+        "timestamp":"2024-06-06T03:18:41.976Z"},
       {
         "id":"pr447_lily_duchess_marlboroughaspace_9ddfbe691d33e07f6013bf57cd9875a8",
         "ead_ssi":"pr447_lily_duchess_marlborough",
@@ -169,8 +171,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Duke and Duchess of Marlborough at Blenheim house party. Photograph"],
         "unitdate_ssm":["undated"],
-        "_version_":1775220596165050368,
-        "timestamp":"2023-08-25T16:51:28.518Z"},
+        "_version_":1801080193143537664,
+        "timestamp":"2024-06-06T03:18:41.989Z"},
       {
         "id":"pr447_lily_duchess_marlboroughaspace_cdac3301f91cd9fa245f5a5f57579f1e",
         "ead_ssi":"pr447_lily_duchess_marlborough",
@@ -186,8 +188,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Tear sheet"],
         "unitdate_ssm":["1906"],
-        "_version_":1775220596322336768,
-        "timestamp":"2023-08-25T16:51:28.668Z"},
+        "_version_":1801080193187577856,
+        "timestamp":"2024-06-06T03:18:42.03Z"},
       {
         "id":"pr447_lily_duchess_marlboroughaspace_e32bc4871808bda500c1c9d4d7752858",
         "ead_ssi":"pr447_lily_duchess_marlborough",
@@ -203,8 +205,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Tear sheets. Oversize"],
         "unitdate_ssm":["Inclusive, 1892, 1895"],
-        "_version_":1775220596276199424,
-        "timestamp":"2023-08-25T16:51:28.624Z"},
+        "_version_":1801080193172897792,
+        "timestamp":"2024-06-06T03:18:42.017Z"},
       {
         "id":"pr447_lily_duchess_marlboroughaspace_f4b936573027c6245fe54cdfda695146",
         "ead_ssi":"pr447_lily_duchess_marlborough",
@@ -220,8 +222,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Lily, Duchess of Marlborough. Cabinet card"],
         "unitdate_ssm":["circa 1892"],
-        "_version_":1775220596087455744,
-        "timestamp":"2023-08-25T16:51:28.444Z"}]
+        "_version_":1801080193116274688,
+        "timestamp":"2024-06-06T03:18:41.963Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -229,7 +231,8 @@
       "repository_sim":[
         "nyhs",10],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Svenson, Sally E.",1],
       "date_range_sim":[
         "undated & other",10],
       "subject_sim":[

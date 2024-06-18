@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Carl Lichtenstein Papers"],
         "unitid_ssm":["TAM.677"],
         "abstract_ssm":["The Carl Lichtenstein Papers include publications and other material collected by Lichtenstein, a member of the Spartacist League and founder and principal archivist of the League's Promethean Research Library, between the years 1970-1990. The collection is comprised of newspapers, articles, flyers, and leaflets that document and comment on radical activity in relation to the affiliates and opponents of the International Communist League (Fourth Internationalist)."],
+        "creator_ssm":["Lichtenstein, Carl, 1942-2011",
+          "Lichtenstein, Carl, 1942-2011"],
         "unitdate_normal_ssm":["1967/1992"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Spartacist League (Fourth Internationalist)"],
@@ -74,8 +76,8 @@
         "unitdate_start_ssm":["1967"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1967-1992"],
-        "_version_":1799791949626998784,
-        "timestamp":"2024-05-22T22:02:37.234Z"}]
+        "_version_":1802183980710100992,
+        "timestamp":"2024-06-18T07:42:55.842Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lichtenstein, Carl, 1942-2011",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

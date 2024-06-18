@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John F. Saddington property records"],
         "unitid_ssm":["1977.046"],
         "abstract_ssm":["This collection contains legal documents dating from 1886 and pertaining to the property located at 491 Putnam Avenue in Brooklyn, N.Y., conveyed by John F. Saddington to Rhoda Walmsley."],
+        "creator_ssm":["Saddington, John F.",
+          "Saddington, John F."],
         "unitdate_normal_ssm":["1751/1886"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Agreements",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1886"],
         "unitdate_ssm":["Inclusive, 1751-1886"],
         "language_ssm":["English"],
-        "_version_":1777654419882508288,
-        "timestamp":"2023-09-21T13:36:03.688Z"}]
+        "_version_":1800680983813423104,
+        "timestamp":"2024-06-01T17:33:26.303Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Saddington, John F.",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

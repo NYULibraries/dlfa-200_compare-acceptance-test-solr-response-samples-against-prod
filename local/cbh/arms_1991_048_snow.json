@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":10,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Snow family genealogy research notes"],
         "unitid_ssm":["1991.048"],
         "abstract_ssm":["The Snow family genealogy research notes are housed in a single bound volume and span the period 1599 to 1954. The notes trace the genealogy of the Snow family that descended from John Snow, who traveled to North America on the sailing ship, Ann in 1623, and Constance Hopkins, who traveled to North America on the Mayflower in 1620. Some descendents mentioned in the notes resided in Brooklyn. The notes were compiled by William James Snow between 1970 and 1985."],
+        "creator_ssm":["Snow, William James",
+          "Snow, William James"],
         "unitdate_normal_ssm":["1599/1954"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Snow family"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1954"],
         "unitdate_ssm":["Inclusive, 1599-1954"],
         "language_ssm":["English"],
-        "_version_":1799256315703328768,
-        "timestamp":"2024-05-17T00:08:56.918Z"}]
+        "_version_":1801963637647081472,
+        "timestamp":"2024-06-15T21:20:40.322Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Snow, William James",1],
       "date_range_sim":[
         "1501-1600",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Thomas Tredwell office memorandum book"],
         "unitid_ssm":["1973.196"],
         "abstract_ssm":["The Thomas Tredwell office memorandum book consists of a single volume that spans the period 1782 to 1788. The book was created by Tredwell during his tenure as a judge of the probate court and provides a chronology of wills proven during this period, with accompanying notes."],
+        "creator_ssm":["Tredwell, Thomas",
+          "New York (State). Probate Courts",
+          "New York (State). Probate Courts",
+          "Tredwell, Thomas"],
         "unitdate_normal_ssm":["1782/1788"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Probate Courts"],
@@ -65,8 +69,8 @@
         "unitdate_end_ssm":["1788"],
         "unitdate_ssm":["Inclusive, 1782-1788"],
         "language_ssm":["English"],
-        "_version_":1799256499329957888,
-        "timestamp":"2024-05-17T00:11:52.038Z"}]
+        "_version_":1801960062837587968,
+        "timestamp":"2024-06-15T20:23:51.118Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +78,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (State). Probate Courts",1,
+        "Tredwell, Thomas",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

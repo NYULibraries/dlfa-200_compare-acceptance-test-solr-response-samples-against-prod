@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of 2040 Now at NYU"],
         "unitid_ssm":["MC.377"],
         "abstract_ssm":["The collection contains webpages related to the Office of Sustainability's initiative, 2040 Now, highlighting the university's efforts to be climate neutral by 2040."],
+        "creator_ssm":["New York University",
+          "New York University"],
         "unitdate_normal_ssm":["2023-04/2023-04"],
         "corpname_ssm":["New York University Archives",
           "New York University"],
@@ -60,8 +62,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Records of 2040 Now at NYU"],
         "unitdate_ssm":["April 2023"],
-        "_version_":1799253612155633664,
-        "timestamp":"2024-05-16T23:25:58.614Z"},
+        "_version_":1801950255362605056,
+        "timestamp":"2024-06-15T17:47:57.981Z"},
       {
         "id":"mc_377aspace_d49bc412d02222fdfe9735b7eee8b8ae",
         "ead_ssi":"mc_377",
@@ -83,8 +85,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["April 2023"],
-        "_version_":1799253612170313728,
-        "timestamp":"2024-05-16T23:25:58.628Z"}]
+        "_version_":1801950255383576576,
+        "timestamp":"2024-06-15T17:47:58.001Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +95,8 @@
         "archives",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

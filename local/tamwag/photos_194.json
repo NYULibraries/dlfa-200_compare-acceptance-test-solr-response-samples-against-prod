@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Conrad Firestein Photographs"],
         "unitid_ssm":["PHOTOS.194"],
         "abstract_ssm":["The Conrad Firestein Photographs contain one photographic print of the late photographer John Albok, shot circa 1982."],
+        "creator_ssm":["Firestein, Conrad",
+          "Firestein, Conrad"],
         "unitdate_normal_ssm":["1982/1982"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Firestein, Conrad",
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1982"],
         "unitdate_end_ssm":["1982"],
         "unitdate_ssm":["Inclusive, circa 1982"],
-        "_version_":1799764602842513408,
-        "timestamp":"2024-05-22T14:47:57.308Z"},
+        "_version_":1802141972450770944,
+        "timestamp":"2024-06-17T20:35:13.644Z"},
       {
         "id":"photos_194aspace_ref2",
         "ead_ssi":"photos_194",
@@ -83,8 +85,8 @@
         "unitdate_start_ssm":["1982"],
         "unitdate_end_ssm":["1982"],
         "unitdate_ssm":["Inclusive, circa 1982"],
-        "_version_":1799764602861387776,
-        "timestamp":"2024-05-22T14:47:57.326Z"}]
+        "_version_":1802141972465451008,
+        "timestamp":"2024-06-17T20:35:13.658Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +94,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Firestein, Conrad",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[],

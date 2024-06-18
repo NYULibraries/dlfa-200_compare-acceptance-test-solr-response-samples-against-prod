@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Elly and Leo Borochowicz Papers"],
         "unitid_ssm":["TAM.128"],
         "abstract_ssm":["Elly Breucker Borochowicz (1902-1989) and her husband Leo Borochowicz (1900-1953) worked, under the direction of militant anti-communist Jay Lovestone, for the Free Trade Union Committee of the American Federation of Labor (and for its International Labor Relations Department), and later for the International Affairs Department of the AFL-CIO. Refugees from fascism, both received U.S. visas in 1941 with the aid of Lovestone. Elly received a Ph.D. in sociology in 1927 in her native Germany, while Leo, born in Poland, studied economics and history in Berlin. Both worked as researchers and educators, frequently on behalf of the labor movement, in Europe and the U.S. before settling at the AFL around the end of World War II. The unprocessed papers contain office and personal correspondence, reports, memos to the Executive council of the AFL CIO, newspaper clippings, translations of correspondence and foreign press articles, printed materials, and Elly and Leo Borochowicz's manuscripts and research notes. Most of the collection is in English. There is, however, a considerable amount of material in German, much less in French, and some of Leo Borochowicz's research notes are in Russian."],
+        "creator_ssm":["Borochowicz, Leo",
+          "Borochowicz, Elly Breucker, 1902-1989.",
+          "Borochowicz, Leo",
+          "Borochowicz, Elly Breucker, 1902-1989."],
         "unitdate_normal_ssm":["1913/1985",
           "1942/1985"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -90,8 +94,8 @@
           "1942"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1913-1985 ; 1942-1985"],
-        "_version_":1799777386018897920,
-        "timestamp":"2024-05-22T18:11:08.295Z"},
+        "_version_":1802167740570533888,
+        "timestamp":"2024-06-18T03:24:48.037Z"},
       {
         "id":"tam_128aspace_ref10",
         "ead_ssi":"tam_128",
@@ -107,8 +111,8 @@
         "location_ssm":["Box: 6"],
         "heading_ssm":["Research Notes on Russia"],
         "unitdate_ssm":["undated"],
-        "_version_":1799777386097541120,
-        "timestamp":"2024-05-22T18:11:08.37Z"},
+        "_version_":1802167740621914112,
+        "timestamp":"2024-06-18T03:24:48.086Z"},
       {
         "id":"tam_128aspace_ref16",
         "ead_ssi":"tam_128",
@@ -127,8 +131,8 @@
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1947-1953, 1979-1985, undated"],
-        "_version_":1799777386111172608,
-        "timestamp":"2024-05-22T18:11:08.383Z"},
+        "_version_":1802167740629254144,
+        "timestamp":"2024-06-18T03:24:48.094Z"},
       {
         "id":"tam_128aspace_ref5",
         "ead_ssi":"tam_128",
@@ -144,8 +148,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Office Files"],
         "unitdate_ssm":["1960s, undated"],
-        "_version_":1799777386034626560,
-        "timestamp":"2024-05-22T18:11:08.309Z"},
+        "_version_":1802167740581019648,
+        "timestamp":"2024-06-18T03:24:48.048Z"},
       {
         "id":"tam_128aspace_ref6",
         "ead_ssi":"tam_128",
@@ -161,8 +165,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Leo Borochowitz (Death); Free Trade Union Committee; Research Notes and Speeches on Germany, 1918-1920"],
         "unitdate_ssm":["c. 1943, 1950s"],
-        "_version_":1799777386050355200,
-        "timestamp":"2024-05-22T18:11:08.325Z"},
+        "_version_":1802167740592553984,
+        "timestamp":"2024-06-18T03:24:48.059Z"},
       {
         "id":"tam_128aspace_ref7",
         "ead_ssi":"tam_128",
@@ -178,8 +182,8 @@
         "location_ssm":["Box: 3"],
         "heading_ssm":["Research Notes, Drafts, Translations, Continued (Germany, 1918-1920; Soviet Trade Unions, 1940s-1950s); History of Human Rights; Office Correspondence (1974); Leo Borochowitz's Notes and Drafts on Post World War II Reconstruction"],
         "unitdate_ssm":["1974, undated"],
-        "_version_":1799777386060840960,
-        "timestamp":"2024-05-22T18:11:08.335Z"},
+        "_version_":1802167740599894016,
+        "timestamp":"2024-06-18T03:24:48.066Z"},
       {
         "id":"tam_128aspace_ref8",
         "ead_ssi":"tam_128",
@@ -195,8 +199,8 @@
         "location_ssm":["Box: 4"],
         "heading_ssm":["Office Correspondence, including International Confederation of Free Trade Unions; \"Old manuscripts\" (Leo and Elly): Forced Labor; China, U.S. Trade Unions; Correspondence"],
         "unitdate_ssm":["1950s-1966"],
-        "_version_":1799777386074472448,
-        "timestamp":"2024-05-22T18:11:08.348Z"},
+        "_version_":1802167740607234048,
+        "timestamp":"2024-06-18T03:24:48.073Z"},
       {
         "id":"tam_128aspace_ref9",
         "ead_ssi":"tam_128",
@@ -212,8 +216,8 @@
         "location_ssm":["Box: 5"],
         "heading_ssm":["Research Notes and Drafts on Germany, 1918-1920"],
         "unitdate_ssm":["undated"],
-        "_version_":1799777386084958208,
-        "timestamp":"2024-05-22T18:11:08.358Z"}]
+        "_version_":1802167740614574080,
+        "timestamp":"2024-06-18T03:24:48.08Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -221,7 +225,9 @@
       "repository_sim":[
         "tamwag",8],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Borochowicz, Elly Breucker, 1902-1989.",1,
+        "Borochowicz, Leo",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",6],

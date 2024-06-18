@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Samuel R. Delany, Jr. (\"Chip\") Correspondence and Portrait"],
         "unitid_ssm":["MSS.462"],
         "abstract_ssm":["Samuel R. Delany, Jr., \"Chip,\" (1942- ) is an African American author, professor, and literary critic. His work includes fiction (especially science fiction), memoir, criticism, and essays on sexuality and society. In the 1970s, his work increasingly included sexual themes and content concerning gender dynamics. Following the release and acclaim of Dhalgren in 1975, Delany focused much of his work on science fiction and literary criticism. Since 1988, he has held professorships at numerous colleges and universities until his retirement in 2015. In addition to his novels, short stories, and other critical works, Delany has published several autobiographical or semi-autobiographical accounts of his life as a black, gay writer, including his Hugo award winning autobiography, The Motion of Light in Water. This collection consists of photocopies of letters from Delany to various correspondents, including Robert S. Bravard and Joanna Russ, in 1983 and 1984. Topics covered in the letters include daily life in New York City, childhood memories, literary criticism, HIV and AIDS during the 1980s, science fiction as a literary genre, and science fiction conventions. A portrait of Delaney is also included."],
+        "creator_ssm":["Delany, Samuel R.",
+          "Delany, Samuel R."],
         "unitdate_normal_ssm":["1983/1984"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Correspondence."],
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1983-1984"],
-        "_version_":1799740812417826816,
-        "timestamp":"2024-05-22T08:29:48.991Z"},
+        "_version_":1802072825434996736,
+        "timestamp":"2024-06-17T02:16:09.885Z"},
       {
         "id":"mss_462aspace_7283bb63e79f40f0779bda9e13c71108",
         "ead_ssi":"mss_462",
@@ -80,12 +82,11 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, object: MSS.462.cuid21364",
-          "object: MSS.462.cuid21364"],
+        "location_ssm":["Box: 2, object: MSS.462.cuid21364"],
         "heading_ssm":["Portrait of Samuel Delaney"],
         "unitdate_ssm":["undated"],
-        "_version_":1799740812444041216,
-        "timestamp":"2024-05-22T08:29:49.016Z"},
+        "_version_":1802072825510494208,
+        "timestamp":"2024-06-17T02:16:09.983Z"},
       {
         "id":"mss_462aspace_81f566e9895a29497a22c92f36af73b4",
         "ead_ssi":"mss_462",
@@ -104,8 +105,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1983-1984"],
-        "_version_":1799740812432506880,
-        "timestamp":"2024-05-22T08:29:49.005Z"}]
+        "_version_":1802072825486376960,
+        "timestamp":"2024-06-17T02:16:09.96Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -113,7 +114,8 @@
       "repository_sim":[
         "fales",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Delany, Samuel R.",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",1],

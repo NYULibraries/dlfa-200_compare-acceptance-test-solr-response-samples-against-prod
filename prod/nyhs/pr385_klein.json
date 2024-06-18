@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Daniel and Donna Klein collection of photographs"],
         "unitid_ssm":["PR 385"],
         "abstract_ssm":["This collection was assembled and donated by Daniel and Donna Klein. It consists of 10 photographs of Marilyn Monroe by Andre de Dienes, and 29 images by photojournalist Ken Regan, mainly of Senator Ted Kennedy and New York City Mayor John Lindsay. The de Dienes photos date from 1945 to 1953, while the Regan photos were taken between 1967 and 1982."],
+        "creator_ssm":["Klein, Daniel Victor",
+          "Klein, Daniel Victor"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Klein, Daniel Victor",
           "De Dienes, André, 1913-1985",
@@ -63,8 +65,8 @@
         "heading_ssm":["Daniel and Donna Klein collection of photographs"],
         "unitdate_ssm":["Inclusive, 1945-1982"],
         "language_ssm":["English"],
-        "_version_":1775220644059807744,
-        "timestamp":"2023-08-25T16:52:14.194Z"},
+        "_version_":1801070743199416320,
+        "timestamp":"2024-06-06T00:48:29.82Z"},
       {
         "id":"pr385_kleinaspace_30f2790df96598af0a3af059ecd6a1f7",
         "ead_ssi":"pr385_klein",
@@ -77,12 +79,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 2-3",
-          "Folder: 2-3"],
+        "location_ssm":["Offsite-Box: 1, Folder: 2-3"],
         "heading_ssm":["Ken Regan Photographs"],
         "unitdate_ssm":["Inclusive, 1967-1982"],
-        "_version_":1775220644162568192,
-        "timestamp":"2023-08-25T16:52:14.292Z"},
+        "_version_":1801070743228776448,
+        "timestamp":"2024-06-06T00:48:29.848Z"},
       {
         "id":"pr385_kleinaspace_e4f349fddd20d2378ed945adde013c80",
         "ead_ssi":"pr385_klein",
@@ -95,12 +96,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Offsite-Box: 1, Folder: 1"],
         "heading_ssm":["Andre de Dienes Photographs"],
         "unitdate_ssm":["Inclusive, 1945-1953"],
-        "_version_":1775220644110139392,
-        "timestamp":"2023-08-25T16:52:14.241Z"}]
+        "_version_":1801070743214096384,
+        "timestamp":"2024-06-06T00:48:29.834Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -108,7 +108,8 @@
       "repository_sim":[
         "nyhs",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Klein, Daniel Victor",1],
       "date_range_sim":[
         "undated & other",3],
       "subject_sim":[],

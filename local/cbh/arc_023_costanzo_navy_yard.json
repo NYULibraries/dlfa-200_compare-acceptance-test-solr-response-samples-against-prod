@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Anthony Costanzo Brooklyn Navy Yard collection"],
         "unitid_ssm":["ARC.023"],
         "abstract_ssm":["The Anthony Costanzo Brooklyn Navy Yard Collection contains materials documenting the years just prior to the decommissioning of the Brooklyn Navy Yard in 1966. The collection includes Brooklyn Navy Yard directories, booklets, programs, invitations to ship christenings, press releases, a manuscript on the history of the Brooklyn Navy Yard, photographs, newspaper clippings, souvenirs, official letters, promotional materials relating to the last years of the shipbuilding era of the Brooklyn Navy Yard, a small piece of the flight deck of the USS, and newspaper articles relating to Presidents Kennedy, Nixon, and Ford."],
+        "creator_ssm":["Costanzo, Anthony M.",
+          "Costanzo, Anthony M."],
         "unitdate_normal_ssm":["1952/1970"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Hornet (Aircraft carrier: CVS-12)",
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, 1952-1970"],
         "language_ssm":["English"],
-        "_version_":1799256189596336128,
-        "timestamp":"2024-05-17T00:06:56.653Z"},
+        "_version_":1801958699229511680,
+        "timestamp":"2024-06-15T20:02:10.68Z"},
       {
         "id":"arc_023_costanzo_navy_yardaspace_ref11_y3p",
         "ead_ssi":"arc_023_costanzo_navy_yard",
@@ -95,8 +97,8 @@
         "heading_ssm":["Series 3: Oversize material"],
         "unitdate_ssm":["circa 1960"],
         "language_ssm":["English"],
-        "_version_":1799256189643522048,
-        "timestamp":"2024-05-17T00:06:56.698Z"},
+        "_version_":1801958699306057728,
+        "timestamp":"2024-06-15T20:02:10.753Z"},
       {
         "id":"arc_023_costanzo_navy_yardaspace_ref7_70b",
         "ead_ssi":"arc_023_costanzo_navy_yard",
@@ -115,8 +117,8 @@
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, 1952-1970"],
         "language_ssm":["English"],
-        "_version_":1799256189617307648,
-        "timestamp":"2024-05-17T00:06:56.673Z"},
+        "_version_":1801958699258871808,
+        "timestamp":"2024-06-15T20:02:10.708Z"},
       {
         "id":"arc_023_costanzo_navy_yardaspace_ref9_42x",
         "ead_ssi":"arc_023_costanzo_navy_yard",
@@ -132,8 +134,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 2: Photographs"],
         "unitdate_ssm":["circa 1960"],
-        "_version_":1799256189629890560,
-        "timestamp":"2024-05-17T00:06:56.685Z"}]
+        "_version_":1801958699277746176,
+        "timestamp":"2024-06-15T20:02:10.725Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -141,7 +143,8 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Costanzo, Anthony M.",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",2],

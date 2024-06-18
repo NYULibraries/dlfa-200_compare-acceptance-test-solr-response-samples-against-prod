@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["NYC Police Department Blotters"],
         "unitid_ssm":["MS 3231"],
         "abstract_ssm":["This collection consists of 4 New York City Police Department blotters from 3 different police precincts in Manhattan. The volumes date from 1861 to 1899 and document the day to day workings of the police stations. One blotter is from the 1st Precinct, 2 are from the 2nd Precinct, and 1 is from the 25th Precinct."],
+        "creator_ssm":["New York (N.Y.). Police Department",
+          "New York (N.Y.). Police Department"],
         "corpname_ssm":["New-York Historical Society",
           "New York (N.Y.). Police Department"],
         "genreform_ssm":["Blotters (bookkeeping records)"],
@@ -61,8 +63,8 @@
         "material_type_ssm":["Blotters (bookkeeping records)"],
         "heading_ssm":["NYC Police Department Blotters"],
         "unitdate_ssm":["Inclusive, 1861-1899"],
-        "_version_":1799330342412222464,
-        "timestamp":"2024-05-17T19:45:34.289Z"},
+        "_version_":1802086230998908928,
+        "timestamp":"2024-06-17T05:49:14.453Z"},
       {
         "id":"ms3231_nypd_blottersaspace_1783cd0c81a11ddfd6b92e85233dca48",
         "ead_ssi":"ms3231_nypd_blotters",
@@ -78,8 +80,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["NYC Police 2nd Precinct Blotter"],
         "unitdate_ssm":["Inclusive, August 15, 1861-October 31, 1861"],
-        "_version_":1799330342444728320,
-        "timestamp":"2024-05-17T19:45:34.32Z"},
+        "_version_":1802086231032463360,
+        "timestamp":"2024-06-17T05:49:14.485Z"},
       {
         "id":"ms3231_nypd_blottersaspace_38d3555bfca01577fa231dfe73992570",
         "ead_ssi":"ms3231_nypd_blotters",
@@ -95,8 +97,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["NYC Police 1st Precinct Blotter"],
         "unitdate_ssm":["Inclusive, May 26, 1871-June 29, 1871"],
-        "_version_":1799330342459408384,
-        "timestamp":"2024-05-17T19:45:34.334Z"},
+        "_version_":1802086231049240576,
+        "timestamp":"2024-06-17T05:49:14.501Z"},
       {
         "id":"ms3231_nypd_blottersaspace_49d9d71242126809ee7778e862efcaab",
         "ead_ssi":"ms3231_nypd_blotters",
@@ -112,8 +114,8 @@
         "location_ssm":["Offsite-Box: 4"],
         "heading_ssm":["NYC Police 25th Precinct Blotter"],
         "unitdate_ssm":["Inclusive, March 21, 1899-April 17, 1899"],
-        "_version_":1799330342476185600,
-        "timestamp":"2024-05-17T19:45:34.35Z"},
+        "_version_":1802086231074406400,
+        "timestamp":"2024-06-17T05:49:14.525Z"},
       {
         "id":"ms3231_nypd_blottersaspace_915ac0c7c839539a1fce180901ffc4e0",
         "ead_ssi":"ms3231_nypd_blotters",
@@ -129,8 +131,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["NYC Police 2nd Precinct Blotter"],
         "unitdate_ssm":["Inclusive, April 8, 1861-June 6, 1861"],
-        "_version_":1799330342428999680,
-        "timestamp":"2024-05-17T19:45:34.305Z"}]
+        "_version_":1802086231018831872,
+        "timestamp":"2024-06-17T05:49:14.472Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -138,7 +140,8 @@
       "repository_sim":[
         "nyhs",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (N.Y.). Police Department",1],
       "date_range_sim":[
         "undated & other",5],
       "subject_sim":[

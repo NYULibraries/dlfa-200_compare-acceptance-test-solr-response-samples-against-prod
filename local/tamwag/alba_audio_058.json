@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":23,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sidney Kaufman Audio Collection"],
         "unitid_ssm":["ALBA.AUDIO.058"],
         "abstract_ssm":["Sidney Kaufman served in the International Brigades in Spain from July 1937 through February 1939. Kaufman later served in World War II transporting troops in the South Pacific. He was a lifelong member of the Marine Cooks and Stewards Union and the International Longshoremen's and Warehousemen's Union. The collection contains three audio cassettes of Kaufman discussing his time in Spain."],
+        "creator_ssm":["Kaufman, Sidney",
+          "Kaufman, Sidney"],
         "unitdate_normal_ssm":["1977-12-24/1977-12-24"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Audiocassettes."],
@@ -62,8 +64,8 @@
         "material_type_ssm":["Audiocassettes."],
         "heading_ssm":["Sidney Kaufman Audio Collection"],
         "unitdate_ssm":["December 24, 1977"],
-        "_version_":1799748205465829376,
-        "timestamp":"2024-05-22T10:27:19.551Z"},
+        "_version_":1802111754533076992,
+        "timestamp":"2024-06-17T12:34:55.592Z"},
       {
         "id":"alba_audio_058aspace_ref7",
         "ead_ssi":"alba_audio_058",
@@ -77,12 +79,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 076, Cassette: 58-001",
-          "Cassette: 58-001"],
+        "location_ssm":["Box: Shared Tamiment 076, Cassette: 58-001"],
         "heading_ssm":["Kaufman, Sidney (tape 1 of 3)"],
         "unitdate_ssm":["1977-12-24"],
-        "_version_":1799748205480509440,
-        "timestamp":"2024-05-22T10:27:19.565Z"},
+        "_version_":1802111754560339968,
+        "timestamp":"2024-06-17T12:34:55.618Z"},
       {
         "id":"alba_audio_058aspace_ref8",
         "ead_ssi":"alba_audio_058",
@@ -96,12 +97,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 076, Cassette: 58-002",
-          "Cassette: 58-002"],
+        "location_ssm":["Box: Shared Tamiment 076, Cassette: 58-002"],
         "heading_ssm":["Kaufman, Sidney (tape 2 of 3)"],
         "unitdate_ssm":["1977-12-24"],
-        "_version_":1799748205494140928,
-        "timestamp":"2024-05-22T10:27:19.578Z"},
+        "_version_":1802111754581311488,
+        "timestamp":"2024-06-17T12:34:55.638Z"},
       {
         "id":"alba_audio_058aspace_ref9",
         "ead_ssi":"alba_audio_058",
@@ -115,12 +115,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 076, Cassette: 58-003",
-          "Cassette: 58-003"],
+        "location_ssm":["Box: Shared Tamiment 076, Cassette: 58-003"],
         "heading_ssm":["Kaufman, Sidney (tape 3 of 3)"],
         "unitdate_ssm":["1977-12-24"],
-        "_version_":1799748205505675264,
-        "timestamp":"2024-05-22T10:27:19.589Z"}]
+        "_version_":1802111754601234432,
+        "timestamp":"2024-06-17T12:34:55.657Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -128,7 +127,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kaufman, Sidney",1],
       "date_range_sim":[
         "undated & other",4],
       "subject_sim":[

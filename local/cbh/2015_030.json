@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Henry R. Stiles collection of Brooklyn Historical Society Institutional Memory oral histories"],
         "unitid_ssm":["2015.030"],
         "abstract_ssm":["This collection of three oral histories includes interviews that chronicle the history of Brooklyn Historical Society from the early 1980s to the early 2000s. The interviews were conducted with two former Executive Directors of Brooklyn Historical Society, one of who served as a President/Chair of the Board of Trustees."],
+        "creator_ssm":["Ali, Zaheer",
+          "Ali, Zaheer"],
         "unitdate_normal_ssm":["2015/2016"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Oral histories (document genres)",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["2016"],
         "unitdate_ssm":["Inclusive, 2015-2016"],
         "language_ssm":["English"],
-        "_version_":1799312301113737216,
-        "timestamp":"2024-05-17T14:58:48.766Z"},
+        "_version_":1801958296779751424,
+        "timestamp":"2024-06-15T19:55:46.874Z"},
       {
         "id":"2015_030aspace_2461e955ef7d36f597ac9cd883f95132",
         "ead_ssi":"2015_030",
@@ -94,8 +96,8 @@
           "Brooklyn (New York, N.Y.) -- History -- 20th century"],
         "heading_ssm":["Oral History Interview with Jessie Kelly"],
         "unitdate_ssm":["February 23, 2016"],
-        "_version_":1799312301147291648,
-        "timestamp":"2024-05-17T14:58:48.798Z"},
+        "_version_":1801958296819597312,
+        "timestamp":"2024-06-15T19:55:46.912Z"},
       {
         "id":"2015_030aspace_7285a86885560ce11235c66238a93aea",
         "ead_ssi":"2015_030",
@@ -117,8 +119,8 @@
         "place_ssm":["Brooklyn (New York, N.Y.)"],
         "heading_ssm":["Oral History Interview with David Kahn"],
         "unitdate_ssm":["October 14, 2015"],
-        "_version_":1799312301131563008,
-        "timestamp":"2024-05-17T14:58:48.783Z"},
+        "_version_":1801958296798625792,
+        "timestamp":"2024-06-15T19:55:46.892Z"},
       {
         "id":"2015_030aspace_9f25f16276bbaef87f5b9153275b2699",
         "ead_ssi":"2015_030",
@@ -141,8 +143,8 @@
           "Brooklyn (New York, N.Y.) -- History -- 20th century"],
         "heading_ssm":["Oral History Interview with Susan Mullin"],
         "unitdate_ssm":["October 14, 2015"],
-        "_version_":1799312301165117440,
-        "timestamp":"2024-05-17T14:58:48.815Z"}]
+        "_version_":1801958296853151744,
+        "timestamp":"2024-06-15T19:55:46.944Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -150,7 +152,8 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ali, Zaheer",1],
       "date_range_sim":[
         "2001-2100",1,
         "undated & other",3],

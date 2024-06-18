@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Women's Exchange of Brooklyn records"],
         "unitid_ssm":["1988.018"],
         "abstract_ssm":["The Women's Exchange of Brooklyn records include correspondence, reports, financial statements, minutes, clippings, ephemera, and a constitution. The collection documents the work of the organization in providing a marketplace for members, decisions related to its business affairs, activities and community service planned by members, and the administration of the sewing school."],
+        "creator_ssm":["Needlework Society and Exchange",
+          "Women's Exchange of Brooklyn",
+          "Brooklyn Female Employment Society",
+          "Needlework Society and Exchange",
+          "Women's Exchange of Brooklyn",
+          "Brooklyn Female Employment Society"],
         "unitdate_normal_ssm":["1863/1964",
           "1920/1949"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -87,8 +93,8 @@
           "1949"],
         "unitdate_ssm":["Inclusive, 1863-1964 ; 1920-1949"],
         "language_ssm":["English"],
-        "_version_":1799312274922405888,
-        "timestamp":"2024-05-17T14:58:23.788Z"},
+        "_version_":1801963456539131904,
+        "timestamp":"2024-06-15T21:17:47.604Z"},
       {
         "id":"arms_1988_018_womens_exchangeaspace_ref10_iit",
         "ead_ssi":"arms_1988_018_womens_exchange",
@@ -106,8 +112,8 @@
         "unitdate_start_ssm":["1863"],
         "unitdate_end_ssm":["1964"],
         "unitdate_ssm":["Inclusive, 1863-1964"],
-        "_version_":1799312274951766016,
-        "timestamp":"2024-05-17T14:58:23.815Z"},
+        "_version_":1801963456584220672,
+        "timestamp":"2024-06-15T21:17:47.647Z"},
       {
         "id":"arms_1988_018_womens_exchangeaspace_ref11_g6i",
         "ead_ssi":"arms_1988_018_womens_exchange",
@@ -125,8 +131,8 @@
         "unitdate_start_ssm":["1923"],
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["Inclusive, 1923-1948"],
-        "_version_":1799312274964348928,
-        "timestamp":"2024-05-17T14:58:23.828Z"},
+        "_version_":1801963456613580800,
+        "timestamp":"2024-06-15T21:17:47.675Z"},
       {
         "id":"arms_1988_018_womens_exchangeaspace_ref12_pok",
         "ead_ssi":"arms_1988_018_womens_exchange",
@@ -144,8 +150,8 @@
         "unitdate_start_ssm":["1890"],
         "unitdate_end_ssm":["1964"],
         "unitdate_ssm":["Inclusive, 1890-1964"],
-        "_version_":1799312274979028992,
-        "timestamp":"2024-05-17T14:58:23.842Z"},
+        "_version_":1801963456642940928,
+        "timestamp":"2024-06-15T21:17:47.703Z"},
       {
         "id":"arms_1988_018_womens_exchangeaspace_ref9_wpi",
         "ead_ssi":"arms_1988_018_womens_exchange",
@@ -163,8 +169,8 @@
         "unitdate_start_ssm":["1942"],
         "unitdate_end_ssm":["1964"],
         "unitdate_ssm":["Inclusive, 1942-1964"],
-        "_version_":1799312274937085952,
-        "timestamp":"2024-05-17T14:58:23.802Z"}]
+        "_version_":1801963456563249152,
+        "timestamp":"2024-06-15T21:17:47.627Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -172,7 +178,10 @@
       "repository_sim":[
         "cbh",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Female Employment Society",1,
+        "Needlework Society and Exchange",1,
+        "Women's Exchange of Brooklyn",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",5],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>Illustrated Long Island</em> viewbook"],
         "unitid_ssm":["V1986.035"],
         "abstract_ssm":["The Illustrated Long Island viewbook dates from 1883 and consists of 12 color non-photographic prints of illustrations of Long Island, N.Y."],
+        "creator_ssm":["Long Island News Co",
+          "Long Island News Co"],
         "unitdate_normal_ssm":["1883/1883"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island News Co"],
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1883"],
         "unitdate_ssm":["Inclusive, 1883"],
         "language_ssm":["English"],
-        "_version_":1799312281674186752,
-        "timestamp":"2024-05-17T14:58:30.227Z"}]
+        "_version_":1802045060394516480,
+        "timestamp":"2024-06-16T18:54:51.105Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Long Island News Co",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

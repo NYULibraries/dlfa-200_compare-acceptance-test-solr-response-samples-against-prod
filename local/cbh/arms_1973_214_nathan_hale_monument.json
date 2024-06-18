@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":18,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Town of Huntington, New York Nathan Hale monument research materials"],
         "unitid_ssm":["1973.214"],
         "abstract_ssm":["The Town of Huntington, New York Nathan Hale monument research notes are comprised of three documents that span the period 1939 to circa 1957."],
+        "creator_ssm":["Huntington (N.Y.)",
+          "Huntington (N.Y.)"],
         "unitdate_normal_ssm":["1939/1967"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Huntington (N.Y.)"],
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, 1939-circa 1957"],
         "language_ssm":["English"],
-        "_version_":1799256165202264064,
-        "timestamp":"2024-05-17T00:06:33.389Z"}]
+        "_version_":1801960074973806592,
+        "timestamp":"2024-06-15T20:24:02.692Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Huntington (N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

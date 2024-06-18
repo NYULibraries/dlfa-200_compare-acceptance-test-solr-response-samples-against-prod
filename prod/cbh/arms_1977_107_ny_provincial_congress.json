@@ -47,6 +47,10 @@
         "unittitle_ssm":["New York Provincial Congress certificate of appointment"],
         "unitid_ssm":["1977.107"],
         "abstract_ssm":["A blank certificate of appointment to the New York Militia issued by the New York Provincial Congress, dated August 22, 1775 and signed by Nathaniel Woodhull."],
+        "creator_ssm":["Woodhull, Nathaniel",
+          "New York (Colony). Provincial Congress",
+          "New York (Colony). Provincial Congress",
+          "Woodhull, Nathaniel"],
         "unitdate_normal_ssm":["1775/1775"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (Colony). Provincial Congress"],
@@ -66,8 +70,8 @@
         "unitdate_end_ssm":["1775"],
         "unitdate_ssm":["1775"],
         "language_ssm":["English"],
-        "_version_":1777659767300292608,
-        "timestamp":"2023-09-21T15:01:03.383Z"}]
+        "_version_":1800686015149506560,
+        "timestamp":"2024-06-01T18:53:24.56Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +79,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (Colony). Provincial Congress",1,
+        "Woodhull, Nathaniel",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":22,
+    "QTime":32,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Verrazano-Narrows Bridge opening press kit and photographs"],
         "unitid_ssm":["2004.024"],
         "abstract_ssm":["Verrazano-Narrows Bridge opening press kit, which includes press releases, opening program, speech transcripts, photographs, and other publicity materials. The bridge opened on March 7, 1963."],
+        "creator_ssm":["United States Steel Corporation",
+          "Triborough Bridge and Tunnel Authority",
+          "United States Steel Corporation",
+          "Triborough Bridge and Tunnel Authority"],
         "unitdate_normal_ssm":["1963/1963"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States Steel Corporation",
@@ -76,8 +80,8 @@
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, 1963"],
         "language_ssm":["English"],
-        "_version_":1799256202364846080,
-        "timestamp":"2024-05-17T00:07:08.83Z"}]
+        "_version_":1801958037615804416,
+        "timestamp":"2024-06-15T19:51:39.716Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +89,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Triborough Bridge and Tunnel Authority",1,
+        "United States Steel Corporation",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":21,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Herschel Silverman Collection of Theodore Enslin Correspondence"],
         "unitid_ssm":["MSS.358"],
         "abstract_ssm":["American Beat poet Herschel Silverman (1926-2015) was strongly influenced by jazz music and other Beat writers. He read and wrote poetry well into his 80s.\nPoet Theodore Enslin (1925-2011) published over 80 books of poetry in his career. He lived the majority of his life in rural Maine, where he farmed and wrote until he passed away at the age of 86.\nThis collection contains correspondence between Herschel Silverman and Theodore Enslin during the later part of their lives, beginning in 1994 until Enslin's death in 2011. Topics include responses to each other's writings, world events, health, friends, and family. These topics illustrate the long-term friendships of this generation of writers, as they moved into old age and faced challenges both professionally and personally."],
+        "creator_ssm":["Silverman, Herschel",
+          "Enslin, Theodore",
+          "Silverman, Herschel",
+          "Enslin, Theodore"],
         "unitdate_normal_ssm":["1994/2011"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Correspondence."],
@@ -74,8 +78,8 @@
         "unitdate_start_ssm":["1994"],
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["Inclusive, 1994-2011"],
-        "_version_":1775220951262167040,
-        "timestamp":"2023-08-25T16:57:07.165Z"},
+        "_version_":1800913457342578688,
+        "timestamp":"2024-06-04T07:08:30.338Z"},
       {
         "id":"mss_358aspace_ref2",
         "ead_ssi":"mss_358",
@@ -89,12 +93,11 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-49",
-          "Folder: 1-49"],
+        "location_ssm":["Box: 1, Folder: 1-49"],
         "heading_ssm":["Correspondence with Theodore Enslin"],
         "unitdate_ssm":["Inclusive, 1994-09-2003-12"],
-        "_version_":1775220951314595840,
-        "timestamp":"2023-08-25T16:57:07.215Z"},
+        "_version_":1800913457358307328,
+        "timestamp":"2024-06-04T07:08:30.353Z"},
       {
         "id":"mss_358aspace_ref4",
         "ead_ssi":"mss_358",
@@ -108,12 +111,11 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 1-42",
-          "Folder: 1-42"],
+        "location_ssm":["Box: 2, Folder: 1-42"],
         "heading_ssm":["Correspondence with Theodore Enslin"],
         "unitdate_ssm":["Inclusive, 2004-01-2011-07"],
-        "_version_":1775220951350247424,
-        "timestamp":"2023-08-25T16:57:07.249Z"}]
+        "_version_":1800913457378230272,
+        "timestamp":"2024-06-04T07:08:30.372Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -121,7 +123,9 @@
       "repository_sim":[
         "fales",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Enslin, Theodore",1,
+        "Silverman, Herschel",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

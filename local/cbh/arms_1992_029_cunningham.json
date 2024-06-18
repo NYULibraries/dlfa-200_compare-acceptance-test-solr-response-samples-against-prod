@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Joseph Cunningham papers"],
         "unitid_ssm":["1992.029"],
         "abstract_ssm":["The collection consists of correspondence from Joseph Cunningham, a soldier who served in the First World War, to his family in Brooklyn.  Cunningham, a member of an American artillery unit stationed in France, describes his wartime experiences in the letters. Several letters are to his brother, WIlliam Cunningham, a military officer, and there are three letters from his mother and father."],
+        "creator_ssm":["Cunningham, Joseph",
+          "Cunningham family",
+          "Cunningham family",
+          "Cunningham, Joseph"],
         "unitdate_normal_ssm":["1918/1918"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["McCloskey family",
@@ -71,8 +75,8 @@
         "unitdate_end_ssm":["1918"],
         "unitdate_ssm":["Inclusive, 1918"],
         "language_ssm":["English"],
-        "_version_":1799309957611388928,
-        "timestamp":"2024-05-17T14:21:33.828Z"}]
+        "_version_":1801963710290329600,
+        "timestamp":"2024-06-15T21:21:49.6Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +84,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cunningham family",1,
+        "Cunningham, Joseph",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

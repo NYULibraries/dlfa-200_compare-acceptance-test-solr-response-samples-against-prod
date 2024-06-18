@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Tom Sarbaugh Research Files"],
         "unitid_ssm":["ALBA.132"],
+        "creator_ssm":["Sarbaugh, Tom",
+          "Sarbaugh, Tom"],
         "unitdate_normal_ssm":["1980/2001"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "geogname_ssm":["Spain |x History |y Civil War, 1936-1939 |x Aerial operations."],
@@ -60,8 +62,8 @@
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, circa 1980s-1990s"],
         "language_ssm":["English"],
-        "_version_":1799334118964592640,
-        "timestamp":"2024-05-17T20:45:35.889Z"}]
+        "_version_":1802111125261647872,
+        "timestamp":"2024-06-17T12:24:55.472Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -69,7 +71,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sarbaugh, Tom",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

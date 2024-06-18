@@ -47,6 +47,8 @@
         "unittitle_ssm":["Robert Lamb Civil War letters"],
         "unitid_ssm":["1977.401"],
         "abstract_ssm":["This collection consists of two 1863 letters from Robert Lamb, a Corporal in the New York Volunteer Infantry, to his brother and sister in New York, written while Lamb was stationed in Virginia during the Civil War."],
+        "creator_ssm":["Lamb, Robert",
+          "Lamb, Robert"],
         "unitdate_normal_ssm":["1863/1863"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Army. New York Infantry Regiment, 170th (1862-1865)"],
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1863"],
         "unitdate_ssm":["1863"],
         "language_ssm":["English"],
-        "_version_":1799256280003510272,
-        "timestamp":"2024-05-17T00:08:22.872Z"}]
+        "_version_":1801961560781881344,
+        "timestamp":"2024-06-15T20:47:39.669Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lamb, Robert",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

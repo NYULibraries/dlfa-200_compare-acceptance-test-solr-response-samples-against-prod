@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Gail R. Levine Research Papers"],
         "unitid_ssm":["WAG.352"],
         "abstract_ssm":["Gail R. Levine is a triple New York University alumna (B.A., Washington Square College 1968; M.A. and Ph.D, Steinhardt 1993). The Gail R. Levine Research Papers consist of Levine's research and written work on the taxicab industry in New York City during the 1960s. The collection includes a copy of Levine's Hacks, Macs and Gypsies: The Gypsy Cab Considered as a Crime Without a Victim, written in the summer of 1967 as an undergraduate sociology major at New York University. The paper explores the issues and racial discrimination of New York City taxicab drivers. The collection also offers an newly printed edition, featuring a updated Forward and Introduction by Levine in 2018. This addition includes a personal anecdote about the struggles Levine's uncle endured as a taxicab driver, which led to his ultimate suicide in 1963."],
+        "creator_ssm":["Levine, Gail R.",
+          "Levine, Gail R."],
         "unitdate_normal_ssm":["1967/2018"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Levine, Gail R.",
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1967"],
         "unitdate_end_ssm":["2018"],
         "unitdate_ssm":["Inclusive, 1967, 2018"],
-        "_version_":1799805438552702976,
-        "timestamp":"2024-05-23T01:37:01.276Z"},
+        "_version_":1802197543913783296,
+        "timestamp":"2024-06-18T11:18:30.721Z"},
       {
         "id":"wag_352aspace_0431bbe4b64e7e10631d59d51f3b4f13",
         "ead_ssi":"wag_352",
@@ -80,14 +82,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["\n      Hacks, Macs and Gypsies: The Gypsy Cab Considered as a Crime without a Victim\n    "],
         "unitdate_start_ssm":["1967"],
         "unitdate_end_ssm":["2018"],
         "unitdate_ssm":["Inclusive, 1967, 2018"],
-        "_version_":1799805438567383040,
-        "timestamp":"2024-05-23T01:37:01.29Z"},
+        "_version_":1802197543923220480,
+        "timestamp":"2024-06-18T11:18:30.73Z"},
       {
         "id":"wag_352aspace_e7b95ffc0a332f7af830cddc00be41ab",
         "ead_ssi":"wag_352",
@@ -101,14 +102,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Hacks and Macks - Paper on Taxi Drivers (Sociology)"],
         "unitdate_start_ssm":["1967"],
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["1967"],
-        "_version_":1799805438579965952,
-        "timestamp":"2024-05-23T01:37:01.302Z"}]
+        "_version_":1802197543931609088,
+        "timestamp":"2024-06-18T11:18:30.738Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -116,7 +116,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Levine, Gail R.",1],
       "date_range_sim":[
         "1901-2000",3,
         "2001-2100",2],

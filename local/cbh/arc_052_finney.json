@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Finney family collection"],
         "unitid_ssm":["ARC.052"],
         "abstract_ssm":["The Finney family papers contain items mainly pertaining to the career and personal life of William Finney, though there is a small number of items pertaining to William's brother, Peter, as well as Ellen Phinney, a family relative (possibly William and Peter's mother). Included is a diploma from Kings County Hospital Training School for Nurses issued to Kate Florence Sharp in 1900. Sharp was William Finney's nurse, and she was left a sum of money in William's will. The collection spans the period circa 1865 to 1913, with the majority of the items dating from the 1890s and the first decade of the 1900s."],
+        "creator_ssm":["Finney, William",
+          "Finney, William"],
         "unitdate_normal_ssm":["1831/1923"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Kings County Hospital (Kings County, N.Y.). School of Nursing",
@@ -99,8 +101,8 @@
         "unitdate_end_ssm":["1923"],
         "unitdate_ssm":["Inclusive, circa 1831 to 1913"],
         "language_ssm":["English"],
-        "_version_":1799256453575344128,
-        "timestamp":"2024-05-17T00:11:08.403Z"}]
+        "_version_":1801958815462064128,
+        "timestamp":"2024-06-15T20:04:01.528Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -108,7 +110,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Finney, William",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

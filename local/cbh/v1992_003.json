@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":17,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>Walking Race: Heel and Toe Artists Hoof it to Coney Island</em> and two other films"],
         "unitid_ssm":["V1992.003"],
         "abstract_ssm":["This collection contains a 16 mm film containing three segments, circa 1930.  The first segment shows a foot race from New York City Hall to Coney Island, the second shows a wedding of three brothers of the Sultan of Morocco, and the third shows showgirls auditioning for the stage. The film is silent, black-and-white, and runs five minutes and thirty seconds. It was produced by Major Tom Evans and edited by A.F. Bernadac."],
+        "creator_ssm":["Evans, Tom, Major",
+          "Evans, Tom, Major"],
         "unitdate_normal_ssm":["1925/2009"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Digital Betacam (TM)",
@@ -77,8 +79,8 @@
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, circa 1930, 2009"],
         "language_ssm":["English"],
-        "_version_":1799311441702944768,
-        "timestamp":"2024-05-17T14:45:09.168Z"}]
+        "_version_":1802045567254134784,
+        "timestamp":"2024-06-16T19:02:54.484Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Evans, Tom, Major",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

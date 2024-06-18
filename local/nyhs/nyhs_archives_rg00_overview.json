@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New-York Historical Society records overview"],
         "unitid_ssm":["NYHS-RG Archives"],
         "abstract_ssm":["The New-York Historical Society institutional archive includes historical records of the institution from its founding in 1804 to the early twenty-first century. Records include minute books, correspondence, membership records, architectural plans, collection accession records, photographs, press clippings, press releases, programming and education, ephemera, museum and library management, exhibitions, and other material. This Guide is an overview of the portion of the archive that is processed and open to researchers. More detailed description of the content is included in the Guides for the individual record groups that constitute the archive."],
+        "creator_ssm":["New-York Historical Society",
+          "New-York Historical Society"],
         "corpname_ssm":["New-York Historical Society",
           "New-York Historical Society",
           "New-York Historical Society -- Anniversaries, etc.",
@@ -221,8 +223,8 @@
           "Proofs (printed matter)"],
         "heading_ssm":["New-York Historical Society records overview"],
         "unitdate_ssm":["Inclusive, 1804-2023"],
-        "_version_":1799317333290778624,
-        "timestamp":"2024-05-17T16:18:47.823Z"},
+        "_version_":1802087648972505088,
+        "timestamp":"2024-06-17T06:11:46.736Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_17787bd6a4b450880d884ef703c02228",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -236,8 +238,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 24. Financial Records, 1837-2005 (bulk 1800s-1930s, 1980s-1993)"],
-        "_version_":1799317333723840512,
-        "timestamp":"2024-05-17T16:18:48.237Z"},
+        "_version_":1802087649396129792,
+        "timestamp":"2024-06-17T06:11:47.142Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_d8f7bd4be102313154b40bb6f60a7063",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -251,8 +253,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 18. Board of Trustees records (1939-1959)"],
-        "_version_":1799317333616885760,
-        "timestamp":"2024-05-17T16:18:48.135Z"},
+        "_version_":1802087649301757952,
+        "timestamp":"2024-06-17T06:11:47.052Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref20_zng",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -266,8 +268,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 1. Management committee records (1804-1938)"],
-        "_version_":1799317333314895872,
-        "timestamp":"2024-05-17T16:18:47.847Z"},
+        "_version_":1802087649016545280,
+        "timestamp":"2024-06-17T06:11:46.78Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref22_phd",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -281,8 +283,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 2. General correspondence (1805-2023, bulk 1805-1982)"],
-        "_version_":1799317333328527360,
-        "timestamp":"2024-05-17T16:18:47.86Z"},
+        "_version_":1802087649031225344,
+        "timestamp":"2024-06-17T06:11:46.794Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref24_vtp",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -296,8 +298,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 3. Original buildings planning & construction records (1848-1946)"],
-        "_version_":1799317333346353152,
-        "timestamp":"2024-05-17T16:18:47.876Z"},
+        "_version_":1802087649048002560,
+        "timestamp":"2024-06-17T06:11:46.809Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref26_91v",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -311,8 +313,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 5. Pictorial archive (1804-2009, bulk 1900s-1970s)"],
-        "_version_":1799317333371518976,
-        "timestamp":"2024-05-17T16:18:47.901Z"},
+        "_version_":1802087649078411264,
+        "timestamp":"2024-06-17T06:11:46.839Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref28_550",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -326,8 +328,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 7. Press clippings (1843-2013)"],
-        "_version_":1799317333400879104,
-        "timestamp":"2024-05-17T16:18:47.929Z"},
+        "_version_":1802087649111965696,
+        "timestamp":"2024-06-17T06:11:46.871Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref30_t39",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -341,8 +343,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 8. Public relations material (circa 1939-2006)"],
-        "_version_":1799317333413462016,
-        "timestamp":"2024-05-17T16:18:47.941Z"},
+        "_version_":1802087649128742912,
+        "timestamp":"2024-06-17T06:11:46.887Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref32_oib",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -356,8 +358,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 9. Membership records (1804-1983)"],
-        "_version_":1799317333429190656,
-        "timestamp":"2024-05-17T16:18:47.956Z"},
+        "_version_":1802087649146568704,
+        "timestamp":"2024-06-17T06:11:46.904Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref34_7lg",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -371,8 +373,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 10. John Watts DePeyster Publication Fund records (1857-1982)\n"],
-        "_version_":1799317333444919296,
-        "timestamp":"2024-05-17T16:18:47.971Z"},
+        "_version_":1802087649163345920,
+        "timestamp":"2024-06-17T06:11:46.92Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref36_x69",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -386,8 +388,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 11. Manuscripts of lectures and addresses (1809-1957, 2001, 2015-2016)\n"],
-        "_version_":1799317333460647936,
-        "timestamp":"2024-05-17T16:18:47.986Z"},
+        "_version_":1802087649180123136,
+        "timestamp":"2024-06-17T06:11:46.936Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref38_jjp",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -401,8 +403,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 12. Celebratory and memorial event records (1854-1954)\n\n"],
-        "_version_":1799317333477425152,
-        "timestamp":"2024-05-17T16:18:48.002Z"},
+        "_version_":1802087649197948928,
+        "timestamp":"2024-06-17T06:11:46.953Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref40_9vj",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -416,8 +418,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 13. Scholarship essay submissions (1925-1933)\n"],
-        "_version_":1799317333548728320,
-        "timestamp":"2024-05-17T16:18:48.07Z"},
+        "_version_":1802087649217871872,
+        "timestamp":"2024-06-17T06:11:46.971Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref42_csu",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -431,8 +433,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 14. Ephemera (1839-2019)"],
-        "_version_":1799317333563408384,
-        "timestamp":"2024-05-17T16:18:48.084Z"},
+        "_version_":1802087649234649088,
+        "timestamp":"2024-06-17T06:11:46.988Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref44_64y",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -446,8 +448,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 15. Collection accession registers (1841-1962, 2002)\n\n\n"],
-        "_version_":1799317333577039872,
-        "timestamp":"2024-05-17T16:18:48.097Z"},
+        "_version_":1802087649252474880,
+        "timestamp":"2024-06-17T06:11:47.005Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref46_85u",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -461,8 +463,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 17. Publication editorial records (1939-2000, 2009)"],
-        "_version_":1799317333604302848,
-        "timestamp":"2024-05-17T16:18:48.123Z"},
+        "_version_":1802087649284980736,
+        "timestamp":"2024-06-17T06:11:47.036Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref48_qgh",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -476,8 +478,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 4. Building renovations and maintenance records (1938-2017)"],
-        "_version_":1799317333358936064,
-        "timestamp":"2024-05-17T16:18:47.889Z"},
+        "_version_":1802087649062682624,
+        "timestamp":"2024-06-17T06:11:46.824Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref50_siu",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -491,8 +493,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 6. Field Exploration Committee photographs (1891-1930s)"],
-        "_version_":1799317333386199040,
-        "timestamp":"2024-05-17T16:18:47.915Z"},
+        "_version_":1802087649096237056,
+        "timestamp":"2024-06-17T06:11:46.856Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref52_91p",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -506,8 +508,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 19. Librarian Dorothy C. Barck records (1921-1954)"],
-        "_version_":1799317333664071680,
-        "timestamp":"2024-05-17T16:18:48.18Z"},
+        "_version_":1802087649318535168,
+        "timestamp":"2024-06-17T06:11:47.068Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref54_eam",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -521,8 +523,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 20. Museum Department records (1765, 1830-2018)"],
-        "_version_":1799317333676654592,
-        "timestamp":"2024-05-17T16:18:48.192Z"},
+        "_version_":1802087649338458112,
+        "timestamp":"2024-06-17T06:11:47.087Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref56_si1",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -536,8 +538,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 21. Library Department records (1815-2018)"],
-        "_version_":1799317333689237504,
-        "timestamp":"2024-05-17T16:18:48.204Z"},
+        "_version_":1802087649355235328,
+        "timestamp":"2024-06-17T06:11:47.103Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref58_7dc",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -551,8 +553,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 23. Public programs and education records 1941-2014 (bulk, 1984-2004)"],
-        "_version_":1799317333709160448,
-        "timestamp":"2024-05-17T16:18:48.223Z"},
+        "_version_":1802087649374109696,
+        "timestamp":"2024-06-17T06:11:47.121Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref60_q3m",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -566,8 +568,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 26. Museum Store records (1940s-2001, bulk 1980s-1992)"],
-        "_version_":1799317333737472000,
-        "timestamp":"2024-05-17T16:18:48.25Z"},
+        "_version_":1802087649416052736,
+        "timestamp":"2024-06-17T06:11:47.161Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref62_qaa",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -581,8 +583,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 28. Audiovisual media records (1974-2002)"],
-        "_version_":1799317333787803648,
-        "timestamp":"2024-05-17T16:18:48.298Z"},
+        "_version_":1802087649437024256,
+        "timestamp":"2024-06-17T06:11:47.181Z"},
       {
         "id":"nyhs_archives_rg00_overviewaspace_ref64_qu4",
         "ead_ssi":"nyhs_archives_rg00_overview",
@@ -596,8 +598,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["NYHS-RG 16. Bequests, gifts & related matters (1852-1992)"],
-        "_version_":1799317333590671360,
-        "timestamp":"2024-05-17T16:18:48.11Z"}]
+        "_version_":1802087649270300672,
+        "timestamp":"2024-06-17T06:11:47.022Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -605,7 +607,8 @@
       "repository_sim":[
         "nyhs",26],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New-York Historical Society",1],
       "date_range_sim":[
         "undated & other",26],
       "subject_sim":[

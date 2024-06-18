@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Alexander insurance policy"],
         "unitid_ssm":["1974.175"],
         "abstract_ssm":["Insurance policy issued to John Alexander for the dwelling at 121 Nassau St., Brooklyn, dated 1829.  The policy is issued by the Phoenix Fire Insurance Company."],
+        "creator_ssm":["Phoenix Fire Insurance Company",
+          "Phoenix Fire Insurance Company"],
         "unitdate_normal_ssm":["1829/1829"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Phoenix Fire Insurance Company"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1829"],
         "unitdate_ssm":["Inclusive, 1829"],
         "language_ssm":["English"],
-        "_version_":1799256289739538432,
-        "timestamp":"2024-05-17T00:08:32.157Z"}]
+        "_version_":1801960412212625408,
+        "timestamp":"2024-06-15T20:29:24.308Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Phoenix Fire Insurance Company",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

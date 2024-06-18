@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Hank Rubin Papers"],
         "unitid_ssm":["ALBA.275"],
+        "creator_ssm":["Rubin, Hank",
+          "Rubin, Hank"],
         "unitdate_normal_ssm":["1937/2009"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Rubin, Hank"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, circa 1930s-2000s"],
         "language_ssm":["English"],
-        "_version_":1775226098556076032,
-        "timestamp":"2023-08-25T18:18:56.007Z"},
+        "_version_":1801146900220477440,
+        "timestamp":"2024-06-06T20:58:58.815Z"},
       {
         "id":"alba_275aspace_224941bd1d3556014cf8e014f98fa292",
         "ead_ssi":"alba_275",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Rubin, Henry (Hank): The Last Good Fight"],
-        "_version_":1775226098610601984,
-        "timestamp":"2023-08-25T18:18:56.059Z"}]
+        "_version_":1801146900238303232,
+        "timestamp":"2024-06-06T20:58:58.832Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rubin, Hank",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

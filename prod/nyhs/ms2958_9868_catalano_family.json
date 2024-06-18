@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -56,8 +56,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Catalano family certificates"],
         "unitdate_ssm":["Inclusive, 1910-1937"],
-        "_version_":1775225924369776640,
-        "timestamp":"2023-08-25T18:16:09.89Z"}]
+        "_version_":1800989585770020864,
+        "timestamp":"2024-06-05T03:18:32.064Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

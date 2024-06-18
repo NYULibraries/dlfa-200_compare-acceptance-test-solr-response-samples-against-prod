@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Shelter Island Meeting House Committee petition and subscription list"],
         "unitid_ssm":["1977.649"],
         "abstract_ssm":["A copy of a circa 1800 petition and subscription list requesting donations to erect a new meeting house on Shelter Island."],
+        "creator_ssm":["Shelter Island Meeting House Committee",
+          "Shelter Island Meeting House Committee"],
         "unitdate_normal_ssm":["1790/1810"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Shelter Island Meeting House Committee"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1810"],
         "unitdate_ssm":["Inclusive, circa 1800"],
         "language_ssm":["English"],
-        "_version_":1799311707168833536,
-        "timestamp":"2024-05-17T14:49:22.336Z"}]
+        "_version_":1801962142711152640,
+        "timestamp":"2024-06-15T20:56:54.64Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Shelter Island Meeting House Committee",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Clay Festival Association records"],
         "unitid_ssm":["1977.136"],
         "abstract_ssm":["The Clay Festival Association records are housed in a single bound volume and span the period 1846 to 1862. The records include meeting minutes, correspondence, news clippings, invitations, and event programs, all documenting the annual Clay Festival thrown by the organization."],
+        "creator_ssm":["Clay Festival Association (New York, N.Y.)",
+          "Clay Festival Association (New York, N.Y.)"],
         "unitdate_normal_ssm":["1846/1862"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Clay Festival Association (New York, N.Y.)",
@@ -77,8 +79,8 @@
         "unitdate_end_ssm":["1862"],
         "unitdate_ssm":["Inclusive, 1846-1862"],
         "language_ssm":["English"],
-        "_version_":1799256301277020160,
-        "timestamp":"2024-05-17T00:08:43.16Z"}]
+        "_version_":1801960786481905664,
+        "timestamp":"2024-06-15T20:35:21.239Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Clay Festival Association (New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

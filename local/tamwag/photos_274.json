@@ -47,6 +47,8 @@
         "unittitle_ssm":["Martin Lapan Photographs"],
         "unitid_ssm":["PHOTOS.274"],
         "abstract_ssm":["Martin Lapan (1922-2008) was New York State Director of the Jewish Labor Committee until 1984 and subsequently its Executive Director until his retirement in 1993.   The Martin Lapan Photographs Collection contain 80 photographs and one photograph album from the 1970s through the 1990s."],
+        "creator_ssm":["Lapan, Martin, d. 2008",
+          "Lapan, Martin, d. 2008"],
         "unitdate_normal_ssm":["1970/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Jewish Labor Committee (U.S.)"],
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1970s-1990s"],
-        "_version_":1799776693091565568,
-        "timestamp":"2024-05-22T18:00:07.468Z"},
+        "_version_":1802167125584904192,
+        "timestamp":"2024-06-18T03:15:01.542Z"},
       {
         "id":"photos_274aspace_1574d51dd8e4fb2cdcc8ce6cbbaedd54",
         "ead_ssi":"photos_274",
@@ -78,12 +80,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 5",
-          "Folder: 5"],
+        "location_ssm":["Box: 1, Folder: 5"],
         "heading_ssm":["Ephemera"],
         "unitdate_ssm":["undated"],
-        "_version_":1799776693171257344,
-        "timestamp":"2024-05-22T18:00:07.544Z"},
+        "_version_":1802167125643624448,
+        "timestamp":"2024-06-18T03:15:01.598Z"},
       {
         "id":"photos_274aspace_ref17",
         "ead_ssi":"photos_274",
@@ -98,8 +99,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Photograph Album"],
-        "_version_":1799776693106245632,
-        "timestamp":"2024-05-22T18:00:07.482Z"},
+        "_version_":1802167125595389952,
+        "timestamp":"2024-06-18T03:15:01.552Z"},
       {
         "id":"photos_274aspace_ref18",
         "ead_ssi":"photos_274",
@@ -114,8 +115,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Photographs 1"],
-        "_version_":1799776693120925696,
-        "timestamp":"2024-05-22T18:00:07.496Z"},
+        "_version_":1802167125604827136,
+        "timestamp":"2024-06-18T03:15:01.561Z"},
       {
         "id":"photos_274aspace_ref19",
         "ead_ssi":"photos_274",
@@ -130,8 +131,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Photographs 2"],
-        "_version_":1799776693136654336,
-        "timestamp":"2024-05-22T18:00:07.511Z"},
+        "_version_":1802167125616361472,
+        "timestamp":"2024-06-18T03:15:01.572Z"},
       {
         "id":"photos_274aspace_ref22",
         "ead_ssi":"photos_274",
@@ -146,8 +147,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Photographs 3"],
-        "_version_":1799776693157625856,
-        "timestamp":"2024-05-22T18:00:07.531Z"}]
+        "_version_":1802167125632090112,
+        "timestamp":"2024-06-18T03:15:01.587Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -155,7 +156,8 @@
       "repository_sim":[
         "tamwag",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lapan, Martin, d. 2008",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",5],

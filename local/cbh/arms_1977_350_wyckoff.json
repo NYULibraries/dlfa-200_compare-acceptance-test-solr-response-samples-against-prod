@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Wyckoff House collection"],
         "unitid_ssm":["1977.350"],
         "abstract_ssm":["This collection contains eleven Photostats of property maps and architectural drawings relating to property of the Wyckoff family in Flatlands.  The maps and drawings detail original Wyckoff properties, purchases from Canarsie Indians, and other sales throughout the period 1628 to 1901.  The Photostats date from 1973.  Also included is The Wyckoff House: Its History and Structure by Oppenheimer, Brady, and Associates for the New York City Department of Parks and Recreation."],
+        "creator_ssm":["New York (N.Y.). Dept. of Parks and Recreation",
+          "Wyckoff House & Association",
+          "New York (N.Y.). Dept. of Parks and Recreation",
+          "Wyckoff House & Association"],
         "unitdate_normal_ssm":["1973/1973"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (N.Y.). Dept. of Parks and Recreation",
@@ -77,8 +81,8 @@
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1973"],
         "language_ssm":["English"],
-        "_version_":1799256208130965504,
-        "timestamp":"2024-05-17T00:07:14.329Z"}]
+        "_version_":1801961400600363008,
+        "timestamp":"2024-06-15T20:45:06.908Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +90,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (N.Y.). Dept. of Parks and Recreation",1,
+        "Wyckoff House & Association",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

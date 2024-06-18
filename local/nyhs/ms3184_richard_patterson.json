@@ -47,6 +47,8 @@
         "unittitle_ssm":["Richard C. Patterson, Jr. scrapbooks"],
         "unitid_ssm":["MS 3184"],
         "abstract_ssm":["The collection holds twelve oversize scrapbooks, eleven of which consist almost entirely of clippings and which trace the career of Richard C. Patterson, Jr. from his appointment as New York City's Commissioner of Correction in 1927; through his positions in private industry and government in the 1930s-1940s and as ambassador to Yugoslavia, Guatemala and Switzerland in the 1940s-1950s; and to his tenure as New York's Commissioner of Public Events in the 1950s-1966. The first scrapbook of the collection holds a broader range of documents, principally from Patterson's early life and career, including documents related to his position as head of the administrative office for the American Commission to Negotiate Peace in France after World War I."],
+        "creator_ssm":["Patterson, Richard C., Jr. (Richard Cunningham), 1886-1966",
+          "Patterson, Richard C., Jr. (Richard Cunningham), 1886-1966"],
         "corpname_ssm":["New-York Historical Society",
           "New York (N.Y.). Department of Commerce and Public Events",
           "New York (N.Y.). Department of Correction",
@@ -66,8 +68,8 @@
           "Scrapbooks."],
         "heading_ssm":["Richard C. Patterson, Jr. scrapbooks"],
         "unitdate_ssm":["Inclusive, 1879-1966"],
-        "_version_":1799317039911796736,
-        "timestamp":"2024-05-17T16:14:08.035Z"},
+        "_version_":1802085672511602688,
+        "timestamp":"2024-06-17T05:40:21.838Z"},
       {
         "id":"ms3184_richard_pattersonaspace_4ddea54c326b980dd3f74b2a4b2fece9",
         "ead_ssi":"ms3184_richard_patterson",
@@ -83,8 +85,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Scrapbook #2. August 1927-November 1929"],
         "unitdate_ssm":["Inclusive, 1927-1929"],
-        "_version_":1799317039962128384,
-        "timestamp":"2024-05-17T16:14:08.084Z"},
+        "_version_":1802085672547254272,
+        "timestamp":"2024-06-17T05:40:21.872Z"},
       {
         "id":"ms3184_richard_pattersonaspace_5099c10fc24cbb3b315291fbff043c2f",
         "ead_ssi":"ms3184_richard_patterson",
@@ -100,8 +102,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Scrapbook #5. June 1937-December 1947"],
         "unitdate_ssm":["Inclusive, 1937-1947"],
-        "_version_":1799317040029237248,
-        "timestamp":"2024-05-17T16:14:08.148Z"},
+        "_version_":1802085672594440192,
+        "timestamp":"2024-06-17T05:40:21.917Z"},
       {
         "id":"ms3184_richard_pattersonaspace_534ecb718e3e39608ee3b93e2685c0e6",
         "ead_ssi":"ms3184_richard_patterson",
@@ -117,8 +119,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Scrapbook #8. December 1953-October 1954"],
         "unitdate_ssm":["Inclusive, 1953-1954"],
-        "_version_":1799317040092151808,
-        "timestamp":"2024-05-17T16:14:08.208Z"},
+        "_version_":1802085672641626112,
+        "timestamp":"2024-06-17T05:40:21.962Z"},
       {
         "id":"ms3184_richard_pattersonaspace_615d00d78868ec4cfddb98dc4f7722ca",
         "ead_ssi":"ms3184_richard_patterson",
@@ -134,8 +136,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Scrapbook #6. January 1948-June 1951"],
         "unitdate_ssm":["Inclusive, 1948-1951"],
-        "_version_":1799317040051257344,
-        "timestamp":"2024-05-17T16:14:08.169Z"},
+        "_version_":1802085672612265984,
+        "timestamp":"2024-06-17T05:40:21.934Z"},
       {
         "id":"ms3184_richard_pattersonaspace_688dc4774a317917683994a99c658fed",
         "ead_ssi":"ms3184_richard_patterson",
@@ -151,8 +153,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Scrapbook #4. March 1931-May 1937"],
         "unitdate_ssm":["Inclusive, 1931-1937"],
-        "_version_":1799317040008265728,
-        "timestamp":"2024-05-17T16:14:08.128Z"},
+        "_version_":1802085672580808704,
+        "timestamp":"2024-06-17T05:40:21.904Z"},
       {
         "id":"ms3184_richard_pattersonaspace_98e6a3d53d883f1c0cd6a1842b5906cc",
         "ead_ssi":"ms3184_richard_patterson",
@@ -168,8 +170,8 @@
         "location_ssm":["Offsite-Box: 5"],
         "heading_ssm":["Scrapbook #11. January 1961-June 1964"],
         "unitdate_ssm":["Inclusive, 1958, 1961-1964"],
-        "_version_":1799317040160309248,
-        "timestamp":"2024-05-17T16:14:08.273Z"},
+        "_version_":1802085672685666304,
+        "timestamp":"2024-06-17T05:40:22.004Z"},
       {
         "id":"ms3184_richard_pattersonaspace_b423c9e6a2c9d58508243f37e16cdb76",
         "ead_ssi":"ms3184_richard_patterson",
@@ -185,8 +187,8 @@
         "location_ssm":["Offsite-Box: 4"],
         "heading_ssm":["Scrapbook #10. January 1957-November 1960"],
         "unitdate_ssm":["Inclusive, 1957-1960"],
-        "_version_":1799317040136192000,
-        "timestamp":"2024-05-17T16:14:08.25Z"},
+        "_version_":1802085672670986240,
+        "timestamp":"2024-06-17T05:40:21.99Z"},
       {
         "id":"ms3184_richard_pattersonaspace_d3e0612f32f2f8764fe293057e1ab80f",
         "ead_ssi":"ms3184_richard_patterson",
@@ -202,8 +204,8 @@
         "location_ssm":["Offsite-Box: 6"],
         "heading_ssm":["Scrapbook #9. September 1954-January 1957"],
         "unitdate_ssm":["Inclusive, 1954-1957"],
-        "_version_":1799317040114171904,
-        "timestamp":"2024-05-17T16:14:08.228Z"},
+        "_version_":1802085672656306176,
+        "timestamp":"2024-06-17T05:40:21.976Z"},
       {
         "id":"ms3184_richard_pattersonaspace_d4c06814155dcc1be9ab4198d88eea1b",
         "ead_ssi":"ms3184_richard_patterson",
@@ -219,8 +221,8 @@
         "location_ssm":["Offsite-Box: 5"],
         "heading_ssm":["Scrapbook #12. December 1964-January 1966"],
         "unitdate_ssm":["Inclusive, 1958, 1962, 1964-1966"],
-        "_version_":1799317040184426496,
-        "timestamp":"2024-05-17T16:14:08.296Z"},
+        "_version_":1802085672701394944,
+        "timestamp":"2024-06-17T05:40:22.019Z"},
       {
         "id":"ms3184_richard_pattersonaspace_ea271638999fb340727ab7b497afaf61",
         "ead_ssi":"ms3184_richard_patterson",
@@ -236,8 +238,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Scrapbook #7. June 1951-December 1952"],
         "unitdate_ssm":["Inclusive, 1951-1952"],
-        "_version_":1799317040070131712,
-        "timestamp":"2024-05-17T16:14:08.187Z"},
+        "_version_":1802085672627994624,
+        "timestamp":"2024-06-17T05:40:21.949Z"},
       {
         "id":"ms3184_richard_pattersonaspace_fe914e6b3f436d1e8832857e0ce88d9e",
         "ead_ssi":"ms3184_richard_patterson",
@@ -253,8 +255,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Scrapbook #3. November 1929-July 1931"],
         "unitdate_ssm":["Inclusive, 1929-1931, 1960"],
-        "_version_":1799317039985197056,
-        "timestamp":"2024-05-17T16:14:08.106Z"},
+        "_version_":1802085672561934336,
+        "timestamp":"2024-06-17T05:40:21.886Z"},
       {
         "id":"ms3184_richard_pattersonaspace_fef29a5b69eefd9b46cd7a07ead0bd77",
         "ead_ssi":"ms3184_richard_patterson",
@@ -270,8 +272,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Scrapbook #1"],
         "unitdate_ssm":["Inclusive, 1879-1961"],
-        "_version_":1799317039940108288,
-        "timestamp":"2024-05-17T16:14:08.063Z"}]
+        "_version_":1802085672529428480,
+        "timestamp":"2024-06-17T05:40:21.855Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -279,7 +281,8 @@
       "repository_sim":[
         "nyhs",13],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Patterson, Richard C., Jr. (Richard Cunningham), 1886-1966",1],
       "date_range_sim":[
         "undated & other",13],
       "subject_sim":[

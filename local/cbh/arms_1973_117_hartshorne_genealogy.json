@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Hartshorne, Parker, Saltar, Williams, and Wardell family genealogy notes"],
         "unitid_ssm":["1973.117"],
         "abstract_ssm":["The Hartshorne, Parker, Saltar, Williams, and Wardell family genealogy notes span the period 1678 to 1861 and were compiled by Elizabeth Hartshorne Williams from the family bibles of the five families represented in the notes. The notes list births, deaths, and marriages of various family members residing in New York City and New Jersey."],
+        "creator_ssm":["Williams, Elizabeth Hartshorne",
+          "Williams, Elizabeth Hartshorne"],
         "unitdate_normal_ssm":["1678/1861"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Williamson family",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1861"],
         "unitdate_ssm":["Inclusive, 1678-1861"],
         "language_ssm":["English"],
-        "_version_":1799256308843544576,
-        "timestamp":"2024-05-17T00:08:50.376Z"}]
+        "_version_":1801959965807607808,
+        "timestamp":"2024-06-15T20:22:18.582Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Williams, Elizabeth Hartshorne",1],
       "date_range_sim":[
         "1601-1700",1,
         "1801-1900",1],

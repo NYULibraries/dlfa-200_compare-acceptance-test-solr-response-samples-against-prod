@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Viola Hargrave collection of Bedford-Stuyvesant photographs"],
         "unitid_ssm":["V1974.005"],
         "abstract_ssm":["The Viola Hargrave collection of Bedford-Stuyvesant photographs dates from circa 1960 to 1979. The collection contains 74 black-and-white photographs taken by William Cox, Michael George, James Hurley, and Viola Hargrave."],
+        "creator_ssm":["Cox, William",
+          "George, Michael",
+          "Hurley, James",
+          "Hargrave, Viola",
+          "Cox, William",
+          "George, Michael",
+          "Hurley, James",
+          "Hargrave, Viola"],
         "unitdate_normal_ssm":["1960/1979"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographs"],
@@ -73,8 +81,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1960s to 1970s"],
         "language_ssm":["English"],
-        "_version_":1799311682475917312,
-        "timestamp":"2024-05-17T14:48:58.787Z"}]
+        "_version_":1802044744603271168,
+        "timestamp":"2024-06-16T18:49:49.943Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +90,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cox, William",1,
+        "George, Michael",1,
+        "Hargrave, Viola",1,
+        "Hurley, James",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

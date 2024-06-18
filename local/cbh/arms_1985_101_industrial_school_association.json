@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Industrial School Association and Home for Destitute Children Annual Reports collection"],
         "unitid_ssm":["1985.101"],
         "abstract_ssm":["The Brooklyn Industrial School Association and Home for Destitute Children Annual Reports collection comprises 0.4 linear feet of materials and spans the dates 1859 to 1910. It consists entirely of annual reports, which feature financial statements, summaries of activities and accomplishments for each year, lists of donations and donors, as well as the Association's constitution and by-laws. These reports do not feature the names or adoption records of any residents of the Home for Destitute Children."],
+        "creator_ssm":["Brooklyn Industrial School Association and Home for Destitute Children",
+          "Brooklyn Industrial School Association and Home for Destitute Children"],
         "unitdate_normal_ssm":["1859/1910"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Industrial School Association and Home for Destitute Children",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, 1859-1910"],
         "language_ssm":["English"],
-        "_version_":1799312282633633792,
-        "timestamp":"2024-05-17T14:58:31.142Z"}]
+        "_version_":1801963120152805376,
+        "timestamp":"2024-06-15T21:12:26.801Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Industrial School Association and Home for Destitute Children",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

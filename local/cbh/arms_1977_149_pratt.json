@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sereno S. Pratt papers"],
         "unitid_ssm":["1977.149"],
         "abstract_ssm":["The papers date from 1883 to 1915 and include correspondence to Pratt relating to his career in the newspaper business and his position with the Chamber of Commerce, as well as lectures delivered by him. Also included in the collection are ephemera, including clippings of Pratt's obituary from newspapers all over the United States, and a memorial scrapbook compiled after his death that contains clippings, correspondence, photographs, and other ephemera."],
+        "creator_ssm":["Pratt, Sereno Stansbury",
+          "Pratt, Sereno Stansbury"],
         "unitdate_normal_ssm":["1883/1915",
           "1900/1915"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1915"],
         "unitdate_ssm":["Inclusive, 1883-1915 ; 1900-1915"],
         "language_ssm":["English"],
-        "_version_":1799312462607024128,
-        "timestamp":"2024-05-17T15:01:22.778Z"}]
+        "_version_":1801960806418481152,
+        "timestamp":"2024-06-15T20:35:40.252Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Pratt, Sereno Stansbury",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

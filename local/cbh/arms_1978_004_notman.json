@@ -47,6 +47,18 @@
         "unittitle_ssm":["John Notman papers"],
         "unitid_ssm":["1978.004"],
         "abstract_ssm":["John Notman was a lawyer who specialized in contracts of indemnity and negligence law.  He was later Commissioner of the State Board of Charities.  He lived with his wife and two daughters at at 149 Joralemon Street in the neighborhood of Brooklyn Heights.  The John Notman papers span the period 1849 to 1914 and consist of financial records, legal records, and correspondence covering the activities of the State Board of Charities, Notman's personal and business expenses, and the management of the estate of Notman's father, Peter, in which John and his brother, George Notman, were executors.  The collection also includes items relating to the merchant firm Howard, Sanger & Co., owned and operated by Samuel E. Howard and Henry Sanger."],
+        "creator_ssm":["Sanger, Henry",
+          "Howard, Sanger & Co. (New York, N.Y.)",
+          "Notman, John",
+          "Howard, Samuel",
+          "Notman, George",
+          "Notman, Peter",
+          "Howard, Sanger & Co. (New York, N.Y.)",
+          "Sanger, Henry",
+          "Notman, John",
+          "Howard, Samuel",
+          "Notman, George",
+          "Notman, Peter"],
         "unitdate_normal_ssm":["1849/1914"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Howard, Sanger & Co. (New York, N.Y.)",
@@ -92,8 +104,8 @@
         "unitdate_end_ssm":["1914"],
         "unitdate_ssm":["Inclusive, 1849-1914"],
         "language_ssm":["English"],
-        "_version_":1799256451046178816,
-        "timestamp":"2024-05-17T00:11:05.991Z"},
+        "_version_":1801962212221255680,
+        "timestamp":"2024-06-15T20:58:00.93Z"},
       {
         "id":"arms_1978_004_notmanaspace_ref10_qci",
         "ead_ssi":"arms_1978_004_notman",
@@ -111,8 +123,8 @@
         "unitdate_start_ssm":["1899"],
         "unitdate_end_ssm":["1907"],
         "unitdate_ssm":["Inclusive, 1899-1907"],
-        "_version_":1799256451062956032,
-        "timestamp":"2024-05-17T00:11:06.007Z"},
+        "_version_":1801962212243275776,
+        "timestamp":"2024-06-15T20:58:00.951Z"},
       {
         "id":"arms_1978_004_notmanaspace_ref11_eml",
         "ead_ssi":"arms_1978_004_notman",
@@ -130,8 +142,8 @@
         "unitdate_start_ssm":["1861"],
         "unitdate_end_ssm":["1894"],
         "unitdate_ssm":["Inclusive, 1861-1894"],
-        "_version_":1799256451090219008,
-        "timestamp":"2024-05-17T00:11:06.033Z"},
+        "_version_":1801962212296753152,
+        "timestamp":"2024-06-15T20:58:01.001Z"},
       {
         "id":"arms_1978_004_notmanaspace_ref12_eyb",
         "ead_ssi":"arms_1978_004_notman",
@@ -149,8 +161,8 @@
         "unitdate_start_ssm":["1849"],
         "unitdate_end_ssm":["1913"],
         "unitdate_ssm":["Inclusive, 1849-1913"],
-        "_version_":1799256451076587520,
-        "timestamp":"2024-05-17T00:11:06.02Z"}]
+        "_version_":1801962212273684480,
+        "timestamp":"2024-06-15T20:58:00.98Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -158,7 +170,13 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Howard, Samuel",1,
+        "Howard, Sanger & Co. (New York, N.Y.)",1,
+        "Notman, George",1,
+        "Notman, John",1,
+        "Notman, Peter",1,
+        "Sanger, Henry",1],
       "date_range_sim":[
         "1801-1900",4,
         "1901-2000",3],

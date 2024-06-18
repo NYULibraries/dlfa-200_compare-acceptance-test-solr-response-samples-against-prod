@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York University Archives Collection of the Vox Vet"],
         "unitid_ssm":["RG.39.192"],
         "abstract_ssm":["This collection contains issues from the student newspaper the Vox Vet dating from 1946 to 1948. This newspaper was published by the NYU branch of the Veterans Collegiate Association and documented issues that were relevant to students who were or had served in World War Two. This includes documenting student clubs, campus life, local and national news, and advice on matters such as health insurance. The collection is extensive but not comprehensive, there may be some issues that were published but are not included in this collection."],
+        "creator_ssm":["New York University",
+          "New York University"],
         "unitdate_normal_ssm":["1946/1948"],
         "corpname_ssm":["New York University Archives",
           "New York University",
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1946"],
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["Inclusive, 1946-1948"],
-        "_version_":1799255452484108288,
-        "timestamp":"2024-05-16T23:55:13.688Z"},
+        "_version_":1801953681467244544,
+        "timestamp":"2024-06-15T18:42:25.368Z"},
       {
         "id":"rg_39_192aspace_1886b804a121cf12d316b9e286ce3c32",
         "ead_ssi":"rg_39_192",
@@ -80,8 +82,8 @@
         "repository_ssm":["archives"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Print Copies"],
-        "_version_":1799255452498788352,
-        "timestamp":"2024-05-16T23:55:13.702Z"},
+        "_version_":1801953681481924608,
+        "timestamp":"2024-06-15T18:42:25.383Z"},
       {
         "id":"rg_39_192aspace_279fce21fcabadb0ca8218f120c5c8e2",
         "ead_ssi":"rg_39_192",
@@ -103,8 +105,8 @@
         "unitdate_start_ssm":["1946"],
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["Inclusive, September 24, 1946-May 12, 1947"],
-        "_version_":1799255452530245632,
-        "timestamp":"2024-05-16T23:55:13.732Z"},
+        "_version_":1801953681516527616,
+        "timestamp":"2024-06-15T18:42:25.416Z"},
       {
         "id":"rg_39_192aspace_56d93474be660bbd68f33a6d5fbd43e0",
         "ead_ssi":"rg_39_192",
@@ -126,8 +128,8 @@
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["Inclusive, September 29, 1947-April 28, 1948"],
-        "_version_":1799255452545974272,
-        "timestamp":"2024-05-16T23:55:13.747Z"},
+        "_version_":1801953681538547712,
+        "timestamp":"2024-06-15T18:42:25.437Z"},
       {
         "id":"rg_39_192aspace_cd11b1c61eb71af400ee4880d544f40a",
         "ead_ssi":"rg_39_192",
@@ -149,8 +151,8 @@
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["Inclusive, 1947-1948"],
-        "_version_":1799255452562751488,
-        "timestamp":"2024-05-16T23:55:13.763Z"},
+        "_version_":1801953681557422080,
+        "timestamp":"2024-06-15T18:42:25.455Z"},
       {
         "id":"rg_39_192aspace_d95de68a31bb5aafdd707a112167c91b",
         "ead_ssi":"rg_39_192",
@@ -172,8 +174,8 @@
         "unitdate_start_ssm":["1946"],
         "unitdate_end_ssm":["1946"],
         "unitdate_ssm":["January 6, 1946-August 14, 1946"],
-        "_version_":1799255452515565568,
-        "timestamp":"2024-05-16T23:55:13.718Z"}]
+        "_version_":1801953681499750400,
+        "timestamp":"2024-06-15T18:42:25.4Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -181,7 +183,8 @@
       "repository_sim":[
         "archives",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University",1],
       "date_range_sim":[
         "1901-2000",5,
         "undated & other",1],

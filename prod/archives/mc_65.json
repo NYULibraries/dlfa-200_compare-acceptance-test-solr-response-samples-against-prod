@@ -47,6 +47,8 @@
         "unittitle_ssm":["Carl Theodore Schwarze Radio Forum Collection"],
         "unitid_ssm":["MC.65"],
         "abstract_ssm":["Carl Theodore Schwarze was a Professor of Civil Engineering at New York University (NYU). Materials in this collection primarily include original and photocopied published transcripts of Professor Schwarze's interviews on WMCA New York's \"Mid-Week Forum Hour\" between 1936 and 1939."],
+        "creator_ssm":["Schwarze, Carl Theodore",
+          "Schwarze, Carl Theodore"],
         "unitdate_normal_ssm":["1937/1939",
           "1937/1938"],
         "corpname_ssm":["New York University Archives"],
@@ -63,8 +65,8 @@
         "unitdate_end_ssm":["1939",
           "1938"],
         "unitdate_ssm":["Inclusive, 1937-1939 ; 1937-1938"],
-        "_version_":1775226344750186496,
-        "timestamp":"2023-08-25T18:22:50.796Z"},
+        "_version_":1800524638627823616,
+        "timestamp":"2024-05-31T00:08:23.916Z"},
       {
         "id":"mc_65aspace_5d3800bcbd0274cae94cd98c87260b16",
         "ead_ssi":"mc_65",
@@ -78,14 +80,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 1, Folder: 4"],
         "heading_ssm":["Schwarze, Carl Theodore"],
         "unitdate_start_ssm":["1939"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["1939"],
-        "_version_":1775226344830926848,
-        "timestamp":"2023-08-25T18:22:50.873Z"},
+        "_version_":1800524638668718080,
+        "timestamp":"2024-05-31T00:08:23.955Z"},
       {
         "id":"mc_65aspace_9d3abbe6d07cf5bf85c03ecb8c246c2a",
         "ead_ssi":"mc_65",
@@ -99,14 +100,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-3",
-          "Folder: 1-3"],
+        "location_ssm":["Box: 1, Folder: 1-3"],
         "heading_ssm":["Schwarze, Carl Theodore: Radio Forum"],
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, 1936-1938"],
-        "_version_":1775226344791080960,
-        "timestamp":"2023-08-25T18:22:50.835Z"}]
+        "_version_":1800524638648795136,
+        "timestamp":"2024-05-31T00:08:23.936Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -114,7 +114,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Schwarze, Carl Theodore",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Ethical Association publications"],
         "unitid_ssm":["ARC.173"],
         "abstract_ssm":["The Brooklyn Ethical Association publications date from 1888 to 1896 and measure 0.42 linear feet. The collection contains season programs and bound volumes of lectures from the Association's programming. Season programs include the Brooklyn Ethical Association's constitution, officer lists, a brief introduction to the season's theme or topic, and a schedule of lectures for the season. Bound volumes contains the text of each lecture from the season accompanied by an abstract of the discussion that followed."],
+        "creator_ssm":["Brooklyn Ethical Association",
+          "Brooklyn Ethical Association"],
         "unitdate_normal_ssm":["1888/1896"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Ethical Association",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1896"],
         "unitdate_ssm":["Inclusive, 1888-1896"],
         "language_ssm":["English"],
-        "_version_":1799312301689405440,
-        "timestamp":"2024-05-17T14:58:49.314Z"}]
+        "_version_":1801959285599502336,
+        "timestamp":"2024-06-15T20:11:29.886Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Ethical Association",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

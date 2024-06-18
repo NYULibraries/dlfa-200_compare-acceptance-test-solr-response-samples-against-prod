@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Tilley family papers"],
         "unitid_ssm":["1986.057"],
         "abstract_ssm":["This collection contains the papers of the Tilley family of Oyster Bay, Long Island and Yonkers, N.Y. Materials in the collection include property records, wills, school diplomas, certificates, military commissions, Civil War letters, and photographs, all of which document the careers and lives of Tilley family members from multiple generations. The collection spans the period 1803 to 1976."],
+        "creator_ssm":["Tilley family",
+          "Tilley family"],
         "unitdate_normal_ssm":["1803/1976"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Tilley family",
@@ -88,8 +90,8 @@
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1803-1976"],
         "language_ssm":["English"],
-        "_version_":1799256293349785600,
-        "timestamp":"2024-05-17T00:08:35.6Z"}]
+        "_version_":1801963351662657536,
+        "timestamp":"2024-06-15T21:16:07.586Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,7 +99,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tilley family",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

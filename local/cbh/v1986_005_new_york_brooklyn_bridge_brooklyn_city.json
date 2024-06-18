@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>New York &amp; Brooklyn Bridge and Brooklyn City</em> viewbook"],
         "unitid_ssm":["V1986.005"],
         "abstract_ssm":["The album contains 35 black-and-white illustrations of Brooklyn scenes, located in Downtown Brooklyn, the Brooklyn Navy Yard (formally known as the New York Naval Shipyard), Brooklyn Heights, Williamsburg, and Prospect Park."],
+        "creator_ssm":["Wittemann Brothers",
+          "Wittemann Brothers"],
         "unitdate_normal_ssm":["1883/1883"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Wittemann Brothers",
@@ -71,8 +73,8 @@
         "unitdate_start_ssm":["1883"],
         "unitdate_end_ssm":["1883"],
         "unitdate_ssm":["Inclusive, 1883"],
-        "_version_":1799312398438367232,
-        "timestamp":"2024-05-17T15:00:21.582Z"}]
+        "_version_":1802045001156263936,
+        "timestamp":"2024-06-16T18:53:54.611Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wittemann Brothers",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Decree in the Matter of the final accounting of John D. Monell, assignee of Oscar Hoyt, an insolvent debtor"],
         "unitid_ssm":["AHMC - Monell, John D."],
         "abstract_ssm":["A certified copy with raised seal of the decree issued by Charles P. Daly, Chief Judge of the Court of Common Pleas for the City and County of New York, releasing and discharging John D. Monell as assignee of the estate of Oscar Hoyt. The decree also discharges William T. Russell and Eagan F. Smith as sureties on the bond given by Monell as assignee. The decree refers to a report submitted by a Referee, William L. Keiley, but that report is not included with the document. The estate was found to have no property or funds, but was in debt to the assignee in the sum of $299.95.\n\nFor more information and to request this item, see the catalog record, or write to manuscripts@nyhistory.org."],
+        "creator_ssm":["New York (State). Court of Common Pleas (City and County of New York)",
+          "New York (State). Court of Common Pleas (City and County of New York)"],
         "corpname_ssm":["New-York Historical Society",
           "New York (State). Court of Common Pleas (City and County of New York)"],
         "collection_ssm":["Decree in the Matter of the final accounting of John D. Monell, assignee of Oscar Hoyt, an insolvent debtor"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Decree in the Matter of the final accounting of John D. Monell, assignee of Oscar Hoyt, an insolvent debtor"],
         "unitdate_ssm":["Inclusive, 1885"],
         "language_ssm":["English"],
-        "_version_":1799324658512691200,
-        "timestamp":"2024-05-17T18:15:13.7Z"}]
+        "_version_":1802083660468322304,
+        "timestamp":"2024-06-17T05:08:23.004Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (State). Court of Common Pleas (City and County of New York)",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

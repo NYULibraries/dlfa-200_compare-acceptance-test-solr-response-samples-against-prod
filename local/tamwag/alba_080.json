@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":20,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Victor Berch Papers"],
         "unitid_ssm":["ALBA.080"],
+        "creator_ssm":["Berch, Victor A.",
+          "Berch, Victor A."],
         "unitdate_normal_ssm":["1970/2000"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Berch, Victor A."],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, circa 1970-2000"],
         "language_ssm":["English"],
-        "_version_":1799335389717069824,
-        "timestamp":"2024-05-17T21:05:47.774Z"}]
+        "_version_":1802110932038451200,
+        "timestamp":"2024-06-17T12:21:51.2Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Berch, Victor A.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

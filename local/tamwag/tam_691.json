@@ -47,6 +47,8 @@
         "unittitle_ssm":["David Havens Photographs on the Cuban Revolution"],
         "unitid_ssm":["TAM.691"],
         "abstract_ssm":["David Havens is a former minister who captured documentary photographs of the Cuban Revolution in 1959. The collection contains 51 black-and-white photographs Havens took during the Cuban Revolution. The photos in the collection were taken during the first week of the revolution between January 4 and Fidel Castro's arrival in Havana on January 8. Photographs include images of pro-Castro demonstrations, revolutionary soldiers entering the city of Havana, and Cuban architecture."],
+        "creator_ssm":["Havens, David N.",
+          "Havens, David N."],
         "unitdate_normal_ssm":["1959-01-04/1959-01-08"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Black-and-white photographs."],
@@ -64,8 +66,8 @@
         "material_type_ssm":["Black-and-white photographs."],
         "heading_ssm":["David Havens Photographs on the Cuban Revolution"],
         "unitdate_ssm":["Inclusive, 1959-01-04-1959-01-08"],
-        "_version_":1799333985285832704,
-        "timestamp":"2024-05-17T20:43:28.403Z"}]
+        "_version_":1802184028749561856,
+        "timestamp":"2024-06-18T07:43:41.656Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Havens, David N.",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Henricus Selyns pastorate records"],
         "unitid_ssm":["1973.169"],
         "abstract_ssm":["The Henricus Selyns pastorate records span the period 1638 to 1696, and are housed in a single bound volume. The volume does not contain Selyns' original records, but rather handwritten English language transcriptions of the records, likely transcribed in the 19th century."],
+        "creator_ssm":["Selyns, Henricus",
+          "Selyns, Henricus"],
         "unitdate_normal_ssm":["1638/1696"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Old First Reformed Church (Brooklyn, New York, N.Y.)"],
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1696"],
         "unitdate_ssm":["Inclusive, 1638-1696"],
         "language_ssm":["English"],
-        "_version_":1775226462275633152,
-        "timestamp":"2023-08-25T18:24:42.877Z"}]
+        "_version_":1800651727066628096,
+        "timestamp":"2024-06-01T09:48:24.896Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Selyns, Henricus",1],
       "date_range_sim":[
         "1601-1700",1],
       "subject_sim":[

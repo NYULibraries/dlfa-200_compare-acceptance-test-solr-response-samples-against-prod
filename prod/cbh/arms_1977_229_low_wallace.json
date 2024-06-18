@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Low and Wallace bills of lading"],
         "unitid_ssm":["1977.229"],
         "abstract_ssm":["This collection consists of two bills of lading for goods shipped to and from the New York City mercantile firm of Low and Wallace."],
+        "creator_ssm":["Snellen & Book (Amsterdam, Netherlands)",
+          "Low & Wallace (New York, N.Y.)",
+          "Snellen & Book (Amsterdam, Netherlands)",
+          "Low & Wallace (New York, N.Y.)"],
         "unitdate_normal_ssm":["1805/1805"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Snellen & Book (Amsterdam, Netherlands)",
@@ -73,8 +77,8 @@
         "unitdate_end_ssm":["1805"],
         "unitdate_ssm":["Inclusive, 1805"],
         "language_ssm":["English"],
-        "_version_":1775225751530897408,
-        "timestamp":"2023-08-25T18:13:25.057Z"}]
+        "_version_":1800695766514139136,
+        "timestamp":"2024-06-01T21:28:24.186Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +86,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Low & Wallace (New York, N.Y.)",1,
+        "Snellen & Book (Amsterdam, Netherlands)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Jay Pierrepont photograph collection"],
         "unitid_ssm":["ARC.197"],
         "abstract_ssm":["The John Jay Pierrepont photograph collection, spanning the dates 1876 to 1923 (bulk dates 1910 to 1923), measures 1.92 linear feet and is housed in three lantern slide boxes and one manuscript box. The collection consists of 177 black-and-white lantern slides and glass positive photographs, one photograph album, and 166 black-and-white photographic prints. The majority of the items in the collection were created by John Jay Pierrepont, an amateur photographer."],
+        "creator_ssm":["Pierrepont, John Jay",
+          "Pierrepont, John Jay"],
         "unitdate_normal_ssm":["1876/1923",
           "1910/1923"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -87,8 +89,8 @@
         "unitdate_end_ssm":["1923"],
         "unitdate_ssm":["Inclusive, 1876-1923 ; 1910-1923"],
         "language_ssm":["English"],
-        "_version_":1799311706275446784,
-        "timestamp":"2024-05-17T14:49:21.484Z"},
+        "_version_":1801959361641185280,
+        "timestamp":"2024-06-15T20:12:42.405Z"},
       {
         "id":"arc_197_pierrepont_photographsaspace_ref11_ytl",
         "ead_ssi":"arc_197_pierrepont_photographs",
@@ -107,8 +109,8 @@
         "unitdate_start_ssm":["1876"],
         "unitdate_end_ssm":["1923"],
         "unitdate_ssm":["Inclusive, 1876-1923"],
-        "_version_":1799311706292224000,
-        "timestamp":"2024-05-17T14:49:21.5Z"},
+        "_version_":1801959361663205376,
+        "timestamp":"2024-06-15T20:12:42.426Z"},
       {
         "id":"arc_197_pierrepont_photographsaspace_ref13_wxy",
         "ead_ssi":"arc_197_pierrepont_photographs",
@@ -127,8 +129,8 @@
         "unitdate_start_ssm":["1913"],
         "unitdate_end_ssm":["1923"],
         "unitdate_ssm":["Inclusive, 1913-1923"],
-        "_version_":1799311706305855488,
-        "timestamp":"2024-05-17T14:49:21.513Z"},
+        "_version_":1801959361678934016,
+        "timestamp":"2024-06-15T20:12:42.441Z"},
       {
         "id":"arc_197_pierrepont_photographsaspace_ref15_jam",
         "ead_ssi":"arc_197_pierrepont_photographs",
@@ -147,8 +149,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, 1910"],
-        "_version_":1799311706319486976,
-        "timestamp":"2024-05-17T14:49:21.526Z"}]
+        "_version_":1801959361699905536,
+        "timestamp":"2024-06-15T20:12:42.461Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -156,7 +158,8 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Pierrepont, John Jay",1],
       "date_range_sim":[
         "1801-1900",2,
         "1901-2000",4],

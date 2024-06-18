@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["H. Joseph Murray family papers"],
         "unitid_ssm":["1977.391"],
         "abstract_ssm":["This collection consists of various items pertaining to the H. Joseph Murray family of Brooklyn, N.Y. during the period 1833 to 1863."],
+        "creator_ssm":["Murray family",
+          "Murray, H. Joseph",
+          "Murray, H. Joseph, Jr.",
+          "Murray family",
+          "Murray, H. Joseph",
+          "Murray, H. Joseph, Jr."],
         "unitdate_normal_ssm":["1833/1863"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Army. New York Infantry Regiment, 71st (1861-1864)"],
@@ -77,8 +83,8 @@
         "unitdate_end_ssm":["1863"],
         "unitdate_ssm":["Inclusive, 1833-1863"],
         "language_ssm":["English"],
-        "_version_":1799312230405111808,
-        "timestamp":"2024-05-17T14:57:41.333Z"}]
+        "_version_":1801961527535730688,
+        "timestamp":"2024-06-15T20:47:07.963Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +92,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Murray family",1,
+        "Murray, H. Joseph",1,
+        "Murray, H. Joseph, Jr.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Lester W. Clark Kings County Supreme Court case notes"],
         "unitid_ssm":["1973.303"],
         "abstract_ssm":["Court case notes of the Honorable Lester W. Clark (1854-1922), Justice of the Kings County Supreme Court. The notes are handwritten, housed in a single hardbound volume, and span the period 1924 to 1925."],
+        "creator_ssm":["Kings County (N.Y.). Supreme Court",
+          "Clark, Lester Williams",
+          "Kings County (N.Y.). Supreme Court",
+          "Clark, Lester Williams"],
         "unitdate_normal_ssm":["1924/1925"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Kings County (N.Y.). Supreme Court",
@@ -69,8 +73,8 @@
         "unitdate_end_ssm":["1925"],
         "unitdate_ssm":["Inclusive, 1924-1925"],
         "language_ssm":["English"],
-        "_version_":1799256293300502528,
-        "timestamp":"2024-05-17T00:08:35.553Z"}]
+        "_version_":1801960217484722176,
+        "timestamp":"2024-06-15T20:26:18.601Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +82,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Clark, Lester Williams",1,
+        "Kings County (N.Y.). Supreme Court",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

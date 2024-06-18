@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Old Crowd of Brooklyn Public School No. 3 reunion collection"],
         "unitid_ssm":["1978.118"],
         "abstract_ssm":["One scrapbook, one logbook, and loose correspondence and clippings relating to reunions and activities of the \"Old Crowd,\" an alumni organization of Public School No. 3 in Brooklyn."],
+        "creator_ssm":["Old Crowd of Public School No. 3",
+          "Old Crowd of Public School No. 3"],
         "unitdate_normal_ssm":["1892/1946"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Old Crowd of Public School No. 3"],
@@ -80,8 +82,8 @@
         "unitdate_end_ssm":["1946"],
         "unitdate_ssm":["Inclusive, 1892-1946"],
         "language_ssm":["English"],
-        "_version_":1799312249236488192,
-        "timestamp":"2024-05-17T14:57:59.292Z"}]
+        "_version_":1801962491655225344,
+        "timestamp":"2024-06-15T21:02:27.418Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Old Crowd of Public School No. 3",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

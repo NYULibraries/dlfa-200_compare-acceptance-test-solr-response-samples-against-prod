@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sophie M. Gerson Papers"],
         "unitid_ssm":["TAM.401"],
         "abstract_ssm":["Sophie Melvin Gerson (1910-1996) was a Communist labor activist who participated in the Gastonia, North Carolina Textile Strike of 1929, and in other labor organizing activities throughout the Mid-Atlantic states in the early 1930s.The collection contains letters from Sophie Gerson dated 1929-1931 to her husband Simon W. (Si) Gerson, who for many years ran the election campaigns of the Communist Party USA. The letters are written from various cities where Sophie Gerson was involved in labor organizing, mostly in the Mid-Atlantic states, but also including a few letters from Gastonia. In addition to discussing her organizing activities, affection for Si Gerson and Communist Party politics, there is also discussion of the problems of taking care of her son William, while being an organizer away from home. There is also one file from 1953 on the unsuccessful effort of the U.S. government to revoke her naturalization papers, and two photographs of Sophie Gerson."],
+        "creator_ssm":["Gerson, Sophie",
+          "Gerson, Sophie"],
         "unitdate_normal_ssm":["1929/2009"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Gerson, Sophie",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1929-2009"],
-        "_version_":1799782884336205824,
-        "timestamp":"2024-05-22T19:38:31.899Z"},
+        "_version_":1802176949270872064,
+        "timestamp":"2024-06-18T05:51:10.139Z"},
       {
         "id":"tam_401aspace_ref7",
         "ead_ssi":"tam_401",
@@ -83,14 +85,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-15",
-          "Folder: 1-15"],
+        "location_ssm":["Box: 1, Folder: 1-15"],
         "heading_ssm":["Sophie M. Gerson Papers"],
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1929-2009"],
-        "_version_":1799782884350885888,
-        "timestamp":"2024-05-22T19:38:31.913Z"}]
+        "_version_":1802176949282406400,
+        "timestamp":"2024-06-18T05:51:10.15Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -98,7 +99,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gerson, Sophie",1],
       "date_range_sim":[
         "1901-2000",2,
         "2001-2100",2],

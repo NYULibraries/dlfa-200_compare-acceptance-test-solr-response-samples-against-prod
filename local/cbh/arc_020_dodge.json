@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Henry W. Dodge journals"],
         "unitid_ssm":["ARC.020"],
         "abstract_ssm":["The Henry W. Dodge journals consist of three hardbound volumes, all handwritten by Henry W. Dodge, and all created for the purpose of recording the events of Dodge's experiences on seafaring expeditions."],
+        "creator_ssm":["Dodge, Henry W.",
+          "Dodge, Henry W."],
         "unitdate_normal_ssm":["1860/1873"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Naval Shipyard",
@@ -83,8 +85,8 @@
         "unitdate_end_ssm":["1873"],
         "unitdate_ssm":["Inclusive, 1860-1873"],
         "language_ssm":["English"],
-        "_version_":1799256200631549952,
-        "timestamp":"2024-05-17T00:07:07.177Z"}]
+        "_version_":1801958686513430528,
+        "timestamp":"2024-06-15T20:01:58.553Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +94,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dodge, Henry W.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

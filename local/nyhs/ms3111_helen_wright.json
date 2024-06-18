@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Helen Martha Wright papers"],
         "unitid_ssm":["MS 3111"],
         "abstract_ssm":["This collection consists mainly of Wright's genealogical research notes organized by subject, as well as some of her personal papers including photographs and correspondence. Of special interest are Civil War era diaries and correspondence in the Connett Family files."],
+        "creator_ssm":["Wright, Helen Martha",
+          "Wright, Helen Martha"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Cartes-de-visite (card photographs)",
           "Correspondence.",
@@ -72,8 +74,8 @@
           "Research notes."],
         "heading_ssm":["Helen Martha Wright papers"],
         "unitdate_ssm":["Inclusive, 1774-1969"],
-        "_version_":1799331561427959808,
-        "timestamp":"2024-05-17T20:04:56.833Z"},
+        "_version_":1802085381691146240,
+        "timestamp":"2024-06-17T05:35:44.49Z"},
       {
         "id":"ms3111_helen_wrightaspace_0287b990fc091211d398c507795329d4",
         "ead_ssi":"ms3111_helen_wright",
@@ -89,8 +91,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Helen Martha Wright personal papers"],
         "unitdate_ssm":["Inclusive, 1930-1969"],
-        "_version_":1799331561465708544,
-        "timestamp":"2024-05-17T20:04:56.869Z"},
+        "_version_":1802085381736235008,
+        "timestamp":"2024-06-17T05:35:44.533Z"},
       {
         "id":"ms3111_helen_wrightaspace_1259fe51d8d9556a9aba1740e06d254a",
         "ead_ssi":"ms3111_helen_wright",
@@ -106,8 +108,8 @@
         "location_ssm":["Offsite-Box: 5"],
         "heading_ssm":["Connett family research"],
         "unitdate_ssm":["Inclusive, 1965-1968"],
-        "_version_":1799331561535963136,
-        "timestamp":"2024-05-17T20:04:56.935Z"},
+        "_version_":1802085381812781056,
+        "timestamp":"2024-06-17T05:35:44.606Z"},
       {
         "id":"ms3111_helen_wrightaspace_1fa232d7b497cca7777b0ce97a10b0ab",
         "ead_ssi":"ms3111_helen_wright",
@@ -123,8 +125,8 @@
         "location_ssm":["Offsite-Box: 8"],
         "heading_ssm":["Fairchild family research"],
         "unitdate_ssm":["Inclusive, 1935-1968"],
-        "_version_":1799331561629286400,
-        "timestamp":"2024-05-17T20:04:57.025Z"},
+        "_version_":1802085381913444352,
+        "timestamp":"2024-06-17T05:35:44.702Z"},
       {
         "id":"ms3111_helen_wrightaspace_52ebfe1a05856594f8e1fb5d8fb60f7c",
         "ead_ssi":"ms3111_helen_wright",
@@ -140,8 +142,8 @@
         "location_ssm":["Offsite-Box: 9"],
         "heading_ssm":["Doty family research"],
         "unitdate_ssm":["Inclusive, 1935-1968"],
-        "_version_":1799331561611460608,
-        "timestamp":"2024-05-17T20:04:57.008Z"},
+        "_version_":1802085381894569984,
+        "timestamp":"2024-06-17T05:35:44.684Z"},
       {
         "id":"ms3111_helen_wrightaspace_5f4f25a5b5f798eac5608f636d199d18",
         "ead_ssi":"ms3111_helen_wright",
@@ -157,8 +159,8 @@
         "location_ssm":["Offsite-Box: 4"],
         "heading_ssm":["Connett family papers"],
         "unitdate_ssm":["Inclusive, 1800-1952"],
-        "_version_":1799331561520234496,
-        "timestamp":"2024-05-17T20:04:56.921Z"},
+        "_version_":1802085381793906688,
+        "timestamp":"2024-06-17T05:35:44.588Z"},
       {
         "id":"ms3111_helen_wrightaspace_6183a5cf8e941c9ea04b28b600481efd",
         "ead_ssi":"ms3111_helen_wright",
@@ -174,8 +176,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Helen Martha Wright personal papers"],
         "unitdate_ssm":["Inclusive, 1930-1969"],
-        "_version_":1799331561445785600,
-        "timestamp":"2024-05-17T20:04:56.85Z"},
+        "_version_":1802085381720506368,
+        "timestamp":"2024-06-17T05:35:44.518Z"},
       {
         "id":"ms3111_helen_wrightaspace_74378fc4203369eab96c26d5ac15723e",
         "ead_ssi":"ms3111_helen_wright",
@@ -191,8 +193,8 @@
         "location_ssm":["Offsite-Box: 8"],
         "heading_ssm":["Dean family research"],
         "unitdate_ssm":["Inclusive, 1930-1969"],
-        "_version_":1799331561597829120,
-        "timestamp":"2024-05-17T20:04:56.995Z"},
+        "_version_":1802085381878841344,
+        "timestamp":"2024-06-17T05:35:44.669Z"},
       {
         "id":"ms3111_helen_wrightaspace_74ccbdd134855b8c216e015eb1811664",
         "ead_ssi":"ms3111_helen_wright",
@@ -208,8 +210,8 @@
         "location_ssm":["Offsite-Box: 7"],
         "heading_ssm":["Haupt family research"],
         "unitdate_ssm":["Inclusive, 1935-1969"],
-        "_version_":1799331561642917888,
-        "timestamp":"2024-05-17T20:04:57.038Z"},
+        "_version_":1802085381934415872,
+        "timestamp":"2024-06-17T05:35:44.722Z"},
       {
         "id":"ms3111_helen_wrightaspace_947adedf3adee6e29ff3f8e268c868b3",
         "ead_ssi":"ms3111_helen_wright",
@@ -225,8 +227,8 @@
         "location_ssm":["Offsite-Box: 7"],
         "heading_ssm":["De Haven family research"],
         "unitdate_ssm":["Inclusive, 1935-1969"],
-        "_version_":1799331561565323264,
-        "timestamp":"2024-05-17T20:04:56.964Z"},
+        "_version_":1802085381847384064,
+        "timestamp":"2024-06-17T05:35:44.639Z"},
       {
         "id":"ms3111_helen_wrightaspace_bb5031effd84d59148281987027b921b",
         "ead_ssi":"ms3111_helen_wright",
@@ -242,8 +244,8 @@
         "location_ssm":["Offsite-Box: 11"],
         "heading_ssm":["Helen Martha Wright books"],
         "unitdate_ssm":["Inclusive, 1810-1920"],
-        "_version_":1799331561484582912,
-        "timestamp":"2024-05-17T20:04:56.887Z"},
+        "_version_":1802085381754060800,
+        "timestamp":"2024-06-17T05:35:44.549Z"},
       {
         "id":"ms3111_helen_wrightaspace_be6b36648b8a9ef15bcb42ca482a9af4",
         "ead_ssi":"ms3111_helen_wright",
@@ -259,8 +261,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Connett family papers"],
         "unitdate_ssm":["Inclusive, 1800-1952"],
-        "_version_":1799331561503457280,
-        "timestamp":"2024-05-17T20:04:56.905Z"},
+        "_version_":1802085381779226624,
+        "timestamp":"2024-06-17T05:35:44.574Z"},
       {
         "id":"ms3111_helen_wrightaspace_bebd224579457a7b229a05c282dfbd14",
         "ead_ssi":"ms3111_helen_wright",
@@ -276,8 +278,8 @@
         "location_ssm":["case: OS Medium"],
         "heading_ssm":["Indentures"],
         "unitdate_ssm":["Inclusive, 1774-1846"],
-        "_version_":1799331561656549376,
-        "timestamp":"2024-05-17T20:04:57.051Z"},
+        "_version_":1802085381952241664,
+        "timestamp":"2024-06-17T05:35:44.739Z"},
       {
         "id":"ms3111_helen_wrightaspace_d5bec593761f31e8f426ec24b37e1b50",
         "ead_ssi":"ms3111_helen_wright",
@@ -293,8 +295,8 @@
         "location_ssm":["Offsite-Box: 10"],
         "heading_ssm":["De Haven family scrapbook"],
         "unitdate_ssm":["Inclusive, 1930-1968"],
-        "_version_":1799331561584197632,
-        "timestamp":"2024-05-17T20:04:56.982Z"},
+        "_version_":1802085381865209856,
+        "timestamp":"2024-06-17T05:35:44.656Z"},
       {
         "id":"ms3111_helen_wrightaspace_ead864e2f9f6f6941bd13eb42921a9a5",
         "ead_ssi":"ms3111_helen_wright",
@@ -310,8 +312,8 @@
         "location_ssm":["Offsite-Box: 6"],
         "heading_ssm":["De Haven family research"],
         "unitdate_ssm":["Inclusive, 1930-1968"],
-        "_version_":1799331561550643200,
-        "timestamp":"2024-05-17T20:04:56.95Z"}]
+        "_version_":1802085381829558272,
+        "timestamp":"2024-06-17T05:35:44.622Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -319,7 +321,8 @@
       "repository_sim":[
         "nyhs",15],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wright, Helen Martha",1],
       "date_range_sim":[
         "undated & other",15],
       "subject_sim":[

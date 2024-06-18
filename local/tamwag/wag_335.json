@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lewis Friedman Collection on the United Federation of Teachers"],
         "unitid_ssm":["WAG.335"],
         "abstract_ssm":["This collection consists of United Federation of Teachers (UFT) newsletters compiled by Lewis Friedman as well as several folders related to UFT leader Steve Zeluck. Lewis (a.k.a. Lew) Friedman was a United Federation of Teachers Caucus delegate and a member of the UFT board. He worked closely with fellow union member Steve Zeluck, organizing for the UFT and other anit-war and teachers' movements. Newsletters in this collection include issues of Another View (UFT-District 14, 1971-1974), UFT Delegate News (1989-1994), School Voices (1991, 1996) Chalk Dust, (UFT, 1981-1983) and a variety of other newsletters produced in the 1970s and 1980s. Materials related to Steve Zeluck include an assortment of newsletters, memoranda, flyers, and a folder of clippings and programs regarding Zeluck's memorial in 1985."],
+        "creator_ssm":["Friedman, Lewis",
+          "Friedman, Lewis"],
         "unitdate_normal_ssm":["1969/1996"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United Federation of Teachers"],
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, 1969-1996"],
-        "_version_":1799805116632530944,
-        "timestamp":"2024-05-23T01:31:54.269Z"}]
+        "_version_":1802197250979397632,
+        "timestamp":"2024-06-18T11:13:51.356Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Friedman, Lewis",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

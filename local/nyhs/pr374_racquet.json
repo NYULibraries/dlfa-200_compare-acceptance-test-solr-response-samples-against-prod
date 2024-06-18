@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Philip Howard photographs of the Racquet and Tennis Club"],
         "unitid_ssm":["PR 374"],
         "abstract_ssm":["A portfolio of twenty-seven 16 x 20-inch archivally printed photographs by Philip Howard of the exterior and interiors of the Racquet and Tennis Club at 370 Park Avenue, a McKim, Mead & White-designed building completed in 1918. Also includes a book containing the same photographs and 14 additional views."],
+        "creator_ssm":["Howard, Philip K.",
+          "Howard, Philip K."],
         "corpname_ssm":["New-York Historical Society",
           "Racquet and Tennis Club (New York, N.Y.)",
           "McKim, Mead & White"],
@@ -63,8 +65,8 @@
         "heading_ssm":["Philip Howard photographs of the Racquet and Tennis Club"],
         "unitdate_ssm":["Inclusive, 2018"],
         "language_ssm":["English"],
-        "_version_":1799323209707814912,
-        "timestamp":"2024-05-17T17:52:12.012Z"},
+        "_version_":1802094452646346752,
+        "timestamp":"2024-06-17T07:59:55.227Z"},
       {
         "id":"pr374_racquetaspace_2638aa3bdf9b0521a4d0aa28fd777014",
         "ead_ssi":"pr374_racquet",
@@ -77,12 +79,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1 (of 1), Volume: 1",
-          "Volume: 1"],
+        "location_ssm":["Box: 1 (of 1), Volume: 1"],
         "heading_ssm":["Book | Racquet and Tennis Club, 1918-2018"],
         "unitdate_ssm":["Inclusive, 2018"],
-        "_version_":1799323209727737856,
-        "timestamp":"2024-05-17T17:52:12.031Z"},
+        "_version_":1802094452672561152,
+        "timestamp":"2024-06-17T07:59:55.252Z"},
       {
         "id":"pr374_racquetaspace_c7c5a1bf0b5c9f002e842eda18c3afb6",
         "ead_ssi":"pr374_racquet",
@@ -95,12 +96,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1 (of 1), Volume: 2",
-          "Volume: 2"],
+        "location_ssm":["Box: 1 (of 1), Volume: 2"],
         "heading_ssm":["Portfolio | Archival prints"],
         "unitdate_ssm":["Inclusive, 2018"],
-        "_version_":1799323209749757952,
-        "timestamp":"2024-05-17T17:52:12.052Z"}]
+        "_version_":1802094452691435520,
+        "timestamp":"2024-06-17T07:59:55.27Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -108,7 +108,8 @@
       "repository_sim":[
         "nyhs",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Howard, Philip K.",1],
       "date_range_sim":[
         "undated & other",3],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Glimpses of Brooklyn viewbooks"],
         "unitid_ssm":["ARC.227"],
         "abstract_ssm":["The Glimpses of Brooklyn viewbooks are comprised of 25 black-and-white non-photographic prints of photographs depicting views of Brooklyn, circa 1890. The viewbooks were published by the Mercantile Illustrating Company in 1894."],
+        "creator_ssm":["Mercantile Illustrating Company (New York, N.Y.)",
+          "Mercantile Illustrating Company (New York, N.Y.)"],
         "unitdate_normal_ssm":["1894/1894"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Mercantile Illustrating Company (New York, N.Y.)",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1894"],
         "unitdate_ssm":["Inclusive, 1894"],
         "language_ssm":["English"],
-        "_version_":1799311677506715648,
-        "timestamp":"2024-05-17T14:48:54.047Z"}]
+        "_version_":1801959475626639360,
+        "timestamp":"2024-06-15T20:14:31.109Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Mercantile Illustrating Company (New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

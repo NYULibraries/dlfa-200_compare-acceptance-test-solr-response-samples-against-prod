@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Kings County Commissioner of Deeds affidavits regarding the opening of Willoughby Avenue"],
         "unitid_ssm":["1977.530"],
         "abstract_ssm":["This collection contains affidavits to the Kings County Commissioner of Deeds from Isaac Van Aden of the Brooklyn Daily Eagle and the Kings County Democrat, Charles N. Peed of the Brooklyn Daily Advertiser, and Edwin Spooner of the Brooklyn Daily Evening Star stating that a corporation notice for the opening of Willoughby Avenue appeared in their papers."],
+        "creator_ssm":["Kings County (N.Y.). Commissioner of Deeds",
+          "Kings County (N.Y.). Commissioner of Deeds"],
         "unitdate_normal_ssm":["1850/1850"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Kings County (N.Y.). Commissioner of Deeds",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1850"],
         "unitdate_ssm":["1850"],
         "language_ssm":["English"],
-        "_version_":1799311437131153408,
-        "timestamp":"2024-05-17T14:45:04.808Z"}]
+        "_version_":1801961890052571136,
+        "timestamp":"2024-06-15T20:52:53.686Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kings County (N.Y.). Commissioner of Deeds",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

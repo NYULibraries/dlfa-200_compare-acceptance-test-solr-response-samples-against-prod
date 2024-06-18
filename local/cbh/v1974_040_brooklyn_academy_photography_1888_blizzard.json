@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Academy of Photography Blizzard of 1888 photograph album"],
         "unitid_ssm":["V1974.040"],
         "abstract_ssm":["The album documents the effects of the blizzard in Brooklyn and Manhattan, showing street scenes, snow removal efforts, and different modes of transit hampered by the snowfall."],
+        "creator_ssm":["Brooklyn Academy of Photography",
+          "Brooklyn Academy of Photography"],
         "unitdate_normal_ssm":["1888/1888"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Academy of Photography"],
@@ -82,8 +84,8 @@
         "unitdate_end_ssm":["1888"],
         "unitdate_ssm":["Inclusive, 1888"],
         "language_ssm":["English"],
-        "_version_":1799256286740611072,
-        "timestamp":"2024-05-17T00:08:29.297Z"}]
+        "_version_":1802044850142445568,
+        "timestamp":"2024-06-16T18:51:30.593Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Academy of Photography",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

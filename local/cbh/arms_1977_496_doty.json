@@ -47,6 +47,12 @@
         "unittitle_ssm":["Vincent Tilyou, Mary Tilyou, and Richard Doty deed"],
         "unitid_ssm":["1977.496"],
         "abstract_ssm":["An 1814 deed for property in New York City owned by the deceased Vincent Tilyou and his widow Mary Tilyou and sold to Richard Doty."],
+        "creator_ssm":["Doty, Richard",
+          "Tilyou, Mary",
+          "Tilyou, Vincent",
+          "Doty, Richard",
+          "Tilyou, Mary",
+          "Tilyou, Vincent"],
         "unitdate_normal_ssm":["1814/1814"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["New York (N.Y.)"],
@@ -70,8 +76,8 @@
         "unitdate_end_ssm":["1814"],
         "unitdate_ssm":["1814"],
         "language_ssm":["English"],
-        "_version_":1799311502822342656,
-        "timestamp":"2024-05-17T14:46:07.456Z"}]
+        "_version_":1801961798704824320,
+        "timestamp":"2024-06-15T20:51:26.57Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +85,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Doty, Richard",1,
+        "Tilyou, Mary",1,
+        "Tilyou, Vincent",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

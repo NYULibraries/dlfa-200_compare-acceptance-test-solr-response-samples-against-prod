@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["American Veterans Committee: FOIA Files"],
         "unitid_ssm":["TAM.213"],
+        "creator_ssm":["United States. Air Force. Office of Special Investigations",
+          "United States. Air Force. Office of Special Investigations"],
         "unitdate_normal_ssm":["1990/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United States. Air Force. Office of Special Investigations",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, Circa 1990s"],
         "language_ssm":["English"],
-        "_version_":1799782333148037120,
-        "timestamp":"2024-05-22T19:29:46.245Z"}]
+        "_version_":1802171165673783296,
+        "timestamp":"2024-06-18T04:19:14.471Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. Air Force. Office of Special Investigations",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Earl Williamson Photographic Slides on Moscow and China"],
         "unitid_ssm":["TAM.768"],
         "abstract_ssm":["The collection consists of photographic slides taken in 1957 by Earl Williamson during the 6th World Festival of Youth and Students for Peace and Friendship and in the subsequent American Youth Delegation to China that same year. The images from the USSR portray Moscow during the festival and young Communist delegates from around the world, while the images from China portray the cities and countryside of the newly Communist nation in its nascent stages of development. These photographs reflect the efforts of American citizens to independently document the political and cultural world of Communist nations during the Cold War."],
+        "creator_ssm":["Williamson, Earl",
+          "Williamson, Earl"],
         "unitdate_normal_ssm":["1957/1957"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "World Festival of Youth and Students for Peace and Friendship"],
@@ -75,8 +77,8 @@
         "unitdate_start_ssm":["1957"],
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["1957"],
-        "_version_":1799792353063469056,
-        "timestamp":"2024-05-22T22:09:01.981Z"},
+        "_version_":1802184662203760640,
+        "timestamp":"2024-06-18T07:53:45.765Z"},
       {
         "id":"tam_768aspace_06fa3c28470c96c27b33a95154747221",
         "ead_ssi":"tam_768",
@@ -90,14 +92,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-2",
-          "Folder: 1-2"],
+        "location_ssm":["Box: 1, Folder: 1-2"],
         "heading_ssm":["U.S.S.R."],
         "unitdate_start_ssm":["1957"],
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["1957"],
-        "_version_":1799792353078149120,
-        "timestamp":"2024-05-22T22:09:01.995Z"},
+        "_version_":1802184662212149248,
+        "timestamp":"2024-06-18T07:53:45.773Z"},
       {
         "id":"tam_768aspace_b3e6121600bc2fe4969d4d33072a6b27",
         "ead_ssi":"tam_768",
@@ -111,14 +112,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3-7",
-          "Folder: 3-7"],
+        "location_ssm":["Box: 1, Folder: 3-7"],
         "heading_ssm":["China"],
         "unitdate_start_ssm":["1957"],
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["1957"],
-        "_version_":1799792353090732032,
-        "timestamp":"2024-05-22T22:09:02.006Z"}]
+        "_version_":1802184662219489280,
+        "timestamp":"2024-06-18T07:53:45.78Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -126,7 +126,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Williamson, Earl",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

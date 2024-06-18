@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Cavalry Club of Brooklyn, Squadron C photograph collection"],
         "unitid_ssm":["V1982.004"],
         "abstract_ssm":["Photographs relate to the Cavalry Club of Brooklyn, Squadron C (formally known as the 101st Cavalry Regiment) including group portraits, company photographs, and annual dinners."],
+        "creator_ssm":["United States. Army. Cavalry Regiment, 101st",
+          "United States. Army. Cavalry Regiment, 101st"],
         "unitdate_normal_ssm":["1890/1965"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Army. Cavalry Regiment, 101st"],
@@ -63,8 +65,8 @@
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, circa 1890 to 1955"],
         "language_ssm":["English"],
-        "_version_":1775223975345913856,
-        "timestamp":"2023-08-25T17:45:11.156Z"}]
+        "_version_":1800842044010135552,
+        "timestamp":"2024-06-03T12:13:25.277Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -72,7 +74,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. Army. Cavalry Regiment, 101st",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

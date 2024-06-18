@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ralph Irving Lloyd lantern slides"],
         "unitid_ssm":["V1981.015"],
         "abstract_ssm":["The collection consists of (roughly) 400 black-and-white lantern slides, created by Lloyd, that depict 17th, 18th, and 19th century historic houses, homesteads, churches, storefronts, cemeteries and sepulchral monuments (gravestones), and schools in Brooklyn, Queens, and Manhattan; and 19th and early 20th century street scenes of Brooklyn."],
+        "creator_ssm":["Lloyd, Ralph Irving",
+          "Lloyd, Ralph Irving"],
         "unitdate_normal_ssm":["1880/1930"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Exterior views",
@@ -98,8 +100,8 @@
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["Inclusive, circa 1890 to 1920"],
         "language_ssm":["English"],
-        "_version_":1799311495027228672,
-        "timestamp":"2024-05-17T14:46:00.022Z"},
+        "_version_":1802044904779546624,
+        "timestamp":"2024-06-16T18:52:22.698Z"},
       {
         "id":"v1981_015_lloydaspace_ref12_y67",
         "ead_ssi":"v1981_015_lloyd",
@@ -115,8 +117,8 @@
         "heading_ssm":["Series 1: Lantern slides of Brooklyn"],
         "unitdate_ssm":["circa 1890 to circa 1920"],
         "language_ssm":["English"],
-        "_version_":1799311495046103040,
-        "timestamp":"2024-05-17T14:46:00.04Z"},
+        "_version_":1802044904797372416,
+        "timestamp":"2024-06-16T18:52:22.716Z"},
       {
         "id":"v1981_015_lloydaspace_ref14_fh3",
         "ead_ssi":"v1981_015_lloyd",
@@ -132,8 +134,8 @@
         "heading_ssm":["Series 2: Lantern slides of Queens"],
         "unitdate_ssm":["circa 1890 to circa 1920"],
         "language_ssm":["English"],
-        "_version_":1799311495067074560,
-        "timestamp":"2024-05-17T14:46:00.06Z"},
+        "_version_":1802044904816246784,
+        "timestamp":"2024-06-16T18:52:22.734Z"},
       {
         "id":"v1981_015_lloydaspace_ref16_ejn",
         "ead_ssi":"v1981_015_lloyd",
@@ -149,8 +151,8 @@
         "heading_ssm":["Series 3: Lantern slides of Manhattan and other locations"],
         "unitdate_ssm":["circa 1890 to 1920"],
         "language_ssm":["English"],
-        "_version_":1799311495085948928,
-        "timestamp":"2024-05-17T14:46:00.077Z"}]
+        "_version_":1802044904840364032,
+        "timestamp":"2024-06-16T18:52:22.757Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -158,7 +160,8 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lloyd, Ralph Irving",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

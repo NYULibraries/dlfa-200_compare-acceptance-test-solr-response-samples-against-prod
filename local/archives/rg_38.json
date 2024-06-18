@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York Universities Libraries Archived Website"],
         "unitid_ssm":["RG.38"],
         "abstract_ssm":["The NYU Libraries website is made up of information about Bobst Library, built in 1973, resources and affiliate libraries in New York City and abroad. The website contains information on the library's resources and services."],
+        "creator_ssm":["New York University. Libraries",
+          "New York University. Libraries"],
         "unitdate_normal_ssm":["2009/2022"],
         "corpname_ssm":["New York University Archives",
           "New York University. Libraries",
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["2009"],
         "unitdate_end_ssm":["2022"],
         "unitdate_ssm":["Inclusive, 2009-2022"],
-        "_version_":1799252063027200000,
-        "timestamp":"2024-05-16T23:01:21.25Z"},
+        "_version_":1801953464630116352,
+        "timestamp":"2024-06-15T18:38:58.577Z"},
       {
         "id":"rg_38aspace_bc534905d914aeeb63b39dcaba2ef3c7",
         "ead_ssi":"rg_38",
@@ -82,8 +84,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["Inclusive, July 2009-November 2022"],
-        "_version_":1799252063045025792,
-        "timestamp":"2024-05-16T23:01:21.267Z"}]
+        "_version_":1801953464652136448,
+        "timestamp":"2024-06-15T18:38:58.598Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +94,8 @@
         "archives",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Libraries",1],
       "date_range_sim":[
         "2001-2100",1,
         "undated & other",1],

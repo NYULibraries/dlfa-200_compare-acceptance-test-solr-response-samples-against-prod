@@ -47,6 +47,8 @@
         "unittitle_ssm":["John C. Ditmas account book"],
         "unitid_ssm":["1973.292"],
         "abstract_ssm":["Account book for the Brooklyn, New York farm of John C. Ditmas, dated 1837 to 1854. Housed in a single bound volume and handwritten, the account book lists prices paid and received for various goods and services."],
+        "creator_ssm":["Ditmas, John C.",
+          "Ditmas, John C."],
         "unitdate_normal_ssm":["1837/1854"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Kings County Historical Society",
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1854"],
         "unitdate_ssm":["Inclusive, 1837-1854"],
         "language_ssm":["English"],
-        "_version_":1799312397234601984,
-        "timestamp":"2024-05-17T15:00:20.434Z"}]
+        "_version_":1801960188816654336,
+        "timestamp":"2024-06-15T20:25:51.261Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ditmas, John C.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

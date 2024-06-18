@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edward J. Roberts last will and testament"],
         "unitid_ssm":["1990.002"],
         "abstract_ssm":["The last will and testament of Edward J. Roberts, written September 6, 1883 and proved April 2, 1884. The document was issued by the Kings County Surrogate Court and signed by the Court Clerk."],
+        "creator_ssm":["New York (State). Surrogate's Court (Kings County)",
+          "New York (State). Surrogate's Court (Kings County)"],
         "unitdate_normal_ssm":["1883/1884"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Surrogate's Court (Kings County)"],
@@ -64,8 +66,8 @@
         "unitdate_end_ssm":["1884"],
         "unitdate_ssm":["Inclusive, 1883 to 1884"],
         "language_ssm":["English"],
-        "_version_":1799309977075056640,
-        "timestamp":"2024-05-17T14:21:52.39Z"}]
+        "_version_":1801963491715710976,
+        "timestamp":"2024-06-15T21:18:21.151Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (State). Surrogate's Court (Kings County)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

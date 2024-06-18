@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Scrapbook of artists' renderings of historic events and places in Brooklyn and New York City"],
         "unitid_ssm":["V1986.021"],
         "abstract_ssm":["The renderings are almost entirely comprised of clippings that document events and places in Brooklyn and New York City dating from circa 1700 to 1900."],
+        "creator_ssm":["Hendrickson, David",
+          "Hendrickson, David"],
         "unitdate_normal_ssm":["1931/1951"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Scrapbooks",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["Inclusive, circa 1941"],
         "language_ssm":["English"],
-        "_version_":1799312376630083584,
-        "timestamp":"2024-05-17T15:00:00.784Z"}]
+        "_version_":1802045030919045120,
+        "timestamp":"2024-06-16T18:54:22.994Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hendrickson, David",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

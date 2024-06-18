@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles E. West memorial speech for Elias Lewis, Jr."],
         "unitid_ssm":["1973.311"],
         "abstract_ssm":["Bound, handwritten transcript of a memorial for Elias Lewis, Jr., read by Dr. Charles E. West before the American Ethnological Society at the Museum of Natural History in New York City, 1894."],
+        "creator_ssm":["West, Charles Edwin",
+          "West, Charles Edwin"],
         "unitdate_normal_ssm":["1894/1894"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island Historical Society"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1894"],
         "unitdate_ssm":["Inclusive, 1894"],
         "language_ssm":["English"],
-        "_version_":1799312397873184768,
-        "timestamp":"2024-05-17T15:00:21.043Z"}]
+        "_version_":1801960231841824768,
+        "timestamp":"2024-06-15T20:26:32.293Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "West, Charles Edwin",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Russian Artillery Commission in North America Records"],
         "unitid_ssm":["TAM.026"],
         "abstract_ssm":["The Russian Artillery Commission was based in New York; its mission was to negotiate purchase of munitions and other artillery supplies for the Imperial Russian government. The records include correspondence with U.S. and Canadian firms discussing manufacturing specifications and equipment, production estimates, inspection procedures, and order arrangements. Also includes reports and notes of Ordnance Colonel V. Nekrasov and other papers. The records are mostly in Russian."],
+        "creator_ssm":["Russian Artillery Commission in North America",
+          "Russian Artillery Commission in North America"],
         "unitdate_normal_ssm":["1915/1917"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Russian Artillery Commission in North America",
@@ -72,8 +74,8 @@
         "unitdate_start_ssm":["1915"],
         "unitdate_end_ssm":["1917"],
         "unitdate_ssm":["Inclusive, 1915-1917"],
-        "_version_":1799776954046480384,
-        "timestamp":"2024-05-22T18:04:16.333Z"},
+        "_version_":1802167292796076032,
+        "timestamp":"2024-06-18T03:17:41.007Z"},
       {
         "id":"tam_026aspace_ref13",
         "ead_ssi":"tam_026",
@@ -88,8 +90,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I: Records, 1915-1917"],
         "language_ssm":["English"],
-        "_version_":1799776954061160448,
-        "timestamp":"2024-05-22T18:04:16.347Z"},
+        "_version_":1802167292803416064,
+        "timestamp":"2024-06-18T03:17:41.014Z"},
       {
         "id":"tam_026aspace_ref14",
         "ead_ssi":"tam_026",
@@ -111,8 +113,8 @@
         "unitdate_start_ssm":["1916"],
         "unitdate_end_ssm":["1916"],
         "unitdate_ssm":["Inclusive, 1916"],
-        "_version_":1799776954078986240,
-        "timestamp":"2024-05-22T18:04:16.365Z"},
+        "_version_":1802167292812853248,
+        "timestamp":"2024-06-18T03:17:41.023Z"},
       {
         "id":"tam_026aspace_ref15",
         "ead_ssi":"tam_026",
@@ -134,8 +136,8 @@
         "unitdate_start_ssm":["1915"],
         "unitdate_end_ssm":["1917"],
         "unitdate_ssm":["Inclusive, 1915-1917"],
-        "_version_":1799776954103103488,
-        "timestamp":"2024-05-22T18:04:16.388Z"},
+        "_version_":1802167292825436160,
+        "timestamp":"2024-06-18T03:17:41.035Z"},
       {
         "id":"tam_026aspace_ref16",
         "ead_ssi":"tam_026",
@@ -157,8 +159,8 @@
         "unitdate_start_ssm":["1915"],
         "unitdate_end_ssm":["1917"],
         "unitdate_ssm":["Inclusive, 1915-1917"],
-        "_version_":1799776954120929280,
-        "timestamp":"2024-05-22T18:04:16.405Z"},
+        "_version_":1802167292834873344,
+        "timestamp":"2024-06-18T03:17:41.044Z"},
       {
         "id":"tam_026aspace_ref17",
         "ead_ssi":"tam_026",
@@ -180,8 +182,8 @@
         "unitdate_start_ssm":["1915"],
         "unitdate_end_ssm":["1917"],
         "unitdate_ssm":["Inclusive, 1915-1917"],
-        "_version_":1799776954135609344,
-        "timestamp":"2024-05-22T18:04:16.419Z"},
+        "_version_":1802167292844310528,
+        "timestamp":"2024-06-18T03:17:41.053Z"},
       {
         "id":"tam_026aspace_ref18",
         "ead_ssi":"tam_026",
@@ -203,8 +205,8 @@
         "unitdate_start_ssm":["1915"],
         "unitdate_end_ssm":["1917"],
         "unitdate_ssm":["Inclusive, 1915-1917"],
-        "_version_":1799776954152386560,
-        "timestamp":"2024-05-22T18:04:16.435Z"},
+        "_version_":1802167292853747712,
+        "timestamp":"2024-06-18T03:17:41.062Z"},
       {
         "id":"tam_026aspace_ref19",
         "ead_ssi":"tam_026",
@@ -226,8 +228,8 @@
         "unitdate_start_ssm":["1915"],
         "unitdate_end_ssm":["1916"],
         "unitdate_ssm":["Inclusive, 1915-1916"],
-        "_version_":1799776954169163776,
-        "timestamp":"2024-05-22T18:04:16.451Z"}]
+        "_version_":1802167292862136320,
+        "timestamp":"2024-06-18T03:17:41.07Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -235,7 +237,8 @@
       "repository_sim":[
         "tamwag",8],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Russian Artillery Commission in North America",1],
       "date_range_sim":[
         "1901-2000",7,
         "undated & other",1],

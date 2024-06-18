@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Fred Hoyt family research collection"],
         "unitid_ssm":["ARC.043"],
         "abstract_ssm":["This collection contains papers and photographs, circa 1850 to 1974, collected during genealogical research by Fred Hoyt. Materials in the collection relate to Hoyt's ancestors, including his parents, Alma Jacobson Hoyt and Lewis S. Hoyt, his maternal grandparents, Ernestine Aschner Jacobson and Isaac W. Jacobson, maternal great-grandparents, Abraham and Jeannette Wachsmann Aschner, as well as aunts and great-uncles."],
+        "creator_ssm":["Hoyt, Fred",
+          "Hoyt, Fred"],
         "unitdate_normal_ssm":["1850/1974"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Montgomery (N.Y. : Town)"],
@@ -79,8 +81,8 @@
         "unitdate_start_ssm":["1850"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, 1850-1974"],
-        "_version_":1799256189048979456,
-        "timestamp":"2024-05-17T00:06:56.131Z"}]
+        "_version_":1801958774163898368,
+        "timestamp":"2024-06-15T20:03:22.143Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hoyt, Fred",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

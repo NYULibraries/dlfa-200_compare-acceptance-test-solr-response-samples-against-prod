@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Church of the Holy Trinity collection"],
         "unitid_ssm":["1986.025"],
         "abstract_ssm":["Brooklyn's Church of the Holy Trinity was founded in 1840.  After more than a century of serving as one of Brooklyn's most esteemed Episcopalian institutions, the Church was closed in 1957 over a controversy involving the supposed communist activities of its assistant rector, William Howard Melish.  The Church of the Holy Trinity collection spans the period 1851 to 1959 and contains materials relating to the Church's administration, activities, and history.  A small portion of the collection also pertains to the Melish controversy of the 1950s.  Items include yearbooks, proceedings, issues of the Church's newsletter, and additional ephemeral literature."],
+        "creator_ssm":["Melish, John Howard",
+          "Benevolent Association of the Church of the Holy Trinity (Brooklyn, New York, N.Y.)",
+          "Church of the Holy Trinity (Brooklyn, New York, N.Y.)",
+          "Benevolent Association of the Church of the Holy Trinity (Brooklyn, New York, N.Y.)",
+          "Church of the Holy Trinity (Brooklyn, New York, N.Y.)",
+          "Melish, John Howard"],
         "unitdate_normal_ssm":["1851/1958"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Benevolent Association of the Church of the Holy Trinity (Brooklyn, New York, N.Y.)",
@@ -114,8 +120,8 @@
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["Inclusive, 1851-1958"],
         "language_ssm":["English"],
-        "_version_":1799311444671463424,
-        "timestamp":"2024-05-17T14:45:11.999Z"}]
+        "_version_":1801963244461490176,
+        "timestamp":"2024-06-15T21:14:25.351Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -123,7 +129,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Benevolent Association of the Church of the Holy Trinity (Brooklyn, New York, N.Y.)",1,
+        "Church of the Holy Trinity (Brooklyn, New York, N.Y.)",1,
+        "Melish, John Howard",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

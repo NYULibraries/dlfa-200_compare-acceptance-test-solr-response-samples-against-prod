@@ -47,6 +47,8 @@
         "unittitle_ssm":["American Board of Commissioners of Foreign Missions annual meeting book"],
         "unitid_ssm":["1977.083"],
         "abstract_ssm":["Volume from the 61st annual meeting of the American Board of Commissioners of Foreign Missions in Brooklyn, N.Y., containing a list of corporate members and meeting attendees, as well as information on attendees' states of residence and who they stayed with while in Brooklyn."],
+        "creator_ssm":["American Board of Commissioners for Foreign Missions",
+          "American Board of Commissioners for Foreign Missions"],
         "unitdate_normal_ssm":["1870/1870"],
         "corpname_ssm":["Brooklyn Historical Society",
           "American Board of Commissioners for Foreign Missions",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1870"],
         "unitdate_ssm":["1870"],
         "language_ssm":["English"],
-        "_version_":1799311392296140800,
-        "timestamp":"2024-05-17T14:44:22.05Z"}]
+        "_version_":1801960667185414144,
+        "timestamp":"2024-06-15T20:33:27.469Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "American Board of Commissioners for Foreign Missions",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

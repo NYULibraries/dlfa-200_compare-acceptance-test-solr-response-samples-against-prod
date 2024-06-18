@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["George J. Bischof papers and photographs"],
         "unitid_ssm":["ARC.008"],
         "abstract_ssm":["This collection contains documents and photographs dated circa 1870s-1941 and pertaining to George J. Bischof and his employment as an engineer for the Borough of Brooklyn."],
+        "creator_ssm":["Bischof, George J.",
+          "Bischof, George J."],
         "unitdate_normal_ssm":["1870/1941"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Engineers' Club",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1941"],
         "unitdate_ssm":["Inclusive, circa 1870s-1941"],
         "language_ssm":["English"],
-        "_version_":1775221904231104512,
-        "timestamp":"2023-08-25T17:12:15.986Z"},
+        "_version_":1800598877467836416,
+        "timestamp":"2024-05-31T19:48:23.591Z"},
       {
         "id":"arc_008_bischofaspace_11626932650f42c415d2408cc3faa3bd",
         "ead_ssi":"arc_008_bischof",
@@ -96,8 +98,8 @@
         "unitdate_start_ssm":["1941"],
         "unitdate_end_ssm":["1941"],
         "unitdate_ssm":["1941"],
-        "_version_":1775221904317087744,
-        "timestamp":"2023-08-25T17:12:16.068Z"},
+        "_version_":1800598877512925184,
+        "timestamp":"2024-05-31T19:48:23.634Z"},
       {
         "id":"arc_008_bischofaspace_d6c78fac60fc05ee6c36ac0b6cd3ad38",
         "ead_ssi":"arc_008_bischof",
@@ -116,8 +118,8 @@
         "unitdate_start_ssm":["1902"],
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, 1902-1929"],
-        "_version_":1775221904267804672,
-        "timestamp":"2023-08-25T17:12:16.022Z"},
+        "_version_":1800598877497196544,
+        "timestamp":"2024-05-31T19:48:23.619Z"},
       {
         "id":"arc_008_bischofaspace_ref18_55n",
         "ead_ssi":"arc_008_bischof",
@@ -136,8 +138,8 @@
         "unitdate_start_ssm":["1870"],
         "unitdate_end_ssm":["1936"],
         "unitdate_ssm":["Inclusive, circa 1870s, 1900-1936"],
-        "_version_":1775221904361127936,
-        "timestamp":"2023-08-25T17:12:16.11Z"},
+        "_version_":1800598877528653824,
+        "timestamp":"2024-05-31T19:48:23.649Z"},
       {
         "id":"arc_008_bischofaspace_ref20_f7f",
         "ead_ssi":"arc_008_bischof",
@@ -158,8 +160,8 @@
         "unitdate_end_ssm":["1890"],
         "unitdate_ssm":["Inclusive, circa 1880"],
         "language_ssm":["English"],
-        "_version_":1775221904412508160,
-        "timestamp":"2023-08-25T17:12:16.16Z"}]
+        "_version_":1800598877544382464,
+        "timestamp":"2024-05-31T19:48:23.664Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -167,7 +169,8 @@
       "repository_sim":[
         "cbh",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bischof, George J.",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",4],

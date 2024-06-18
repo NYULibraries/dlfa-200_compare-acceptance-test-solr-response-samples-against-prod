@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":19,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Waldo Chapin Collection"],
         "unitid_ssm":["MC.277"],
         "abstract_ssm":["Waldo E. Chapin (1917 - 2011) graduated from New York University with a Degree of Bachelor of Science in February 1948. The collection contains Chapin's final examination portfolio for his Introduction to Art course, a graduation confirmation letter, and a 1948 commencement program."],
+        "creator_ssm":["Chapin, Waldo",
+          "Chapin, Waldo"],
         "unitdate_normal_ssm":["1947/1948"],
         "corpname_ssm":["New York University Archives",
           "New York University -- Alumni and alumnae"],
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["Inclusive, 1947-1948"],
-        "_version_":1799255451116765184,
-        "timestamp":"2024-05-16T23:55:12.384Z"},
+        "_version_":1801949534130012160,
+        "timestamp":"2024-06-15T17:36:30.16Z"},
       {
         "id":"mc_277aspace_020356070c31675f59ea6cd1d5c26d3b",
         "ead_ssi":"mc_277",
@@ -80,14 +82,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Final Examination Portfolio for Introduction to Art"],
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["1947"],
-        "_version_":1799255451134590976,
-        "timestamp":"2024-05-16T23:55:12.401Z"},
+        "_version_":1801949534147837952,
+        "timestamp":"2024-06-15T17:36:30.177Z"},
       {
         "id":"mc_277aspace_605002754b0f054c58749947eaf89e73",
         "ead_ssi":"mc_277",
@@ -101,12 +102,11 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 2, Folder: 1"],
         "heading_ssm":["Correspondence: Confirmation to Graduate"],
         "unitdate_ssm":["1948-02-25"],
-        "_version_":1799255451150319616,
-        "timestamp":"2024-05-16T23:55:12.416Z"},
+        "_version_":1801949534164615168,
+        "timestamp":"2024-06-15T17:36:30.193Z"},
       {
         "id":"mc_277aspace_a64a6ef8f19eff0f1c8b169d2f30ee5c",
         "ead_ssi":"mc_277",
@@ -120,12 +120,11 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 2, Folder: 2"],
         "heading_ssm":["New York University Commencement Program"],
         "unitdate_ssm":["1948-06-19"],
-        "_version_":1799255451164999680,
-        "timestamp":"2024-05-16T23:55:12.43Z"}]
+        "_version_":1801949534181392384,
+        "timestamp":"2024-06-15T17:36:30.209Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -133,7 +132,8 @@
       "repository_sim":[
         "archives",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chapin, Waldo",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",2],

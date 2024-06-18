@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Wesley L. Baker manuscript on Thomas Osman"],
         "unitid_ssm":["1978.187"],
         "abstract_ssm":["A typewritten manuscript by Wesley L. Baker on Thomas Osman and the early history of his settlement at Hashamomuck Neck in present-day Southold, Long Island, N.Y. Thomas Osman was born in England in 1621 and established a settlement at Hashamomuck Neck around 1637 or 1638. The manuscript covers the period circa 1637 to 1700."],
+        "creator_ssm":["Baker, Wesley Logan",
+          "Downs, Arthur Channing, 1930-",
+          "Baker, Wesley Logan",
+          "Downs, Arthur Channing, 1930-"],
         "unitdate_normal_ssm":["1969/1969"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Manuscripts (document genre)"],
@@ -74,8 +78,8 @@
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["1969"],
         "language_ssm":["English"],
-        "_version_":1799309976674500608,
-        "timestamp":"2024-05-17T14:21:52.008Z"}]
+        "_version_":1801962667688067072,
+        "timestamp":"2024-06-15T21:05:15.297Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +87,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Baker, Wesley Logan",1,
+        "Downs, Arthur Channing, 1930-",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

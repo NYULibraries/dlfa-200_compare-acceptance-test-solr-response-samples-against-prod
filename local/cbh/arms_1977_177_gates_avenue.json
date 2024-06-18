@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Gates Avenue Association records"],
         "unitid_ssm":["1977.177"],
         "abstract_ssm":["Various 1920s-1940s records of the Gates Avenue Association, including a minute book, correspondence, a list of residents and property owners for 1936, and various announcements and notes of the Association. The materials illuminate the Association's regular activities and operations, as well as its opposition to the arrival of African Americans in the neighborhoods of Bedford-Stuyvesant and Clinton Hill."],
+        "creator_ssm":["Gates Avenue Association (Brooklyn, New York, N.Y.)",
+          "Gates Avenue Association (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1922/1944"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Gates Avenue Association (Brooklyn, New York, N.Y.)",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1944"],
         "unitdate_ssm":["Inclusive, 1922-1944"],
         "language_ssm":["English"],
-        "_version_":1799256497797988352,
-        "timestamp":"2024-05-17T00:11:50.577Z"}]
+        "_version_":1801960870191824896,
+        "timestamp":"2024-06-15T20:36:41.071Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gates Avenue Association (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

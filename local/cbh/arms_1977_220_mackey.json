@@ -47,6 +47,8 @@
         "unittitle_ssm":["Mabel L. Mackey theater scrapbooks"],
         "unitid_ssm":["1977.220"],
         "abstract_ssm":["Five scrapbooks compiled by Mabel L. Mackey containing playbills and programs from several theatrical productions seen in Brooklyn and Manhattan theaters throughout the period 1897 to 1958.  Copy photographs of performers and scenes from productions are included in the playbills and programs.  Some of the theaters represented in the materials include the Brooklyn Academy of Music, Brooklyn Institute of Arts and Sciences, Fulton Theater, Montauk Theater, Criterion Theater, Grand Opera House, Columbia Theater, and the Majestic.  An additional folder of large programs from films and dance productions is also included."],
+        "creator_ssm":["Mackey, Mabel Linsley",
+          "Mackey, Mabel Linsley"],
         "unitdate_normal_ssm":["1897/1958"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Theater programs",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["Inclusive, 1897-1958"],
         "language_ssm":["English"],
-        "_version_":1799311711472189440,
-        "timestamp":"2024-05-17T14:49:26.44Z"}]
+        "_version_":1801960963163815936,
+        "timestamp":"2024-06-15T20:38:09.736Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Mackey, Mabel Linsley",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

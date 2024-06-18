@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Sydney Harris Papers"],
         "unitid_ssm":["ALBA.050"],
+        "creator_ssm":["Harris, Sydney, 1916-",
+          "Harris, Sydney, 1916-"],
         "unitdate_normal_ssm":["1940/1983"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Harris, Sydney, 1916-"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1940-1983"],
         "language_ssm":["English"],
-        "_version_":1799333398386311168,
-        "timestamp":"2024-05-17T20:34:08.693Z"}]
+        "_version_":1802110796346425344,
+        "timestamp":"2024-06-17T12:19:41.794Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Harris, Sydney, 1916-",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

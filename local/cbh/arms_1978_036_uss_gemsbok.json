@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["U.S.S. Gemsbok Records"],
         "unitid_ssm":["1978.036"],
         "abstract_ssm":["The U.S.S. Gemsbok records date from 1864 to 1865 and include a collection of vouchers for expenditures of various departments aboard the ship, which was used throughout the American Civil War."],
+        "creator_ssm":["Gemsbok (Bark)",
+          "Gemsbok (Bark)"],
         "unitdate_normal_ssm":["1864/1865"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Gemsbok (Bark)"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["Inclusive, 1864-1865"],
         "language_ssm":["English"],
-        "_version_":1799256310272753664,
-        "timestamp":"2024-05-17T00:08:51.739Z"}]
+        "_version_":1801962298229653504,
+        "timestamp":"2024-06-15T20:59:22.954Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gemsbok (Bark)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

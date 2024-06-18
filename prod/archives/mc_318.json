@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Susan Reverby Collection on the NYU Student Strike"],
         "unitid_ssm":["MC.318"],
         "abstract_ssm":["The Susan Reverby Collection on the NYU Student Strike consists of materials related to and circulated around the May 1970 student strike at New York University, which was part of a nationwide student strike protesting the escalation of United States involvement in the Vietnam War. Materials include newsletters and organizational documents from student and faculty groups, flyers for meetings and protests, lists of demands, newspapers, pamphlets, and political posters. The political posters in this collection address the imprisonment of members of the Black Panther Party, the United States' activities in Vietnam, and the repression of student protests by the police and the National Guard. These materials were collected by Dr. Susan Reverby, who was an masters student in the American Civilization program at NYU at the time of the strike. These materials document both the national context of the student strike and the activities of numerous groups' actions within New York University, including the cafeteria and library workers' strike, as well as student and faculty groups from the Law School and the College of Arts and Sciences."],
+        "creator_ssm":["Reverby, Susan M., 1946-",
+          "Reverby, Susan M., 1946-"],
         "unitdate_normal_ssm":["1970/1970"],
         "corpname_ssm":["New York University Archives"],
         "genreform_ssm":["Newsletters.",
@@ -73,8 +75,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["1970"],
-        "_version_":1775222114861711360,
-        "timestamp":"2023-08-25T17:15:36.859Z"},
+        "_version_":1800549226436886528,
+        "timestamp":"2024-05-31T06:39:12.677Z"},
       {
         "id":"mc_318aspace_4eadccecbfd13e27b90e62ef49509ca0",
         "ead_ssi":"mc_318",
@@ -88,14 +90,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 007, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: Shared University Archives 007, Folder: 2"],
         "heading_ssm":["Meeting/Committee Documents and Flyers"],
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["1970"],
-        "_version_":1775222114941403136,
-        "timestamp":"2023-08-25T17:15:36.936Z"},
+        "_version_":1800549226476732416,
+        "timestamp":"2024-05-31T06:39:12.715Z"},
       {
         "id":"mc_318aspace_60cb931112dac4c2a7f05e45437c6aeb",
         "ead_ssi":"mc_318",
@@ -110,15 +111,13 @@
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared University Archives 005, Folder: 8",
-          "Folder: 8",
-          "Box: Shared University Archives 004, Folder: 4",
-          "Folder: 4"],
+          "Box: Shared University Archives 004, Folder: 4"],
         "heading_ssm":["Political Posters and Newspapers "],
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["1970"],
-        "_version_":1775222114904702976,
-        "timestamp":"2023-08-25T17:15:36.901Z"}]
+        "_version_":1800549226455760896,
+        "timestamp":"2024-05-31T06:39:12.696Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -126,7 +125,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Reverby, Susan M., 1946-",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

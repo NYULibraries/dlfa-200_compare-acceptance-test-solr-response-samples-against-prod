@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Harry Laidler Photographs"],
         "unitid_ssm":["PHOTOS.009"],
         "abstract_ssm":["Harry Wellington Laidler, longtime director of the League for Industrial Democracy (LID), was also a founder of the Intercollegiate Socialist Society, was elected to the New York City Council on the American Labor Party ticket, and was the author of many books and articles on social issues. The collection contains individual and group portraits featuring Laidler, many taken at LID events, which include prominent socialist and liberal figures, and several family portraits."],
+        "creator_ssm":["Laidler, Harry W. (Harry Wellington), 1884-1970",
+          "Laidler, Harry W. (Harry Wellington), 1884-1970"],
         "unitdate_normal_ssm":["1893/1968",
           "1950/1960"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -99,8 +101,8 @@
           "1960"],
         "unitdate_ssm":["Inclusive, 1893-1968 ; 1950-1960"],
         "language_ssm":["English"],
-        "_version_":1799749356824297472,
-        "timestamp":"2024-05-22T10:45:37.572Z"},
+        "_version_":1802114274031566848,
+        "timestamp":"2024-06-17T13:14:58.372Z"},
       {
         "id":"photos_009aspace_ref13",
         "ead_ssi":"photos_009",
@@ -114,8 +116,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Container List"],
-        "_version_":1799749356842123264,
-        "timestamp":"2024-05-22T10:45:37.589Z"},
+        "_version_":1802114274056732672,
+        "timestamp":"2024-06-17T13:14:58.397Z"},
       {
         "id":"photos_009aspace_ref14",
         "ead_ssi":"photos_009",
@@ -136,8 +138,8 @@
         "unitdate_start_ssm":["1893"],
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1893-1962"],
-        "_version_":1799749356866240512,
-        "timestamp":"2024-05-22T10:45:37.611Z"},
+        "_version_":1802114274091335680,
+        "timestamp":"2024-06-17T13:14:58.43Z"},
       {
         "id":"photos_009aspace_ref15",
         "ead_ssi":"photos_009",
@@ -158,8 +160,8 @@
         "unitdate_start_ssm":["1893"],
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799749356881969152,
-        "timestamp":"2024-05-22T10:45:37.627Z"},
+        "_version_":1802114274113355776,
+        "timestamp":"2024-06-17T13:14:58.451Z"},
       {
         "id":"photos_009aspace_ref16",
         "ead_ssi":"photos_009",
@@ -180,8 +182,8 @@
         "unitdate_start_ssm":["1954"],
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1954-1962"],
-        "_version_":1799749356898746368,
-        "timestamp":"2024-05-22T10:45:37.643Z"},
+        "_version_":1802114274141667328,
+        "timestamp":"2024-06-17T13:14:58.477Z"},
       {
         "id":"photos_009aspace_ref17",
         "ead_ssi":"photos_009",
@@ -202,8 +204,8 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1936-1965"],
-        "_version_":1799749356916572160,
-        "timestamp":"2024-05-22T10:45:37.66Z"},
+        "_version_":1802114274160541696,
+        "timestamp":"2024-06-17T13:14:58.496Z"},
       {
         "id":"photos_009aspace_ref18",
         "ead_ssi":"photos_009",
@@ -224,8 +226,8 @@
         "unitdate_start_ssm":["1959"],
         "unitdate_end_ssm":["1964"],
         "unitdate_ssm":["Inclusive, 1959 , 1964"],
-        "_version_":1799749356937543680,
-        "timestamp":"2024-05-22T10:45:37.68Z"},
+        "_version_":1802114274186756096,
+        "timestamp":"2024-06-17T13:14:58.52Z"},
       {
         "id":"photos_009aspace_ref19",
         "ead_ssi":"photos_009",
@@ -246,8 +248,8 @@
         "unitdate_start_ssm":["1938"],
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, 1938"],
-        "_version_":1799749356955369472,
-        "timestamp":"2024-05-22T10:45:37.697Z"},
+        "_version_":1802114274206679040,
+        "timestamp":"2024-06-17T13:14:58.54Z"},
       {
         "id":"photos_009aspace_ref20",
         "ead_ssi":"photos_009",
@@ -268,8 +270,8 @@
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1929-1968"],
-        "_version_":1799749356996263936,
-        "timestamp":"2024-05-22T10:45:37.736Z"},
+        "_version_":1802114274253864960,
+        "timestamp":"2024-06-17T13:14:58.585Z"},
       {
         "id":"photos_009aspace_ref27",
         "ead_ssi":"photos_009",
@@ -290,8 +292,8 @@
         "unitdate_start_ssm":["1912"],
         "unitdate_end_ssm":["1912"],
         "unitdate_ssm":["Inclusive, 1912; undated"],
-        "_version_":1799749356974243840,
-        "timestamp":"2024-05-22T10:45:37.715Z"},
+        "_version_":1802114274227650560,
+        "timestamp":"2024-06-17T13:14:58.56Z"},
       {
         "id":"photos_009aspace_ref29",
         "ead_ssi":"photos_009",
@@ -307,12 +309,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment OS002, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment OS002, Folder: 1"],
         "heading_ssm":["Oversize"],
         "unitdate_ssm":["undated"],
-        "_version_":1799749357017235456,
-        "timestamp":"2024-05-22T10:45:37.755Z"}]
+        "_version_":1802114274280079360,
+        "timestamp":"2024-06-17T13:14:58.61Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -320,7 +321,8 @@
       "repository_sim":[
         "tamwag",11],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Laidler, Harry W. (Harry Wellington), 1884-1970",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",9,

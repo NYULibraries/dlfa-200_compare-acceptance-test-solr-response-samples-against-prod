@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,20 @@
         "unittitle_ssm":["Smith families papers"],
         "unitid_ssm":["ARC.244"],
         "abstract_ssm":["Papers of the Smith families of the towns of Brookhaven (referred to in the papers as the Manor of St. George) and Smithtown in Suffolk County, Long Island, N.Y., dating from 1659 to 1848.  Materials include court records, land deeds (some involving the Native American inhabitants of the region), personal and business correspondence, bills and receipts, contracts, and various other business, financial, and property documents."],
+        "creator_ssm":["Smith family",
+          "Smith, Caleb",
+          "Smith, Richard",
+          "Smith, William",
+          "Smith, Ebenezer",
+          "Smith, Obadiah",
+          "Smith, Joshua",
+          "Smith family",
+          "Smith, Caleb",
+          "Smith, Richard",
+          "Smith, William",
+          "Smith, Ebenezer",
+          "Smith, Obadiah",
+          "Smith, Joshua"],
         "unitdate_normal_ssm":["1659/1848"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Manor of St. George (Mastic Beach, N.Y.)",
@@ -102,8 +116,8 @@
         "unitdate_end_ssm":["1848"],
         "unitdate_ssm":["Inclusive, 1659-1848"],
         "language_ssm":["English"],
-        "_version_":1799312397657178112,
-        "timestamp":"2024-05-17T15:00:20.837Z"}]
+        "_version_":1801959555123380224,
+        "timestamp":"2024-06-15T20:15:46.924Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -111,7 +125,14 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Smith family",1,
+        "Smith, Caleb",1,
+        "Smith, Ebenezer",1,
+        "Smith, Joshua",1,
+        "Smith, Obadiah",1,
+        "Smith, Richard",1,
+        "Smith, William",1],
       "date_range_sim":[
         "1601-1700",1,
         "1801-1900",1],

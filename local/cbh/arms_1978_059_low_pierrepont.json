@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Mrs. Robert Low Pierrepont invitation lists"],
         "unitid_ssm":["1978.059"],
         "abstract_ssm":["The Mrs. Robert Low Pierrepont invitation lists consist of 2 bound volumes with invitation lists that include the name and address of various invitees to events."],
+        "creator_ssm":["Pierrepont, Robert Low, Mrs.",
+          "Pierrepont, Robert Low, Mrs."],
         "unitdate_normal_ssm":["1900/1900"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Invitations"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1900"],
         "unitdate_ssm":["1900"],
         "language_ssm":["English"],
-        "_version_":1799256502365585408,
-        "timestamp":"2024-05-17T00:11:54.933Z"}]
+        "_version_":1801962362484293632,
+        "timestamp":"2024-06-15T21:00:24.232Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Pierrepont, Robert Low, Mrs.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

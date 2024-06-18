@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Vivian Jerauld (V.J.) McGill Papers"],
         "unitid_ssm":["TAM.571"],
         "abstract_ssm":["V. J. (Vivian Jerauld) McGill (1897-1977) was a philosophy professor and a founding editor of the Marxist journal Science & Society (1936- ). McGill was dismissed from his post at Hunter College (CUNY) in 1954 following the Rapp-Coudert Committee investigation into Communist activities on City College campuses. The bulk of this collection consists of materials pertaining to McGill's career as a Professor of Philosphy.\nThere is also a small amount of material pertaining to V.J. McGill's dismissal from Hunter College, including correspondence, court documents, statements, personnel records and newspaper clippings."],
+        "creator_ssm":["McGill, V. J. (Vivian Jerauld), 1897-1977",
+          "McGill, V. J. (Vivian Jerauld), 1897-1977"],
         "unitdate_normal_ssm":["1930/1999",
           "1940/1973"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1999",
           "1973"],
         "unitdate_ssm":["Inclusive, 1930s-1990s ; 1940-1973"],
-        "_version_":1799791514277117952,
-        "timestamp":"2024-05-22T21:55:42.052Z"},
+        "_version_":1802183515512504320,
+        "timestamp":"2024-06-18T07:35:32.195Z"},
       {
         "id":"tam_571aspace_ref11",
         "ead_ssi":"tam_571",
@@ -93,8 +95,8 @@
         "location_ssm":["Box: 3"],
         "heading_ssm":["Box 3"],
         "unitdate_ssm":["1930s-1970s"],
-        "_version_":1799791514337935360,
-        "timestamp":"2024-05-22T21:55:42.109Z"},
+        "_version_":1802183515543961600,
+        "timestamp":"2024-06-18T07:35:32.225Z"},
       {
         "id":"tam_571aspace_ref13",
         "ead_ssi":"tam_571",
@@ -110,8 +112,8 @@
         "location_ssm":["Box: 5"],
         "heading_ssm":["Box 5"],
         "unitdate_ssm":["1930s-1970s"],
-        "_version_":1799791514386169856,
-        "timestamp":"2024-05-22T21:55:42.156Z"},
+        "_version_":1802183515561787392,
+        "timestamp":"2024-06-18T07:35:32.242Z"},
       {
         "id":"tam_571aspace_ref15",
         "ead_ssi":"tam_571",
@@ -127,8 +129,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Box 2"],
         "unitdate_ssm":["undated"],
-        "_version_":1799791514319060992,
-        "timestamp":"2024-05-22T21:55:42.092Z"},
+        "_version_":1802183515530330112,
+        "timestamp":"2024-06-18T07:35:32.212Z"},
       {
         "id":"tam_571aspace_ref17",
         "ead_ssi":"tam_571",
@@ -144,8 +146,8 @@
         "location_ssm":["Box: 4"],
         "heading_ssm":["Box 4"],
         "unitdate_ssm":["1930s-1990s"],
-        "_version_":1799791514364149760,
-        "timestamp":"2024-05-22T21:55:42.135Z"},
+        "_version_":1802183515553398784,
+        "timestamp":"2024-06-18T07:35:32.233Z"},
       {
         "id":"tam_571aspace_ref19",
         "ead_ssi":"tam_571",
@@ -160,8 +162,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Box 1"],
-        "_version_":1799791514299138048,
-        "timestamp":"2024-05-22T21:55:42.073Z"}]
+        "_version_":1802183515521941504,
+        "timestamp":"2024-06-18T07:35:32.204Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -169,7 +171,8 @@
       "repository_sim":[
         "tamwag",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "McGill, V. J. (Vivian Jerauld), 1897-1977",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",5],

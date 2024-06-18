@@ -47,6 +47,8 @@
         "unittitle_ssm":["Letter of solicitation for matrimonial agency"],
         "unitid_ssm":["AHMC - Hill, W.K."],
         "abstract_ssm":["A mimeographed letter from Mrs. W.K. Hill of Jacksonville, Florida, soliciting customers, or \"members,\" for the services of her \"matrimonial agency,\" which includes a monthly mailing of a list of women who registered with her bureau. The letter offers the service for $1, with a subsequent payment of $5 in the event a match results in marriage. The letter makes a sales pitch for the quality of the service and the women who are available, as well as the value of a marriage to a man. On the reverse of the letter is an application form for the men to complete, requesting information on physical characteristics, wealth, education, religion, etc. A second mimeographed document, likely included as an enclosure with the letter, lists the attributes of four women then available for marriage. The date of the letter has a typographical error and is obscured, but appears to be December 5, 1912. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Letter of solicitation for matrimonial agency"],
+        "creator_ssm":["Hill, W.K., active 1912 (Mrs.)",
+          "Hill, W.K., active 1912 (Mrs.)"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Hill, W.K., active 1912 (Mrs.)"],
         "collection_ssm":["Letter of solicitation for matrimonial agency"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Letter of solicitation for matrimonial agency"],
         "unitdate_ssm":["Inclusive, approximately 1912"],
-        "_version_":1799322157614891008,
-        "timestamp":"2024-05-17T17:35:28.658Z"}]
+        "_version_":1802083833045057536,
+        "timestamp":"2024-06-17T05:11:07.586Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hill, W.K., active 1912 (Mrs.)",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

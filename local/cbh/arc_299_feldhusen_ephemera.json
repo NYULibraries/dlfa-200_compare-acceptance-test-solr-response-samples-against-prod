@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Elizabeth Feldhusen collection of Brooklyn ephemera"],
         "unitid_ssm":["ARC.299"],
         "abstract_ssm":["The collection contains ephemera related to Brooklyn, New York, dating from the 1920s to 1992. The collection is especially focused on civic matters of the 1970s and 1980s."],
+        "creator_ssm":["Feldhusen, Elizabeth A.",
+          "Feldhusen, Elizabeth A."],
         "unitdate_normal_ssm":["1920/1992",
           "1945/1992"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -100,8 +102,8 @@
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, circa 1920s to 1992 ; 1945-1992"],
         "language_ssm":["English"],
-        "_version_":1799311646547509248,
-        "timestamp":"2024-05-17T14:48:24.523Z"}]
+        "_version_":1801959777093287936,
+        "timestamp":"2024-06-15T20:19:18.611Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -109,7 +111,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Feldhusen, Elizabeth A.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

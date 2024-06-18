@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":17,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Coalition of Labor Union Women New York City Chapter Photographs"],
         "unitid_ssm":["PHOTOS.162"],
         "abstract_ssm":["The Coalition of Labor Union Women (CLUW) strives to strengthen the position of women in unions and unite all union women by identifying and advocating against the problems uniquely facing women in the labor force. The collection consists of photographs from a 1989 strike by the International Association of Machinists and Aerospace Workers (IAMAW), Local Lodge 1018. The machinists' union, which was protesting against Eastern, Continental, and Texas Air, was supported by CLUW."],
+        "creator_ssm":["Coalition of Labor Union Women (U.S.). New York City Chapter",
+          "Coalition of Labor Union Women (U.S.). New York City Chapter"],
         "unitdate_normal_ssm":["1989/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Coalition of Labor Union Women (U.S.). New York City Chapter",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1989"],
-        "_version_":1799764589115604992,
-        "timestamp":"2024-05-22T14:47:44.217Z"}]
+        "_version_":1802141960552579072,
+        "timestamp":"2024-06-17T20:35:02.297Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Coalition of Labor Union Women (U.S.). New York City Chapter",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

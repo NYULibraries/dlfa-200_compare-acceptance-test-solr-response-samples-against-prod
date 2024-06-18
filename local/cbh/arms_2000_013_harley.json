@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ruth S. Harley family papers"],
         "unitid_ssm":["2000.013"],
         "abstract_ssm":["This collection consists of photographs, programs, and certificates relating to Ruth S. Harley's time as a student at Erasmus Hall High School, as well as an Erasmus Hall songbook and history. Additional items include photographs of Ruth S. Harley as a student at Public School 139 and the Cortelyou School, photographs of Jeanette H. and Robert Harley, and photocopies of Walter Harley's obituary. Items date from 1908 to 1959."],
+        "creator_ssm":["Harley, Ruth S.",
+          "Harley, Ruth S."],
         "unitdate_normal_ssm":["1908/1959"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Harley family"],
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, 1908-1959"],
         "language_ssm":["English"],
-        "_version_":1799256293567889408,
-        "timestamp":"2024-05-17T00:08:35.807Z"}]
+        "_version_":1801963831634690048,
+        "timestamp":"2024-06-15T21:23:45.323Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Harley, Ruth S.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

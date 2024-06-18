@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Debra Bernhardt Oral History Collection"],
         "unitid_ssm":["OH.043"],
+        "creator_ssm":["Bernhardt, Debra E.",
+          "Bernhardt, Debra E."],
         "unitdate_normal_ssm":["2001/2001"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Bernhardt, Debra E."],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["2001"],
         "language_ssm":["English"],
-        "_version_":1799748796757835776,
-        "timestamp":"2024-05-22T10:36:43.451Z"},
+        "_version_":1802113056412532736,
+        "timestamp":"2024-06-17T12:55:37.161Z"},
       {
         "id":"oh_043aspace_36639b74b44cf719cdcebae5ce4832b7",
         "ead_ssi":"oh_043",
@@ -79,8 +81,8 @@
         "unitdate_start_ssm":["2001"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["2001"],
-        "_version_":1799748796772515840,
-        "timestamp":"2024-05-22T10:36:43.465Z"}]
+        "_version_":1802113056475447296,
+        "timestamp":"2024-06-17T12:55:37.221Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bernhardt, Debra E.",1],
       "date_range_sim":[
         "2001-2100",2],
       "subject_sim":[],

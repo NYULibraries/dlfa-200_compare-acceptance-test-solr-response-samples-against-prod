@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Mimi Diamond Photographs"],
         "unitid_ssm":["PHOTOS.076"],
         "abstract_ssm":["Miriam \"Mimi\" Diamond is an activist in variety of left-wing politics based in New York City. She was a member of the Women for Racial and Economic Equality (WREE), an organization created by the Communist Party USA during the 1970s. This collection contains black-and-white photographic prints concerning public reaction to Soviet espionage trials held in the United States during the middle of the 20th century. Materials in this collection document the early lives of Julius and Ethel Rosenberg, the espionage trial of engineer Morton Sobell, and the public campaign asserting Sobell's innocence. Multiple photographs feature North Dakota Senator William Langer, figures active in Sobell's defense, and Morton's wife, Helen Sobell. The collection also contains a photograph given to New York politician Miriam Friedlander inscribed by activist, lawyer, and Congresswoman Bella Abzug."],
+        "creator_ssm":["Diamond, Mimi (Miriam Diamond)",
+          "Diamond, Mimi (Miriam Diamond)"],
         "unitdate_normal_ssm":["1915/1974"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Diamond, Mimi (Miriam Diamond)",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1915"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, 1915-1974"],
-        "_version_":1799764472629297152,
-        "timestamp":"2024-05-22T14:45:53.127Z"},
+        "_version_":1802141828203413504,
+        "timestamp":"2024-06-17T20:32:56.079Z"},
       {
         "id":"photos_076aspace_ref10",
         "ead_ssi":"photos_076",
@@ -82,12 +84,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment A001, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment A001, Folder: 1"],
         "heading_ssm":["Personal"],
         "unitdate_ssm":["1974"],
-        "_version_":1799764472647122944,
-        "timestamp":"2024-05-22T14:45:53.144Z"},
+        "_version_":1802141828221239296,
+        "timestamp":"2024-06-17T20:32:56.096Z"},
       {
         "id":"photos_076aspace_ref11",
         "ead_ssi":"photos_076",
@@ -101,14 +102,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment A001, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: Shared Tamiment A001, Folder: 2"],
         "heading_ssm":["Julius and Ethel Rosenberg"],
         "unitdate_start_ssm":["1915"],
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, circa 1915-1952"],
-        "_version_":1799764472668094464,
-        "timestamp":"2024-05-22T14:45:53.164Z"},
+        "_version_":1802141828233822208,
+        "timestamp":"2024-06-17T20:32:56.108Z"},
       {
         "id":"photos_076aspace_ref12",
         "ead_ssi":"photos_076",
@@ -121,12 +121,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment A001, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: Shared Tamiment A001, Folder: 3"],
         "heading_ssm":["Morton Sobell"],
         "unitdate_ssm":["circa 1963"],
-        "_version_":1799764472685920256,
-        "timestamp":"2024-05-22T14:45:53.181Z"}]
+        "_version_":1802141828247453696,
+        "timestamp":"2024-06-17T20:32:56.121Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -134,7 +133,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Diamond, Mimi (Miriam Diamond)",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",2],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jennie Langthorne school certificates"],
         "unitid_ssm":["1977.483"],
         "abstract_ssm":["Two 1884 certificates issued to Jennie Langthorne by Miss Whitcomb's Seminary in Brooklyn, N.Y."],
+        "creator_ssm":["Miss Whitcomb's French, English, and German Day School for Young Ladies and Children",
+          "Miss Whitcomb's French, English, and German Day School for Young Ladies and Children"],
         "unitdate_normal_ssm":["1884/1884"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Miss Whitcomb's French, English, and German Day School for Young Ladies and Children"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1884"],
         "unitdate_ssm":["1884"],
         "language_ssm":["English"],
-        "_version_":1799256294341738496,
-        "timestamp":"2024-05-17T00:08:36.546Z"}]
+        "_version_":1801961770491838464,
+        "timestamp":"2024-06-15T20:50:59.664Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Miss Whitcomb's French, English, and German Day School for Young Ladies and Children",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

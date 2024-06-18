@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edwin H. Cerney Papers"],
         "unitid_ssm":["TAM.297"],
         "abstract_ssm":["Edwin Cerney was a tenured employee of the Stockton Unified School District (CA) whose services were terminated after he refused to sign a required Levering Act loyalty oath in 1951. Materials in this collection document Cerney's subsequent claim for compensation and provide a brief description of the Hudson Shore Labor School (NY)."],
+        "creator_ssm":["Cerney, Edwin H.",
+          "Cerney, Edwin H."],
         "unitdate_normal_ssm":["1939/1980"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Correspondence.",
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["1939"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1939, 1972-1980"],
-        "_version_":1775220011841880064,
-        "timestamp":"2023-08-25T16:42:11.264Z"},
+        "_version_":1801239679457034240,
+        "timestamp":"2024-06-07T21:33:39.99Z"},
       {
         "id":"tam_297aspace_ref2",
         "ead_ssi":"tam_297",
@@ -85,14 +87,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Cerney, Edwin H.: Compensation Claim"],
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1972-1980"],
-        "_version_":1775220011878580224,
-        "timestamp":"2023-08-25T16:42:11.299Z"},
+        "_version_":1801239679471714304,
+        "timestamp":"2024-06-07T21:33:40.004Z"},
       {
         "id":"tam_297aspace_ref3",
         "ead_ssi":"tam_297",
@@ -106,14 +107,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Hudson Shore Labor School (Bryn Mawr Summer School for Women Workers in Industry): Report"],
         "unitdate_start_ssm":["1939"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1939"],
-        "_version_":1775220011920523264,
-        "timestamp":"2023-08-25T16:42:11.339Z"},
+        "_version_":1801239679487442944,
+        "timestamp":"2024-06-07T21:33:40.019Z"},
       {
         "id":"tam_297aspace_ref4",
         "ead_ssi":"tam_297",
@@ -126,12 +126,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Hudson Shore Labor School: Class Notes"],
         "unitdate_ssm":["[1939]"],
-        "_version_":1775220011956174848,
-        "timestamp":"2023-08-25T16:42:11.373Z"}]
+        "_version_":1801239679510511616,
+        "timestamp":"2024-06-07T21:33:40.041Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -139,7 +138,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cerney, Edwin H.",1],
       "date_range_sim":[
         "1901-2000",3,
         "undated & other",1],

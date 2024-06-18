@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Don Chenoweth Papers"],
         "unitid_ssm":["TAM.216"],
         "abstract_ssm":["Donald J. Chenoweth was a socialist activist. This collection contains material from multiple socialist organizations he was involved with from the 1930s through the 1950s, including the Independent Socialist League, the Socialist Workers Party, the Workers Party, and the Young People's Socialist League."],
+        "creator_ssm":["Chenoweth, Don",
+          "Chenoweth, Don"],
         "unitdate_normal_ssm":["1920/1969"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Socialist Workers Party",
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, circa 1920s-1960s"],
-        "_version_":1799782359846879232,
-        "timestamp":"2024-05-22T19:30:11.707Z"},
+        "_version_":1802171182090289152,
+        "timestamp":"2024-06-18T04:19:30.127Z"},
       {
         "id":"tam_216aspace_1094d633db80200e724321634a635f14",
         "ead_ssi":"tam_216",
@@ -90,8 +92,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1920s-1950s"],
-        "_version_":1799782359985291264,
-        "timestamp":"2024-05-22T19:30:11.839Z"},
+        "_version_":1802171182178369536,
+        "timestamp":"2024-06-18T04:19:30.21Z"},
       {
         "id":"tam_216aspace_20d378f1da365c35934fd795d3daa0dd",
         "ead_ssi":"tam_216",
@@ -110,8 +112,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1940s-1950s"],
-        "_version_":1799782359970611200,
-        "timestamp":"2024-05-22T19:30:11.825Z"},
+        "_version_":1802171182169980928,
+        "timestamp":"2024-06-18T04:19:30.203Z"},
       {
         "id":"tam_216aspace_487e559081bc72a1895ae577c5b2c046",
         "ead_ssi":"tam_216",
@@ -130,8 +132,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1940s-1950s"],
-        "_version_":1799782359925522432,
-        "timestamp":"2024-05-22T19:30:11.782Z"},
+        "_version_":1802171182143766528,
+        "timestamp":"2024-06-18T04:19:30.178Z"},
       {
         "id":"tam_216aspace_4e121488a8ad7f4028a0491858836e45",
         "ead_ssi":"tam_216",
@@ -150,8 +152,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1930s-1950s"],
-        "_version_":1799782359862607872,
-        "timestamp":"2024-05-22T19:30:11.722Z"},
+        "_version_":1802171182100774912,
+        "timestamp":"2024-06-18T04:19:30.137Z"},
       {
         "id":"tam_216aspace_75d137fefa3b90c5ee832b6208ebf4d7",
         "ead_ssi":"tam_216",
@@ -170,8 +172,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1920s-1950s"],
-        "_version_":1799782360029331456,
-        "timestamp":"2024-05-22T19:30:11.881Z"},
+        "_version_":1802171182204583936,
+        "timestamp":"2024-06-18T04:19:30.236Z"},
       {
         "id":"tam_216aspace_893b8134e0387a1d2a5127d584cee89d",
         "ead_ssi":"tam_216",
@@ -190,8 +192,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, circa 1930s-1940s"],
-        "_version_":1799782359896162304,
-        "timestamp":"2024-05-22T19:30:11.754Z"},
+        "_version_":1802171182126989312,
+        "timestamp":"2024-06-18T04:19:30.162Z"},
       {
         "id":"tam_216aspace_95e3a37e510733e120a72fdb67b6e9e8",
         "ead_ssi":"tam_216",
@@ -210,8 +212,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1940s-1950s"],
-        "_version_":1799782359955931136,
-        "timestamp":"2024-05-22T19:30:11.811Z"},
+        "_version_":1802171182161592320,
+        "timestamp":"2024-06-18T04:19:30.195Z"},
       {
         "id":"tam_216aspace_a1fd498a5bee58d4f7c3e08889beb95a",
         "ead_ssi":"tam_216",
@@ -227,8 +229,8 @@
         "location_ssm":["Box: 4"],
         "heading_ssm":["Bulletins, Circulars, Correspondence, Minutes, Publications"],
         "unitdate_ssm":["Inclusive, circa 1930s-1950s"],
-        "_version_":1799782359909793792,
-        "timestamp":"2024-05-22T19:30:11.767Z"},
+        "_version_":1802171182134329344,
+        "timestamp":"2024-06-18T04:19:30.169Z"},
       {
         "id":"tam_216aspace_c1ec497e2120e4ffe761dbe7f00e67c7",
         "ead_ssi":"tam_216",
@@ -247,8 +249,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1940s-1950s"],
-        "_version_":1799782359941251072,
-        "timestamp":"2024-05-22T19:30:11.796Z"},
+        "_version_":1802171182151106560,
+        "timestamp":"2024-06-18T04:19:30.185Z"},
       {
         "id":"tam_216aspace_d5a401621bbde70ed698f770dad10ae3",
         "ead_ssi":"tam_216",
@@ -267,8 +269,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1920s-1950s"],
-        "_version_":1799782359998922752,
-        "timestamp":"2024-05-22T19:30:11.852Z"},
+        "_version_":1802171182185709568,
+        "timestamp":"2024-06-18T04:19:30.218Z"},
       {
         "id":"tam_216aspace_ea6e4f18578f438db2427e0a481b154b",
         "ead_ssi":"tam_216",
@@ -287,8 +289,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1920s-1950s"],
-        "_version_":1799782360013602816,
-        "timestamp":"2024-05-22T19:30:11.866Z"},
+        "_version_":1802171182194098176,
+        "timestamp":"2024-06-18T04:19:30.226Z"},
       {
         "id":"tam_216aspace_ff2ff282299b723c1a12cd143debf896",
         "ead_ssi":"tam_216",
@@ -307,8 +309,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, circa 1930s-1960s"],
-        "_version_":1799782359877287936,
-        "timestamp":"2024-05-22T19:30:11.736Z"}]
+        "_version_":1802171182110212096,
+        "timestamp":"2024-06-18T04:19:30.146Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -316,7 +318,8 @@
       "repository_sim":[
         "tamwag",13],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chenoweth, Don",1],
       "date_range_sim":[
         "1901-2000",12,
         "undated & other",1],

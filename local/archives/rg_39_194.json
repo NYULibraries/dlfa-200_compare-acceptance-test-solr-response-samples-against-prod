@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York University Archives Collection of the Square Daily"],
         "unitid_ssm":["RG.39.194"],
         "abstract_ssm":["This collection contains issues from the student newspaper the Square Daily dating from April to May 1953.  This newspaper documented student life at NYU (particuarly at the Washington Square campus), local and national news, campus living, and student clubs. The collection is extensive but not comprehensive, there may be some issues that were published but are not included in this collection."],
+        "creator_ssm":["New York University",
+          "New York University"],
         "unitdate_normal_ssm":["1953/1953"],
         "corpname_ssm":["New York University Archives",
           "New York University",
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1953"],
         "unitdate_end_ssm":["1953"],
         "unitdate_ssm":["April 6 - May 8, 1953"],
-        "_version_":1799254743125590016,
-        "timestamp":"2024-05-16T23:43:57.191Z"},
+        "_version_":1801953687872995328,
+        "timestamp":"2024-06-15T18:42:31.478Z"},
       {
         "id":"rg_39_194aspace_5369f28e73335bc1b252d0a411cb995f",
         "ead_ssi":"rg_39_194",
@@ -78,14 +80,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 001, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared University Archives 001, Folder: 1"],
         "heading_ssm":["Square Daily"],
         "unitdate_start_ssm":["1953"],
         "unitdate_end_ssm":["1953"],
         "unitdate_ssm":["April 6, 1953-May 8, 1953"],
-        "_version_":1799254743151804416,
-        "timestamp":"2024-05-16T23:43:57.216Z"}]
+        "_version_":1801953687895015424,
+        "timestamp":"2024-06-15T18:42:31.498Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +94,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

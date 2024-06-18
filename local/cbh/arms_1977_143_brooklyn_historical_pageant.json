@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Historical Pageant records"],
         "unitid_ssm":["1977.143"],
         "abstract_ssm":["This collection primarily documents the planning of the pageant, mostly during 1914, and include minutes of regular planning meetings and special meetings of the Brooklyn Historical Pageant; correspondence; news clippings; memos; lists and notes of the planning committee; programs, and drafts of scripts."],
+        "creator_ssm":["Brooklyn Historical Pageant (Brooklyn, New York, N.Y.)",
+          "Brooklyn Historical Pageant (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1914/1915"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Historical Pageant (Brooklyn, New York, N.Y.)",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1915"],
         "unitdate_ssm":["Inclusive, 1914-1915"],
         "language_ssm":["English"],
-        "_version_":1799256504249876480,
-        "timestamp":"2024-05-17T00:11:56.729Z"}]
+        "_version_":1801960794457374720,
+        "timestamp":"2024-06-15T20:35:28.845Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Historical Pageant (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

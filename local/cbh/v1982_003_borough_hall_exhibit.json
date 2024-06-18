@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Borough Hall: Mirror of Change exhibit photograph collection"],
         "unitid_ssm":["V1982.003"],
         "abstract_ssm":["Images in the collection document artwork in the exhibit curated by Elliot Willensky, then Brooklyn Borough Historian, and held by the Brooklyn Borough President."],
+        "creator_ssm":["Willensky, Elliot",
+          "Willensky, Elliot"],
         "unitdate_normal_ssm":["1985/1989"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Negatives (photographic)",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1985-1989"],
         "language_ssm":["English"],
-        "_version_":1799312407266328576,
-        "timestamp":"2024-05-17T15:00:30.001Z"}]
+        "_version_":1802044931203661824,
+        "timestamp":"2024-06-16T18:52:47.899Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Willensky, Elliot",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

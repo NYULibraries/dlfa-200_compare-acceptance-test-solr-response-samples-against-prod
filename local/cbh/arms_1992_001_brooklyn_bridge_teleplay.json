@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>Brooklyn Bridge</em> teleplay"],
         "unitid_ssm":["1992.001"],
         "abstract_ssm":["A typewritten teleplay for an episode of the television series Brooklyn Bridge, dated 1991. Brooklyn Bridge aired on the CBS network from 1991 to 1993. The series depicted a Jewish family living in Brooklyn during the mid-1950s. The teleplay is for an episode titled, When Irish Eyes Are Smiling. Included with the teleplay is a clipping of an article about the series from the New York Times, dated 1991."],
+        "creator_ssm":["Paramount Pictures",
+          "Paramount Pictures"],
         "unitdate_normal_ssm":["1991/1991"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Paramount Pictures",
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1991"],
         "language_ssm":["English"],
-        "_version_":1799311705067487232,
-        "timestamp":"2024-05-17T14:49:20.332Z"}]
+        "_version_":1801963653429198848,
+        "timestamp":"2024-06-15T21:20:55.373Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Paramount Pictures",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

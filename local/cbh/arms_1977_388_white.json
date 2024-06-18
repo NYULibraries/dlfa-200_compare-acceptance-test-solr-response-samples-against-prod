@@ -47,6 +47,8 @@
         "unittitle_ssm":["Alfred T. White passport"],
         "unitid_ssm":["1977.388"],
         "abstract_ssm":["One passport document dated 1865 requesting that Alfred T. White be permitted to travel safely as a citizen of the United States, signed by Secretary of State William H. Seward."],
+        "creator_ssm":["White, Alfred Tredway",
+          "White, Alfred Tredway"],
         "unitdate_normal_ssm":["1865/1865"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Passports"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["1865"],
         "language_ssm":["English"],
-        "_version_":1799311485111894016,
-        "timestamp":"2024-05-17T14:45:50.566Z"}]
+        "_version_":1801961511246102528,
+        "timestamp":"2024-06-15T20:46:52.428Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "White, Alfred Tredway",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

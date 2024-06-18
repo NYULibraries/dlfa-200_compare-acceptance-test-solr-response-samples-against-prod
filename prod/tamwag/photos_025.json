@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Philip M. Weightman Photographs"],
         "unitid_ssm":["PHOTOS.025"],
         "abstract_ssm":["Philip M. Weightman was an African American labor leader and civil rights activist who held leading positions in the Packinghouse Workers Union, the Congress of Industrial Organizations' Political Action Committee (PAC) and the AFL-CIO's Committee on Political Education (COPE). The collection contains images pertaining to various civil rights-related political action campaigns, including the bombing death of Harry T. Moore (1952), and includes images of Bette Davis, Langston Hughes, and Henry Wallace."],
+        "creator_ssm":["Weightman, Philip M., 1902-",
+          "Weightman, Philip M., 1902-"],
         "unitdate_normal_ssm":["1944/1969",
           "1944/1959"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -84,8 +86,8 @@
           "1959"],
         "unitdate_ssm":["Inclusive, 1944-1969 ; 1944-1959"],
         "language_ssm":["English"],
-        "_version_":1775217518692007936,
-        "timestamp":"2023-08-25T16:02:33.6Z"},
+        "_version_":1801182174097965056,
+        "timestamp":"2024-06-07T06:19:38.605Z"},
       {
         "id":"photos_025aspace_ref13",
         "ead_ssi":"photos_025",
@@ -100,8 +102,8 @@
         "format_ssm":["Archival Series"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Inventory"],
-        "_version_":1775217518732902400,
-        "timestamp":"2023-08-25T16:02:33.65Z"},
+        "_version_":1801182174131519488,
+        "timestamp":"2024-06-07T06:19:38.638Z"},
       {
         "id":"photos_025aspace_ref14",
         "ead_ssi":"photos_025",
@@ -122,8 +124,8 @@
         "unitdate_start_ssm":["1944"],
         "unitdate_end_ssm":["1944"],
         "unitdate_ssm":["Inclusive, 1944"],
-        "_version_":1775217518773796864,
-        "timestamp":"2023-08-25T16:02:33.689Z"},
+        "_version_":1801182174193385472,
+        "timestamp":"2024-06-07T06:19:38.697Z"},
       {
         "id":"photos_025aspace_ref15",
         "ead_ssi":"photos_025",
@@ -144,8 +146,8 @@
         "unitdate_start_ssm":["1944"],
         "unitdate_end_ssm":["1944"],
         "unitdate_ssm":["Inclusive, 1944"],
-        "_version_":1775217518838808576,
-        "timestamp":"2023-08-25T16:02:33.751Z"},
+        "_version_":1801182174285660160,
+        "timestamp":"2024-06-07T06:19:38.785Z"},
       {
         "id":"photos_025aspace_ref16",
         "ead_ssi":"photos_025",
@@ -166,8 +168,8 @@
         "unitdate_start_ssm":["1944"],
         "unitdate_end_ssm":["1944"],
         "unitdate_ssm":["Inclusive, 1944"],
-        "_version_":1775217518884945920,
-        "timestamp":"2023-08-25T16:02:33.795Z"},
+        "_version_":1801182174356963328,
+        "timestamp":"2024-06-07T06:19:38.853Z"},
       {
         "id":"photos_025aspace_ref17",
         "ead_ssi":"photos_025",
@@ -188,8 +190,8 @@
         "unitdate_start_ssm":["1944"],
         "unitdate_end_ssm":["1944"],
         "unitdate_ssm":["Inclusive, 1944"],
-        "_version_":1775217518953103360,
-        "timestamp":"2023-08-25T16:02:33.86Z"},
+        "_version_":1801182174419877888,
+        "timestamp":"2024-06-07T06:19:38.913Z"},
       {
         "id":"photos_025aspace_ref18",
         "ead_ssi":"photos_025",
@@ -210,8 +212,8 @@
         "unitdate_start_ssm":["1944"],
         "unitdate_end_ssm":["1944"],
         "unitdate_ssm":["Inclusive, 1944"],
-        "_version_":1775217519003435008,
-        "timestamp":"2023-08-25T16:02:33.908Z"},
+        "_version_":1801182174466015232,
+        "timestamp":"2024-06-07T06:19:38.957Z"},
       {
         "id":"photos_025aspace_ref19",
         "ead_ssi":"photos_025",
@@ -232,8 +234,8 @@
         "unitdate_start_ssm":["1944"],
         "unitdate_end_ssm":["1944"],
         "unitdate_ssm":["Inclusive, 1944"],
-        "_version_":1775217519060058112,
-        "timestamp":"2023-08-25T16:02:33.961Z"},
+        "_version_":1801182174499569664,
+        "timestamp":"2024-06-07T06:19:38.989Z"},
       {
         "id":"photos_025aspace_ref20",
         "ead_ssi":"photos_025",
@@ -254,8 +256,8 @@
         "unitdate_start_ssm":["1944"],
         "unitdate_end_ssm":["1944"],
         "unitdate_ssm":["Inclusive, 1944"],
-        "_version_":1775217519107244032,
-        "timestamp":"2023-08-25T16:02:34.007Z"},
+        "_version_":1801182174540464128,
+        "timestamp":"2024-06-07T06:19:39.028Z"},
       {
         "id":"photos_025aspace_ref21",
         "ead_ssi":"photos_025",
@@ -276,8 +278,8 @@
         "unitdate_start_ssm":["1944"],
         "unitdate_end_ssm":["1944"],
         "unitdate_ssm":["Inclusive, 1944"],
-        "_version_":1775217519150235648,
-        "timestamp":"2023-08-25T16:02:34.048Z"},
+        "_version_":1801182174591844352,
+        "timestamp":"2024-06-07T06:19:39.077Z"},
       {
         "id":"photos_025aspace_ref22",
         "ead_ssi":"photos_025",
@@ -298,8 +300,8 @@
         "unitdate_start_ssm":["1935"],
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["Inclusive, ca.1940s"],
-        "_version_":1775217519189032960,
-        "timestamp":"2023-08-25T16:02:34.085Z"},
+        "_version_":1801182174631690240,
+        "timestamp":"2024-06-07T06:19:39.115Z"},
       {
         "id":"photos_025aspace_ref23",
         "ead_ssi":"photos_025",
@@ -320,8 +322,8 @@
         "unitdate_start_ssm":["1952"],
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, 1952"],
-        "_version_":1775217519226781696,
-        "timestamp":"2023-08-25T16:02:34.121Z"},
+        "_version_":1801182174678876160,
+        "timestamp":"2024-06-07T06:19:39.16Z"},
       {
         "id":"photos_025aspace_ref24",
         "ead_ssi":"photos_025",
@@ -342,8 +344,8 @@
         "unitdate_start_ssm":["1953"],
         "unitdate_end_ssm":["1953"],
         "unitdate_ssm":["Inclusive, 1953"],
-        "_version_":1775217519270821888,
-        "timestamp":"2023-08-25T16:02:34.163Z"},
+        "_version_":1801182174713479168,
+        "timestamp":"2024-06-07T06:19:39.193Z"},
       {
         "id":"photos_025aspace_ref25",
         "ead_ssi":"photos_025",
@@ -364,8 +366,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1956"],
         "unitdate_ssm":["Inclusive, Early 1950s"],
-        "_version_":1775217519327444992,
-        "timestamp":"2023-08-25T16:02:34.217Z"},
+        "_version_":1801182174752276480,
+        "timestamp":"2024-06-07T06:19:39.229Z"},
       {
         "id":"photos_025aspace_ref26",
         "ead_ssi":"photos_025",
@@ -386,8 +388,8 @@
         "unitdate_start_ssm":["1954"],
         "unitdate_end_ssm":["1954"],
         "unitdate_ssm":["Inclusive, 1954"],
-        "_version_":1775217519377776640,
-        "timestamp":"2023-08-25T16:02:34.265Z"},
+        "_version_":1801182174829871104,
+        "timestamp":"2024-06-07T06:19:39.304Z"},
       {
         "id":"photos_025aspace_ref27",
         "ead_ssi":"photos_025",
@@ -408,8 +410,8 @@
         "unitdate_start_ssm":["1956"],
         "unitdate_end_ssm":["1956"],
         "unitdate_ssm":["Inclusive, 1956"],
-        "_version_":1775217519429156864,
-        "timestamp":"2023-08-25T16:02:34.314Z"},
+        "_version_":1801182174914805760,
+        "timestamp":"2024-06-07T06:19:39.385Z"},
       {
         "id":"photos_025aspace_ref28",
         "ead_ssi":"photos_025",
@@ -430,8 +432,8 @@
         "unitdate_start_ssm":["1956"],
         "unitdate_end_ssm":["1956"],
         "unitdate_ssm":["Inclusive, 1956"],
-        "_version_":1775217519476342784,
-        "timestamp":"2023-08-25T16:02:34.359Z"},
+        "_version_":1801182174990303232,
+        "timestamp":"2024-06-07T06:19:39.457Z"},
       {
         "id":"photos_025aspace_ref29",
         "ead_ssi":"photos_025",
@@ -452,8 +454,8 @@
         "unitdate_start_ssm":["1958"],
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["Inclusive, 1958"],
-        "_version_":1775217519524577280,
-        "timestamp":"2023-08-25T16:02:34.405Z"},
+        "_version_":1801182175047974912,
+        "timestamp":"2024-06-07T06:19:39.512Z"},
       {
         "id":"photos_025aspace_ref30",
         "ead_ssi":"photos_025",
@@ -474,8 +476,8 @@
         "unitdate_start_ssm":["1945"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, ca.1950s"],
-        "_version_":1775217519563374592,
-        "timestamp":"2023-08-25T16:02:34.442Z"},
+        "_version_":1801182175103549440,
+        "timestamp":"2024-06-07T06:19:39.565Z"},
       {
         "id":"photos_025aspace_ref31",
         "ead_ssi":"photos_025",
@@ -496,8 +498,8 @@
         "unitdate_start_ssm":["1945"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, ca.1950s"],
-        "_version_":1775217519608463360,
-        "timestamp":"2023-08-25T16:02:34.485Z"},
+        "_version_":1801182175149686784,
+        "timestamp":"2024-06-07T06:19:39.609Z"},
       {
         "id":"photos_025aspace_ref32",
         "ead_ssi":"photos_025",
@@ -518,8 +520,8 @@
         "unitdate_start_ssm":["1945"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, ca.1950s"],
-        "_version_":1775217519645163520,
-        "timestamp":"2023-08-25T16:02:34.52Z"},
+        "_version_":1801182175216795648,
+        "timestamp":"2024-06-07T06:19:39.673Z"},
       {
         "id":"photos_025aspace_ref33",
         "ead_ssi":"photos_025",
@@ -540,8 +542,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1960"],
         "unitdate_ssm":["Inclusive, 1960"],
-        "_version_":1775217519682912256,
-        "timestamp":"2023-08-25T16:02:34.556Z"},
+        "_version_":1801182175251398656,
+        "timestamp":"2024-06-07T06:19:39.706Z"},
       {
         "id":"photos_025aspace_ref34",
         "ead_ssi":"photos_025",
@@ -562,8 +564,8 @@
         "unitdate_start_ssm":["1955"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, ca.1960s"],
-        "_version_":1775217519721709569,
-        "timestamp":"2023-08-25T16:02:34.593Z"},
+        "_version_":1801182175340527616,
+        "timestamp":"2024-06-07T06:19:39.791Z"},
       {
         "id":"photos_025aspace_ref35",
         "ead_ssi":"photos_025",
@@ -584,8 +586,8 @@
         "unitdate_start_ssm":["1955"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, ca.1960s"],
-        "_version_":1775217519759458304,
-        "timestamp":"2023-08-25T16:02:34.629Z"},
+        "_version_":1801182175371984896,
+        "timestamp":"2024-06-07T06:19:39.821Z"},
       {
         "id":"photos_025aspace_ref36",
         "ead_ssi":"photos_025",
@@ -606,8 +608,8 @@
         "unitdate_start_ssm":["1955"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, ca.1960s"],
-        "_version_":1775217519796158464,
-        "timestamp":"2023-08-25T16:02:34.664Z"}]
+        "_version_":1801182175413927936,
+        "timestamp":"2024-06-07T06:19:39.861Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -615,7 +617,8 @@
       "repository_sim":[
         "tamwag",25],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Weightman, Philip M., 1902-",1],
       "date_range_sim":[
         "1901-2000",24,
         "undated & other",1],

@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Samuel Levinger Papers"],
         "unitid_ssm":["ALBA.280"],
+        "creator_ssm":["Levinger, Samuel Harold",
+          "Levinger, Samuel Harold"],
         "unitdate_normal_ssm":["1937/1937"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Levinger, Samuel Harold",
@@ -60,8 +62,8 @@
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["circa 1937"],
         "language_ssm":["English"],
-        "_version_":1775223075267149824,
-        "timestamp":"2023-08-25T17:30:52.773Z"},
+        "_version_":1801147816755593216,
+        "timestamp":"2024-06-06T21:13:32.891Z"},
       {
         "id":"alba_280aspace_11c59d56e489bf7df06089173e0ce78a",
         "ead_ssi":"alba_280",
@@ -77,8 +79,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Memorial Committee"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1775223075449602048,
-        "timestamp":"2023-08-25T17:30:52.948Z"},
+        "_version_":1801147816825847808,
+        "timestamp":"2024-06-06T21:13:32.958Z"},
       {
         "id":"alba_280aspace_2a2beb14450afde0cd53b6d986d13535",
         "ead_ssi":"alba_280",
@@ -97,8 +99,8 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1775223075315384320,
-        "timestamp":"2023-08-25T17:30:52.82Z"},
+        "_version_":1801147816769224704,
+        "timestamp":"2024-06-06T21:13:32.904Z"},
       {
         "id":"alba_280aspace_a04837ed40b8d5034eb115030a24dfbe",
         "ead_ssi":"alba_280",
@@ -114,8 +116,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["A Mother In Spain"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1775223075408707584,
-        "timestamp":"2023-08-25T17:30:52.909Z"},
+        "_version_":1801147816809070592,
+        "timestamp":"2024-06-06T21:13:32.942Z"},
       {
         "id":"alba_280aspace_d585df2226147f404e5b82d6a877433c",
         "ead_ssi":"alba_280",
@@ -134,8 +136,8 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["1937"],
-        "_version_":1775223075364667392,
-        "timestamp":"2023-08-25T17:30:52.867Z"}]
+        "_version_":1801147816782856192,
+        "timestamp":"2024-06-06T21:13:32.917Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -143,7 +145,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Levinger, Samuel Harold",1],
       "date_range_sim":[
         "1901-2000",3,
         "undated & other",2],

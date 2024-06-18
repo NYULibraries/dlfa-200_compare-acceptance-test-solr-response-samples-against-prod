@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Adele Buchalter scrapbooks"],
         "unitid_ssm":["MS 86"],
         "abstract_ssm":["The collection holds 29 scrapbooks compiled by New Yorker Adele Buchalter (1899-1991). Comprised primarily of photographs, the albums trace Buchalter's life from infancy through her move at age 80 to a retirement community. Subjects include, among others, Buchalter's school years at Horace Mann School for Girls and Vassar College, volunteer service at the start of World War I, her career in retail mostly as a buyer/purchasing agent, her family history (which includes 19th century Jewish immigrants from Germany), and extensive travels in the 1970s."],
+        "creator_ssm":["Buchalter, Adele, 1899-1991",
+          "Buchalter, Adele, 1899-1991"],
         "corpname_ssm":["New-York Historical Society",
           "Vassar College"],
         "genreform_ssm":["Albums (books)",
@@ -72,8 +74,8 @@
           "Printed ephemera."],
         "heading_ssm":["Adele Buchalter scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1866-1981"],
-        "_version_":1799325516862324736,
-        "timestamp":"2024-05-17T18:28:52.281Z"},
+        "_version_":1802087596947406848,
+        "timestamp":"2024-06-17T06:10:57.123Z"},
       {
         "id":"ms86_adele_buchalteraspace_14e892b0de4ab0f6d3486174961c4bf2",
         "ead_ssi":"ms86_adele_buchalter",
@@ -89,8 +91,8 @@
         "location_ssm":["Offsite-Box: 8"],
         "heading_ssm":["Volume 17. \"Europe\""],
         "unitdate_ssm":["Inclusive, 1971"],
-        "_version_":1799325517142294528,
-        "timestamp":"2024-05-17T18:28:52.553Z"},
+        "_version_":1802087597224230912,
+        "timestamp":"2024-06-17T06:10:57.387Z"},
       {
         "id":"ms86_adele_buchalteraspace_24a539d054cfb33052ffadd2ddb57972",
         "ead_ssi":"ms86_adele_buchalter",
@@ -106,8 +108,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Volume 4. \"Vassar [crossed out]; WWI\""],
         "unitdate_ssm":["Inclusive, 1916-1918"],
-        "_version_":1799325516939919360,
-        "timestamp":"2024-05-17T18:28:52.36Z"},
+        "_version_":1802087597017661440,
+        "timestamp":"2024-06-17T06:10:57.19Z"},
       {
         "id":"ms86_adele_buchalteraspace_3672b1d16a5437230ca6b15ac1c24e45",
         "ead_ssi":"ms86_adele_buchalter",
@@ -123,8 +125,8 @@
         "location_ssm":["Offsite-Box: 7"],
         "heading_ssm":["Volume 14. \"Ireland\""],
         "unitdate_ssm":["Inclusive, 1968"],
-        "_version_":1799325517096157184,
-        "timestamp":"2024-05-17T18:28:52.509Z"},
+        "_version_":1802087597179142144,
+        "timestamp":"2024-06-17T06:10:57.344Z"},
       {
         "id":"ms86_adele_buchalteraspace_3d311e63f128b0684f1ef1e5a5c16cfa",
         "ead_ssi":"ms86_adele_buchalter",
@@ -140,8 +142,8 @@
         "location_ssm":["Offsite-Box: 7"],
         "heading_ssm":["Volume 15. \"Florida, AB Retires\""],
         "unitdate_ssm":["Inclusive, 1968-1970"],
-        "_version_":1799325517110837248,
-        "timestamp":"2024-05-17T18:28:52.523Z"},
+        "_version_":1802087597192773632,
+        "timestamp":"2024-06-17T06:10:57.357Z"},
       {
         "id":"ms86_adele_buchalteraspace_3ed7c33b1419992acc3ec12f0863623b",
         "ead_ssi":"ms86_adele_buchalter",
@@ -157,8 +159,8 @@
         "location_ssm":["Offsite-Box: 8"],
         "heading_ssm":["Volume 16. \"1st Trip to Canada\""],
         "unitdate_ssm":["Inclusive, 1970"],
-        "_version_":1799325517125517312,
-        "timestamp":"2024-05-17T18:28:52.537Z"},
+        "_version_":1802087597209550848,
+        "timestamp":"2024-06-17T06:10:57.373Z"},
       {
         "id":"ms86_adele_buchalteraspace_418e8d980ffde0d4d6120304c5925c57",
         "ead_ssi":"ms86_adele_buchalter",
@@ -174,8 +176,8 @@
         "location_ssm":["Offsite-Box: 4"],
         "heading_ssm":["Volume 9. \"AB works, gets BA\""],
         "unitdate_ssm":["Inclusive, 1943-1952"],
-        "_version_":1799325517018562560,
-        "timestamp":"2024-05-17T18:28:52.435Z"},
+        "_version_":1802087597099450368,
+        "timestamp":"2024-06-17T06:10:57.268Z"},
       {
         "id":"ms86_adele_buchalteraspace_44d925a8c74645a256fc3b8516416b34",
         "ead_ssi":"ms86_adele_buchalter",
@@ -191,8 +193,8 @@
         "location_ssm":["Offsite-Box: 12"],
         "heading_ssm":["Volume 25. \"Canada and Family\""],
         "unitdate_ssm":["Inclusive, 1975-1979"],
-        "_version_":1799325517268123648,
-        "timestamp":"2024-05-17T18:28:52.673Z"},
+        "_version_":1802087597349011456,
+        "timestamp":"2024-06-17T06:10:57.506Z"},
       {
         "id":"ms86_adele_buchalteraspace_46a0e8709b8a44e355a457709d9b92ae",
         "ead_ssi":"ms86_adele_buchalter",
@@ -208,8 +210,8 @@
         "location_ssm":["Offsite-Box: 6"],
         "heading_ssm":["Volume 12. \"In Memoriam: Frieda and Louis Lowinson\""],
         "unitdate_ssm":["Inclusive, 1917-1970"],
-        "_version_":1799325517065748480,
-        "timestamp":"2024-05-17T18:28:52.48Z"},
+        "_version_":1802087597143490560,
+        "timestamp":"2024-06-17T06:10:57.31Z"},
       {
         "id":"ms86_adele_buchalteraspace_4ae3dd5d9e8435104b9d07a0ee272f58",
         "ead_ssi":"ms86_adele_buchalter",
@@ -225,8 +227,8 @@
         "location_ssm":["Offsite-Box: 10"],
         "heading_ssm":["Volume 20. \"Asia\""],
         "unitdate_ssm":["Inclusive, 1973"],
-        "_version_":1799325517186334720,
-        "timestamp":"2024-05-17T18:28:52.595Z"},
+        "_version_":1802087597270368256,
+        "timestamp":"2024-06-17T06:10:57.43Z"},
       {
         "id":"ms86_adele_buchalteraspace_4f0141f8daadcd144896822c3ecd52f3",
         "ead_ssi":"ms86_adele_buchalter",
@@ -242,8 +244,8 @@
         "location_ssm":["Offsite-Box: 5"],
         "heading_ssm":["Volume 11. \"Family\""],
         "unitdate_ssm":["Inclusive, 1953-1969"],
-        "_version_":1799325517051068416,
-        "timestamp":"2024-05-17T18:28:52.466Z"},
+        "_version_":1802087597128810496,
+        "timestamp":"2024-06-17T06:10:57.296Z"},
       {
         "id":"ms86_adele_buchalteraspace_5dc0d802b08f11c029528a48a2cbd803",
         "ead_ssi":"ms86_adele_buchalter",
@@ -259,8 +261,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Volume 5. \"AB Gets Married\""],
         "unitdate_ssm":["Inclusive, 1909, 1918, 1970s"],
-        "_version_":1799325516957745152,
-        "timestamp":"2024-05-17T18:28:52.377Z"},
+        "_version_":1802087597034438656,
+        "timestamp":"2024-06-17T06:10:57.206Z"},
       {
         "id":"ms86_adele_buchalteraspace_5f76fc1db9bea512a7979fcc7a7d745c",
         "ead_ssi":"ms86_adele_buchalter",
@@ -276,8 +278,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Volume 3. \"AB High School\""],
         "unitdate_ssm":["Inclusive, 1913-1972"],
-        "_version_":1799325516915802112,
-        "timestamp":"2024-05-17T18:28:52.337Z"},
+        "_version_":1802087596997738496,
+        "timestamp":"2024-06-17T06:10:57.171Z"},
       {
         "id":"ms86_adele_buchalteraspace_6e32d4c729840051eed461cdaf89d5aa",
         "ead_ssi":"ms86_adele_buchalter",
@@ -293,8 +295,8 @@
         "location_ssm":["Offsite-Box: 11"],
         "heading_ssm":["Volume 23. \"South Seas\""],
         "unitdate_ssm":["Inclusive, 1974"],
-        "_version_":1799325517238763520,
-        "timestamp":"2024-05-17T18:28:52.645Z"},
+        "_version_":1802087597316505600,
+        "timestamp":"2024-06-17T06:10:57.475Z"},
       {
         "id":"ms86_adele_buchalteraspace_7407cde64a6382aefb9c84c28f214d82",
         "ead_ssi":"ms86_adele_buchalter",
@@ -310,8 +312,8 @@
         "location_ssm":["Offsite-Box: 9"],
         "heading_ssm":["Volume 18. \"England, Holland\""],
         "unitdate_ssm":["Inclusive, 1971"],
-        "_version_":1799325517156974592,
-        "timestamp":"2024-05-17T18:28:52.566Z"},
+        "_version_":1802087597239959552,
+        "timestamp":"2024-06-17T06:10:57.402Z"},
       {
         "id":"ms86_adele_buchalteraspace_95c579368d9585eafc3aebc53f34fced",
         "ead_ssi":"ms86_adele_buchalter",
@@ -327,8 +329,8 @@
         "location_ssm":["Offsite-Box: 14"],
         "heading_ssm":["Volume 28. \"Europe\""],
         "unitdate_ssm":["Inclusive, 1979"],
-        "_version_":1799325517314260992,
-        "timestamp":"2024-05-17T18:28:52.717Z"},
+        "_version_":1802087597399343104,
+        "timestamp":"2024-06-17T06:10:57.554Z"},
       {
         "id":"ms86_adele_buchalteraspace_97dfebea8d99943b83fbd29d244b861d",
         "ead_ssi":"ms86_adele_buchalter",
@@ -344,8 +346,8 @@
         "location_ssm":["Offsite-Box: 14"],
         "heading_ssm":["Volume 29. \"Hinsdale, Illinois\""],
         "unitdate_ssm":["Inclusive, 1979-1981"],
-        "_version_":1799325517327892480,
-        "timestamp":"2024-05-17T18:28:52.729Z"},
+        "_version_":1802087597417168896,
+        "timestamp":"2024-06-17T06:10:57.571Z"},
       {
         "id":"ms86_adele_buchalteraspace_9b449fa8bc66a619253fc4d9fccf9a88",
         "ead_ssi":"ms86_adele_buchalter",
@@ -361,8 +363,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Volume 6. \"Vassar & 50th Reunion,\" 1918-1920"],
         "unitdate_ssm":["Inclusive, 1918-1920, 1970, 1980"],
-        "_version_":1799325516972425216,
-        "timestamp":"2024-05-17T18:28:52.391Z"},
+        "_version_":1802087597051215872,
+        "timestamp":"2024-06-17T06:10:57.222Z"},
       {
         "id":"ms86_adele_buchalteraspace_9c1dc6879d7be4681b6b31befabf3737",
         "ead_ssi":"ms86_adele_buchalter",
@@ -378,8 +380,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Volume 7. \"LAB [Lloyd Arthur Buchalter] 2-19-23\""],
         "unitdate_ssm":["Inclusive, 1923-1925"],
-        "_version_":1799325516991299584,
-        "timestamp":"2024-05-17T18:28:52.409Z"},
+        "_version_":1802087597066944512,
+        "timestamp":"2024-06-17T06:10:57.237Z"},
       {
         "id":"ms86_adele_buchalteraspace_9c313f8ee0ed4d7a985e9a62fdc54020",
         "ead_ssi":"ms86_adele_buchalter",
@@ -395,8 +397,8 @@
         "location_ssm":["Offsite-Box: 6"],
         "heading_ssm":["Volume 13. \"Hawaii\""],
         "unitdate_ssm":["Inclusive, 1967, 1974"],
-        "_version_":1799325517083574272,
-        "timestamp":"2024-05-17T18:28:52.497Z"},
+        "_version_":1802087597160267776,
+        "timestamp":"2024-06-17T06:10:57.326Z"},
       {
         "id":"ms86_adele_buchalteraspace_a3e3e0396deeb07b153982664db95668",
         "ead_ssi":"ms86_adele_buchalter",
@@ -412,8 +414,8 @@
         "location_ssm":["Offsite-Box: 11"],
         "heading_ssm":["Volume 22. \"N.Z. [New Zealand] and Australia\""],
         "unitdate_ssm":["Inclusive, 1973"],
-        "_version_":1799325517220937728,
-        "timestamp":"2024-05-17T18:28:52.628Z"},
+        "_version_":1802087597300776960,
+        "timestamp":"2024-06-17T06:10:57.46Z"},
       {
         "id":"ms86_adele_buchalteraspace_a902a5e419d06c44e50826dca24ccc9d",
         "ead_ssi":"ms86_adele_buchalter",
@@ -429,8 +431,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Volume 1. \"Family History\""],
         "unitdate_ssm":["Inclusive, circa 1866-1968"],
-        "_version_":1799325516882247680,
-        "timestamp":"2024-05-17T18:28:52.305Z"},
+        "_version_":1802087596965232640,
+        "timestamp":"2024-06-17T06:10:57.14Z"},
       {
         "id":"ms86_adele_buchalteraspace_baae161ad02d0bba8a39fa2d9b86496f",
         "ead_ssi":"ms86_adele_buchalter",
@@ -446,8 +448,8 @@
         "location_ssm":["Offsite-Box: 5"],
         "heading_ssm":["Volume 10. \"Little Adele,\" 1941-1976"],
         "unitdate_ssm":["Inclusive, 1941-1976"],
-        "_version_":1799325517036388352,
-        "timestamp":"2024-05-17T18:28:52.452Z"},
+        "_version_":1802087597113081856,
+        "timestamp":"2024-06-17T06:10:57.28Z"},
       {
         "id":"ms86_adele_buchalteraspace_be7b306782cff2735f866efcfbb3dc59",
         "ead_ssi":"ms86_adele_buchalter",
@@ -463,8 +465,8 @@
         "location_ssm":["Offsite-Box: 9"],
         "heading_ssm":["Volume 19. \"Move to Calgary\""],
         "unitdate_ssm":["Inclusive, 1971-1980"],
-        "_version_":1799325517170606080,
-        "timestamp":"2024-05-17T18:28:52.58Z"},
+        "_version_":1802087597255688192,
+        "timestamp":"2024-06-17T06:10:57.417Z"},
       {
         "id":"ms86_adele_buchalteraspace_c0649a6ae30ba8b241a5f24ee3acea85",
         "ead_ssi":"ms86_adele_buchalter",
@@ -480,8 +482,8 @@
         "location_ssm":["Offsite-Box: 4"],
         "heading_ssm":["Volume 8. \"Father dies. The boys grow up. Mother goes to work\""],
         "unitdate_ssm":["Inclusive, 1925-1946"],
-        "_version_":1799325517004931072,
-        "timestamp":"2024-05-17T18:28:52.422Z"},
+        "_version_":1802087597085818880,
+        "timestamp":"2024-06-17T06:10:57.255Z"},
       {
         "id":"ms86_adele_buchalteraspace_c90260771874a0ff1f66795767f88500",
         "ead_ssi":"ms86_adele_buchalter",
@@ -497,8 +499,8 @@
         "location_ssm":["Offsite-Box: 13"],
         "heading_ssm":["Volume 27. \"Africa\" [Kenya]"],
         "unitdate_ssm":["Inclusive, 1977"],
-        "_version_":1799325517298532352,
-        "timestamp":"2024-05-17T18:28:52.702Z"},
+        "_version_":1802087597380468736,
+        "timestamp":"2024-06-17T06:10:57.535Z"},
       {
         "id":"ms86_adele_buchalteraspace_c91d90caaab178f9cfa581ede7ca3abb",
         "ead_ssi":"ms86_adele_buchalter",
@@ -514,8 +516,8 @@
         "location_ssm":["Offsite-Box: 10"],
         "heading_ssm":["Volume 21. \"Japan\""],
         "unitdate_ssm":["Inclusive, 1973"],
-        "_version_":1799325517205209088,
-        "timestamp":"2024-05-17T18:28:52.613Z"},
+        "_version_":1802087597282951168,
+        "timestamp":"2024-06-17T06:10:57.443Z"},
       {
         "id":"ms86_adele_buchalteraspace_e22b17687c86a839676559b734f90ee3",
         "ead_ssi":"ms86_adele_buchalter",
@@ -531,8 +533,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Volume 2. \"AB Childhood\""],
         "unitdate_ssm":["Inclusive, 1899-circa 1913"],
-        "_version_":1799325516897976320,
-        "timestamp":"2024-05-17T18:28:52.32Z"},
+        "_version_":1802087596979912704,
+        "timestamp":"2024-06-17T06:10:57.154Z"},
       {
         "id":"ms86_adele_buchalteraspace_e5f9a396e029c0d181cecab02486bf4a",
         "ead_ssi":"ms86_adele_buchalter",
@@ -548,8 +550,8 @@
         "location_ssm":["Offsite-Box: 12"],
         "heading_ssm":["Volume 24. \"South America\""],
         "unitdate_ssm":["Inclusive, 1975"],
-        "_version_":1799325517253443584,
-        "timestamp":"2024-05-17T18:28:52.659Z"},
+        "_version_":1802087597334331392,
+        "timestamp":"2024-06-17T06:10:57.492Z"},
       {
         "id":"ms86_adele_buchalteraspace_eac305c0fcd2e63c568678be9b6b391f",
         "ead_ssi":"ms86_adele_buchalter",
@@ -565,8 +567,8 @@
         "location_ssm":["Offsite-Box: 13"],
         "heading_ssm":["Volume 26. \"Calgary\" [England, Alaska, Yukon]"],
         "unitdate_ssm":["Inclusive, 1977"],
-        "_version_":1799325517281755136,
-        "timestamp":"2024-05-17T18:28:52.686Z"}]
+        "_version_":1802087597363691520,
+        "timestamp":"2024-06-17T06:10:57.52Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -574,7 +576,8 @@
       "repository_sim":[
         "nyhs",30],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Buchalter, Adele, 1899-1991",1],
       "date_range_sim":[
         "undated & other",30],
       "subject_sim":[

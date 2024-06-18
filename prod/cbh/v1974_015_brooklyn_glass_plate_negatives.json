@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn glass plate negative collection"],
         "unitid_ssm":["V1974.015"],
         "abstract_ssm":["Images in this collection show rural Brooklyn life, street scenes, snowstorms, and the Brooklyn Navy Yard in the late 19th century."],
+        "creator_ssm":["Korten, Henry O.",
+          "Korten, Henry O."],
         "unitdate_normal_ssm":["1860/1909"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographic prints",
@@ -82,8 +84,8 @@
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["Inclusive, circa 1870 to 1899"],
         "language_ssm":["English"],
-        "_version_":1795245833277407232,
-        "timestamp":"2024-04-02T17:44:02.831Z"}]
+        "_version_":1800836067707846656,
+        "timestamp":"2024-06-03T10:38:25.831Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Korten, Henry O.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

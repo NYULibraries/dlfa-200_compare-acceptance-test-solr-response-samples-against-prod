@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Photographs of St. Mary's Maternity Hospital"],
         "unitid_ssm":["V1991.125"],
         "abstract_ssm":["The Photographs of St. Mary's Maternity Hospital show exterior, interior, and detail views of St. Mary's Maternity Hospital taken on November 6, 1991. The hospital was located on Dean Street and bounded by Hoyt, Pacific, and Bond Streets in the Boerum Hill neighborhood of Brooklyn."],
+        "creator_ssm":["Catholic Medical Center of Brooklyn and Queens",
+          "Marino, Joseph V.",
+          "Catholic Medical Center of Brooklyn and Queens",
+          "Marino, Joseph V."],
         "unitdate_normal_ssm":["1991/1991"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Catholic Medical Center of Brooklyn and Queens",
@@ -78,8 +82,8 @@
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1991"],
         "language_ssm":["English"],
-        "_version_":1799311557910331392,
-        "timestamp":"2024-05-17T14:46:59.992Z"}]
+        "_version_":1802045562524008448,
+        "timestamp":"2024-06-16T19:02:49.972Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +91,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Catholic Medical Center of Brooklyn and Queens",1,
+        "Marino, Joseph V.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Daily Eagle issues on the Brooklyn centennial"],
         "unitid_ssm":["ARC.259"],
         "abstract_ssm":["This collection contains copies of three different Brooklyn Daily Eagle centennial numbers, which were published on April 8, 1934 to commemorate the centennial anniversary of Brooklyn's chartering as a city."],
+        "creator_ssm":["Brooklyn Daily Eagle (Firm)",
+          "Brooklyn Daily Eagle (Firm)"],
         "unitdate_normal_ssm":["1905/1934"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Daily Eagle (Firm)"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1934"],
         "unitdate_ssm":["Inclusive, 1905, 1934"],
         "language_ssm":["English"],
-        "_version_":1799256305920114688,
-        "timestamp":"2024-05-17T00:08:47.588Z"}]
+        "_version_":1801959630466711552,
+        "timestamp":"2024-06-15T20:16:58.777Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Daily Eagle (Firm)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

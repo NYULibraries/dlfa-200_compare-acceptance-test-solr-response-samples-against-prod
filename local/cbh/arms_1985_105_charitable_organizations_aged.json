@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Brooklyn charitable organizations for the aged publications"],
         "unitid_ssm":["1985.105"],
         "abstract_ssm":["Brooklyn charitable organizations for the aged publications includes material from the Brooklyn Home for Aged Colored People, Ladies Benevolent Association of Greenpoint and Greenpoint Home for the Aged, and Chapin Home for the Aged and Infirm."],
+        "creator_ssm":["Ladies' Benevolent Association of Greenpoint (Brooklyn, New York, N.Y.)",
+          "Brooklyn Home for Aged Colored People (New York, N.Y.)",
+          "Ladies' Benevolent Association of Greenpoint (Brooklyn, New York, N.Y.)",
+          "Brooklyn Home for Aged Colored People (New York, N.Y.)"],
         "unitdate_normal_ssm":["1883/1942"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Ladies' Benevolent Association of Greenpoint (Brooklyn, New York, N.Y.)",
@@ -75,8 +79,8 @@
         "unitdate_end_ssm":["1942"],
         "unitdate_ssm":["Inclusive, 1883-1942"],
         "language_ssm":["English"],
-        "_version_":1799311643548581888,
-        "timestamp":"2024-05-17T14:48:21.663Z"},
+        "_version_":1801963130554679296,
+        "timestamp":"2024-06-15T21:12:36.72Z"},
       {
         "id":"arms_1985_105_charitable_organizations_agedaspace_25d22f8d912070a50d42d46edbcee014",
         "ead_ssi":"arms_1985_105_charitable_organizations_aged",
@@ -90,14 +94,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Home for Aged Colored People"],
         "unitdate_start_ssm":["1892"],
         "unitdate_end_ssm":["1916"],
         "unitdate_ssm":["Inclusive, 1892-1916"],
-        "_version_":1799311643598913536,
-        "timestamp":"2024-05-17T14:48:21.711Z"},
+        "_version_":1801963130614448128,
+        "timestamp":"2024-06-15T21:12:36.778Z"},
       {
         "id":"arms_1985_105_charitable_organizations_agedaspace_4155a63cb44938a7e2a3d4755c20d12a",
         "ead_ssi":"arms_1985_105_charitable_organizations_aged",
@@ -111,14 +114,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Chapin Home for the Aged and Infirm"],
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1942"],
         "unitdate_ssm":["Inclusive, 1940-1942"],
-        "_version_":1799311643567456256,
-        "timestamp":"2024-05-17T14:48:21.681Z"},
+        "_version_":1801963130574602240,
+        "timestamp":"2024-06-15T21:12:36.74Z"},
       {
         "id":"arms_1985_105_charitable_organizations_agedaspace_bea65b2182f112f14ef483c5ebbdaf51",
         "ead_ssi":"arms_1985_105_charitable_organizations_aged",
@@ -132,14 +134,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Greenpoint Home for the Aged"],
         "unitdate_start_ssm":["1883"],
         "unitdate_end_ssm":["1883"],
         "unitdate_ssm":["1883"],
-        "_version_":1799311643583184896,
-        "timestamp":"2024-05-17T14:48:21.696Z"}]
+        "_version_":1801963130591379456,
+        "timestamp":"2024-06-15T21:12:36.756Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -147,7 +148,9 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Home for Aged Colored People (New York, N.Y.)",1,
+        "Ladies' Benevolent Association of Greenpoint (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",3],

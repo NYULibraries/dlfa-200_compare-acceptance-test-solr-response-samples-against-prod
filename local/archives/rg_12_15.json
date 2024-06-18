@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Office of Lesbian, Gay, Bisexual and Transgender Student Services/LGBTQ Student Center"],
         "unitid_ssm":["RG.12.15"],
         "abstract_ssm":["The LGBTQ+ Center offers educational and community-focused programs and events throughout the year for NYU students, faculty, staff, and alumni. This collection documents the founding of the LGBTQ Student Center at NYU; its administrative re/organization(s); and events and trainings developed and hosted by the Center and the Office of LGBT Student Services. Materials in this collection include flyers and other ephemera, photographs in both physical and digital format, administrative documents, and publications."],
+        "creator_ssm":["New York University. Office of Lesbian, Gay, Bisexual and Transgender Student Services",
+          "New York University. Office of Lesbian, Gay, Bisexual and Transgender Student Services"],
         "unitdate_normal_ssm":["1995/2014"],
         "corpname_ssm":["New York University Archives",
           "New York University. Office of Lesbian, Gay, Bisexual and Transgender Student Services"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1995"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 1995-2014"],
-        "_version_":1799253031212023808,
-        "timestamp":"2024-05-16T23:16:44.583Z"},
+        "_version_":1801951442712395776,
+        "timestamp":"2024-06-15T18:06:50.326Z"},
       {
         "id":"rg_12_15aspace_063f377ade4ac1e7662997a0277dac6f",
         "ead_ssi":"rg_12_15",
@@ -81,14 +83,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives Accessions 003, Item: RG_12_15_1-6",
-          "Item: RG_12_15_1-6"],
+        "location_ssm":["Box: Shared University Archives Accessions 003, Item: RG_12_15_1-6"],
         "heading_ssm":["Physical Digital Media"],
         "unitdate_start_ssm":["2010"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2010-2014"],
-        "_version_":1799253031228801024,
-        "timestamp":"2024-05-16T23:16:44.599Z"}]
+        "_version_":1801951442735464448,
+        "timestamp":"2024-06-15T18:06:50.348Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +97,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Office of Lesbian, Gay, Bisexual and Transgender Student Services",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",2],

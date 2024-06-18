@@ -47,6 +47,8 @@
         "unittitle_ssm":["Evelyn Rudon Brooklyn Navy Yard collection"],
         "unitid_ssm":["ARC.076"],
         "abstract_ssm":["This collection, with material dated 1951 to 1972, contains documents, pamphlets, newsletters, and photographs collected by Evelyn Rudon during her career at the New York Naval Shipyard Technical Library. Items in the collection include personnel forms and correspondence relative to Rudon's position as a civilian employee, employee publications, and office memoranda. Photographs in the collection depict scenes of Navy Yard office work, including members of the local union and the library where Evelyn Rudon was employed."],
+        "creator_ssm":["Rudon, Evelyn",
+          "Rudon, Evelyn"],
         "unitdate_normal_ssm":["1951/1972"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Naval Shipyard",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, 1951-1972"],
         "language_ssm":["English"],
-        "_version_":1799312397338411008,
-        "timestamp":"2024-05-17T15:00:20.533Z"}]
+        "_version_":1801958902499115008,
+        "timestamp":"2024-06-15T20:05:24.533Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rudon, Evelyn",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

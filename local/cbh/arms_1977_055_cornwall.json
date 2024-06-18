@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Augustus Cornwall letter"],
         "unitid_ssm":["1977.055"],
         "abstract_ssm":["One letter, dated March 14, 1800, from Augustus Cornwall of Cow Neck, Long Island, N.Y. (present-day Port Washington), to his nephew.  The letter relates to the purchasing of a Young Gentleman and Lady's Monitor and various family affairs."],
+        "creator_ssm":["Cornwall, Augustus",
+          "Cornwall, Augustus"],
         "unitdate_normal_ssm":["1880/1880"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1880"],
         "unitdate_ssm":["Inclusive, 1880"],
         "language_ssm":["English"],
-        "_version_":1799311451994718208,
-        "timestamp":"2024-05-17T14:45:18.983Z"}]
+        "_version_":1801960615310262272,
+        "timestamp":"2024-06-15T20:32:37.997Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cornwall, Augustus",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

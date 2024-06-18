@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lemuel Shattuck collection of White family papers"],
         "unitid_ssm":["1978.136"],
         "abstract_ssm":["Correspondence and notes concerning the genealogy of the White family of Long Island, 1846-1856, and one original document from 1693."],
+        "creator_ssm":["Shattuck, Lemuel",
+          "Shattuck, Lemuel"],
         "unitdate_normal_ssm":["1693/1856"],
         "corpname_ssm":["Brooklyn Historical Society",
           "C.F. Libbie & Co.",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1856"],
         "unitdate_ssm":["Inclusive, 1693, 1846-1856"],
         "language_ssm":["English"],
-        "_version_":1790274633905209344,
-        "timestamp":"2024-02-07T20:48:57.668Z"}]
+        "_version_":1800745783616602112,
+        "timestamp":"2024-06-02T10:43:24.212Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Shattuck, Lemuel",1],
       "date_range_sim":[
         "1601-1700",1,
         "1801-1900",1],

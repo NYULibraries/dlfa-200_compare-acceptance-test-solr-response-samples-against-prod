@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["James Watt family papers"],
         "unitid_ssm":["ARC.103"],
         "abstract_ssm":["The James Watt family papers, covering the period from 1840 to 1899, document the early years of the Watt family as new immigrants to New York from Scotland. Items in the collection include correspondence from James Watt to relatives in Scotland, including his parents and brother-in-law, Peter Machray; a notebook listing family birthdates and birthplaces; receipts addressed to Machray for gas and rent in Scotland; and a receipt for James Watt's pew rental at the Lawrence Street Presbyterian Church in Brooklyn. Correspondence details Barbara Watt's voyage from Scotland to New York with three young children, and the family's impressions of living in New York as immigrants."],
+        "creator_ssm":["Watt, James",
+          "Watt, James"],
         "unitdate_normal_ssm":["1830/1909"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Watt family"],
@@ -83,8 +85,8 @@
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["Inclusive, circa 1840 to 1899"],
         "language_ssm":["English"],
-        "_version_":1799256189499867136,
-        "timestamp":"2024-05-17T00:06:56.561Z"}]
+        "_version_":1801959000312381440,
+        "timestamp":"2024-06-15T20:06:57.815Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +94,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Watt, James",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Helen Brett receipts"],
         "unitid_ssm":["1977.610"],
         "abstract_ssm":["Two receipts for the purchase and subsequent sale of a piano, dated 1877 and 1882."],
+        "creator_ssm":["Brett, Helen",
+          "Brett, Helen"],
         "unitdate_normal_ssm":["1877/1882"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Receipts (financial records)"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1882"],
         "unitdate_ssm":["Inclusive, 1877, 1882"],
         "language_ssm":["English"],
-        "_version_":1799256294522093568,
-        "timestamp":"2024-05-17T00:08:36.717Z"}]
+        "_version_":1801962068973191168,
+        "timestamp":"2024-06-15T20:55:44.318Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brett, Helen",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

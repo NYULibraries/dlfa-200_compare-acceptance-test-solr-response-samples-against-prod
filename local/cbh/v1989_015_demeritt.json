@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":20,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Dwight B. Demeritt, Jr. Brooklyn Navy Yard photographs and negatives"],
         "unitid_ssm":["V1989.015"],
         "abstract_ssm":["The collection includes exterior views of Marine Hospital and gate house; views of the Barrier Forts Monument, the Navy Yard bell, and cannons located outside of Marine Hospital; exterior and interior views of the Chief Surgeon's Quarters; several copy prints of floor plans for the Chief Surgeon's Quarters (circa 1865); and one copy print of the plan of the Brooklyn Navy Yard (1860)."],
+        "creator_ssm":["Demeritt, Dwight B., Jr.",
+          "Demeritt, Dwight B., Jr."],
         "unitdate_normal_ssm":["1989/1989"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Naval Shipyard"],
@@ -77,8 +79,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1989"],
         "language_ssm":["English"],
-        "_version_":1799256188472262656,
-        "timestamp":"2024-05-17T00:06:55.581Z"}]
+        "_version_":1802045271098523648,
+        "timestamp":"2024-06-16T18:58:12.048Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Demeritt, Dwight B., Jr.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

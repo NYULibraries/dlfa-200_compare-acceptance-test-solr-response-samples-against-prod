@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Dan Georgakas Papers on Motion Pictures"],
         "unitid_ssm":["TAM.411"],
         "abstract_ssm":["Dan Georgakas is an anarchist,labor historian, scholar of Greek-American redicalism, and of motion pictures. Coauthor of Detroit: I Do Mind Dying and coeditor of the  Encyclopedia of the American Left and he is a long time member of the  Cineaste editorial board, and has taught part time at New York University and Queens College. The collection contains correspondence, manuscripts and subject files, most pertaining to Latin American cinema and his work for Cineaste."],
+        "creator_ssm":["Georgakas, Dan",
+          "Georgakas, Dan"],
         "unitdate_normal_ssm":["1960/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Cineaste"],
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, circa 1960s-1990s"],
         "language_ssm":["English"],
-        "_version_":1799782907896659968,
-        "timestamp":"2024-05-22T19:38:54.368Z"}]
+        "_version_":1802176969096298496,
+        "timestamp":"2024-06-18T05:51:29.046Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Georgakas, Dan",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

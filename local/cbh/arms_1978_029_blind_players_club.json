@@ -47,6 +47,8 @@
         "unittitle_ssm":["Blind Players Club, Inc. records"],
         "unitid_ssm":["1978.029"],
         "abstract_ssm":["The Blind Players Club, Inc. records span the period 1921 to 1943 and include letters, financial documents, and meeting minutes."],
+        "creator_ssm":["Blind Players Club",
+          "Blind Players Club"],
         "unitdate_normal_ssm":["1921/1943"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Blind Players Club"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["Inclusive, 1921-1943"],
         "language_ssm":["English"],
-        "_version_":1799256307319963648,
-        "timestamp":"2024-05-17T00:08:48.923Z"}]
+        "_version_":1801962272323534848,
+        "timestamp":"2024-06-15T20:58:58.248Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Blind Players Club",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -47,6 +47,10 @@
         "unittitle_ssm":["Joyce Wheeler American Federation of Teachers Papers"],
         "unitid_ssm":["TAM.388"],
         "abstract_ssm":["Joyce Wheeler was a member of the American Federation of Teachers (AFT). She was particularly active in the United Action Caucus, a rank and file organization within the AFT. Wheeler was also a participant in Local 340 of the AFT, known as the Baltimore Teachers Union (BTU), and in BTU's Teacher Unity Caucus. The collection consists of correspondence, newsletters, constitutions and other governing documents, convention resolutions and proceedings, flyers, and other materials collected and produced by a variety of teachers' organizations, especially the AFT and the United Action Caucus, AFT."],
+        "creator_ssm":["Wheeler, Joyce",
+          "American Federation of Teachers",
+          "American Federation of Teachers",
+          "Wheeler, Joyce"],
         "unitdate_normal_ssm":["1980/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "American Federation of Teachers",
@@ -68,8 +72,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1980-1999"],
-        "_version_":1775219971051225088,
-        "timestamp":"2023-08-25T16:41:32.362Z"},
+        "_version_":1801249750869082112,
+        "timestamp":"2024-06-08T00:13:44.837Z"},
       {
         "id":"tam_388aspace_ref16",
         "ead_ssi":"tam_388",
@@ -88,8 +92,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, circa 1980-1999"],
-        "_version_":1775219971088973824,
-        "timestamp":"2023-08-25T16:41:32.399Z"}]
+        "_version_":1801249750890053632,
+        "timestamp":"2024-06-08T00:13:44.857Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,7 +101,9 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "American Federation of Teachers",1,
+        "Wheeler, Joyce",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

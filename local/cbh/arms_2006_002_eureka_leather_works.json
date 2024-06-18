@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Eureka Leather Works photographs"],
         "unitid_ssm":["2006.002"],
         "abstract_ssm":["The collection consists of two photographs on board depicting the Eureka Leather Works factory and the house of the owner, P. Frederick Lenhart."],
+        "creator_ssm":["Gardner, G. H.",
+          "Gardner, G. H."],
         "unitdate_normal_ssm":["1882/1892"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Eureka Leather Works"],
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1892"],
         "unitdate_ssm":["Inclusive, circa 1887"],
         "language_ssm":["English"],
-        "_version_":1799311430477938688,
-        "timestamp":"2024-05-17T14:44:58.463Z"}]
+        "_version_":1801963928225316864,
+        "timestamp":"2024-06-15T21:25:17.439Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gardner, G. H.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

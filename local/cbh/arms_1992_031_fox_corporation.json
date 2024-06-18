@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Fox Corporation records"],
         "unitid_ssm":["1992.031"],
         "abstract_ssm":["The Brooklyn Fox Corporation records are housed in a single bound volume and dated 1937. The papers include certificates of incorporation, court papers, bonds, correspondence, and other documents. The Brooklyn Fox Corporation was a real estate development and management company that specialized in all types of commercial and residential properties, including theaters, hotels, apartment buildings, office buildings, and storefronts."],
+        "creator_ssm":["Brooklyn Fox Corporation (Brooklyn, New York, N.Y.)",
+          "Brooklyn Fox Corporation (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1937/1937"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Louis Stein Center for Law and Ethics",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Inclusive, 1937"],
         "language_ssm":["English"],
-        "_version_":1799256506207567872,
-        "timestamp":"2024-05-17T00:11:58.597Z"}]
+        "_version_":1801963716559765504,
+        "timestamp":"2024-06-15T21:21:55.579Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Fox Corporation (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

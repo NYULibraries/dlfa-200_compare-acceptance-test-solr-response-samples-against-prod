@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Howell Foster papers"],
         "unitid_ssm":["1991.001"],
         "abstract_ssm":["This collection consists of papers primarily concerning Howell Foster, who lived in Brooklyn much of his life, especially during his youth.  The collection spans the period 1879 to 1943, and it consists mostly of souvenirs and mementos of the earlier part of his life.  Items include accounts and correspondence concerning the estates of his mother and father, school assignments and examinations, tickets and invitations, programs of various sorts, letters, postcards, souvenir poetry and songs, two pamphlets, and a sketch book."],
+        "creator_ssm":["Foster, Howell",
+          "Foster, Howell"],
         "unitdate_normal_ssm":["1879/1943",
           "1879/1913"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -82,8 +84,8 @@
           "1913"],
         "unitdate_ssm":["Inclusive, 1879-1943 ; 1879-1913"],
         "language_ssm":["English"],
-        "_version_":1775224548348657664,
-        "timestamp":"2023-08-25T17:54:17.614Z"}]
+        "_version_":1800783535266594816,
+        "timestamp":"2024-06-02T20:43:26.991Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Foster, Howell",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

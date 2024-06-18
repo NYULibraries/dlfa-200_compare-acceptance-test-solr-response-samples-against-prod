@@ -45,9 +45,10 @@
       {
         "author_ssm":["Stacey Flatt"],
         "unittitle_ssm":["Martin Worman Collection"],
-        "unitid_ssm":["MSS.585",
-          "/repositories/3/resources/3195"],
+        "unitid_ssm":["MSS.585"],
         "abstract_ssm":["Martin Worman (1945- 1993) was an actor, playwright, lyricist, director, female impersonator, activist and academic, working primarily in San Francisco and New York from the late 1960s through the early 1990s. The Martin Worman Collection contains clippings and show posters for the San Francisco-based avante garde psychedelic theatrical group, The Cockettes, of which Martin Worman was a member. Other event posters in the collection illustrate the gay club and theater scene in San Francisco and New York in the 1970s through 1990s. This collection includes copies of collages containing clippings, photographs, and obituaries created after Martin Worman's death in 1993."],
+        "creator_ssm":["Worman, Martin",
+          "Worman, Martin"],
         "unitdate_normal_ssm":["1969/1994"],
         "corpname_ssm":["Fales Library and Special Collections",
           "New York Public Library",
@@ -78,15 +79,15 @@
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, 1960s-1994, undated"],
-        "_version_":1799745376891174912,
-        "timestamp":"2024-05-22T09:42:22.012Z"},
+        "_version_":1802081637541871616,
+        "timestamp":"2024-06-17T04:36:13.791Z"},
       {
         "id":"mss_585aspace_1659959cb2d2fdb5d82c462b9f943aa6",
         "ead_ssi":"mss_585",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Martin Worman Collection"],
-        "collection_unitid_ssm":["MSS.585/repositories/3/resources/3195"],
+        "collection_unitid_ssm":["MSS.585"],
         "unittitle_ssm":["Posters, Collages, Clippings"],
         "unitid_ssm":["/repositories/3/archival_objects/858296"],
         "unitdate_normal_ssm":["1969/1994"],
@@ -95,16 +96,14 @@
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Fales 020, Folder: 9",
-          "Folder: 9",
           "Box: Shared Fales 028, Folder: 13-15",
-          "Folder: 13-15",
           "Flat-File-Folder: 3"],
         "heading_ssm":["Posters, Collages, Clippings"],
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, 1960s-1994, undated"],
-        "_version_":1799745376912146432,
-        "timestamp":"2024-05-22T09:42:22.032Z"}]
+        "_version_":1802081637563891712,
+        "timestamp":"2024-06-17T04:36:13.812Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -112,7 +111,8 @@
       "repository_sim":[
         "fales",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Worman, Martin",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

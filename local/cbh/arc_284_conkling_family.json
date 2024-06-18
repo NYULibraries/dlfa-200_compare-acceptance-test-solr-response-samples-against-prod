@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Conkling family papers"],
         "unitid_ssm":["ARC.284"],
         "abstract_ssm":["The collection includes documents principally related to members of the Conkling family of Southold, Suffolk County, Long Island (N.Y.). Among these are three day books of merchant David Conkling (1784-1785); a ledger of an unknown person for transactions in farm labor and goods (1791-1798); a journal of Jacob Conkling for a journey through northern New Jersey and into the forests beyond the Delaware Water Gap; correspondence to David from Jacob and from David to Capt. David Landon (both Jacob and Landon at Guilford, Connecticut) concerning health, business matters, and damages incurred during the British occupation of Long Island during the American Revolution (circa 1782-1784); and a Brooklyn to New York ferry pass (1782)."],
+        "creator_ssm":["Conkling, David",
+          "Conkling, Jacob",
+          "Conkling, David",
+          "Conkling, Jacob"],
         "unitdate_normal_ssm":["1772/1808"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Conklin family",
@@ -77,8 +81,8 @@
         "unitdate_start_ssm":["1772"],
         "unitdate_end_ssm":["1808"],
         "unitdate_ssm":["Inclusive, circa 1782 to 1798"],
-        "_version_":1799256288004145152,
-        "timestamp":"2024-05-17T00:08:30.502Z"}]
+        "_version_":1801959755681366016,
+        "timestamp":"2024-06-15T20:18:58.19Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +90,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Conkling, David",1,
+        "Conkling, Jacob",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

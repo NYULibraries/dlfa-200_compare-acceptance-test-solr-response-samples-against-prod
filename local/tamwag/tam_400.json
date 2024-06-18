@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Shirley Kaplowitz Young Papers"],
         "unitid_ssm":["TAM.400"],
         "abstract_ssm":["Shirley (Shani) Kaplowitz (Kaplan) was a clerk at a Naval shipyard in New York who was released from her job for affiliation with the American Labor Party and other organizations perceived as Communist fronts by the American government in the 1950s.This small collection contains official documents from the Navy addressing their charges against Kaplan as well as photographs taken of Kaplan by the Navy. The collection also contains correspondence and other documents from Kaplan and her boyfriend (later husband) Louis Young in her defense."],
+        "creator_ssm":["Young, Shirley Kaplowitz",
+          "Young, Shirley Kaplowitz"],
         "unitdate_normal_ssm":["1953/1954"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United States. Navy"],
@@ -79,8 +81,8 @@
         "unitdate_end_ssm":["1954"],
         "unitdate_ssm":["Inclusive, 1953-1954"],
         "language_ssm":["English"],
-        "_version_":1799782881714765824,
-        "timestamp":"2024-05-22T19:38:29.399Z"}]
+        "_version_":1802176947154845696,
+        "timestamp":"2024-06-18T05:51:08.121Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Young, Shirley Kaplowitz",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

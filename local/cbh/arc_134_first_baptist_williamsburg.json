@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["First Baptist Church of Williamsburg records"],
         "unitid_ssm":["ARC.134"],
         "abstract_ssm":["The First Baptist Church of Williamsburg records date from 1839 to 1939 and measure 1.5 linear feet. The majority of the collection consists of handwritten and typescript minutes of church meetings, covering the years of the church's existence. Membership rolls provide a list of church members with admission and dismissal dates, and prior and subsequent church memberships. Membership rolls are indexed and also have an accompanying volume listing marriages in the church, linking female members' maiden and married names. Also included are a catalog of the Sunday School library, a 50th anniversary booklet, and three photographs which show the interior and exterior of the church."],
+        "creator_ssm":["First Baptist Church of Williamsburg (Brooklyn, New York, N.Y.)",
+          "First Baptist Church of Williamsburg (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1839/1939"],
         "corpname_ssm":["Brooklyn Historical Society",
           "First Baptist Church of Williamsburg (Brooklyn, New York, N.Y.)",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1839-1939"],
         "language_ssm":["English"],
-        "_version_":1799312259160211456,
-        "timestamp":"2024-05-17T14:58:08.756Z"}]
+        "_version_":1801959138943565824,
+        "timestamp":"2024-06-15T20:09:10.024Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "First Baptist Church of Williamsburg (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Joseph Siegel Papers"],
         "unitid_ssm":["ALBA.096"],
         "abstract_ssm":["Joseph Isaac Siegel joined the International Brigades in Spain in July 1937. He worked for the British Battalion medical corps and fought with the Lincoln Washington Battalion machine gun company. This collection consists of letters from Siegel while in Spain to his friend and former Harvard classmate, Leo Epstein."],
+        "creator_ssm":["Siegel, Joseph",
+          "Siegel, Joseph"],
         "unitdate_normal_ssm":["1937/1938"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Spain. Ejército Popular de la República. Abraham Lincoln Battalion",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, 1937-1938"],
         "language_ssm":["English"],
-        "_version_":1799747887409659904,
-        "timestamp":"2024-05-22T10:22:16.229Z"},
+        "_version_":1802110973912285184,
+        "timestamp":"2024-06-17T12:22:31.134Z"},
       {
         "id":"alba_096aspace_ref14",
         "ead_ssi":"alba_096",
@@ -86,8 +88,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I: Spanish Civil War correspondence"],
         "language_ssm":["English"],
-        "_version_":1799747887422242816,
-        "timestamp":"2024-05-22T10:22:16.241Z"},
+        "_version_":1802110973937451008,
+        "timestamp":"2024-06-17T12:22:31.158Z"},
       {
         "id":"alba_096aspace_ref15",
         "ead_ssi":"alba_096",
@@ -104,14 +106,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Siegel, Joseph to Leo Epstein"],
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Inclusive, Jun 1937-Dec 1937"],
-        "_version_":1799747887435874304,
-        "timestamp":"2024-05-22T10:22:16.254Z"},
+        "_version_":1802110973961568256,
+        "timestamp":"2024-06-17T12:22:31.181Z"},
       {
         "id":"alba_096aspace_ref16",
         "ead_ssi":"alba_096",
@@ -127,12 +128,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Siegel, Joseph to Leo Epstein"],
         "unitdate_ssm":["Jan 1938-Oct 1938"],
-        "_version_":1799747887454748672,
-        "timestamp":"2024-05-22T10:22:16.272Z"}]
+        "_version_":1802110973998268416,
+        "timestamp":"2024-06-17T12:22:31.216Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -140,7 +140,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Siegel, Joseph",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",2],

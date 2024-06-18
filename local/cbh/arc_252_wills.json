@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Louis C. Wills papers"],
         "unitid_ssm":["ARC.252"],
         "abstract_ssm":["Louis Charles Wills (1884-1975), a lawyer, was born in Brooklyn, N.Y. and entered Brooklyn Law School as a member of its third graduating class in 1903.  He was admitted to the bar in 1906 and went on to a successful practice as an independent lawyer and as a member of the Brooklyn firms Fisher & Voltz and Wrenn & Schmid.  Wills was also a prominent community leader in Brooklyn and served in various leadership roles for several civic, cultural, charitable, religious, and business organizations.  The Louis C. Wills papers date from 1791 and the period 1856 to 1975, though the majority of the collection dates from 1900 to 1975.  The collection includes autobiographical writings, awards, business cards, certificates, clippings, correspondence, obituaries, photographs, plaques, programs, publications and bound volumes, scrapbooks, and various printed ephemera created, received, or collected by Wills over the course of his distinguished career as a lawyer and community leader in Brooklyn.  In addition to his law career and leadership role in the Brooklyn community, items also document Wills's personal life, particularly his youth and his relationship to his older brother, Anthony E. Wills (1879-1912)."],
+        "creator_ssm":["Wills, Anthony E.",
+          "Hamilton, Alexander",
+          "Wills, Louis C. (Louis Charles)",
+          "Wills, Anthony E.",
+          "Hamilton, Alexander",
+          "Wills, Louis C. (Louis Charles)"],
         "unitdate_normal_ssm":["1791/1975",
           "1900/1975"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -119,8 +125,8 @@
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1791-1975 ; 1900-1975"],
         "language_ssm":["English"],
-        "_version_":1799309821402415104,
-        "timestamp":"2024-05-17T14:19:23.929Z"}]
+        "_version_":1801959593220243456,
+        "timestamp":"2024-06-15T20:16:23.255Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -128,7 +134,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hamilton, Alexander",1,
+        "Wills, Anthony E.",1,
+        "Wills, Louis C. (Louis Charles)",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1,

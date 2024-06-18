@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["The Battle of Long Island: A Bird's Eye View exhibition maps and drawings"],
         "unitid_ssm":["ARC.301"],
         "abstract_ssm":["The collection primarily consists of a series of drawings which were used to design a map of the Battle of Long Island (also known as the Battle of Brooklyn) for a Long Island Historical Society exhibition entitled The Battle of Long Island: A Bird's Eye View, which was held at the Williamsburgh Savings Bank at One Hanson Place, Brooklyn, New York. The exhibition opened in August 1976 as part of the United States Bicentennial celebration. The map was designed by George M. Colbert. An additional map, drawn by Lucy Durand Sikes, is also included in the collection, along with an exhibition pamphlet and poster."],
+        "creator_ssm":["Sike, Lucy D.",
+          "Colbert, George M.",
+          "Long Island Historical Society",
+          "Long Island Historical Society",
+          "Sike, Lucy D.",
+          "Colbert, George M."],
         "unitdate_normal_ssm":["1976/1976"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island Historical Society",
@@ -81,8 +87,8 @@
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1976"],
         "language_ssm":["English"],
-        "_version_":1799256301431160832,
-        "timestamp":"2024-05-17T00:08:43.307Z"}]
+        "_version_":1801959784462680064,
+        "timestamp":"2024-06-15T20:19:25.639Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +96,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Colbert, George M.",1,
+        "Long Island Historical Society",1,
+        "Sike, Lucy D.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

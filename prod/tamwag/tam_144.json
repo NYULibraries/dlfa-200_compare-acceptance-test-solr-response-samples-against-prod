@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>PM</em> FBI Files"],
         "unitid_ssm":["TAM.144"],
         "abstract_ssm":["PM (1940-48) was a progressive New York City daily newspaper that supported the extension of the New Deal and good relations with the Soviet Union, and opposed U.S. foreign policy and the rise of the Cold War and of domestic anti-communism. The collection contains FBI files on PM, obtained under the Freedom of Information Act."],
+        "creator_ssm":["United States. Federal Bureau of Investigation",
+          "United States. Federal Bureau of Investigation"],
         "unitdate_normal_ssm":["1984/1985"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United States. Federal Bureau of Investigation",
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1984-1985"],
-        "_version_":1775220112935092224,
-        "timestamp":"2023-08-25T16:43:47.674Z"},
+        "_version_":1801218308030070784,
+        "timestamp":"2024-06-07T15:53:58.609Z"},
       {
         "id":"tam_144aspace_fd43dbfb62d461aa54603498058a87fc",
         "ead_ssi":"tam_144",
@@ -85,8 +87,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1984-1985"],
-        "_version_":1775220112975986688,
-        "timestamp":"2023-08-25T16:43:47.713Z"}]
+        "_version_":1801218308072013824,
+        "timestamp":"2024-06-07T15:53:58.649Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +96,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. Federal Bureau of Investigation",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

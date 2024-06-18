@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Leibel Bergman Papers"],
         "unitid_ssm":["TAM.707"],
         "abstract_ssm":["The Leibel Bergman Papers (dates 1940s-1980s) include essays, reports, personal writings, correspondence, and ephemera related to his involvement in various communist organizations. Bergman was a member of the Communist Party of the Unites States of America (CPUSA) from the 1930s to 1950s. He also was a founding member of other communist organizations including the Revolutionary Union (RU), Revolutionary Communist Party (RCP), and Revolutionary Workers Headquarters (RWH). A large portion of the collection relates to Bergman's work in with the RCP and RU and includes position papers, party building materials, study articles, bulletins, and Bergman's writings on political strategy. The collection also contains drafts of Bergman's poetry and theatrical works, materials from his military service in the 1940s, and documents from his travels to the People's Republic of China in the 1970s."],
+        "creator_ssm":["Bergman, Leibel",
+          "Bergman, Leibel"],
         "unitdate_normal_ssm":["1940/1982"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Revolutionary Communist Party, USA",
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1982"],
         "unitdate_ssm":["Inclusive, 1940s-1980s"],
-        "_version_":1775219822727004161,
-        "timestamp":"2023-08-25T16:39:10.91Z"},
+        "_version_":1801286237448830976,
+        "timestamp":"2024-06-08T09:53:41.151Z"},
       {
         "id":"tam_707aspace_19c99dd2bcddb2e242e6fd0a17647bf7",
         "ead_ssi":"tam_707",
@@ -89,8 +91,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, 1940s"],
-        "_version_":1775219822913650688,
-        "timestamp":"2023-08-25T16:39:11.087Z"},
+        "_version_":1801286237508599808,
+        "timestamp":"2024-06-08T09:53:41.208Z"},
       {
         "id":"tam_707aspace_6ee9d3eea1826a0e03e92de6dda1ef00",
         "ead_ssi":"tam_707",
@@ -110,8 +112,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, 1940s-1950s"],
-        "_version_":1775219822951399424,
-        "timestamp":"2023-08-25T16:39:11.124Z"},
+        "_version_":1801286237529571328,
+        "timestamp":"2024-06-08T09:53:41.228Z"},
       {
         "id":"tam_707aspace_7fd52e03f135ccf7be8cd046b6204be2",
         "ead_ssi":"tam_707",
@@ -130,8 +132,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1960s"],
-        "_version_":1775219822825570304,
-        "timestamp":"2023-08-25T16:39:11.004Z"},
+        "_version_":1801286237477142528,
+        "timestamp":"2024-06-08T09:53:41.178Z"},
       {
         "id":"tam_707aspace_816db6ae050451f91edb2d4be4abe588",
         "ead_ssi":"tam_707",
@@ -151,8 +153,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1950s-1960s"],
-        "_version_":1775219822871707648,
-        "timestamp":"2023-08-25T16:39:11.048Z"},
+        "_version_":1801286237490774016,
+        "timestamp":"2024-06-08T09:53:41.191Z"},
       {
         "id":"tam_707aspace_88cee02d65bc6ab7bd76c765ea838719",
         "ead_ssi":"tam_707",
@@ -171,8 +173,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1981"],
         "unitdate_ssm":["Inclusive, 1973-1981"],
-        "_version_":1775219822767898624,
-        "timestamp":"2023-08-25T16:39:10.949Z"}]
+        "_version_":1801286237463511040,
+        "timestamp":"2024-06-08T09:53:41.165Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -180,7 +182,8 @@
       "repository_sim":[
         "tamwag",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bergman, Leibel",1],
       "date_range_sim":[
         "1901-2000",6],
       "subject_sim":[

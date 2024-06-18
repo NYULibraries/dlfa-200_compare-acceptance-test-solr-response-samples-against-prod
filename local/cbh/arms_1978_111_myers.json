@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William J. Myers scrapbook"],
         "unitid_ssm":["1978.111"],
         "abstract_ssm":["Loose pages from a scrapbook chronicling the life of William J. Myers as president of the National Association of Stove Manufacturers, the Manufacturers Association of Brooklyn, and Union Stove Works."],
+        "creator_ssm":["Myers, William J.",
+          "Myers, William J."],
         "unitdate_normal_ssm":["1905/1931"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Articles",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1931"],
         "unitdate_ssm":["Inclusive, 1905-1931"],
         "language_ssm":["English"],
-        "_version_":1799256178452070400,
-        "timestamp":"2024-05-17T00:06:46.025Z"}]
+        "_version_":1801962468689313792,
+        "timestamp":"2024-06-15T21:02:05.517Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Myers, William J.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

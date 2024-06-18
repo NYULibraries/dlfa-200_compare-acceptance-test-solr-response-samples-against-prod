@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Thomas Messenger family papers"],
         "unitid_ssm":["1978.124"],
         "abstract_ssm":["The Thomas Messenger family papers consist of personal and business papers associated with Thomas Messenger, a prominent Brooklyn merchant and President of the Brooklyn Bank, and his family. Materials in the collection primarily consist of handwritten personal and business correspondence, as well as receipts, ephemera, insurance policies, writings, and business transactions dating from 1829 to 1923, with the bulk dating from 1853 to 1881."],
+        "creator_ssm":["Messenger, Ann",
+          "Messenger, Harry",
+          "Messenger, Marie Gerard",
+          "Messenger, Thomas",
+          "Messenger family",
+          "Messenger family",
+          "Messenger, Ann",
+          "Messenger, Harry",
+          "Messenger, Marie Gerard",
+          "Messenger, Thomas"],
         "unitdate_normal_ssm":["1829/1923"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Bank (Brooklyn, New York, N.Y.)",
@@ -91,8 +101,8 @@
         "unitdate_start_ssm":["1829"],
         "unitdate_end_ssm":["1923"],
         "unitdate_ssm":["Inclusive, 1829-1923"],
-        "_version_":1799311703757815808,
-        "timestamp":"2024-05-17T14:49:19.082Z"},
+        "_version_":1801962512793468928,
+        "timestamp":"2024-06-15T21:02:47.578Z"},
       {
         "id":"arms_1978_124_messengeraspace_ref11_2wf",
         "ead_ssi":"arms_1978_124_messenger",
@@ -110,8 +120,8 @@
         "unitdate_start_ssm":["1829"],
         "unitdate_end_ssm":["1881"],
         "unitdate_ssm":["Inclusive, 1829-1881"],
-        "_version_":1799311703796613120,
-        "timestamp":"2024-05-17T14:49:19.12Z"},
+        "_version_":1801962512866869248,
+        "timestamp":"2024-06-15T21:02:47.648Z"},
       {
         "id":"arms_1978_124_messengeraspace_ref9_76h",
         "ead_ssi":"arms_1978_124_messenger",
@@ -129,8 +139,8 @@
         "unitdate_start_ssm":["1831"],
         "unitdate_end_ssm":["1923"],
         "unitdate_ssm":["Inclusive, 1831-1923"],
-        "_version_":1799311703778787328,
-        "timestamp":"2024-05-17T14:49:19.103Z"}]
+        "_version_":1801962512821780480,
+        "timestamp":"2024-06-15T21:02:47.605Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -138,7 +148,12 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Messenger family",1,
+        "Messenger, Ann",1,
+        "Messenger, Harry",1,
+        "Messenger, Marie Gerard",1,
+        "Messenger, Thomas",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",2],

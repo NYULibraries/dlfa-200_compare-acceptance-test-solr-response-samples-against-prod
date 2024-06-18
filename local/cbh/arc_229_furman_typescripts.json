@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Typescripts of Gabriel Furman's notes on Brooklyn, N.Y., 1821-1823"],
         "unitid_ssm":["ARC.229"],
         "abstract_ssm":["Gabriel Furman (1800-1854) was a lawyer and historian of early Brooklyn. He kept an extensive set of journals and commonplace books during his life. This collection includes typescripts, prepared in the early twentieth century, of one of those journals, perhaps no longer extant, with entries from 1821-1823. Furman's journal entries primarily concern the weather, yellow fever, ferry crossings, agricultural produce at market, fires or the threat of fire, and the built and natural environment. Observations on religion, local politics, and holiday celebrations also appear in some entries. The entries principally concern the downtown Brooklyn area, especially Brooklyn Heights. Substantive entries also concern lower Manhattan and Paulus Hook, New Jersey."],
+        "creator_ssm":["Furman, Gabriel",
+          "Huntington, Edna",
+          "White, Alfred Tredway",
+          "Furman, Gabriel",
+          "Huntington, Edna",
+          "White, Alfred Tredway"],
         "unitdate_normal_ssm":["1910/1930"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Diaries",
@@ -76,8 +82,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["Inclusive, circa 1920 typescripts of 1821-1823 journal"],
-        "_version_":1799256214609068032,
-        "timestamp":"2024-05-17T00:07:20.507Z"}]
+        "_version_":1801959483577991168,
+        "timestamp":"2024-06-15T20:14:38.692Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +91,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Furman, Gabriel",1,
+        "Huntington, Edna",1,
+        "White, Alfred Tredway",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

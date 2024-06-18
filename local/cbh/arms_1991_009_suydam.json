@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":10,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Hendrick H. Suydam papers"],
         "unitid_ssm":["1991.009"],
         "abstract_ssm":["The Hendrick Suydam papers span the period 1780 to 1806 and measure 0.1 linear feet. The papers contain one piece of correspondence, one Power of Attorney document from Hendrick Suydam to Casper Gyer, two discharges of estate, and three deeds.  Two of the deeds convey land in Gravesend, and one deed conveys land in Flatbush."],
+        "creator_ssm":["Suydam, Hendrick H.",
+          "Suydam, Hendrick H."],
         "unitdate_normal_ssm":["1780/1806"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Discharges",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1806"],
         "unitdate_ssm":["Inclusive, 1780-1806"],
         "language_ssm":["English"],
-        "_version_":1799256311986126848,
-        "timestamp":"2024-05-17T00:08:53.373Z"}]
+        "_version_":1801963572710866944,
+        "timestamp":"2024-06-15T21:19:38.394Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Suydam, Hendrick H.",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

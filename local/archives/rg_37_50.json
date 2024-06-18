@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Center for Dialogues"],
         "unitid_ssm":["RG.37.50"],
         "abstract_ssm":["The Center for Dialogues was established after September 11, 2001 to foster greater dialogue between \"the Islamic World, the United States, and the West until its closure in 2015. The collection contains materials documenting the history and programming of the Center for Dialogues."],
+        "creator_ssm":["Center for Dialogues",
+          "Center for Dialogues"],
         "unitdate_normal_ssm":["2002/2015"],
         "corpname_ssm":["New York University Archives",
           "Center for Dialogues"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["2002"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, circa 2002-2015"],
-        "_version_":1799248917146107904,
-        "timestamp":"2024-05-16T22:11:21.104Z"},
+        "_version_":1801953444548837376,
+        "timestamp":"2024-06-15T18:38:39.426Z"},
       {
         "id":"rg_37_50aspace_86043f37855b407ef206024f44ddbe37",
         "ead_ssi":"rg_37_50",
@@ -86,8 +88,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["Inclusive, February 2015, October 2022"],
-        "_version_":1799248917168128000,
-        "timestamp":"2024-05-16T22:11:21.124Z"}]
+        "_version_":1801953444567711744,
+        "timestamp":"2024-06-15T18:38:39.443Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +98,8 @@
         "archives",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Center for Dialogues",1],
       "date_range_sim":[
         "2001-2100",1,
         "undated & other",1],

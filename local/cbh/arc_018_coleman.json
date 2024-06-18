@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":19,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William R. Coleman papers"],
         "unitid_ssm":["ARC.018"],
         "abstract_ssm":["William Roger Coleman was a longtime Brooklyn resident who lived during the 19th and 20th centuries. The collection spans the period 1891 to 2004 and consists of personal documents, correspondence, memorabilia, and photographs documenting Coleman's life.  Additional items include a wedding notice, calling cards and business cards, autobiographical writings, pocket diaries, and items pertaining to Coleman's service in the military, including a publication entitled The Soldier Handbook and discharge papers from the Spanish-American War. A small amount of material related to Coleman's work in the automobile industry. In addition to Coleman, many of the photographs feature his wife Sophie (Sekoson) Coleman, their son Gerald Coleman, and the Sekoson family. The collection also includes numerous documents relating to Coleman's belief that his true identity was that of Charley Ross, a child who was kidnapped in 1874."],
+        "creator_ssm":["Coleman, Sophie",
+          "Coleman, Sophie"],
         "unitdate_normal_ssm":["1891/2004",
           "1891/1926"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -104,8 +106,8 @@
           "1926"],
         "unitdate_ssm":["Inclusive, 1891-2004 ; 1891-1926"],
         "language_ssm":["English"],
-        "_version_":1799311484993404928,
-        "timestamp":"2024-05-17T14:45:50.453Z"}]
+        "_version_":1801958678291546112,
+        "timestamp":"2024-06-15T20:01:50.712Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -113,7 +115,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Coleman, Sophie",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

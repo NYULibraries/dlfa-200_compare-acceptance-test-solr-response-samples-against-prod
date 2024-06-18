@@ -47,6 +47,8 @@
         "unittitle_ssm":["Alonzo Chappel biographical notes"],
         "unitid_ssm":["1973.213"],
         "abstract_ssm":["The Alonzo Chappel biographical notes span the period 1829 to 1945 and consist of two typewritten documents. The documents include a typewritten list of owners of original paintings and drawings by Alonzo Chappel, and the other document lists the addresses at which Chappel lived in New York City (including Brooklyn) between 1829 and 1866.  This information was compiled by Herman H. Diers in 1945."],
+        "creator_ssm":["Diers, Herman H.",
+          "Diers, Herman H."],
         "unitdate_normal_ssm":["1829/1866"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Research notes"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1866"],
         "unitdate_ssm":["Inclusive, 1829-1866"],
         "language_ssm":["English"],
-        "_version_":1799311467258839040,
-        "timestamp":"2024-05-17T14:45:33.54Z"}]
+        "_version_":1801960071963344896,
+        "timestamp":"2024-06-15T20:23:59.821Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Diers, Herman H.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

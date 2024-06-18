@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John F. Aiken lecture transcriptions"],
         "unitid_ssm":["1977.660"],
         "abstract_ssm":["The collection consists of two manuscript copies of a lecture by John F. Aiken, \"The Life and Poems of Tasso,\" delivered at the Long Island Historical Society on April 6, 1865."],
+        "creator_ssm":["Aiken, John F.",
+          "Aiken, John F."],
         "unitdate_normal_ssm":["1865/1865"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island Historical Society",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["1865"],
         "language_ssm":["English"],
-        "_version_":1799256290034188288,
-        "timestamp":"2024-05-17T00:08:32.438Z"}]
+        "_version_":1801962167082156032,
+        "timestamp":"2024-06-15T20:57:17.882Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Aiken, John F.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Murray Bookchin Papers"],
         "unitid_ssm":["TAM.160"],
         "abstract_ssm":["Murray Bookchin (January 14, 1921-July 30, 2006) was a libertarian socialist, political philosopher, speaker and writer. The founder of the social ecology movement within libertarian socialist and ecological thought, Bookchin is noted for his synthesis of the anarchist tradition with modern ecological awareness. He was the author of two dozen books on politics, philosophy, history, and urban affairs as well as ecology. The collection contains correspondence, unpublished writings (including essays and manuscripts of unpublished and published books), published writings, including translations of Bookchin's books, Green movement periodicals, reviews of Bookchin's books, printed ephemera and documents related to the Left Green Network, the Burlington, Vermont Greens, and other Green movements, including those in Europe, course outlines, and photographs."],
+        "creator_ssm":["Bookchin, Murray, 1921-2006",
+          "Bookchin, Murray, 1921-2006"],
         "unitdate_normal_ssm":["1950/2003"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Institute for Social Ecology (Plainfield, Vt.)",
@@ -85,8 +87,8 @@
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1950-2003"],
         "language_ssm":["English"],
-        "_version_":1799781038939963392,
-        "timestamp":"2024-05-22T19:09:11.992Z"},
+        "_version_":1802170271399936000,
+        "timestamp":"2024-06-18T04:05:01.624Z"},
       {
         "id":"tam_160aspace_ref14",
         "ead_ssi":"tam_160",
@@ -101,8 +103,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I: Preliminary Inventory, 1950s-2003"],
         "language_ssm":["English"],
-        "_version_":1799781038957789184,
-        "timestamp":"2024-05-22T19:09:12.009Z"},
+        "_version_":1802170271408324608,
+        "timestamp":"2024-06-18T04:05:01.633Z"},
       {
         "id":"tam_160aspace_ref15",
         "ead_ssi":"tam_160",
@@ -124,8 +126,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, 1950s-1994"],
-        "_version_":1799781038974566400,
-        "timestamp":"2024-05-22T19:09:12.025Z"},
+        "_version_":1802170271417761792,
+        "timestamp":"2024-06-18T04:05:01.642Z"},
       {
         "id":"tam_160aspace_ref16",
         "ead_ssi":"tam_160",
@@ -147,8 +149,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, 1950s-1994"],
-        "_version_":1799781038995537920,
-        "timestamp":"2024-05-22T19:09:12.045Z"},
+        "_version_":1802170271431393280,
+        "timestamp":"2024-06-18T04:05:01.655Z"},
       {
         "id":"tam_160aspace_ref17",
         "ead_ssi":"tam_160",
@@ -170,8 +172,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, 1950s-1994"],
-        "_version_":1799781039012315136,
-        "timestamp":"2024-05-22T19:09:12.061Z"},
+        "_version_":1802170271440830464,
+        "timestamp":"2024-06-18T04:05:01.664Z"},
       {
         "id":"tam_160aspace_ref18",
         "ead_ssi":"tam_160",
@@ -193,8 +195,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799781039030140928,
-        "timestamp":"2024-05-22T19:09:12.078Z"},
+        "_version_":1802170271453413376,
+        "timestamp":"2024-06-18T04:05:01.676Z"},
       {
         "id":"tam_160aspace_ref19",
         "ead_ssi":"tam_160",
@@ -216,8 +218,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799781039044820992,
-        "timestamp":"2024-05-22T19:09:12.092Z"},
+        "_version_":1802170271462850560,
+        "timestamp":"2024-06-18T04:05:01.685Z"},
       {
         "id":"tam_160aspace_ref20",
         "ead_ssi":"tam_160",
@@ -239,8 +241,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799781039061598208,
-        "timestamp":"2024-05-22T19:09:12.108Z"},
+        "_version_":1802170271473336320,
+        "timestamp":"2024-06-18T04:05:01.695Z"},
       {
         "id":"tam_160aspace_ref21",
         "ead_ssi":"tam_160",
@@ -262,8 +264,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799781039076278272,
-        "timestamp":"2024-05-22T19:09:12.122Z"},
+        "_version_":1802170271482773504,
+        "timestamp":"2024-06-18T04:05:01.704Z"},
       {
         "id":"tam_160aspace_ref22",
         "ead_ssi":"tam_160",
@@ -285,8 +287,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1970s-1993"],
-        "_version_":1799781039092006912,
-        "timestamp":"2024-05-22T19:09:12.137Z"},
+        "_version_":1802170271492210688,
+        "timestamp":"2024-06-18T04:05:01.713Z"},
       {
         "id":"tam_160aspace_ref23",
         "ead_ssi":"tam_160",
@@ -308,8 +310,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799781039108784128,
-        "timestamp":"2024-05-22T19:09:12.153Z"},
+        "_version_":1802170271502696448,
+        "timestamp":"2024-06-18T04:05:01.722Z"},
       {
         "id":"tam_160aspace_ref24",
         "ead_ssi":"tam_160",
@@ -331,8 +333,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799781039128707072,
-        "timestamp":"2024-05-22T19:09:12.172Z"},
+        "_version_":1802170271514230784,
+        "timestamp":"2024-06-18T04:05:01.734Z"},
       {
         "id":"tam_160aspace_ref25",
         "ead_ssi":"tam_160",
@@ -354,8 +356,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799781039144435712,
-        "timestamp":"2024-05-22T19:09:12.187Z"},
+        "_version_":1802170271523667968,
+        "timestamp":"2024-06-18T04:05:01.743Z"},
       {
         "id":"tam_160aspace_ref26",
         "ead_ssi":"tam_160",
@@ -377,8 +379,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799781039161212928,
-        "timestamp":"2024-05-22T19:09:12.203Z"},
+        "_version_":1802170271532056576,
+        "timestamp":"2024-06-18T04:05:01.751Z"},
       {
         "id":"tam_160aspace_ref27",
         "ead_ssi":"tam_160",
@@ -400,8 +402,8 @@
         "unitdate_start_ssm":["1994"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1994-2003 , undated"],
-        "_version_":1799781039177990144,
-        "timestamp":"2024-05-22T19:09:12.219Z"},
+        "_version_":1802170271542542336,
+        "timestamp":"2024-06-18T04:05:01.761Z"},
       {
         "id":"tam_160aspace_ref28",
         "ead_ssi":"tam_160",
@@ -423,8 +425,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799781039196864512,
-        "timestamp":"2024-05-22T19:09:12.237Z"},
+        "_version_":1802170271554076672,
+        "timestamp":"2024-06-18T04:05:01.772Z"},
       {
         "id":"tam_160aspace_ref29",
         "ead_ssi":"tam_160",
@@ -446,8 +448,8 @@
         "unitdate_start_ssm":["1993"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1993-2003 , undated"],
-        "_version_":1799781039212593152,
-        "timestamp":"2024-05-22T19:09:12.252Z"},
+        "_version_":1802170271567708160,
+        "timestamp":"2024-06-18T04:05:01.785Z"},
       {
         "id":"tam_160aspace_ref30",
         "ead_ssi":"tam_160",
@@ -469,8 +471,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799781039228321792,
-        "timestamp":"2024-05-22T19:09:12.267Z"},
+        "_version_":1802170271579242496,
+        "timestamp":"2024-06-18T04:05:01.796Z"},
       {
         "id":"tam_160aspace_ref31",
         "ead_ssi":"tam_160",
@@ -492,8 +494,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1980s-1990s"],
-        "_version_":1799781039248244736,
-        "timestamp":"2024-05-22T19:09:12.286Z"},
+        "_version_":1802170271590776832,
+        "timestamp":"2024-06-18T04:05:01.807Z"},
       {
         "id":"tam_160aspace_ref37",
         "ead_ssi":"tam_160",
@@ -513,8 +515,8 @@
         "location_ssm":["Box: 18"],
         "heading_ssm":["FBI/FOIA Correspondence and Documents; Mailing List for Comment Newsletter; Photographs"],
         "unitdate_ssm":["1920s-1980s"],
-        "_version_":1799781039265021952,
-        "timestamp":"2024-05-22T19:09:12.302Z"}]
+        "_version_":1802170271602311168,
+        "timestamp":"2024-06-18T04:05:01.818Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -522,7 +524,8 @@
       "repository_sim":[
         "tamwag",20],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bookchin, Murray, 1921-2006",1],
       "date_range_sim":[
         "1901-2000",18,
         "2001-2100",13,

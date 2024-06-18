@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Prospect Park exhibit photography collection"],
         "unitid_ssm":["V1974.036"],
         "abstract_ssm":["Items in the collection show scenes of Prospect Park, such as landscapes, statues, arches, bridges, lakes, and recreational activities, namely bicycling and ice skating."],
+        "creator_ssm":["Brooklyn Historical Society (Brooklyn, New York, N.Y.)",
+          "Brooklyn Historical Society (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1877/1985",
           "1889/1897"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -75,8 +77,8 @@
           "1897"],
         "unitdate_ssm":["Inclusive, 1877 to circa 1975 ; 1889-1897"],
         "language_ssm":["English"],
-        "_version_":1799309976347344896,
-        "timestamp":"2024-05-17T14:21:51.696Z"}]
+        "_version_":1802044837090820096,
+        "timestamp":"2024-06-16T18:51:18.146Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Historical Society (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

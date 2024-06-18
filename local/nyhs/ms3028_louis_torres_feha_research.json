@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Louis Torres Federal Hall research notes"],
         "unitid_ssm":["MS 3028"],
         "abstract_ssm":["The collection includes National Park Service historian Louis Torres's (1921-2017) research notes from the late 1950s to early 1960s concerning the history of the building site now known as the Federal Hall National Memorial. The bulk of the collection includes about 700 index cards identifying sources of information and a small number of photographs and other documents."],
+        "creator_ssm":["Torres, Louis, 1921-",
+          "Torres, Louis, 1921-"],
         "corpname_ssm":["New-York Historical Society",
           "Federal Hall National Memorial (New York, N.Y.)"],
         "genreform_ssm":["Card indexes",
@@ -66,8 +68,8 @@
         "heading_ssm":["Louis Torres Federal Hall research notes"],
         "unitdate_ssm":["Inclusive, Circa 1960"],
         "language_ssm":["English"],
-        "_version_":1799330241279164416,
-        "timestamp":"2024-05-17T19:43:57.841Z"}]
+        "_version_":1802084986973585408,
+        "timestamp":"2024-06-17T05:29:28.057Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Torres, Louis, 1921-",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jack Schmulowitz Manuscript on Julius and Lilly Schmulewitz"],
         "unitid_ssm":["WAG.287"],
         "abstract_ssm":["Julius Schmulewitz (1895-1966) was a member of the Bakery and Confectionary Workers International Union, Local 3. This collection contains a small biographical manuscript on Julius and Lilly Schmulewitz, written by their son Jack Schmulowitz."],
+        "creator_ssm":["Schmulowitz, Jack ",
+          "Schmulowitz, Jack "],
         "unitdate_normal_ssm":["1999/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Bakery, Confectionery, and Tobacco Workers International Union. Local 3 (Long Island City, N.Y.)"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1999"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["1999"],
-        "_version_":1775222237012426752,
-        "timestamp":"2023-08-25T17:17:33.352Z"}]
+        "_version_":1801340669121265664,
+        "timestamp":"2024-06-09T00:18:51.239Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Schmulowitz, Jack ",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

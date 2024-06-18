@@ -47,6 +47,10 @@
         "unittitle_ssm":["Graham Home for Old Ladies annual reports and publications"],
         "unitid_ssm":["1985.114"],
         "abstract_ssm":["The Graham Home for Old Ladies annual reports and publications span the period 1852 to 1958. Annual reports feature summaries of the Home's yearly activities, expenditures, and endowments, as well as listings of board members, managers, staff, and committees; the Home's certificate of incorporation, constitution, and bylaws; rules and regulations; application procedures; listings of monetary and material donors; and listings of annual subscribers and life members. The reports do not feature the names of residents being accommodated at the Home."],
+        "creator_ssm":["Brooklyn Society for the Relief of Respectable, Aged, Indigent Females",
+          "Graham Home for Old Ladies",
+          "Brooklyn Society for the Relief of Respectable, Aged, Indigent Females",
+          "Graham Home for Old Ladies"],
         "unitdate_normal_ssm":["1852/1958"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Society for the Relief of Respectable, Aged, Indigent Females",
@@ -84,8 +88,8 @@
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["Inclusive, 1852-1958"],
         "language_ssm":["English"],
-        "_version_":1799311568388751360,
-        "timestamp":"2024-05-17T14:47:09.985Z"}]
+        "_version_":1801963151595405312,
+        "timestamp":"2024-06-15T21:12:56.787Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +97,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Society for the Relief of Respectable, Aged, Indigent Females",1,
+        "Graham Home for Old Ladies",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

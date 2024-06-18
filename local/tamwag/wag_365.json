@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Shelf Life Newsletters"],
         "unitid_ssm":["WAG.365"],
         "abstract_ssm":["Shelf Life is the quarterly newsletter of the Working Class Movement Library in Salford, England. The archived website contains PDFs of the newsletter dating back to 2006."],
+        "creator_ssm":["Working Class Movement Library (Salford, Greater Manchester, England)",
+          "Working Class Movement Library (Salford, Greater Manchester, England)"],
         "unitdate_normal_ssm":["2018-11-21/2018-11-21"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Working Class Movement Library (Salford, Greater Manchester, England)"],
@@ -60,8 +62,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Shelf Life Newsletters"],
         "unitdate_ssm":["November 2018-ongoing"],
-        "_version_":1799335389761110016,
-        "timestamp":"2024-05-17T21:05:47.816Z"},
+        "_version_":1802197563694120960,
+        "timestamp":"2024-06-18T11:18:49.584Z"},
       {
         "id":"wag_365aspace_34d6e86231caad04c289124e4d80c30f",
         "ead_ssi":"wag_365",
@@ -78,8 +80,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["November 2018-ongoing"],
-        "_version_":1799335389782081536,
-        "timestamp":"2024-05-17T21:05:47.836Z"}]
+        "_version_":1802197563701460992,
+        "timestamp":"2024-06-18T11:18:49.592Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
         "tamwag",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Working Class Movement Library (Salford, Greater Manchester, England)",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

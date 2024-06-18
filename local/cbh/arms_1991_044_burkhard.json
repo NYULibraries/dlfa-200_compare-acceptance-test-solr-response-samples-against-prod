@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Thomas Burkhard Coppersmith Company records"],
         "unitid_ssm":["1991.044"],
         "abstract_ssm":["The Thomas Burkhard Coppersmith Company, founded in New York City in 1836, moved to Brooklyn in 1891. This collection contains account and production books, as well as advertising handbills, customer lists, order books, and clippings, that provide insight into the operation of a leading manufacturer of copper kettles for the confectionary and pharmaceutical industries during the 19th and early 20th centuries."],
+        "creator_ssm":["Thomas Burkhard Coppersmith Company",
+          "Burkhard, Thomas",
+          "Thomas Burkhard Coppersmith Company",
+          "Burkhard, Thomas"],
         "unitdate_normal_ssm":["1883/1909"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Thomas Burkhard Coppersmith Company",
@@ -77,8 +81,8 @@
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["Inclusive, 1883-1909"],
         "language_ssm":["English"],
-        "_version_":1799312462888042496,
-        "timestamp":"2024-05-17T15:01:23.046Z"}]
+        "_version_":1801963634467799040,
+        "timestamp":"2024-06-15T21:20:37.29Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +90,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Burkhard, Thomas",1,
+        "Thomas Burkhard Coppersmith Company",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

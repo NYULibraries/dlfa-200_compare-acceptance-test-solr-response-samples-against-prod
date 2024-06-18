@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Nancy Sirkis photographs"],
         "unitid_ssm":["PR 387"],
         "abstract_ssm":["This collection consists of 8 photographs of New York City street scenes, including images from each of the five boroughs: 2 photos each of Manhattan, Brooklyn and Queens, and 1 photo each of the Bronx and Staten Island. The photographs, which were taken between 2006 and 2008, are captioned, signed, and dated by the photographer, Nancy Sirkis."],
+        "creator_ssm":["Sirkis, Nancy",
+          "Sirkis, Nancy"],
         "unitdate_normal_ssm":["2006/2008"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Sirkis, Nancy"],
@@ -62,8 +64,8 @@
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 2006-2008"],
         "language_ssm":["English"],
-        "_version_":1799321376447791104,
-        "timestamp":"2024-05-17T17:23:03.679Z"},
+        "_version_":1802094517513355264,
+        "timestamp":"2024-06-17T08:00:57.088Z"},
       {
         "id":"pr387_sirkisaspace_02d39b74e569259d05639b7c0a6abb80",
         "ead_ssi":"pr387_sirkis",
@@ -79,8 +81,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Bensonhurst, Brooklyn"],
         "unitdate_ssm":["Inclusive, 2006"],
-        "_version_":1799321376463519744,
-        "timestamp":"2024-05-17T17:23:03.694Z"},
+        "_version_":1802094517541666816,
+        "timestamp":"2024-06-17T08:00:57.116Z"},
       {
         "id":"pr387_sirkisaspace_0d54d6d2f3a9a13edc083103f27100b8",
         "ead_ssi":"pr387_sirkis",
@@ -96,8 +98,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Queens Plaza"],
         "unitdate_ssm":["Inclusive, 2006"],
-        "_version_":1799321376489734144,
-        "timestamp":"2024-05-17T17:23:03.719Z"},
+        "_version_":1802094517587804160,
+        "timestamp":"2024-06-17T08:00:57.16Z"},
       {
         "id":"pr387_sirkisaspace_27ab597664327aa83b461a86bc706011",
         "ead_ssi":"pr387_sirkis",
@@ -113,8 +115,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Roosevelt Ave., Queens"],
         "unitdate_ssm":["Inclusive, 2007"],
-        "_version_":1799321376536920064,
-        "timestamp":"2024-05-17T17:23:03.764Z"},
+        "_version_":1802094517685321728,
+        "timestamp":"2024-06-17T08:00:57.253Z"},
       {
         "id":"pr387_sirkisaspace_31d3f5d743be83d1e4b3dc3a8e2e7a76",
         "ead_ssi":"pr387_sirkis",
@@ -130,8 +132,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Snug Harbor, SI"],
         "unitdate_ssm":["Inclusive, 2008"],
-        "_version_":1799321376566280192,
-        "timestamp":"2024-05-17T17:23:03.792Z"},
+        "_version_":1802094517726216192,
+        "timestamp":"2024-06-17T08:00:57.292Z"},
       {
         "id":"pr387_sirkisaspace_6a46f36c475ef9dbb82480646925265a",
         "ead_ssi":"pr387_sirkis",
@@ -147,8 +149,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["First Avenue and First Street, NYC"],
         "unitdate_ssm":["Inclusive, 2007"],
-        "_version_":1799321376509657088,
-        "timestamp":"2024-05-17T17:23:03.738Z"},
+        "_version_":1802094517625552896,
+        "timestamp":"2024-06-17T08:00:57.196Z"},
       {
         "id":"pr387_sirkisaspace_6c75c522be72b8b4b2f0a98d3b3c27ca",
         "ead_ssi":"pr387_sirkis",
@@ -164,8 +166,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Greene Street, NYC"],
         "unitdate_ssm":["Inclusive, 2007"],
-        "_version_":1799321376522240000,
-        "timestamp":"2024-05-17T17:23:03.75Z"},
+        "_version_":1802094517658058752,
+        "timestamp":"2024-06-17T08:00:57.227Z"},
       {
         "id":"pr387_sirkisaspace_976fe69e88a8ed642c4dc8f6dd0b4a4f",
         "ead_ssi":"pr387_sirkis",
@@ -181,8 +183,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Dumbo"],
         "unitdate_ssm":["Inclusive, 2006"],
-        "_version_":1799321376476102656,
-        "timestamp":"2024-05-17T17:23:03.706Z"},
+        "_version_":1802094517563686912,
+        "timestamp":"2024-06-17T08:00:57.137Z"},
       {
         "id":"pr387_sirkisaspace_dc7b09b906943cd301981ce285fbe4d9",
         "ead_ssi":"pr387_sirkis",
@@ -198,8 +200,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Westchester Avenue, Bronx, NY #2"],
         "unitdate_ssm":["Inclusive, 2007"],
-        "_version_":1799321376552648704,
-        "timestamp":"2024-05-17T17:23:03.779Z"}]
+        "_version_":1802094517708390400,
+        "timestamp":"2024-06-17T08:00:57.275Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -207,7 +209,8 @@
       "repository_sim":[
         "nyhs",9],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sirkis, Nancy",1],
       "date_range_sim":[
         "2001-2100",1,
         "undated & other",8],

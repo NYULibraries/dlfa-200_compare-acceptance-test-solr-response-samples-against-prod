@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Joan Holt Papers on the Indian Point Energy Center"],
         "unitid_ssm":["TAM.754"],
         "abstract_ssm":["Joan Holt was the Director of the Indian Point Project at the New York Public Interest Research Group in the late 1970s and early 1980s. She also was involved in activism concerning disarmanent, civil rights, women's rights, and United States involvement in the Vietnam War. The Joan Holt Papers (dated 1978-1989) consists of materials created and collected by Holt documenting her involvement in efforts to decommission the Indian Point Energy Center (IPEC). Materials in this collection include petitions, correspondence, memoranda, flyers and other ephemera, press releases, newspaper clippings and reports produced by the New York Public Interest Research Group concerning safety investigations, nuclear power plants' impact on the health of local citizens, emergency preparedness protocols, and the prospect of nuclear accidents like Three Mile Island and Chernobyl. This collection also includes transcripts of testimonies by Holt and other experts at local public meetings and federal hearings with the United States Nuclear Regulatory Commission. A significant portion of this collection consists of the working documentation used to prepare for these meetings, including notes, surveys, memoranda of talking points, and reports. This collection provides evidence of the organizing efforts that occur as part of a nuclear decommissioning campaign, as well as the broader antinuclear movement in the 1970s and 1980s."],
+        "creator_ssm":["Holt, Joan",
+          "Holt, Joan"],
         "unitdate_normal_ssm":["1978/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "U.S. Nuclear Regulatory Commission",
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["1978"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1978-1989"],
-        "_version_":1775218304919535616,
-        "timestamp":"2023-08-25T16:15:03.416Z"},
+        "_version_":1801292214925524992,
+        "timestamp":"2024-06-08T11:28:41.717Z"},
       {
         "id":"tam_754aspace_130bd35c7b4cadcf6557cc1cbfc2e2dc",
         "ead_ssi":"tam_754",
@@ -90,8 +92,8 @@
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1979-1983"],
-        "_version_":1775218305467940865,
-        "timestamp":"2023-08-25T16:15:03.939Z"},
+        "_version_":1801292215098540032,
+        "timestamp":"2024-06-08T11:28:41.882Z"},
       {
         "id":"tam_754aspace_130f2ac8bbd98605ca3703dee19dbfa3",
         "ead_ssi":"tam_754",
@@ -110,8 +112,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1980-1986"],
-        "_version_":1775218305390346240,
-        "timestamp":"2023-08-25T16:15:03.865Z"},
+        "_version_":1801292215070228480,
+        "timestamp":"2024-06-08T11:28:41.855Z"},
       {
         "id":"tam_754aspace_239365db03d20d873a9521366c15d0a9",
         "ead_ssi":"tam_754",
@@ -130,8 +132,8 @@
         "unitdate_start_ssm":["1982"],
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1982-1983"],
-        "_version_":1775218305349451776,
-        "timestamp":"2023-08-25T16:15:03.826Z"},
+        "_version_":1801292215052402688,
+        "timestamp":"2024-06-08T11:28:41.838Z"},
       {
         "id":"tam_754aspace_2a2d6b945b5f9c6dd79dc7d0f8f74102",
         "ead_ssi":"tam_754",
@@ -150,8 +152,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1980-1987"],
-        "_version_":1775218305178533888,
-        "timestamp":"2023-08-25T16:15:03.663Z"},
+        "_version_":1801292214997876736,
+        "timestamp":"2024-06-08T11:28:41.786Z"},
       {
         "id":"tam_754aspace_59e43609c0efb0efefb18d27b8b56f24",
         "ead_ssi":"tam_754",
@@ -170,8 +172,8 @@
         "unitdate_start_ssm":["1982"],
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1982-1983"],
-        "_version_":1775218305312751616,
-        "timestamp":"2023-08-25T16:15:03.791Z"},
+        "_version_":1801292215034576896,
+        "timestamp":"2024-06-08T11:28:41.821Z"},
       {
         "id":"tam_754aspace_76acfa116c7da9a106766bd65d7575cb",
         "ead_ssi":"tam_754",
@@ -190,8 +192,8 @@
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["1982"],
         "unitdate_ssm":["Inclusive, 1979-1982"],
-        "_version_":1775218305133445120,
-        "timestamp":"2023-08-25T16:15:03.62Z"},
+        "_version_":1801292214983196672,
+        "timestamp":"2024-06-08T11:28:41.772Z"},
       {
         "id":"tam_754aspace_9909b13012b33f8704415713c47a7f0c",
         "ead_ssi":"tam_754",
@@ -210,8 +212,8 @@
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1979-1983"],
-        "_version_":1775218304958332928,
-        "timestamp":"2023-08-25T16:15:03.452Z"},
+        "_version_":1801292214941253632,
+        "timestamp":"2024-06-08T11:28:41.732Z"},
       {
         "id":"tam_754aspace_a2c1939aca4741c435a7c0285b326ef3",
         "ead_ssi":"tam_754",
@@ -230,8 +232,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1981-1983"],
-        "_version_":1775218305221525504,
-        "timestamp":"2023-08-25T16:15:03.703Z"},
+        "_version_":1801292215010459648,
+        "timestamp":"2024-06-08T11:28:41.798Z"},
       {
         "id":"tam_754aspace_a56d9879b3097dd1757d0ee4f34ffd0e",
         "ead_ssi":"tam_754",
@@ -250,8 +252,8 @@
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1979-1986"],
-        "_version_":1775218305012858880,
-        "timestamp":"2023-08-25T16:15:03.505Z"},
+        "_version_":1801292214958030848,
+        "timestamp":"2024-06-08T11:28:41.748Z"},
       {
         "id":"tam_754aspace_af66fe55651612323ecf9f099975d0d3",
         "ead_ssi":"tam_754",
@@ -270,8 +272,8 @@
         "unitdate_start_ssm":["1978"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1978-1989"],
-        "_version_":1775218305431240704,
-        "timestamp":"2023-08-25T16:15:03.903Z"},
+        "_version_":1801292215084908544,
+        "timestamp":"2024-06-08T11:28:41.869Z"},
       {
         "id":"tam_754aspace_e8d9e82e7c956b4a2e8c7cbd00677910",
         "ead_ssi":"tam_754",
@@ -290,8 +292,8 @@
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1979-1988"],
-        "_version_":1775218305053753344,
-        "timestamp":"2023-08-25T16:15:03.544Z"}]
+        "_version_":1801292214970613760,
+        "timestamp":"2024-06-08T11:28:41.76Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -299,7 +301,8 @@
       "repository_sim":[
         "tamwag",12],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Holt, Joan",1],
       "date_range_sim":[
         "1901-2000",12],
       "subject_sim":[

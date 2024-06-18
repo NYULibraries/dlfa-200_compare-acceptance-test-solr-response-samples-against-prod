@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lester family papers"],
         "unitid_ssm":["1994.004"],
         "abstract_ssm":["The Lester family papers document the Lester family of Brooklyn, spanning the period 1863 to 1911 and measuring 1.6 linear feet. The collection consists mostly of bills and receipts for transactions of goods and services, and also contains materials pertaining to Great Barrington, Massachusetts and Bayshore, Long Island.  Also included are issues of the newspapers The Drumbeat, The Brooklyn Daily Eagle, The New York Herald, and The New York Dispatch dating from 1863 to 1865."],
+        "creator_ssm":["Lester family",
+          "Lester family"],
         "unitdate_normal_ssm":["1863/1911",
           "1910/1911"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1911"],
         "unitdate_ssm":["Inclusive, 1863-1911 ; 1910-1911"],
         "language_ssm":["English"],
-        "_version_":1799256179121061888,
-        "timestamp":"2024-05-17T00:06:46.663Z"}]
+        "_version_":1801963735558914048,
+        "timestamp":"2024-06-15T21:22:13.698Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lester family",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

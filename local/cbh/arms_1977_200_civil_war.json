@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,20 @@
         "unittitle_ssm":["Civil War collection"],
         "unitid_ssm":["1977.200"],
         "abstract_ssm":["The Civil War collection measures 0.75 linear feet and dates from 1804 to 1865. The collection contains a variety of materials from New York and the Eastern United States, ranging from Confederate military records to ephemeral printed material. Document types in the collection include hospital records, roll books and registers, muster rolls, military orders, scrapbooks, broadsides, and ephemera."],
+        "creator_ssm":["Suffolk County Sabbath School Association",
+          "New York (State). National Guard. Regiment, 13th",
+          "Hopkins, E. P.",
+          "Howell, George Rogers",
+          "Confederate States of America. Army. North Carolina Infantry Regiment, 36th",
+          "National Freedman's Relief Association",
+          "War Fund Committee (Brooklyn, New York, N.Y.)",
+          "Suffolk County Sabbath School Association",
+          "New York (State). National Guard. Regiment, 13th",
+          "Confederate States of America. Army. North Carolina Infantry Regiment, 36th",
+          "National Freedman's Relief Association",
+          "War Fund Committee (Brooklyn, New York, N.Y.)",
+          "Hopkins, E. P.",
+          "Howell, George Rogers"],
         "unitdate_normal_ssm":["1804/1865"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Suffolk County Sabbath School Association",
@@ -109,8 +123,8 @@
         "unitdate_start_ssm":["1804"],
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["Inclusive, 1804-1865"],
-        "_version_":1799256306767364096,
-        "timestamp":"2024-05-17T00:08:48.396Z"}]
+        "_version_":1801960919919493120,
+        "timestamp":"2024-06-15T20:37:28.495Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -118,7 +132,14 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Confederate States of America. Army. North Carolina Infantry Regiment, 36th",1,
+        "Hopkins, E. P.",1,
+        "Howell, George Rogers",1,
+        "National Freedman's Relief Association",1,
+        "New York (State). National Guard. Regiment, 13th",1,
+        "Suffolk County Sabbath School Association",1,
+        "War Fund Committee (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

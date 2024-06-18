@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jay Schaffner Papers"],
         "unitid_ssm":["TAM.526"],
         "abstract_ssm":["Jay Schaffner (1952-), was an activist and official in the Young Workers Liberation League, a youth group affiliated with the Communist Party of the United States of America (CPUSA), of which he was also a member, and rom 1983-1991 Schaffner led the New York City-based Anniversary Tours, a travel agency associated with the CPUSA that organized trips to the Soviet Union and other socialist countries. Schaffner left the CPUSA in 1991 and joined the Committees of Correspondence, founded in 1991, and which in 2000 changed its name to the Committees of Correspondence for Democracy and Socialism, which is a democratic socialist group largely formed by dissident members of the CPUSA, and was its treasure from 1993-2003. The papers contain records of the YWLL, CPUSA, COC/CCDS, and include convention discussion materials, reports, statements, notebooks, subject files, and clippings. There are also a single file on the Labor Youth League, a 1950s CPUSA affiliated youth organization; several each on Anniversary Tours and on the Greek Communist Party in the 1970s-1980s, some in Greek, and on Schafffner's 1976 trip to Greece to attend the congress of the Communist Youth of Greece."],
+        "creator_ssm":["Schaffner, Jay",
+          "Schaffner, Jay"],
         "unitdate_normal_ssm":["1950/2010",
           "1970/1990"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -83,8 +85,8 @@
         "unitdate_end_ssm":["2010",
           "1990"],
         "unitdate_ssm":["Inclusive, 1950-2010 ; 1970-1990"],
-        "_version_":1799333624152064000,
-        "timestamp":"2024-05-17T20:37:44Z"},
+        "_version_":1802183254176956416,
+        "timestamp":"2024-06-18T07:31:22.965Z"},
       {
         "id":"tam_526aspace_ref12",
         "ead_ssi":"tam_526",
@@ -100,8 +102,8 @@
         "location_ssm":["Box: 8"],
         "heading_ssm":["Communist Party Documents"],
         "unitdate_ssm":["1970s-1980s"],
-        "_version_":1799333624285233152,
-        "timestamp":"2024-05-17T20:37:44.127Z"},
+        "_version_":1802183254253502464,
+        "timestamp":"2024-06-18T07:31:23.039Z"},
       {
         "id":"tam_526aspace_ref13",
         "ead_ssi":"tam_526",
@@ -117,8 +119,8 @@
         "location_ssm":["Box: 9"],
         "heading_ssm":["Communist Party Documents (1970s-1990s): Labor Youth League (1950s); Anniversary Tours"],
         "unitdate_ssm":["undated"],
-        "_version_":1799333624304107520,
-        "timestamp":"2024-05-17T20:37:44.145Z"},
+        "_version_":1802183254266085376,
+        "timestamp":"2024-06-18T07:31:23.051Z"},
       {
         "id":"tam_526aspace_ref14",
         "ead_ssi":"tam_526",
@@ -134,8 +136,8 @@
         "location_ssm":["Box: 10"],
         "heading_ssm":["Communist Party pre-1991 Convention Discussion Materials; Various Subject Files; Communist Party (1969-1979, begin)"],
         "unitdate_ssm":["1969-1990s"],
-        "_version_":1799333624318787584,
-        "timestamp":"2024-05-17T20:37:44.159Z"},
+        "_version_":1802183254274473984,
+        "timestamp":"2024-06-18T07:31:23.059Z"},
       {
         "id":"tam_526aspace_ref15",
         "ead_ssi":"tam_526",
@@ -151,8 +153,8 @@
         "location_ssm":["Box: 11"],
         "heading_ssm":["Communist Party (1969-1979, end); Communist Party USA and New York State (1979-1991, begin); Anniversary Tours"],
         "unitdate_ssm":["1969-1991"],
-        "_version_":1799333624332419072,
-        "timestamp":"2024-05-17T20:37:44.172Z"},
+        "_version_":1802183254282862592,
+        "timestamp":"2024-06-18T07:31:23.067Z"},
       {
         "id":"tam_526aspace_ref16",
         "ead_ssi":"tam_526",
@@ -168,8 +170,8 @@
         "location_ssm":["Box: 12"],
         "heading_ssm":["Anniversary Tours; Communist Party, USA and New York State (1979-1991, end); Communist Party (1992-1994); Committees of Correspondence, aka COC (1991-1994)"],
         "unitdate_ssm":["1979-1994"],
-        "_version_":1799333624349196288,
-        "timestamp":"2024-05-17T20:37:44.188Z"},
+        "_version_":1802183254292299776,
+        "timestamp":"2024-06-18T07:31:23.076Z"},
       {
         "id":"tam_526aspace_ref17",
         "ead_ssi":"tam_526",
@@ -185,8 +187,8 @@
         "location_ssm":["Box: 13"],
         "heading_ssm":["Communist Party (1991-1994); Committees of Correspondence (1991-1994)"],
         "unitdate_ssm":["1991-1994"],
-        "_version_":1799333624362827776,
-        "timestamp":"2024-05-17T20:37:44.201Z"},
+        "_version_":1802183254301736960,
+        "timestamp":"2024-06-18T07:31:23.085Z"},
       {
         "id":"tam_526aspace_ref18",
         "ead_ssi":"tam_526",
@@ -202,8 +204,8 @@
         "location_ssm":["Box: 14"],
         "heading_ssm":["Committees of Correspondence (National and New York State)"],
         "unitdate_ssm":["1992-1994"],
-        "_version_":1799333624376459264,
-        "timestamp":"2024-05-17T20:37:44.214Z"},
+        "_version_":1802183254312222720,
+        "timestamp":"2024-06-18T07:31:23.095Z"},
       {
         "id":"tam_526aspace_ref19",
         "ead_ssi":"tam_526",
@@ -219,8 +221,8 @@
         "location_ssm":["Box: 15"],
         "heading_ssm":["Committees of Correspondence"],
         "unitdate_ssm":["1993-1998"],
-        "_version_":1799333624392187904,
-        "timestamp":"2024-05-17T20:37:44.229Z"},
+        "_version_":1802183254320611328,
+        "timestamp":"2024-06-18T07:31:23.103Z"},
       {
         "id":"tam_526aspace_ref2",
         "ead_ssi":"tam_526",
@@ -236,8 +238,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Young Workers Liberation League"],
         "unitdate_ssm":["1969-1975"],
-        "_version_":1799333624170938368,
-        "timestamp":"2024-05-17T20:37:44.018Z"},
+        "_version_":1802183254186393600,
+        "timestamp":"2024-06-18T07:31:22.975Z"},
       {
         "id":"tam_526aspace_ref20",
         "ead_ssi":"tam_526",
@@ -253,8 +255,8 @@
         "location_ssm":["Box: 16"],
         "heading_ssm":["Committees of Correspondence / Committees of Correspondence for Democracy and Socialism, aka CCDS (1993-2005); Subject Files; Tributes to Lou Diskin, Gil Green, Jack Spiegel"],
         "unitdate_ssm":["1993-1999, undated"],
-        "_version_":1799333624406867968,
-        "timestamp":"2024-05-17T20:37:44.243Z"},
+        "_version_":1802183254331097088,
+        "timestamp":"2024-06-18T07:31:23.113Z"},
       {
         "id":"tam_526aspace_ref21",
         "ead_ssi":"tam_526",
@@ -270,8 +272,8 @@
         "location_ssm":["Box: 17"],
         "heading_ssm":["Committees of Correspondence / Committees of Correspondence for Democracy and Socialism 1990-2005; Voices of the Future"],
         "unitdate_ssm":["1990-2005"],
-        "_version_":1799333624420499456,
-        "timestamp":"2024-05-17T20:37:44.256Z"},
+        "_version_":1802183254339485696,
+        "timestamp":"2024-06-18T07:31:23.121Z"},
       {
         "id":"tam_526aspace_ref22",
         "ead_ssi":"tam_526",
@@ -287,8 +289,8 @@
         "location_ssm":["Box: 18"],
         "heading_ssm":["Committees of Correspondence / Committees of Correspondence for Democracy and Socialism"],
         "unitdate_ssm":["1990s-2000s"],
-        "_version_":1799333624434130944,
-        "timestamp":"2024-05-17T20:37:44.269Z"},
+        "_version_":1802183254348922880,
+        "timestamp":"2024-06-18T07:31:23.129Z"},
       {
         "id":"tam_526aspace_ref23",
         "ead_ssi":"tam_526",
@@ -304,8 +306,8 @@
         "location_ssm":["Box: 19"],
         "heading_ssm":["Committees of Correspondence / Committees of Correspondence for Democracy and Socialism"],
         "unitdate_ssm":["1990s-2000s"],
-        "_version_":1799333624449859584,
-        "timestamp":"2024-05-17T20:37:44.284Z"},
+        "_version_":1802183254357311488,
+        "timestamp":"2024-06-18T07:31:23.138Z"},
       {
         "id":"tam_526aspace_ref3",
         "ead_ssi":"tam_526",
@@ -321,8 +323,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Young Workers Liberation League"],
         "unitdate_ssm":["1976-1980"],
-        "_version_":1799333624188764160,
-        "timestamp":"2024-05-17T20:37:44.035Z"},
+        "_version_":1802183254194782208,
+        "timestamp":"2024-06-18T07:31:22.983Z"},
       {
         "id":"tam_526aspace_ref32",
         "ead_ssi":"tam_526",
@@ -338,8 +340,8 @@
         "location_ssm":["Box: 20"],
         "heading_ssm":["Schaffner's 1970 trip to North Vietnam (includes his notebooks); Niles Township High School, Skokie Illinois (clippings on student activism, etc.), 1970s; Voices of the Future, Anniversary Tours, 1980s."],
         "unitdate_ssm":["1970s-1980s"],
-        "_version_":1799333624464539648,
-        "timestamp":"2024-05-17T20:37:44.298Z"},
+        "_version_":1802183254366748672,
+        "timestamp":"2024-06-18T07:31:23.147Z"},
       {
         "id":"tam_526aspace_ref35",
         "ead_ssi":"tam_526",
@@ -358,8 +360,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1970s-early 2000s"],
-        "_version_":1799333624479219712,
-        "timestamp":"2024-05-17T20:37:44.312Z"},
+        "_version_":1802183254377234432,
+        "timestamp":"2024-06-18T07:31:23.157Z"},
       {
         "id":"tam_526aspace_ref36",
         "ead_ssi":"tam_526",
@@ -378,8 +380,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1990s-early 2000s"],
-        "_version_":1799333624494948352,
-        "timestamp":"2024-05-17T20:37:44.327Z"},
+        "_version_":1802183254387720192,
+        "timestamp":"2024-06-18T07:31:23.167Z"},
       {
         "id":"tam_526aspace_ref37",
         "ead_ssi":"tam_526",
@@ -398,8 +400,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1970s-1991"],
-        "_version_":1799333624509628416,
-        "timestamp":"2024-05-17T20:37:44.341Z"},
+        "_version_":1802183254397157376,
+        "timestamp":"2024-06-18T07:31:23.176Z"},
       {
         "id":"tam_526aspace_ref38",
         "ead_ssi":"tam_526",
@@ -418,8 +420,8 @@
         "unitdate_start_ssm":["1963"],
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, 1963-1997"],
-        "_version_":1799333624525357056,
-        "timestamp":"2024-05-17T20:37:44.356Z"},
+        "_version_":1802183254409740288,
+        "timestamp":"2024-06-18T07:31:23.188Z"},
       {
         "id":"tam_526aspace_ref39",
         "ead_ssi":"tam_526",
@@ -438,8 +440,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, 1970s-2010"],
-        "_version_":1799333624538988544,
-        "timestamp":"2024-05-17T20:37:44.369Z"},
+        "_version_":1802183254422323200,
+        "timestamp":"2024-06-18T07:31:23.2Z"},
       {
         "id":"tam_526aspace_ref4",
         "ead_ssi":"tam_526",
@@ -455,8 +457,8 @@
         "location_ssm":["Box: 3"],
         "heading_ssm":["Young Workers Liberation League (1976-1984); Notebooks (1986-1977, beginning)"],
         "unitdate_ssm":["1968-1984"],
-        "_version_":1799333624210784256,
-        "timestamp":"2024-05-17T20:37:44.055Z"},
+        "_version_":1802183254209462272,
+        "timestamp":"2024-06-18T07:31:22.996Z"},
       {
         "id":"tam_526aspace_ref5",
         "ead_ssi":"tam_526",
@@ -472,8 +474,8 @@
         "location_ssm":["Box: 4"],
         "heading_ssm":["Notebooks (1968-1977, end)"],
         "unitdate_ssm":["1968-1977"],
-        "_version_":1799333624224415744,
-        "timestamp":"2024-05-17T20:37:44.069Z"},
+        "_version_":1802183254217850880,
+        "timestamp":"2024-06-18T07:31:23.005Z"},
       {
         "id":"tam_526aspace_ref6",
         "ead_ssi":"tam_526",
@@ -489,8 +491,8 @@
         "location_ssm":["Box: 5"],
         "heading_ssm":["Notes and Speeches (1968-1980); Chicago (1968-1971, beginning)"],
         "unitdate_ssm":["1968-1980"],
-        "_version_":1799333624239095808,
-        "timestamp":"2024-05-17T20:37:44.083Z"},
+        "_version_":1802183254226239488,
+        "timestamp":"2024-06-18T07:31:23.013Z"},
       {
         "id":"tam_526aspace_ref7",
         "ead_ssi":"tam_526",
@@ -506,8 +508,8 @@
         "location_ssm":["Box: 6"],
         "heading_ssm":["Chicago (1968-1971, end)"],
         "unitdate_ssm":["undated"],
-        "_version_":1799333624254824448,
-        "timestamp":"2024-05-17T20:37:44.097Z"},
+        "_version_":1802183254234628096,
+        "timestamp":"2024-06-18T07:31:23.021Z"},
       {
         "id":"tam_526aspace_ref8",
         "ead_ssi":"tam_526",
@@ -523,8 +525,8 @@
         "location_ssm":["Box: 7"],
         "heading_ssm":["Greek Communist Party; Jay Schaffner's Trip to Greece; CPUSA Educational Materials"],
         "unitdate_ssm":["1970s-1980s"],
-        "_version_":1799333624269504512,
-        "timestamp":"2024-05-17T20:37:44.112Z"}]
+        "_version_":1802183254243016704,
+        "timestamp":"2024-06-18T07:31:23.029Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -532,7 +534,8 @@
       "repository_sim":[
         "tamwag",26],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Schaffner, Jay",1],
       "date_range_sim":[
         "1901-2000",6,
         "2001-2100",4,

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Southold, N.Y. subscription list"],
         "unitid_ssm":["1977.622"],
         "abstract_ssm":["A photostat copy of a 1786 list of Southold, N.Y. residents and money they contributed to build a wharf in Southold Harbor."],
+        "creator_ssm":["Southold (N.Y.)",
+          "Southold (N.Y.)"],
         "unitdate_normal_ssm":["1786/1786"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Southold (N.Y.)"],
@@ -64,8 +66,8 @@
         "unitdate_end_ssm":["1786"],
         "unitdate_ssm":["1786"],
         "language_ssm":["English"],
-        "_version_":1785655148099403776,
-        "timestamp":"2023-12-18T21:04:12.701Z"}]
+        "_version_":1800728796997877760,
+        "timestamp":"2024-06-02T06:13:24.51Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Southold (N.Y.)",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ivan Greenberg FBI Research Files on Labor and Radicalism"],
         "unitid_ssm":["TAM.573"],
         "abstract_ssm":["Ivan Greenberg is an historian and author.This collecion contains FBI files obtained under the Freedom of Information Act (FOIA) by Greenberg on the Socialist Scholars Conference, the Socialist Workers Party, Dissent magazine, the Institute for Policy Studies, and Gus Hall."],
+        "creator_ssm":["Greenberg, Ivan, 1962-",
+          "Greenberg, Ivan, 1962-"],
         "unitdate_normal_ssm":["1955/2000"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Institute for Policy Studies",
@@ -77,8 +79,8 @@
         "unitdate_start_ssm":["1955"],
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1955-2000"],
-        "_version_":1799791520041140224,
-        "timestamp":"2024-05-22T21:55:47.549Z"},
+        "_version_":1802183519767625728,
+        "timestamp":"2024-06-18T07:35:36.253Z"},
       {
         "id":"tam_573aspace_ref8",
         "ead_ssi":"tam_573",
@@ -97,8 +99,8 @@
         "unitdate_start_ssm":["1955"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, 1955-1974"],
-        "_version_":1799791520125026304,
-        "timestamp":"2024-05-22T21:55:47.629Z"},
+        "_version_":1802183519778111488,
+        "timestamp":"2024-06-18T07:35:36.263Z"},
       {
         "id":"tam_573aspace_ref9",
         "ead_ssi":"tam_573",
@@ -117,8 +119,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1975-2000"],
-        "_version_":1799791520147046400,
-        "timestamp":"2024-05-22T21:55:47.65Z"}]
+        "_version_":1802183519788597248,
+        "timestamp":"2024-06-18T07:35:36.272Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -126,7 +128,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Greenberg, Ivan, 1962-",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

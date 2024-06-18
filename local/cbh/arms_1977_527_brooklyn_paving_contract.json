@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Village of Brooklyn road paving contract"],
         "unitid_ssm":["1977.527"],
         "abstract_ssm":["One 1826 contract between the Trustees of the Village of Brooklyn and Michael Tally of New York City and Owen Tally and James Gildersleeve of the Village of Brooklyn to pave and grade James, Garrison, and Merceiu Streets."],
+        "creator_ssm":["Village of Brooklyn (Kings County, N.Y.). Board of Trustees",
+          "Village of Brooklyn (Kings County, N.Y.). Board of Trustees"],
         "unitdate_normal_ssm":["1826/1826"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Village of Brooklyn (Kings County, N.Y.). Board of Trustees"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1826"],
         "unitdate_ssm":["1826"],
         "language_ssm":["English"],
-        "_version_":1799309976952373248,
-        "timestamp":"2024-05-17T14:21:52.273Z"}]
+        "_version_":1801961886317543424,
+        "timestamp":"2024-06-15T20:52:50.124Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Village of Brooklyn (Kings County, N.Y.). Board of Trustees",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Kentucky Miners Defense Photographs"],
         "unitid_ssm":["PHOTOS.016"],
         "abstract_ssm":["The Kentucky Miners' Defense was formed to help free seven miners convicted of murdering three coal company guards in Evart, Harlan County, Kentucky, during a miners' strike in May 1931. Herbert Mahler, director of the organization, spearheaded the publicity campaign to bring national attention to the miners` case. Fund-raising publicity was often aimed at unions and their members, since the Kentucky miners had been attempting to organize, but were being blocked by the coal companies, when the incident took place. The collection spans the years 1931-1939 and consists of 44 photographs, almost all of which are 8x10 black and white copy prints. It is made up of the images of the convicted miners and their families used for publicity purposes by the Kentucky Miners' Defense. There are also views of the area where the strike took place. The shots of Harlan County were used by the defense in the 1932 Court versus Hightowercase. Additional images show Mahler with the four defendants, Al Bencon, Chester Poore, W.B. Jones and Jim Reynolds, the wives of three of them, and portraits of one of the witnesses for the defense."],
+        "creator_ssm":["Kentucky Miners Defense",
+          "Kentucky Miners Defense"],
         "unitdate_normal_ssm":["1931/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Kentucky Miners Defense",
@@ -80,8 +82,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1931-1939"],
         "language_ssm":["English"],
-        "_version_":1799749487228354560,
-        "timestamp":"2024-05-22T10:47:41.935Z"},
+        "_version_":1802114438770196480,
+        "timestamp":"2024-06-17T13:17:35.479Z"},
       {
         "id":"photos_016aspace_ref13",
         "ead_ssi":"photos_016",
@@ -95,8 +97,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Inventory"],
-        "_version_":1799749487246180352,
-        "timestamp":"2024-05-22T10:47:41.952Z"},
+        "_version_":1802114438793265152,
+        "timestamp":"2024-06-17T13:17:35.502Z"},
       {
         "id":"photos_016aspace_ref14",
         "ead_ssi":"photos_016",
@@ -118,8 +120,8 @@
         "unitdate_start_ssm":["1931"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799749487265054720,
-        "timestamp":"2024-05-22T10:47:41.97Z"},
+        "_version_":1802114438819479552,
+        "timestamp":"2024-06-17T13:17:35.527Z"},
       {
         "id":"photos_016aspace_ref15",
         "ead_ssi":"photos_016",
@@ -140,8 +142,8 @@
         "unitdate_start_ssm":["1931"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799749487291269120,
-        "timestamp":"2024-05-22T10:47:41.995Z"},
+        "_version_":1802114438855131136,
+        "timestamp":"2024-06-17T13:17:35.561Z"},
       {
         "id":"photos_016aspace_ref20",
         "ead_ssi":"photos_016",
@@ -158,14 +160,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment OS002, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment OS002, Folder: 1"],
         "heading_ssm":["Oversize"],
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Inclusive, 1936-1937"],
-        "_version_":1799749487313289216,
-        "timestamp":"2024-05-22T10:47:42.015Z"}]
+        "_version_":1802114438889734144,
+        "timestamp":"2024-06-17T13:17:35.594Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -173,7 +174,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kentucky Miners Defense",1],
       "date_range_sim":[
         "1901-2000",4,
         "undated & other",1],

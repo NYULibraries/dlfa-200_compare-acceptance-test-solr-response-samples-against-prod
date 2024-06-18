@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Mulvey Family Papers"],
         "unitid_ssm":["AIA.043"],
         "abstract_ssm":["This collection consists mainly of materials collected by Kathleen Mulvey documenting her family history. The collection includes family correspondence, panoramas of Irish American social organization functions, a banner celebrating John F. Kennedy's trip to Ireland in 1963, and a scrapbook from Elizabeth Mulvey's first trip to Europe in the late 1920s, which included Ireland, Italy, France, and Switzerland. Elizabeth Mulvey was a teacher and later public school principal in the Bronx. Kathleen Mulvey was the first woman president of the Irish Institute and an active member of the County Carlow Society."],
+        "creator_ssm":["Mulvey, Kathleen",
+          "Mulvey, Kathleen"],
         "unitdate_normal_ssm":["1929/1979",
           "1929/1936"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1979",
           "1936"],
         "unitdate_ssm":["Inclusive, circa 1929-1936, 1963-1979 ; 1929-1936"],
-        "_version_":1799747180233228288,
-        "timestamp":"2024-05-22T10:11:01.813Z"},
+        "_version_":1802109600272482304,
+        "timestamp":"2024-06-17T12:00:41.129Z"},
       {
         "id":"aia_043aspace_15653e487d4f313c7e30318ce7d24630",
         "ead_ssi":"aia_043",
@@ -89,8 +91,8 @@
         "unitdate_start_ssm":["1963"],
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["1963"],
-        "_version_":1799747180246859776,
-        "timestamp":"2024-05-22T10:11:01.826Z"},
+        "_version_":1802109600292405248,
+        "timestamp":"2024-06-17T12:00:41.148Z"},
       {
         "id":"aia_043aspace_ref11",
         "ead_ssi":"aia_043",
@@ -104,14 +106,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Elizabeth Mulvey Trip to Ireland Scrapbook"],
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["Inclusive, circa 1929-1930"],
-        "_version_":1799747180259442688,
-        "timestamp":"2024-05-22T10:11:01.838Z"},
+        "_version_":1802109600311279616,
+        "timestamp":"2024-06-17T12:00:41.166Z"},
       {
         "id":"aia_043aspace_ref12",
         "ead_ssi":"aia_043",
@@ -125,14 +126,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Family Correspondence"],
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["1936"],
         "unitdate_ssm":["Inclusive, 1929-1936"],
-        "_version_":1799747180286705664,
-        "timestamp":"2024-05-22T10:11:01.864Z"},
+        "_version_":1802109600337494016,
+        "timestamp":"2024-06-17T12:00:41.191Z"},
       {
         "id":"aia_043aspace_ref13",
         "ead_ssi":"aia_043",
@@ -145,12 +145,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Photographs (Possibly from Elizabeth Mulvey Scrapbook)"],
         "unitdate_ssm":["undated"],
-        "_version_":1799747180311871488,
-        "timestamp":"2024-05-22T10:11:01.888Z"},
+        "_version_":1802109600379437056,
+        "timestamp":"2024-06-17T12:00:41.231Z"},
       {
         "id":"aia_043aspace_ref14",
         "ead_ssi":"aia_043",
@@ -165,14 +164,13 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment AIAOS001, Folder: 1",
-          "Folder: 1",
           "Box: Shared Tamiment AIAXOS001"],
         "heading_ssm":["Panoramas from Social Events and Functions"],
         "unitdate_start_ssm":["1971"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1971-1979"],
-        "_version_":1799747180300337152,
-        "timestamp":"2024-05-22T10:11:01.877Z"}]
+        "_version_":1802109600362659840,
+        "timestamp":"2024-06-17T12:00:41.215Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -180,7 +178,8 @@
       "repository_sim":[
         "tamwag",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Mulvey, Kathleen",1],
       "date_range_sim":[
         "1901-2000",5,
         "undated & other",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jan LeTelier will and estate inventory"],
         "unitid_ssm":["1994.016"],
         "abstract_ssm":["The will and estate inventory of Jan LeTelier of New Utrecht, New York (which later became part of the Bensonhurst neighborhood of Brooklyn). Both documents are dated 1671 and are written in Dutch."],
+        "creator_ssm":["LeTelier, Jan",
+          "LeTelier, Jan"],
         "unitdate_normal_ssm":["1671/1671"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Wills",
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1671"],
         "unitdate_end_ssm":["1671"],
         "unitdate_ssm":["Inclusive, 1671"],
-        "_version_":1775225635601383424,
-        "timestamp":"2023-08-25T18:11:34.499Z"}]
+        "_version_":1800794228518813696,
+        "timestamp":"2024-06-02T23:33:24.871Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "LeTelier, Jan",1],
       "date_range_sim":[
         "1601-1700",1],
       "subject_sim":[

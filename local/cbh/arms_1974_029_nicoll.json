@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William Nicoll land grants"],
         "unitid_ssm":["1974.029"],
         "abstract_ssm":["This collection contains 11 grants issued to William Nicoll for land in the Province of New York, many relating to the town of Islip in Suffolk County."],
+        "creator_ssm":["Nicoll, William",
+          "Nicoll, William"],
         "unitdate_normal_ssm":["1684/1804",
           "1684/1701"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -71,8 +73,8 @@
           "1701"],
         "unitdate_ssm":["Inclusive, 1684-1804 ; 1684-1701"],
         "language_ssm":["English"],
-        "_version_":1799312397435928576,
-        "timestamp":"2024-05-17T15:00:20.625Z"}]
+        "_version_":1801960271181250560,
+        "timestamp":"2024-06-15T20:27:09.81Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nicoll, William",1],
       "date_range_sim":[
         "1601-1700",1,
         "1701-1800",1,

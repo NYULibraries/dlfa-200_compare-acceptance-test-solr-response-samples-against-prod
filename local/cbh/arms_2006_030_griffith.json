@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William Patton Griffith papers"],
         "unitid_ssm":["2006.030"],
         "abstract_ssm":["The William Patton Griffith papers consist primarily of correspondence, writings, photographs, speeches, and clippings relating to all aspects of Griffith's participation as Grand Marshall in the Grand Army of the Republic and the Society of Old Brooklynites, among other civic activities in Brooklyn, with most of the collection focusing between the 1890s and 1930s. There are also a few items representative of Griffith's personal life, such as poems, programs, certificates, and a swatch of flag bunting from the flag that flew over General Ulysses Grant's tomb in 1897."],
+        "creator_ssm":["Griffith, William Patton",
+          "Griffith, William Patton"],
         "unitdate_normal_ssm":["1865/1932"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Society of Old Brooklynites (Brooklyn, New York, N.Y.)",
@@ -82,8 +84,8 @@
         "unitdate_end_ssm":["1932"],
         "unitdate_ssm":["Inclusive, 1865-1932"],
         "language_ssm":["English"],
-        "_version_":1799311513490554880,
-        "timestamp":"2024-05-17T14:46:17.63Z"}]
+        "_version_":1801963951260434432,
+        "timestamp":"2024-06-15T21:25:39.407Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Griffith, William Patton",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

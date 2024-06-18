@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Coleman Persily Papers"],
         "unitid_ssm":["ALBA.256"],
+        "creator_ssm":["Persily, Coleman",
+          "Persily, Coleman"],
         "unitdate_normal_ssm":["1937/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Persily, Fred.",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1937-1939; 1986-1999"],
         "language_ssm":["English"],
-        "_version_":1799748099945529344,
-        "timestamp":"2024-05-22T10:25:38.919Z"},
+        "_version_":1802111489985740800,
+        "timestamp":"2024-06-17T12:30:43.3Z"},
       {
         "id":"alba_256aspace_cbc5dff084ba9ab8989537bbaffc4a31",
         "ead_ssi":"alba_256",
@@ -78,8 +80,8 @@
         "location_ssm":["Box: 1",
           "Box: 2"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799748099959160832,
-        "timestamp":"2024-05-22T10:25:38.932Z"}]
+        "_version_":1802111490004615168,
+        "timestamp":"2024-06-17T12:30:43.318Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Persily, Coleman",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

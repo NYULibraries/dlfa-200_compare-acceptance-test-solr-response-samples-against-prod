@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Virgina Malbin Papers"],
         "unitid_ssm":["ALBA.274"],
+        "creator_ssm":["Malbin, Virginia, 1913-2008",
+          "Malbin, Virginia, 1913-2008"],
         "unitdate_normal_ssm":["1937/2008"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Malbin, Virginia, 1913-2008"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, circa 1930s-2000s"],
         "language_ssm":["English"],
-        "_version_":1799748137606184960,
-        "timestamp":"2024-05-22T10:26:14.835Z"},
+        "_version_":1802111568274522112,
+        "timestamp":"2024-06-17T12:31:57.962Z"},
       {
         "id":"alba_274aspace_11686e0cc71f621b274437550dd76f04",
         "ead_ssi":"alba_274",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799748137621913600,
-        "timestamp":"2024-05-22T10:26:14.85Z"}]
+        "_version_":1802111568300736512,
+        "timestamp":"2024-06-17T12:31:57.987Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Malbin, Virginia, 1913-2008",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

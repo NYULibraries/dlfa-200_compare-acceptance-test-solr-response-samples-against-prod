@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Andrés Vera Martínez ink on paper drawings"],
         "unitid_ssm":["2011.003"],
         "abstract_ssm":["The collection consists of two  14\"x17\" ink on paper drawings from pages 8 and 10 of Andrés Vera Martínez's work entitled Breuckelen 1679: Voyage to New Netherland, 2010."],
+        "creator_ssm":["Martínez, Andrés Vera",
+          "Martínez, Andrés Vera"],
         "unitdate_normal_ssm":["2010/2010"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Drawings (visual works)"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["2010"],
         "language_ssm":["English"],
-        "_version_":1799312275720372224,
-        "timestamp":"2024-05-17T14:58:24.548Z"}]
+        "_version_":1801964127320539136,
+        "timestamp":"2024-06-15T21:28:27.311Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Martínez, Andrés Vera",1],
       "date_range_sim":[
         "2001-2100",1],
       "subject_sim":[

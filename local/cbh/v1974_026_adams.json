@@ -47,6 +47,8 @@
         "unittitle_ssm":["Rev. William Ten Eyck Adams lantern slide collection on the Battle of Long Island"],
         "unitid_ssm":["V1974.026"],
         "abstract_ssm":["The collection contains hand-colored slides with both photographs and illustrations. Images include battle scene illustrations; the shore of Bath Beach and Fort Hamilton; street scenes from Bay Ridge through the Prospect Park area to the Fulton Ferry landing; maps of Brooklyn showing skirmish lines and the movement of troops; and portraits of prominent British and American generals."],
+        "creator_ssm":["Adams, William Ten Eyck, Rev.",
+          "Adams, William Ten Eyck, Rev."],
         "unitdate_normal_ssm":["1891/1911"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Continental Army"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1911"],
         "unitdate_ssm":["Inclusive, circa 1901"],
         "language_ssm":["English"],
-        "_version_":1799256298919821312,
-        "timestamp":"2024-05-17T00:08:40.912Z"}]
+        "_version_":1802044803471376384,
+        "timestamp":"2024-06-16T18:50:46.084Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Adams, William Ten Eyck, Rev.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

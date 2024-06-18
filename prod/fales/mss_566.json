@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["East 13th Street Band Recordings"],
         "unitid_ssm":["MSS.566"],
         "abstract_ssm":["The East 13th Street Band was founded in 1980 by David C. Levy and Larry Rivers. The band's name was derived from Larry Rivers' street address in New York, where the band often practiced. Other band members included Myron Blackman, Howard Brofsky, Jeff Brown, Howard Kanovitz, Leslie Silver, and Charlie Toor. The band actively recorded and performed throughout the United States during the 1980's and early 1990's. This collection contains audio recordings, along with their session track sheets for recording sessions from 1981. 1984-1985."],
+        "creator_ssm":["Levy, David C.",
+          "Rivers, Larry, 1925-2002",
+          "Levy, David C.",
+          "Rivers, Larry, 1925-2002"],
         "unitdate_normal_ssm":["1981/1985"],
         "corpname_ssm":["Fales Library and Special Collections",
           "East Thirteenth Street Band"],
@@ -70,8 +74,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1981, 1984-1985, undated"],
-        "_version_":1775220888652742656,
-        "timestamp":"2023-08-25T16:56:07.456Z"},
+        "_version_":1800935162923450368,
+        "timestamp":"2024-06-04T12:53:30.393Z"},
       {
         "id":"mss_566aspace_63c130eae2131e2a4fd3ddcf69983baf",
         "ead_ssi":"mss_566",
@@ -88,8 +92,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Audio Recordings"],
         "unitdate_ssm":["1981-06-11"],
-        "_version_":1775220888691539968,
-        "timestamp":"2023-08-25T16:56:07.493Z"},
+        "_version_":1800935162937081856,
+        "timestamp":"2024-06-04T12:53:30.406Z"},
       {
         "id":"mss_566aspace_9075a7705a3143cdabaa29804e4d60a3",
         "ead_ssi":"mss_566",
@@ -106,8 +110,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Audio Recordings"],
         "unitdate_ssm":["1981-12-17"],
-        "_version_":1775220888737677313,
-        "timestamp":"2023-08-25T16:56:07.537Z"},
+        "_version_":1800935162953859072,
+        "timestamp":"2024-06-04T12:53:30.422Z"},
       {
         "id":"mss_566aspace_b79783bd3fd71cb7e8ee6244c26be2a7",
         "ead_ssi":"mss_566",
@@ -124,8 +128,8 @@
         "location_ssm":["Box: 3"],
         "heading_ssm":["Audio Recordings"],
         "unitdate_ssm":["1984-05-24"],
-        "_version_":1775220888785911808,
-        "timestamp":"2023-08-25T16:56:07.583Z"},
+        "_version_":1800935162965393408,
+        "timestamp":"2024-06-04T12:53:30.433Z"},
       {
         "id":"mss_566aspace_edff079d43d4be73f8457861aedb9a0e",
         "ead_ssi":"mss_566",
@@ -144,8 +148,8 @@
           "Box: 8"],
         "heading_ssm":["Audio Recordings"],
         "unitdate_ssm":["1985-03-13"],
-        "_version_":1775220888873992192,
-        "timestamp":"2023-08-25T16:56:07.667Z"},
+        "_version_":1800935163016773632,
+        "timestamp":"2024-06-04T12:53:30.481Z"},
       {
         "id":"mss_566aspace_f5386976a3bc710eb196462dc2485691",
         "ead_ssi":"mss_566",
@@ -163,8 +167,8 @@
           "Box: 5"],
         "heading_ssm":["Audio Recordings"],
         "unitdate_ssm":["1984-05-25"],
-        "_version_":1775220888840437760,
-        "timestamp":"2023-08-25T16:56:07.635Z"}]
+        "_version_":1800935162985316352,
+        "timestamp":"2024-06-04T12:53:30.452Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -172,7 +176,9 @@
       "repository_sim":[
         "fales",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Levy, David C.",1,
+        "Rivers, Larry, 1925-2002",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",5],

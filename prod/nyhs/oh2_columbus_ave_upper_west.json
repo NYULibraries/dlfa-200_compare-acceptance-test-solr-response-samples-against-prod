@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Columbus Avenue and the Upper West Side Oral History Project interviews"],
         "unitid_ssm":["OH 2 "],
         "abstract_ssm":["The Columbus Avenue and the Upper West Side Oral History Project documents the ways that Columbus Avenue (particularly from West 70th Street to West 94th Street) changed in the 50-year period beginning in the late 1960s. The collection consists of interviews with individuals such as property owners who moved to the area in the 1960s and began renovating buildings on Columbus Avenue and the adjoining side streets in the early 1970s; current and former small-business owners; long-time residential tenants; and former City Council member Ronnie Eldridge, who represented the Upper West Side from 1989 to 2001. Interviewees discuss changes in the retail landscape, housing stock, and socio-economics of the neighborhood with reinvestment in the area. All interviews were conducted by Leyla Vural, an oral historian, geographer, and long-time resident of the Upper West Side."],
+        "creator_ssm":["Columbus Avenue District Management Association (New York, N.Y.)",
+          "Vural, Leyla",
+          "Columbus Avenue District Management Association (New York, N.Y.)",
+          "Vural, Leyla"],
         "unitdate_normal_ssm":["2019-02/2019-10"],
         "corpname_ssm":["New-York Historical Society",
           "Columbus Avenue District Management Association (New York, N.Y.)"],
@@ -74,8 +78,8 @@
           "Digital images."],
         "heading_ssm":["Columbus Avenue and the Upper West Side Oral History Project interviews"],
         "unitdate_ssm":["Inclusive, 2019 February-October"],
-        "_version_":1775215810240839680,
-        "timestamp":"2023-08-25T15:35:24.305Z"},
+        "_version_":1801023247764946944,
+        "timestamp":"2024-06-05T12:13:34.643Z"},
       {
         "id":"oh2_columbus_ave_upper_westaspace_11780dc8bb939a46378e8bcb419521e7",
         "ead_ssi":"oh2_columbus_ave_upper_west",
@@ -94,8 +98,8 @@
         "unitdate_start_ssm":["2019"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["2019"],
-        "_version_":1775215810561703936,
-        "timestamp":"2023-08-25T15:35:24.611Z"},
+        "_version_":1801023247927476224,
+        "timestamp":"2024-06-05T12:13:34.799Z"},
       {
         "id":"oh2_columbus_ave_upper_westaspace_35b2f0f1eca44f35cd973343d354f391",
         "ead_ssi":"oh2_columbus_ave_upper_west",
@@ -114,8 +118,8 @@
         "unitdate_start_ssm":["2019"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["2019"],
-        "_version_":1775215810527100928,
-        "timestamp":"2023-08-25T15:35:24.578Z"},
+        "_version_":1801023247891824640,
+        "timestamp":"2024-06-05T12:13:34.765Z"},
       {
         "id":"oh2_columbus_ave_upper_westaspace_3971c9654c227073fd1d81765a65438f",
         "ead_ssi":"oh2_columbus_ave_upper_west",
@@ -134,8 +138,8 @@
         "unitdate_start_ssm":["2019"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["2019"],
-        "_version_":1775215810382397440,
-        "timestamp":"2023-08-25T15:35:24.44Z"},
+        "_version_":1801023247831007232,
+        "timestamp":"2024-06-05T12:13:34.707Z"},
       {
         "id":"oh2_columbus_ave_upper_westaspace_4ccae1f461d1af97a0992d3544a815bd",
         "ead_ssi":"oh2_columbus_ave_upper_west",
@@ -154,8 +158,8 @@
         "unitdate_start_ssm":["2019"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["2019"],
-        "_version_":1775215810347794432,
-        "timestamp":"2023-08-25T15:35:24.407Z"},
+        "_version_":1801023247817375744,
+        "timestamp":"2024-06-05T12:13:34.694Z"},
       {
         "id":"oh2_columbus_ave_upper_westaspace_580398f04e66958816939c5c88dc4010",
         "ead_ssi":"oh2_columbus_ave_upper_west",
@@ -171,8 +175,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Bill Bailey and Laurie Eichengreen, February 12 and July 23"],
         "unitdate_ssm":["2019"],
-        "_version_":1775215810280685568,
-        "timestamp":"2023-08-25T15:35:24.343Z"},
+        "_version_":1801023247785918464,
+        "timestamp":"2024-06-05T12:13:34.664Z"},
       {
         "id":"oh2_columbus_ave_upper_westaspace_6fe67718f660882ad49b045f94a35cf8",
         "ead_ssi":"oh2_columbus_ave_upper_west",
@@ -191,8 +195,8 @@
         "unitdate_start_ssm":["2019"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["2019"],
-        "_version_":1775215810490400768,
-        "timestamp":"2023-08-25T15:35:24.543Z"},
+        "_version_":1801023247872950272,
+        "timestamp":"2024-06-05T12:13:34.747Z"},
       {
         "id":"oh2_columbus_ave_upper_westaspace_809fef16968f4c2e355834bd1650fd14",
         "ead_ssi":"oh2_columbus_ave_upper_west",
@@ -208,8 +212,8 @@
         "location_ssm":["Folder: 2"],
         "heading_ssm":["George Beane, February 5 and March 7"],
         "unitdate_ssm":["2019"],
-        "_version_":1775215810313191425,
-        "timestamp":"2023-08-25T15:35:24.374Z"},
+        "_version_":1801023247801647104,
+        "timestamp":"2024-06-05T12:13:34.679Z"},
       {
         "id":"oh2_columbus_ave_upper_westaspace_9914b1c94becdae71db09e1932ff0532",
         "ead_ssi":"oh2_columbus_ave_upper_west",
@@ -228,8 +232,8 @@
         "unitdate_start_ssm":["2019"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["2019"],
-        "_version_":1775215810455797760,
-        "timestamp":"2023-08-25T15:35:24.509Z"},
+        "_version_":1801023247860367360,
+        "timestamp":"2024-06-05T12:13:34.735Z"},
       {
         "id":"oh2_columbus_ave_upper_westaspace_a8e86a00c05949a938ee4d0df82485b6",
         "ead_ssi":"oh2_columbus_ave_upper_west",
@@ -248,8 +252,8 @@
         "unitdate_start_ssm":["2019"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["2019"],
-        "_version_":1775215810598404096,
-        "timestamp":"2023-08-25T15:35:24.646Z"},
+        "_version_":1801023247944253440,
+        "timestamp":"2024-06-05T12:13:34.815Z"},
       {
         "id":"oh2_columbus_ave_upper_westaspace_b50191eee0e4d27963a78589d23a201d",
         "ead_ssi":"oh2_columbus_ave_upper_west",
@@ -268,8 +272,8 @@
         "unitdate_start_ssm":["2019"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["2019"],
-        "_version_":1775215810419097600,
-        "timestamp":"2023-08-25T15:35:24.475Z"}]
+        "_version_":1801023247845687296,
+        "timestamp":"2024-06-05T12:13:34.721Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -277,7 +281,9 @@
       "repository_sim":[
         "nyhs",11],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Columbus Avenue District Management Association (New York, N.Y.)",1,
+        "Vural, Leyla",1],
       "date_range_sim":[
         "2001-2100",8,
         "undated & other",3],

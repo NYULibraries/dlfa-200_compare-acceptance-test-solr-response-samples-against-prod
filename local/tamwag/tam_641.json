@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,12 @@
       {
         "author_ssm":["Erika Gottfried"],
         "unittitle_ssm":["Paul Hammacott Occupy Wall Street Screen Prints Collection"],
-        "unitid_ssm":["TAM.641",
-          "/repositories/2/resources/1196"],
+        "unitid_ssm":["TAM.641"],
         "abstract_ssm":["Occupy Wall Street (OWS) is the name of a widely-publicized demonstration against \"corporate influence on democracy, a growing disparity in wealth, and the absence of legal repercussions behind the …global financial crisis\" that took place on September 17, 2011, in Zuccotti Park, in New York City's downtown financial district,  resulting in a two-month occupation of the park by protestors, and within the same space of time, inspiring similar \"Occupy\" protests and actions in more than 1,500 cities and communities across the United States and around the world.   \n\nThe Collection consists of ten screen prints (many of which were created on the spot, at the Occupy Wall Street encampment) produced by participants in Occupy Wall Street demonstrations and other gatherings in New York City during the fall of 2011 and winter of 2012, for use as protest signs, to be worn as patches, or hung on walls to show support; it also includes printouts of 22 digital or scanned photographs of Occupy Wall Street demonstrations and other gatherings in New York City during this same period."],
+        "creator_ssm":["Hammacott, Paul",
+          "May, Andrew",
+          "Hammacott, Paul",
+          "May, Andrew"],
         "unitdate_normal_ssm":["2011/2012"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Hammacott, Paul",
@@ -71,8 +74,8 @@
         "unitdate_start_ssm":["2011"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 2011-2012"],
-        "_version_":1799791890505138176,
-        "timestamp":"2024-05-22T22:01:40.85Z"}]
+        "_version_":1802183811763535872,
+        "timestamp":"2024-06-18T07:40:14.722Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +83,9 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hammacott, Paul",1,
+        "May, Andrew",1],
       "date_range_sim":[
         "2001-2100",1],
       "subject_sim":[

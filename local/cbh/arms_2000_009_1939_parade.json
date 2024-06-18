@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["George Schlesinger collection of Cadman Plaza parade photographs"],
         "unitid_ssm":["2000.009"],
         "abstract_ssm":["Nine black-and-white photographic prints of a parade at Cadman Plaza, Brooklyn in 1939."],
+        "creator_ssm":["Schlesinger, George",
+          "Schlesinger, George"],
         "unitdate_normal_ssm":["1939/1939"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographs",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1939"],
         "language_ssm":["English"],
-        "_version_":1799256320951451648,
-        "timestamp":"2024-05-17T00:09:01.923Z"}]
+        "_version_":1801963825685069824,
+        "timestamp":"2024-06-15T21:23:39.648Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Schlesinger, George",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

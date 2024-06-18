@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Devere Allen: Slides"],
         "unitid_ssm":["ALBA.PHOTO.013"],
+        "creator_ssm":["Allen, Devere, 1891-1955",
+          "Allen, Devere, 1891-1955"],
         "unitdate_normal_ssm":["1931/1931"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Allen, Marie H.",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1931"],
         "unitdate_ssm":["1931"],
         "language_ssm":["English"],
-        "_version_":1799334139960229888,
-        "timestamp":"2024-05-17T20:45:55.913Z"},
+        "_version_":1802112096575422464,
+        "timestamp":"2024-06-17T12:40:21.789Z"},
       {
         "id":"alba_photo_013aspace_7ba9db6c16b8d010a4b8c1e36d76dc7a",
         "ead_ssi":"alba_photo_013",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799334139973861376,
-        "timestamp":"2024-05-17T20:45:55.926Z"}]
+        "_version_":1802112096595345408,
+        "timestamp":"2024-06-17T12:40:21.808Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Allen, Devere, 1891-1955",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -56,8 +56,8 @@
         "heading_ssm":["Maria S. Brainerd Valentine's Day card"],
         "unitdate_ssm":["1857 February 11"],
         "language_ssm":["English"],
-        "_version_":1787915029330264064,
-        "timestamp":"2024-01-12T19:44:03.389Z"}]
+        "_version_":1800983607640064000,
+        "timestamp":"2024-06-05T01:43:30.875Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

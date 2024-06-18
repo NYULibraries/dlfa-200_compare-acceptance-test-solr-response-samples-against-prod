@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Daniel and Hugh Friel letters"],
         "unitid_ssm":["1977.425"],
         "abstract_ssm":["This collection primarily consists of letters from Daniel and Hugh Friel to their family, in which they address business affairs, personal matters, and their experiences fighting in the Civil War."],
+        "creator_ssm":["Friel, Daniel",
+          "Friel, Hugh",
+          "Friel, Daniel",
+          "Friel, Hugh"],
         "unitdate_normal_ssm":["1858/1866"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Friel family"],
@@ -72,8 +76,8 @@
         "unitdate_end_ssm":["1866"],
         "unitdate_ssm":["Inclusive, 1858-1866"],
         "language_ssm":["English"],
-        "_version_":1799311583262801920,
-        "timestamp":"2024-05-17T14:47:24.169Z"},
+        "_version_":1801961639956709376,
+        "timestamp":"2024-06-15T20:48:55.176Z"},
       {
         "id":"arms_1977_425_frielaspace_1c8044fa7ed38bdb2a7f7cf91c35c439",
         "ead_ssi":"arms_1977_425_friel",
@@ -86,11 +90,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: A0026, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: A0026, Folder: 1"],
         "heading_ssm":["Daniel Friel letters - originals"],
-        "_version_":1799311583283773440,
-        "timestamp":"2024-05-17T14:47:24.19Z"},
+        "_version_":1801961639979778048,
+        "timestamp":"2024-06-15T20:48:55.198Z"},
       {
         "id":"arms_1977_425_frielaspace_2de69456cfdbf89ab873303d7456fc00",
         "ead_ssi":"arms_1977_425_friel",
@@ -103,11 +106,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: A0026, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: A0026, Folder: 2"],
         "heading_ssm":["Daniel Friel letters - typescript copies"],
-        "_version_":1799311583302647808,
-        "timestamp":"2024-05-17T14:47:24.208Z"},
+        "_version_":1801961640001798144,
+        "timestamp":"2024-06-15T20:48:55.219Z"},
       {
         "id":"arms_1977_425_frielaspace_3e6632b2c8d612a6f308ee00a5a7889a",
         "ead_ssi":"arms_1977_425_friel",
@@ -120,11 +122,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: A0026, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: A0026, Folder: 3"],
         "heading_ssm":["Hugh Friel letters - originals"],
-        "_version_":1799311583319425024,
-        "timestamp":"2024-05-17T14:47:24.224Z"},
+        "_version_":1801961640028012544,
+        "timestamp":"2024-06-15T20:48:55.244Z"},
       {
         "id":"arms_1977_425_frielaspace_96338df1741950f96344b8288c1714db",
         "ead_ssi":"arms_1977_425_friel",
@@ -137,11 +138,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: A0026, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: A0026, Folder: 4"],
         "heading_ssm":["Hugh Friel letters - typescript copies"],
-        "_version_":1799311583337250816,
-        "timestamp":"2024-05-17T14:47:24.241Z"},
+        "_version_":1801961640047935488,
+        "timestamp":"2024-06-15T20:48:55.263Z"},
       {
         "id":"arms_1977_425_frielaspace_f4cc0bfb6d928028c4a22fbcdfb05023",
         "ead_ssi":"arms_1977_425_friel",
@@ -154,11 +154,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: A0026, Folder: 5",
-          "Folder: 5"],
+        "location_ssm":["Box: A0026, Folder: 5"],
         "heading_ssm":["Other letters"],
-        "_version_":1799311583359270912,
-        "timestamp":"2024-05-17T14:47:24.262Z"}]
+        "_version_":1801961640064712704,
+        "timestamp":"2024-06-15T20:48:55.279Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -166,7 +165,9 @@
       "repository_sim":[
         "cbh",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Friel, Daniel",1,
+        "Friel, Hugh",1],
       "date_range_sim":[
         "1801-1900",1,
         "undated & other",5],

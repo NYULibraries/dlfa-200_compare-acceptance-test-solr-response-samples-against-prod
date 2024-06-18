@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Aaron Burr letter and receipt"],
         "unitid_ssm":["1977.581"],
         "abstract_ssm":["Photostat copies of a letter from Aaron Burr to the inhabitants of the town of Gravesend in Kings County, N.Y. regarding a property dispute with Albert Voorhies, and a receipt for Burr's legal services."],
+        "creator_ssm":["Burr, Aaron",
+          "Burr, Aaron"],
         "unitdate_normal_ssm":["1789/1790"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1790"],
         "unitdate_ssm":["Inclusive, 1789-1790"],
         "language_ssm":["English"],
-        "_version_":1799311500587827200,
-        "timestamp":"2024-05-17T14:46:05.325Z"}]
+        "_version_":1801962000312434688,
+        "timestamp":"2024-06-15T20:54:38.838Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Burr, Aaron",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

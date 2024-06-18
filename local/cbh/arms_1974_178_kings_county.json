@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Kings County tax assessment"],
         "unitid_ssm":["1974.178"],
         "abstract_ssm":["A single document that lists tax valuations for properties in Kings County, prepared by Selah Strong.  29 land owners are listed on the document."],
+        "creator_ssm":["Strong, Selah",
+          "Strong, Selah"],
         "unitdate_normal_ssm":["1785/1805"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Lists (document genres)"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1805"],
         "unitdate_ssm":["Inclusive, circa 1795"],
         "language_ssm":["English"],
-        "_version_":1799311511010672640,
-        "timestamp":"2024-05-17T14:46:15.265Z"}]
+        "_version_":1801960418462138368,
+        "timestamp":"2024-06-15T20:29:30.268Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Strong, Selah",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

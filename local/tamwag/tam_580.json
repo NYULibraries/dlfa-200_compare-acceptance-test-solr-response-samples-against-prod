@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Nicaragua Solidarity Network of Greater New York Records"],
         "unitid_ssm":["TAM.580"],
         "abstract_ssm":["The Nicaragua Solidarity Network of Greater New York (1985-2002), and its member organizations worked to support the Sandinista Revolution and to protest U.S. support of the counter-revolutionary military movement, aka the Contras, who also killed civilian supporters of the revolution, targeting medical and educational personnel in particular. Some of the member organizations, like the NY-Nicaragua Construction Brigade, worked to help create infrastructure in Nicaragua. The collection holds the records of the NSN and its member organizations, most notably the NY-Nicaragua Construction Brigade, and includes newsletters, event notices, fundraising letters, correspondence, reports, membership and financial information, grant applications, and reference material about Nicaragua and related issues."],
+        "creator_ssm":["Nicaragua Solidarity Network of Greater New York",
+          "Nicaragua Solidarity Network of Greater New York"],
         "unitdate_normal_ssm":["1983/2003"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Nicaragua Solidarity Network of Greater New York",
@@ -74,8 +76,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1983-2003"],
-        "_version_":1799791539788972032,
-        "timestamp":"2024-05-22T21:56:06.382Z"},
+        "_version_":1802183535842295808,
+        "timestamp":"2024-06-18T07:35:51.582Z"},
       {
         "id":"tam_580aspace_09cc48d7d0590c5c32092cf008e8a5d9",
         "ead_ssi":"tam_580",
@@ -89,14 +91,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 018, Folder: 11-15",
-          "Folder: 11-15"],
+        "location_ssm":["Box: Shared Tamiment 018, Folder: 11-15"],
         "heading_ssm":["Photographs"],
         "unitdate_start_ssm":["1988"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 1988-2001"],
-        "_version_":1799791540044824576,
-        "timestamp":"2024-05-22T21:56:06.626Z"},
+        "_version_":1802183535906258944,
+        "timestamp":"2024-06-18T07:35:51.644Z"},
       {
         "id":"tam_580aspace_ref10",
         "ead_ssi":"tam_580",
@@ -115,8 +116,8 @@
         "unitdate_start_ssm":["1991"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1991-2004"],
-        "_version_":1799791539953598464,
-        "timestamp":"2024-05-22T21:56:06.539Z"},
+        "_version_":1802183535887384576,
+        "timestamp":"2024-06-18T07:35:51.626Z"},
       {
         "id":"tam_580aspace_ref13",
         "ead_ssi":"tam_580",
@@ -135,8 +136,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, 1989-1997"],
-        "_version_":1799791540021755904,
-        "timestamp":"2024-05-22T21:56:06.604Z"},
+        "_version_":1802183535895773184,
+        "timestamp":"2024-06-18T07:35:51.634Z"},
       {
         "id":"tam_580aspace_ref3",
         "ead_ssi":"tam_580",
@@ -155,8 +156,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1989-2003"],
-        "_version_":1799791539829866496,
-        "timestamp":"2024-05-22T21:56:06.421Z"},
+        "_version_":1802183535852781568,
+        "timestamp":"2024-06-18T07:35:51.593Z"},
       {
         "id":"tam_580aspace_ref5",
         "ead_ssi":"tam_580",
@@ -175,8 +176,8 @@
         "unitdate_start_ssm":["1985"],
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, 1985-1994"],
-        "_version_":1799791539895926784,
-        "timestamp":"2024-05-22T21:56:06.484Z"},
+        "_version_":1802183535862218752,
+        "timestamp":"2024-06-18T07:35:51.602Z"},
       {
         "id":"tam_580aspace_ref8",
         "ead_ssi":"tam_580",
@@ -195,8 +196,8 @@
         "unitdate_start_ssm":["1985"],
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, 1985-1996"],
-        "_version_":1799791539932626944,
-        "timestamp":"2024-05-22T21:56:06.519Z"}]
+        "_version_":1802183535876898816,
+        "timestamp":"2024-06-18T07:35:51.616Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -204,7 +205,8 @@
       "repository_sim":[
         "tamwag",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nicaragua Solidarity Network of Greater New York",1],
       "date_range_sim":[
         "1901-2000",7,
         "2001-2100",4],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Millard Fillmore letter"],
         "unitid_ssm":["1977.511"],
         "abstract_ssm":["One 1840 letter from Millard Fillmore, New York State Representative in the 26th United States Congress, promoting the election of William Henry Harrison for the office of U.S. President."],
+        "creator_ssm":["Fillmore, Millard",
+          "Fillmore, Millard"],
         "unitdate_normal_ssm":["1840/1840"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1840"],
         "unitdate_ssm":["1840"],
         "language_ssm":["English"],
-        "_version_":1799256189099311104,
-        "timestamp":"2024-05-17T00:06:56.179Z"}]
+        "_version_":1801961841454219264,
+        "timestamp":"2024-06-15T20:52:07.339Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fillmore, Millard",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

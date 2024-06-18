@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Francis Skillman papers"],
         "unitid_ssm":["ARC.280"],
         "abstract_ssm":["Francis Skillman (1817-circa 1897) of Roslyn, Nassau County (part of Queens County in the nineteenth century), on Long Island, N.Y. was a Justice of the Peace from 1851-1876 in North Hempstead, a genealogist who published a family history of the Skillmans in 1892, and a farmer. The Francis Skillman papers include materials from each of these aspects of Skillman's life. These materials include correspondence, a genealogy manuscript and the research underlying the manuscript, journals, a docket book, property agreements, and miscellaneous historical documents. The journals principally concern Skillman's farming activities and his hiring of help. The correspondence can generally be categorized as: letters from the Civil War years to Skillman from Christian Walthert, a private in the 15th New York Regiment of Engineers; letters from Skillman to his brother principally concerning family matters; and responses to Skillman's genealogical inquiries. Genealogical information on the Schenck and Onderdonk families can also be found in the collection."],
+        "creator_ssm":["Skillman, Francis",
+          "Skillman, Francis"],
         "unitdate_normal_ssm":["1769/1896"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Army. New York Engineers Regiment, 15th (1861-1865) -- Correspondence"],
@@ -95,8 +97,8 @@
         "unitdate_start_ssm":["1769"],
         "unitdate_end_ssm":["1896"],
         "unitdate_ssm":["Inclusive, 1769-1896"],
-        "_version_":1799312406828023808,
-        "timestamp":"2024-05-17T15:00:29.583Z"},
+        "_version_":1801959737322897408,
+        "timestamp":"2024-06-15T20:18:40.683Z"},
       {
         "id":"arc_280_francis_skillmanaspace_c62b24489b2d68671b6c5f3c9d23a655",
         "ead_ssi":"arc_280_francis_skillman",
@@ -111,8 +113,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: OS-41"],
         "heading_ssm":["Political poster: \"Democratic Nomination for member of assembly Francis Skillman\""],
-        "_version_":1799312406886744064,
-        "timestamp":"2024-05-17T15:00:29.639Z"},
+        "_version_":1801959737426706432,
+        "timestamp":"2024-06-15T20:18:40.782Z"},
       {
         "id":"arc_280_francis_skillmanaspace_ref12_l43",
         "ead_ssi":"arc_280_francis_skillman",
@@ -126,14 +128,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-11",
-          "Folder: 1-11"],
+        "location_ssm":["Box: 1, Folder: 1-11"],
         "heading_ssm":["Correspondence, genealogy, property deeds, miscellaneous historical documents"],
         "unitdate_start_ssm":["1779"],
         "unitdate_end_ssm":["1896"],
         "unitdate_ssm":["Inclusive, 1779-1896"],
-        "_version_":1799312406844801024,
-        "timestamp":"2024-05-17T15:00:29.599Z"},
+        "_version_":1801959737350160384,
+        "timestamp":"2024-06-15T20:18:40.709Z"},
       {
         "id":"arc_280_francis_skillmanaspace_ref13_if0",
         "ead_ssi":"arc_280_francis_skillman",
@@ -147,14 +148,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 1-4",
-          "Folder: 1-4"],
+        "location_ssm":["Box: 2, Folder: 1-4"],
         "heading_ssm":["Oversize property deeds, 3 journals"],
         "unitdate_start_ssm":["1769"],
         "unitdate_end_ssm":["1896"],
         "unitdate_ssm":["Inclusive, 1769-1896"],
-        "_version_":1799312406860529664,
-        "timestamp":"2024-05-17T15:00:29.614Z"},
+        "_version_":1801959737382666240,
+        "timestamp":"2024-06-15T20:18:40.74Z"},
       {
         "id":"arc_280_francis_skillmanaspace_ref14_7nw",
         "ead_ssi":"arc_280_francis_skillman",
@@ -168,14 +168,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 3, Folder: 1-3",
-          "Folder: 1-3"],
+        "location_ssm":["Box: 3, Folder: 1-3"],
         "heading_ssm":["North Hempstead Docket Book and loose inserted documents"],
         "unitdate_start_ssm":["1851"],
         "unitdate_end_ssm":["1876"],
         "unitdate_ssm":["Inclusive, 1851-1876"],
-        "_version_":1799312406874161152,
-        "timestamp":"2024-05-17T15:00:29.627Z"}]
+        "_version_":1801959737406783488,
+        "timestamp":"2024-06-15T20:18:40.763Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -183,7 +182,8 @@
       "repository_sim":[
         "cbh",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Skillman, Francis",1],
       "date_range_sim":[
         "1701-1800",3,
         "1801-1900",4,

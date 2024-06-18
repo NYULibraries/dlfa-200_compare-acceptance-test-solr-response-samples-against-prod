@@ -45,9 +45,10 @@
       {
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Robert Bender Collection on Students for a Democratic Society"],
-        "unitid_ssm":["TAM.409",
-          "/repositories/2/resources/1014"],
+        "unitid_ssm":["TAM.409"],
         "abstract_ssm":["Robert Bender was a member of Students for a Democratic Society. He was a political activist in Newark, NJ, in his early years, and served for two years (1962-1964) as Executive Director of New Jersey Americans for Democratic Action. During his tenure at ADA he guided the organization toward ever-deeper involvement in the civil rights movement. This collection of papers pertains mainly to the Students for a Democratic Society, nationally and in Newark, NJ. Included are reports, publications, publicity flyers, correspondence from the 1960s, and a small amount of material dealing with political action in New Jersey in general."],
+        "creator_ssm":["Bender, Robert",
+          "Bender, Robert"],
         "unitdate_normal_ssm":["1960/1969"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Students for a Democratic Society (U.S.)"],
@@ -72,15 +73,15 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1960s, undated"],
-        "_version_":1799782902324527104,
-        "timestamp":"2024-05-22T19:38:49.054Z"},
+        "_version_":1802176964710105088,
+        "timestamp":"2024-06-18T05:51:24.863Z"},
       {
         "id":"tam_409aspace_033cef020217724a4b42037406019007",
         "ead_ssi":"tam_409",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Robert Bender Collection on Students for a Democratic Society"],
-        "collection_unitid_ssm":["TAM.409/repositories/2/resources/1014"],
+        "collection_unitid_ssm":["TAM.409"],
         "unittitle_ssm":["Newspapers, Newsletters, Ephemera, Correspondence"],
         "unitid_ssm":["/repositories/2/archival_objects/965329"],
         "unitdate_normal_ssm":["1960/1969"],
@@ -89,17 +90,14 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1, Folder: 1-7",
-          "Folder: 1-7",
           "Box: 2, Folder: 1-6",
-          "Folder: 1-6",
-          "Box: 3, Folder: 1-5",
-          "Folder: 1-5"],
+          "Box: 3, Folder: 1-5"],
         "heading_ssm":["Newspapers, Newsletters, Ephemera, Correspondence"],
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, circa 1960s"],
-        "_version_":1799782902343401472,
-        "timestamp":"2024-05-22T19:38:49.072Z"}]
+        "_version_":1802176964720590848,
+        "timestamp":"2024-06-18T05:51:24.873Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -107,7 +105,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bender, Robert",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

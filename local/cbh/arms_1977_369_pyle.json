@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Cyrus Pyle membership receipts"],
         "unitid_ssm":["1977.369"],
         "abstract_ssm":["Two membership receipts issued to Cyrus Pyle, one from the Long Island Historical Society, dating from 1867, and one from the Mercantile Library Association of Brooklyn, dating from 1868."],
+        "creator_ssm":["Pyle, Cyrus",
+          "Pyle, Cyrus"],
         "unitdate_normal_ssm":["1867/1868"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Mercantile Library Association of Brooklyn",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1868"],
         "unitdate_ssm":["Inclusive, 1867-1868"],
         "language_ssm":["English"],
-        "_version_":1799312377875791872,
-        "timestamp":"2024-05-17T15:00:01.972Z"}]
+        "_version_":1801961457872535552,
+        "timestamp":"2024-06-15T20:46:01.526Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Pyle, Cyrus",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

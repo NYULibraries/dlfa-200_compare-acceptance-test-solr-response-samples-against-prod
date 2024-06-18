@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["University Club of Brooklyn records"],
         "unitid_ssm":["1973.190"],
         "abstract_ssm":["The University Club of Brooklyn records consist of a small assortment of materials documenting the activities of the Club during the period 1904 to 1952."],
+        "creator_ssm":["University Club of Brooklyn",
+          "University Club of Brooklyn"],
         "unitdate_normal_ssm":["1904/1952"],
         "corpname_ssm":["Brooklyn Historical Society",
           "University Club of Brooklyn"],
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, 1904-1952"],
         "language_ssm":["English"],
-        "_version_":1799311419907244032,
-        "timestamp":"2024-05-17T14:44:48.382Z"}]
+        "_version_":1801960053967683584,
+        "timestamp":"2024-06-15T20:23:42.659Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "University Club of Brooklyn",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

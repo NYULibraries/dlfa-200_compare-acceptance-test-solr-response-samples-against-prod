@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Thurgood Marshall signature"],
         "unitid_ssm":["AHMC - Marshall, Thurgood"],
         "abstract_ssm":["Two items of Supreme Court of the United States stationery: a small notecard with the autograph of Justice Thurgood Marshall and the mailing envelope, postmarked Washington, D.C., on April 15, 1976, sent to Mr. Robert A. Smith of Long Island City, NY, with return address stamped \"Chambers of Justice Thurgood Marshall.\" \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Thurgood Marshall signature"],
+        "creator_ssm":["Marshall, Thurgood, 1908-1993",
+          "Marshall, Thurgood, 1908-1993"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Marshall, Thurgood, 1908-1993"],
         "collection_ssm":["Thurgood Marshall signature"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Thurgood Marshall signature"],
         "unitdate_ssm":["1976 April 15"],
         "language_ssm":["English"],
-        "_version_":1799317879052566528,
-        "timestamp":"2024-05-17T16:27:28.303Z"}]
+        "_version_":1802083756036587520,
+        "timestamp":"2024-06-17T05:09:54.145Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Marshall, Thurgood, 1908-1993",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

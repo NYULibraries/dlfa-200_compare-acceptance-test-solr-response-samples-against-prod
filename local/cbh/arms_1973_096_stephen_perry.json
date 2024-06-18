@@ -47,6 +47,8 @@
         "unittitle_ssm":["Stephen Perry account book"],
         "unitid_ssm":["1973.095"],
         "abstract_ssm":["The Stephen Perry account book lists Dr. Perry's financial transactions for the period 1840 to 1870, and also includes copies of several birth and death certificates."],
+        "creator_ssm":["Perry, Stephen",
+          "Perry, Stephen"],
         "unitdate_normal_ssm":["1840/1884",
           "1840/1870"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -73,8 +75,8 @@
           "1870"],
         "unitdate_ssm":["Inclusive, 1840-1884 ; 1840-1870"],
         "language_ssm":["English"],
-        "_version_":1799256450606825472,
-        "timestamp":"2024-05-17T00:11:05.572Z"}]
+        "_version_":1801959931521269760,
+        "timestamp":"2024-06-15T20:21:45.885Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Perry, Stephen",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

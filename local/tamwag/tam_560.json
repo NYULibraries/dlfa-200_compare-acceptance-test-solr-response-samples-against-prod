@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment Staff"],
         "unittitle_ssm":["Richard Winger Collection on Progressive and Radical Political Parties"],
         "unitid_ssm":["TAM.560"],
+        "creator_ssm":["Winger, Richard Lee, 1943-",
+          "Winger, Richard Lee, 1943-"],
         "unitdate_normal_ssm":["1973/1991"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Coalition for Free and Open Elections (U.S.)",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1973-1991"],
         "language_ssm":["English"],
-        "_version_":1799791489400700928,
-        "timestamp":"2024-05-22T21:55:18.328Z"}]
+        "_version_":1802183496950611968,
+        "timestamp":"2024-06-18T07:35:14.493Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Winger, Richard Lee, 1943-",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

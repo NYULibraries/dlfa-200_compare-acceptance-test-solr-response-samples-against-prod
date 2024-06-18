@@ -47,6 +47,8 @@
         "unittitle_ssm":["Thomas D. Sugden Queens and Brooklyn scrapbook"],
         "unitid_ssm":["1974.115"],
         "abstract_ssm":["The scrapbook consists of drawings, illustrations, clippings, programs, maps, and ephemera compiled by Thomas D. Sugden. The contents of the scrapbook predominently date from 1872 to 1898, although there is one item dated 1932. Geographically, the scrapbook covers Queens County (specifically Flushing and Corona) and the Eastern District of Brooklyn (today the Brooklyn neighborhoods of Williamsburg, Greenpoint, and Bushwick). Topics covered in the scrapbook include, but are not limited to, local history, churches, civic organizations, real estate, schools, theaters, hospitals, the waterfront, monuments, historic homes, veterans, nature, business, and recreation."],
+        "creator_ssm":["Sugden, Thomas D. (Thomas Dodgson)",
+          "Sugden, Thomas D. (Thomas Dodgson)"],
         "unitdate_normal_ssm":["1872/1932",
           "1872/1898"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -103,8 +105,8 @@
           "1898"],
         "unitdate_ssm":["Inclusive, 1872-1932 ; 1872-1898"],
         "language_ssm":["English"],
-        "_version_":1799312263964786688,
-        "timestamp":"2024-05-17T14:58:13.338Z"}]
+        "_version_":1801960328528920576,
+        "timestamp":"2024-06-15T20:28:04.501Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -112,7 +114,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sugden, Thomas D. (Thomas Dodgson)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

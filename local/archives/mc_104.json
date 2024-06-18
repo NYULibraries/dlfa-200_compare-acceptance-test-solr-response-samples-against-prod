@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":23,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ralph E. Pickett Papers"],
         "unitid_ssm":["MC.104"],
         "abstract_ssm":["Ralph E. Pickett was Secretary of the Faculty and Assistant Dean of the School of Education at New York University from 1935 to 1941. This collection consists of a manuscript he wrote in 1961."],
+        "creator_ssm":["Pickett, Ralph E.",
+          "Pickett, Ralph E."],
         "unitdate_normal_ssm":["1961/1961"],
         "corpname_ssm":["New York University Archives",
           "New York University"],
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1961"],
         "unitdate_end_ssm":["1961"],
         "unitdate_ssm":["1961"],
-        "_version_":1799255540682981376,
-        "timestamp":"2024-05-16T23:56:37.801Z"},
+        "_version_":1801945711753822208,
+        "timestamp":"2024-06-15T16:35:44.858Z"},
       {
         "id":"mc_104aspace_c052a52c83047ecce41b18f516155fa4",
         "ead_ssi":"mc_104",
@@ -83,8 +85,8 @@
         "unitdate_start_ssm":["1961"],
         "unitdate_end_ssm":["1961"],
         "unitdate_ssm":["1961"],
-        "_version_":1799255540709195776,
-        "timestamp":"2024-05-16T23:56:37.826Z"}]
+        "_version_":1801945711774793728,
+        "timestamp":"2024-06-15T16:35:44.878Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +94,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Pickett, Ralph E.",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

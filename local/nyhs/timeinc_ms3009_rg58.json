@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Time Inc. Consumer Marketing Records"],
         "unitid_ssm":["MS 3009-RG 58"],
         "abstract_ssm":["Consumer Marketing was a division within Time Inc. which had charge of all activities in support of direct marketing for Time Inc. magazines. The collections consists of a binder of statistics on the sales, circulation, and net profit or loss of various Time Inc. magazines."],
+        "creator_ssm":["Time, inc.",
+          "Time, inc."],
         "corpname_ssm":["New-York Historical Society",
           "Time, inc.",
           "Time, inc. -- Archives.",
@@ -67,8 +69,8 @@
           "Organization files."],
         "heading_ssm":["Time Inc. Consumer Marketing Records"],
         "unitdate_ssm":["Inclusive, 2000"],
-        "_version_":1799316492210143232,
-        "timestamp":"2024-05-17T16:05:25.706Z"},
+        "_version_":1802105857388838912,
+        "timestamp":"2024-06-17T11:01:11.637Z"},
       {
         "id":"timeinc_ms3009_rg58aspace_f5c7b6bbea0d131c3d0132d558fa4e76",
         "ead_ssi":"timeinc_ms3009_rg58",
@@ -81,12 +83,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 4292, Folder: 1-3",
-          "Folder: 1-3"],
+        "location_ssm":["Offsite-Box: 4292, Folder: 1-3"],
         "heading_ssm":["B.E.A.R.S. SE 00 BUD 01"],
         "unitdate_ssm":["Inclusive, 2000"],
-        "_version_":1799316492288786432,
-        "timestamp":"2024-05-17T16:05:25.782Z"}]
+        "_version_":1802105857411907584,
+        "timestamp":"2024-06-17T11:01:11.659Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +95,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Time, inc.",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

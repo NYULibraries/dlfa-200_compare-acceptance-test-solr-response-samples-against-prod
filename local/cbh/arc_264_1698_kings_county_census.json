@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Facsimile of 1698 Kings County census"],
         "unitid_ssm":["ARC.264"],
         "abstract_ssm":["Facsimile of a broadside containing the first census of Kings County, N.Y., recorded in 1698.  The census lists the residents of each of Kings County's six original towns, including Brooklyn, Bushwick, Flatbush, Flatlands, Gravesend, and New Utrecht.  Residents of the towns of Newtown and Flushing in Queens County are also listed.  Coats of arms of prominent Kings County families are shown along the border of the broadside.  A note on the verso indicates that the facsimile was created by Franklin Bittner."],
+        "creator_ssm":["Bittner, Franklin",
+          "Bittner, Franklin"],
         "unitdate_normal_ssm":["1698/1698"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Broadsides (notices)",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1698"],
         "unitdate_ssm":["Inclusive, 1698"],
         "language_ssm":["English"],
-        "_version_":1799256291777970176,
-        "timestamp":"2024-05-17T00:08:34.101Z"}]
+        "_version_":1801959658967007232,
+        "timestamp":"2024-06-15T20:17:25.957Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bittner, Franklin",1],
       "date_range_sim":[
         "1601-1700",1],
       "subject_sim":[],

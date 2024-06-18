@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["James Neugass Typescript: \"Journal of an American Ambulance Driver in Spain\""],
         "unitid_ssm":["ALBA.262"],
+        "creator_ssm":["Neugass, James, 1905-1949",
+          "Neugass, James, 1905-1949"],
         "unitdate_normal_ssm":["1937/1949"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Neugass, James, 1905-1949",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, circa 1930s-1940s"],
         "language_ssm":["English"],
-        "_version_":1799748114728353792,
-        "timestamp":"2024-05-22T10:25:53.016Z"},
+        "_version_":1802111516046000128,
+        "timestamp":"2024-06-17T12:31:08.153Z"},
       {
         "id":"alba_262aspace_a72e0c2d7bbc8ac1fdf17e67202bee01",
         "ead_ssi":"alba_262",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799748114740936704,
-        "timestamp":"2024-05-22T10:25:53.029Z"}]
+        "_version_":1802111516069068800,
+        "timestamp":"2024-06-17T12:31:08.175Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Neugass, James, 1905-1949",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

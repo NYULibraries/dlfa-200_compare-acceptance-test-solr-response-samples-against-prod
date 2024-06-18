@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Hemispheric Institute Digital Video Library Archived Website"],
         "unitid_ssm":["RG.38.30"],
         "abstract_ssm":["The Hemispheric Institute Digital Video Library, established in 2005, is a partnership with NYU Libraries to preserve and provide access to the digital library of the Hemispheric Institute. The library is made up of video of political performance practices in the Americas dating back to the 1970s."],
+        "creator_ssm":["Hemispheric Institute of Performance and Politics",
+          "New York University. Libraries",
+          "Hemispheric Institute of Performance and Politics",
+          "New York University. Libraries"],
         "unitdate_normal_ssm":["2018-03-23/2018-03-23"],
         "corpname_ssm":["New York University Archives",
           "Hemispheric Institute of Performance and Politics",
@@ -64,8 +68,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Hemispheric Institute Digital Video Library Archived Website"],
         "unitdate_ssm":["March 2018"],
-        "_version_":1799254705097932800,
-        "timestamp":"2024-05-16T23:43:20.925Z"},
+        "_version_":1801953629907714048,
+        "timestamp":"2024-06-15T18:41:36.198Z"},
       {
         "id":"rg_38_30aspace_14471e8eb1c19e7b1ef527b7c7e6cce2",
         "ead_ssi":"rg_38_30",
@@ -83,8 +87,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["March 2018"],
-        "_version_":1799254705132535808,
-        "timestamp":"2024-05-16T23:43:20.957Z"}]
+        "_version_":1801953629928685568,
+        "timestamp":"2024-06-15T18:41:36.218Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +97,9 @@
         "archives",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hemispheric Institute of Performance and Politics",1,
+        "New York University. Libraries",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

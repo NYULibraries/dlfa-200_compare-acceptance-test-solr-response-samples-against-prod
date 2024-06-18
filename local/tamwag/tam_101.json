@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["David Gordon Papers"],
         "unitid_ssm":["TAM.101"],
         "abstract_ssm":["David Gordon (1909-1973) was a Communist trade unionist, author, editor, journalist, and veteran of the Abraham Lincoln Brigade. The collection contains letters, poem, short stories, plays, reports, books and memorabilia.  The collection is extensive for the years 1924-1945.  There is a diary, letters and writings done during his service in the Abraham Lincoln Brigade and many books and pamphlets on Spain and the Spanish Civil War. The material from World War II consists of information about soldiers that he talked to for army news releases, personal correspondence and writings."],
+        "creator_ssm":["Gordon, David, 1909-1973",
+          "Gordon, David, 1909-1973"],
         "unitdate_normal_ssm":["1924/1973",
           "1924/1945"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -86,8 +88,8 @@
           "1945"],
         "unitdate_ssm":["Inclusive, circa 1924-1973 ; 1924-1945"],
         "language_ssm":["English"],
-        "_version_":1799777224374616064,
-        "timestamp":"2024-05-22T18:08:34.139Z"},
+        "_version_":1802167574540058624,
+        "timestamp":"2024-06-18T03:22:09.699Z"},
       {
         "id":"tam_101aspace_ref13",
         "ead_ssi":"tam_101",
@@ -110,8 +112,8 @@
           "Box: 8",
           "Box: 10"],
         "heading_ssm":["Assorted writings, publications, and other materials"],
-        "_version_":1799777224393490432,
-        "timestamp":"2024-05-22T18:08:34.157Z"},
+        "_version_":1802167574551592960,
+        "timestamp":"2024-06-18T03:22:09.71Z"},
       {
         "id":"tam_101aspace_ref14",
         "ead_ssi":"tam_101",
@@ -126,8 +128,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 9"],
         "heading_ssm":["Scrapbook"],
-        "_version_":1799777224413413376,
-        "timestamp":"2024-05-22T18:08:34.176Z"},
+        "_version_":1802167574558932992,
+        "timestamp":"2024-06-18T03:22:09.717Z"},
       {
         "id":"tam_101aspace_ref15",
         "ead_ssi":"tam_101",
@@ -141,14 +143,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment MSOS005, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: Shared Tamiment MSOS005, Folder: 2"],
         "heading_ssm":["Edicions forja 1938 (Spanish Civil War Calendar)"],
         "unitdate_start_ssm":["1938"],
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, 1938"],
-        "_version_":1799777224448016384,
-        "timestamp":"2024-05-22T18:08:34.209Z"},
+        "_version_":1802167574580953088,
+        "timestamp":"2024-06-18T03:22:09.738Z"},
       {
         "id":"tam_101aspace_ref16",
         "ead_ssi":"tam_101",
@@ -161,11 +162,10 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment MSOS005, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment MSOS005, Folder: 1"],
         "heading_ssm":["Partit Socialista Unificat Calendar"],
-        "_version_":1799777224432287744,
-        "timestamp":"2024-05-22T18:08:34.194Z"}]
+        "_version_":1802167574571515904,
+        "timestamp":"2024-06-18T03:22:09.729Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -173,7 +173,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gordon, David, 1909-1973",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",3],

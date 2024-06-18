@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["St. Ann's Church collection"],
         "unitid_ssm":["1986.026"],
         "abstract_ssm":["The St. Ann's Church collection spans the period 1880 to 1960 and contains yearbooks and news bulletins, along with additional ephemeral literature. Yearbooks span the period 1888 to 1907 with gaps, and include vital information on the Church, such as historical notes, procedures for membership, staff listings, schedules, administrative reports, and reports of the Church's various organizations and societies."],
+        "creator_ssm":["St. Ann's Church (Brooklyn, New York, N.Y.)",
+          "St. Ann's Church (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1880/1960"],
         "corpname_ssm":["Brooklyn Historical Society",
           "St. Ann's Church (Brooklyn, New York, N.Y.)",
@@ -92,8 +94,8 @@
         "unitdate_end_ssm":["1960"],
         "unitdate_ssm":["Inclusive, 1880-1960"],
         "language_ssm":["English"],
-        "_version_":1799311467065901056,
-        "timestamp":"2024-05-17T14:45:33.356Z"}]
+        "_version_":1801963249536598016,
+        "timestamp":"2024-06-15T21:14:30.191Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -101,7 +103,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "St. Ann's Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

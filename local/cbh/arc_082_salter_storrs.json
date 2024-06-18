@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Storrs family collection"],
         "unitid_ssm":["ARC.082"],
         "abstract_ssm":["The Storrs family collection, dated 1764 to 1900, contains sermons, lectures, correspondence, and a listing of accounts belonging to Rev. Richard Salter Storrs and his great-grandfather, Rev. John Storrs, as well as the 1897 diary of Mary Storrs Packard."],
+        "creator_ssm":["Storrs, John",
+          "Storrs, Richard S. (Richard Salter)",
+          "Storrs, John",
+          "Storrs, Richard S. (Richard Salter)"],
         "unitdate_normal_ssm":["1764/1900"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Church of the Pilgrims (Brooklyn, New York, N.Y.)"],
@@ -73,8 +77,8 @@
         "unitdate_end_ssm":["1900"],
         "unitdate_ssm":["Inclusive, 1764-1900"],
         "language_ssm":["English"],
-        "_version_":1799311444144029696,
-        "timestamp":"2024-05-17T14:45:11.495Z"}]
+        "_version_":1801958924830638080,
+        "timestamp":"2024-06-15T20:05:45.83Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +86,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Storrs, John",1,
+        "Storrs, Richard S. (Richard Salter)",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

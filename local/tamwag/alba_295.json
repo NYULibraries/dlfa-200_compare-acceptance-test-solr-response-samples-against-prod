@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":24,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,10 @@
         "author_ssm":["Gail Malmgreen"],
         "unittitle_ssm":["Pearl Campuzano/Kenneth Graeber Clippings Relating to the Spanish Civil War"],
         "unitid_ssm":["ALBA.295"],
+        "creator_ssm":["Campuzano, Pearl Pound",
+          "Graber, Kenneth",
+          "Campuzano, Pearl Pound",
+          "Graber, Kenneth"],
         "unitdate_normal_ssm":["1938/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Campuzano, Pearl Pound",
@@ -62,8 +66,8 @@
         "unitdate_start_ssm":["1938"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1938-1939"],
-        "_version_":1799748157301587968,
-        "timestamp":"2024-05-22T10:26:33.618Z"},
+        "_version_":1802111650980954112,
+        "timestamp":"2024-06-17T12:33:16.837Z"},
       {
         "id":"alba_295aspace_35461f33ad4f07e07f8d5cfebbe0cc84",
         "ead_ssi":"alba_295",
@@ -79,8 +83,8 @@
         "location_ssm":["Box: 1",
           "Box: Shared Tamiment 034"],
         "heading_ssm":["Clippings"],
-        "_version_":1799748157314170880,
-        "timestamp":"2024-05-22T10:26:33.63Z"}]
+        "_version_":1802111651000877056,
+        "timestamp":"2024-06-17T12:33:16.856Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +92,9 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Campuzano, Pearl Pound",1,
+        "Graber, Kenneth",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

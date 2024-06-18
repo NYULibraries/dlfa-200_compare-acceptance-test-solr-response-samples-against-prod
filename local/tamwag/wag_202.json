@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Sylvia Hunter Papers"],
         "unitid_ssm":["WAG.202"],
+        "creator_ssm":["Hunter, Sylvia",
+          "Hunter, Sylvia"],
         "unitdate_normal_ssm":["1970/2002"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Hunter, Sylvia",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1970-2002"],
         "language_ssm":["English"],
-        "_version_":1799333398329688064,
-        "timestamp":"2024-05-17T20:34:08.639Z"},
+        "_version_":1802195516287614976,
+        "timestamp":"2024-06-18T10:46:17.026Z"},
       {
         "id":"wag_202aspace_44837147f082babe8b7cb13d9379e621",
         "ead_ssi":"wag_202",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799333398344368128,
-        "timestamp":"2024-05-17T20:34:08.653Z"}]
+        "_version_":1802195516296003584,
+        "timestamp":"2024-06-18T10:46:17.034Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hunter, Sylvia",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

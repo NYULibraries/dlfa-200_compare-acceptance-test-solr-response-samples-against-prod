@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Rose Harvan Papers"],
         "unitid_ssm":["ALBA.276"],
+        "creator_ssm":["Harvan, Rose Margaret",
+          "Harvan, Rose Margaret"],
         "unitdate_normal_ssm":["1937/2009"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Harvan, Rose Margaret",
@@ -63,8 +65,8 @@
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, circa 1930s-2000s"],
         "language_ssm":["English"],
-        "_version_":1775223082827382784,
-        "timestamp":"2023-08-25T17:30:59.984Z"}]
+        "_version_":1801147188103872512,
+        "timestamp":"2024-06-06T21:03:33.362Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -72,7 +74,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Harvan, Rose Margaret",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

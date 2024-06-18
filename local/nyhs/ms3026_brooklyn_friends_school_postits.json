@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Friends School Post-It Mural collection"],
         "unitid_ssm":["MS 3026"],
         "abstract_ssm":["The collection includes several hundred sticky notes (i.e., Post-its) posted by third grade students at the Brooklyn Friends School to a wall in the Lower School Library from December 2016 to February 2017. Inspired in part\nby artist Matthew \"Levee\" Chavez's work Subway Therapy, the students' project was a response to the 2016 U.S. presidential election."],
+        "creator_ssm":["Brooklyn Friends School",
+          "Brooklyn Friends School"],
         "corpname_ssm":["New-York Historical Society",
           "Brooklyn Friends School",
           "Brooklyn Friends School"],
@@ -61,8 +63,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Brooklyn Friends School Post-It Mural collection"],
         "unitdate_ssm":["Inclusive, 2016-2017"],
-        "_version_":1799325476956667904,
-        "timestamp":"2024-05-17T18:28:14.229Z"},
+        "_version_":1802084980847804416,
+        "timestamp":"2024-06-17T05:29:22.216Z"},
       {
         "id":"ms3026_brooklyn_friends_school_postitsaspace_f7676424e10ac0cbb9e0bc2faffdee20",
         "ead_ssi":"ms3026_brooklyn_friends_school_postits",
@@ -78,8 +80,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Brooklyn Friends School Post-Its"],
         "unitdate_ssm":["Inclusive, 2016-2017"],
-        "_version_":1799325476981833728,
-        "timestamp":"2024-05-17T18:28:14.253Z"}]
+        "_version_":1802084980864581632,
+        "timestamp":"2024-06-17T05:29:22.232Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Friends School",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

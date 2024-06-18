@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jake Green National Maritime Union Photographs"],
         "unitid_ssm":["PHOTOS.047"],
         "abstract_ssm":["Jake Green was a member of the National Maritime Union (NMU). The collection contains ten photographs concerned with the NMu, including images of the union's national conventions and officials, as well as Baltimore local NMU officials and events."],
+        "creator_ssm":["Green, Jake",
+          "Green, Jake"],
         "unitdate_normal_ssm":["1943/1947"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Frederick Douglass (Ship)",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["Inclusive, 1943-1947"],
         "language_ssm":["English"],
-        "_version_":1799333932560285696,
-        "timestamp":"2024-05-17T20:42:38.121Z"},
+        "_version_":1802141767837941760,
+        "timestamp":"2024-06-17T20:31:58.51Z"},
       {
         "id":"photos_047aspace_ref13",
         "ead_ssi":"photos_047",
@@ -91,8 +93,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Container list"],
-        "_version_":1799333932573917184,
-        "timestamp":"2024-05-17T20:42:38.134Z"},
+        "_version_":1802141767849476096,
+        "timestamp":"2024-06-17T20:31:58.521Z"},
       {
         "id":"photos_047aspace_ref14",
         "ead_ssi":"photos_047",
@@ -114,8 +116,8 @@
         "unitdate_start_ssm":["1943"],
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["Inclusive, 1943-1947 , undated"],
-        "_version_":1799333932593840128,
-        "timestamp":"2024-05-17T20:42:38.153Z"},
+        "_version_":1802141767866253312,
+        "timestamp":"2024-06-17T20:31:58.537Z"},
       {
         "id":"photos_047aspace_ref15",
         "ead_ssi":"photos_047",
@@ -131,12 +133,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment OS002, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment OS002, Folder: 1"],
         "heading_ssm":["Two oversized (11x 19) b&w photographs: panoramic group shots of the Fourth Biennial Convention of the National Maritime Union, New York City, July 6, 1943, and the of the Sixth Convention NMU, September 22, 1947, also in New York City. In these photographs the following individuals have been identified: Danny Boano, Bill Penman, Bill McCarthy, and Stanley Postek."],
         "unitdate_ssm":["Jul 6, 1943 , Sep 22, 1947"],
-        "_version_":1799333932608520192,
-        "timestamp":"2024-05-17T20:42:38.167Z"}]
+        "_version_":1802141767886176256,
+        "timestamp":"2024-06-17T20:31:58.556Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -144,7 +145,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Green, Jake",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",2],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Zachariah Greene ledger and service program"],
         "unitid_ssm":["1973.113"],
         "abstract_ssm":["This collection consists of one ledger kept by Zachariah Greene during the period 1787 to 1848, in which he recorded the marriages he performed as a minister at Presbyterian churches in the Long Island towns of Cutchogue and Setauket."],
+        "creator_ssm":["Greene, Zachariah",
+          "Greene, Zachariah"],
         "unitdate_normal_ssm":["1797/1934"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Death records",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1934"],
         "unitdate_ssm":["Inclusive, 1797-1934"],
         "language_ssm":["English"],
-        "_version_":1799256202318708736,
-        "timestamp":"2024-05-17T00:07:08.786Z"}]
+        "_version_":1801959962619936768,
+        "timestamp":"2024-06-15T20:22:15.543Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Greene, Zachariah",1],
       "date_range_sim":[
         "1701-1800",1,
         "1901-2000",1],

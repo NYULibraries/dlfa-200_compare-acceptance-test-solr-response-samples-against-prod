@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Communications Workers of America, District 4 Records"],
         "unitid_ssm":["WAG.321"],
         "abstract_ssm":["Communications Workers of America, District 4 represents workers in telecommunications, informational technology, publishing, print and electronic media, manufacturing, higher education, local government and health care in Illinois, Indiana, Ohio, Michigan and Wisconsin. The collection contains bargaining materials, correspondence, and convention proceedings."],
+        "creator_ssm":["Communications Workers of America. District 4",
+          "Communications Workers of America. District 4"],
         "unitdate_normal_ssm":["1930/2009"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Communications Workers of America. District 4"],
@@ -62,8 +64,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, circa 1930s-1970s, and 2009 to present"],
-        "_version_":1799805063846166528,
-        "timestamp":"2024-05-23T01:31:03.928Z"},
+        "_version_":1802197216337592320,
+        "timestamp":"2024-06-18T11:13:18.32Z"},
       {
         "id":"wag_321aspace_ref2",
         "ead_ssi":"wag_321",
@@ -81,8 +83,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["March 2009-ongoing"],
-        "_version_":1799805063860846592,
-        "timestamp":"2024-05-23T01:31:03.942Z"}]
+        "_version_":1802197216345980928,
+        "timestamp":"2024-06-18T11:13:18.328Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
         "tamwag",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Communications Workers of America. District 4",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Thurlow Weed Papers"],
         "unitid_ssm":["AHMC - Weed, Thurlow"],
         "abstract_ssm":["Correspondence, position papers/statements, resolution, newspaper clippings, recipes, lists, and notes pertaining to the professional and political life of Thurlow Weed, from 1818-1882."],
+        "creator_ssm":["Weed, Thurlow, 1797-1882 ",
+          "Weed, Thurlow, 1797-1882 "],
         "unitdate_normal_ssm":["1818/1882"],
         "corpname_ssm":["New-York Historical Society",
           "Antimasonic Party (N.Y.)",
@@ -81,8 +83,8 @@
         "unitdate_start_ssm":["1818"],
         "unitdate_end_ssm":["1882"],
         "unitdate_ssm":["Inclusive, 1818-1882 (bulk 1830-1875)"],
-        "_version_":1799315442167185408,
-        "timestamp":"2024-05-17T15:48:44.308Z"},
+        "_version_":1802083624803106816,
+        "timestamp":"2024-06-17T05:07:48.991Z"},
       {
         "id":"ms2958_10790_thurlow_weedaspace_ref14_0lt",
         "ead_ssi":"ms2958_10790_thurlow_weed",
@@ -96,14 +98,13 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: AHMC- Weed, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: AHMC- Weed, Folder: 1"],
         "heading_ssm":["Correspondence, statements, resolution, and notes"],
         "unitdate_start_ssm":["1818"],
         "unitdate_end_ssm":["1849"],
         "unitdate_ssm":["Inclusive, 1818, 1822-1849"],
-        "_version_":1799315442224857088,
-        "timestamp":"2024-05-17T15:48:44.363Z"},
+        "_version_":1802083624828272640,
+        "timestamp":"2024-06-17T05:07:49.015Z"},
       {
         "id":"ms2958_10790_thurlow_weedaspace_ref15_mcy",
         "ead_ssi":"ms2958_10790_thurlow_weed",
@@ -117,14 +118,13 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: AHMC- Weed, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: AHMC- Weed, Folder: 2"],
         "heading_ssm":["Correspondence, notes, and newspaper clippings"],
         "unitdate_start_ssm":["1850"],
         "unitdate_end_ssm":["1882"],
         "unitdate_ssm":["Inclusive, 1850-1878, 1882"],
-        "_version_":1799315442289868800,
-        "timestamp":"2024-05-17T15:48:44.425Z"},
+        "_version_":1802083624862875648,
+        "timestamp":"2024-06-17T05:07:49.048Z"},
       {
         "id":"ms2958_10790_thurlow_weedaspace_ref16_0iq",
         "ead_ssi":"ms2958_10790_thurlow_weed",
@@ -137,12 +137,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: AHMC- Weed, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: AHMC- Weed, Folder: 3"],
         "heading_ssm":["Correspondence, notes, recipes, and lists"],
         "unitdate_ssm":["Undated"],
-        "_version_":1799315442340200448,
-        "timestamp":"2024-05-17T15:48:44.473Z"}]
+        "_version_":1802083624885944320,
+        "timestamp":"2024-06-17T05:07:49.07Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -150,7 +149,8 @@
       "repository_sim":[
         "nyhs",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Weed, Thurlow, 1797-1882 ",1],
       "date_range_sim":[
         "1801-1900",3,
         "undated & other",1],

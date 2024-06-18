@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["New York City public property auctions catalogue and advertisement"],
         "unitid_ssm":["ARC.261"],
         "abstract_ssm":["One catalogue published in 1926 by the New York City Compstroller's Office featuring descriptions and photographs of property in all five city boroughs going up for sale at a public auction.  Also included is an advertisement released in 1924 by Jeremiah Johnson Jr. Co. Real Estate Auctioneers for 600 property lots in the Brooklyn neighborhood of Flatbush going up for sale at public auction."],
+        "creator_ssm":["New York (N.Y.). Office of the Comptroller",
+          "Jeremiah Johnson Jr. Co. (Brooklyn, New York, N.Y.)",
+          "New York (N.Y.). Office of the Comptroller",
+          "Jeremiah Johnson Jr. Co. (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1924/1926"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (N.Y.). Office of the Comptroller",
@@ -73,8 +77,8 @@
         "unitdate_end_ssm":["1926"],
         "unitdate_ssm":["Inclusive, 1924-1926"],
         "language_ssm":["English"],
-        "_version_":1799311436003934208,
-        "timestamp":"2024-05-17T14:45:03.733Z"}]
+        "_version_":1801959639102783488,
+        "timestamp":"2024-06-15T20:17:07.013Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +86,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Jeremiah Johnson Jr. Co. (Brooklyn, New York, N.Y.)",1,
+        "New York (N.Y.). Office of the Comptroller",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

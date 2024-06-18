@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["Thomas Dolan collection of telegraph messages"],
         "unitid_ssm":["MS 173"],
         "abstract_ssm":["A collection of about 275 individual telegraph messages dating from 1861-1863 sent out by telegrapher Thomas Dolan. The materials in this collection have been digitized and are available online to on-site researchers and to users affiliated with subscribing institutions via EBSCOhost."],
+        "creator_ssm":["Dolan, Thomas",
+          "Dolan, Thomas"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Telegrams."],
         "geogname_ssm":["United States -- History -- Civil War, 1861-1865."],
@@ -68,8 +70,8 @@
         "material_type_ssm":["Telegrams."],
         "heading_ssm":["Thomas Dolan collection of telegraph messages"],
         "unitdate_ssm":["Inclusive, 1861-1863"],
-        "_version_":1799319000441683968,
-        "timestamp":"2024-05-17T16:45:17.743Z"},
+        "_version_":1802082499657990144,
+        "timestamp":"2024-06-17T04:49:55.969Z"},
       {
         "id":"ms173_thomas_dolan_telegraphsaspace_ref14_mh6",
         "ead_ssi":"ms173_thomas_dolan_telegraphs",
@@ -82,12 +84,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Telegrams from senders A-G"],
         "unitdate_ssm":["Inclusive, 1861-1863"],
-        "_version_":1799319000457412608,
-        "timestamp":"2024-05-17T16:45:17.758Z"},
+        "_version_":1802082499678961664,
+        "timestamp":"2024-06-17T04:49:55.989Z"},
       {
         "id":"ms173_thomas_dolan_telegraphsaspace_ref15_jb3",
         "ead_ssi":"ms173_thomas_dolan_telegraphs",
@@ -100,12 +101,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Telegrams from senders H-M"],
         "unitdate_ssm":["Inclusive, 1861-1863"],
-        "_version_":1799319000471044096,
-        "timestamp":"2024-05-17T16:45:17.771Z"},
+        "_version_":1802082499699933184,
+        "timestamp":"2024-06-17T04:49:56.009Z"},
       {
         "id":"ms173_thomas_dolan_telegraphsaspace_ref16_5fg",
         "ead_ssi":"ms173_thomas_dolan_telegraphs",
@@ -118,12 +118,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Telegrams from senders N-Q"],
         "unitdate_ssm":["Inclusive, 1861-1863"],
-        "_version_":1799319000486772736,
-        "timestamp":"2024-05-17T16:45:17.786Z"},
+        "_version_":1802082499725099008,
+        "timestamp":"2024-06-17T04:49:56.033Z"},
       {
         "id":"ms173_thomas_dolan_telegraphsaspace_ref17_flt",
         "ead_ssi":"ms173_thomas_dolan_telegraphs",
@@ -136,12 +135,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 1, Folder: 4"],
         "heading_ssm":["Telegrams from senders R-Z"],
         "unitdate_ssm":["Inclusive, 1861-1863"],
-        "_version_":1799319000502501376,
-        "timestamp":"2024-05-17T16:45:17.801Z"},
+        "_version_":1802082499853025280,
+        "timestamp":"2024-06-17T04:49:56.155Z"},
       {
         "id":"ms173_thomas_dolan_telegraphsaspace_ref18_k97",
         "ead_ssi":"ms173_thomas_dolan_telegraphs",
@@ -154,12 +152,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 5",
-          "Folder: 5"],
+        "location_ssm":["Box: 1, Folder: 5"],
         "heading_ssm":["Text of telegrams to various recipients"],
         "unitdate_ssm":["Inclusive, 1863 May 4-5"],
-        "_version_":1799319000517181440,
-        "timestamp":"2024-05-17T16:45:17.815Z"}]
+        "_version_":1802082499882385408,
+        "timestamp":"2024-06-17T04:49:56.183Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -167,7 +164,8 @@
       "repository_sim":[
         "nyhs",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dolan, Thomas",1],
       "date_range_sim":[
         "undated & other",6],
       "subject_sim":[

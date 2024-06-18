@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Louise Hasbrook Brooklyn Navy YMCA collection"],
         "unitid_ssm":["ARC.042"],
         "abstract_ssm":["The Brooklyn Navy YMCA, founded in 1899 and located at 167 Sands Street near the Brooklyn Navy Yard, was the first permanent branch of the Navy YMCA.  It closed its doors in 1964, having served an estimated 47 million military personnel.  Louise Hasbrook worked as a secretary at the Brooklyn Navy YMCA beginning in 1934.  In 1959, she was promoted to the position of administrative assistant and secretary to the Executive.  The Louise Hasbrook Brooklyn Navy YMCA collection spans the period 1925 to 1986 and contains various items compiled by Hasbrook during her time as a secretary and administrative assistant at the Brooklyn Navy YMCA.  The materials document the activities of the Brooklyn Navy YMCA from 1925 until its closing in 1964; there is also a small number of items pertaining to Louise Hasbrook's subsequent employment outside the Brooklyn Navy YMCA and her personal interests.  Items include reports, newspaper clippings, programs, newsletters, correspondence, photographs, certificates, and various ephemera."],
+        "creator_ssm":["Hasbrook, Louise",
+          "Hasbrook, Louise"],
         "unitdate_normal_ssm":["1925/1986"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Naval Shipyard",
@@ -95,8 +97,8 @@
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1925-1986"],
         "language_ssm":["English"],
-        "_version_":1799256286611636224,
-        "timestamp":"2024-05-17T00:08:29.174Z"}]
+        "_version_":1801958770187698176,
+        "timestamp":"2024-06-15T20:03:18.351Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -104,7 +106,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hasbrook, Louise",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

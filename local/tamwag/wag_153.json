@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["International Brotherhood of Teamsters, Local 138 Records"],
         "unitid_ssm":["WAG.153"],
         "abstract_ssm":["The International Brotherhood of Teamsters, Local 138 Records (dated 1936-1992) contain contracts, minutes, elections records, and documents related to arbitrations, mediations, and disputes between union members and their employers. Local 138 (Furniture, Flour and Grocery Teamsters and Chauffeurs) was chartered in 1927 and is one of the earliest Teamster locals in New York City. The bulk of the collection consists of shop files reflecting the bargaining efforts of Local 138, which include contracts and agreements between Local 138 and employers. Other materials include 3 bound cash books tracking union expenses (1936-1939), mediations (1964-1980), executive board minutes (1944-1962), National Labor Relations Board (NLRB) disputes and complaints, and election records (1943-1968)."],
+        "creator_ssm":["International Brotherhood of Teamsters. Local 138",
+          "International Brotherhood of Teamsters. Local 138"],
         "unitdate_normal_ssm":["1936/1992"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Brotherhood of Teamsters. Local 138",
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1936-1992"],
-        "_version_":1799802283757666304,
-        "timestamp":"2024-05-23T00:46:52.629Z"},
+        "_version_":1802195184156409856,
+        "timestamp":"2024-06-18T10:41:00.281Z"},
       {
         "id":"wag_153aspace_07a0eee9bdc58abeb716ff895ca1cd40",
         "ead_ssi":"wag_153",
@@ -89,8 +91,8 @@
         "unitdate_start_ssm":["1976"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1976-1979"],
-        "_version_":1799802284134105088,
-        "timestamp":"2024-05-23T00:46:52.988Z"},
+        "_version_":1802195184377659392,
+        "timestamp":"2024-06-18T10:41:00.492Z"},
       {
         "id":"wag_153aspace_090c218910bab77ecc6fd3fed40612df",
         "ead_ssi":"wag_153",
@@ -109,8 +111,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1986"],
-        "_version_":1799802283880349696,
-        "timestamp":"2024-05-23T00:46:52.746Z"},
+        "_version_":1802195184232955904,
+        "timestamp":"2024-06-18T10:41:00.354Z"},
       {
         "id":"wag_153aspace_0b55f523b059acb517bac18f084e3db4",
         "ead_ssi":"wag_153",
@@ -129,8 +131,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1987-1990"],
-        "_version_":1799802284150882304,
-        "timestamp":"2024-05-23T00:46:53.004Z"},
+        "_version_":1802195184397582336,
+        "timestamp":"2024-06-18T10:41:00.511Z"},
       {
         "id":"wag_153aspace_0ebb824c522eeca1bf8457d90ea4f8cf",
         "ead_ssi":"wag_153",
@@ -149,8 +151,8 @@
         "unitdate_start_ssm":["1956"],
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, 1956-1996"],
-        "_version_":1799802283824775168,
-        "timestamp":"2024-05-23T00:46:52.693Z"},
+        "_version_":1802195184198352896,
+        "timestamp":"2024-06-18T10:41:00.321Z"},
       {
         "id":"wag_153aspace_0f2bf5b42b000fa0cacc504af796f908",
         "ead_ssi":"wag_153",
@@ -169,8 +171,8 @@
         "unitdate_start_ssm":["1953"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1953-1980"],
-        "_version_":1799802284006178816,
-        "timestamp":"2024-05-23T00:46:52.866Z"},
+        "_version_":1802195184299016192,
+        "timestamp":"2024-06-18T10:41:00.417Z"},
       {
         "id":"wag_153aspace_114c3760439632c3716ab4d4658b0fee",
         "ead_ssi":"wag_153",
@@ -190,8 +192,8 @@
         "unitdate_start_ssm":["1943"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, 1943-1972"],
-        "_version_":1799802284241059840,
-        "timestamp":"2024-05-23T00:46:53.09Z"},
+        "_version_":1802195184460496896,
+        "timestamp":"2024-06-18T10:41:00.57Z"},
       {
         "id":"wag_153aspace_1f1092a9613f30b35669bbc6b0c48269",
         "ead_ssi":"wag_153",
@@ -210,8 +212,8 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1936-1939"],
-        "_version_":1799802284315508736,
-        "timestamp":"2024-05-23T00:46:53.161Z"},
+        "_version_":1802195184503488512,
+        "timestamp":"2024-06-18T10:41:00.612Z"},
       {
         "id":"wag_153aspace_31be15ad218fff85b158bf7d67e590bc",
         "ead_ssi":"wag_153",
@@ -230,8 +232,8 @@
         "unitdate_start_ssm":["1956"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1956-1980"],
-        "_version_":1799802284172902400,
-        "timestamp":"2024-05-23T00:46:53.025Z"},
+        "_version_":1802195184415408128,
+        "timestamp":"2024-06-18T10:41:00.528Z"},
       {
         "id":"wag_153aspace_3ba76cd2da58f49e2f3149bd55d38944",
         "ead_ssi":"wag_153",
@@ -251,8 +253,8 @@
         "unitdate_start_ssm":["1952"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1952-1979"],
-        "_version_":1799802284115230720,
-        "timestamp":"2024-05-23T00:46:52.97Z"},
+        "_version_":1802195184364027904,
+        "timestamp":"2024-06-18T10:41:00.479Z"},
       {
         "id":"wag_153aspace_3d95a06ccccd5b28c02aecebe112d36f",
         "ead_ssi":"wag_153",
@@ -271,8 +273,8 @@
         "unitdate_start_ssm":["1974"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1974-1975"],
-        "_version_":1799802283842600960,
-        "timestamp":"2024-05-23T00:46:52.71Z"},
+        "_version_":1802195184210935808,
+        "timestamp":"2024-06-18T10:41:00.333Z"},
       {
         "id":"wag_153aspace_4de51d75faae19cee55a118dc85f8210",
         "ead_ssi":"wag_153",
@@ -291,8 +293,8 @@
         "unitdate_start_ssm":["1954"],
         "unitdate_end_ssm":["1981"],
         "unitdate_ssm":["Inclusive, 1954-1981"],
-        "_version_":1799802283981012992,
-        "timestamp":"2024-05-23T00:46:52.842Z"},
+        "_version_":1802195184285384704,
+        "timestamp":"2024-06-18T10:41:00.404Z"},
       {
         "id":"wag_153aspace_537230a87aa7c76f07f403a85f7a307d",
         "ead_ssi":"wag_153",
@@ -311,8 +313,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1968-1980"],
-        "_version_":1799802283899224064,
-        "timestamp":"2024-05-23T00:46:52.764Z"},
+        "_version_":1802195184242393088,
+        "timestamp":"2024-06-18T10:41:00.363Z"},
       {
         "id":"wag_153aspace_5e2530030d06dd5e9e274cff99250f72",
         "ead_ssi":"wag_153",
@@ -331,8 +333,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1987-1989"],
-        "_version_":1799802283862523904,
-        "timestamp":"2024-05-23T00:46:52.729Z"},
+        "_version_":1802195184221421568,
+        "timestamp":"2024-06-18T10:41:00.343Z"},
       {
         "id":"wag_153aspace_600749530c2a0a46d3ba5c3b3c36f99b",
         "ead_ssi":"wag_153",
@@ -351,8 +353,8 @@
         "unitdate_start_ssm":["1964"],
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, 1964-1967"],
-        "_version_":1799802284081676288,
-        "timestamp":"2024-05-23T00:46:52.938Z"},
+        "_version_":1802195184342007808,
+        "timestamp":"2024-06-18T10:41:00.458Z"},
       {
         "id":"wag_153aspace_62854bcdb0c10be9982a8d933f11f886",
         "ead_ssi":"wag_153",
@@ -371,8 +373,8 @@
         "unitdate_start_ssm":["1952"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1952-1985"],
-        "_version_":1799802284205408256,
-        "timestamp":"2024-05-23T00:46:53.056Z"},
+        "_version_":1802195184438476800,
+        "timestamp":"2024-06-18T10:41:00.55Z"},
       {
         "id":"wag_153aspace_883538d7c9c9f8b40696415d3c5d6870",
         "ead_ssi":"wag_153",
@@ -392,8 +394,8 @@
         "unitdate_start_ssm":["1976"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1976-1992"],
-        "_version_":1799802284257837056,
-        "timestamp":"2024-05-23T00:46:53.106Z"},
+        "_version_":1802195184470982656,
+        "timestamp":"2024-06-18T10:41:00.581Z"},
       {
         "id":"wag_153aspace_9cab5b27f3bc7fb6e2bea96486004098",
         "ead_ssi":"wag_153",
@@ -412,8 +414,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, 1972-1974"],
-        "_version_":1799802283939069952,
-        "timestamp":"2024-05-23T00:46:52.801Z"},
+        "_version_":1802195184264413184,
+        "timestamp":"2024-06-18T10:41:00.384Z"},
       {
         "id":"wag_153aspace_a1b138ead27c35e60f044e7f8d9f27bc",
         "ead_ssi":"wag_153",
@@ -432,8 +434,8 @@
         "unitdate_start_ssm":["1966"],
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1966-1976"],
-        "_version_":1799802284044976128,
-        "timestamp":"2024-05-23T00:46:52.903Z"},
+        "_version_":1802195184321036288,
+        "timestamp":"2024-06-18T10:41:00.438Z"},
       {
         "id":"wag_153aspace_ab93a4cb32fd496ee6118cf748e30800",
         "ead_ssi":"wag_153",
@@ -452,8 +454,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1987-1989"],
-        "_version_":1799802284277760000,
-        "timestamp":"2024-05-23T00:46:53.125Z"},
+        "_version_":1802195184481468416,
+        "timestamp":"2024-06-18T10:41:00.59Z"},
       {
         "id":"wag_153aspace_b0b3c949264363138c89bb658539ffdf",
         "ead_ssi":"wag_153",
@@ -472,8 +474,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, 1940"],
-        "_version_":1799802283797512192,
-        "timestamp":"2024-05-23T00:46:52.667Z"},
+        "_version_":1802195184178429952,
+        "timestamp":"2024-06-18T10:41:00.302Z"},
       {
         "id":"wag_153aspace_bb7099642a45b04f92c43ceabcb3e26f",
         "ead_ssi":"wag_153",
@@ -492,8 +494,8 @@
         "unitdate_start_ssm":["1938"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1938-1977"],
-        "_version_":1799802283961090048,
-        "timestamp":"2024-05-23T00:46:52.822Z"},
+        "_version_":1802195184274898944,
+        "timestamp":"2024-06-18T10:41:00.394Z"},
       {
         "id":"wag_153aspace_bf32ad2dae45bceb81fd17a214d741ca",
         "ead_ssi":"wag_153",
@@ -512,8 +514,8 @@
         "unitdate_start_ssm":["1945"],
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1945-1962"],
-        "_version_":1799802284223234048,
-        "timestamp":"2024-05-23T00:46:53.072Z"},
+        "_version_":1802195184448962560,
+        "timestamp":"2024-06-18T10:41:00.56Z"},
       {
         "id":"wag_153aspace_c4412c41c680967582106851d3695c70",
         "ead_ssi":"wag_153",
@@ -529,8 +531,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["International Brotherhood of Teamsters Stamps"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799802283777589248,
-        "timestamp":"2024-05-23T00:46:52.648Z"},
+        "_version_":1802195184168992768,
+        "timestamp":"2024-06-18T10:41:00.293Z"},
       {
         "id":"wag_153aspace_c624a0881c2ebec635dbe4b7624b81dc",
         "ead_ssi":"wag_153",
@@ -549,8 +551,8 @@
         "unitdate_start_ssm":["1978"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1978-1987"],
-        "_version_":1799802283919147008,
-        "timestamp":"2024-05-23T00:46:52.783Z"},
+        "_version_":1802195184253927424,
+        "timestamp":"2024-06-18T10:41:00.374Z"},
       {
         "id":"wag_153aspace_cb4b49ccb8fca86d0959ca311ae53745",
         "ead_ssi":"wag_153",
@@ -569,8 +571,8 @@
         "unitdate_start_ssm":["1971"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1971-1980"],
-        "_version_":1799802284188631040,
-        "timestamp":"2024-05-23T00:46:53.04Z"},
+        "_version_":1802195184427991040,
+        "timestamp":"2024-06-18T10:41:00.54Z"},
       {
         "id":"wag_153aspace_d11aab2cf7d3835df5784c348107d9bb",
         "ead_ssi":"wag_153",
@@ -589,8 +591,8 @@
         "unitdate_start_ssm":["1964"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, 1964-1972"],
-        "_version_":1799802284027150336,
-        "timestamp":"2024-05-23T00:46:52.886Z"},
+        "_version_":1802195184310550528,
+        "timestamp":"2024-06-18T10:41:00.428Z"},
       {
         "id":"wag_153aspace_d4152e60044afa9904ebc22c103ce5aa",
         "ead_ssi":"wag_153",
@@ -610,8 +612,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1989-1991"],
-        "_version_":1799802284295585792,
-        "timestamp":"2024-05-23T00:46:53.142Z"},
+        "_version_":1802195184491954176,
+        "timestamp":"2024-06-18T10:41:00.601Z"},
       {
         "id":"wag_153aspace_d5c795b4c6d5853743ae819d1b679cfb",
         "ead_ssi":"wag_153",
@@ -630,8 +632,8 @@
         "unitdate_start_ssm":["1962"],
         "unitdate_end_ssm":["1964"],
         "unitdate_ssm":["Inclusive, 1962-1964"],
-        "_version_":1799802284063850496,
-        "timestamp":"2024-05-23T00:46:52.921Z"},
+        "_version_":1802195184331522048,
+        "timestamp":"2024-06-18T10:41:00.448Z"},
       {
         "id":"wag_153aspace_f76bdc2f64d8577e37caa3bf1bc5421b",
         "ead_ssi":"wag_153",
@@ -650,8 +652,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1970-1979"],
-        "_version_":1799802284099502080,
-        "timestamp":"2024-05-23T00:46:52.955Z"}]
+        "_version_":1802195184353542144,
+        "timestamp":"2024-06-18T10:41:00.468Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -659,7 +661,8 @@
       "repository_sim":[
         "tamwag",30],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "International Brotherhood of Teamsters. Local 138",1],
       "date_range_sim":[
         "1901-2000",29,
         "undated & other",1],

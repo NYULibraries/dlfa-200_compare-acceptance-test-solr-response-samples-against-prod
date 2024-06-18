@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["International Association of Machinists, Lodge 434 Records"],
         "unitid_ssm":["WAG.226"],
+        "creator_ssm":["International Association of Machinists. Lodge 434",
+          "International Association of Machinists. Lodge 434"],
         "unitdate_normal_ssm":["1898/1907"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Association of Machinists. Lodge 434"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1907"],
         "unitdate_ssm":["Inclusive, 1898-1907"],
         "language_ssm":["English"],
-        "_version_":1799802573918568448,
-        "timestamp":"2024-05-23T00:51:29.348Z"},
+        "_version_":1802195613035528192,
+        "timestamp":"2024-06-18T10:47:49.292Z"},
       {
         "id":"wag_226aspace_2f8b2f99ae0b4c44355d06491a3867f4",
         "ead_ssi":"wag_226",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799802573932199936,
-        "timestamp":"2024-05-23T00:51:29.361Z"}]
+        "_version_":1802195613044965376,
+        "timestamp":"2024-06-18T10:47:49.301Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "International Association of Machinists. Lodge 434",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

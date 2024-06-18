@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Richard Lawrence estate inventory"],
         "unitid_ssm":["1974.206"],
         "abstract_ssm":["Inventory of the estate of Richard Lawrence, resident of Suffolk County, Long Island, dated 1717. In addition to livestock, furniture and other household goods, the inventory lists an African-American man named Jambo. The inventory also lists the quantities and monetary value of all items listed."],
+        "creator_ssm":["Lawrence, Richard",
+          "Lawrence, Richard"],
         "unitdate_normal_ssm":["1717/1717"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Estate inventories"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1717"],
         "unitdate_ssm":["Inclusive, 1717"],
         "language_ssm":["English"],
-        "_version_":1799311486363893760,
-        "timestamp":"2024-05-17T14:45:51.76Z"}]
+        "_version_":1801960449579679744,
+        "timestamp":"2024-06-15T20:29:59.944Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lawrence, Richard",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

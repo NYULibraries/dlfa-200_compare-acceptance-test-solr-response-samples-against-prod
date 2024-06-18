@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,20 @@
         "unittitle_ssm":["Brooklyn railroad and subway collection"],
         "unitid_ssm":["ARC.152"],
         "abstract_ssm":["The Brooklyn Commuter Railroad and Subway collection measures 0.4 linear feet and spans the years 1853 to 1958. It is assembled of documents produced by many of the companies and organizations responsible for the development of Brooklyn and New York City's transportation infrastructure from the late-19th century to the mid-20th century."],
+        "creator_ssm":["Brooklyn-Manhattan Transit Company",
+          "Brooklyn, East New York and Rockaway Railroad Company (Brooklyn, New York, N.Y.)",
+          "Long Island Railroad Company",
+          "Grand St., Flatbush and Prospect Park Railroad Company (Brooklyn, New York, N.Y.)",
+          "Brooklyn Central and Jamaica Railroad Company",
+          "Interborough Rapid Transit Company",
+          "New York (State). Metropolitan Transportation Authority",
+          "Brooklyn-Manhattan Transit Company",
+          "Brooklyn, East New York and Rockaway Railroad Company (Brooklyn, New York, N.Y.)",
+          "Long Island Railroad Company",
+          "Grand St., Flatbush and Prospect Park Railroad Company (Brooklyn, New York, N.Y.)",
+          "Brooklyn Central and Jamaica Railroad Company",
+          "Interborough Rapid Transit Company",
+          "New York (State). Metropolitan Transportation Authority"],
         "unitdate_normal_ssm":["1853/1958"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn-Manhattan Transit Company",
@@ -87,8 +101,8 @@
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["Inclusive, 1853-1958"],
         "language_ssm":["English"],
-        "_version_":1799256328890220544,
-        "timestamp":"2024-05-17T00:09:09.494Z"}]
+        "_version_":1801959221267267584,
+        "timestamp":"2024-06-15T20:10:28.534Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +110,14 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Central and Jamaica Railroad Company",1,
+        "Brooklyn, East New York and Rockaway Railroad Company (Brooklyn, New York, N.Y.)",1,
+        "Brooklyn-Manhattan Transit Company",1,
+        "Grand St., Flatbush and Prospect Park Railroad Company (Brooklyn, New York, N.Y.)",1,
+        "Interborough Rapid Transit Company",1,
+        "Long Island Railroad Company",1,
+        "New York (State). Metropolitan Transportation Authority",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":22,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Pamela Schafler collection of graphic material"],
         "unitid_ssm":["PR 331"],
         "abstract_ssm":["This collection consists of material donated by Pamela Schafler.  It includes correspondence and telephotographs, with a total of 7 items."],
+        "creator_ssm":["Schafler, Pamela",
+          "Schafler, Pamela"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Schafler, Pamela",
           "Johnson, Lyndon B. (Lyndon Baines), 1908-1973.",
@@ -60,8 +62,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Pamela Schafler collection of graphic material"],
         "unitdate_ssm":["Inclusive, 1930s, 1960s"],
-        "_version_":1799316307837976576,
-        "timestamp":"2024-05-17T16:02:29.876Z"},
+        "_version_":1802094210880372736,
+        "timestamp":"2024-06-17T07:56:04.661Z"},
       {
         "id":"pr331_pamela_schafler_collectionaspace_ref10_b17",
         "ead_ssi":"pr331_pamela_schafler_collection",
@@ -77,8 +79,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["correspondence and photographs"],
         "unitdate_ssm":["1930s, 1960s"],
-        "_version_":1799316307895648256,
-        "timestamp":"2024-05-17T16:02:29.931Z"}]
+        "_version_":1802094210898198528,
+        "timestamp":"2024-06-17T07:56:04.677Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Schafler, Pamela",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

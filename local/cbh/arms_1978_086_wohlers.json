@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William H. Wohlers bond"],
         "unitid_ssm":["1978.086"],
         "abstract_ssm":["One 1910 bond between William H. Wohlers of Brooklyn and the Germania Savings Bank."],
+        "creator_ssm":["Wohlers, William H.",
+          "Wohlers, William H."],
         "unitdate_normal_ssm":["1910/1910"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Germania Savings Bank (Brooklyn, New York, N.Y.)"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["1910"],
         "language_ssm":["English"],
-        "_version_":1799312275026214912,
-        "timestamp":"2024-05-17T14:58:23.887Z"}]
+        "_version_":1801962412151144448,
+        "timestamp":"2024-06-15T21:01:11.598Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wohlers, William H.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

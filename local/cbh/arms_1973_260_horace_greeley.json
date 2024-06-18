@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Horace Greeley notebook and engraving"],
         "unitid_ssm":["1973.260"],
         "abstract_ssm":["This collection consists of a notebook belonging to Horace Greeley listing speaking and meeting engagements during the period 1849 to 1851, as well as an undated engraving of Greeley."],
+        "creator_ssm":["Greeley, Horace",
+          "Greeley, Horace"],
         "unitdate_normal_ssm":["1849/1851"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Notebooks",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1851"],
         "unitdate_ssm":["Inclusive, 1849-1851"],
         "language_ssm":["English"],
-        "_version_":1799312232521138176,
-        "timestamp":"2024-05-17T14:57:43.351Z"}]
+        "_version_":1801960146944917504,
+        "timestamp":"2024-06-15T20:25:11.329Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Greeley, Horace",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

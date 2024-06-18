@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Roberta Bobba and Peter Martin Photographs"],
         "unitid_ssm":["PHOTOS.055"],
         "abstract_ssm":["Thirty-two black and white images of Italian immigrant anarchist Carlo Tresca (1879-1943) and labor and radical activist Elizabeth Gurley Flynn (1890-1964) and their relatives and friends."],
+        "creator_ssm":["Bobba, Roberta",
+          "Bobba, Roberta"],
         "unitdate_normal_ssm":["1908/1959"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Black-and-white photographs.",
@@ -81,8 +83,8 @@
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1918-1959"],
-        "_version_":1799764348201074688,
-        "timestamp":"2024-05-22T14:43:54.463Z"},
+        "_version_":1802141785014665216,
+        "timestamp":"2024-06-17T20:32:14.891Z"},
       {
         "id":"photos_055aspace_ref13",
         "ead_ssi":"photos_055",
@@ -96,8 +98,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Container list"],
-        "_version_":1799764348212609024,
-        "timestamp":"2024-05-22T14:43:54.474Z"},
+        "_version_":1802141785028296704,
+        "timestamp":"2024-06-17T20:32:14.904Z"},
       {
         "id":"photos_055aspace_ref14",
         "ead_ssi":"photos_055",
@@ -114,14 +116,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Carlo Tresca, family, and friends (18 items)"],
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799764348227289088,
-        "timestamp":"2024-05-22T14:43:54.488Z"},
+        "_version_":1802141785039831040,
+        "timestamp":"2024-06-17T20:32:14.915Z"},
       {
         "id":"photos_055aspace_ref15",
         "ead_ssi":"photos_055",
@@ -138,14 +139,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Elizabeth Gurley Flynn, family and friends (10 items)"],
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799764348247212032,
-        "timestamp":"2024-05-22T14:43:54.507Z"},
+        "_version_":1802141785059753984,
+        "timestamp":"2024-06-17T20:32:14.934Z"},
       {
         "id":"photos_055aspace_ref16",
         "ead_ssi":"photos_055",
@@ -162,14 +162,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Romolo Bobba and Others (4 items)"],
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799764348262940672,
-        "timestamp":"2024-05-22T14:43:54.522Z"}]
+        "_version_":1802141785078628352,
+        "timestamp":"2024-06-17T20:32:14.952Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -177,7 +176,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bobba, Roberta",1],
       "date_range_sim":[
         "1901-2000",4,
         "undated & other",1],

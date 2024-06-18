@@ -47,6 +47,8 @@
         "unittitle_ssm":["Rufus B. Kelsey papers"],
         "unitid_ssm":["1977.150"],
         "abstract_ssm":["The Rufus B. Kelsey papers consist of correspondence, primarily written to Kelsey, spanning the period 1859 to 1883."],
+        "creator_ssm":["Kelsey, Rufus B.",
+          "Kelsey, Rufus B."],
         "unitdate_normal_ssm":["1859/1883"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1883"],
         "unitdate_ssm":["Inclusive, 1859-1883"],
         "language_ssm":["English"],
-        "_version_":1799311682957213696,
-        "timestamp":"2024-05-17T14:48:59.246Z"}]
+        "_version_":1801960811940282368,
+        "timestamp":"2024-06-15T20:35:45.518Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kelsey, Rufus B.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

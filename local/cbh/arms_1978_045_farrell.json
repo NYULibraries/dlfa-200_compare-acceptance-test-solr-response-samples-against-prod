@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["James Farrell undertaker's account book"],
         "unitid_ssm":["1978.045"],
         "abstract_ssm":["The James Farrell undertaker's account book gives detailed accounts of interment costs for citizens in the borough of Brooklyn in the late 19th century."],
+        "creator_ssm":["Farrell, James",
+          "Farrell, James"],
         "unitdate_normal_ssm":["1873/1900"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Clippings (information artifacts)",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1900"],
         "unitdate_ssm":["Inclusive, 1873-1900"],
         "language_ssm":["English"],
-        "_version_":1799311723551784960,
-        "timestamp":"2024-05-17T14:49:37.96Z"}]
+        "_version_":1801962318320369664,
+        "timestamp":"2024-06-15T20:59:42.114Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Farrell, James",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

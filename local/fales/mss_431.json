@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles Franklin Peters Photographs"],
         "unitid_ssm":["MSS.431"],
         "abstract_ssm":["Charles Franklin Peters (circa 1870-1965) lived in Harrisburg, Pennsylvania and was an amateur photographer. Census records indicated he was a clerk and bookkeeper for a local transit company. Peters was also a member of the fraternal organization the Ancient Order of Kights of the Mystic Chain (AOKMC). Peters is the assumed creator of this collection. He is pictured in many photographs and his daughter, Clara E. Peters, is the only subject in the collection who was explicitely identified. \n\nThis collection includes 96 photographs including silver gelatin print postcards and cabinet cards, as well as cyanotype prints. Some prints are hand colored. The bulk the photographs are family portraits, domestic scenes, street scenes, interiors, and photographs of men in theatrical costumes participating in AOKMC rites. There are 10 pornographic photographs that show Peters and another unidentified man engaged in sexual acts."],
+        "creator_ssm":["Peters, Charles Franklin",
+          "Peters, Charles Franklin"],
         "unitdate_normal_ssm":["1905/1905"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["20th century photography",
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["1905"],
         "unitdate_end_ssm":["1905"],
         "unitdate_ssm":["circa 1905"],
-        "_version_":1799740737070301184,
-        "timestamp":"2024-05-22T08:28:37.134Z"},
+        "_version_":1802072684414107648,
+        "timestamp":"2024-06-17T02:13:55.423Z"},
       {
         "id":"mss_431aspace_2516c9096adfe878297d119d9c6fcdb3",
         "ead_ssi":"mss_431",
@@ -88,8 +90,8 @@
           "Box: 4"],
         "heading_ssm":["Costume"],
         "unitdate_ssm":["undated"],
-        "_version_":1799740737123778560,
-        "timestamp":"2024-05-22T08:28:37.185Z"},
+        "_version_":1802072684481216512,
+        "timestamp":"2024-06-17T02:13:55.487Z"},
       {
         "id":"mss_431aspace_254ed587ce20b6309f80ca0208b44134",
         "ead_ssi":"mss_431",
@@ -104,14 +106,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 5, Item: MSS.431.cuid6192",
-          "Item: MSS.431.cuid6192"],
+        "location_ssm":["Box: 5, Item: MSS.431.cuid6192"],
         "heading_ssm":["Shield"],
         "unitdate_start_ssm":["1890"],
         "unitdate_end_ssm":["1905"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799740737087078400,
-        "timestamp":"2024-05-22T08:28:37.15Z"},
+        "_version_":1802072684437176320,
+        "timestamp":"2024-06-17T02:13:55.445Z"},
       {
         "id":"mss_431aspace_910170264261a7504d6d20d8da922358",
         "ead_ssi":"mss_431",
@@ -130,8 +131,8 @@
         "unitdate_start_ssm":["1900"],
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, Circa 1900-1910"],
-        "_version_":1799740737138458624,
-        "timestamp":"2024-05-22T08:28:37.199Z"},
+        "_version_":1802072684500090880,
+        "timestamp":"2024-06-17T02:13:55.505Z"},
       {
         "id":"mss_431aspace_fe969037cb4ce0d60e4280b6ca6945aa",
         "ead_ssi":"mss_431",
@@ -146,14 +147,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 3, Item: MSS.431.cuid6193",
-          "Item: MSS.431.cuid6193"],
+        "location_ssm":["Box: 3, Item: MSS.431.cuid6193"],
         "heading_ssm":["Sword"],
         "unitdate_start_ssm":["1890"],
         "unitdate_end_ssm":["1905"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799740737103855616,
-        "timestamp":"2024-05-22T08:28:37.166Z"}]
+        "_version_":1802072684453953536,
+        "timestamp":"2024-06-17T02:13:55.461Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -161,7 +161,8 @@
       "repository_sim":[
         "fales",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Peters, Charles Franklin",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",4,

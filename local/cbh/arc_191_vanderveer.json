@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Adrian Vanderveer Martense collection"],
         "unitid_ssm":["ARC.191"],
         "abstract_ssm":["The Adrian Vanderveer Martense collection spans the dates 1872 to 1889 and measures 2.83 linear feet. The collection contains lantern slides and photographs taken by Martense documenting Brooklyn during the last quarter of the 19th century, in particular Flatbush, Brooklyn and the Blizzard of 1888, as well as other images of Brooklyn. The collection also includes four scrapbooks and one notebook compiled by Martense between 1872 and 1889."],
+        "creator_ssm":["Martense, Adrian V. (Adrian Vanderveer)",
+          "Martense, Adrian V. (Adrian Vanderveer)"],
         "unitdate_normal_ssm":["1872/1889"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Interior views",
@@ -84,8 +86,8 @@
         "unitdate_end_ssm":["1889"],
         "unitdate_ssm":["Inclusive, 1872-1889"],
         "language_ssm":["English"],
-        "_version_":1799256301709033472,
-        "timestamp":"2024-05-17T00:08:43.572Z"},
+        "_version_":1801959342239383552,
+        "timestamp":"2024-06-15T20:12:23.902Z"},
       {
         "id":"arc_191_vanderveeraspace_ref10_78r",
         "ead_ssi":"arc_191_vanderveer",
@@ -101,8 +103,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 1: Lantern slides"],
         "unitdate_ssm":["circa 1880"],
-        "_version_":1799256301723713536,
-        "timestamp":"2024-05-17T00:08:43.586Z"},
+        "_version_":1801959342259306496,
+        "timestamp":"2024-06-15T20:12:23.921Z"},
       {
         "id":"arc_191_vanderveeraspace_ref12_n57",
         "ead_ssi":"arc_191_vanderveer",
@@ -121,8 +123,8 @@
         "unitdate_start_ssm":["1886"],
         "unitdate_end_ssm":["1888"],
         "unitdate_ssm":["Inclusive, 1886-1888"],
-        "_version_":1799256301738393600,
-        "timestamp":"2024-05-17T00:08:43.6Z"},
+        "_version_":1801959342275035136,
+        "timestamp":"2024-06-15T20:12:23.936Z"},
       {
         "id":"arc_191_vanderveeraspace_ref13_5u7",
         "ead_ssi":"arc_191_vanderveer",
@@ -141,8 +143,8 @@
         "unitdate_end_ssm":["1889"],
         "unitdate_ssm":["Inclusive, 1872-1889"],
         "language_ssm":["English"],
-        "_version_":1799256301750976512,
-        "timestamp":"2024-05-17T00:08:43.612Z"}]
+        "_version_":1801959342298103808,
+        "timestamp":"2024-06-15T20:12:23.958Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -150,7 +152,8 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Martense, Adrian V. (Adrian Vanderveer)",1],
       "date_range_sim":[
         "1801-1900",3,
         "undated & other",1],

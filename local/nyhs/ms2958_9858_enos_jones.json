@@ -47,6 +47,8 @@
         "unittitle_ssm":["Enos F. Jones honorable discharge certificates"],
         "unitid_ssm":["AHMC - Jones, Enos F."],
         "abstract_ssm":["Two honorable discharge certificates issued to Enos F. Jones of New York City, private in the New York State National Guard, 7th Regiment, both certificates signed by the commanding officer, Colonel Emmons Clark. One dated January 25, 1881, and issued pursuant to Special Orders Number 8; the second certificate dated October 8, 1883, and issued pursuant to Special Orders Number 63. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Enos F. Jones honorable discharge certificates"],
+        "creator_ssm":["New York (State). National Guard. Regiment, 7th",
+          "New York (State). National Guard. Regiment, 7th"],
         "corpname_ssm":["New-York Historical Society",
           "New York (State). National Guard. Regiment, 7th"],
         "collection_ssm":["Enos F. Jones honorable discharge certificates"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Enos F. Jones honorable discharge certificates"],
         "unitdate_ssm":["Inclusive, 1881, 1883"],
-        "_version_":1799323422912675840,
-        "timestamp":"2024-05-17T17:55:35.34Z"}]
+        "_version_":1802083849013821440,
+        "timestamp":"2024-06-17T05:11:22.815Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (State). National Guard. Regiment, 7th",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

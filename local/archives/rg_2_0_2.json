@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Rev. George Alexander Papers"],
         "unitid_ssm":["RG.2.0.2"],
         "abstract_ssm":["The Reverand George Alexander Papers consists of correspondence from 1889-1915 during Alexander's time serving the Council of New York University and as pastor of the University Place Presbyterian Church. The collection consists exclusively of correspondence received by Alexander, and approvimately one half of the letters are from Chancellor Henry M. MacCracken."],
+        "creator_ssm":["Alexander, George, 1843-1930",
+          "Alexander, George, 1843-1930"],
         "unitdate_normal_ssm":["1889/1915"],
         "corpname_ssm":["New York University Archives",
           "New York University. Trustees",
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1889"],
         "unitdate_end_ssm":["1915"],
         "unitdate_ssm":["Inclusive, 1889-1915"],
-        "_version_":1799255352830590976,
-        "timestamp":"2024-05-16T23:53:38.651Z"}]
+        "_version_":1801952839409336320,
+        "timestamp":"2024-06-15T18:29:02.32Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "archives",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Alexander, George, 1843-1930",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

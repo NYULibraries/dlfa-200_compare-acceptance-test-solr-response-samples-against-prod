@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Nicholas Covenhoven papers"],
         "unitid_ssm":["ARC.283"],
         "abstract_ssm":["Nicholas Covenhoven (circa 1744-1793) of New Utrecht was a Lieutenant-Colonel in the Kings County (N.Y.) militia in 1776. During the occupation of Brooklyn he worked with the British commissary and assisted American prisoners. After the war, Covenhoven served as the Chief Judge of the Kings County Court of Common Pleas. The collection includes an account book used by both Nicholas Covenhoven and his son, John N. Covenhoven. Nicholas recorded amounts advanced to American prisoners during the American Revolution and other loans and bonds he transacted (circa 1775-circa 1790). John N. kept account of his personal transactions, including fishing income (circa 1790-circa 1805). The collection also includes a small number of other papers, among them a petition to Sir William Howe for payment for horses and wagons seized by the British army (1777); copies of letters to and from Abraham Skinner, the Commissary-General of Prisoners, concerning prisoner compensation (1782); a pardon from Governor George Clinton (1786), and a receipt of payment for an enslaved African-American (1792)."],
+        "creator_ssm":["Covenhoven, Nicholas",
+          "Covenhoven, John N.",
+          "Covenhoven, Nicholas",
+          "Covenhoven, John N."],
         "unitdate_normal_ssm":["1765/1815"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Petitions",
@@ -78,8 +82,8 @@
         "unitdate_start_ssm":["1765"],
         "unitdate_end_ssm":["1815"],
         "unitdate_ssm":["Inclusive, circa 1775-circa 1805"],
-        "_version_":1799311392799457280,
-        "timestamp":"2024-05-17T14:44:22.53Z"}]
+        "_version_":1801959751437778944,
+        "timestamp":"2024-06-15T20:18:54.143Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +91,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Covenhoven, John N.",1,
+        "Covenhoven, Nicholas",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

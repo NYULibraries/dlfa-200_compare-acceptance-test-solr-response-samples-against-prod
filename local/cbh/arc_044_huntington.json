@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Edna Huntington papers and photographs"],
         "unitid_ssm":["ARC.044"],
         "abstract_ssm":["The Edna Huntington papers and photographs, dated 1905 to 1965, document Huntington's work as a librarian as well as her education, her hobbies, and travels during her career. Huntington's photographs and travel journals document vacations with her travel companion, Stella Kline."],
+        "creator_ssm":["Huntington, Edna",
+          "Kline, Stella O.",
+          "Huntington, Edna",
+          "Kline, Stella O."],
         "unitdate_normal_ssm":["1905/1965"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence",
@@ -76,8 +80,8 @@
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1905-1965"],
         "language_ssm":["English"],
-        "_version_":1799256215917690880,
-        "timestamp":"2024-05-17T00:07:21.755Z"},
+        "_version_":1801958778295287808,
+        "timestamp":"2024-06-15T20:03:26.082Z"},
       {
         "id":"arc_044_huntingtonaspace_ref7_1zw",
         "ead_ssi":"arc_044_huntington",
@@ -95,8 +99,8 @@
         "unitdate_start_ssm":["1926"],
         "unitdate_end_ssm":["1960"],
         "unitdate_ssm":["Inclusive, 1926-1960"],
-        "_version_":1799256215936565248,
-        "timestamp":"2024-05-17T00:07:21.773Z"},
+        "_version_":1801958778318356480,
+        "timestamp":"2024-06-15T20:03:26.105Z"},
       {
         "id":"arc_044_huntingtonaspace_ref8_ihs",
         "ead_ssi":"arc_044_huntington",
@@ -114,8 +118,8 @@
         "unitdate_start_ssm":["1887"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1887-1965"],
-        "_version_":1799256215951245312,
-        "timestamp":"2024-05-17T00:07:21.787Z"},
+        "_version_":1801958778338279424,
+        "timestamp":"2024-06-15T20:03:26.124Z"},
       {
         "id":"arc_044_huntingtonaspace_ref9_mrv",
         "ead_ssi":"arc_044_huntington",
@@ -143,8 +147,8 @@
         "unitdate_start_ssm":["1917"],
         "unitdate_end_ssm":["1941"],
         "unitdate_ssm":["Inclusive, 1917-1941"],
-        "_version_":1799256215968022528,
-        "timestamp":"2024-05-17T00:07:21.803Z"}]
+        "_version_":1801958778376028160,
+        "timestamp":"2024-06-15T20:03:26.16Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -152,7 +156,9 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Huntington, Edna",1,
+        "Kline, Stella O.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",4],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":17,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -56,8 +56,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Fort Totten photograph collection"],
         "unitdate_ssm":["Inclusive, 1940-1945"],
-        "_version_":1775223345106649088,
-        "timestamp":"2023-08-25T17:35:10.113Z"},
+        "_version_":1801061321593061376,
+        "timestamp":"2024-06-05T22:18:44.675Z"},
       {
         "id":"pr326_fort_tottenaspace_ref7_lpd",
         "ead_ssi":"pr326_fort_totten",
@@ -73,8 +73,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Photographs"],
         "unitdate_ssm":["ca. 1940-45"],
-        "_version_":1775223345166417920,
-        "timestamp":"2023-08-25T17:35:10.17Z"}]
+        "_version_":1801061321609838592,
+        "timestamp":"2024-06-05T22:18:44.692Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

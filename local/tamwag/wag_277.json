@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Retail Clerks International Association, Local 1115E, Retail Furniture Employees Union Records"],
         "unitid_ssm":["WAG.277"],
         "abstract_ssm":["The Retail Furniture Employees Union became a Local of the Retail Clerks International Association.The collection contains election materials, correspondence, fliers for protests, speeches,  and a program for dinner and dance put on by the local."],
+        "creator_ssm":["Retail Clerks International Association. Local 1115E (Retail Furniture Employees Union)",
+          "Retail Clerks International Association. Local 1115E (Retail Furniture Employees Union)"],
         "unitdate_normal_ssm":["1949/1962"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Retail Clerks International Association. Local 1115E (Retail Furniture Employees Union)"],
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1949"],
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1949-1962"],
-        "_version_":1799803942604898304,
-        "timestamp":"2024-05-23T01:13:14.629Z"}]
+        "_version_":1802196473918521344,
+        "timestamp":"2024-06-18T11:01:30.294Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -72,7 +74,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Retail Clerks International Association. Local 1115E (Retail Furniture Employees Union)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

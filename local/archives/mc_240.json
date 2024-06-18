@@ -47,6 +47,10 @@
         "unittitle_ssm":["Class of 1892 Scrapbook"],
         "unitid_ssm":["MC.240"],
         "abstract_ssm":["The Class of 1892 Scrapbook is a single bound volume containing photographs and Commencement ephemera of the University of the City of New York (now New York University) Class of 1892.  Contemporaneous photographs of university faculty members are also present.  The Class of 1892 attended the University of the City of New York during a period of transition in the university's history.  They were among the last to experience the undergraduate college at Washington Square, before the move to the University Heights campus and demolition of the old University Building in 1894."],
+        "creator_ssm":["Perry, Arthur C. (Arthur Cecil), 1873-1961",
+          "University of the City of New York. Class of 1892",
+          "University of the City of New York. Class of 1892",
+          "Perry, Arthur C. (Arthur Cecil), 1873-1961"],
         "unitdate_normal_ssm":["1892/1892"],
         "corpname_ssm":["New York University Archives",
           "University of the City of New York. Class of 1892",
@@ -73,8 +77,8 @@
         "unitdate_start_ssm":["1892"],
         "unitdate_end_ssm":["1892"],
         "unitdate_ssm":["1892"],
-        "_version_":1799247640762777600,
-        "timestamp":"2024-05-16T21:51:03.85Z"},
+        "_version_":1801949432387731456,
+        "timestamp":"2024-06-15T17:34:53.131Z"},
       {
         "id":"mc_240aspace_f383326a2d0e4ab2774da62838d5df0e",
         "ead_ssi":"mc_240",
@@ -93,8 +97,8 @@
         "unitdate_start_ssm":["1892"],
         "unitdate_end_ssm":["1892"],
         "unitdate_ssm":["1892"],
-        "_version_":1799247640783749120,
-        "timestamp":"2024-05-16T21:51:03.87Z"}]
+        "_version_":1801949432406605824,
+        "timestamp":"2024-06-15T17:34:53.149Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -102,7 +106,9 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Perry, Arthur C. (Arthur Cecil), 1873-1961",1,
+        "University of the City of New York. Class of 1892",1],
       "date_range_sim":[
         "1801-1900",2],
       "subject_sim":[],

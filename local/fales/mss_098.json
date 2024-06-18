@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["John Hall Papers"],
         "unitid_ssm":["MSS.098"],
         "abstract_ssm":["The John Hall Papers include a small collection of letters from the artist, David Wojnarowicz to John Hall, a high school friend of Wojnarowicz' with whom Hall remained close to up until Wojnarowicz' death in 1992."],
+        "creator_ssm":["Hall, John",
+          "Wojnarowicz, David",
+          "Hall, John",
+          "Wojnarowicz, David"],
         "unitdate_normal_ssm":["1977/1978"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Postcards.",
@@ -71,8 +75,8 @@
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1977-1978"],
         "language_ssm":["English"],
-        "_version_":1799726615038525440,
-        "timestamp":"2024-05-22T04:44:09.315Z"},
+        "_version_":1802052248067375104,
+        "timestamp":"2024-06-16T20:49:05.804Z"},
       {
         "id":"mss_098aspace_ref11",
         "ead_ssi":"mss_098",
@@ -85,11 +89,10 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["1 box with 1 folder"],
-        "_version_":1799726615052156928,
-        "timestamp":"2024-05-22T04:44:09.328Z"}]
+        "_version_":1802052248084152320,
+        "timestamp":"2024-06-16T20:49:05.82Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,7 +100,9 @@
       "repository_sim":[
         "fales",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hall, John",1,
+        "Wojnarowicz, David",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

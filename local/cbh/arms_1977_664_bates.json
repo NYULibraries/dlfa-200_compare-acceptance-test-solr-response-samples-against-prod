@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Seymour Bates letter"],
         "unitid_ssm":["1977.664"],
         "abstract_ssm":["A letter from Seymour Bates of Brooklyn to Charles Smith of Bedford Academy regarding his trip to a military camp, dated October 18, 1814."],
+        "creator_ssm":["Bates, Seymour",
+          "Bates, Seymour"],
         "unitdate_normal_ssm":["1814/1814"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1814"],
         "unitdate_ssm":["1814"],
         "language_ssm":["English"],
-        "_version_":1799256497840979968,
-        "timestamp":"2024-05-17T00:11:50.618Z"}]
+        "_version_":1801962178656337920,
+        "timestamp":"2024-06-15T20:57:28.92Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bates, Seymour",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

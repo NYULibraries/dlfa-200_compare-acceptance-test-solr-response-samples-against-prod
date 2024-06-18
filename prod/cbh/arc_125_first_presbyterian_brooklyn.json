@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["First Presbyterian Church of Brooklyn collection"],
         "unitid_ssm":["ARC.125"],
         "abstract_ssm":["The First Presbyterian Church of Brooklyn (commonly referred to as First Church) was founded in 1822, and was the first church to be built in Brooklyn Heights.  This collection spans the period 1822 to 1992 and contains materials documenting First Church's regular activities, services, membership, administration, and history.  Items include subscription books, administrative reports, histories, church manuals and yearbooks, membership rolls, directories, news publications, and various printed ephemera such as programs, pamphlets, brochures, and bulletins."],
+        "creator_ssm":["First Presbyterian Church (Brooklyn, New York, N.Y.)",
+          "First Presbyterian Church (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1822/1992"],
         "corpname_ssm":["Brooklyn Historical Society",
           "First Presbyterian Church (Brooklyn, New York, N.Y.)",
@@ -102,8 +104,8 @@
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1822-1992"],
         "language_ssm":["English"],
-        "_version_":1775221734858817536,
-        "timestamp":"2023-08-25T17:09:34.451Z"}]
+        "_version_":1800617764392534016,
+        "timestamp":"2024-06-01T00:48:35.565Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -111,7 +113,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "First Presbyterian Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

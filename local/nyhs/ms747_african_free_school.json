@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New-York African Free-School records"],
         "unitid_ssm":["MS 747"],
         "abstract_ssm":["This collection covers the latter portion of the existence of the African Free-Schools, founded by the New-York Manumission Society, to help prepare black children for lives as free men and women. The records end two years before oversight of the schools was transferred to the Public School Society. They relate to classroom observation, student performance, behavior and promotions, as well as examples of lessons and student work."],
+        "creator_ssm":["New-York African Free-School",
+          "New-York African Free-School"],
         "unitdate_normal_ssm":["1817/1832"],
         "corpname_ssm":["New-York Historical Society",
           "New-York African Free-School",
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1817"],
         "unitdate_end_ssm":["1832"],
         "unitdate_ssm":["Inclusive, 1817-1832"],
-        "_version_":1799323212588253184,
-        "timestamp":"2024-05-17T17:52:14.759Z"},
+        "_version_":1802087328476299264,
+        "timestamp":"2024-06-17T06:06:41.088Z"},
       {
         "id":"ms747_african_free_schoolaspace_64172da6e75bba404b32f64ceef62549",
         "ead_ssi":"ms747_african_free_school",
@@ -79,8 +81,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Volumes"],
-        "_version_":1799323212602933248,
-        "timestamp":"2024-05-17T17:52:14.773Z"},
+        "_version_":1802087328489930752,
+        "timestamp":"2024-06-17T06:06:41.102Z"},
       {
         "id":"ms747_african_free_schoolaspace_ref13_jgq",
         "ead_ssi":"ms747_african_free_school",
@@ -103,8 +105,8 @@
         "unitdate_end_ssm":["1832"],
         "unitdate_ssm":["Inclusive, 1817-1832"],
         "language_ssm":["English"],
-        "_version_":1799323212626001920,
-        "timestamp":"2024-05-17T17:52:14.794Z"},
+        "_version_":1802087328507756544,
+        "timestamp":"2024-06-17T06:06:41.119Z"},
       {
         "id":"ms747_african_free_schoolaspace_ref14_dld",
         "ead_ssi":"ms747_african_free_school",
@@ -127,8 +129,8 @@
         "unitdate_end_ssm":["1831"],
         "unitdate_ssm":["Inclusive, 1820-1831"],
         "language_ssm":["English"],
-        "_version_":1799323212640681984,
-        "timestamp":"2024-05-17T17:52:14.809Z"},
+        "_version_":1802087328533970944,
+        "timestamp":"2024-06-17T06:06:41.144Z"},
       {
         "id":"ms747_african_free_schoolaspace_ref15_cc4",
         "ead_ssi":"ms747_african_free_school",
@@ -151,8 +153,8 @@
         "unitdate_end_ssm":["1826"],
         "unitdate_ssm":["Inclusive, 1818-1826"],
         "language_ssm":["English"],
-        "_version_":1799323212658507776,
-        "timestamp":"2024-05-17T17:52:14.826Z"},
+        "_version_":1802087328552845312,
+        "timestamp":"2024-06-17T06:06:41.162Z"},
       {
         "id":"ms747_african_free_schoolaspace_ref16_1ju",
         "ead_ssi":"ms747_african_free_school",
@@ -175,8 +177,8 @@
         "unitdate_end_ssm":["1826"],
         "unitdate_ssm":["Inclusive, 1816-1826"],
         "language_ssm":["English"],
-        "_version_":1799323212677382144,
-        "timestamp":"2024-05-17T17:52:14.844Z"}]
+        "_version_":1802087328573816832,
+        "timestamp":"2024-06-17T06:06:41.182Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -184,7 +186,8 @@
       "repository_sim":[
         "nyhs",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New-York African Free-School",1],
       "date_range_sim":[
         "1801-1900",5,
         "undated & other",1],

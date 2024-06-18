@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":18,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jane Heil Collection of Richard Lipton Memorabilia"],
         "unitid_ssm":["MSS.318"],
         "abstract_ssm":["Richard Lipton (d. 1992), also known as Dick Lipton, was a actor and director in New York City. Lipton graduated with a BS from Drexel Institute of Technology and attended graduate school at Ohio University and the Actor's Workshop at the New School. He performed in and directed numerous plays at local downtown theaters including the Judson Poets Theater at Judson Memorial Church on Washington Square. This collection documents Lipton's career as an actor and director in the downtown theater scene in New York City during the late 1960s and early 1970s. Materials include one audiocassette, one audio reel, and one leather bound portfolio containing clippings, photographs, flyers, resumes, programs, sheet music, song lyrics, and a personal address book."],
+        "creator_ssm":["Heil, Jane",
+          "Heil, Jane"],
         "unitdate_normal_ssm":["1967/1973",
           "1967/1969"],
         "corpname_ssm":["Fales Library and Special Collections"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1973",
           "1969"],
         "unitdate_ssm":["Inclusive, 1967-1973 ; 1967-1969"],
-        "_version_":1799737154710011904,
-        "timestamp":"2024-05-22T07:31:40.728Z"},
+        "_version_":1802067831134617600,
+        "timestamp":"2024-06-17T00:56:46.975Z"},
       {
         "id":"mss_318aspace_2980d076022c12a3533c258e4a94eda1",
         "ead_ssi":"mss_318",
@@ -80,12 +82,11 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Fales 012, reel: 1",
-          "reel: 1"],
+        "location_ssm":["Box: Shared Fales 012, reel: 1"],
         "heading_ssm":["Audio reel - Bang Bang - sound effects"],
         "unitdate_ssm":["undated"],
-        "_version_":1799737154746712064,
-        "timestamp":"2024-05-22T07:31:40.763Z"},
+        "_version_":1802067831225843712,
+        "timestamp":"2024-06-17T00:56:47.062Z"},
       {
         "id":"mss_318aspace_54a9376dd2cc5cdde9363948f59f141a",
         "ead_ssi":"mss_318",
@@ -99,14 +100,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Fales 006, Cassette: 1",
-          "Cassette: 1"],
+        "location_ssm":["Box: Shared Fales 006, Cassette: 1"],
         "heading_ssm":["Audiocassette - Al Carmines' \"Promenade\" and \"The Faggot\" "],
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1969-1973"],
-        "_version_":1799737154729934848,
-        "timestamp":"2024-05-22T07:31:40.748Z"},
+        "_version_":1802067831204872192,
+        "timestamp":"2024-06-17T00:56:47.042Z"},
       {
         "id":"mss_318aspace_b10305465d579fedad2dd25910e7fadb",
         "ead_ssi":"mss_318",
@@ -120,14 +120,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-6",
-          "Folder: 1-6"],
+        "location_ssm":["Box: 1, Folder: 1-6"],
         "heading_ssm":["Portfolio"],
         "unitdate_start_ssm":["1967"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1967-1969, undated"],
-        "_version_":1799737154766635008,
-        "timestamp":"2024-05-22T07:31:40.783Z"}]
+        "_version_":1802067831256252416,
+        "timestamp":"2024-06-17T00:56:47.091Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -135,7 +134,8 @@
       "repository_sim":[
         "fales",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Heil, Jane",1],
       "date_range_sim":[
         "1901-2000",3,
         "undated & other",1],

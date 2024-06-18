@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Communications Workers of America, Local 1103 Records"],
         "unitid_ssm":["WAG.130"],
         "abstract_ssm":["Communications Workers of America, Local 1103 represents telecommunication workers in Westerchester and Putnam counties. The collection contains materials from the 1989 campaign and the archived website."],
+        "creator_ssm":["Communications Workers of America. Local 1103",
+          "Communications Workers of America. Local 1103"],
         "unitdate_normal_ssm":["1989/2009"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Communications Workers of America. Local 1103"],
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1989, 2009-ongoing"],
-        "_version_":1799802135766892544,
-        "timestamp":"2024-05-23T00:44:31.494Z"},
+        "_version_":1802195018115448832,
+        "timestamp":"2024-06-18T10:38:21.932Z"},
       {
         "id":"wag_130aspace_ref10",
         "ead_ssi":"wag_130",
@@ -87,8 +89,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1989"],
-        "_version_":1799802135924178944,
-        "timestamp":"2024-05-23T00:44:31.644Z"},
+        "_version_":1802195018194092032,
+        "timestamp":"2024-06-18T10:38:22.007Z"},
       {
         "id":"wag_130aspace_ref11",
         "ead_ssi":"wag_130",
@@ -110,8 +112,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1989"],
-        "_version_":1799802135809884160,
-        "timestamp":"2024-05-23T00:44:31.535Z"},
+        "_version_":1802195018137468928,
+        "timestamp":"2024-06-18T10:38:21.953Z"},
       {
         "id":"wag_130aspace_ref4",
         "ead_ssi":"wag_130",
@@ -128,8 +130,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["March 2009-ongoing"],
-        "_version_":1799802135944101888,
-        "timestamp":"2024-05-23T00:44:31.663Z"},
+        "_version_":1802195018202480640,
+        "timestamp":"2024-06-18T10:38:22.015Z"},
       {
         "id":"wag_130aspace_ref5",
         "ead_ssi":"wag_130",
@@ -147,8 +149,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1989"],
-        "_version_":1799802135787864064,
-        "timestamp":"2024-05-23T00:44:31.514Z"},
+        "_version_":1802195018125934592,
+        "timestamp":"2024-06-18T10:38:21.942Z"},
       {
         "id":"wag_130aspace_ref6",
         "ead_ssi":"wag_130",
@@ -170,8 +172,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1989"],
-        "_version_":1799802135836098560,
-        "timestamp":"2024-05-23T00:44:31.56Z"},
+        "_version_":1802195018152148992,
+        "timestamp":"2024-06-18T10:38:21.967Z"},
       {
         "id":"wag_130aspace_ref7",
         "ead_ssi":"wag_130",
@@ -193,8 +195,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1989"],
-        "_version_":1799802135856021504,
-        "timestamp":"2024-05-23T00:44:31.579Z"},
+        "_version_":1802195018162634752,
+        "timestamp":"2024-06-18T10:38:21.977Z"},
       {
         "id":"wag_130aspace_ref8",
         "ead_ssi":"wag_130",
@@ -216,8 +218,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1989"],
-        "_version_":1799802135875944448,
-        "timestamp":"2024-05-23T00:44:31.598Z"},
+        "_version_":1802195018173120512,
+        "timestamp":"2024-06-18T10:38:21.987Z"},
       {
         "id":"wag_130aspace_ref9",
         "ead_ssi":"wag_130",
@@ -239,8 +241,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1989"],
-        "_version_":1799802135897964544,
-        "timestamp":"2024-05-23T00:44:31.619Z"}]
+        "_version_":1802195018183606272,
+        "timestamp":"2024-06-18T10:38:21.997Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -249,7 +251,8 @@
         "tamwag",9],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Communications Workers of America. Local 1103",1],
       "date_range_sim":[
         "1901-2000",8,
         "2001-2100",1,

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Shirley Ruth Foote scrapbook"],
         "unitid_ssm":["2016.028"],
         "abstract_ssm":["The collection consists of one scrapbook created by Shirley Ruth Foote during the years 1933 to 1935 that contains news clippings and various items of ephemera related to her early life in the Brooklyn Heights neighborhood of Brooklyn, New York and Bellport, New York."],
+        "creator_ssm":["Foote, Shirley Ruth",
+          "Foote, Shirley Ruth"],
         "unitdate_normal_ssm":["1933/1938"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Packer Collegiate Institute",
@@ -83,8 +85,8 @@
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, 1933-1938"],
         "language_ssm":["English"],
-        "_version_":1775221929440968704,
-        "timestamp":"2023-08-25T17:12:40.029Z"}]
+        "_version_":1800592602541588480,
+        "timestamp":"2024-05-31T18:08:39.355Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +94,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Foote, Shirley Ruth",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

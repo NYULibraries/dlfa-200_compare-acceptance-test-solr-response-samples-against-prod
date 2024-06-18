@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":16,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Society for the Prevention of Cruelty to Children records"],
         "unitid_ssm":["ARC.126"],
         "abstract_ssm":["The Brooklyn Society for the Prevention of Cruelty to Children was granted a charter by the New York State Legislature in 1880 and began operations in January of 1881. In 1892, the society moved to Schermerhorn Street in the Boerum Hill neighborhood of Brooklyn, establishing a new head office and children's shelter. Over decades of operation, the shelter expanded rapidly and was able to accomodate dozens of children simultaneously. Throughout the early 20th century, the shelter was also used to house delinquent children from Manhattan and Brooklyn. The society closed in 2007. This collection contains annual reports and minutes of the Board of Directors of the Brooklyn Society for the Prevention of Cruelty to Children, dated 1881 to 1999 and measuring 5.4 linear feet.The records also include photographs."],
+        "creator_ssm":["Brooklyn Society for the Prevention of Cruelty to Children",
+          "Brooklyn Society for the Prevention of Cruelty to Children"],
         "unitdate_normal_ssm":["1881/1999"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Society for the Prevention of Cruelty to Children",
@@ -79,8 +81,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1881-1999"],
         "language_ssm":["English"],
-        "_version_":1799311571097223168,
-        "timestamp":"2024-05-17T14:47:12.568Z"}]
+        "_version_":1801959108672225280,
+        "timestamp":"2024-06-15T20:08:41.155Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Society for the Prevention of Cruelty to Children",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

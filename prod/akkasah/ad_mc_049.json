@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["\"The Gift of the Centre for Iranian Democratic Youth to Youth Unity of All Burma\" - demonstrations during the Iran Oil Crisis (Abadan Crisis), 1951."],
         "unitid_ssm":["AD.MC.049"],
         "abstract_ssm":["Photographs of the 1951 protests in Tehran around the nationalisation of the Anglo-Iranian Oil Co (AIOC) during the Abadan Crisis. 12 photos of rural workers. Captions in French. Hand-painted album covers, calligraphic Farsi writing inside covers. Photos depict protests and gatherings in April, May and June of 1951 at a time when the Iranian government was nationalising the Anglo-Iranian Oil Company. The newly elected Prime Minister Mosaddeq pushed through the nationalisation with huge local support. \n\nThe album was sent to a student organisation in Myanmar and the final image is of two young buddhist boys."],
+        "creator_ssm":["The Centre for Iranian Democratic Youth",
+          "The Centre for Iranian Democratic Youth"],
         "unitdate_normal_ssm":["1951-04/1951-05"],
         "corpname_ssm":["Akkasah: Photography Archive (NYU Abu Dhabi)",
           "The Centre for Iranian Democratic Youth"],
@@ -72,8 +74,8 @@
         "heading_ssm":["\"The Gift of the Centre for Iranian Democratic Youth to Youth Unity of All Burma\" - demonstrations during the Iran Oil Crisis (Abadan Crisis), 1951."],
         "unitdate_ssm":["Inclusive, 1951"],
         "language_ssm":["French"],
-        "_version_":1775213516710477824,
-        "timestamp":"2023-08-25T14:58:57.024Z"},
+        "_version_":1800514255222472704,
+        "timestamp":"2024-05-30T21:23:21.528Z"},
       {
         "id":"ad_mc_049aspace_0d6f994c6d8dffc797ae53f6f7165223",
         "ead_ssi":"ad_mc_049",
@@ -118,8 +120,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions:  Left: The youth and students' meeting for Peace. Right: Students and high-schoolers of Tehran protest against the government that killed the students of the Professional School of Abadan."],
         "unitdate_ssm":["1951"],
-        "_version_":1775213517136199681,
-        "timestamp":"2023-08-25T14:58:57.43Z"},
+        "_version_":1800514255401779200,
+        "timestamp":"2024-05-30T21:23:21.7Z"},
       {
         "id":"ad_mc_049aspace_0faa96f19ed94392eca3c62c803470e7",
         "ead_ssi":"ad_mc_049",
@@ -163,8 +165,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions:  Left: Peace demonstration by the people of Tehran, the ranks of women.  Right: Another view of the great meeting for Peace."],
         "unitdate_ssm":["1951"],
-        "_version_":1775213517427703809,
-        "timestamp":"2023-08-25T14:58:57.708Z"},
+        "_version_":1800514255544385536,
+        "timestamp":"2024-05-30T21:23:21.835Z"},
       {
         "id":"ad_mc_049aspace_1ce39abdb74d4f4e095a27fe78b2134d",
         "ead_ssi":"ad_mc_049",
@@ -203,8 +205,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions:  Left: Peace demonstration by the youth. Right: Another view of the same demonstration."],
         "unitdate_ssm":["1951"],
-        "_version_":1775213517083770880,
-        "timestamp":"2023-08-25T14:58:57.379Z"},
+        "_version_":1800514255376613376,
+        "timestamp":"2024-05-30T21:23:21.676Z"},
       {
         "id":"ad_mc_049aspace_26251c0470f34f32697aa0b5bc3c8517",
         "ead_ssi":"ad_mc_049",
@@ -234,8 +236,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Two Buddhist boys."],
         "unitdate_ssm":["Circa 1951"],
-        "_version_":1775213517910048768,
-        "timestamp":"2023-08-25T14:58:58.168Z"},
+        "_version_":1800514255767732224,
+        "timestamp":"2024-05-30T21:23:22.049Z"},
       {
         "id":"ad_mc_049aspace_3567576369af325e7cfa8a76c85a6f9a",
         "ead_ssi":"ad_mc_049",
@@ -277,8 +279,8 @@
           "Photographic Prints"],
         "heading_ssm":["Translated captions: Left: University and High School students protest to show their support of the petroleum workers' strike.  Right: The youth votes for Peace.\""],
         "unitdate_ssm":["21 April 1951"],
-        "_version_":1775213516858327040,
-        "timestamp":"2023-08-25T14:58:57.165Z"},
+        "_version_":1800514255275950080,
+        "timestamp":"2024-05-30T21:23:21.58Z"},
       {
         "id":"ad_mc_049aspace_403ffa724ef58332e670ddecf6dd132c",
         "ead_ssi":"ad_mc_049",
@@ -321,8 +323,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions: Left: Young women take part in the meetings and demonstrations."],
         "unitdate_ssm":["1951"],
-        "_version_":1775213517185482752,
-        "timestamp":"2023-08-25T14:58:57.477Z"},
+        "_version_":1800514255423799296,
+        "timestamp":"2024-05-30T21:23:21.721Z"},
       {
         "id":"ad_mc_049aspace_40b3c7d454e23c3921c0e50417a1ccc1",
         "ead_ssi":"ad_mc_049",
@@ -366,8 +368,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions:  Left: The police guards the entrance of the Anouchiravan-Dadgar High School to keep young high-schoolers to join their comrades. Right: The youth votes for Peace."],
         "unitdate_ssm":["21 April 1951"],
-        "_version_":1775213516946407424,
-        "timestamp":"2023-08-25T14:58:57.249Z"},
+        "_version_":1800514255316844544,
+        "timestamp":"2024-05-30T21:23:21.619Z"},
       {
         "id":"ad_mc_049aspace_4a088c2347da2cb58194276065be42dc",
         "ead_ssi":"ad_mc_049",
@@ -398,8 +400,8 @@
         "place_ssm":["Iran"],
         "heading_ssm":["Translated captions: Left: The method for threshing in Iran. Right: Plowing of a rice field."],
         "unitdate_ssm":["1951"],
-        "_version_":1775213517685653504,
-        "timestamp":"2023-08-25T14:58:57.954Z"},
+        "_version_":1800514255673360384,
+        "timestamp":"2024-05-30T21:23:21.959Z"},
       {
         "id":"ad_mc_049aspace_4b4d8dc96958a395185a083db7eb14a6",
         "ead_ssi":"ad_mc_049",
@@ -421,8 +423,8 @@
         "place_ssm":["Iran"],
         "heading_ssm":["Back cover of the album \"The Gift of the Centre for Iranian Democratic Youth to Youth Unity of All Burma\" - demonstrations during the Iran Oil Crisis (Abadan Crisis), 1951."],
         "unitdate_ssm":["1951"],
-        "_version_":1775213518022246400,
-        "timestamp":"2023-08-25T14:58:58.275Z"},
+        "_version_":1800514255801286656,
+        "timestamp":"2024-05-30T21:23:22.081Z"},
       {
         "id":"ad_mc_049aspace_5086605265b7101d69e3f6fc1c5e97f2",
         "ead_ssi":"ad_mc_049",
@@ -467,8 +469,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions: Left and right: Children also take part in the Peace demonstration."],
         "unitdate_ssm":["11 May 1951"],
-        "_version_":1775213517029244928,
-        "timestamp":"2023-08-25T14:58:57.328Z"},
+        "_version_":1800514255356690432,
+        "timestamp":"2024-05-30T21:23:21.657Z"},
       {
         "id":"ad_mc_049aspace_615fb2fbe7c1b49e1efe97f786ffbafc",
         "ead_ssi":"ad_mc_049",
@@ -502,8 +504,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Left: Shiraz, The Tomb of Saadi (Saadieh). Right: Shiraz, The Tomb of Hafez (Hāfezieh)."],
         "unitdate_ssm":["1951"],
-        "_version_":1775213517590233088,
-        "timestamp":"2023-08-25T14:58:57.863Z"},
+        "_version_":1800514255630368768,
+        "timestamp":"2024-05-30T21:23:21.917Z"},
       {
         "id":"ad_mc_049aspace_74fc6fe0dbd9ae125d38d6c69389b1d2",
         "ead_ssi":"ad_mc_049",
@@ -544,8 +546,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions:  Left: Women's peace demonstration. Right: Participants to the meeting that took place on the 27th of May 1951 vote for the resolution."],
         "unitdate_ssm":["27 May 1951"],
-        "_version_":1775213517383663616,
-        "timestamp":"2023-08-25T14:58:57.665Z"},
+        "_version_":1800514255517122560,
+        "timestamp":"2024-05-30T21:23:21.81Z"},
       {
         "id":"ad_mc_049aspace_7e15f623bbba4082a3196f5468d04e15",
         "ead_ssi":"ad_mc_049",
@@ -577,8 +579,8 @@
         "place_ssm":["Iran"],
         "heading_ssm":["Translated captions: Left: Ferocious exploitation pushes Iranian farmers to beg.  Right: An Iranian farmer."],
         "unitdate_ssm":["1951"],
-        "_version_":1775213517851328512,
-        "timestamp":"2023-08-25T14:58:58.112Z"},
+        "_version_":1800514255749906432,
+        "timestamp":"2024-05-30T21:23:22.031Z"},
       {
         "id":"ad_mc_049aspace_8f3306a06ee89bd5cbb858abdafadee0",
         "ead_ssi":"ad_mc_049",
@@ -613,8 +615,8 @@
         "place_ssm":["Iran"],
         "heading_ssm":["Translated captions:  Left and right: The people sign the World Peace Council's appeal with enthusiasm."],
         "unitdate_ssm":["1951"],
-        "_version_":1775213517793656832,
-        "timestamp":"2023-08-25T14:58:58.057Z"},
+        "_version_":1800514255728934912,
+        "timestamp":"2024-05-30T21:23:22.012Z"},
       {
         "id":"ad_mc_049aspace_a33feb27e5e91104cb90d65ccf0b979f",
         "ead_ssi":"ad_mc_049",
@@ -661,8 +663,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions:  Left: The people of Tehran meet to protest against the Anglo-Iranian Oil Company (in front of the National Consultative Assembly  (Majlis) with the Shahid Motahhari Mosque is the background).  Right: The people of Tabriz protest against the Anglo-Iranian Oil Company."],
         "unitdate_ssm":["27 May 1951"],
-        "_version_":1775213517483278336,
-        "timestamp":"2023-08-25T14:58:57.76Z"},
+        "_version_":1800514255574794240,
+        "timestamp":"2024-05-30T21:23:21.864Z"},
       {
         "id":"ad_mc_049aspace_b2b1f8d7dd4fdcd0854067fc4c512221",
         "ead_ssi":"ad_mc_049",
@@ -696,8 +698,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions:  Left: An iranian farmer.   Right: A child (the child of the People experiences poverty from an early age)."],
         "unitdate_ssm":["1951"],
-        "_version_":1775213517638467584,
-        "timestamp":"2023-08-25T14:58:57.909Z"},
+        "_version_":1800514255653437440,
+        "timestamp":"2024-05-30T21:23:21.94Z"},
       {
         "id":"ad_mc_049aspace_bb326ca0d6ef8a8a10232c2ff085a945",
         "ead_ssi":"ad_mc_049",
@@ -719,8 +721,8 @@
         "place_ssm":["Iran"],
         "heading_ssm":["Inside cover of the album \"The Gift of the Centre for Iranian Democratic Youth to Youth Unity of All Burma\" - demonstrations during the Iran Oil Crisis (Abadan Crisis), 1951."],
         "unitdate_ssm":["1951"],
-        "_version_":1775213516795412480,
-        "timestamp":"2023-08-25T14:58:57.104Z"},
+        "_version_":1800514255256027136,
+        "timestamp":"2024-05-30T21:23:21.561Z"},
       {
         "id":"ad_mc_049aspace_bcb4dfd002750bbffa55f60ae3c5526d",
         "ead_ssi":"ad_mc_049",
@@ -757,8 +759,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions: Left and right: A view of the Peace demonstration."],
         "unitdate_ssm":["11 May 1951"],
-        "_version_":1775213516988350464,
-        "timestamp":"2023-08-25T14:58:57.289Z"},
+        "_version_":1800514255335718912,
+        "timestamp":"2024-05-30T21:23:21.637Z"},
       {
         "id":"ad_mc_049aspace_bd9e4922923438147c9bc9d1f25f5b23",
         "ead_ssi":"ad_mc_049",
@@ -780,8 +782,8 @@
         "place_ssm":["Iran"],
         "heading_ssm":["Back inside cover of the album \"The Gift of the Centre for Iranian Democratic Youth to Youth Unity of All Burma\" - demonstrations during the Iran Oil Crisis (Abadan Crisis), 1951, with handwritten Farsi text: \"Young people, unite. March on for permanent peace. Long live the friendship between Burmese and Iranian youths.\"."],
         "unitdate_ssm":["1951"],
-        "_version_":1775213517982400513,
-        "timestamp":"2023-08-25T14:58:58.237Z"},
+        "_version_":1800514255782412288,
+        "timestamp":"2024-05-30T21:23:22.063Z"},
       {
         "id":"ad_mc_049aspace_bf5b98b13cd4ee55c51a609a878b0a1e",
         "ead_ssi":"ad_mc_049",
@@ -803,8 +805,8 @@
         "place_ssm":["Iran"],
         "heading_ssm":["Front cover of the album \"The Gift of the Centre for Iranian Democratic Youth to Youth Unity of All Burma\" - demonstrations during the Iran Oil Crisis (Abadan Crisis), 1951."],
         "unitdate_ssm":["1951"],
-        "_version_":1775213516756615168,
-        "timestamp":"2023-08-25T14:58:57.068Z"},
+        "_version_":1800514255241347072,
+        "timestamp":"2024-05-30T21:23:21.547Z"},
       {
         "id":"ad_mc_049aspace_c7fcb395df2134c4e4861f3459d8f0cd",
         "ead_ssi":"ad_mc_049",
@@ -844,8 +846,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions:  Left: University and high school students' protest. Right: Students and high-schoolers from Tehran protest against the government that killed the students of the Professional School of Abadan.\""],
         "unitdate_ssm":["21 April 1951"],
-        "_version_":1775213516902367232,
-        "timestamp":"2023-08-25T14:58:57.207Z"},
+        "_version_":1800514255295873024,
+        "timestamp":"2024-05-30T21:23:21.599Z"},
       {
         "id":"ad_mc_049aspace_d53b051b72d9813e62c6f9e0d7c8efa3",
         "ead_ssi":"ad_mc_049",
@@ -888,8 +890,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions:  Left: Children's demonstration on the 1st of June, 1951, International Children's Day.  Right: Demonstration by children."],
         "unitdate_ssm":["1 June 1951"],
-        "_version_":1775213517540950016,
-        "timestamp":"2023-08-25T14:58:57.815Z"},
+        "_version_":1800514255606251520,
+        "timestamp":"2024-05-30T21:23:21.894Z"},
       {
         "id":"ad_mc_049aspace_dbaf8a85be96d2d6301aeb6db7a779dd",
         "ead_ssi":"ad_mc_049",
@@ -927,8 +929,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions:  Left: The people of Tehran protest against the Anglo-Iranian Oil Company. Right: Another view of the meeting."],
         "unitdate_ssm":["27 May 1951"],
-        "_version_":1775213517281951744,
-        "timestamp":"2023-08-25T14:58:57.569Z"},
+        "_version_":1800514255467839488,
+        "timestamp":"2024-05-30T21:23:21.763Z"},
       {
         "id":"ad_mc_049aspace_e1ab285576ef6296eb2bd96b2c57d2cc",
         "ead_ssi":"ad_mc_049",
@@ -959,8 +961,8 @@
         "place_ssm":["Iran"],
         "heading_ssm":["Translated captions: Left: This is how farmers from Isfahan till the soil.  Right: This is how children work in factories. "],
         "unitdate_ssm":["1951"],
-        "_version_":1775213517737033729,
-        "timestamp":"2023-08-25T14:58:58.003Z"},
+        "_version_":1800514255703769088,
+        "timestamp":"2024-05-30T21:23:21.988Z"},
       {
         "id":"ad_mc_049aspace_e7ce04a9f91eef3bce2871a259053410",
         "ead_ssi":"ad_mc_049",
@@ -998,8 +1000,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions:  Left: The people of Tehran protest against the Anglo-Iranian Oil Company. Right: The Tehran women's rally against the Anglo-Iranian Oil Company."],
         "unitdate_ssm":["27 May 1951"],
-        "_version_":1775213517335429120,
-        "timestamp":"2023-08-25T14:58:57.62Z"},
+        "_version_":1800514255490908160,
+        "timestamp":"2024-05-30T21:23:21.785Z"},
       {
         "id":"ad_mc_049aspace_fd0c59e650010a97a83b50f99bae5fcb",
         "ead_ssi":"ad_mc_049",
@@ -1044,8 +1046,8 @@
           "Gelatin Silver Prints"],
         "heading_ssm":["Translated captions: Left: The people of Tehran protest against the Anglo-Iranian Oil Company (the 27th of May, 1951) Right:(not in album) The police protect the British embassy on the day of the great protest against imperialism by the people (21 May 1951)."],
         "unitdate_ssm":["27 May 1951"],
-        "_version_":1775213517235814400,
-        "timestamp":"2023-08-25T14:58:57.525Z"}]
+        "_version_":1800514255446867968,
+        "timestamp":"2024-05-30T21:23:21.743Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -1054,7 +1056,8 @@
         "akkasah",27],
       "dao_sim":[
         "Translation missing: en.ead_indexer.fields.dao",27],
-      "creator_sim":[],
+      "creator_sim":[
+        "The Centre for Iranian Democratic Youth",1],
       "date_range_sim":[
         "undated & other",27],
       "subject_sim":[

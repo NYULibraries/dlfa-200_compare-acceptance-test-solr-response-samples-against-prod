@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lafayette Social of Brooklyn records"],
         "unitid_ssm":["1987.004"],
         "abstract_ssm":["The Lafayette Social of Brooklyn, N.Y. was a social club founded in 1878. The collection contains a record book, constitution and bylaws, list of members, minutes, treasurer's reports, resignation letters, and correspondence."],
+        "creator_ssm":["Lafayette Social",
+          "Lafayette Social"],
         "unitdate_normal_ssm":["1878/1885"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Lafayette Social",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1885"],
         "unitdate_ssm":["Inclusive, 1878-1885"],
         "language_ssm":["English"],
-        "_version_":1799312232432009216,
-        "timestamp":"2024-05-17T14:57:43.266Z"}]
+        "_version_":1801963377355915264,
+        "timestamp":"2024-06-15T21:16:32.088Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lafayette Social",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

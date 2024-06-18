@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Otto Dreschmeyer Brooklyn slides"],
         "unitid_ssm":["V1988.012"],
         "abstract_ssm":["A collection of color slides taken by Otto Dreschmeyer in Brooklyn, likely using a Hasselblad camera. Slides dated 1965 document the annual Brooklyn Memorial Day parade."],
+        "creator_ssm":["Dreschmeyer, Otto",
+          "Dreschmeyer, Otto"],
         "unitdate_normal_ssm":["1965/1968"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Botanic Garden",
@@ -85,8 +87,8 @@
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1965-1968"],
         "language_ssm":["English"],
-        "_version_":1799311502668201984,
-        "timestamp":"2024-05-17T14:46:07.308Z"}]
+        "_version_":1802045219848323072,
+        "timestamp":"2024-06-16T18:57:23.172Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +96,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dreschmeyer, Otto",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

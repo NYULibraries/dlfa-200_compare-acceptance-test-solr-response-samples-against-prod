@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["David C. Haas photographs"],
         "unitid_ssm":["2009.015"],
         "abstract_ssm":["The collection consists of black and white photographic prints taken by David C. Haas dating from circa 1993 to circa 2001. The photographs depict public areas in Brooklyn and Manhattan. There are also a considerable amount of photographs of the World Trade Center taken prior to September 11, 2001."],
+        "creator_ssm":["Haas, David C.",
+          "Haas, David C."],
         "unitdate_normal_ssm":["1988/2006"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "function_ssm":["Cellphones"],
@@ -87,8 +89,8 @@
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, circa 1993 to circa 2001"],
         "language_ssm":["English"],
-        "_version_":1799312399367405568,
-        "timestamp":"2024-05-17T15:00:22.467Z"}]
+        "_version_":1801958053764923392,
+        "timestamp":"2024-06-15T19:51:55.117Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +98,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Haas, David C.",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

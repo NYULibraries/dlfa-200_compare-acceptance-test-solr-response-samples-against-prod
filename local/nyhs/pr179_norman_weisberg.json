@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Norman Weisberg photographs"],
         "unitid_ssm":["PR 179"],
         "abstract_ssm":["24 panoramic photographs dating from the 1980s, all but one in color, taken by New York photographer Norman Weisberg (born circa 1930). The photographs include sweeping views from the Empire State Building and the \"Top of the Rock\" observation deck of Rockefeller Center, and panoramas focused on particular sites including Shea Stadium, Fulton Fish Market, Ellis Island, the World Trade Center, and others."],
+        "creator_ssm":["Weisberg, Norman, approximately 1930-",
+          "Weisberg, Norman, approximately 1930-"],
         "corpname_ssm":["New-York Historical Society",
           "Ellis Island Immigration Station (N.Y. and N.J.)",
           "Empire State Building (New York, N.Y.)",
@@ -66,8 +68,8 @@
           "Panoramas (visual works)"],
         "heading_ssm":["Norman Weisberg photographs"],
         "unitdate_ssm":["Inclusive, 1980s"],
-        "_version_":1799324344739954688,
-        "timestamp":"2024-05-17T18:10:14.462Z"},
+        "_version_":1802093427965296640,
+        "timestamp":"2024-06-17T07:43:38.015Z"},
       {
         "id":"pr179_norman_weisbergaspace_00953e97104a7b033432a43b87b8665e",
         "ead_ssi":"pr179_norman_weisberg",
@@ -83,8 +85,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      Ellis Island\n    "],
         "unitdate_ssm":["1983"],
-        "_version_":1799324344768266240,
-        "timestamp":"2024-05-17T18:10:14.49Z"},
+        "_version_":1802093427995705344,
+        "timestamp":"2024-06-17T07:43:38.044Z"},
       {
         "id":"pr179_norman_weisbergaspace_0318a515d40e3fba105024e276cf4f6b",
         "ead_ssi":"pr179_norman_weisberg",
@@ -100,8 +102,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      Fulton Fish Market\n    "],
         "unitdate_ssm":["1986"],
-        "_version_":1799324345022021632,
-        "timestamp":"2024-05-17T18:10:14.732Z"},
+        "_version_":1802093428278820864,
+        "timestamp":"2024-06-17T07:43:38.314Z"},
       {
         "id":"pr179_norman_weisbergaspace_061fc61cc877135a45d870871f5f1d1c",
         "ead_ssi":"pr179_norman_weisberg",
@@ -117,8 +119,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      #14.Top of the Rock\n    "],
         "unitdate_ssm":["1983 October"],
-        "_version_":1799324344826986496,
-        "timestamp":"2024-05-17T18:10:14.546Z"},
+        "_version_":1802093428056522752,
+        "timestamp":"2024-06-17T07:43:38.101Z"},
       {
         "id":"pr179_norman_weisbergaspace_07e3c14b90360711e52016a196e0ef71",
         "ead_ssi":"pr179_norman_weisberg",
@@ -134,8 +136,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["View from Empire State Building (northerly)"],
         "unitdate_ssm":["1983"],
-        "_version_":1799324344799723520,
-        "timestamp":"2024-05-17T18:10:14.52Z"},
+        "_version_":1802093428028211200,
+        "timestamp":"2024-06-17T07:43:38.075Z"},
       {
         "id":"pr179_norman_weisbergaspace_086219e83eacdfe7b5801b3e6dd21ff4",
         "ead_ssi":"pr179_norman_weisberg",
@@ -151,8 +153,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      #4. New York City\n    "],
         "unitdate_ssm":["1985"],
-        "_version_":1799324344971689984,
-        "timestamp":"2024-05-17T18:10:14.684Z"},
+        "_version_":1802093428224294912,
+        "timestamp":"2024-06-17T07:43:38.262Z"},
       {
         "id":"pr179_norman_weisbergaspace_124c5c39192b2c78558587c355c9d3b2",
         "ead_ssi":"pr179_norman_weisberg",
@@ -168,8 +170,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      New Citizens Being Sworn in at Ellis Island\n    "],
         "unitdate_ssm":["1983"],
-        "_version_":1799324344871026688,
-        "timestamp":"2024-05-17T18:10:14.588Z"},
+        "_version_":1802093428103708672,
+        "timestamp":"2024-06-17T07:43:38.147Z"},
       {
         "id":"pr179_norman_weisbergaspace_13a243fb205257fbe90be634af70609d",
         "ead_ssi":"pr179_norman_weisberg",
@@ -185,8 +187,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Art for Art's Sake [Metropolitan Museum of Art gallery]"],
         "unitdate_ssm":["1984"],
-        "_version_":1799324344946524160,
-        "timestamp":"2024-05-17T18:10:14.66Z"},
+        "_version_":1802093428194934784,
+        "timestamp":"2024-06-17T07:43:38.234Z"},
       {
         "id":"pr179_norman_weisbergaspace_2cf813f48b1c08597d17262eb36418fb",
         "ead_ssi":"pr179_norman_weisberg",
@@ -202,8 +204,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      [On the deck of the] USS Enterprise\n    "],
         "unitdate_ssm":["1983"],
-        "_version_":1799324344839569408,
-        "timestamp":"2024-05-17T18:10:14.558Z"},
+        "_version_":1802093428070154240,
+        "timestamp":"2024-06-17T07:43:38.115Z"},
       {
         "id":"pr179_norman_weisbergaspace_5ec0e6f0dcb46a4cd910e098b23e7071",
         "ead_ssi":"pr179_norman_weisberg",
@@ -219,8 +221,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      Water Towers\n    "],
         "unitdate_ssm":["1983"],
-        "_version_":1799324344857395200,
-        "timestamp":"2024-05-17T18:10:14.575Z"},
+        "_version_":1802093428085882880,
+        "timestamp":"2024-06-17T07:43:38.13Z"},
       {
         "id":"pr179_norman_weisbergaspace_671e9a0b5694891fe7d3a8c73667fb57",
         "ead_ssi":"pr179_norman_weisberg",
@@ -236,8 +238,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      World Trade Center\n    "],
         "unitdate_ssm":["1986"],
-        "_version_":1799324345034604544,
-        "timestamp":"2024-05-17T18:10:14.744Z"},
+        "_version_":1802093428292452352,
+        "timestamp":"2024-06-17T07:43:38.326Z"},
       {
         "id":"pr179_norman_weisbergaspace_69461a08819b7bc3acffc5e66a967d08",
         "ead_ssi":"pr179_norman_weisberg",
@@ -253,8 +255,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      100th Anniversary of Brooklyn Bridge\n    "],
         "unitdate_ssm":["1983"],
-        "_version_":1799324344896192512,
-        "timestamp":"2024-05-17T18:10:14.612Z"},
+        "_version_":1802093428133068800,
+        "timestamp":"2024-06-17T07:43:38.175Z"},
       {
         "id":"pr179_norman_weisbergaspace_73ee5e31d1aa9349d61758bf95906078",
         "ead_ssi":"pr179_norman_weisberg",
@@ -270,8 +272,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["View up exterior of lower Manhattan building"],
         "unitdate_ssm":["1980s"],
-        "_version_":1799324345057673216,
-        "timestamp":"2024-05-17T18:10:14.766Z"},
+        "_version_":1802093428322861056,
+        "timestamp":"2024-06-17T07:43:38.356Z"},
       {
         "id":"pr179_norman_weisbergaspace_7649664ceee45837abc51b197123fd3b",
         "ead_ssi":"pr179_norman_weisberg",
@@ -287,8 +289,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["2 Rivers from Pan Am Building [northerly view of Manhattan]"],
         "unitdate_ssm":["1983"],
-        "_version_":1799324344920309760,
-        "timestamp":"2024-05-17T18:10:14.635Z"},
+        "_version_":1802093428162428928,
+        "timestamp":"2024-06-17T07:43:38.203Z"},
       {
         "id":"pr179_norman_weisbergaspace_7be5d5ce88c3d09d85704c7d848136b9",
         "ead_ssi":"pr179_norman_weisberg",
@@ -304,8 +306,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      #4. Triangle\n    "],
         "unitdate_ssm":["1980s"],
-        "_version_":1799324345046138880,
-        "timestamp":"2024-05-17T18:10:14.755Z"},
+        "_version_":1802093428307132416,
+        "timestamp":"2024-06-17T07:43:38.34Z"},
       {
         "id":"pr179_norman_weisbergaspace_97f71b8296809c0e50f6f713c8bd3fd1",
         "ead_ssi":"pr179_norman_weisberg",
@@ -321,8 +323,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      First Selfie, Taken from Old Pan Am Building\n    "],
         "unitdate_ssm":["circa 1980"],
-        "_version_":1799324344755683328,
-        "timestamp":"2024-05-17T18:10:14.478Z"},
+        "_version_":1802093427981025280,
+        "timestamp":"2024-06-17T07:43:38.03Z"},
       {
         "id":"pr179_norman_weisbergaspace_bec53ef1208e5903acde0277f6a3b3ec",
         "ead_ssi":"pr179_norman_weisberg",
@@ -338,8 +340,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      [World Trade] Towers + Church (Greek, Destroyed 9/11 When Towers Fell)\n    "],
         "unitdate_ssm":["1984"],
-        "_version_":1799324344932892672,
-        "timestamp":"2024-05-17T18:10:14.647Z"},
+        "_version_":1802093428181303296,
+        "timestamp":"2024-06-17T07:43:38.221Z"},
       {
         "id":"pr179_norman_weisbergaspace_c53732617747c346f36b693633ddcfb6",
         "ead_ssi":"pr179_norman_weisberg",
@@ -355,8 +357,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      Restaurant/Ice Rink, Rockefeller Center\n    "],
         "unitdate_ssm":["1983"],
-        "_version_":1799324344908775424,
-        "timestamp":"2024-05-17T18:10:14.624Z"},
+        "_version_":1802093428147748864,
+        "timestamp":"2024-06-17T07:43:38.188Z"},
       {
         "id":"pr179_norman_weisbergaspace_d64faf746e6f6fdb046ca88f59b1a70c",
         "ead_ssi":"pr179_norman_weisberg",
@@ -372,8 +374,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Central Park [corner of 5th Avenue and West 59th Street]"],
         "unitdate_ssm":["1983"],
-        "_version_":1799324344882561024,
-        "timestamp":"2024-05-17T18:10:14.599Z"},
+        "_version_":1802093428119437312,
+        "timestamp":"2024-06-17T07:43:38.162Z"},
       {
         "id":"pr179_norman_weisbergaspace_daf05612e2825ce86c28237d71c7be79",
         "ead_ssi":"pr179_norman_weisberg",
@@ -389,8 +391,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["\n      From the Rooftop of Rockefeller Center\n    "],
         "unitdate_ssm":["circa 1985"],
-        "_version_":1799324344958058496,
-        "timestamp":"2024-05-17T18:10:14.671Z"},
+        "_version_":1802093428209614848,
+        "timestamp":"2024-06-17T07:43:38.248Z"},
       {
         "id":"pr179_norman_weisbergaspace_dd18bc52717326eeeb4b5aaaff4ccc1d",
         "ead_ssi":"pr179_norman_weisberg",
@@ -406,8 +408,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      Sunday on Wall Street\n    "],
         "unitdate_ssm":["1986"],
-        "_version_":1799324344996855808,
-        "timestamp":"2024-05-17T18:10:14.708Z"},
+        "_version_":1802093428251557888,
+        "timestamp":"2024-06-17T07:43:38.288Z"},
       {
         "id":"pr179_norman_weisbergaspace_e9d44d140ce480a9c23b44e144521dd9",
         "ead_ssi":"pr179_norman_weisberg",
@@ -423,8 +425,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\n      Under B.B. [Brooklyn Bridge]. Bedrock Where Roebling Tread\n    "],
         "unitdate_ssm":["1985"],
-        "_version_":1799324344984272896,
-        "timestamp":"2024-05-17T18:10:14.696Z"},
+        "_version_":1802093428237926400,
+        "timestamp":"2024-06-17T07:43:38.275Z"},
       {
         "id":"pr179_norman_weisbergaspace_edcbad101380253d36ab20d2151d3f3b",
         "ead_ssi":"pr179_norman_weisberg",
@@ -440,8 +442,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      #12. River to River Series\n    "],
         "unitdate_ssm":["1983 Summer"],
-        "_version_":1799324344814403584,
-        "timestamp":"2024-05-17T18:10:14.534Z"},
+        "_version_":1802093428041842688,
+        "timestamp":"2024-06-17T07:43:38.088Z"},
       {
         "id":"pr179_norman_weisbergaspace_eeddec0305442fdde17ff34847836ab4",
         "ead_ssi":"pr179_norman_weisberg",
@@ -457,8 +459,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      #16. Empire State Building\n    "],
         "unitdate_ssm":["1983"],
-        "_version_":1799324344786092032,
-        "timestamp":"2024-05-17T18:10:14.507Z"},
+        "_version_":1802093428009336832,
+        "timestamp":"2024-06-17T07:43:38.057Z"},
       {
         "id":"pr179_norman_weisbergaspace_fe6a5fda21cf609f618678716bcab0e9",
         "ead_ssi":"pr179_norman_weisberg",
@@ -474,8 +476,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\n      September to Remember at Shea Stadium\n    "],
         "unitdate_ssm":["1986"],
-        "_version_":1799324345009438720,
-        "timestamp":"2024-05-17T18:10:14.72Z"}]
+        "_version_":1802093428265189376,
+        "timestamp":"2024-06-17T07:43:38.301Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -483,7 +485,8 @@
       "repository_sim":[
         "nyhs",25],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Weisberg, Norman, approximately 1930-",1],
       "date_range_sim":[
         "undated & other",25],
       "subject_sim":[],

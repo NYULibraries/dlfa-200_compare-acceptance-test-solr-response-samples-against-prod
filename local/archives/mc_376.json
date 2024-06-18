@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York University Archives Collection of NYU Presidential Portraits"],
         "unitid_ssm":["MC.376"],
         "abstract_ssm":["From 1831-2023, 16 men have acted as the Chancellor or President of New York University. The New York University Archives Collection of NYU Presidential Portraits consists of portraits representing people who have held this title."],
+        "creator_ssm":["New York University",
+          "New York University"],
         "unitdate_normal_ssm":["1831/2023"],
         "corpname_ssm":["New York University Archives",
           "New York University",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1831"],
         "unitdate_end_ssm":["2023"],
         "unitdate_ssm":["Inclusive, circa 1831-2023"],
-        "_version_":1799253257510453248,
-        "timestamp":"2024-05-16T23:20:20.398Z"},
+        "_version_":1801950250603118592,
+        "timestamp":"2024-06-15T17:47:53.442Z"},
       {
         "id":"mc_376aspace_03b83a2c399d1472abce568125a19dc8",
         "ead_ssi":"mc_376",
@@ -89,8 +91,8 @@
         "unitdate_start_ssm":["1948"],
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["1948"],
-        "_version_":1799253257642573824,
-        "timestamp":"2024-05-16T23:20:20.524Z"},
+        "_version_":1801950250834853888,
+        "timestamp":"2024-06-15T17:47:53.663Z"},
       {
         "id":"mc_376aspace_0741f3198085d165d836fead68caff1e",
         "ead_ssi":"mc_376",
@@ -110,8 +112,8 @@
         "unitdate_start_ssm":["2023"],
         "unitdate_end_ssm":["2023"],
         "unitdate_ssm":["2023"],
-        "_version_":1799253257764208640,
-        "timestamp":"2024-05-16T23:20:20.64Z"},
+        "_version_":1801950251068686336,
+        "timestamp":"2024-06-15T17:47:53.886Z"},
       {
         "id":"mc_376aspace_0ced27b240d5d3922878d37d35044fc4",
         "ead_ssi":"mc_376",
@@ -131,8 +133,8 @@
         "unitdate_start_ssm":["1962"],
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["1962"],
-        "_version_":1799253257660399616,
-        "timestamp":"2024-05-16T23:20:20.541Z"},
+        "_version_":1801950250910351360,
+        "timestamp":"2024-06-15T17:47:53.735Z"},
       {
         "id":"mc_376aspace_4589645016c397c8884b835471b33625",
         "ead_ssi":"mc_376",
@@ -152,8 +154,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["1975"],
-        "_version_":1799253257688711168,
-        "timestamp":"2024-05-16T23:20:20.568Z"},
+        "_version_":1801950250959634432,
+        "timestamp":"2024-06-15T17:47:53.782Z"},
       {
         "id":"mc_376aspace_502540691bddc4a44b07670459ba4783",
         "ead_ssi":"mc_376",
@@ -173,8 +175,8 @@
         "unitdate_start_ssm":["1893"],
         "unitdate_end_ssm":["1893"],
         "unitdate_ssm":["1893"],
-        "_version_":1799253257598533632,
-        "timestamp":"2024-05-16T23:20:20.482Z"},
+        "_version_":1801950250755162112,
+        "timestamp":"2024-06-15T17:47:53.587Z"},
       {
         "id":"mc_376aspace_59ea412d2f301b129da8206020a7a98b",
         "ead_ssi":"mc_376",
@@ -194,8 +196,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["1992"],
-        "_version_":1799253257720168448,
-        "timestamp":"2024-05-16T23:20:20.598Z"},
+        "_version_":1801950251006820352,
+        "timestamp":"2024-06-15T17:47:53.827Z"},
       {
         "id":"mc_376aspace_61af0b4af51b92b33456bf6e7f773d33",
         "ead_ssi":"mc_376",
@@ -215,8 +217,8 @@
         "unitdate_start_ssm":["1800"],
         "unitdate_end_ssm":["1850"],
         "unitdate_ssm":["Inclusive, circa early 1800s"],
-        "_version_":1799253257529327616,
-        "timestamp":"2024-05-16T23:20:20.416Z"},
+        "_version_":1801950250636673024,
+        "timestamp":"2024-06-15T17:47:53.474Z"},
       {
         "id":"mc_376aspace_61e412db48b17136ad4d1d458c10f2a3",
         "ead_ssi":"mc_376",
@@ -236,8 +238,8 @@
         "unitdate_start_ssm":["1800"],
         "unitdate_end_ssm":["1850"],
         "unitdate_ssm":["Inclusive, circa early 1800s"],
-        "_version_":1799253257548201984,
-        "timestamp":"2024-05-16T23:20:20.434Z"},
+        "_version_":1801950250664984576,
+        "timestamp":"2024-06-15T17:47:53.501Z"},
       {
         "id":"mc_376aspace_6511a9a73eaa365f7c6bd4cf3d9be700",
         "ead_ssi":"mc_376",
@@ -257,8 +259,8 @@
         "unitdate_start_ssm":["1900"],
         "unitdate_end_ssm":["1950"],
         "unitdate_ssm":["Inclusive, early 1900s"],
-        "_version_":1799253257628942336,
-        "timestamp":"2024-05-16T23:20:20.511Z"},
+        "_version_":1801950250805493760,
+        "timestamp":"2024-06-15T17:47:53.635Z"},
       {
         "id":"mc_376aspace_7c8b6f77892cb1e49aaeabf8b2d4be89",
         "ead_ssi":"mc_376",
@@ -278,8 +280,8 @@
         "unitdate_start_ssm":["1962"],
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["1962"],
-        "_version_":1799253257674031104,
-        "timestamp":"2024-05-16T23:20:20.554Z"},
+        "_version_":1801950250937614336,
+        "timestamp":"2024-06-15T17:47:53.761Z"},
       {
         "id":"mc_376aspace_7d9c1efad7b60ff8f0212f5c15b37de5",
         "ead_ssi":"mc_376",
@@ -299,8 +301,8 @@
         "unitdate_start_ssm":["1861"],
         "unitdate_end_ssm":["1861"],
         "unitdate_ssm":["1861"],
-        "_version_":1799253257562882048,
-        "timestamp":"2024-05-16T23:20:20.448Z"},
+        "_version_":1801950250707976192,
+        "timestamp":"2024-06-15T17:47:53.542Z"},
       {
         "id":"mc_376aspace_9e3f22e51b1a0147c060292c997eed03",
         "ead_ssi":"mc_376",
@@ -320,8 +322,8 @@
         "unitdate_start_ssm":["1894"],
         "unitdate_end_ssm":["1894"],
         "unitdate_ssm":["1894"],
-        "_version_":1799253257614262272,
-        "timestamp":"2024-05-16T23:20:20.497Z"},
+        "_version_":1801950250781376512,
+        "timestamp":"2024-06-15T17:47:53.612Z"},
       {
         "id":"mc_376aspace_b48cc0678ff37e4b51628ed5bef21386",
         "ead_ssi":"mc_376",
@@ -341,8 +343,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["1986"],
-        "_version_":1799253257704439808,
-        "timestamp":"2024-05-16T23:20:20.582Z"},
+        "_version_":1801950250985848832,
+        "timestamp":"2024-06-15T17:47:53.807Z"},
       {
         "id":"mc_376aspace_be4d50b366c5893ee82973dbb3baf275",
         "ead_ssi":"mc_376",
@@ -362,8 +364,8 @@
         "unitdate_start_ssm":["2002"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["2002"],
-        "_version_":1799253257733799936,
-        "timestamp":"2024-05-16T23:20:20.611Z"},
+        "_version_":1801950251026743296,
+        "timestamp":"2024-06-15T17:47:53.846Z"},
       {
         "id":"mc_376aspace_f1bce577cac5bb69f11cde7f88e39938",
         "ead_ssi":"mc_376",
@@ -383,8 +385,8 @@
         "unitdate_start_ssm":["2015"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["2015"],
-        "_version_":1799253257749528576,
-        "timestamp":"2024-05-16T23:20:20.626Z"},
+        "_version_":1801950251046666240,
+        "timestamp":"2024-06-15T17:47:53.865Z"},
       {
         "id":"mc_376aspace_f6642f8fc45c582adbd0b7a2f60fc1d9",
         "ead_ssi":"mc_376",
@@ -404,8 +406,8 @@
         "unitdate_start_ssm":["1851"],
         "unitdate_end_ssm":["1900"],
         "unitdate_ssm":["Inclusive, circa late 1800s"],
-        "_version_":1799253257579659264,
-        "timestamp":"2024-05-16T23:20:20.464Z"}]
+        "_version_":1801950250732093440,
+        "timestamp":"2024-06-15T17:47:53.564Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -413,7 +415,8 @@
       "repository_sim":[
         "archives",17],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University",1],
       "date_range_sim":[
         "1701-1800",2,
         "1801-1900",8,

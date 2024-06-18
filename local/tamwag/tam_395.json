@@ -47,6 +47,8 @@
         "unittitle_ssm":["Miriam Moskowitz Autobiographical Typescript for \"Phantoms of Spies Run Amok and an Odyssey of Surviving McCarthyism.\""],
         "unitid_ssm":["TAM.395"],
         "abstract_ssm":["Miriam Ruth Moskowitz (1916- ) was born in Bayonne, NJ. The collection contains the 448 page typescript of Moskowitz's autobiography about fighting McCarthyism and Moskowitz's imprisonment after she was convicted in 1950 of obstructing the U.S. Government's investigation of espionage. Moskowitz worked as a clerk for the Social Securities Board and the War Manpower Commission, and later worked as a secretary at A. Brothman & Associates. She was accused of participation in the passing of information about the Manhattan Project to the Soviet Union, and along with Brothman,  was convicted for conspiracy to obstruct justice, and was sentenced to, and served two years in prison at the Federal Penitentiary in Alderson, WV. After her release, she worked as a public relations manager for several companies before becoming a public school teacher in 1970."],
+        "creator_ssm":["Moskowitz, Miriam Ruth, 1916-",
+          "Moskowitz, Miriam Ruth, 1916-"],
         "unitdate_normal_ssm":["1940/2007"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Moskowitz, Miriam Ruth, 1916-",
@@ -64,8 +66,8 @@
         "unitdate_end_ssm":["2007"],
         "unitdate_ssm":["Inclusive, circa 1940s-2000s"],
         "language_ssm":["English"],
-        "_version_":1799782876054552576,
-        "timestamp":"2024-05-22T19:38:24Z"}]
+        "_version_":1802176942808498176,
+        "timestamp":"2024-06-18T05:51:03.976Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Moskowitz, Miriam Ruth, 1916-",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

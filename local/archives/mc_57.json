@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Robert Doremus Lectures"],
         "unitid_ssm":["MC.57"],
         "abstract_ssm":["Robert Ogden Doremus was a chemist and professor who graduated from the University of the City of New York in 1842. This collection is comprised of a notebook of lectures on the topic of astronomy written and presumably delivered by Doremus."],
+        "creator_ssm":["Doremus, Robert Ogden, 1824-1906",
+          "Doremus, Robert Ogden, 1824-1906"],
         "unitdate_normal_ssm":["1872/1872"],
         "corpname_ssm":["New York University Archives",
           "New York University -- Students"],
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1872"],
         "unitdate_end_ssm":["1872"],
         "unitdate_ssm":["1872"],
-        "_version_":1799255769825148928,
-        "timestamp":"2024-05-17T00:00:16.328Z"},
+        "_version_":1801950521799475200,
+        "timestamp":"2024-06-15T17:52:12.075Z"},
       {
         "id":"mc_57aspace_ref7",
         "ead_ssi":"mc_57",
@@ -77,13 +79,12 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 009, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared University Archives 009, Folder: 1"],
         "heading_ssm":["Lectures by Robert Doremus"],
         "unitdate_ssm":["1872"],
         "language_ssm":["English"],
-        "_version_":1799255769847169024,
-        "timestamp":"2024-05-17T00:00:16.349Z"}]
+        "_version_":1801950521816252416,
+        "timestamp":"2024-06-15T17:52:12.091Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +92,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Doremus, Robert Ogden, 1824-1906",1],
       "date_range_sim":[
         "1801-1900",1,
         "undated & other",1],

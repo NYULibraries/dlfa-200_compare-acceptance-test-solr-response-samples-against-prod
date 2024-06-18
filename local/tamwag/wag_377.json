@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Nicole Greenhouse"],
         "unittitle_ssm":["NYU Researchers United-UAW Archived Website"],
-        "unitid_ssm":["WAG.377",
-          "/repositories/2/resources/3494"],
+        "unitid_ssm":["WAG.377"],
         "abstract_ssm":["NYU Researchers United-UAW was formed to represent research assistants at the Tandon School of Engineering and research assistants in the Biology, Chemistry, Neural Science, Physics, Mathematics, Computer Science, and Psychology departments. The website contains updates from the union, a history of organizing research assistants at NYU, and information on advocacy efforts for science funding and the rights of international scholars."],
+        "creator_ssm":["NYU Researchers United-UAW",
+          "NYU Researchers United-UAW"],
         "unitdate_normal_ssm":["2023-08-03/2023-08-03"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "NYU Researchers United-UAW",
@@ -64,15 +65,15 @@
         "heading_ssm":["NYU Researchers United-UAW Archived Website"],
         "unitdate_ssm":["August 2023-ongoing"],
         "language_ssm":["English"],
-        "_version_":1799333602254651392,
-        "timestamp":"2024-05-17T20:37:23.117Z"},
+        "_version_":1802197586569854976,
+        "timestamp":"2024-06-18T11:19:11.401Z"},
       {
         "id":"wag_377aspace_5a34c9c89d269ef1e70fb7692e1443a7",
         "ead_ssi":"wag_377",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["NYU Researchers United-UAW Archived Website"],
-        "collection_unitid_ssm":["WAG.377/repositories/2/resources/3494"],
+        "collection_unitid_ssm":["WAG.377"],
         "unittitle_ssm":["Archived Website"],
         "unitid_ssm":["/repositories/2/archival_objects/989258"],
         "dao_ssm":["NYU Researchers United-UAW Archived Website: August 2023-ongoing"],
@@ -82,8 +83,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Website"],
-        "_version_":1799333602276671488,
-        "timestamp":"2024-05-17T20:37:23.138Z"}]
+        "_version_":1802197586579292160,
+        "timestamp":"2024-06-18T11:19:11.41Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +93,8 @@
         "tamwag",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "NYU Researchers United-UAW",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

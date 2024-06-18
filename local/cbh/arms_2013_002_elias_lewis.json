@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,18 @@
         "unittitle_ssm":["Elias Lewis, Jr. letters"],
         "unitid_ssm":["2013.002"],
         "abstract_ssm":["The Elias Lewis, Jr. letters consists of 83 letters written by Elias Lewis, Jr. and his family, dating from 1853-1893. It also includes a note on the collection by Lewis's ancestor, Stephen Valentine IV. The letters primarily document his travels, which included Washington DC, Virginia, South Carolina, Georgia, Florida, Pennsylvania, New Hampshire, upstate New York, and Bermuda. Many letters were also sent from his home in Brooklyn. Of note are Lewis's observations on the American south and slavery before and after the Civil War. Other topics include religion (Lewis was a Quaker), science, and the natural environment. Although most letters were written by Elias Lewis, Jr., the collection includes letters written by other members of his family, including his wife, Mary Underhill Lewis, his daughter, Annie Lewis Valentine, and his granddaughters, Florence Valentine and Anna Kirk Valentine. Recipients of the letters include the Lewis and Underhill families, as well as other Long Island Quakers, such as Phebe W. Titus, Hannah W. Hicks, and Stephen R. Hicks."],
+        "creator_ssm":["Valentine, Anna Kirk",
+          "Valentine, Stephen, IV",
+          "Valentine, Florence",
+          "Lewis, Elias, Jr.",
+          "Lewis, Mary Underhill",
+          "Valentine, Annie Lewis",
+          "Valentine, Anna Kirk",
+          "Valentine, Stephen, IV",
+          "Valentine, Florence",
+          "Lewis, Elias, Jr.",
+          "Lewis, Mary Underhill",
+          "Valentine, Annie Lewis"],
         "unitdate_normal_ssm":["1853/1894"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island Historical Society",
@@ -101,8 +113,8 @@
         "unitdate_end_ssm":["1894"],
         "unitdate_ssm":["Inclusive, 1853 to 1894"],
         "language_ssm":["English"],
-        "_version_":1799256453323685888,
-        "timestamp":"2024-05-17T00:11:08.163Z"}]
+        "_version_":1801964170201006080,
+        "timestamp":"2024-06-15T21:29:08.205Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -110,7 +122,13 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lewis, Elias, Jr.",1,
+        "Lewis, Mary Underhill",1,
+        "Valentine, Anna Kirk",1,
+        "Valentine, Annie Lewis",1,
+        "Valentine, Florence",1,
+        "Valentine, Stephen, IV",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

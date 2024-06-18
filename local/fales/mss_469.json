@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":22,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Koshland and Hertzmann Family Manuscript Cookbook Collection"],
         "unitid_ssm":["MSS.469"],
         "abstract_ssm":["The Koshland and Hertzmann Family Manuscript Cookbook Collection contains materials created by Berta G. Koshland and her daughter Elizabeth K. Hertzmann, two women who were professionally trained in the art of German cooking. The collection, which dates between the early and mid-20th century, contains a box of loose recipes and four bound manuscript cookbooks, as well as an illustrated journal Hertzmann kept while attending high school."],
+        "creator_ssm":["Koshland, Berta G.",
+          "Hertzmann, Elizabeth K.",
+          "Koshland, Berta G.",
+          "Hertzmann, Elizabeth K."],
         "unitdate_normal_ssm":["1900/1978"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "persname_ssm":["Koshland, Berta G.",
@@ -64,8 +68,8 @@
         "unitdate_start_ssm":["1900"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1900-1978"],
-        "_version_":1799740848367206400,
-        "timestamp":"2024-05-22T08:30:23.274Z"},
+        "_version_":1802072893884989440,
+        "timestamp":"2024-06-17T02:17:15.19Z"},
       {
         "id":"mss_469aspace_0d6dc4817a0c17ae2e8b3153c903f550",
         "ead_ssi":"mss_469",
@@ -79,14 +83,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Koshland, Berta and Hertzmann, Elizabeth -- Manuscript Cookbook"],
         "unitdate_start_ssm":["1962"],
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["1962, undated"],
-        "_version_":1799740848394469376,
-        "timestamp":"2024-05-22T08:30:23.301Z"},
+        "_version_":1802072893932175360,
+        "timestamp":"2024-06-17T02:17:15.235Z"},
       {
         "id":"mss_469aspace_18a7537d5390447afabdca29205611ab",
         "ead_ssi":"mss_469",
@@ -105,8 +108,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["1972, undated"],
-        "_version_":1799740848424878080,
-        "timestamp":"2024-05-22T08:30:23.33Z"},
+        "_version_":1802072893980409856,
+        "timestamp":"2024-06-17T02:17:15.28Z"},
       {
         "id":"mss_469aspace_d15c68f9f8a626e9ff654e77bf8fdbad",
         "ead_ssi":"mss_469",
@@ -119,12 +122,11 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 1, Folder: 4"],
         "heading_ssm":["Koshland, Berta and Hertzmann, Elizabeth -- Manuscript Cookbook"],
         "unitdate_ssm":["undated"],
-        "_version_":1799740848407052288,
-        "timestamp":"2024-05-22T08:30:23.313Z"},
+        "_version_":1802072893953146880,
+        "timestamp":"2024-06-17T02:17:15.255Z"},
       {
         "id":"mss_469aspace_f0389fe219e6d901d59297dec84ca2be",
         "ead_ssi":"mss_469",
@@ -138,14 +140,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Hertzmann, Elizabeth -- Gymnasium (High School) Illustrated Journal"],
         "unitdate_start_ssm":["1927"],
         "unitdate_end_ssm":["1931"],
         "unitdate_ssm":["Inclusive, 1927-1931"],
-        "_version_":1799740848380837888,
-        "timestamp":"2024-05-22T08:30:23.288Z"}]
+        "_version_":1802072893911203840,
+        "timestamp":"2024-06-17T02:17:15.215Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -153,7 +154,9 @@
       "repository_sim":[
         "fales",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hertzmann, Elizabeth K.",1,
+        "Koshland, Berta G.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",4,

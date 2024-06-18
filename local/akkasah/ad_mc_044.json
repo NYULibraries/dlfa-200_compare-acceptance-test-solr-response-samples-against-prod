@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Iraq and Kurdistan - compiled by L. Wells of RAF Hinaidi"],
         "unitid_ssm":["AD.MC.044"],
         "abstract_ssm":["Album of photographs centering on ways of life throughout Iraq, also providing some insight into the presence of the RAF, from Kurdistan to Basra and in between, during the British Mandate controlled administration of the Hashemite Kingdom of Iraq, captured by officer Les Wells while he served with the Medical Service at the RAF General Hospital in Hinaidi as part of the \"British Forces in Iraq\" RAF Command, circa 1934-36."],
+        "creator_ssm":["Wells, Les, Active 1929 - 1939",
+          "Wells, Les, Active 1929 - 1939"],
         "unitdate_normal_ssm":["1934/1936"],
         "corpname_ssm":["Akkasah: Photography Archive (NYU Abu Dhabi)",
           "Voyager Press. Rare Books and Manuscripts ",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1936"],
         "unitdate_ssm":["Inclusive, 1934-1936"],
         "language_ssm":["English"],
-        "_version_":1799246497226686464,
-        "timestamp":"2024-05-16T21:32:53.289Z"}]
+        "_version_":1801945498536378368,
+        "timestamp":"2024-06-15T16:32:21.518Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "akkasah",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wells, Les, Active 1929 - 1939",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

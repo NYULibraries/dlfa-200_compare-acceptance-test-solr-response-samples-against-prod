@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Photographs of the former Half Moon Hotel on Coney Island"],
         "unitid_ssm":["V1991.074"],
         "abstract_ssm":["The Photographs of the former Half Moon Hotel on Coney Island consist of 21 8 x 10 inch black-and-white photographic prints showing exterior, interior, and detail views of what was originally the Half Moon Hotel. When  the photographs were taken on April 10, 1991 by Li-Saltzman Architects, the building served as a nursing home. The photographs were taken as part of a mitigation plan on behalf of the owners of the building, the Metropolitan Jewish Geriatric Center."],
+        "creator_ssm":["Metropolitan Jewish Geriatric Center",
+          "Li-Saltzman Architects",
+          "Metropolitan Jewish Geriatric Center",
+          "Li-Saltzman Architects"],
         "unitdate_normal_ssm":["1991/1991"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Metropolitan Jewish Geriatric Center",
@@ -76,8 +80,8 @@
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1991"],
         "language_ssm":["English"],
-        "_version_":1799312274874171392,
-        "timestamp":"2024-05-17T14:58:23.742Z"}]
+        "_version_":1802045499797143552,
+        "timestamp":"2024-06-16T19:01:50.152Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +89,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Li-Saltzman Architects",1,
+        "Metropolitan Jewish Geriatric Center",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

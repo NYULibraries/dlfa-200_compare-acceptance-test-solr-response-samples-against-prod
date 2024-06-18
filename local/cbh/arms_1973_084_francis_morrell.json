@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Francis V. Morrell's Recollections of Old Williamsburgh"],
         "unitid_ssm":["1973.084"],
         "abstract_ssm":["Francis V. Morrell's manuscript \"Recollections of Old Williamsburgh\" (circa 1915) contains colorful descriptions of the social, economic, geographic, and built environments of the city of Williamsburgh (now Williamsburg, Brooklyn) during the mid-nineteenth century. Morrell's memoir includes entries on various residents of Williamsburgh, especially in the context of their occupations as druggist, school teacher, etc."],
+        "creator_ssm":["Morrell, Francis Vandervoort",
+          "Morrell, Francis Vandervoort"],
         "unitdate_normal_ssm":["1905/1925"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Memoirs"],
@@ -72,8 +74,8 @@
         "unitdate_start_ssm":["1905"],
         "unitdate_end_ssm":["1925"],
         "unitdate_ssm":["Inclusive, circa 1915"],
-        "_version_":1799312399419834368,
-        "timestamp":"2024-05-17T15:00:22.518Z"}]
+        "_version_":1801959915920556032,
+        "timestamp":"2024-06-15T20:21:31.007Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Morrell, Francis Vandervoort",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Alexander Garrigue letters"],
         "unitid_ssm":["MS 3198"],
         "abstract_ssm":["The collection includes 56 letters written by Alexander Garrigue (1887-1943) written to his family from October 1917 to November 1918 while he was stationed at Camp Upton on Long Island during World War I. Using a frequently jocular tone, Garrigue describes his experiences at camp, including military drills, camp pranks, rumors, efforts to obtain passes, hospital stays, and other subjects. His writing often takes an imaginary or metaphorical turn, including in relation to the impact of the Spanish influenza on the camp."],
+        "creator_ssm":["Garrigue, Alexander, 1887-1943",
+          "Garrigue, Alexander, 1887-1943"],
         "corpname_ssm":["New-York Historical Society",
           "United States. Army. Depot Brigade, 152nd.",
           "United States. Army. Field Artillery Regiment, 305th."],
@@ -66,8 +68,8 @@
         "material_type_ssm":["Letters (correspondence)"],
         "heading_ssm":["Alexander Garrigue letters"],
         "unitdate_ssm":["Inclusive, 1917-1918"],
-        "_version_":1799315815188660224,
-        "timestamp":"2024-05-17T15:54:40.049Z"},
+        "_version_":1802085711704227840,
+        "timestamp":"2024-06-17T05:40:59.215Z"},
       {
         "id":"ms3198_garrigueaspace_fccf9db1a13f1f5d0cccd948fea893f4",
         "ead_ssi":"ms3198_garrigue",
@@ -80,12 +82,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-12",
-          "Folder: 1-12"],
+        "location_ssm":["Box: 1, Folder: 1-12"],
         "heading_ssm":["Letters (12 folders)"],
         "unitdate_ssm":["Inclusive, 1917-1918"],
-        "_version_":1799315815254720512,
-        "timestamp":"2024-05-17T15:54:40.112Z"}]
+        "_version_":1802085711722053632,
+        "timestamp":"2024-06-17T05:40:59.232Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +94,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Garrigue, Alexander, 1887-1943",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

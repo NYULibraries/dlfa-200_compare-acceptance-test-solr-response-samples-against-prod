@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Episcopal Diocese of Long Island publications"],
         "unitid_ssm":["ARC.185"],
         "abstract_ssm":["The Episcopal Diocese of Long Island publications date from 1866 to 1930 and measure 0.21 linear feet. The collection includes newsletters and dedication programs. The bulk of the collection consists of The Church Militant, a newsletter intended to broadcast news and coordinate activities among the chuches in the Diocese."],
+        "creator_ssm":["Episcopal Church. Diocese of Long Island",
+          "Episcopal Church. Diocese of Long Island"],
         "unitdate_normal_ssm":["1866/1930"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Episcopal Church. Diocese of Long Island",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["Inclusive, 1866-1930"],
         "language_ssm":["English"],
-        "_version_":1799256280069570560,
-        "timestamp":"2024-05-17T00:08:22.934Z"}]
+        "_version_":1801959322579632128,
+        "timestamp":"2024-06-15T20:12:05.153Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Episcopal Church. Diocese of Long Island",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

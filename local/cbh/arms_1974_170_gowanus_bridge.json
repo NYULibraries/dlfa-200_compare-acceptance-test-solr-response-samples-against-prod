@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Gowanus Bridge Company Stockholder list"],
         "unitid_ssm":["1974.170"],
         "abstract_ssm":["Gowanus Bridge Company stockholder list, spanning the period 1844 to 1845. The list includes the first and last names of each stockholder and the amount paid by each one.  This list is believed to have been compiled by Nicholas Luquer, who was one of the stockholders."],
+        "creator_ssm":["Luquer, Nicholas",
+          "Luquer, Nicholas"],
         "unitdate_normal_ssm":["1844/1845"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Gowanus Bridge Company"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1845"],
         "unitdate_ssm":["Inclusive, 1844-1845"],
         "language_ssm":["English"],
-        "_version_":1799256298841178112,
-        "timestamp":"2024-05-17T00:08:40.837Z"}]
+        "_version_":1801960409113034752,
+        "timestamp":"2024-06-15T20:29:21.352Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Luquer, Nicholas",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

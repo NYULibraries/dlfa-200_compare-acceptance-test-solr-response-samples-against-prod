@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":25,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Hamilton Literary Association and Hamilton Club records"],
         "unitid_ssm":["ARC.035"],
         "abstract_ssm":["The Hamilton Literary Association was a prominent debating society established in Brooklyn in 1830 for the purposes of \"mutual improvement in writing, criticism, and forensic discussion.\"  It merged with the Hamilton Club, a men's social and literary club, in 1883.  In 1931 the Hamilton Club became part of the Crescent Athletic Club, a prestigious Brooklyn country and sporting club.  The Hamilton Literary Association and Hamilton Club records span the period 1835 to 1931 and contain materials documenting the financial and organizational aspects, as well as the activities, of both organizations.  Materials chiefly consist of minutes and financial records, as well as member lists."],
+        "creator_ssm":["Hamilton Literary Association (Brooklyn, New York, N.Y.)",
+          "Hamilton Club (Brooklyn, New York, N.Y.)",
+          "Hamilton Literary Association (Brooklyn, New York, N.Y.)",
+          "Hamilton Club (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1835/1931"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Hamilton Literary Association (Brooklyn, New York, N.Y.)",
@@ -81,8 +85,8 @@
         "unitdate_end_ssm":["1931"],
         "unitdate_ssm":["Inclusive, 1835-1931"],
         "language_ssm":["English"],
-        "_version_":1799309973342126080,
-        "timestamp":"2024-05-17T14:21:48.83Z"},
+        "_version_":1801958744129536000,
+        "timestamp":"2024-06-15T20:02:53.5Z"},
       {
         "id":"arc_035_hamilton_literary_associationaspace_ref13_qxj",
         "ead_ssi":"arc_035_hamilton_literary_association",
@@ -100,8 +104,8 @@
         "unitdate_start_ssm":["1882"],
         "unitdate_end_ssm":["1931"],
         "unitdate_ssm":["Inclusive, 1882-1931"],
-        "_version_":1799309973370437632,
-        "timestamp":"2024-05-17T14:21:48.857Z"},
+        "_version_":1801958744173576192,
+        "timestamp":"2024-06-15T20:02:53.542Z"},
       {
         "id":"arc_035_hamilton_literary_associationaspace_ref7_qt5",
         "ead_ssi":"arc_035_hamilton_literary_association",
@@ -119,8 +123,8 @@
         "unitdate_start_ssm":["1835"],
         "unitdate_end_ssm":["1874"],
         "unitdate_ssm":["Inclusive, 1835-1874"],
-        "_version_":1799309973357854720,
-        "timestamp":"2024-05-17T14:21:48.845Z"}]
+        "_version_":1801958744153653248,
+        "timestamp":"2024-06-15T20:02:53.523Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -128,7 +132,9 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hamilton Club (Brooklyn, New York, N.Y.)",1,
+        "Hamilton Literary Association (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",2],

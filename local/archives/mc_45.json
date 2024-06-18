@@ -47,6 +47,8 @@
         "unittitle_ssm":["George Burton Hotchkiss Papers"],
         "unitid_ssm":["MC.45"],
         "abstract_ssm":["George Burton Hotchkiss (1884-1953) was an innovative business writing and advertising teacher at New York University (NYU) from 1908 until 1950.  He authored over a dozen textbooks on advertising and advertising history, including Advertising Copy, and created a Department of Advertising and Marketing at NYU. This collection consists of two carbon copies of his autobiographical manuscript."],
+        "creator_ssm":["Hotchkiss, George Burton, 1884-1953",
+          "Hotchkiss, George Burton, 1884-1953"],
         "unitdate_normal_ssm":["1908/1950"],
         "corpname_ssm":["New York University Archives",
           "George Batten Company",
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1950"],
         "unitdate_ssm":["Inclusive, 1908-1950"],
-        "_version_":1799255035420344320,
-        "timestamp":"2024-05-16T23:48:35.945Z"},
+        "_version_":1801950456784617472,
+        "timestamp":"2024-06-15T17:51:10.072Z"},
       {
         "id":"mc_45aspace_ref8",
         "ead_ssi":"mc_45",
@@ -83,13 +85,12 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-2",
-          "Folder: 1-2"],
+        "location_ssm":["Box: 1, Folder: 1-2"],
         "heading_ssm":["George B. Hotchkiss Autobiographical Manuscript "],
         "unitdate_ssm":["undated"],
         "language_ssm":["English"],
-        "_version_":1799255035449704448,
-        "timestamp":"2024-05-16T23:48:35.973Z"}]
+        "_version_":1801950456803491840,
+        "timestamp":"2024-06-15T17:51:10.09Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,7 +98,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hotchkiss, George Burton, 1884-1953",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

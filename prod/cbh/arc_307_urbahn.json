@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Urbahn family papers"],
         "unitid_ssm":["ARC.307"],
         "abstract_ssm":["The collection consists of photographs, artifacts, and ephemera relating to the Urbahn family of Brooklyn, New York, dating from circa 1880s to circa 1920s. The family operated a textile manufacturing business under the name A. Urbahn's Sons, and the collection includes samples of goods such as spun and dyed silk, silk ribbons, terry cloth, spools of thread, a woman's stole, and hat ornaments. It also includes family photographs, business and trade cards, hair belonging to Norma (Urbahn) de Castillia, and genealogical information on the Urbahn family."],
+        "creator_ssm":["Urbahn family",
+          "A. Urbahn's Sons (Brooklyn, New York, N.Y.)",
+          "A. Urbahn's Sons (Brooklyn, New York, N.Y.)",
+          "Urbahn family"],
         "unitdate_normal_ssm":["1880/1929"],
         "corpname_ssm":["Brooklyn Historical Society",
           "A. Urbahn's Sons (Brooklyn, New York, N.Y.)",
@@ -83,8 +87,8 @@
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, circa 1880s-1920s"],
         "language_ssm":["English"],
-        "_version_":1775221600023478272,
-        "timestamp":"2023-08-25T17:07:25.872Z"},
+        "_version_":1800644206382809088,
+        "timestamp":"2024-06-01T07:48:52.613Z"},
       {
         "id":"arc_307_urbahnaspace_5a38c6b48ea49b2efad09c3dd695df70",
         "ead_ssi":"arc_307_urbahn",
@@ -103,8 +107,8 @@
         "unitdate_start_ssm":["1880"],
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, circa 1880s-1920s"],
-        "_version_":1775221600067518464,
-        "timestamp":"2023-08-25T17:07:25.914Z"},
+        "_version_":1800644206401683456,
+        "timestamp":"2024-06-01T07:48:52.631Z"},
       {
         "id":"arc_307_urbahnaspace_fc8754dd433ce66bddda08865eb05c02",
         "ead_ssi":"arc_307_urbahn",
@@ -123,8 +127,8 @@
         "unitdate_start_ssm":["1880"],
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, circa 1880s-1920s"],
-        "_version_":1775221600109461504,
-        "timestamp":"2023-08-25T17:07:25.953Z"}]
+        "_version_":1800644206416363520,
+        "timestamp":"2024-06-01T07:48:52.645Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -132,7 +136,9 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "A. Urbahn's Sons (Brooklyn, New York, N.Y.)",1,
+        "Urbahn family",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",3],

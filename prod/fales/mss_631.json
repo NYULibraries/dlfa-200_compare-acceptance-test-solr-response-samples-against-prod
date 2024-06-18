@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Gregory Thompson Journals"],
         "unitid_ssm":["MSS.631"],
         "abstract_ssm":["Gregory Thompson was an artist and graduate of the School of Visual Arts in New York City. The Gregory Thompson Journals (1978-1988) consists of 10 notebooks and sketchbooks, as well as printed copies of diary entries and photographs. Materials in the collection date from approximately 1978 to 1988 and document Thompson's life as an artist living with AIDS in Manhattan during the AIDS epidemic. The collection also contains several pornographic photographs, sketches, and postcards depicting men engaging in sexual acts. Thompson died in 1988 of AIDS related complications."],
+        "creator_ssm":["Thompson, Gregory",
+          "Thompson, Gregory"],
         "unitdate_normal_ssm":["1978/1988"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Notebooks",
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["1978"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1978-1988"],
-        "_version_":1775223433626386432,
-        "timestamp":"2023-08-25T17:36:34.532Z"},
+        "_version_":1800941144112103424,
+        "timestamp":"2024-06-04T14:28:34.499Z"},
       {
         "id":"mss_631aspace_02b171d4be410e74c116f0dab7513d94",
         "ead_ssi":"mss_631",
@@ -90,8 +92,8 @@
         "unitdate_start_ssm":["1988"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["1988"],
-        "_version_":1775223433730195456,
-        "timestamp":"2023-08-25T17:36:34.631Z"},
+        "_version_":1800941144149852160,
+        "timestamp":"2024-06-04T14:28:34.535Z"},
       {
         "id":"mss_631aspace_6bc206b84a12152cd0b2442f12ba223d",
         "ead_ssi":"mss_631",
@@ -107,8 +109,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Photographs"],
         "unitdate_ssm":["undated"],
-        "_version_":1775223433693495296,
-        "timestamp":"2023-08-25T17:36:34.596Z"},
+        "_version_":1800941144132026368,
+        "timestamp":"2024-06-04T14:28:34.518Z"},
       {
         "id":"mss_631aspace_ee646f6ffdcc3eebce7b7e4131f68d0a",
         "ead_ssi":"mss_631",
@@ -129,8 +131,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, circa 1970s-1980s"],
-        "_version_":1775223433773187072,
-        "timestamp":"2023-08-25T17:36:34.672Z"}]
+        "_version_":1800941144166629376,
+        "timestamp":"2024-06-04T14:28:34.551Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -138,7 +140,8 @@
       "repository_sim":[
         "fales",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Thompson, Gregory",1],
       "date_range_sim":[
         "1901-2000",3,
         "undated & other",1],

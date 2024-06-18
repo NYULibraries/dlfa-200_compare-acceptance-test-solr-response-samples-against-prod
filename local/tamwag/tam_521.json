@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":21,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Westgate Tenants Association Records"],
         "unitid_ssm":["TAM.521"],
         "abstract_ssm":["The Westgate Tenants Association represents the tenants of a \"Mitchell-Lama\" built housing project on New York City's Upper West Side, and in particular struggles to maintain rent stabilization against the project's new owner, who opted out of the Mitchell-Lama\" program and seeks to achieve market-rate rents in the project. The collection contains correspondence, minutes, flyers, newsletters, clippings, research files, and government reports related to housing issues."],
+        "creator_ssm":["Westgate Tenants Association (New York, N.Y.)",
+          "Westgate Tenants Association (New York, N.Y.)"],
         "unitdate_normal_ssm":["2000/2009"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Westgate Tenants Association (New York, N.Y.)",
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["2000"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 2000-2009"],
-        "_version_":1799334302534598656,
-        "timestamp":"2024-05-17T20:48:30.956Z"},
+        "_version_":1802183242568171520,
+        "timestamp":"2024-06-18T07:31:11.895Z"},
       {
         "id":"tam_521aspace_485ea85e76b35c529a41b2f00a64b5c7",
         "ead_ssi":"tam_521",
@@ -82,8 +84,8 @@
         "location_ssm":["Box: 1",
           "Box: 2"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799334302548230144,
-        "timestamp":"2024-05-17T20:48:30.969Z"}]
+        "_version_":1802183242577608704,
+        "timestamp":"2024-06-18T07:31:11.904Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Westgate Tenants Association (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

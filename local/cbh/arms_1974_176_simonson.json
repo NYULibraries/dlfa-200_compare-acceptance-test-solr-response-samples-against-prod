@@ -47,6 +47,8 @@
         "unittitle_ssm":["George L. Simonson application"],
         "unitid_ssm":["1974.176"],
         "abstract_ssm":["A letter of application written by George L. Simonson to Colonel Rodney C. Ward, commander of Brooklyn's 23rd National Guard regiment, for a position as Revenue Officer, dated 1879.  The application is signed on the bottom by 21 individuals in support of Simonson's application."],
+        "creator_ssm":["Simonson, George L.",
+          "Simonson, George L."],
         "unitdate_normal_ssm":["1879/1879"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). National Guard. Infantry Regiment, 23rd"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1879"],
         "unitdate_ssm":["Inclusive, 1879"],
         "language_ssm":["English"],
-        "_version_":1799256315793506304,
-        "timestamp":"2024-05-17T00:08:57.004Z"}]
+        "_version_":1801960415267127296,
+        "timestamp":"2024-06-15T20:29:27.221Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Simonson, George L.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

@@ -47,6 +47,10 @@
         "unittitle_ssm":["Linda Nakdimen papers and Henry Ward Beecher Anniversary photographs"],
         "unitid_ssm":["2008.038"],
         "abstract_ssm":["These papers include correspondence, photographs, and newspaper clippings, dating from 1986 to 1997.  The correspondence is between Linda Nakdimen and Stuyvesant \"Peter\" Barry and Alice Trumbull (Scoville) Barry, the great-great-granddaughter of Henry Ward Beecher. The photographs document the 100th year anniversary celebration of Beecher's death in 1987 and the 150th anniversary celebration of the founding of Plymouth Church in 1997. The newspaper clippings are related to the celebrations and Beecher's life."],
+        "creator_ssm":["Barry, Alice Scoville",
+          "Nakdimen, Linda",
+          "Barry, Alice Scoville",
+          "Nakdimen, Linda"],
         "unitdate_normal_ssm":["1986/1997"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Plymouth Church (Brooklyn, New York, N.Y.)",
@@ -78,8 +82,8 @@
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, 1986-1997"],
         "language_ssm":["English"],
-        "_version_":1775224255685853184,
-        "timestamp":"2023-08-25T17:49:38.509Z"}]
+        "_version_":1800807755651481600,
+        "timestamp":"2024-06-03T03:08:25.35Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +91,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Barry, Alice Scoville",1,
+        "Nakdimen, Linda",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

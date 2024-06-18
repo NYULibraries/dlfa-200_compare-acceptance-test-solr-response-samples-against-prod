@@ -47,6 +47,8 @@
         "unittitle_ssm":["James Zarichny Students for a Democratic Society Papers"],
         "unitid_ssm":["TAM.610"],
         "abstract_ssm":["The collection contains some twenty position papers and convention bulletins, most relating to a Students for a Democratic Society, June, 1963 conference in Nyack, New York."],
+        "creator_ssm":["Zarichny, James",
+          "Zarichny, James"],
         "unitdate_normal_ssm":["1962/1965"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Students for a Democratic Society (U.S.)"],
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, circa 1962-1965"],
         "language_ssm":["English"],
-        "_version_":1799791760147218432,
-        "timestamp":"2024-05-22T21:59:36.532Z"}]
+        "_version_":1802183709855580160,
+        "timestamp":"2024-06-18T07:38:37.535Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Zarichny, James",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

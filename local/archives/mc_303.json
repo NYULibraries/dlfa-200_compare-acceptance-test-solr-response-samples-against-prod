@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["History of Engineering at New York University Manuscripts"],
         "unitid_ssm":["MC.303"],
         "abstract_ssm":["The New York University Tandon School of Engineering was founded in 1854 as Brooklyn Collegiate and Polytechnic Institute. After merging with New York University in 2014, the program became the second oldest private engineering and technology school in the United States. The History of Engineering at New York University Manuscripts consist of binders of typescripts documenting the history of engineering programs at the school starting in the 1830s. The history was documented with the assistance of Thorndike Saville, former Dean of New York University's Engineering College. This collection documents the activities of this program during World War I and World War II, including war-time programs for cadets and soldiers, through original articles, photographs, and pamphlets."],
+        "creator_ssm":["Saville, Thorndike, 1892-1969",
+          "Saville, Thorndike, 1892-1969"],
         "unitdate_normal_ssm":["1943/1955"],
         "corpname_ssm":["New York University Archives",
           "New York University. Tandon School of Engineering",
@@ -74,8 +76,8 @@
         "unitdate_start_ssm":["1943"],
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["Inclusive, 1943-1955"],
-        "_version_":1799255352727830528,
-        "timestamp":"2024-05-16T23:53:38.553Z"},
+        "_version_":1801949620073398272,
+        "timestamp":"2024-06-15T17:37:52.122Z"},
       {
         "id":"mc_303aspace_289771b6d93ec410efab7c2dfc841555",
         "ead_ssi":"mc_303",
@@ -89,14 +91,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 1, Folder: 4"],
         "heading_ssm":["Part 2, Chapter 12 of \"The Camp on Campus\""],
         "unitdate_start_ssm":["1943"],
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["1943"],
-        "_version_":1799255352786550784,
-        "timestamp":"2024-05-16T23:53:38.609Z"},
+        "_version_":1801949620131069952,
+        "timestamp":"2024-06-15T17:37:52.177Z"},
       {
         "id":"mc_303aspace_9615671c3b3b79ab2ba528700a6a2d8b",
         "ead_ssi":"mc_303",
@@ -111,14 +112,13 @@
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1",
           "Box: 2, Folder: 1"],
         "heading_ssm":["Thirty-Eight, Thirty-Eight, Twenty-Four; or, Three Epochs in the First One Hundred Years of Engineering at New York University"],
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1960"],
         "unitdate_ssm":["Inclusive, circa 1955"],
-        "_version_":1799255352750899200,
-        "timestamp":"2024-05-16T23:53:38.575Z"},
+        "_version_":1801949620094369792,
+        "timestamp":"2024-06-15T17:37:52.142Z"},
       {
         "id":"mc_303aspace_d31c0018d67d52593cc0151c6187b1ac",
         "ead_ssi":"mc_303",
@@ -132,14 +132,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2-3",
-          "Folder: 2-3"],
+        "location_ssm":["Box: 1, Folder: 2-3"],
         "heading_ssm":["New York University College of Engineering in World War II (1941-1946)"],
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1950"],
         "unitdate_ssm":["1950"],
-        "_version_":1799255352768724992,
-        "timestamp":"2024-05-16T23:53:38.592Z"}]
+        "_version_":1801949620109049856,
+        "timestamp":"2024-06-15T17:37:52.156Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -147,7 +146,8 @@
       "repository_sim":[
         "archives",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Saville, Thorndike, 1892-1969",1],
       "date_range_sim":[
         "1901-2000",4],
       "subject_sim":[

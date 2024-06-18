@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Arthur Weindorf glass plate negatives"],
         "unitid_ssm":["V1974.024"],
         "abstract_ssm":["The negatives in this collection document the construction of the sewer system and subway tunnels in Brooklyn Heights and Downtown Brooklyn neighborhoods."],
+        "creator_ssm":["Weindorf, Arthur",
+          "Weindorf, Arthur"],
         "unitdate_normal_ssm":["1891/1926"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Negatives (photographic)"],
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1926"],
         "unitdate_ssm":["Inclusive, circa 1901 to 1916"],
         "language_ssm":["English"],
-        "_version_":1799312282938769408,
-        "timestamp":"2024-05-17T14:58:31.433Z"},
+        "_version_":1802044793281314816,
+        "timestamp":"2024-06-16T18:50:36.366Z"},
       {
         "id":"v1974_024_weindorfaspace_4efb8a7cff06640dbed8e489f66cba1a",
         "ead_ssi":"v1974_024_weindorf",
@@ -87,8 +89,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Glass plate negatives V1974.24.65-134"],
-        "_version_":1799312282978615296,
-        "timestamp":"2024-05-17T14:58:31.471Z"},
+        "_version_":1802044793446989824,
+        "timestamp":"2024-06-16T18:50:36.524Z"},
       {
         "id":"v1974_024_weindorfaspace_905bfbd68270767bf50a59cd9fcefcf3",
         "ead_ssi":"v1974_024_weindorf",
@@ -103,8 +105,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Glass plate negatives V1974.24.8-64"],
-        "_version_":1799312282966032384,
-        "timestamp":"2024-05-17T14:58:31.459Z"},
+        "_version_":1802044793432309760,
+        "timestamp":"2024-06-16T18:50:36.51Z"},
       {
         "id":"v1974_024_weindorfaspace_cab8d4a9d101d117fd7f9698672e0042",
         "ead_ssi":"v1974_024_weindorf",
@@ -119,8 +121,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 3"],
         "heading_ssm":["Glass plate negatives V1974.24.135-198"],
-        "_version_":1799312282991198208,
-        "timestamp":"2024-05-17T14:58:31.483Z"},
+        "_version_":1802044793474252800,
+        "timestamp":"2024-06-16T18:50:36.55Z"},
       {
         "id":"v1974_024_weindorfaspace_d8e7158d08c5afa19fc5207107943f2b",
         "ead_ssi":"v1974_024_weindorf",
@@ -135,8 +137,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 4"],
         "heading_ssm":["Glass plate negatives V1974.24.1-7 [oversize]"],
-        "_version_":1799312282953449472,
-        "timestamp":"2024-05-17T14:58:31.447Z"},
+        "_version_":1802044793301237760,
+        "timestamp":"2024-06-16T18:50:36.385Z"},
       {
         "id":"v1974_024_weindorfaspace_e1f7538d24b6c7d326c42a49db338781",
         "ead_ssi":"v1974_024_weindorf",
@@ -151,8 +153,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 4"],
         "heading_ssm":["Prints and non-glass negatives"],
-        "_version_":1799312283003781120,
-        "timestamp":"2024-05-17T14:58:31.495Z"}]
+        "_version_":1802044793494175744,
+        "timestamp":"2024-06-16T18:50:36.569Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -160,7 +162,8 @@
       "repository_sim":[
         "cbh",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Weindorf, Arthur",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Democratic Club Silas Wright centennial dinner records"],
         "unitid_ssm":["1978.145"],
         "abstract_ssm":["The Brooklyn Democratic Club Silas Wright centennial dinner records include an announcement, programs, clippings, letters, and a ribbon regarding the club's dinner celebrating the 100th anniversary of the birth of Silas Wright in 1895."],
+        "creator_ssm":["Brooklyn Democratic Club",
+          "Brooklyn Democratic Club"],
         "unitdate_normal_ssm":["1895/1895"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Democratic Club"],
@@ -79,8 +81,8 @@
         "unitdate_end_ssm":["1895"],
         "unitdate_ssm":["1895"],
         "language_ssm":["English"],
-        "_version_":1799256300881707008,
-        "timestamp":"2024-05-17T00:08:42.783Z"}]
+        "_version_":1801962572609486848,
+        "timestamp":"2024-06-15T21:03:44.623Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Democratic Club",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

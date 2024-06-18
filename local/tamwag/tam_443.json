@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Carlo Tresca \"Autobiography\" Typescript"],
         "unitid_ssm":["TAM.443"],
         "abstract_ssm":["Carlo Tresca (1879-1943), was an Italian-born anarchist, who emigrated to the United States in 1904. He was a labor organizer, a journalist, and the editor of several Italian language radical newspapers. An opponent of both fascism and Stalinism, he was assassinated in New York City in 1943. The collection consists of a 344 pp. undated  typescript, titled \"Autobiography,\" which covers his life and political activities through the 1920s."],
+        "creator_ssm":["Tresca, Carlo, 1879-1943",
+          "Tresca, Carlo, 1879-1943"],
         "unitdate_normal_ssm":["1920/1943"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Tresca, Carlo, 1879-1943",
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["Inclusive, circa 1920-1943"],
         "language_ssm":["English"],
-        "_version_":1799791112413511680,
-        "timestamp":"2024-05-22T21:49:18.805Z"}]
+        "_version_":1802183092409991168,
+        "timestamp":"2024-06-18T07:28:48.693Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tresca, Carlo, 1879-1943",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

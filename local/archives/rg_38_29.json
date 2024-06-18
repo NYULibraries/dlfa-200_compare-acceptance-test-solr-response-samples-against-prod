@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Afghanistan Digital Library Archived Website"],
         "unitid_ssm":["RG.38.29"],
         "abstract_ssm":["The Afghanistan Digital Library was a joint project of the New York University Libraries, the Department of Middle Eastern Studies, the Center for Near Eastern Studies, and the Center on International Cooperation, established in circa 2002. The website consists of digitized books, documents, and newspapers related to Afghani literature, poitics, economics, jurisprudence, the military, the government, and history from the 19th and 20th centuries."],
+        "creator_ssm":[" Afghanistan Digital Library",
+          " Afghanistan Digital Library"],
         "unitdate_normal_ssm":["2018-04-04/2023-04-04"],
         "corpname_ssm":["New York University Archives",
           " Afghanistan Digital Library",
@@ -63,8 +65,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Afghanistan Digital Library Archived Website"],
         "unitdate_ssm":["Inclusive, April 2018, April 2023"],
-        "_version_":1799248902324486144,
-        "timestamp":"2024-05-16T22:11:06.969Z"},
+        "_version_":1801953626538639360,
+        "timestamp":"2024-06-15T18:41:32.985Z"},
       {
         "id":"rg_38_29aspace_100a52ed34efacb9cad297af34bcf5a0",
         "ead_ssi":"rg_38_29",
@@ -82,8 +84,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["Inclusive, April 2018, April 2023"],
-        "_version_":1799248902343360512,
-        "timestamp":"2024-05-16T22:11:06.986Z"}]
+        "_version_":1801953626555416576,
+        "timestamp":"2024-06-15T18:41:33.001Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +94,8 @@
         "archives",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        " Afghanistan Digital Library",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

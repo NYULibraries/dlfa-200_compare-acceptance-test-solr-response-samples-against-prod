@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["James Oneal Papers"],
         "unitid_ssm":["TAM.034"],
+        "creator_ssm":["Oneal, James, 1875-1962",
+          "Oneal, James, 1875-1962"],
         "unitdate_normal_ssm":["1907/1962"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Socialist Party (U.S.)",
@@ -83,8 +85,8 @@
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1907-1962"],
         "language_ssm":["English"],
-        "_version_":1775222902113697792,
-        "timestamp":"2023-08-25T17:28:07.642Z"},
+        "_version_":1801200050028675072,
+        "timestamp":"2024-06-07T11:03:46.422Z"},
       {
         "id":"tam_034aspace_ref10",
         "ead_ssi":"tam_034",
@@ -99,8 +101,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 7"],
         "heading_ssm":["Clippings"],
-        "_version_":1775222902383181824,
-        "timestamp":"2023-08-25T17:28:07.899Z"},
+        "_version_":1801200050201690112,
+        "timestamp":"2024-06-07T11:03:46.587Z"},
       {
         "id":"tam_034aspace_ref11",
         "ead_ssi":"tam_034",
@@ -115,8 +117,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 8"],
         "heading_ssm":["Clippings"],
-        "_version_":1775222902419881984,
-        "timestamp":"2023-08-25T17:28:07.933Z"},
+        "_version_":1801200050216370176,
+        "timestamp":"2024-06-07T11:03:46.601Z"},
       {
         "id":"tam_034aspace_ref4",
         "ead_ssi":"tam_034",
@@ -131,8 +133,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Correspondence"],
-        "_version_":1775222902148300800,
-        "timestamp":"2023-08-25T17:28:07.674Z"},
+        "_version_":1801200050051743744,
+        "timestamp":"2024-06-07T11:03:46.444Z"},
       {
         "id":"tam_034aspace_ref5",
         "ead_ssi":"tam_034",
@@ -147,8 +149,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Writings"],
-        "_version_":1775222902181855232,
-        "timestamp":"2023-08-25T17:28:07.707Z"},
+        "_version_":1801200050074812416,
+        "timestamp":"2024-06-07T11:03:46.466Z"},
       {
         "id":"tam_034aspace_ref6",
         "ead_ssi":"tam_034",
@@ -163,8 +165,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 3"],
         "heading_ssm":["Writings"],
-        "_version_":1775222902215409664,
-        "timestamp":"2023-08-25T17:28:07.739Z"},
+        "_version_":1801200050092638208,
+        "timestamp":"2024-06-07T11:03:46.483Z"},
       {
         "id":"tam_034aspace_ref7",
         "ead_ssi":"tam_034",
@@ -179,8 +181,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 4"],
         "heading_ssm":["Writings"],
-        "_version_":1775222902263644160,
-        "timestamp":"2023-08-25T17:28:07.785Z"},
+        "_version_":1801200050106269696,
+        "timestamp":"2024-06-07T11:03:46.496Z"},
       {
         "id":"tam_034aspace_ref8",
         "ead_ssi":"tam_034",
@@ -195,8 +197,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 5"],
         "heading_ssm":["Clippings"],
-        "_version_":1775222902304538624,
-        "timestamp":"2023-08-25T17:28:07.824Z"},
+        "_version_":1801200050128289792,
+        "timestamp":"2024-06-07T11:03:46.517Z"},
       {
         "id":"tam_034aspace_ref9",
         "ead_ssi":"tam_034",
@@ -211,8 +213,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 6"],
         "heading_ssm":["Clippings"],
-        "_version_":1775222902343335936,
-        "timestamp":"2023-08-25T17:28:07.861Z"}]
+        "_version_":1801200050183864320,
+        "timestamp":"2024-06-07T11:03:46.57Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -220,7 +222,8 @@
       "repository_sim":[
         "tamwag",9],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Oneal, James, 1875-1962",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",8],

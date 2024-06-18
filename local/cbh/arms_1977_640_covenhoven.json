@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Deborah Covenhoven orders of permission"],
         "unitid_ssm":["1977.640"],
         "abstract_ssm":["Two 1782 orders of permission for Deborah Covenhoven to travel from New Jersey to Long Island and Staten Island."],
+        "creator_ssm":["Livingston, William",
+          "Covenhoven, Deborah",
+          "Walton, William",
+          "Livingston, William",
+          "Covenhoven, Deborah",
+          "Walton, William"],
         "unitdate_normal_ssm":["1782/1782"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Brooklyn (New York, N.Y.)",
@@ -67,8 +73,8 @@
         "unitdate_end_ssm":["1782"],
         "unitdate_ssm":["1782"],
         "language_ssm":["English"],
-        "_version_":1799256202810490880,
-        "timestamp":"2024-05-17T00:07:09.255Z"}]
+        "_version_":1801962122871046144,
+        "timestamp":"2024-06-15T20:56:35.719Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +82,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Covenhoven, Deborah",1,
+        "Livingston, William",1,
+        "Walton, William",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

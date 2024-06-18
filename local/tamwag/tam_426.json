@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Morris Golden Papers"],
         "unitid_ssm":["TAM.426"],
         "abstract_ssm":["Morris Golden was a Communist activist in the American Labor Party and United Federal Workers of America.  Collection contains papers pertaining to Golden's political work, particularly with the American Labor Party and United Federal Workers of America in the 1940s. Includes minutes, correspondence, and pamphlets."],
+        "creator_ssm":["Golden, Morris",
+          "Golden, Morris"],
         "unitdate_normal_ssm":["1945/1949"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United Federal Workers of America",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, 1945-1949"],
         "language_ssm":["English"],
-        "_version_":1799791038697570304,
-        "timestamp":"2024-05-22T21:48:08.503Z"}]
+        "_version_":1802183022487797760,
+        "timestamp":"2024-06-18T07:27:42.01Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Golden, Morris",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

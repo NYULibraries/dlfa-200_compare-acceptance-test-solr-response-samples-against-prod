@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Collier's Magazine Atomic War Controversy Clippings"],
         "unitid_ssm":["TAM.238"],
+        "creator_ssm":["P.F. Collier, Inc.",
+          "P.F. Collier, Inc."],
         "unitdate_normal_ssm":["1951/1952"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "P.F. Collier, Inc.",
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, 1951-1952"],
         "language_ssm":["English"],
-        "_version_":1799782429979836416,
-        "timestamp":"2024-05-22T19:31:18.591Z"}]
+        "_version_":1802171228189884416,
+        "timestamp":"2024-06-18T04:20:14.091Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "P.F. Collier, Inc.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

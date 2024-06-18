@@ -47,6 +47,8 @@
         "unittitle_ssm":["John C. Bergen papers"],
         "unitid_ssm":["1974.114"],
         "abstract_ssm":["John C. Bergen (1826-1907) was a farmer on Bergen's Island in Flatlands, Kings County, New York (now part of Brooklyn). His papers include pages from his diary (1846-1848, 1854); an account book with daybook and other transactional entries (1827-1835, 1865-1894); and Bergen's 1866 federal tax return. The diary entries focus principally on daily farming activities, hunting (including at Barren Island), weather, and bringing goods to market in Brooklyn and other Kings County towns, with references to illnesses, participation in town meetings, Bible readings, and other aspects of daily rural life. A farmhand named John J. who appears frequently in the diary's 1840s entries is, judging from an 1854 entry, an African-American."],
+        "creator_ssm":["Bergen, John C.",
+          "Bergen, John C."],
         "unitdate_normal_ssm":["1827/1894"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Bergen family"],
@@ -78,8 +80,8 @@
         "unitdate_start_ssm":["1827"],
         "unitdate_end_ssm":["1894"],
         "unitdate_ssm":["Inclusive, 1827-1894"],
-        "_version_":1799311704030445568,
-        "timestamp":"2024-05-17T14:49:19.343Z"}]
+        "_version_":1801960325599199232,
+        "timestamp":"2024-06-15T20:28:01.707Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bergen, John C.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

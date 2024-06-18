@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Wheeler N. Voorhees collection"],
         "unitid_ssm":["1977.182"],
         "abstract_ssm":["This collection consists of various genealogical papers and legal documents collected or created by Wheeler N. Voorhees and spanning the period 1766 to 1935.  The bulk of the collection includes correspondence, receipts, mortgages, bonds, and genealogical papers pertaining to Martin Schoonmaker, the first postmaster of the town of Gravesend and later the Kings County Deputy Commissioner of Juries, and his wife, Eliza."],
+        "creator_ssm":["Schoonmaker, Martin",
+          "Schoonmaker, Eliza",
+          "Voorhees, Wheeler N.",
+          "Schoonmaker, Martin",
+          "Schoonmaker, Eliza",
+          "Voorhees, Wheeler N."],
         "unitdate_normal_ssm":["1766/1935"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Voorhees family"],
@@ -89,8 +95,8 @@
         "unitdate_end_ssm":["1935"],
         "unitdate_ssm":["Inclusive, 1766-1935"],
         "language_ssm":["English"],
-        "_version_":1799256294124683264,
-        "timestamp":"2024-05-17T00:08:36.339Z"}]
+        "_version_":1801960881239621632,
+        "timestamp":"2024-06-15T20:36:51.606Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -98,7 +104,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Schoonmaker, Eliza",1,
+        "Schoonmaker, Martin",1,
+        "Voorhees, Wheeler N.",1],
       "date_range_sim":[
         "1701-1800",1,
         "1901-2000",1],

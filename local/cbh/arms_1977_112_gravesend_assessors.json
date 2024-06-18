@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Gravesend assessors and collectors order"],
         "unitid_ssm":["1977.112"],
         "abstract_ssm":["Order, dated 1746, to the assessors and collectors of the town of Gravesend in Kings County to collect taxes and deliver them to County Treasurer Peter Lefferts. Signed by S. Gerrtisen, Rutgert Van Brunt, and others."],
+        "creator_ssm":["Van Brunt, Rutgert",
+          "Lefferts, Peter",
+          "Gerritsen, S.",
+          "Van Brunt, Rutgert",
+          "Lefferts, Peter",
+          "Gerritsen, S."],
         "unitdate_normal_ssm":["1746/1746"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Agreements"],
@@ -69,8 +75,8 @@
         "unitdate_end_ssm":["1746"],
         "unitdate_ssm":["1746"],
         "language_ssm":["English"],
-        "_version_":1799311711627378688,
-        "timestamp":"2024-05-17T14:49:26.588Z"}]
+        "_version_":1801960727706075136,
+        "timestamp":"2024-06-15T20:34:25.186Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +84,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gerritsen, S.",1,
+        "Lefferts, Peter",1,
+        "Van Brunt, Rutgert",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

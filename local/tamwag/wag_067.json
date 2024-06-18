@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["International Photographers of the Motion Picture Industry, Local 644 Records"],
         "unitid_ssm":["WAG.067"],
         "abstract_ssm":["International Photographers of the Motion Picture Industry, Local 644, was chartered by the International Alliance of Theatrical Stage Employees in 1926 in response to theatrical and newsreel cameramen's dissatisfaction with their working conditions.  The original charter gave Local 644 jurisdiction over all cameramen in the United States, after which additional local unions were established in California and Chicago.  Local 644's cameramen have worked in television news, commercials, feature films, and the Army Signal Corps.  This collection includes minutes of executive board and general meetings, correspondence files, contracts, and legal files concerning motion picture feature production, documentary film photographs, newsreel photographers, broadcast news photographers, and the International Alliance of Theatrical Stage Employees East Coast Council."],
+        "creator_ssm":["International Photographers of the Motion Picture Industry",
+          "International Photographers of the Motion Picture Industry"],
         "unitdate_normal_ssm":["1926/1981",
           "1946/1975"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1981",
           "1975"],
         "unitdate_ssm":["Inclusive, 1926-1981 ; 1946-1975"],
-        "_version_":1799799982166900736,
-        "timestamp":"2024-05-23T00:10:17.661Z"},
+        "_version_":1802192350871552000,
+        "timestamp":"2024-06-18T09:55:58.25Z"},
       {
         "id":"wag_067aspace_ref10",
         "ead_ssi":"wag_067",
@@ -93,8 +95,8 @@
         "unitdate_start_ssm":["1927"],
         "unitdate_end_ssm":["1971"],
         "unitdate_ssm":["Inclusive, 1927-1971"],
-        "_version_":1799799982220378112,
-        "timestamp":"2024-05-23T00:10:17.712Z"},
+        "_version_":1802192350901960704,
+        "timestamp":"2024-06-18T09:55:58.279Z"},
       {
         "id":"wag_067aspace_ref11",
         "ead_ssi":"wag_067",
@@ -113,8 +115,8 @@
         "unitdate_start_ssm":["1928"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, 1928-1972"],
-        "_version_":1799799982234009600,
-        "timestamp":"2024-05-23T00:10:17.725Z"},
+        "_version_":1802192350910349312,
+        "timestamp":"2024-06-18T09:55:58.287Z"},
       {
         "id":"wag_067aspace_ref12",
         "ead_ssi":"wag_067",
@@ -133,8 +135,8 @@
         "unitdate_start_ssm":["1927"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, 1927-1974"],
-        "_version_":1799799982249738240,
-        "timestamp":"2024-05-23T00:10:17.739Z"},
+        "_version_":1802192350918737920,
+        "timestamp":"2024-06-18T09:55:58.295Z"},
       {
         "id":"wag_067aspace_ref13",
         "ead_ssi":"wag_067",
@@ -153,8 +155,8 @@
         "unitdate_start_ssm":["1927"],
         "unitdate_end_ssm":["1971"],
         "unitdate_ssm":["Inclusive, 1927-1971"],
-        "_version_":1799799982262321152,
-        "timestamp":"2024-05-23T00:10:17.752Z"},
+        "_version_":1802192350927126528,
+        "timestamp":"2024-06-18T09:55:58.303Z"},
       {
         "id":"wag_067aspace_ref14",
         "ead_ssi":"wag_067",
@@ -173,8 +175,8 @@
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, 1929-1972"],
-        "_version_":1799799982277001216,
-        "timestamp":"2024-05-23T00:10:17.766Z"},
+        "_version_":1802192350935515136,
+        "timestamp":"2024-06-18T09:55:58.31Z"},
       {
         "id":"wag_067aspace_ref15",
         "ead_ssi":"wag_067",
@@ -193,8 +195,8 @@
         "unitdate_start_ssm":["1954"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1954-1978"],
-        "_version_":1799799982289584128,
-        "timestamp":"2024-05-23T00:10:17.778Z"},
+        "_version_":1802192350942855168,
+        "timestamp":"2024-06-18T09:55:58.318Z"},
       {
         "id":"wag_067aspace_ref16",
         "ead_ssi":"wag_067",
@@ -213,8 +215,8 @@
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1947-1975"],
-        "_version_":1799799982303215616,
-        "timestamp":"2024-05-23T00:10:17.791Z"},
+        "_version_":1802192350951243776,
+        "timestamp":"2024-06-18T09:55:58.326Z"},
       {
         "id":"wag_067aspace_ref17",
         "ead_ssi":"wag_067",
@@ -233,8 +235,8 @@
         "unitdate_start_ssm":["1959"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1959-1975"],
-        "_version_":1799799982315798528,
-        "timestamp":"2024-05-23T00:10:17.803Z"},
+        "_version_":1802192350959632384,
+        "timestamp":"2024-06-18T09:55:58.334Z"},
       {
         "id":"wag_067aspace_ref18",
         "ead_ssi":"wag_067",
@@ -253,8 +255,8 @@
         "unitdate_start_ssm":["1935"],
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1935-1976"],
-        "_version_":1799799982330478592,
-        "timestamp":"2024-05-23T00:10:17.817Z"},
+        "_version_":1802192350969069568,
+        "timestamp":"2024-06-18T09:55:58.342Z"},
       {
         "id":"wag_067aspace_ref19",
         "ead_ssi":"wag_067",
@@ -275,8 +277,8 @@
         "unitdate_start_ssm":["1964"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1964-1978"],
-        "_version_":1799799982346207232,
-        "timestamp":"2024-05-23T00:10:17.832Z"},
+        "_version_":1802192350980603904,
+        "timestamp":"2024-06-18T09:55:58.354Z"},
       {
         "id":"wag_067aspace_ref20",
         "ead_ssi":"wag_067",
@@ -295,8 +297,8 @@
         "unitdate_start_ssm":["1958"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1958-1978"],
-        "_version_":1799799982358790144,
-        "timestamp":"2024-05-23T00:10:17.844Z"},
+        "_version_":1802192350987943936,
+        "timestamp":"2024-06-18T09:55:58.361Z"},
       {
         "id":"wag_067aspace_ref22",
         "ead_ssi":"wag_067",
@@ -317,8 +319,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1960-1977"],
-        "_version_":1799799982372421632,
-        "timestamp":"2024-05-23T00:10:17.857Z"},
+        "_version_":1802192350996332544,
+        "timestamp":"2024-06-18T09:55:58.369Z"},
       {
         "id":"wag_067aspace_ref23",
         "ead_ssi":"wag_067",
@@ -337,8 +339,8 @@
         "unitdate_start_ssm":["1967"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1967-1977"],
-        "_version_":1799799982387101696,
-        "timestamp":"2024-05-23T00:10:17.871Z"},
+        "_version_":1802192351004721152,
+        "timestamp":"2024-06-18T09:55:58.377Z"},
       {
         "id":"wag_067aspace_ref24",
         "ead_ssi":"wag_067",
@@ -357,8 +359,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1960-1976"],
-        "_version_":1799799982399684608,
-        "timestamp":"2024-05-23T00:10:17.883Z"},
+        "_version_":1802192351014158336,
+        "timestamp":"2024-06-18T09:55:58.386Z"},
       {
         "id":"wag_067aspace_ref25",
         "ead_ssi":"wag_067",
@@ -377,8 +379,8 @@
         "unitdate_start_ssm":["1948"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1948-1975"],
-        "_version_":1799799982413316096,
-        "timestamp":"2024-05-23T00:10:17.896Z"},
+        "_version_":1802192351022546944,
+        "timestamp":"2024-06-18T09:55:58.394Z"},
       {
         "id":"wag_067aspace_ref26",
         "ead_ssi":"wag_067",
@@ -397,8 +399,8 @@
         "unitdate_start_ssm":["1952"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1952-1973"],
-        "_version_":1799799982425899008,
-        "timestamp":"2024-05-23T00:10:17.908Z"},
+        "_version_":1802192351030935552,
+        "timestamp":"2024-06-18T09:55:58.402Z"},
       {
         "id":"wag_067aspace_ref27",
         "ead_ssi":"wag_067",
@@ -417,8 +419,8 @@
         "unitdate_start_ssm":["1952"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1952-1973"],
-        "_version_":1799799982439530496,
-        "timestamp":"2024-05-23T00:10:17.921Z"},
+        "_version_":1802192351041421312,
+        "timestamp":"2024-06-18T09:55:58.412Z"},
       {
         "id":"wag_067aspace_ref28",
         "ead_ssi":"wag_067",
@@ -437,8 +439,8 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1936-1976"],
-        "_version_":1799799982454210560,
-        "timestamp":"2024-05-23T00:10:17.935Z"},
+        "_version_":1802192351050858496,
+        "timestamp":"2024-06-18T09:55:58.421Z"},
       {
         "id":"wag_067aspace_ref29",
         "ead_ssi":"wag_067",
@@ -457,8 +459,8 @@
         "unitdate_start_ssm":["1954"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1954-1977"],
-        "_version_":1799799982467842048,
-        "timestamp":"2024-05-23T00:10:17.948Z"},
+        "_version_":1802192351059247104,
+        "timestamp":"2024-06-18T09:55:58.429Z"},
       {
         "id":"wag_067aspace_ref30",
         "ead_ssi":"wag_067",
@@ -478,8 +480,8 @@
         "unitdate_start_ssm":["1956"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1956-1977"],
-        "_version_":1799799982482522112,
-        "timestamp":"2024-05-23T00:10:17.962Z"},
+        "_version_":1802192351068684288,
+        "timestamp":"2024-06-18T09:55:58.438Z"},
       {
         "id":"wag_067aspace_ref31",
         "ead_ssi":"wag_067",
@@ -498,8 +500,8 @@
         "unitdate_start_ssm":["1926"],
         "unitdate_end_ssm":["1981"],
         "unitdate_ssm":["Inclusive, 1926-1981"],
-        "_version_":1799799982496153600,
-        "timestamp":"2024-05-23T00:10:17.975Z"},
+        "_version_":1802192351077072896,
+        "timestamp":"2024-06-18T09:55:58.445Z"},
       {
         "id":"wag_067aspace_ref32",
         "ead_ssi":"wag_067",
@@ -519,8 +521,8 @@
         "unitdate_start_ssm":["1926"],
         "unitdate_end_ssm":["1981"],
         "unitdate_ssm":["Inclusive, 1926-1981"],
-        "_version_":1799799982509785088,
-        "timestamp":"2024-05-23T00:10:17.988Z"},
+        "_version_":1802192351085461504,
+        "timestamp":"2024-06-18T09:55:58.454Z"},
       {
         "id":"wag_067aspace_ref8",
         "ead_ssi":"wag_067",
@@ -539,8 +541,8 @@
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1947-1975"],
-        "_version_":1799799982184726528,
-        "timestamp":"2024-05-23T00:10:17.677Z"},
+        "_version_":1802192350882037760,
+        "timestamp":"2024-06-18T09:55:58.26Z"},
       {
         "id":"wag_067aspace_ref9",
         "ead_ssi":"wag_067",
@@ -559,8 +561,8 @@
         "unitdate_start_ssm":["1948"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1948-1973"],
-        "_version_":1799799982198358016,
-        "timestamp":"2024-05-23T00:10:17.691Z"}]
+        "_version_":1802192350889377792,
+        "timestamp":"2024-06-18T09:55:58.267Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -568,7 +570,8 @@
       "repository_sim":[
         "tamwag",25],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "International Photographers of the Motion Picture Industry",1],
       "date_range_sim":[
         "1901-2000",25],
       "subject_sim":[

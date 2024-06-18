@@ -47,6 +47,8 @@
         "unittitle_ssm":["Walter Lowenfels Papers"],
         "unitid_ssm":["TAM.475"],
         "abstract_ssm":["Walter Lowenfels (1897-1976), was an American poet, journalist, and member of the Communist Party USA.  This collection includes correspondence, editorial and personal, including with prominent authors and poets; and poetry, notes, and other writings by Lowenfels."],
+        "creator_ssm":["Lowenfels, Walter, 1897-1976.",
+          "Lowenfels, Walter, 1897-1976."],
         "unitdate_normal_ssm":["1941/1977",
           "1967/1977"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -81,8 +83,8 @@
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, circa 1942-circa 1977 ; 1967-1977"],
         "language_ssm":["English"],
-        "_version_":1799791170294906880,
-        "timestamp":"2024-05-22T21:50:14.005Z"}]
+        "_version_":1802183172323016704,
+        "timestamp":"2024-06-18T07:30:04.903Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +92,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lowenfels, Walter, 1897-1976.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

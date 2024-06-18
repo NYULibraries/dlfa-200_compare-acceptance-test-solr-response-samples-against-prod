@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ralph S. Solecki archaeological surveys"],
         "unitid_ssm":["ARC.092"],
         "abstract_ssm":["The Ralph S. Solecki archaeological surveys include two folders containing copies of reports drawn up by Solecki in 1977 for the Red Hook Water Pollution Control Project, which was undertaken by the New York City Department of Water Resources to assess the impact of sewer construction in Brooklyn. The surveys contain historical and geological information, as well as analyses of street pavings and sewer routes, concerning areas in the Brooklyn neighorhoods of Boerum Hill, Carroll Gardens, Brooklyn Heights, Fulton Ferry Landing, and DUMBO."],
+        "creator_ssm":["Solecki, Ralph S.",
+          "Solecki, Ralph S."],
         "unitdate_normal_ssm":["1977/1977"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (N.Y.). Dept. of Water Resources"],
@@ -88,8 +90,8 @@
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1977"],
         "language_ssm":["English"],
-        "_version_":1799256205475971072,
-        "timestamp":"2024-05-17T00:07:11.797Z"}]
+        "_version_":1801958963690864640,
+        "timestamp":"2024-06-15T20:06:22.889Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,7 +99,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Solecki, Ralph S.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

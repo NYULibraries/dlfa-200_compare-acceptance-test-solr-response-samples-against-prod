@@ -45,9 +45,10 @@
       {
         "author_ssm":["Nicole Greenhouse"],
         "unittitle_ssm":["Records of the Office of the President, Linda G. Mills"],
-        "unitid_ssm":["RG.3.0.14",
-          "/repositories/6/resources/3437"],
+        "unitid_ssm":["RG.3.0.14"],
         "abstract_ssm":["The Office of the President is the top administrative office and is responsible for the management of the entire University structure. The duties of the President included the development, implementation, and monitoring of University activities, the cultivation of outreach programs, and the promotion of University activities to prospective donors and to the general public. Linda G. Mills was named the 17th president of New York University in February 2023, and officially took up her duties as NYU's president on July 1, 2023. This collection consists of materials created and collected by her office during his administration."],
+        "creator_ssm":["New York University. Office of the President",
+          "New York University. Office of the President"],
         "unitdate_normal_ssm":["2023-02-15/2023-02-15"],
         "corpname_ssm":["New York University Archives",
           "New York University. Office of the President",
@@ -66,15 +67,15 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Records of the Office of the President, Linda G. Mills"],
         "unitdate_ssm":["February 2023-ongoing"],
-        "_version_":1799254664808497152,
-        "timestamp":"2024-05-16T23:42:42.501Z"},
+        "_version_":1801954412362465280,
+        "timestamp":"2024-06-15T18:54:02.405Z"},
       {
         "id":"rg_3_0_14aspace_46aea8a96adad9d1b68031a056b4b3cf",
         "ead_ssi":"rg_3_0_14",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Records of the Office of the President, Linda G. Mills"],
-        "collection_unitid_ssm":["RG.3.0.14/repositories/6/resources/3437"],
+        "collection_unitid_ssm":["RG.3.0.14"],
         "unittitle_ssm":["Archived Websites"],
         "unitid_ssm":["/repositories/6/archival_objects/966072"],
         "unitdate_normal_ssm":["2023-02/2023-02"],
@@ -97,8 +98,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["February 2023-ongoing"],
-        "_version_":1799254664842051584,
-        "timestamp":"2024-05-16T23:42:42.534Z"}]
+        "_version_":1801954412411748352,
+        "timestamp":"2024-06-15T18:54:02.452Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -107,7 +108,8 @@
         "archives",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Office of the President",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

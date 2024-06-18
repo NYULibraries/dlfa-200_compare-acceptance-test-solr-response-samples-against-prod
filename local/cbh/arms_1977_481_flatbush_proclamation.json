@@ -47,6 +47,10 @@
         "unittitle_ssm":["300th anniversary of Flatbush proclamation"],
         "unitid_ssm":["1977.481"],
         "abstract_ssm":["A proclamation, issued April 24, 1952, designating May 27, 1952 as the 300th anniversary of the official establishment of the Town of Flatbush."],
+        "creator_ssm":["Brooklyn (New York, N.Y.). Office of Brooklyn Borough President",
+          "Cashmore, John",
+          "Brooklyn (New York, N.Y.). Office of Brooklyn Borough President",
+          "Cashmore, John"],
         "unitdate_normal_ssm":["1952/1952"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn (New York, N.Y.). Office of Brooklyn Borough President"],
@@ -67,8 +71,8 @@
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["1952"],
         "language_ssm":["English"],
-        "_version_":1799312378282639360,
-        "timestamp":"2024-05-17T15:00:02.36Z"}]
+        "_version_":1801961761951186944,
+        "timestamp":"2024-06-15T20:50:51.519Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +80,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn (New York, N.Y.). Office of Brooklyn Borough President",1,
+        "Cashmore, John",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

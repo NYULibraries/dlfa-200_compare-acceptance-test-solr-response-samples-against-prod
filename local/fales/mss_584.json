@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["John Tegnell Collection on John Watts"],
         "unitid_ssm":["MSS.584"],
         "abstract_ssm":["John Everett Watts, Jr. (1929–1982) was an American composer of electronic music throughout the 1970s and 1980s. The John Tegnell Collection on John Watts contains an undated Composers Festival Orchestra list of musicians; two letters from John Watts to John Tegnell in 1973 and 1976; a 1977 photograph of Watts; and an undated annotated score Z from a performance featuring Watts."],
+        "creator_ssm":["Tegnell, John",
+          "Watts, John, 1930-1982",
+          "Tegnell, John",
+          "Watts, John, 1930-1982"],
         "unitdate_normal_ssm":["1970/1982"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Correspondence.",
@@ -70,8 +74,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1982"],
         "unitdate_ssm":["Inclusive, 1973, 1976-1977, undated"],
-        "_version_":1799745373801021440,
-        "timestamp":"2024-05-22T09:42:19.065Z"},
+        "_version_":1802081634377269248,
+        "timestamp":"2024-06-17T04:36:10.773Z"},
       {
         "id":"mss_584aspace_0a7f269aa1d67a96f00f5c7ff692cda9",
         "ead_ssi":"mss_584",
@@ -85,14 +89,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Fales 009, Folder: 6-7",
-          "Folder: 6-7"],
+        "location_ssm":["Box: Shared Fales 009, Folder: 6-7"],
         "heading_ssm":["Letters, Photograph, and Notated Score"],
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1982"],
         "unitdate_ssm":["Inclusive, 1973, 1976-1977, undated"],
-        "_version_":1799745373816750080,
-        "timestamp":"2024-05-22T09:42:19.08Z"}]
+        "_version_":1802081634396143616,
+        "timestamp":"2024-06-17T04:36:10.791Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -100,7 +103,9 @@
       "repository_sim":[
         "fales",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tegnell, John",1,
+        "Watts, John, 1930-1982",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

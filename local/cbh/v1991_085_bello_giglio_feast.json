@@ -47,6 +47,10 @@
         "unittitle_ssm":["Jim Kalett and Thomas Bello photographs of the Giglio Feast in Williamsburg"],
         "unitid_ssm":["V1991.085"],
         "abstract_ssm":["The photographs show crowds watching and participating in the street procession and festival, images of the Giglio tower, and musicians performing on the tower and in the street circa 1955 to 1975."],
+        "creator_ssm":["Bello, Thomas",
+          "Kalett, Jim",
+          "Bello, Thomas",
+          "Kalett, Jim"],
         "unitdate_normal_ssm":["1945/1985"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Negatives (photographic)",
@@ -77,8 +81,8 @@
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, circa 1955 to 1975"],
         "language_ssm":["English"],
-        "_version_":1799256310858907648,
-        "timestamp":"2024-05-17T00:08:52.298Z"}]
+        "_version_":1802045516987498496,
+        "timestamp":"2024-06-16T19:02:06.545Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +90,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bello, Thomas",1,
+        "Kalett, Jim",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

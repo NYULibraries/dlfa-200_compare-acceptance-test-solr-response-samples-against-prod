@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>Souvenir of Moriches, 1898</em> viewbook"],
         "unitid_ssm":["V1986.057"],
         "abstract_ssm":["The Souvenir of Moriches, 1898 viewbook contains black-and-white non-photographic prints of photographs depicting an area of the hamlet of Moriches, called Centre Moriches, that is located in Suffolk County, Long Island."],
+        "creator_ssm":["Purdy, Frederick F.",
+          "Purdy, Frederick F."],
         "unitdate_normal_ssm":["1898/1898"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Viewbooks"],
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1898"],
         "unitdate_ssm":["Inclusive, 1898"],
         "language_ssm":["English"],
-        "_version_":1799311403880808448,
-        "timestamp":"2024-05-17T14:44:33.098Z"}]
+        "_version_":1802045075379716096,
+        "timestamp":"2024-06-16T18:55:05.395Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Purdy, Frederick F.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Ansel and Idelle Van Buren bond"],
         "unitid_ssm":["1977.557"],
         "abstract_ssm":["One 1891 bond of Ansel and Idelle Van Buren of $21,000 to Henry Lankenau. Ansel Hayes Van Buren and Idelle Newell, a married couple, lived in Flatbush, Brooklyn."],
+        "creator_ssm":["Van Buren, Idelle",
+          "Van Buren, Ansel",
+          "Van Buren, Idelle",
+          "Van Buren, Ansel"],
         "unitdate_normal_ssm":["1891/1891"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Bonds (legal records)"],
@@ -68,8 +72,8 @@
         "unitdate_end_ssm":["1891"],
         "unitdate_ssm":["1891"],
         "language_ssm":["English"],
-        "_version_":1799256494045134848,
-        "timestamp":"2024-05-17T00:11:46.998Z"}]
+        "_version_":1801961944009146368,
+        "timestamp":"2024-06-15T20:53:45.142Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +81,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Van Buren, Ansel",1,
+        "Van Buren, Idelle",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

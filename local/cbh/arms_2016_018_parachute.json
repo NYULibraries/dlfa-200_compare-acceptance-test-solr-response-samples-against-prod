@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Department of Parks and Recreation Coney Island Parachute Jump report"],
         "unitid_ssm":["2016.018"],
         "abstract_ssm":["The collection consists of a report prepared in September 1983 by New York engineering firm Hardesty & Hanover for the Department of Parks and Recreation concerning the structural integrity, historical status, and future potential of the Parachute Jump attraction in the Coney Island neighborhood of Brooklyn."],
+        "creator_ssm":["New York (N.Y.). Dept. of Parks and Recreation",
+          "Hardesty & Hanover",
+          "New York (N.Y.). Dept. of Parks and Recreation",
+          "Hardesty & Hanover"],
         "unitdate_normal_ssm":["1983/1983"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (N.Y.). Dept. of Parks and Recreation",
@@ -72,8 +76,8 @@
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1983"],
         "language_ssm":["English"],
-        "_version_":1799312282729054208,
-        "timestamp":"2024-05-17T14:58:31.233Z"}]
+        "_version_":1801967029980233728,
+        "timestamp":"2024-06-15T22:14:35.503Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +85,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hardesty & Hanover",1,
+        "New York (N.Y.). Dept. of Parks and Recreation",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":33,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Owen Jefferson Smith FBI File"],
         "unitid_ssm":["ALBA.307"],
         "abstract_ssm":["Owen Jefferson Smith was an entomologist who joined the International Brigades in 1937. Smith was under FBI surveillance between 1941 and 1952 for suspicion of communism and distributing communist literature. Smith's FBI file contains government surveillance documents of Smith during his work with the Congress of Industrial Organizations (CIO), and as a graduate student at Ohio State. The file also includes a transcript of Smith's statement to the FBI regarding his Communist Party affiliation."],
+        "creator_ssm":["United States. Federal Bureau of Investigation",
+          "United States. Federal Bureau of Investigation"],
         "unitdate_normal_ssm":["1941/1952"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United States. Federal Bureau of Investigation"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1941"],
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, 1941-1952"],
-        "_version_":1799748176081584128,
-        "timestamp":"2024-05-22T10:26:51.528Z"}]
+        "_version_":1802111693683163136,
+        "timestamp":"2024-06-17T12:33:57.561Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. Federal Bureau of Investigation",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

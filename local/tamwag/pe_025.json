@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the United Telegraph Workers"],
         "unitid_ssm":["PE.025"],
         "abstract_ssm":["The Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the United Telegraph Workers is an artificial collection, collected and assembled by the Tamiment Library over the course of several decades. It consists of contracts, agreements and constitutions from the United Telegraph Workers as well as its predecessor, the Commercial Telegraphers' Union of America. There are also files from the various divisions of the Union, representing workers from Canada and the United States who worked for the Canadian Pacific System, the United Press System, and the Western Union, among others."],
+        "creator_ssm":["Tamiment Library",
+          "Tamiment Library"],
         "unitdate_normal_ssm":["1916/1990"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Tamiment Library",
@@ -75,8 +77,8 @@
         "unitdate_start_ssm":["1916"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1916-1990"],
-        "_version_":1799749003037900800,
-        "timestamp":"2024-05-22T10:40:00.175Z"},
+        "_version_":1802113387119771648,
+        "timestamp":"2024-06-17T13:00:52.548Z"},
       {
         "id":"pe_025aspace_ref1",
         "ead_ssi":"pe_025",
@@ -94,8 +96,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1966"],
         "unitdate_ssm":["Inclusive, 1920-1966"],
-        "_version_":1799749003053629440,
-        "timestamp":"2024-05-22T10:40:00.19Z"},
+        "_version_":1802113387140743168,
+        "timestamp":"2024-06-17T13:00:52.568Z"},
       {
         "id":"pe_025aspace_ref13",
         "ead_ssi":"pe_025",
@@ -117,8 +119,8 @@
         "unitdate_start_ssm":["1922"],
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["Inclusive, 1922-1955"],
-        "_version_":1799749003093475328,
-        "timestamp":"2024-05-22T10:40:00.227Z"},
+        "_version_":1802113387190026240,
+        "timestamp":"2024-06-17T13:00:52.615Z"},
       {
         "id":"pe_025aspace_ref14",
         "ead_ssi":"pe_025",
@@ -140,8 +142,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1928"],
         "unitdate_ssm":["Inclusive, 1920-1928"],
-        "_version_":1799749003109203968,
-        "timestamp":"2024-05-22T10:40:00.243Z"},
+        "_version_":1802113387213094912,
+        "timestamp":"2024-06-17T13:00:52.637Z"},
       {
         "id":"pe_025aspace_ref16",
         "ead_ssi":"pe_025",
@@ -163,8 +165,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, 1930-1949"],
-        "_version_":1799749003124932608,
-        "timestamp":"2024-05-22T10:40:00.258Z"},
+        "_version_":1802113387236163584,
+        "timestamp":"2024-06-17T13:00:52.659Z"},
       {
         "id":"pe_025aspace_ref17",
         "ead_ssi":"pe_025",
@@ -186,8 +188,8 @@
         "unitdate_start_ssm":["1951"],
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, 1951-1963"],
-        "_version_":1799749003139612672,
-        "timestamp":"2024-05-22T10:40:00.272Z"},
+        "_version_":1802113387253989376,
+        "timestamp":"2024-06-17T13:00:52.676Z"},
       {
         "id":"pe_025aspace_ref18",
         "ead_ssi":"pe_025",
@@ -209,8 +211,8 @@
         "unitdate_start_ssm":["1925"],
         "unitdate_end_ssm":["1925"],
         "unitdate_ssm":["Inclusive, 1925"],
-        "_version_":1799749003156389888,
-        "timestamp":"2024-05-22T10:40:00.288Z"},
+        "_version_":1802113387274960896,
+        "timestamp":"2024-06-17T13:00:52.696Z"},
       {
         "id":"pe_025aspace_ref19",
         "ead_ssi":"pe_025",
@@ -232,8 +234,8 @@
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["Inclusive, 1929-1947, undated"],
-        "_version_":1799749003172118528,
-        "timestamp":"2024-05-22T10:40:00.303Z"},
+        "_version_":1802113387302223872,
+        "timestamp":"2024-06-17T13:00:52.722Z"},
       {
         "id":"pe_025aspace_ref2",
         "ead_ssi":"pe_025",
@@ -251,8 +253,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1968-1990"],
-        "_version_":1799749003238178816,
-        "timestamp":"2024-05-22T10:40:00.366Z"},
+        "_version_":1802113387393449984,
+        "timestamp":"2024-06-17T13:00:52.809Z"},
       {
         "id":"pe_025aspace_ref20",
         "ead_ssi":"pe_025",
@@ -274,8 +276,8 @@
         "unitdate_start_ssm":["1941"],
         "unitdate_end_ssm":["1961"],
         "unitdate_ssm":["Inclusive, 1941-1961"],
-        "_version_":1799749003187847168,
-        "timestamp":"2024-05-22T10:40:00.318Z"},
+        "_version_":1802113387321098240,
+        "timestamp":"2024-06-17T13:00:52.74Z"},
       {
         "id":"pe_025aspace_ref21",
         "ead_ssi":"pe_025",
@@ -297,8 +299,8 @@
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["Inclusive, circa 1947"],
-        "_version_":1799749003224547328,
-        "timestamp":"2024-05-22T10:40:00.353Z"},
+        "_version_":1802113387371429888,
+        "timestamp":"2024-06-17T13:00:52.788Z"},
       {
         "id":"pe_025aspace_ref22",
         "ead_ssi":"pe_025",
@@ -320,8 +322,8 @@
         "unitdate_start_ssm":["1971"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1971-1979"],
-        "_version_":1799749003268587520,
-        "timestamp":"2024-05-22T10:40:00.395Z"},
+        "_version_":1802113387441684480,
+        "timestamp":"2024-06-17T13:00:52.855Z"},
       {
         "id":"pe_025aspace_ref23",
         "ead_ssi":"pe_025",
@@ -343,8 +345,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1983-1986"],
-        "_version_":1799749003283267584,
-        "timestamp":"2024-05-22T10:40:00.409Z"},
+        "_version_":1802113387460558848,
+        "timestamp":"2024-06-17T13:00:52.873Z"},
       {
         "id":"pe_025aspace_ref24",
         "ead_ssi":"pe_025",
@@ -366,8 +368,8 @@
         "unitdate_start_ssm":["1925"],
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, 1925-1967"],
-        "_version_":1799749003328356352,
-        "timestamp":"2024-05-22T10:40:00.451Z"},
+        "_version_":1802113387529764864,
+        "timestamp":"2024-06-17T13:00:52.939Z"},
       {
         "id":"pe_025aspace_ref25",
         "ead_ssi":"pe_025",
@@ -389,8 +391,8 @@
         "unitdate_start_ssm":["1916"],
         "unitdate_end_ssm":["1942"],
         "unitdate_ssm":["Inclusive, 1916-1942"],
-        "_version_":1799749003343036416,
-        "timestamp":"2024-05-22T10:40:00.466Z"},
+        "_version_":1802113387550736384,
+        "timestamp":"2024-06-17T13:00:52.959Z"},
       {
         "id":"pe_025aspace_ref26",
         "ead_ssi":"pe_025",
@@ -412,8 +414,8 @@
         "unitdate_start_ssm":["1949"],
         "unitdate_end_ssm":["1956"],
         "unitdate_ssm":["Inclusive, 1949-1956"],
-        "_version_":1799749003360862208,
-        "timestamp":"2024-05-22T10:40:00.483Z"},
+        "_version_":1802113387574853632,
+        "timestamp":"2024-06-17T13:00:52.982Z"},
       {
         "id":"pe_025aspace_ref27",
         "ead_ssi":"pe_025",
@@ -435,8 +437,8 @@
         "unitdate_start_ssm":["1939"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1939-1965"],
-        "_version_":1799749003376590848,
-        "timestamp":"2024-05-22T10:40:00.498Z"},
+        "_version_":1802113387595825152,
+        "timestamp":"2024-06-17T13:00:53.002Z"},
       {
         "id":"pe_025aspace_ref28",
         "ead_ssi":"pe_025",
@@ -458,8 +460,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1982"],
         "unitdate_ssm":["Inclusive, 1972-1982"],
-        "_version_":1799749003391270912,
-        "timestamp":"2024-05-22T10:40:00.512Z"},
+        "_version_":1802113387620990976,
+        "timestamp":"2024-06-17T13:00:53.026Z"},
       {
         "id":"pe_025aspace_ref29",
         "ead_ssi":"pe_025",
@@ -481,8 +483,8 @@
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1929-1962"],
-        "_version_":1799749003405950976,
-        "timestamp":"2024-05-22T10:40:00.526Z"},
+        "_version_":1802113387643011072,
+        "timestamp":"2024-06-17T13:00:53.047Z"},
       {
         "id":"pe_025aspace_ref3",
         "ead_ssi":"pe_025",
@@ -504,8 +506,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1966"],
         "unitdate_ssm":["Inclusive, 1920-1966"],
-        "_version_":1799749003070406656,
-        "timestamp":"2024-05-22T10:40:00.206Z"},
+        "_version_":1802113387163811840,
+        "timestamp":"2024-06-17T13:00:52.59Z"},
       {
         "id":"pe_025aspace_ref30",
         "ead_ssi":"pe_025",
@@ -527,8 +529,8 @@
         "unitdate_start_ssm":["1946"],
         "unitdate_end_ssm":["1953"],
         "unitdate_ssm":["Inclusive, 1946-1953"],
-        "_version_":1799749003424825344,
-        "timestamp":"2024-05-22T10:40:00.544Z"},
+        "_version_":1802113387668176896,
+        "timestamp":"2024-06-17T13:00:53.07Z"},
       {
         "id":"pe_025aspace_ref31",
         "ead_ssi":"pe_025",
@@ -550,8 +552,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1964"],
         "unitdate_ssm":["Inclusive, 1960, 1964"],
-        "_version_":1799749003440553984,
-        "timestamp":"2024-05-22T10:40:00.559Z"},
+        "_version_":1802113387690196992,
+        "timestamp":"2024-06-17T13:00:53.092Z"},
       {
         "id":"pe_025aspace_ref32",
         "ead_ssi":"pe_025",
@@ -573,8 +575,8 @@
         "unitdate_start_ssm":["1918"],
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["Inclusive, 1918, 1948"],
-        "_version_":1799749003457331200,
-        "timestamp":"2024-05-22T10:40:00.575Z"},
+        "_version_":1802113387719557120,
+        "timestamp":"2024-06-17T13:00:53.119Z"},
       {
         "id":"pe_025aspace_ref33",
         "ead_ssi":"pe_025",
@@ -596,8 +598,8 @@
         "unitdate_start_ssm":["1959"],
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, 1959-1967"],
-        "_version_":1799749003473059840,
-        "timestamp":"2024-05-22T10:40:00.59Z"},
+        "_version_":1802113387742625792,
+        "timestamp":"2024-06-17T13:00:53.142Z"},
       {
         "id":"pe_025aspace_ref34",
         "ead_ssi":"pe_025",
@@ -619,8 +621,8 @@
         "unitdate_start_ssm":["1943"],
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["Inclusive, 1943-1957"],
-        "_version_":1799749003490885632,
-        "timestamp":"2024-05-22T10:40:00.607Z"},
+        "_version_":1802113387769888768,
+        "timestamp":"2024-06-17T13:00:53.168Z"},
       {
         "id":"pe_025aspace_ref35",
         "ead_ssi":"pe_025",
@@ -642,8 +644,8 @@
         "unitdate_start_ssm":["1959"],
         "unitdate_end_ssm":["1971"],
         "unitdate_ssm":["Inclusive, 1959-1971"],
-        "_version_":1799749003506614272,
-        "timestamp":"2024-05-22T10:40:00.622Z"},
+        "_version_":1802113387800297472,
+        "timestamp":"2024-06-17T13:00:53.197Z"},
       {
         "id":"pe_025aspace_ref36",
         "ead_ssi":"pe_025",
@@ -665,8 +667,8 @@
         "unitdate_start_ssm":["1966"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1966-1986"],
-        "_version_":1799749003522342912,
-        "timestamp":"2024-05-22T10:40:00.637Z"},
+        "_version_":1802113387825463296,
+        "timestamp":"2024-06-17T13:00:53.221Z"},
       {
         "id":"pe_025aspace_ref4",
         "ead_ssi":"pe_025",
@@ -688,8 +690,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1968-1990"],
-        "_version_":1799749003252858880,
-        "timestamp":"2024-05-22T10:40:00.38Z"},
+        "_version_":1802113387415470080,
+        "timestamp":"2024-06-17T13:00:52.83Z"},
       {
         "id":"pe_025aspace_ref42",
         "ead_ssi":"pe_025",
@@ -711,8 +713,8 @@
         "unitdate_start_ssm":["1971"],
         "unitdate_end_ssm":["1971"],
         "unitdate_ssm":["Inclusive, 1971"],
-        "_version_":1799749003297947648,
-        "timestamp":"2024-05-22T10:40:00.423Z"},
+        "_version_":1802113387484676096,
+        "timestamp":"2024-06-17T13:00:52.896Z"},
       {
         "id":"pe_025aspace_ref43",
         "ead_ssi":"pe_025",
@@ -731,8 +733,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Strikes"],
         "unitdate_ssm":["1952"],
-        "_version_":1799749003203575808,
-        "timestamp":"2024-05-22T10:40:00.333Z"},
+        "_version_":1802113387344166912,
+        "timestamp":"2024-06-17T13:00:52.762Z"},
       {
         "id":"pe_025aspace_ref6",
         "ead_ssi":"pe_025",
@@ -750,8 +752,8 @@
         "unitdate_start_ssm":["1916"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1916-1986"],
-        "_version_":1799749003311579136,
-        "timestamp":"2024-05-22T10:40:00.436Z"}]
+        "_version_":1802113387506696192,
+        "timestamp":"2024-06-17T13:00:52.916Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -759,7 +761,8 @@
       "repository_sim":[
         "tamwag",31],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tamiment Library",1],
       "date_range_sim":[
         "1901-2000",30,
         "undated & other",1],

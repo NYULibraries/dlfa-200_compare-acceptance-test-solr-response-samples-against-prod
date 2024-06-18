@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Monument Lot archaeological dig report"],
         "unitid_ssm":["2007.036"],
         "abstract_ssm":["Official report of an archaeological dig conducted in 2003 at the Martyrs' Monument/Monument Lot, a triangular lot on Hudson Avenue in Brooklyn, N.Y.  The dig was conducted to \"determine if there was any remaining evidence of an 1808 burial crypt that once held the bones of possibly thousands of Revolutionary War prisoners who died aboard British prison ships anchored in nearby Wallabout Bay.\"  The bones in the original crypt had been transferred to a tomb in Brooklyn's Fort Greene Park in 1873.  A permanent monument, known as the Prison Ship Martyrs Monument, was constructed at the site of the Fort Greene crypt in 1908.\n\nThe collection includes five samples of ceramic sherds recovered from the dig."],
+        "creator_ssm":["Geismar, Joan H.",
+          "Geismar, Joan H."],
         "unitdate_normal_ssm":["2003/2003"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Reports"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 2003"],
         "language_ssm":["English"],
-        "_version_":1799311710240112640,
-        "timestamp":"2024-05-17T14:49:25.265Z"}]
+        "_version_":1801963998976933888,
+        "timestamp":"2024-06-15T21:26:24.912Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Geismar, Joan H.",1],
       "date_range_sim":[
         "2001-2100",1],
       "subject_sim":[

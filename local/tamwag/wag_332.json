@@ -47,6 +47,8 @@
         "unittitle_ssm":["U.S. Labor Against the War Records"],
         "unitid_ssm":["WAG.332"],
         "abstract_ssm":["U.S. Labor Against the War (USLAW) was founded on October 25th, 2003 in Chicago at the National Assembly for Peace conference in response to the United States's invasion of Iraq in 2003. The organization's mission is twofold: demilitarizing U.S. foreign policy and organizing for a new economy. This collection contains notes, newsclippings, proposals, contracts, speeches, and multi-media items (photographs, videos, audio recordings) pertaining to the early days of USLAW, delegations to Iraq, Iraq labor solidarity, and AFL-CIO response to the Iraq War."],
+        "creator_ssm":["U.S. Labor Against the War",
+          "U.S. Labor Against the War"],
         "unitdate_normal_ssm":["2003/2017"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "U.S. Labor Against the War"],
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 2003-2017"],
-        "_version_":1799805114039402496,
-        "timestamp":"2024-05-23T01:31:51.796Z"},
+        "_version_":1802197249116078080,
+        "timestamp":"2024-06-18T11:13:49.58Z"},
       {
         "id":"wag_332aspace_59201afcb38240c09aed81bf545418d7",
         "ead_ssi":"wag_332",
@@ -90,8 +92,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 2003-2017"],
-        "_version_":1799805114118045696,
-        "timestamp":"2024-05-23T01:31:51.871Z"},
+        "_version_":1802197249162215424,
+        "timestamp":"2024-06-18T11:13:49.624Z"},
       {
         "id":"wag_332aspace_5c79e3c8500843fc9898b4c2354fc6c1",
         "ead_ssi":"wag_332",
@@ -110,8 +112,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 2003-2004"],
-        "_version_":1799805114105462784,
-        "timestamp":"2024-05-23T01:31:51.859Z"},
+        "_version_":1802197249153826816,
+        "timestamp":"2024-06-18T11:13:49.616Z"},
       {
         "id":"wag_332aspace_95a3b555575bf360dfa66efb3c58c2d7",
         "ead_ssi":"wag_332",
@@ -130,8 +132,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799805114090782720,
-        "timestamp":"2024-05-23T01:31:51.845Z"},
+        "_version_":1802197249145438208,
+        "timestamp":"2024-06-18T11:13:49.608Z"},
       {
         "id":"wag_332aspace_9d47e56a8f2c69523ac466031a7e3921",
         "ead_ssi":"wag_332",
@@ -150,8 +152,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2003-2014"],
-        "_version_":1799805114055131136,
-        "timestamp":"2024-05-23T01:31:51.811Z"},
+        "_version_":1802197249125515264,
+        "timestamp":"2024-06-18T11:13:49.589Z"},
       {
         "id":"wag_332aspace_c7243166bd7dfd8f01eea7f4519a6158",
         "ead_ssi":"wag_332",
@@ -166,8 +168,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment 019"],
         "heading_ssm":["Buttons"],
-        "_version_":1799805114129580032,
-        "timestamp":"2024-05-23T01:31:51.882Z"},
+        "_version_":1802197249168506880,
+        "timestamp":"2024-06-18T11:13:49.63Z"},
       {
         "id":"wag_332aspace_f1995c7aeddc14c14b8d210f81045438",
         "ead_ssi":"wag_332",
@@ -186,8 +188,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 2003-2004"],
-        "_version_":1799805114068762624,
-        "timestamp":"2024-05-23T01:31:51.824Z"}]
+        "_version_":1802197249132855296,
+        "timestamp":"2024-06-18T11:13:49.596Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -195,7 +197,8 @@
       "repository_sim":[
         "tamwag",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "U.S. Labor Against the War",1],
       "date_range_sim":[
         "2001-2100",6,
         "undated & other",1],

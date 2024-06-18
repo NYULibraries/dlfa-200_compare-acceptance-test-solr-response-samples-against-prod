@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John M. Reid papers"],
         "unitid_ssm":["1980.017"],
         "abstract_ssm":["The John M. Reid papers include a bond and deed concerning property property he owned in Brooklyn. The papers are dated 1861."],
+        "creator_ssm":["Reid, John M.",
+          "Reid, John M."],
         "unitdate_normal_ssm":["1861/1861"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Bonds (legal records)"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1861"],
         "unitdate_ssm":["Inclusive, 1861"],
         "language_ssm":["English"],
-        "_version_":1799312263678525440,
-        "timestamp":"2024-05-17T14:58:13.065Z"}]
+        "_version_":1801962810009190400,
+        "timestamp":"2024-06-15T21:07:31.025Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Reid, John M.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

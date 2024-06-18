@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Brooklyn charitable organizations for people with disabilities collection"],
         "unitid_ssm":["1985.108"],
         "abstract_ssm":["Public assistance to the blind began as early as 1718 in New York State. From the beginning, efforts to help the blind was based on making them self-reliant and self-supporting. Brooklyn was a forerunner in providing services, education, and assistance to the blind. Eye diseases were much feared in New York City during the 19th century and into the early 20th century. The Brooklyn charitable organizations for people with disabilities collection spans the years 1930 to 1962 and contains annual reports, publications, concert and event programs, and newsletters. Though the collection represents organizations that provide assistance to disabled children and adults, the bulk of the collection pertains to charitable organizations for blind children."],
+        "creator_ssm":["Brooklyn Bureau of Social Service",
+          "National Association of Goodwill Industries (U.S.)",
+          "Brooklyn Bureau of Social Service",
+          "National Association of Goodwill Industries (U.S.)"],
         "unitdate_normal_ssm":["1930/1962"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Bureau of Social Service",
@@ -83,8 +87,8 @@
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1930-1962"],
         "language_ssm":["English"],
-        "_version_":1799256287358222336,
-        "timestamp":"2024-05-17T00:08:29.886Z"}]
+        "_version_":1801963137550778368,
+        "timestamp":"2024-06-15T21:12:43.393Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +96,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Bureau of Social Service",1,
+        "National Association of Goodwill Industries (U.S.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

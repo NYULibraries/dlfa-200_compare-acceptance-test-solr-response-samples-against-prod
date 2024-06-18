@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Doty and Young family papers"],
         "unitid_ssm":["1977.203"],
         "abstract_ssm":["This collection includes mortgages, deeds, and agreements relating to various Brooklyn properties owned by Henry D. Young (1841-1884)."],
+        "creator_ssm":["Young, Henry D.",
+          "Doty, Isaac",
+          "Doty, Richard",
+          "Young, Henry D.",
+          "Doty, Isaac",
+          "Doty, Richard"],
         "unitdate_normal_ssm":["1765/1910",
           "1840/1880"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -92,8 +98,8 @@
           "1880"],
         "unitdate_ssm":["Inclusive, 1765-1910 ; 1840-1880"],
         "language_ssm":["English"],
-        "_version_":1775218037946843136,
-        "timestamp":"2023-08-25T16:10:48.811Z"},
+        "_version_":1800693883143716864,
+        "timestamp":"2024-06-01T20:58:28.064Z"},
       {
         "id":"arms_1977_203_youngaspace_0ecda0b3783deb0538ce4d4d3d92b33b",
         "ead_ssi":"arms_1977_203_young",
@@ -112,8 +118,8 @@
         "unitdate_start_ssm":["1818"],
         "unitdate_end_ssm":["1839"],
         "unitdate_ssm":["Inclusive, 1818-1839"],
-        "_version_":1775218038412410880,
-        "timestamp":"2023-08-25T16:10:49.255Z"},
+        "_version_":1800693883391180800,
+        "timestamp":"2024-06-01T20:58:28.3Z"},
       {
         "id":"arms_1977_203_youngaspace_18c147b0b3b34afd21464b583e605f91",
         "ead_ssi":"arms_1977_203_young",
@@ -132,8 +138,8 @@
         "unitdate_start_ssm":["1855"],
         "unitdate_end_ssm":["1886"],
         "unitdate_ssm":["Inclusive, 1855-1886"],
-        "_version_":1775218038649389056,
-        "timestamp":"2023-08-25T16:10:49.481Z"},
+        "_version_":1800693883511767040,
+        "timestamp":"2024-06-01T20:58:28.415Z"},
       {
         "id":"arms_1977_203_youngaspace_223150b2556ec905132f17e175f7e62d",
         "ead_ssi":"arms_1977_203_young",
@@ -152,8 +158,8 @@
         "unitdate_start_ssm":["1900"],
         "unitdate_end_ssm":["1900"],
         "unitdate_ssm":["circa 1900"],
-        "_version_":1775218038804578304,
-        "timestamp":"2023-08-25T16:10:49.629Z"},
+        "_version_":1800693883590410240,
+        "timestamp":"2024-06-01T20:58:28.49Z"},
       {
         "id":"arms_1977_203_youngaspace_28ca1ac64ebe4afebf73ee061ff6eb86",
         "ead_ssi":"arms_1977_203_young",
@@ -172,8 +178,8 @@
         "unitdate_start_ssm":["1799"],
         "unitdate_end_ssm":["1807"],
         "unitdate_ssm":["Inclusive, 1799-1807"],
-        "_version_":1775218038188015616,
-        "timestamp":"2023-08-25T16:10:49.04Z"},
+        "_version_":1800693883266400256,
+        "timestamp":"2024-06-01T20:58:28.181Z"},
       {
         "id":"arms_1977_203_youngaspace_2b7fba831d6152f7a782fede99f9255e",
         "ead_ssi":"arms_1977_203_young",
@@ -192,8 +198,8 @@
         "unitdate_start_ssm":["1841"],
         "unitdate_end_ssm":["1875"],
         "unitdate_ssm":["Inclusive, 1841-1875"],
-        "_version_":1775218038510977024,
-        "timestamp":"2023-08-25T16:10:49.349Z"},
+        "_version_":1800693883449901056,
+        "timestamp":"2024-06-01T20:58:28.356Z"},
       {
         "id":"arms_1977_203_youngaspace_35232dd019df5021d96271d06e5fb5be",
         "ead_ssi":"arms_1977_203_young",
@@ -212,8 +218,8 @@
         "unitdate_start_ssm":["1843"],
         "unitdate_end_ssm":["1885"],
         "unitdate_ssm":["Inclusive, 1843-1885"],
-        "_version_":1775218038553968640,
-        "timestamp":"2023-08-25T16:10:49.389Z"},
+        "_version_":1800693883468775424,
+        "timestamp":"2024-06-01T20:58:28.374Z"},
       {
         "id":"arms_1977_203_youngaspace_48e72a95ec19af0bd73029d134b003c6",
         "ead_ssi":"arms_1977_203_young",
@@ -232,8 +238,8 @@
         "unitdate_start_ssm":["1861"],
         "unitdate_end_ssm":["1861"],
         "unitdate_ssm":["1861"],
-        "_version_":1775218038685040640,
-        "timestamp":"2023-08-25T16:10:49.515Z"},
+        "_version_":1800693883532738560,
+        "timestamp":"2024-06-01T20:58:28.435Z"},
       {
         "id":"arms_1977_203_youngaspace_66ae40e246223740dce375bbeb2e4426",
         "ead_ssi":"arms_1977_203_young",
@@ -252,8 +258,8 @@
         "unitdate_start_ssm":["1817"],
         "unitdate_end_ssm":["1817"],
         "unitdate_ssm":["1817"],
-        "_version_":1775218038445965312,
-        "timestamp":"2023-08-25T16:10:49.287Z"},
+        "_version_":1800693883412152320,
+        "timestamp":"2024-06-01T20:58:28.32Z"},
       {
         "id":"arms_1977_203_youngaspace_67a97cf8ca2fb5249025956b3cfe49a7",
         "ead_ssi":"arms_1977_203_young",
@@ -272,8 +278,8 @@
         "unitdate_start_ssm":["1805"],
         "unitdate_end_ssm":["1807"],
         "unitdate_ssm":["Inclusive, 1805-1807"],
-        "_version_":1775218038377807872,
-        "timestamp":"2023-08-25T16:10:49.222Z"},
+        "_version_":1800693883367063552,
+        "timestamp":"2024-06-01T20:58:28.277Z"},
       {
         "id":"arms_1977_203_youngaspace_8c6bf7866848fe6705e5cc783e37fae0",
         "ead_ssi":"arms_1977_203_young",
@@ -292,8 +298,8 @@
         "unitdate_start_ssm":["1799"],
         "unitdate_end_ssm":["1819"],
         "unitdate_ssm":["Inclusive, 1799, 1819"],
-        "_version_":1775218038283436032,
-        "timestamp":"2023-08-25T16:10:49.132Z"},
+        "_version_":1800693883307294720,
+        "timestamp":"2024-06-01T20:58:28.22Z"},
       {
         "id":"arms_1977_203_youngaspace_9ba8417993e146f5e6bc497b1da52ebf",
         "ead_ssi":"arms_1977_203_young",
@@ -312,8 +318,8 @@
         "unitdate_start_ssm":["1791"],
         "unitdate_end_ssm":["1794"],
         "unitdate_ssm":["Inclusive, 1791-1794"],
-        "_version_":1775218038064283648,
-        "timestamp":"2023-08-25T16:10:48.923Z"},
+        "_version_":1800693883204534272,
+        "timestamp":"2024-06-01T20:58:28.122Z"},
       {
         "id":"arms_1977_203_youngaspace_a0e456ac9129c269e21fe0c661d15cab",
         "ead_ssi":"arms_1977_203_young",
@@ -332,8 +338,8 @@
         "unitdate_start_ssm":["1883"],
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, 1883-1910"],
-        "_version_":1775218038772072448,
-        "timestamp":"2023-08-25T16:10:49.598Z"},
+        "_version_":1800693883575730176,
+        "timestamp":"2024-06-01T20:58:28.476Z"},
       {
         "id":"arms_1977_203_youngaspace_b2be437c4991095e5c8d569f372c9483",
         "ead_ssi":"arms_1977_203_young",
@@ -352,8 +358,8 @@
         "unitdate_start_ssm":["1854"],
         "unitdate_end_ssm":["1869"],
         "unitdate_ssm":["Inclusive, 1854-circa 1860s"],
-        "_version_":1775218038722789376,
-        "timestamp":"2023-08-25T16:10:49.551Z"},
+        "_version_":1800693883553710080,
+        "timestamp":"2024-06-01T20:58:28.455Z"},
       {
         "id":"arms_1977_203_youngaspace_c40297d086ec3f2e21b1298d9cfa844d",
         "ead_ssi":"arms_1977_203_young",
@@ -372,8 +378,8 @@
         "unitdate_start_ssm":["1742"],
         "unitdate_end_ssm":["1828"],
         "unitdate_ssm":["Inclusive, 1765, 1802-1828"],
-        "_version_":1775218037982494720,
-        "timestamp":"2023-08-25T16:10:48.845Z"},
+        "_version_":1800693883166785536,
+        "timestamp":"2024-06-01T20:58:28.086Z"},
       {
         "id":"arms_1977_203_youngaspace_c8cff35ecc216548dfb9ad2f451aa215",
         "ead_ssi":"arms_1977_203_young",
@@ -392,8 +398,8 @@
         "unitdate_start_ssm":["1797"],
         "unitdate_end_ssm":["1797"],
         "unitdate_ssm":["1797"],
-        "_version_":1775218038153412608,
-        "timestamp":"2023-08-25T16:10:49.008Z"},
+        "_version_":1800693883249623040,
+        "timestamp":"2024-06-01T20:58:28.165Z"},
       {
         "id":"arms_1977_203_youngaspace_d1c22c74aaa8739cdd456129e836402f",
         "ead_ssi":"arms_1977_203_young",
@@ -412,8 +418,8 @@
         "unitdate_start_ssm":["1800"],
         "unitdate_end_ssm":["1811"],
         "unitdate_ssm":["Inclusive, 1800-1811"],
-        "_version_":1775218038341107712,
-        "timestamp":"2023-08-25T16:10:49.187Z"},
+        "_version_":1800693883340849152,
+        "timestamp":"2024-06-01T20:58:28.252Z"},
       {
         "id":"arms_1977_203_youngaspace_d4d936291dcd2dfd564a4bff6cf9e95f",
         "ead_ssi":"arms_1977_203_young",
@@ -432,8 +438,8 @@
         "unitdate_start_ssm":["1788"],
         "unitdate_end_ssm":["1815"],
         "unitdate_ssm":["Inclusive, 1788-1815"],
-        "_version_":1775218038015000576,
-        "timestamp":"2023-08-25T16:10:48.876Z"},
+        "_version_":1800693883183562752,
+        "timestamp":"2024-06-01T20:58:28.102Z"},
       {
         "id":"arms_1977_203_youngaspace_da193ccbecd8e41c3c06901cd34ae688",
         "ead_ssi":"arms_1977_203_young",
@@ -452,8 +458,8 @@
         "unitdate_start_ssm":["1794"],
         "unitdate_end_ssm":["1828"],
         "unitdate_ssm":["Inclusive, circa 1794-1828"],
-        "_version_":1775218038120906752,
-        "timestamp":"2023-08-25T16:10:48.977Z"},
+        "_version_":1800693883225505792,
+        "timestamp":"2024-06-01T20:58:28.142Z"},
       {
         "id":"arms_1977_203_youngaspace_e6297143a2ffc39e903485be02975e74",
         "ead_ssi":"arms_1977_203_young",
@@ -472,8 +478,8 @@
         "unitdate_start_ssm":["1849"],
         "unitdate_end_ssm":["1849"],
         "unitdate_ssm":["1849"],
-        "_version_":1775218038592765952,
-        "timestamp":"2023-08-25T16:10:49.427Z"},
+        "_version_":1800693883489746944,
+        "timestamp":"2024-06-01T20:58:28.394Z"},
       {
         "id":"arms_1977_203_youngaspace_ed9e73271dc29866c3c4b13ddb933be5",
         "ead_ssi":"arms_1977_203_young",
@@ -492,8 +498,8 @@
         "unitdate_start_ssm":["1828"],
         "unitdate_end_ssm":["1828"],
         "unitdate_ssm":["1828"],
-        "_version_":1775218038478471168,
-        "timestamp":"2023-08-25T16:10:49.317Z"},
+        "_version_":1800693883431026688,
+        "timestamp":"2024-06-01T20:58:28.338Z"},
       {
         "id":"arms_1977_203_youngaspace_f4a4a45abba6ac46e6579695a7244a6e",
         "ead_ssi":"arms_1977_203_young",
@@ -512,8 +518,8 @@
         "unitdate_start_ssm":["1799"],
         "unitdate_end_ssm":["1815"],
         "unitdate_ssm":["Inclusive, 1799-1815"],
-        "_version_":1775218038234152960,
-        "timestamp":"2023-08-25T16:10:49.085Z"}]
+        "_version_":1800693883285274624,
+        "timestamp":"2024-06-01T20:58:28.199Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -521,7 +527,10 @@
       "repository_sim":[
         "cbh",22],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Doty, Isaac",1,
+        "Doty, Richard",1,
+        "Young, Henry D.",1],
       "date_range_sim":[
         "1701-1800",10,
         "1801-1900",20,

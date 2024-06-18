@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,22 @@
         "unittitle_ssm":["Early Brooklyn libraries collection"],
         "unitid_ssm":["ARC.168"],
         "abstract_ssm":["The Early Brooklyn libraries collection spans the years 1865 to 1901 and measures 0.3 linear feet. The collection is comprised of materials that document the development and operation of independently-operated public libraries in Brooklyn prior to the establishment of the Brooklyn Public Library System in 1892. The bulk of materials in the collection pertain to the Mercantile Library of Brooklyn, which include detailed catalogs of materials in the library and bulletins announcing new book acquisitions."],
+        "creator_ssm":["Brooklyn Library Association of the Eastern District (Brooklyn, New York, N.Y.)",
+          "Library of Schools in the Eastern District (Brooklyn, New York, N.Y.)",
+          "Bay Ridge Free Library (Brooklyn, New York, N.Y.)",
+          "Law Library in Brooklyn (Brooklyn, New York, N.Y.)",
+          "Long Island Free Library (Brooklyn, New York, N.Y.)",
+          "Mercantile Library Association of Brooklyn",
+          "Pratt Institute. Free Library",
+          "Brooklyn Athenaeum",
+          "Brooklyn Library Association of the Eastern District (Brooklyn, New York, N.Y.)",
+          "Library of Schools in the Eastern District (Brooklyn, New York, N.Y.)",
+          "Bay Ridge Free Library (Brooklyn, New York, N.Y.)",
+          "Law Library in Brooklyn (Brooklyn, New York, N.Y.)",
+          "Long Island Free Library (Brooklyn, New York, N.Y.)",
+          "Mercantile Library Association of Brooklyn",
+          "Pratt Institute. Free Library",
+          "Brooklyn Athenaeum"],
         "unitdate_normal_ssm":["1852/1901"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Library Association of the Eastern District (Brooklyn, New York, N.Y.)",
@@ -88,8 +104,8 @@
         "unitdate_end_ssm":["1901"],
         "unitdate_ssm":["Inclusive, 1852-1901"],
         "language_ssm":["English"],
-        "_version_":1799256293128536064,
-        "timestamp":"2024-05-17T00:08:35.389Z"}]
+        "_version_":1801959270638419968,
+        "timestamp":"2024-06-15T20:11:15.618Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,7 +113,15 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bay Ridge Free Library (Brooklyn, New York, N.Y.)",1,
+        "Brooklyn Athenaeum",1,
+        "Brooklyn Library Association of the Eastern District (Brooklyn, New York, N.Y.)",1,
+        "Law Library in Brooklyn (Brooklyn, New York, N.Y.)",1,
+        "Library of Schools in the Eastern District (Brooklyn, New York, N.Y.)",1,
+        "Long Island Free Library (Brooklyn, New York, N.Y.)",1,
+        "Mercantile Library Association of Brooklyn",1,
+        "Pratt Institute. Free Library",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

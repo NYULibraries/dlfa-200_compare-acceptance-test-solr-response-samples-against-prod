@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Walter O'Malley Brooklyn Dodgers records"],
         "unitid_ssm":["ARC.294"],
         "abstract_ssm":["This collection of documents and news clippings is a selected portion of the papers of Walter O'Malley (1903-1979), former President of the Brooklyn Dodgers, Brooklyn's professional baseball team until 1957, when the team relocated to Los Angeles, CA.  The bulk of the collection comprises correspondence and memoranda from 1946 to 1957, covering the period of O'Malley's role as General Counsel to, and Vice President of, the Brooklyn Dodgers, and afterward his ascension to the presidency of the organization in 1950.  The collection chiefly relates to the Dodgers' efforts to secure a site and build a new stadium in Brooklyn to replace Ebbets Field, and, failing to do so, the team's move to Los Angeles in 1957. Included in these records is correspondence with such notable figures as city construction coordinator Robert Moses, New York City Mayor Robert F. Wagner, New York State Governor Averell Harriman, Brooklyn Borough President John Cashmore, and architect/engineer Buckminster Fuller. A noteworthy artifact is a Brooklyn Dodgers banner that flew over Ebbets Field in 1955, the year of the Dodgers' World Series victory."],
+        "creator_ssm":["O'Malley, Walter, 1903-1979",
+          "O'Malley, Walter, 1903-1979"],
         "unitdate_normal_ssm":["1946/1957"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Dodgers (Baseball team)",
@@ -87,8 +89,8 @@
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["Inclusive, 1946-1957"],
         "language_ssm":["English"],
-        "_version_":1799312255124242432,
-        "timestamp":"2024-05-17T14:58:04.907Z"}]
+        "_version_":1801963882063855616,
+        "timestamp":"2024-06-15T21:24:33.416Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +98,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "O'Malley, Walter, 1903-1979",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

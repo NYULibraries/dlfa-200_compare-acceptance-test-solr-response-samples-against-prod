@@ -47,6 +47,8 @@
         "unittitle_ssm":["All-University Alumni/Alumni Association Records"],
         "unitid_ssm":["RG.40.1"],
         "abstract_ssm":["The NYU Alumni Association (NYUAA) is the umbrella organization for all University alumni from every NYU school. This collection consists of copies of the New York University Alumni Magazine from 2015-2018."],
+        "creator_ssm":["New York University. Alumni Association",
+          "New York University. Alumni Association"],
         "unitdate_normal_ssm":["1919/2018",
           "2015/2018"],
         "corpname_ssm":["New York University Archives",
@@ -65,8 +67,8 @@
           "2015"],
         "unitdate_end_ssm":["2018"],
         "unitdate_ssm":["Inclusive, 1919-2018 ; 2015-2018"],
-        "_version_":1799253256037203968,
-        "timestamp":"2024-05-16T23:20:18.992Z"}]
+        "_version_":1801954709231108096,
+        "timestamp":"2024-06-15T18:58:45.521Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "archives",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Alumni Association",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

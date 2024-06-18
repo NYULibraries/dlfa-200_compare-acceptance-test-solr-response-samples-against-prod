@@ -47,6 +47,8 @@
         "unittitle_ssm":["Board of Supervisors of Kings County collection"],
         "unitid_ssm":["ARC.049"],
         "abstract_ssm":["The Board of Supervisors of Kings County was the legislative body governing Kings County, New York. Taxes, bonds, and other county related laws were passed by the Board of Supervisors so long as the laws did not conflict with state or federal laws. A board member was elected from each ward in Kings County and an elected supervisor-at-large presided over the board. The Board of Supervisors of Kings County collection includes a tax ledger, 1835-1836 and a minute book, 1857."],
+        "creator_ssm":["Kings County (N.Y.). Board of Supervisors",
+          "Kings County (N.Y.). Board of Supervisors"],
         "unitdate_normal_ssm":["1835/1857",
           "1894/1894"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -75,8 +77,8 @@
           "1894"],
         "unitdate_ssm":["1894"],
         "language_ssm":["English"],
-        "_version_":1799311677071556608,
-        "timestamp":"2024-05-17T14:48:53.633Z"}]
+        "_version_":1801958799714549760,
+        "timestamp":"2024-06-15T20:03:46.51Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kings County (N.Y.). Board of Supervisors",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

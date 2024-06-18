@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":48,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Melanie Einzig Purim photographs"],
         "unitid_ssm":["2011.018"],
         "abstract_ssm":["This collection is comprised of 87 digital photographs in .jpg and .tif formats of the Jewish celebration of Purim in Williamsburg. Purim commemorates the saving of the Jewish people from Haman, an Achaemenid Persian Empire official who was planning to kill all the Jews, as recounted in the Book of Esther. These photographs document adults and children wearing masks and costumes in public settings."],
+        "creator_ssm":["Einzig, Melanie",
+          "Einzig, Melanie"],
         "unitdate_normal_ssm":["2011/2011"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Williamsburg (New York, N.Y.)"],
@@ -64,8 +66,8 @@
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["circa 2011"],
         "language_ssm":["English"],
-        "_version_":1799256293614026752,
-        "timestamp":"2024-05-17T00:08:35.851Z"}]
+        "_version_":1801958074924138496,
+        "timestamp":"2024-06-15T19:52:15.296Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Einzig, Melanie",1],
       "date_range_sim":[
         "2001-2100",1],
       "subject_sim":[

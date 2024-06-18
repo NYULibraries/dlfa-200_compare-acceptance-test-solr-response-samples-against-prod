@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":16,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Samuel H. Gottscho photographs"],
         "unitid_ssm":["PR 423"],
         "abstract_ssm":["The collection consists of 12 vintage silver gelatin photographs taken in the early 1930s by Samuel H. Gottscho (1875-1971). Ten of the photographs, taken in 1933, are of Manhattan views. One is centered on Welfare Island (Roosevelt Island) and one is a detail of a cemetery at Gardiner's Island in East Hampton."],
+        "creator_ssm":["Gottscho, Samuel H. (Samuel Herman), 1875-1971",
+          "Gottscho, Samuel H. (Samuel Herman), 1875-1971"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Gelatin silver prints."],
         "geogname_ssm":["Manhattan (New York, N.Y.) --  Photographs.",
@@ -61,8 +63,8 @@
         "material_type_ssm":["Gelatin silver prints."],
         "heading_ssm":["Samuel H. Gottscho photographs"],
         "unitdate_ssm":["Inclusive, 1930s"],
-        "_version_":1799330341381472256,
-        "timestamp":"2024-05-17T19:45:33.306Z"},
+        "_version_":1802094693160321024,
+        "timestamp":"2024-06-17T08:03:44.598Z"},
       {
         "id":"pr423_samuel_gottschoaspace_0500ea88980ebc4f6473fe57181ca033",
         "ead_ssi":"pr423_samuel_gottscho",
@@ -81,8 +83,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\"The New York Central Building, New York City\""],
         "unitdate_ssm":["1933"],
-        "_version_":1799330341582798848,
-        "timestamp":"2024-05-17T19:45:33.498Z"},
+        "_version_":1802094693375279104,
+        "timestamp":"2024-06-17T08:03:44.804Z"},
       {
         "id":"pr423_samuel_gottschoaspace_14cb8bbe84fbbb1ff61e406579f10be9",
         "ead_ssi":"pr423_samuel_gottscho",
@@ -97,8 +99,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series II. Other Photographs"],
         "unitdate_ssm":["Inclusive, 1930s"],
-        "_version_":1799330341613207552,
-        "timestamp":"2024-05-17T19:45:33.527Z"},
+        "_version_":1802094693410930688,
+        "timestamp":"2024-06-17T08:03:44.838Z"},
       {
         "id":"pr423_samuel_gottschoaspace_20c5369671925b00102317b398afb27e",
         "ead_ssi":"pr423_samuel_gottscho",
@@ -117,8 +119,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\"Day S.W. [Southwest] from the River House, New York City\""],
         "unitdate_ssm":["1933"],
-        "_version_":1799330341482135552,
-        "timestamp":"2024-05-17T19:45:33.402Z"},
+        "_version_":1802094693266227200,
+        "timestamp":"2024-06-17T08:03:44.7Z"},
       {
         "id":"pr423_samuel_gottschoaspace_390e6fa1566889d168b36e9d7c8fabc2",
         "ead_ssi":"pr423_samuel_gottscho",
@@ -137,8 +139,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\"Central Park West Reflected in Park Lake, New York City\""],
         "unitdate_ssm":["1933"],
-        "_version_":1799330341438095360,
-        "timestamp":"2024-05-17T19:45:33.36Z"},
+        "_version_":1802094693215895552,
+        "timestamp":"2024-06-17T08:03:44.652Z"},
       {
         "id":"pr423_samuel_gottschoaspace_44cffe40f3db44a38a70062eb2fc1b27",
         "ead_ssi":"pr423_samuel_gottscho",
@@ -157,8 +159,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\"Gardiner's Island. Boulder in Cemetery\""],
         "unitdate_ssm":["circa 1930"],
-        "_version_":1799330341628936192,
-        "timestamp":"2024-05-17T19:45:33.542Z"},
+        "_version_":1802094693437145088,
+        "timestamp":"2024-06-17T08:03:44.863Z"},
       {
         "id":"pr423_samuel_gottschoaspace_507dd4405f9839e354cd4b4003a1be92",
         "ead_ssi":"pr423_samuel_gottscho",
@@ -177,8 +179,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\"Looking North from Empire State Building, New York City\""],
         "unitdate_ssm":["1933"],
-        "_version_":1799330341546098688,
-        "timestamp":"2024-05-17T19:45:33.463Z"},
+        "_version_":1802094693327044608,
+        "timestamp":"2024-06-17T08:03:44.758Z"},
       {
         "id":"pr423_samuel_gottschoaspace_5aa985e99b6e747073a68c0cdace1c07",
         "ead_ssi":"pr423_samuel_gottscho",
@@ -197,8 +199,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\"El [Elevated Train Tracks], Coenties Slip, New York City\""],
         "unitdate_ssm":["1933"],
-        "_version_":1799330341503107072,
-        "timestamp":"2024-05-17T19:45:33.422Z"},
+        "_version_":1802094693286150144,
+        "timestamp":"2024-06-17T08:03:44.719Z"},
       {
         "id":"pr423_samuel_gottschoaspace_7222347183bb4e068a3b81426182eef2",
         "ead_ssi":"pr423_samuel_gottscho",
@@ -217,8 +219,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\"Ants and Beetles -- Busy Broadway at 39th [Street], New York City\""],
         "unitdate_ssm":["1933"],
-        "_version_":1799330341420269568,
-        "timestamp":"2024-05-17T19:45:33.343Z"},
+        "_version_":1802094693198069760,
+        "timestamp":"2024-06-17T08:03:44.635Z"},
       {
         "id":"pr423_samuel_gottschoaspace_7822390e4dfcd28ee04b9fcdd4e6c92d",
         "ead_ssi":"pr423_samuel_gottscho",
@@ -233,8 +235,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I. Manhattan 1933 Views"],
         "unitdate_ssm":["Inclusive, 1933"],
-        "_version_":1799330341401395200,
-        "timestamp":"2024-05-17T19:45:33.325Z"},
+        "_version_":1802094693182341120,
+        "timestamp":"2024-06-17T08:03:44.62Z"},
       {
         "id":"pr423_samuel_gottschoaspace_7a1c31792cd0addc79a5609d8fb92145",
         "ead_ssi":"pr423_samuel_gottscho",
@@ -253,8 +255,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\"Columbus Circle from Above, New York City\""],
         "unitdate_ssm":["1933"],
-        "_version_":1799330341455921152,
-        "timestamp":"2024-05-17T19:45:33.377Z"},
+        "_version_":1802094693242109952,
+        "timestamp":"2024-06-17T08:03:44.677Z"},
       {
         "id":"pr423_samuel_gottschoaspace_8fd33cb75945ec41b0346c4e3427655c",
         "ead_ssi":"pr423_samuel_gottscho",
@@ -273,8 +275,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\"From Pier 32, East River, New York City\""],
         "unitdate_ssm":["1933"],
-        "_version_":1799330341528272896,
-        "timestamp":"2024-05-17T19:45:33.446Z"},
+        "_version_":1802094693306073088,
+        "timestamp":"2024-06-17T08:03:44.738Z"},
       {
         "id":"pr423_samuel_gottschoaspace_93ec9a6fe766603d3d53f9efd921a4db",
         "ead_ssi":"pr423_samuel_gottscho",
@@ -293,8 +295,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\"Night from the Empire State Building toward Queens, New York\""],
         "unitdate_ssm":["1933"],
-        "_version_":1799330341566021632,
-        "timestamp":"2024-05-17T19:45:33.482Z"},
+        "_version_":1802094693353259008,
+        "timestamp":"2024-06-17T08:03:44.783Z"},
       {
         "id":"pr423_samuel_gottschoaspace_d8fc678644e01d8975797af761127440",
         "ead_ssi":"pr423_samuel_gottscho",
@@ -313,8 +315,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\"The RCA Building, Rockefeller Center, New York City\""],
         "unitdate_ssm":["1933"],
-        "_version_":1799330341600624640,
-        "timestamp":"2024-05-17T19:45:33.515Z"},
+        "_version_":1802094693393104896,
+        "timestamp":"2024-06-17T08:03:44.821Z"},
       {
         "id":"pr423_samuel_gottschoaspace_e6ed0f2040c379fa9c6c7b7095c80423",
         "ead_ssi":"pr423_samuel_gottscho",
@@ -333,8 +335,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["[Welfare Island]"],
         "unitdate_ssm":["1931 December 15"],
-        "_version_":1799330341644664832,
-        "timestamp":"2024-05-17T19:45:33.557Z"}]
+        "_version_":1802094693462310912,
+        "timestamp":"2024-06-17T08:03:44.887Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -342,7 +344,8 @@
       "repository_sim":[
         "nyhs",15],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gottscho, Samuel H. (Samuel Herman), 1875-1971",1],
       "date_range_sim":[
         "undated & other",15],
       "subject_sim":[],

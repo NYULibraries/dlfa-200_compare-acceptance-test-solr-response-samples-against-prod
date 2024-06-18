@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Theater for the New City Archived Websites"],
         "unitid_ssm":["MSS.620"],
         "abstract_ssm":["The Theater for the New City (TNC), founded in 1970 by Crystal Field and George Bartenieff, is a New York City Off-Off-Broadway theater. The theater produces up to 30-40 new American plays per year, prioritizing experimental and developmental works from systematically excluded communities and young playwrights. This collection contains the website for the Theater for the New City from 2009-2017. The website contains information about productions and production credits, schedules, a full production history from the 1970s-2007, Field's blog, a list of all of the awards TNC and TNC productions received since the 1970s, fundraising including the Mortgage Burning Celebration, personnel associated with the Theater, their volunteer program, and theater rental information and rates for their four stages. It also includes information on the Resident Theater Program, the Annual Summer Street Theater Tour, the Presenting Program, the Annual Thunderbird American Indian Dancers Annual Dance Concert and Pow-Wow; Arts in Education Program, and the Community Festival Program."],
+        "creator_ssm":["Theater for the New City (New York, N.Y.)",
+          "Theater for the New City (New York, N.Y.)"],
         "unitdate_normal_ssm":["2009-03-20/2017-11-21"],
         "corpname_ssm":["Fales Library and Special Collections",
           "Theater for the New City (New York, N.Y.)"],
@@ -62,8 +64,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Theater for the New City Archived Websites"],
         "unitdate_ssm":["Inclusive, March 2009-November 2017"],
-        "_version_":1799745482504798208,
-        "timestamp":"2024-05-22T09:44:02.732Z"},
+        "_version_":1802081740276105216,
+        "timestamp":"2024-06-17T04:37:51.765Z"},
       {
         "id":"mss_620aspace_9065f9d836aa8197b982590f05ddd310",
         "ead_ssi":"mss_620",
@@ -82,8 +84,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["Inclusive, March 2009-November 2017"],
-        "_version_":1799745482521575424,
-        "timestamp":"2024-05-22T09:44:02.749Z"}]
+        "_version_":1802081740294979584,
+        "timestamp":"2024-06-17T04:37:51.784Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +94,8 @@
         "fales",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Theater for the New City (New York, N.Y.)",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

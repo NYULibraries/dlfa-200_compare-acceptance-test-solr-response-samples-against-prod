@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Harold Francis Dean Papers"],
         "unitid_ssm":["ALBA.284"],
+        "creator_ssm":["Dean, Harold Francis, b. 1914",
+          "Dean, Harold Francis, b. 1914"],
         "unitdate_normal_ssm":["1935/1949"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Dean, Harold Francis, b. 1914",
@@ -62,8 +64,8 @@
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, 1935-1949"],
         "language_ssm":["English"],
-        "_version_":1799333509303631872,
-        "timestamp":"2024-05-17T20:35:54.472Z"},
+        "_version_":1802111630684717056,
+        "timestamp":"2024-06-17T12:32:57.481Z"},
       {
         "id":"alba_284aspace_380d8353136d43d413ce8218e4c30cba",
         "ead_ssi":"alba_284",
@@ -78,8 +80,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799333509316214784,
-        "timestamp":"2024-05-17T20:35:54.484Z"}]
+        "_version_":1802111630707785728,
+        "timestamp":"2024-06-17T12:32:57.503Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dean, Harold Francis, b. 1914",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

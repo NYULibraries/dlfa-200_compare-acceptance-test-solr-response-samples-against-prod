@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn, Queens, and Long Island real estate brochure collection"],
         "unitid_ssm":["ARC.296"],
         "abstract_ssm":["A collection of advertisements for real estate in Brooklyn, Queens, and Long Island. In addition to advertisements, the collection includes a number of blueprint maps and architectural drawings."],
+        "creator_ssm":["Brooklyn Historical Society (Brooklyn, New York, N.Y.)",
+          "Brooklyn Historical Society (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1920/1959"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Historical Society (Brooklyn, New York, N.Y.)"],
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1920s-1950s"],
         "language_ssm":["English"],
-        "_version_":1799311501767475200,
-        "timestamp":"2024-05-17T14:46:06.45Z"},
+        "_version_":1801959768916492288,
+        "timestamp":"2024-06-15T20:19:10.813Z"},
       {
         "id":"arc_296_real_estate_brochuresaspace_132c6ab18f556b1692652ae6b22e929f",
         "ead_ssi":"arc_296_real_estate_brochures",
@@ -97,8 +99,8 @@
         "format_ssm":["Archival Series"],
         "location_ssm":["Box: 6"],
         "heading_ssm":["Great Neck - Islip"],
-        "_version_":1799311502075756544,
-        "timestamp":"2024-05-17T14:46:06.744Z"},
+        "_version_":1801959769077972992,
+        "timestamp":"2024-06-15T20:19:10.967Z"},
       {
         "id":"arc_296_real_estate_brochuresaspace_1a5b653f916991b4112912a70f771cb3",
         "ead_ssi":"arc_296_real_estate_brochures",
@@ -112,8 +114,8 @@
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Brooklyn"],
-        "_version_":1799311501798932480,
-        "timestamp":"2024-05-17T14:46:06.48Z"},
+        "_version_":1801959768933269504,
+        "timestamp":"2024-06-15T20:19:10.829Z"},
       {
         "id":"arc_296_real_estate_brochuresaspace_2ff4c8b83c0136e4907c49ff60db4252",
         "ead_ssi":"arc_296_real_estate_brochures",
@@ -131,8 +133,8 @@
         "format_ssm":["Archival Series"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Crown Heights - Gravesend"],
-        "_version_":1799311501874429952,
-        "timestamp":"2024-05-17T14:46:06.552Z"},
+        "_version_":1801959768971018240,
+        "timestamp":"2024-06-15T20:19:10.865Z"},
       {
         "id":"arc_296_real_estate_brochuresaspace_6085cbb3b4ff4f8fc299281d14a969b6",
         "ead_ssi":"arc_296_real_estate_brochures",
@@ -150,8 +152,8 @@
         "format_ssm":["Archival Series"],
         "location_ssm":["Box: 9"],
         "heading_ssm":["St. Albans - Yaphank"],
-        "_version_":1799311502149156864,
-        "timestamp":"2024-05-17T14:46:06.814Z"},
+        "_version_":1801959769128304640,
+        "timestamp":"2024-06-15T20:19:11.015Z"},
       {
         "id":"arc_296_real_estate_brochuresaspace_6122722768538648010bc7842ebc27d4",
         "ead_ssi":"arc_296_real_estate_brochures",
@@ -169,8 +171,8 @@
         "format_ssm":["Archival Series"],
         "location_ssm":["Box: 5"],
         "heading_ssm":["Edgemere Crest - Goodground"],
-        "_version_":1799311502043250688,
-        "timestamp":"2024-05-17T14:46:06.713Z"},
+        "_version_":1801959769061195776,
+        "timestamp":"2024-06-15T20:19:10.951Z"},
       {
         "id":"arc_296_real_estate_brochuresaspace_65c4a41c56d6f8de4e309cf0ff8c23e1",
         "ead_ssi":"arc_296_real_estate_brochures",
@@ -188,8 +190,8 @@
         "format_ssm":["Archival Series"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Bath Beach - Coney Island"],
-        "_version_":1799311501837729792,
-        "timestamp":"2024-05-17T14:46:06.517Z"},
+        "_version_":1801959768951095296,
+        "timestamp":"2024-06-15T20:19:10.846Z"},
       {
         "id":"arc_296_real_estate_brochuresaspace_66ffd34b28998f8972cd5103ef599787",
         "ead_ssi":"arc_296_real_estate_brochures",
@@ -207,8 +209,8 @@
         "format_ssm":["Archival Series"],
         "location_ssm":["Box: 7"],
         "heading_ssm":["Jackson Heights - Munson"],
-        "_version_":1799311502098825216,
-        "timestamp":"2024-05-17T14:46:06.766Z"},
+        "_version_":1801959769096847360,
+        "timestamp":"2024-06-15T20:19:10.985Z"},
       {
         "id":"arc_296_real_estate_brochuresaspace_8d4b9085d38d33ad02a5419b5967b91c",
         "ead_ssi":"arc_296_real_estate_brochures",
@@ -226,8 +228,8 @@
         "format_ssm":["Archival Series"],
         "location_ssm":["Box: 8"],
         "heading_ssm":["Nassau County (various) - Roslyn"],
-        "_version_":1799311502121893888,
-        "timestamp":"2024-05-17T14:46:06.787Z"},
+        "_version_":1801959769112576000,
+        "timestamp":"2024-06-15T20:19:11Z"},
       {
         "id":"arc_296_real_estate_brochuresaspace_b5f981320d42fa2333fe1ff3cd43a4fb",
         "ead_ssi":"arc_296_real_estate_brochures",
@@ -245,8 +247,8 @@
         "format_ssm":["Archival Series"],
         "location_ssm":["Box: 4"],
         "heading_ssm":["Alpine - East Williston"],
-        "_version_":1799311501997113344,
-        "timestamp":"2024-05-17T14:46:06.668Z"},
+        "_version_":1801959769041272832,
+        "timestamp":"2024-06-15T20:19:10.932Z"},
       {
         "id":"arc_296_real_estate_brochuresaspace_c006f92e0ff0f487db404d6d42e3581c",
         "ead_ssi":"arc_296_real_estate_brochures",
@@ -264,8 +266,8 @@
         "format_ssm":["Archival Series"],
         "location_ssm":["Box: 3"],
         "heading_ssm":["Kensington - Windsor Terrace"],
-        "_version_":1799311501907984384,
-        "timestamp":"2024-05-17T14:46:06.584Z"},
+        "_version_":1801959768986746880,
+        "timestamp":"2024-06-15T20:19:10.88Z"},
       {
         "id":"arc_296_real_estate_brochuresaspace_cd7ebdcae0b960ff24a7630a925ae8e4",
         "ead_ssi":"arc_296_real_estate_brochures",
@@ -283,8 +285,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: OS-37"],
         "heading_ssm":["Plans for 58 Remsen and Grace Court (Brooklyn Heights)"],
-        "_version_":1799311501936295936,
-        "timestamp":"2024-05-17T14:46:06.611Z"},
+        "_version_":1801959769004572672,
+        "timestamp":"2024-06-15T20:19:10.897Z"},
       {
         "id":"arc_296_real_estate_brochuresaspace_da2f3f29d80ff90585ca08c1c38c52f7",
         "ead_ssi":"arc_296_real_estate_brochures",
@@ -298,8 +300,8 @@
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Long Island and Queens"],
-        "_version_":1799311501956218880,
-        "timestamp":"2024-05-17T14:46:06.63Z"}]
+        "_version_":1801959769022398464,
+        "timestamp":"2024-06-15T20:19:10.914Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -307,7 +309,8 @@
       "repository_sim":[
         "cbh",13],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Historical Society (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",12],

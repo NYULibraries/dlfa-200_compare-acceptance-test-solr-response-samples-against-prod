@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Joseph Aron and Rita Dashefsky Aron Correspondence and Photographs"],
         "unitid_ssm":["MC.351"],
         "abstract_ssm":["Joseph Aron and Rita Dashefsky Aron were New York University students. Dashefsky graduated from Washington Square College in 1946. The couple began their relationship as pen pals during Aron's military service in World War II and were later married. This collection is primarily composed of correspondence between Joseph Aron and Rita Dashefsky documenting their relationship and Aron's military service in France during World War II. The collection also contains photographs and other documents relating to Aron's service in the war."],
+        "creator_ssm":["Aron, Joseph",
+          "Dashefsky, Rita",
+          "Aron, Joseph",
+          "Dashefsky, Rita"],
         "unitdate_normal_ssm":["1943/1946"],
         "corpname_ssm":["New York University Archives"],
         "genreform_ssm":["Correspondence."],
@@ -73,8 +77,8 @@
         "unitdate_start_ssm":["1943"],
         "unitdate_end_ssm":["1946"],
         "unitdate_ssm":["Inclusive, 1943-1946"],
-        "_version_":1799251939440984064,
-        "timestamp":"2024-05-16T22:59:23.389Z"},
+        "_version_":1801950168084381696,
+        "timestamp":"2024-06-15T17:46:34.746Z"},
       {
         "id":"mc_351aspace_82facec402f6818c9e531809b0fd1061",
         "ead_ssi":"mc_351",
@@ -88,14 +92,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-2",
-          "Folder: 1-2"],
+        "location_ssm":["Box: 1, Folder: 1-2"],
         "heading_ssm":["Correspondence and Photographs"],
         "unitdate_start_ssm":["1943"],
         "unitdate_end_ssm":["1946"],
         "unitdate_ssm":["Inclusive, 1943-1946"],
-        "_version_":1799251939455664128,
-        "timestamp":"2024-05-16T22:59:23.403Z"}]
+        "_version_":1801950168102207488,
+        "timestamp":"2024-06-15T17:46:34.763Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -103,7 +106,9 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Aron, Joseph",1,
+        "Dashefsky, Rita",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

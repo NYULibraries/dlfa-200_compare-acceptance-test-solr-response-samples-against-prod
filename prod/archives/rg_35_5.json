@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":34,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Tisch School of the Arts Department of Photography and Imaging"],
         "unitid_ssm":["RG.35.5"],
         "abstract_ssm":["The Department of Photography and Imaging at the NYU Tisch School of the Arts is a four-year BFA program focused on the making and understanding of images through an arts curriculum grounded in liberal arts education. Students and faculty in the department work in varied modes of analog and digital photo-based image making and multimedia. This collection consists of materials created and collected by the Department of Photography and Imaging at the NYU Tisch School of the Arts from the late 1980s through the 2010s, and includes catalogs, programs from exhibitions, and copies of ISO magazine. The collection also includes  audio and video recordings in both analog and electronic format of the department's events, guest lectures, and panel sessions, as well as examples the department's film library of commercial releases."],
+        "creator_ssm":["Tisch School of the Arts. Department of Photography and Imaging",
+          "Tisch School of the Arts. Department of Photography and Imaging"],
         "unitdate_normal_ssm":["1984/2019"],
         "corpname_ssm":["New York University Archives",
           "Tisch School of the Arts. Department of Photography and Imaging",
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["Inclusive, 1984-2019"],
-        "_version_":1775218113967554560,
-        "timestamp":"2023-08-25T16:12:01.31Z"},
+        "_version_":1800572137005645824,
+        "timestamp":"2024-05-31T12:43:21.899Z"},
       {
         "id":"rg_35_5aspace_00d33f09134e243c85d6244137437b0d",
         "ead_ssi":"rg_35_5",
@@ -87,8 +89,8 @@
         "unitdate_start_ssm":["1997"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["Inclusive, 1997-2019"],
-        "_version_":1775218115002499072,
-        "timestamp":"2023-08-25T16:12:02.297Z"},
+        "_version_":1800572137285615616,
+        "timestamp":"2024-05-31T12:43:22.166Z"},
       {
         "id":"rg_35_5aspace_0db3a10c2947eb8e640043ac10ed80ad",
         "ead_ssi":"rg_35_5",
@@ -107,8 +109,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, 1986-1997"],
-        "_version_":1775218114706800640,
-        "timestamp":"2023-08-25T16:12:02.014Z"},
+        "_version_":1800572137206972416,
+        "timestamp":"2024-05-31T12:43:22.09Z"},
       {
         "id":"rg_35_5aspace_38c450ddc9134ad96a1689a9f83f1409",
         "ead_ssi":"rg_35_5",
@@ -127,8 +129,8 @@
         "unitdate_start_ssm":["1999"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1999-2005"],
-        "_version_":1775218114465628160,
-        "timestamp":"2023-08-25T16:12:01.785Z"},
+        "_version_":1800572137136717824,
+        "timestamp":"2024-05-31T12:43:22.024Z"},
       {
         "id":"rg_35_5aspace_47ef3122a4d82305e9317e43765871ed",
         "ead_ssi":"rg_35_5",
@@ -148,8 +150,8 @@
         "unitdate_start_ssm":["1995"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 1995-2001"],
-        "_version_":1775218114301001728,
-        "timestamp":"2023-08-25T16:12:01.628Z"},
+        "_version_":1800572137093726208,
+        "timestamp":"2024-05-31T12:43:21.983Z"},
       {
         "id":"rg_35_5aspace_5b1e0c9b38b42a25e4889c965fb3b487",
         "ead_ssi":"rg_35_5",
@@ -168,8 +170,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1984-2000"],
-        "_version_":1775218114136375296,
-        "timestamp":"2023-08-25T16:12:01.471Z"},
+        "_version_":1800572137048637440,
+        "timestamp":"2024-05-31T12:43:21.94Z"},
       {
         "id":"rg_35_5aspace_61709d48e264b8ba7520b87acfb21a29",
         "ead_ssi":"rg_35_5",
@@ -188,8 +190,8 @@
         "unitdate_start_ssm":["1985"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1985-1991"],
-        "_version_":1775218114598797312,
-        "timestamp":"2023-08-25T16:12:01.912Z"},
+        "_version_":1800572137174466560,
+        "timestamp":"2024-05-31T12:43:22.06Z"},
       {
         "id":"rg_35_5aspace_6464beb8a8b9eb9a7a5bfb8862886068",
         "ead_ssi":"rg_35_5",
@@ -209,8 +211,8 @@
         "unitdate_start_ssm":["1991"],
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1991-2000"],
-        "_version_":1775218114244378624,
-        "timestamp":"2023-08-25T16:12:01.574Z"},
+        "_version_":1800572137079046144,
+        "timestamp":"2024-05-31T12:43:21.969Z"},
       {
         "id":"rg_35_5aspace_69b36ee46c9308607d9ff765be0e9375",
         "ead_ssi":"rg_35_5",
@@ -229,8 +231,8 @@
         "unitdate_start_ssm":["2010"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 2010-2017"],
-        "_version_":1775218114087092224,
-        "timestamp":"2023-08-25T16:12:01.424Z"},
+        "_version_":1800572137036054528,
+        "timestamp":"2024-05-31T12:43:21.928Z"},
       {
         "id":"rg_35_5aspace_6a600bb953e117e25b8b2db44035bd74",
         "ead_ssi":"rg_35_5",
@@ -249,8 +251,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1984-2005"],
-        "_version_":1775218114873524224,
-        "timestamp":"2023-08-25T16:12:02.174Z"},
+        "_version_":1800572137244721152,
+        "timestamp":"2024-05-31T12:43:22.127Z"},
       {
         "id":"rg_35_5aspace_6c329348afc161c51d7b9d28be364574",
         "ead_ssi":"rg_35_5",
@@ -270,8 +272,8 @@
         "unitdate_start_ssm":["1993"],
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1993-2000"],
-        "_version_":1775218114197192704,
-        "timestamp":"2023-08-25T16:12:01.529Z"},
+        "_version_":1800572137064366080,
+        "timestamp":"2024-05-31T12:43:21.955Z"},
       {
         "id":"rg_35_5aspace_8413a3855f9829adb3183d7a09d9b8d0",
         "ead_ssi":"rg_35_5",
@@ -290,8 +292,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1984-2005"],
-        "_version_":1775218114832629760,
-        "timestamp":"2023-08-25T16:12:02.135Z"},
+        "_version_":1800572137232138240,
+        "timestamp":"2024-05-31T12:43:22.115Z"},
       {
         "id":"rg_35_5aspace_89194764c079cae846f132256b316d4a",
         "ead_ssi":"rg_35_5",
@@ -310,8 +312,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1984-2005"],
-        "_version_":1775218114921758720,
-        "timestamp":"2023-08-25T16:12:02.22Z"},
+        "_version_":1800572137257304064,
+        "timestamp":"2024-05-31T12:43:22.139Z"},
       {
         "id":"rg_35_5aspace_ab3d85110b4793d249badcb34ef99061",
         "ead_ssi":"rg_35_5",
@@ -331,8 +333,8 @@
         "unitdate_start_ssm":["1994"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1994-2004"],
-        "_version_":1775218114356576256,
-        "timestamp":"2023-08-25T16:12:01.681Z"},
+        "_version_":1800572137107357696,
+        "timestamp":"2024-05-31T12:43:21.996Z"},
       {
         "id":"rg_35_5aspace_b2b9424def74e293f24227af567d3a53",
         "ead_ssi":"rg_35_5",
@@ -351,8 +353,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1992-1999"],
-        "_version_":1775218114647031808,
-        "timestamp":"2023-08-25T16:12:01.958Z"},
+        "_version_":1800572137189146624,
+        "timestamp":"2024-05-31T12:43:22.074Z"},
       {
         "id":"rg_35_5aspace_ce0c088fca357ab8338a4951c948d134",
         "ead_ssi":"rg_35_5",
@@ -372,8 +374,8 @@
         "unitdate_start_ssm":["1991"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1991-2004"],
-        "_version_":1775218114423685120,
-        "timestamp":"2023-08-25T16:12:01.745Z"},
+        "_version_":1800572137122037760,
+        "timestamp":"2024-05-31T12:43:22.01Z"},
       {
         "id":"rg_35_5aspace_e20b4287e2fdfc846f2b7b99a24f40a9",
         "ead_ssi":"rg_35_5",
@@ -393,8 +395,8 @@
         "unitdate_start_ssm":["1991"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1991-1992"],
-        "_version_":1775218114549514240,
-        "timestamp":"2023-08-25T16:12:01.865Z"},
+        "_version_":1800572137161883648,
+        "timestamp":"2024-05-31T12:43:22.048Z"},
       {
         "id":"rg_35_5aspace_f15bb0c9e2b9d6eb2207f095f80dc0ee",
         "ead_ssi":"rg_35_5",
@@ -413,8 +415,8 @@
         "unitdate_start_ssm":["1985"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1985-1990"],
-        "_version_":1775218114760278016,
-        "timestamp":"2023-08-25T16:12:02.066Z"},
+        "_version_":1800572137219555328,
+        "timestamp":"2024-05-31T12:43:22.103Z"},
       {
         "id":"rg_35_5aspace_f4fd7359b1b55aa0b149237f0028052a",
         "ead_ssi":"rg_35_5",
@@ -434,8 +436,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, 1992-1996"],
-        "_version_":1775218114511765504,
-        "timestamp":"2023-08-25T16:12:01.828Z"},
+        "_version_":1800572137149300736,
+        "timestamp":"2024-05-31T12:43:22.036Z"},
       {
         "id":"rg_35_5aspace_f60b61551c85208f443db61a8f18b9fc",
         "ead_ssi":"rg_35_5",
@@ -457,8 +459,8 @@
         "unitdate_start_ssm":["1999"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 1999-2017"],
-        "_version_":1775218114029420544,
-        "timestamp":"2023-08-25T16:12:01.369Z"},
+        "_version_":1800572137022423040,
+        "timestamp":"2024-05-31T12:43:21.915Z"},
       {
         "id":"rg_35_5aspace_f865ff17f2ca8ccf2697b3b135cd912b",
         "ead_ssi":"rg_35_5",
@@ -478,8 +480,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1984-2005"],
-        "_version_":1775218114963701760,
-        "timestamp":"2023-08-25T16:12:02.26Z"}]
+        "_version_":1800572137273032704,
+        "timestamp":"2024-05-31T12:43:22.154Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -487,7 +489,8 @@
       "repository_sim":[
         "archives",21],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tisch School of the Arts. Department of Photography and Imaging",1],
       "date_range_sim":[
         "1901-2000",20,
         "2001-2100",12],

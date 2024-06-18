@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Khalil Abdulkhabir photographs of the Dar-ul-Islam movement"],
         "unitid_ssm":["2020.002"],
         "abstract_ssm":["The Khalil Abdulkhabir photographs of the Dar-ul-Islam movement collection comprises sixteen digital photographic images taken by Khalil Abdulkhabir documenting the activities of Brooklyn's Dar-ul-Islam community in the 1970s. The Dar-ul-Islam, known as \"the Dar\", was one of the first and most significant grassroots movements established by African-American Sunni Muslims in America. The Brooklyn Dar community was focused around the Yasin Mosque, at 52 Herkimer Place in  Bedford-Stuyvesant."],
+        "creator_ssm":["Abdulkhabir, Khalil",
+          "Abdulkhabir, Khalil"],
         "unitdate_normal_ssm":["1972/1977"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Dar-ul-Islam Movement"],
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1972-1977"],
         "language_ssm":["English"],
-        "_version_":1775219582925012992,
-        "timestamp":"2023-08-25T16:35:22.216Z"},
+        "_version_":1800596988740239360,
+        "timestamp":"2024-05-31T19:18:22.36Z"},
       {
         "id":"2020_002aspace_15edd06833868351fd50bcbe0024e0c1",
         "ead_ssi":"2020_002",
@@ -94,8 +96,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["1973"],
-        "_version_":1775219583254265856,
-        "timestamp":"2023-08-25T16:35:22.531Z"},
+        "_version_":1800596988897525760,
+        "timestamp":"2024-05-31T19:18:22.51Z"},
       {
         "id":"2020_002aspace_1b7fec4367b5c3a1015519841f750600",
         "ead_ssi":"2020_002",
@@ -114,8 +116,8 @@
         "unitdate_start_ssm":["1974"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["1974"],
-        "_version_":1775219583352832000,
-        "timestamp":"2023-08-25T16:35:22.625Z"},
+        "_version_":1800596988951003136,
+        "timestamp":"2024-05-31T19:18:22.561Z"},
       {
         "id":"2020_002aspace_1c916f680b705173d6b2d6dfee0d7af6",
         "ead_ssi":"2020_002",
@@ -134,8 +136,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["1972"],
-        "_version_":1775219582962761728,
-        "timestamp":"2023-08-25T16:35:22.253Z"},
+        "_version_":1800596988761210880,
+        "timestamp":"2024-05-31T19:18:22.38Z"},
       {
         "id":"2020_002aspace_2055c581fc8b58b7127399b671c74c3b",
         "ead_ssi":"2020_002",
@@ -154,8 +156,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["1972"],
-        "_version_":1775219583002607616,
-        "timestamp":"2023-08-25T16:35:22.291Z"},
+        "_version_":1800596988776939520,
+        "timestamp":"2024-05-31T19:18:22.395Z"},
       {
         "id":"2020_002aspace_391982cb5cd83855929dac635a084209",
         "ead_ssi":"2020_002",
@@ -174,8 +176,8 @@
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["1977"],
-        "_version_":1775219583614976000,
-        "timestamp":"2023-08-25T16:35:22.875Z"},
+        "_version_":1800596989081026560,
+        "timestamp":"2024-05-31T19:18:22.685Z"},
       {
         "id":"2020_002aspace_4b5bee018934cc6dd1cbcd9488bd1bfe",
         "ead_ssi":"2020_002",
@@ -194,8 +196,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["1973"],
-        "_version_":1775219583136825344,
-        "timestamp":"2023-08-25T16:35:22.419Z"},
+        "_version_":1800596988823076864,
+        "timestamp":"2024-05-31T19:18:22.439Z"},
       {
         "id":"2020_002aspace_4eaaddd7f7df780f96a7cb90b3105864",
         "ead_ssi":"2020_002",
@@ -214,8 +216,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["1973"],
-        "_version_":1775219583299354624,
-        "timestamp":"2023-08-25T16:35:22.573Z"},
+        "_version_":1800596988924788736,
+        "timestamp":"2024-05-31T19:18:22.536Z"},
       {
         "id":"2020_002aspace_66d767c6623f173cfb058d3361e0e13c",
         "ead_ssi":"2020_002",
@@ -234,8 +236,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["1975"],
-        "_version_":1775219583487049728,
-        "timestamp":"2023-08-25T16:35:22.753Z"},
+        "_version_":1800596989016014848,
+        "timestamp":"2024-05-31T19:18:22.623Z"},
       {
         "id":"2020_002aspace_799aa0cd76d53876a00b9f1534972be0",
         "ead_ssi":"2020_002",
@@ -254,8 +256,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["1973"],
-        "_version_":1775219583215468544,
-        "timestamp":"2023-08-25T16:35:22.494Z"},
+        "_version_":1800596988863971328,
+        "timestamp":"2024-05-31T19:18:22.478Z"},
       {
         "id":"2020_002aspace_80352016fa18831fcdb4dabd20af4003",
         "ead_ssi":"2020_002",
@@ -274,8 +276,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["1975"],
-        "_version_":1775219583441960960,
-        "timestamp":"2023-08-25T16:35:22.71Z"},
+        "_version_":1800596988996091904,
+        "timestamp":"2024-05-31T19:18:22.604Z"},
       {
         "id":"2020_002aspace_8d57a49cca6c7ca9afcc8f7503917f68",
         "ead_ssi":"2020_002",
@@ -294,8 +296,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["1973"],
-        "_version_":1775219583047696384,
-        "timestamp":"2023-08-25T16:35:22.334Z"},
+        "_version_":1800596988793716736,
+        "timestamp":"2024-05-31T19:18:22.411Z"},
       {
         "id":"2020_002aspace_9c84c01d0f03658fb9b2a7aeac2b58c1",
         "ead_ssi":"2020_002",
@@ -314,8 +316,8 @@
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["1977"],
-        "_version_":1775219583570935808,
-        "timestamp":"2023-08-25T16:35:22.833Z"},
+        "_version_":1800596989054812160,
+        "timestamp":"2024-05-31T19:18:22.66Z"},
       {
         "id":"2020_002aspace_a0b5fa19f8d07a90f6f9ee0651a1bdd3",
         "ead_ssi":"2020_002",
@@ -334,8 +336,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["1973"],
-        "_version_":1775219583176671232,
-        "timestamp":"2023-08-25T16:35:22.456Z"},
+        "_version_":1800596988838805504,
+        "timestamp":"2024-05-31T19:18:22.454Z"},
       {
         "id":"2020_002aspace_c0823a8d9c79fc633b83ac8b330927c5",
         "ead_ssi":"2020_002",
@@ -354,8 +356,8 @@
         "unitdate_start_ssm":["1974"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["1974"],
-        "_version_":1775219583390580736,
-        "timestamp":"2023-08-25T16:35:22.661Z"},
+        "_version_":1800596988976168960,
+        "timestamp":"2024-05-31T19:18:22.584Z"},
       {
         "id":"2020_002aspace_dd52256577711036b36c8f79f56a709e",
         "ead_ssi":"2020_002",
@@ -374,8 +376,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["1973"],
-        "_version_":1775219583093833729,
-        "timestamp":"2023-08-25T16:35:22.378Z"},
+        "_version_":1800596988807348224,
+        "timestamp":"2024-05-31T19:18:22.424Z"},
       {
         "id":"2020_002aspace_f109d1266b36f898130806e95b3773a2",
         "ead_ssi":"2020_002",
@@ -394,8 +396,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["1975"],
-        "_version_":1775219583527944192,
-        "timestamp":"2023-08-25T16:35:22.792Z"}]
+        "_version_":1800596989036986368,
+        "timestamp":"2024-05-31T19:18:22.643Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -403,7 +405,8 @@
       "repository_sim":[
         "cbh",17],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Abdulkhabir, Khalil",1],
       "date_range_sim":[
         "1901-2000",17],
       "subject_sim":[

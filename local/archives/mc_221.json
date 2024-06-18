@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["Isaac Allen Papers"],
         "unitid_ssm":["MC.221"],
         "abstract_ssm":["Isaac Allen attended courses related to architecture at New York University (NYU) in the early to mid-twentieth century. Materials include four textbooks related to architecture and architectural drawing."],
+        "creator_ssm":["Allen, Isaac",
+          "Allen, Isaac"],
         "unitdate_normal_ssm":["1922/1930",
           "1922/1927"],
         "corpname_ssm":["New York University Archives"],
@@ -62,8 +64,8 @@
         "unitdate_end_ssm":["1930",
           "1927"],
         "unitdate_ssm":["Inclusive, 1922-1930 ; 1922-1927"],
-        "_version_":1799251877565562880,
-        "timestamp":"2024-05-16T22:58:24.38Z"},
+        "_version_":1801949205281898496,
+        "timestamp":"2024-06-15T17:31:16.546Z"},
       {
         "id":"mc_221aspace_4aff79f7cb4708bcb2f670726db376c2",
         "ead_ssi":"mc_221",
@@ -77,14 +79,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Item: 4",
-          "Item: 4"],
+        "location_ssm":["Box: 1, Item: 4"],
         "heading_ssm":["Perspective Projection: A Simple and Exact Method of Making Perspective Drawings"],
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["1930"],
-        "_version_":1799251877649448960,
-        "timestamp":"2024-05-16T22:58:24.46Z"},
+        "_version_":1801949205353201664,
+        "timestamp":"2024-06-15T17:31:16.614Z"},
       {
         "id":"mc_221aspace_8ef768d94223c6f5b84b0739dcb0940b",
         "ead_ssi":"mc_221",
@@ -98,14 +99,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Item: 1",
-          "Item: 1"],
+        "location_ssm":["Box: 1, Item: 1"],
         "heading_ssm":["Concours d'Architecture"],
         "unitdate_start_ssm":["1926"],
         "unitdate_end_ssm":["1927"],
         "unitdate_ssm":["Inclusive, 1926-1927"],
-        "_version_":1799251877586534400,
-        "timestamp":"2024-05-16T22:58:24.4Z"},
+        "_version_":1801949205299724288,
+        "timestamp":"2024-06-15T17:31:16.563Z"},
       {
         "id":"mc_221aspace_980e677bdd5a1301c6cdd66fb58e9c2d",
         "ead_ssi":"mc_221",
@@ -119,14 +119,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Item: 2",
-          "Item: 2"],
+        "location_ssm":["Box: 1, Item: 2"],
         "heading_ssm":["Sketching and Rendering in Pencil"],
         "unitdate_start_ssm":["1922"],
         "unitdate_end_ssm":["1922"],
         "unitdate_ssm":["1922"],
-        "_version_":1799251877603311616,
-        "timestamp":"2024-05-16T22:58:24.416Z"},
+        "_version_":1801949205314404352,
+        "timestamp":"2024-06-15T17:31:16.577Z"},
       {
         "id":"mc_221aspace_fb18a326a90f41953fbf875e3fd24ca1",
         "ead_ssi":"mc_221",
@@ -140,14 +139,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Item: 3",
-          "Item: 3"],
+        "location_ssm":["Box: 1, Item: 3"],
         "heading_ssm":["D'Espouy: One Hundred Selected Plates from Fragments d'Architecture Antique"],
         "unitdate_start_ssm":["1924"],
         "unitdate_end_ssm":["1924"],
         "unitdate_ssm":["circa 1924"],
-        "_version_":1799251877617991680,
-        "timestamp":"2024-05-16T22:58:24.43Z"}]
+        "_version_":1801949205336424448,
+        "timestamp":"2024-06-15T17:31:16.598Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -155,7 +153,8 @@
       "repository_sim":[
         "archives",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Allen, Isaac",1],
       "date_range_sim":[
         "1901-2000",5],
       "subject_sim":[

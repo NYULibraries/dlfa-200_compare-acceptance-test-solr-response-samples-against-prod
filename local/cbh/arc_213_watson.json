@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edward B. Watson photographs and prints collection"],
         "unitid_ssm":["ARC.213"],
         "abstract_ssm":["The Edward B. Watson photographs and prints collection dates from circa 1880 to 1957 and measures .42 linear feet. The collection consists of 99 black-and-white photographs taken by Edward B. Watson from 1927 to 1957 and roughly 440 clippings culled by Watson from various magazines."],
+        "creator_ssm":["Watson, Edward B.",
+          "Watson, Edward B."],
         "unitdate_normal_ssm":["1870/1967"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographs",
@@ -84,8 +86,8 @@
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, circa 1880 to 1957"],
         "language_ssm":["English"],
-        "_version_":1799256176387424256,
-        "timestamp":"2024-05-17T00:06:44.056Z"},
+        "_version_":1801959425248854016,
+        "timestamp":"2024-06-15T20:13:43.065Z"},
       {
         "id":"arc_213_watsonaspace_ref11_nz6",
         "ead_ssi":"arc_213_watson",
@@ -101,8 +103,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 2: Prints"],
         "unitdate_ssm":["circa 1880 to 1935"],
-        "_version_":1799256176422027264,
-        "timestamp":"2024-05-17T00:06:44.089Z"},
+        "_version_":1801959425280311296,
+        "timestamp":"2024-06-15T20:13:43.096Z"},
       {
         "id":"arc_213_watsonaspace_ref9_gzf",
         "ead_ssi":"arc_213_watson",
@@ -121,8 +123,8 @@
         "unitdate_start_ssm":["1927"],
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["Inclusive, 1927-1957"],
-        "_version_":1799256176409444352,
-        "timestamp":"2024-05-17T00:06:44.076Z"}]
+        "_version_":1801959425265631232,
+        "timestamp":"2024-06-15T20:13:43.082Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -130,7 +132,8 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Watson, Edward B.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",2,

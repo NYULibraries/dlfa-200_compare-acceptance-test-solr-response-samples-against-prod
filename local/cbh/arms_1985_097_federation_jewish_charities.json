@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Federation of Jewish Charities collection"],
         "unitid_ssm":["1985.097"],
         "abstract_ssm":["The Brooklyn Federation of Jewish Charities collection documents philanthropy and social aid work in Brooklyn's Jewish community during the early 20th century. It is comprised primarily of copies of the Federation's annual report spanning the years 1910 to 1920. The Brooklyn Federation of Jewish Charities was incorporated in October of 1909."],
+        "creator_ssm":["Federation of Jewish Charities in Brooklyn",
+          "Federation of Jewish Charities in Brooklyn"],
         "unitdate_normal_ssm":["1910/1927"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Federation of Jewish Charities in Brooklyn",
@@ -82,8 +84,8 @@
         "unitdate_end_ssm":["1927"],
         "unitdate_ssm":["Inclusive, 1910-1927"],
         "language_ssm":["English"],
-        "_version_":1799311684422074368,
-        "timestamp":"2024-05-17T14:49:00.643Z"}]
+        "_version_":1801963106257076224,
+        "timestamp":"2024-06-15T21:12:13.548Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Federation of Jewish Charities in Brooklyn",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Department of Public Speaking: The George Augustus Sandham Oratorical Contest"],
         "unitid_ssm":["RG.21.18.2"],
         "abstract_ssm":["The New York University Department of Public Speaking's George Augustus Sandham Oratorical Contest was established in 1900 by Sandham's sister Anna and awarded to students from either the College of Arts and Pure Science or the College of Engineering. This collection contains letters dating from 1899 to 1907 from Anna M. Sandham to New York University Chancellor Henry Mitchell MacCracken regarding the establishment and subsequent payments to this award."],
+        "creator_ssm":["Sandham, Anna M.",
+          "Sandham, Anna M."],
         "unitdate_normal_ssm":["1899/1907"],
         "corpname_ssm":["New York University Archives",
           "New York University",
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1899"],
         "unitdate_end_ssm":["1907"],
         "unitdate_ssm":["Inclusive, 1899-1907"],
-        "_version_":1799248563964739584,
-        "timestamp":"2024-05-16T22:05:44.284Z"},
+        "_version_":1801951873010237440,
+        "timestamp":"2024-06-15T18:13:40.69Z"},
       {
         "id":"rg_21_18_2aspace_ccc23d0a3081aeb27fa329b73ed8d0f5",
         "ead_ssi":"rg_21_18_2",
@@ -81,14 +83,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 059, Folder: 9",
-          "Folder: 9"],
+        "location_ssm":["Box: Shared University Archives 059, Folder: 9"],
         "heading_ssm":["Letters from Anna M. Sandham to Henry Mitchell MacCracken"],
         "unitdate_start_ssm":["1899"],
         "unitdate_end_ssm":["1907"],
         "unitdate_ssm":["Inclusive, 1899-1907"],
-        "_version_":1799248563984662528,
-        "timestamp":"2024-05-16T22:05:44.303Z"}]
+        "_version_":1801951873034354688,
+        "timestamp":"2024-06-15T18:13:40.713Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +97,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sandham, Anna M.",1],
       "date_range_sim":[
         "1801-1900",2,
         "1901-2000",2],

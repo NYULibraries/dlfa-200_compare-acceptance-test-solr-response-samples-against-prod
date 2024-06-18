@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Theodore Zittel Scrapbook and Photographs"],
         "unitid_ssm":["WAG.206"],
         "abstract_ssm":["This collection contains a scrapbook and images of Theodore Zittel (1903-1950), a labor publicity director. The bulk of the collection is from the 1940s and documents the strike against the Brass Rail restaurant."],
+        "creator_ssm":["Zittel, Theodore, 1903-1950",
+          "Zittel, Theodore, 1903-1950"],
         "unitdate_normal_ssm":["1937/1950"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Hotel and Restaurant Employees International Alliance",
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1950"],
         "unitdate_ssm":["Inclusive, 1937-1950"],
-        "_version_":1799802517139226624,
-        "timestamp":"2024-05-23T00:50:35.198Z"},
+        "_version_":1802195527385743360,
+        "timestamp":"2024-06-18T10:46:27.61Z"},
       {
         "id":"wag_206aspace_ref11",
         "ead_ssi":"wag_206",
@@ -90,8 +92,8 @@
         "unitdate_start_ssm":["1941"],
         "unitdate_end_ssm":["1941"],
         "unitdate_ssm":["Inclusive, 1941"],
-        "_version_":1799802517154955264,
-        "timestamp":"2024-05-23T00:50:35.214Z"},
+        "_version_":1802195527396229120,
+        "timestamp":"2024-06-18T10:46:27.62Z"},
       {
         "id":"wag_206aspace_ref12",
         "ead_ssi":"wag_206",
@@ -110,8 +112,8 @@
         "unitdate_start_ssm":["1943"],
         "unitdate_end_ssm":["1950"],
         "unitdate_ssm":["Inclusive, 1943-1950"],
-        "_version_":1799802517169635328,
-        "timestamp":"2024-05-23T00:50:35.228Z"},
+        "_version_":1802195527405666304,
+        "timestamp":"2024-06-18T10:46:27.629Z"},
       {
         "id":"wag_206aspace_ref13",
         "ead_ssi":"wag_206",
@@ -130,8 +132,8 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Inclusive, 1936-1937"],
-        "_version_":1799802517191655424,
-        "timestamp":"2024-05-23T00:50:35.249Z"}]
+        "_version_":1802195527420346368,
+        "timestamp":"2024-06-18T10:46:27.643Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -139,7 +141,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Zittel, Theodore, 1903-1950",1],
       "date_range_sim":[
         "1901-2000",4],
       "subject_sim":[

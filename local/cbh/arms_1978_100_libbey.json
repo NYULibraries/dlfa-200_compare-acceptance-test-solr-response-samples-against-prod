@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Walter Libbey papers"],
         "unitid_ssm":["1978.100"],
         "abstract_ssm":["This collection includes letters, notes, a ticket for lifetime admission to the New York Gallery of Arts, and a memorial poem honoring artist Walter Libbey. Materials date from 1847 to 1852."],
+        "creator_ssm":["Libbey, Walter",
+          "Libbey, Walter"],
         "unitdate_normal_ssm":["1847/1852"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1852"],
         "unitdate_ssm":["Inclusive, 1847-1852"],
         "language_ssm":["English"],
-        "_version_":1799312462669938688,
-        "timestamp":"2024-05-17T15:01:22.838Z"}]
+        "_version_":1801962446830698496,
+        "timestamp":"2024-06-15T21:01:44.671Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Libbey, Walter",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Joseph and Clara Cole marriage publication"],
         "unitid_ssm":["1977.415"],
         "abstract_ssm":["One publication containing the text of the marriage ceremony of Joseph G. Cole and Clara C. (Naylor) Cole, administered by James D. Phelps on April 25, 1906."],
+        "creator_ssm":["Cole, Clara C. Naylor",
+          "Cole, Joseph G.",
+          "Phelps, James D.",
+          "Cole, Clara C. Naylor",
+          "Cole, Joseph G.",
+          "Phelps, James D."],
         "unitdate_normal_ssm":["1906/1906"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Marriage certificates"],
@@ -72,8 +78,8 @@
         "unitdate_end_ssm":["1906"],
         "unitdate_ssm":["1906"],
         "language_ssm":["English"],
-        "_version_":1799312356384178176,
-        "timestamp":"2024-05-17T14:59:41.476Z"}]
+        "_version_":1801961613542031360,
+        "timestamp":"2024-06-15T20:48:29.985Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +87,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cole, Clara C. Naylor",1,
+        "Cole, Joseph G.",1,
+        "Phelps, James D.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

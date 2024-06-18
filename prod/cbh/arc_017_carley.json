@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Walter A. Carley collection"],
         "unitid_ssm":["ARC.017"],
         "abstract_ssm":["The Walter A. Carley collection contains materials from 1905-1956 with bulk dates of 1920-1935. The arrangement consists of five series. The first three series contain souvenir programs, posters and ephemera from theater performances, balls and dinners. The remainder of the K of C and GPRDO records consists of business records, meeting minutes and correspondence for the various committees Carley was involved in within these organizations, as well as periodicals and news clippings."],
+        "creator_ssm":["Carley, Walter A.",
+          "Carley, Walter A."],
         "unitdate_normal_ssm":["1905/1956"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Greenpoint Peoples Regular Democratic Organization",
@@ -80,8 +82,8 @@
         "unitdate_end_ssm":["1956"],
         "unitdate_ssm":["Inclusive, 1905-1956"],
         "language_ssm":["English"],
-        "_version_":1775218091692654592,
-        "timestamp":"2023-08-25T16:11:40.067Z"},
+        "_version_":1800600534784147456,
+        "timestamp":"2024-05-31T20:14:44.131Z"},
       {
         "id":"arc_017_carleyaspace_ref13_wpl",
         "ead_ssi":"arc_017_carley",
@@ -103,8 +105,8 @@
           "1928"],
         "unitdate_ssm":["Inclusive, 1917-1931 ; 1919-1928"],
         "language_ssm":["English"],
-        "_version_":1775218091732500480,
-        "timestamp":"2023-08-25T16:11:40.103Z"},
+        "_version_":1800600534800924672,
+        "timestamp":"2024-05-31T20:14:44.147Z"},
       {
         "id":"arc_017_carleyaspace_ref14_420",
         "ead_ssi":"arc_017_carley",
@@ -126,8 +128,8 @@
           "1951"],
         "unitdate_ssm":["Inclusive, 1922-1954 ; 1925-1951"],
         "language_ssm":["English"],
-        "_version_":1775218091775492096,
-        "timestamp":"2023-08-25T16:11:40.145Z"},
+        "_version_":1800600534818750464,
+        "timestamp":"2024-05-31T20:14:44.164Z"},
       {
         "id":"arc_017_carleyaspace_ref15_vkk",
         "ead_ssi":"arc_017_carley",
@@ -146,8 +148,8 @@
         "unitdate_end_ssm":["1956"],
         "unitdate_ssm":["Inclusive, 1905-1956"],
         "language_ssm":["English"],
-        "_version_":1775218091814289408,
-        "timestamp":"2023-08-25T16:11:40.183Z"},
+        "_version_":1800600534837624832,
+        "timestamp":"2024-05-31T20:14:44.182Z"},
       {
         "id":"arc_017_carleyaspace_ref21_p4v",
         "ead_ssi":"arc_017_carley",
@@ -166,8 +168,8 @@
         "unitdate_start_ssm":["1900"],
         "unitdate_end_ssm":["1950"],
         "unitdate_ssm":["Inclusive, 1900-1950"],
-        "_version_":1775218091854135296,
-        "timestamp":"2023-08-25T16:11:40.221Z"},
+        "_version_":1800600534854402048,
+        "timestamp":"2024-05-31T20:14:44.198Z"},
       {
         "id":"arc_017_carleyaspace_ref22_qce",
         "ead_ssi":"arc_017_carley",
@@ -183,8 +185,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 5: Postcards"],
         "unitdate_ssm":["circa 1910-1924"],
-        "_version_":1775218091889786880,
-        "timestamp":"2023-08-25T16:11:40.255Z"}]
+        "_version_":1800600534865936384,
+        "timestamp":"2024-05-31T20:14:44.209Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -192,7 +194,8 @@
       "repository_sim":[
         "cbh",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Carley, Walter A.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",5,

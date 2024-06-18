@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":16,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["International Alliance of Theatrical Stage Employees, Secretary-Treasurer's Files"],
         "unitid_ssm":["WAG.058"],
         "abstract_ssm":["The International Alliance of Theatrical Stage Employes, Moving Picture Technicians, Artists and Allied Crafts of the United States and Canada (better known as IATSE) is a union of workers in the entertainment industry.  Originally composed of stage hands and projectionists, IATSE now represents craftspeople in a broad array of related occupations.\n\nThis collection consists of IATSE contracts submitted to the Secretary Treasurer of IATSE.  The contracts are  organized by local number."],
+        "creator_ssm":["International Alliance of Theatrical Stage Employees and Moving Picture Machine Operators of the United States and Canada",
+          "International Alliance of Theatrical Stage Employees and Moving Picture Machine Operators of the United States and Canada"],
         "unitdate_normal_ssm":["1950/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Alliance of Theatrical Stage Employees and Moving Picture Machine Operators of the United States and Canada",
@@ -63,8 +65,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1950s-1980s"],
         "language_ssm":["English"],
-        "_version_":1799799920641703936,
-        "timestamp":"2024-05-23T00:09:18.986Z"},
+        "_version_":1802192312829214720,
+        "timestamp":"2024-06-18T09:55:21.97Z"},
       {
         "id":"wag_058aspace_ref10",
         "ead_ssi":"wag_058",
@@ -79,8 +81,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 9"],
         "heading_ssm":["Locals 348 (bulk of box), 349, 350, 351, 353, 357, 359, 360, 361, 362, 363, 366, 367, 368, 369"],
-        "_version_":1799799920787456000,
-        "timestamp":"2024-05-23T00:09:19.125Z"},
+        "_version_":1802192312899469312,
+        "timestamp":"2024-06-18T09:55:22.037Z"},
       {
         "id":"wag_058aspace_ref11",
         "ead_ssi":"wag_058",
@@ -95,8 +97,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 10"],
         "heading_ssm":["Locals 370, 372, 373, 376, 377, 379, 380, 383, 384, 385, 387, 388, 395, 396, 398, 400, 401, 402, 403, 404, 405, 406, 407, 409, 410"],
-        "_version_":1799799920803184640,
-        "timestamp":"2024-05-23T00:09:19.14Z"},
+        "_version_":1802192312906809344,
+        "timestamp":"2024-06-18T09:55:22.044Z"},
       {
         "id":"wag_058aspace_ref12",
         "ead_ssi":"wag_058",
@@ -111,8 +113,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 11"],
         "heading_ssm":["Locals 411, 412, 414, 415, 416, 417, 418, 419, 421, 422, 424, 426, 427, 428, 429, 432, 433, 434, 435, 437, 439, 440, 442, 447, 448, 449, 451, 453, 454, 456, 457, 458, 460, 461, 462, 466, 467, 469, 473, 476, 477, 479, 481, 482, 485, 486"],
-        "_version_":1799799920822059008,
-        "timestamp":"2024-05-23T00:09:19.158Z"},
+        "_version_":1802192312913100800,
+        "timestamp":"2024-06-18T09:55:22.05Z"},
       {
         "id":"wag_058aspace_ref13",
         "ead_ssi":"wag_058",
@@ -127,8 +129,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 12"],
         "heading_ssm":["Locals 487, 488, 490, 498, 499, 500, 502, 504, 505, 506, 507, 509, 510, 511, 512, 513, 515, 516, 519, 523, 524, 525, 527, 528, 534, 536, 539, 537, 540, 544, 545, 547, 548"],
-        "_version_":1799799920835690496,
-        "timestamp":"2024-05-23T00:09:19.171Z"},
+        "_version_":1802192312920440832,
+        "timestamp":"2024-06-18T09:55:22.057Z"},
       {
         "id":"wag_058aspace_ref14",
         "ead_ssi":"wag_058",
@@ -143,8 +145,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 13"],
         "heading_ssm":["Locals 550, 552, 554, 556, 558, 559, 562, 563, 564, 571, 576, 577, 578, 579, 580, 581, 582, 583, 585, 587, 589, 590, 591`, 592, 603, 605, 607, 614, 615, 618, 620, 621, 622, 623, 624, 625"],
-        "_version_":1799799920854564864,
-        "timestamp":"2024-05-23T00:09:19.189Z"},
+        "_version_":1802192312927780864,
+        "timestamp":"2024-06-18T09:55:22.064Z"},
       {
         "id":"wag_058aspace_ref15",
         "ead_ssi":"wag_058",
@@ -159,8 +161,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 14"],
         "heading_ssm":["Locals 626, 268, 630, 631, 633, 634, 635, 636, 640, 642, 644, 645, 646, 650, 653, 655"],
-        "_version_":1799799920871342080,
-        "timestamp":"2024-05-23T00:09:19.205Z"},
+        "_version_":1802192312935120896,
+        "timestamp":"2024-06-18T09:55:22.071Z"},
       {
         "id":"wag_058aspace_ref16",
         "ead_ssi":"wag_058",
@@ -175,8 +177,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 15"],
         "heading_ssm":["Locals 659, 660, 661, 662, 663, 664, 665, 666, 668, 669, 671, 672, 675, 677, 680, 682, 683, 690, 693, 695"],
-        "_version_":1799799920893362176,
-        "timestamp":"2024-05-23T00:09:19.226Z"},
+        "_version_":1802192312943509504,
+        "timestamp":"2024-06-18T09:55:22.079Z"},
       {
         "id":"wag_058aspace_ref17",
         "ead_ssi":"wag_058",
@@ -191,8 +193,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 16"],
         "heading_ssm":["Locals 698, 699, 702, 703, 705, 706, 707, 711, 717, 719, 720, 721, 722, 727, 728, 729, 730, 731, 733, 735, 737, 738, 739, 740, 741, 742, 744, 746, 751, 753, 755, 757, 762"],
-        "_version_":1799799920909090816,
-        "timestamp":"2024-05-23T00:09:19.241Z"},
+        "_version_":1802192312950849536,
+        "timestamp":"2024-06-18T09:55:22.086Z"},
       {
         "id":"wag_058aspace_ref18",
         "ead_ssi":"wag_058",
@@ -207,8 +209,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 17"],
         "heading_ssm":["Locals 764 (bulk of box), 767, 768, 769, 770, 771, 773, 774, 776"],
-        "_version_":1799799920940548096,
-        "timestamp":"2024-05-23T00:09:19.271Z"},
+        "_version_":1802192312958189568,
+        "timestamp":"2024-06-18T09:55:22.093Z"},
       {
         "id":"wag_058aspace_ref19",
         "ead_ssi":"wag_058",
@@ -223,8 +225,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 18"],
         "heading_ssm":["Locals 776, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 794, 795, 796, 797, 798, 800, 803, 804, 805, 806, 810, 811, 812, 816, 818, 819"],
-        "_version_":1799799920964665344,
-        "timestamp":"2024-05-23T00:09:19.294Z"},
+        "_version_":1802192312965529600,
+        "timestamp":"2024-06-18T09:55:22.099Z"},
       {
         "id":"wag_058aspace_ref2",
         "ead_ssi":"wag_058",
@@ -239,8 +241,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Locals 1(bulk of the box), 2, 3"],
-        "_version_":1799799920659529728,
-        "timestamp":"2024-05-23T00:09:19.003Z"},
+        "_version_":1802192312837603328,
+        "timestamp":"2024-06-18T09:55:21.978Z"},
       {
         "id":"wag_058aspace_ref20",
         "ead_ssi":"wag_058",
@@ -255,8 +257,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 19"],
         "heading_ssm":["Locals 820, 822, 823, 824, 825, 829, 830, 832, 833, 839, 840, 841, 842, 844, 847, 848, 853, 854, 855"],
-        "_version_":1799799920991928320,
-        "timestamp":"2024-05-23T00:09:19.32Z"},
+        "_version_":1802192312971821056,
+        "timestamp":"2024-06-18T09:55:22.106Z"},
       {
         "id":"wag_058aspace_ref21",
         "ead_ssi":"wag_058",
@@ -271,8 +273,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 20"],
         "heading_ssm":["Locals 856, 857, 859, 862, 863, 864, 868, 869, 871, 873, 875, 876, 882, 884, 887, 889, 890, 891, 892, 893, 894, 896, 898, 900, 902, 905, 906, 907, 908, 909, 913, 917"],
-        "_version_":1799799921016045568,
-        "timestamp":"2024-05-23T00:09:19.343Z"},
+        "_version_":1802192312978112512,
+        "timestamp":"2024-06-18T09:55:22.112Z"},
       {
         "id":"wag_058aspace_ref3",
         "ead_ssi":"wag_058",
@@ -287,8 +289,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Locals 4, 5, 6, 7, 8, 9, 11, 13, 15, 16, 18, 19, 21, 22, 23, 24, 27, 29, 30, 31, 32, 33, 38 "],
-        "_version_":1799799920676306944,
-        "timestamp":"2024-05-23T00:09:19.019Z"},
+        "_version_":1802192312844943360,
+        "timestamp":"2024-06-18T09:55:21.985Z"},
       {
         "id":"wag_058aspace_ref4",
         "ead_ssi":"wag_058",
@@ -303,8 +305,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 3"],
         "heading_ssm":["Locals 39, 49, 41, 44, 46, 50, 51, 52, 54, 58, 59, 62, 63, 64, 66, 68, 69, 71, 72, 73, 74, 76, 77, 78, 80, 83, 84, 86, 91, 93, 94, 96, 99, 103"],
-        "_version_":1799799920688889856,
-        "timestamp":"2024-05-23T00:09:19.031Z"},
+        "_version_":1802192312851234816,
+        "timestamp":"2024-06-18T09:55:21.991Z"},
       {
         "id":"wag_058aspace_ref5",
         "ead_ssi":"wag_058",
@@ -319,8 +321,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 4"],
         "heading_ssm":["Locals 104, 105, 106, 107, 109, 110, 114, 116, 117, 118(large file), 120, 121, 123, 125, 126, 127, 128, 130, 133, 134, 135, 138, 141, 142, 143, 144, 145, 150"],
-        "_version_":1799799920710909952,
-        "timestamp":"2024-05-23T00:09:19.052Z"},
+        "_version_":1802192312862769152,
+        "timestamp":"2024-06-18T09:55:22.002Z"},
       {
         "id":"wag_058aspace_ref6",
         "ead_ssi":"wag_058",
@@ -335,8 +337,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 5"],
         "heading_ssm":["Locals 151, 152, 154, 157, 158, 159, 160, 161, 162, 163, 164, 165, 167, 168, 169, 170, 171, 173, 174, 175, 179, 180"],
-        "_version_":1799799920725590016,
-        "timestamp":"2024-05-23T00:09:19.066Z"},
+        "_version_":1802192312870109184,
+        "timestamp":"2024-06-18T09:55:22.009Z"},
       {
         "id":"wag_058aspace_ref7",
         "ead_ssi":"wag_058",
@@ -351,8 +353,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 6"],
         "heading_ssm":["Locals 181, 182, 183, 184, 186, 187, 188, 189, 190, 192, 193, 194, 195, 197, 199, 200, 201, 202, 203, 205, 207, 209. 212, 215, 217, 219, 221, 222, 223, 224, 225, 227"],
-        "_version_":1799799920741318656,
-        "timestamp":"2024-05-23T00:09:19.081Z"},
+        "_version_":1802192312877449216,
+        "timestamp":"2024-06-18T09:55:22.016Z"},
       {
         "id":"wag_058aspace_ref8",
         "ead_ssi":"wag_058",
@@ -367,8 +369,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 7"],
         "heading_ssm":["Locals 229, 231, 232, 233, 234, 240, 243, 244, 245, 246, 249, 250, 251, 252, 253, 256, 257, 260, 262, 263, 266, 267, 268, 269, 273, 274, 277, 278, 279, 281, 283, 285, 286, 287, 289, 290, 292, 294, 295, 297, 295, 299"],
-        "_version_":1799799920754950144,
-        "timestamp":"2024-05-23T00:09:19.094Z"},
+        "_version_":1802192312884789248,
+        "timestamp":"2024-06-18T09:55:22.023Z"},
       {
         "id":"wag_058aspace_ref9",
         "ead_ssi":"wag_058",
@@ -383,8 +385,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 8"],
         "heading_ssm":["Locals 300, 301, 302, 304, 306, 307, 306, 307, 309, 310, 311, 314, 315, 316, 317, 318, 320, 321, 323, 324, 325, 327, 328, 329, 330, 332, 333, 334, 336, 337, 338, 339, 340, 342, 343, 344, 345, 346"],
-        "_version_":1799799920771727360,
-        "timestamp":"2024-05-23T00:09:19.11Z"}]
+        "_version_":1802192312892129280,
+        "timestamp":"2024-06-18T09:55:22.03Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -392,7 +394,8 @@
       "repository_sim":[
         "tamwag",21],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "International Alliance of Theatrical Stage Employees and Moving Picture Machine Operators of the United States and Canada",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",20],

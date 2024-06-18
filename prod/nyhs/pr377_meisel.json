@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ron Meisel photographs of Coney Island"],
         "unitid_ssm":["PR 377"],
         "abstract_ssm":["This collection consists of 10 color photographs of Coney Island, taken by photographer Ron Meisel (1952-) between 2005 and 2007. Images include amusement park attractions and participants in the annual Mermaid Parade. Also included is a small exhibition catalog, \"Greetings from Coney Island\" from a 2008 exhibition of Meisel's photographs at the Brooklyn Public Library."],
+        "creator_ssm":["Meisel, Ron, 1952-",
+          "Meisel, Ron, 1952-"],
         "corpname_ssm":["New-York Historical Society"],
         "geogname_ssm":["Coney Island (New York, N.Y.) -- Pictorial works."],
         "persname_ssm":["Meisel, Ron, 1952-"],
@@ -60,8 +62,8 @@
         "heading_ssm":["Ron Meisel photographs of Coney Island"],
         "unitdate_ssm":["Inclusive, 2005-2008"],
         "language_ssm":["English"],
-        "_version_":1775220646683344896,
-        "timestamp":"2023-08-25T16:52:16.696Z"},
+        "_version_":1801069486325891072,
+        "timestamp":"2024-06-06T00:28:31.171Z"},
       {
         "id":"pr377_meiselaspace_1311467215c06388538adf559fd69d14",
         "ead_ssi":"pr377_meisel",
@@ -77,8 +79,8 @@
         "location_ssm":["Folder: OS FF1"],
         "heading_ssm":["Beach Scene"],
         "unitdate_ssm":["Inclusive, 2007"],
-        "_version_":1775220646860554240,
-        "timestamp":"2023-08-25T16:52:16.865Z"},
+        "_version_":1801069486377271296,
+        "timestamp":"2024-06-06T00:28:31.221Z"},
       {
         "id":"pr377_meiselaspace_2a7b947e0abfa0ff52ec7d98f7c9b917",
         "ead_ssi":"pr377_meisel",
@@ -94,8 +96,8 @@
         "location_ssm":["Folder: OS FF1"],
         "heading_ssm":["Astroland Park with Happyface and bottom half of Wonder Wheel"],
         "unitdate_ssm":["Inclusive, 2006"],
-        "_version_":1775220646807076864,
-        "timestamp":"2023-08-25T16:52:16.814Z"},
+        "_version_":1801069486365736960,
+        "timestamp":"2024-06-06T00:28:31.209Z"},
       {
         "id":"pr377_meiselaspace_356de3ca499eaa3bba98276ba1a84975",
         "ead_ssi":"pr377_meisel",
@@ -111,8 +113,8 @@
         "location_ssm":["Folder: OS FF1"],
         "heading_ssm":["\"Greetings from Coney Island,\" exhibition catalog"],
         "unitdate_ssm":["Inclusive, 2008"],
-        "_version_":1775220647145766912,
-        "timestamp":"2023-08-25T16:52:17.137Z"},
+        "_version_":1801069486462205952,
+        "timestamp":"2024-06-06T00:28:31.302Z"},
       {
         "id":"pr377_meiselaspace_65b6582e1e16aba034ced0e56449ecd1",
         "ead_ssi":"pr377_meisel",
@@ -128,8 +130,8 @@
         "location_ssm":["Folder: OS FF1"],
         "heading_ssm":["Vertical Parachute Jump"],
         "unitdate_ssm":["Inclusive, 2005"],
-        "_version_":1775220646758842368,
-        "timestamp":"2023-08-25T16:52:16.768Z"},
+        "_version_":1801069486352105472,
+        "timestamp":"2024-06-06T00:28:31.197Z"},
       {
         "id":"pr377_meiselaspace_67e8f0ccaf6235e07f219204e94dd394",
         "ead_ssi":"pr377_meisel",
@@ -145,8 +147,8 @@
         "location_ssm":["Folder: OS FF1"],
         "heading_ssm":["Nathan's Sign with American Flags"],
         "unitdate_ssm":["Inclusive, 2007"],
-        "_version_":1775220647056637952,
-        "timestamp":"2023-08-25T16:52:17.052Z"},
+        "_version_":1801069486438088704,
+        "timestamp":"2024-06-06T00:28:31.279Z"},
       {
         "id":"pr377_meiselaspace_86803ea87e212bd8c59d2fc61a787fa5",
         "ead_ssi":"pr377_meisel",
@@ -162,8 +164,8 @@
         "location_ssm":["Folder: OS FF1"],
         "heading_ssm":["Cole Bros. Circus Tent, Ticket Window, and Refreshment Trucks"],
         "unitdate_ssm":["Inclusive, 2007"],
-        "_version_":1775220646894108672,
-        "timestamp":"2023-08-25T16:52:16.897Z"},
+        "_version_":1801069486389854208,
+        "timestamp":"2024-06-06T00:28:31.233Z"},
       {
         "id":"pr377_meiselaspace_98c0575ab96e88847735cbd5cc242d9e",
         "ead_ssi":"pr377_meisel",
@@ -179,8 +181,8 @@
         "location_ssm":["Folder: OS FF1"],
         "heading_ssm":["Mermaid Parade with Pink Umbrella"],
         "unitdate_ssm":["Inclusive, 2007"],
-        "_version_":1775220646982189056,
-        "timestamp":"2023-08-25T16:52:16.981Z"},
+        "_version_":1801069486416068608,
+        "timestamp":"2024-06-06T00:28:31.258Z"},
       {
         "id":"pr377_meiselaspace_a4e593d0bb2fcefe53491c004dade5fc",
         "ead_ssi":"pr377_meisel",
@@ -196,8 +198,8 @@
         "location_ssm":["Folder: OS FF1"],
         "heading_ssm":["Cyclone with Mermaid Parade Balloon"],
         "unitdate_ssm":["Inclusive, 2005"],
-        "_version_":1775220646717947904,
-        "timestamp":"2023-08-25T16:52:16.729Z"},
+        "_version_":1801069486338473984,
+        "timestamp":"2024-06-06T00:28:31.184Z"},
       {
         "id":"pr377_meiselaspace_a8286c6432b3b75ff1aafbd4c7b8724c",
         "ead_ssi":"pr377_meisel",
@@ -213,8 +215,8 @@
         "location_ssm":["Folder: OS FF1"],
         "heading_ssm":["Wonder Wheel at Night"],
         "unitdate_ssm":["Inclusive, 2007"],
-        "_version_":1775220647111163904,
-        "timestamp":"2023-08-25T16:52:17.104Z"},
+        "_version_":1801069486450671616,
+        "timestamp":"2024-06-06T00:28:31.29Z"},
       {
         "id":"pr377_meiselaspace_b4ec80d9d642d44b7b682a75621b8088",
         "ead_ssi":"pr377_meisel",
@@ -230,8 +232,8 @@
         "location_ssm":["Folder: OS FF1"],
         "heading_ssm":["Mermaid Parade with Shrimp Hats"],
         "unitdate_ssm":["Inclusive, 2007"],
-        "_version_":1775220647024132096,
-        "timestamp":"2023-08-25T16:52:17.021Z"},
+        "_version_":1801069486427602944,
+        "timestamp":"2024-06-06T00:28:31.268Z"},
       {
         "id":"pr377_meiselaspace_c9a1f7f53f8acbc567268cee80dded73",
         "ead_ssi":"pr377_meisel",
@@ -247,8 +249,8 @@
         "location_ssm":["Folder: OS FF1"],
         "heading_ssm":["Cole Bros. Circus Truck and Wonder Wheel"],
         "unitdate_ssm":["Inclusive, 2007"],
-        "_version_":1775220646939197440,
-        "timestamp":"2023-08-25T16:52:16.94Z"}]
+        "_version_":1801069486404534272,
+        "timestamp":"2024-06-06T00:28:31.247Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -256,7 +258,8 @@
       "repository_sim":[
         "nyhs",12],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Meisel, Ron, 1952-",1],
       "date_range_sim":[
         "undated & other",12],
       "subject_sim":[

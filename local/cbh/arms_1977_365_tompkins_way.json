@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Edward Tompkins and Thomas Way farm agreement and receipt"],
         "unitid_ssm":["1977.365"],
         "abstract_ssm":["This collection consists of a receipt, dated 1795, and an agreement, dated 1811, between Edward Tompkins and Thomas Way, both of the town of Newtown in Queens County."],
+        "creator_ssm":["Way, Thomas",
+          "Tompkins, Edward",
+          "Way, Thomas",
+          "Tompkins, Edward"],
         "unitdate_normal_ssm":["1795/1811"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Receipts (financial records)",
@@ -71,8 +75,8 @@
         "unitdate_end_ssm":["1811"],
         "unitdate_ssm":["Inclusive, 1795-1811"],
         "language_ssm":["English"],
-        "_version_":1799311705209044992,
-        "timestamp":"2024-05-17T14:49:20.467Z"}]
+        "_version_":1801961448277016576,
+        "timestamp":"2024-06-15T20:45:52.376Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +84,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tompkins, Edward",1,
+        "Way, Thomas",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

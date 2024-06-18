@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Annie Chamberlin Papers"],
         "unitid_ssm":["TAM.294"],
         "abstract_ssm":["Annie Chamberlin is a women's rights activist who lives in New York City. The collection primarily documents her interest in and activism on behalf of women in the workplace, particularly office workers. The majority of the collection is comprised of subject files containing interview transcripts, reports, newsletters, notes, and other materials produced by Chamberlin or various women's rights groups, primarily dating from the 1970s. These materials pertain to affirmative action and discrimination in the workplace, especially as applied to women's compensation and working conditions."],
+        "creator_ssm":["Chamberlin, Annie",
+          "Chamberlin, Annie"],
         "unitdate_normal_ssm":["1968/1980"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Barnard College"],
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1968-1980"],
-        "_version_":1799334111616172032,
-        "timestamp":"2024-05-17T20:45:28.881Z"}]
+        "_version_":1802171511220469760,
+        "timestamp":"2024-06-18T04:24:44.01Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chamberlin, Annie",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Franklin Hooper letter"],
         "unitid_ssm":["1977.671"],
         "abstract_ssm":["A 1913 letter from Franklin Hooper, Director of the Brooklyn Academy of Arts and Sciences, to Mrs. Lewis G. Reynolds responding to her complaints about noise and smoking at the Brooklyn Academy of Music."],
+        "creator_ssm":["Hooper, Franklin William",
+          "Hooper, Franklin William"],
         "unitdate_normal_ssm":["1913/1913"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Institute of Arts and Sciences"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1913"],
         "unitdate_ssm":["1913"],
         "language_ssm":["English"],
-        "_version_":1799256214648913920,
-        "timestamp":"2024-05-17T00:07:20.544Z"}]
+        "_version_":1801962192743956480,
+        "timestamp":"2024-06-15T20:57:42.355Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hooper, Franklin William",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

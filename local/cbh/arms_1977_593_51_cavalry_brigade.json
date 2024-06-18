@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York State National Guard, 51st Cavalry Brigade payroll record"],
         "unitid_ssm":["1977.593"],
         "abstract_ssm":["Payroll record of the New York State National Guard 51st Cavalry Brigade for the period August 1 to September 30, 1940."],
+        "creator_ssm":["New York (State). National Guard. Cavalry Brigade, 51st",
+          "New York (State). National Guard. Cavalry Brigade, 51st"],
         "unitdate_normal_ssm":["1940/1940"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). National Guard. Cavalry Brigade, 51st",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["1940"],
         "language_ssm":["English"],
-        "_version_":1799256304065183744,
-        "timestamp":"2024-05-17T00:08:45.818Z"}]
+        "_version_":1801962029350649856,
+        "timestamp":"2024-06-15T20:55:06.531Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (State). National Guard. Cavalry Brigade, 51st",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

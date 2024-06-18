@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sons of the American Revolution, Gen. William Floyd Chapter records"],
         "unitid_ssm":["1978.057"],
         "abstract_ssm":["These records include memos, fliers, membership lists, and correspondence of the Gen. William Floyd Chapter of the Sons of the American Revolution, based in the New York City area."],
+        "creator_ssm":["Sons of the American Revolution. Gen. William Floyd Chapter",
+          "Sons of the American Revolution. Gen. William Floyd Chapter"],
         "unitdate_normal_ssm":["1959/1969"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Sons of the American Revolution. Gen. William Floyd Chapter",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1959-1969"],
         "language_ssm":["English"],
-        "_version_":1799256504155504640,
-        "timestamp":"2024-05-17T00:11:56.639Z"}]
+        "_version_":1801962352804888576,
+        "timestamp":"2024-06-15T21:00:15.001Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sons of the American Revolution. Gen. William Floyd Chapter",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Engineers' Club publications"],
         "unitid_ssm":["ARC.156"],
         "abstract_ssm":["The Brooklyn Engineers' Club publications span the years 1897 to 1973 and are housed in four manuscript boxes. Included in the collection are annual proceedings and monthly bulletins published by the Club. The Brooklyn Engineers' Club was incorporated on December 29, 1896. The purpose of the Club was to promote social and professional intercourse and to advance engineering knowledge and practice. Membership consisted of four levels: Corporate, Associate, Non-resident, and Honorary members. Corporate and Associate members were required to either live or work in one of the five boroughs of New York City. The Brooklyn Engineers' Club clubhouse was located at 117 Remsen Street (between Clinton and Henry Streets) in the neighborhood of Brooklyn Heights. As of 2010, the brownstone building was the home to Congregation B'nai Avraham and to Kiddie Korner Preschool."],
+        "creator_ssm":["Brooklyn Engineers' Club",
+          "Brooklyn Engineers' Club"],
         "unitdate_normal_ssm":["1897/1973"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Engineers' Club",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1897-1973"],
         "language_ssm":["English"],
-        "_version_":1799312247953031168,
-        "timestamp":"2024-05-17T14:57:58.068Z"}]
+        "_version_":1801959235444015104,
+        "timestamp":"2024-06-15T20:10:42.054Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Engineers' Club",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

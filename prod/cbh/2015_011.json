@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sarita Daftary-Steel collection of East New York oral histories"],
         "unitid_ssm":["2015.011"],
         "abstract_ssm":["The collection consists of twenty oral history interviews (with nineteen narrators) conducted by Sarita Daftary-Steel with residents (past and present) of the East New York neighborhood of Brooklyn. The interviews were conducted between January 2014 and February 2015. The project was designed to capture the experiences of East New York residents who lived in the neighborhood during the period when families of color (African American, West Indian, and Puerto Rican) moved in and White families moved out, and the resulting decline of services and quality of life that followed. This process began as early as the 1950s and continued through the rest of the twentieth century. Sarita Daftary-Steel is a community organizer who worked for United Community Centers from 2003 to 2013, most of those years as the East New York Farms! Project Director."],
+        "creator_ssm":["Daftary-Steel, Sarita",
+          "Daftary-Steel, Sarita"],
         "unitdate_normal_ssm":["2014/2015"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Fairfield Towers (Housing complex)",
@@ -87,8 +89,8 @@
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 2014-2015"],
         "language_ssm":["English"],
-        "_version_":1775213270663168000,
-        "timestamp":"2023-08-25T14:55:02.364Z"},
+        "_version_":1800590698766925824,
+        "timestamp":"2024-05-31T17:38:23.772Z"},
       {
         "id":"2015_011aspace_ref11_b4t",
         "ead_ssi":"2015_011",
@@ -126,8 +128,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 July 21"],
-        "_version_":1775213270884417536,
-        "timestamp":"2023-08-25T14:55:02.585Z"},
+        "_version_":1800590698868637696,
+        "timestamp":"2024-05-31T17:38:23.871Z"},
       {
         "id":"2015_011aspace_ref14_jsi",
         "ead_ssi":"2015_011",
@@ -168,8 +170,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 June 10"],
-        "_version_":1775213270929506304,
-        "timestamp":"2023-08-25T14:55:02.629Z"},
+        "_version_":1800590698893803520,
+        "timestamp":"2024-05-31T17:38:23.895Z"},
       {
         "id":"2015_011aspace_ref17_iub",
         "ead_ssi":"2015_011",
@@ -209,8 +211,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 March 13"],
-        "_version_":1775213270970400768,
-        "timestamp":"2023-08-25T14:55:02.668Z"},
+        "_version_":1800590698917920768,
+        "timestamp":"2024-05-31T17:38:23.918Z"},
       {
         "id":"2015_011aspace_ref21_1qy",
         "ead_ssi":"2015_011",
@@ -249,8 +251,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 July 17"],
-        "_version_":1775213271049043968,
-        "timestamp":"2023-08-25T14:55:02.743Z"},
+        "_version_":1800590698937843712,
+        "timestamp":"2024-05-31T17:38:23.937Z"},
       {
         "id":"2015_011aspace_ref25_eiq",
         "ead_ssi":"2015_011",
@@ -291,8 +293,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 September 12"],
-        "_version_":1775213271095181312,
-        "timestamp":"2023-08-25T14:55:02.787Z"},
+        "_version_":1800590698959863808,
+        "timestamp":"2024-05-31T17:38:23.958Z"},
       {
         "id":"2015_011aspace_ref28_1v4",
         "ead_ssi":"2015_011",
@@ -332,8 +334,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 October 23"],
-        "_version_":1775213271137124352,
-        "timestamp":"2023-08-25T14:55:02.827Z"},
+        "_version_":1800590698988175360,
+        "timestamp":"2024-05-31T17:38:23.985Z"},
       {
         "id":"2015_011aspace_ref2_bcb",
         "ead_ssi":"2015_011",
@@ -375,8 +377,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 March 28"],
-        "_version_":1775213270719791104,
-        "timestamp":"2023-08-25T14:55:02.429Z"},
+        "_version_":1800590698794188800,
+        "timestamp":"2024-05-31T17:38:23.8Z"},
       {
         "id":"2015_011aspace_ref31_dn1",
         "ead_ssi":"2015_011",
@@ -414,8 +416,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 January 1"],
-        "_version_":1775213271181164544,
-        "timestamp":"2023-08-25T14:55:02.869Z"},
+        "_version_":1800590699010195456,
+        "timestamp":"2024-05-31T17:38:24.006Z"},
       {
         "id":"2015_011aspace_ref34_w7d",
         "ead_ssi":"2015_011",
@@ -451,8 +453,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 July 17"],
-        "_version_":1775213271230447616,
-        "timestamp":"2023-08-25T14:55:02.916Z"},
+        "_version_":1800590699031166976,
+        "timestamp":"2024-05-31T17:38:24.026Z"},
       {
         "id":"2015_011aspace_ref37_3up",
         "ead_ssi":"2015_011",
@@ -488,8 +490,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 October 31"],
-        "_version_":1775213271283924992,
-        "timestamp":"2023-08-25T14:55:02.967Z"},
+        "_version_":1800590699059478528,
+        "timestamp":"2024-05-31T17:38:24.053Z"},
       {
         "id":"2015_011aspace_ref40_7jf",
         "ead_ssi":"2015_011",
@@ -522,8 +524,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 November 7"],
-        "_version_":1775213271329013760,
-        "timestamp":"2023-08-25T14:55:03.01Z"},
+        "_version_":1800590699086741504,
+        "timestamp":"2024-05-31T17:38:24.079Z"},
       {
         "id":"2015_011aspace_ref43_gmo",
         "ead_ssi":"2015_011",
@@ -559,8 +561,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 May 12"],
-        "_version_":1775213271383539712,
-        "timestamp":"2023-08-25T14:55:03.062Z"},
+        "_version_":1800590699107713024,
+        "timestamp":"2024-05-31T17:38:24.099Z"},
       {
         "id":"2015_011aspace_ref46_yda",
         "ead_ssi":"2015_011",
@@ -601,8 +603,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 June 20"],
-        "_version_":1775213271424434176,
-        "timestamp":"2023-08-25T14:55:03.101Z"},
+        "_version_":1800590699131830272,
+        "timestamp":"2024-05-31T17:38:24.122Z"},
       {
         "id":"2015_011aspace_ref49_bhz",
         "ead_ssi":"2015_011",
@@ -640,8 +642,8 @@
         "unitdate_start_ssm":["2015"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 2015 January 9"],
-        "_version_":1775213271473717248,
-        "timestamp":"2023-08-25T14:55:03.148Z"},
+        "_version_":1800590699151753216,
+        "timestamp":"2024-05-31T17:38:24.141Z"},
       {
         "id":"2015_011aspace_ref52_now",
         "ead_ssi":"2015_011",
@@ -680,8 +682,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 December 8"],
-        "_version_":1775213271527194624,
-        "timestamp":"2023-08-25T14:55:03.199Z"},
+        "_version_":1800590699172724736,
+        "timestamp":"2024-05-31T17:38:24.161Z"},
       {
         "id":"2015_011aspace_ref56_83t",
         "ead_ssi":"2015_011",
@@ -718,8 +720,8 @@
         "unitdate_start_ssm":["2015"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 2015 February 6"],
-        "_version_":1775213271572283392,
-        "timestamp":"2023-08-25T14:55:03.241Z"},
+        "_version_":1800590699197890560,
+        "timestamp":"2024-05-31T17:38:24.185Z"},
       {
         "id":"2015_011aspace_ref59_570",
         "ead_ssi":"2015_011",
@@ -755,8 +757,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 September 8"],
-        "_version_":1775213271612129280,
-        "timestamp":"2023-08-25T14:55:03.28Z"},
+        "_version_":1800590699219910656,
+        "timestamp":"2024-05-31T17:38:24.206Z"},
       {
         "id":"2015_011aspace_ref5_h55",
         "ead_ssi":"2015_011",
@@ -800,8 +802,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 July 29"],
-        "_version_":1775213270783754240,
-        "timestamp":"2023-08-25T14:55:02.49Z"},
+        "_version_":1800590698817257472,
+        "timestamp":"2024-05-31T17:38:23.822Z"},
       {
         "id":"2015_011aspace_ref62_dxc",
         "ead_ssi":"2015_011",
@@ -839,8 +841,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 August 8"],
-        "_version_":1775213271663509504,
-        "timestamp":"2023-08-25T14:55:03.329Z"},
+        "_version_":1800590699238785024,
+        "timestamp":"2024-05-31T17:38:24.224Z"},
       {
         "id":"2015_011aspace_ref8_m9t",
         "ead_ssi":"2015_011",
@@ -880,8 +882,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2014 March 16"],
-        "_version_":1775213270829891584,
-        "timestamp":"2023-08-25T14:55:02.534Z"}]
+        "_version_":1800590698840326144,
+        "timestamp":"2024-05-31T17:38:23.844Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -889,7 +891,8 @@
       "repository_sim":[
         "cbh",21],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Daftary-Steel, Sarita",1],
       "date_range_sim":[
         "2001-2100",21],
       "subject_sim":[

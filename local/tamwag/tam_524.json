@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Alfred F. Young Papers"],
         "unitid_ssm":["TAM.524"],
         "abstract_ssm":["The Papers include various course materials from the Jefferson School, including study outlines, syllabi; newspaper and periodical clippings, and Communist Party publications on a number of topics."],
+        "creator_ssm":["Young, Alfred Fabian",
+          "Young, Alfred Fabian"],
         "unitdate_normal_ssm":["1930/1969"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Jefferson School of Social Science (New York, N.Y.)",
@@ -75,8 +77,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1930s-1960s"],
-        "_version_":1799333852325347328,
-        "timestamp":"2024-05-17T20:41:21.603Z"}]
+        "_version_":1802183249799151616,
+        "timestamp":"2024-06-18T07:31:18.791Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Young, Alfred Fabian",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

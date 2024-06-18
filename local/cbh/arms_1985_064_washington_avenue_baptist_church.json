@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Washington Avenue Baptist Church records"],
         "unitid_ssm":["1985.064"],
         "abstract_ssm":["The Washington Avenue Baptist Church was founded in 1851. The church building, completed in 1852, was located at 484 Washington Avenue in what is now the Clinton Hill neighborhood of Brooklyn, N.Y. he Washington Avenue Baptist Church records span 1851 until its dissolution in 1929. The collection consists of church minutes, baptismal records, membership lists, correspondence, letters of dismissal, annual reports, Ladies Aid Society reports, Board of Deacons reports and minutes, a church manual (1886), a church yearbook (1891), a pew plan, church bulletins and programs, and news clippings."],
+        "creator_ssm":["Washington Avenue Baptist Church (Brooklyn, New York, N.Y.)",
+          "Washington Avenue Baptist Church (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1851/1930"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Washington Avenue Baptist Church (Brooklyn, New York, N.Y.)",
@@ -92,8 +94,8 @@
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["Inclusive, 1851-1930"],
         "language_ssm":["English"],
-        "_version_":1799311647139954688,
-        "timestamp":"2024-05-17T14:48:25.088Z"}]
+        "_version_":1801963048017068032,
+        "timestamp":"2024-06-15T21:11:18.007Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -101,7 +103,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Washington Avenue Baptist Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

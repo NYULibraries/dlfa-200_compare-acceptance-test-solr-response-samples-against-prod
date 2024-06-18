@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Los Angeles Dodgers centennial press kit photographs"],
         "unitid_ssm":["V1991.004"],
         "abstract_ssm":["The Los Angeles Dodgers centennial press kit photographs consist of two modern black-and-white photographic prints. One photograph is a group portrait of the 1890 Brooklyn Dodgers baseball team, while the other photograph consists of four panels showing views of four different baseball fields that were home to the Brooklyn Dodgers or the Los Angeles Dodgers. A view of Ebbets Field in Brooklyn is included. Though the photographic prints date from circa 1990, the original images from which the prints were reproduced date from circa 1890 to 1990."],
+        "creator_ssm":["Los Angeles Dodgers (Baseball team)",
+          "Los Angeles Dodgers (Baseball team)"],
         "unitdate_normal_ssm":["1985/1995"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Los Angeles Dodgers (Baseball team)",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, circa 1990"],
         "language_ssm":["English"],
-        "_version_":1799311392191283200,
-        "timestamp":"2024-05-17T14:44:21.949Z"}]
+        "_version_":1802045431205593088,
+        "timestamp":"2024-06-16T19:00:44.738Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Los Angeles Dodgers (Baseball team)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

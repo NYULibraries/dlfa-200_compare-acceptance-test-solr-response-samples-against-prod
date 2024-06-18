@@ -47,6 +47,10 @@
         "unittitle_ssm":["James Wechsler Research Files on Hugo Gellert"],
         "unitid_ssm":["TAM.719"],
         "abstract_ssm":["The James Wechsler Research Files on Hugo Gellert contain Federal Bureau of Investigation's (FBI) files on artist Hugo Gellert. They include two sets of files on Gellert from the main FBI office as well as two small sets of FBI files related to individuals associated with Gellert including that of his brother Otto Gellert, and fellow artist Anton Refregier. Hugo Gellert was a communist graphic artist who is most well-known for his depictions of working-class struggle and artwork supporting organized labor. His work appeared in a number of radical publications including the Masses, the Liberator, and the New Masses, as well as mainstream periodicals like the New Yorker."],
+        "creator_ssm":["Wechsler, James",
+          "United States. Federal Bureau of Investigation",
+          "United States. Federal Bureau of Investigation",
+          "Wechsler, James"],
         "unitdate_normal_ssm":["1943/2007"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United States. Federal Bureau of Investigation"],
@@ -69,8 +73,8 @@
         "unitdate_start_ssm":["1943"],
         "unitdate_end_ssm":["2007"],
         "unitdate_ssm":["Inclusive, 1943-1975, 1994-2007"],
-        "_version_":1799333177436667904,
-        "timestamp":"2024-05-17T20:30:37.979Z"}]
+        "_version_":1802184383484919808,
+        "timestamp":"2024-06-18T07:49:19.958Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +82,9 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. Federal Bureau of Investigation",1,
+        "Wechsler, James",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

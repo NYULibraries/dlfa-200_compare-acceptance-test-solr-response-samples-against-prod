@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Simeon B. Chittenden letter"],
         "unitid_ssm":["1980.021"],
         "abstract_ssm":["This collection consists of a letter from Simeon B. Chittenden to a friend concerning a visit to Washington, D.C. and his family's health. Simeon B. Chittenden (b. 1814) was a member of the United States Representative from New York and served as vice president of the New York City Chamber of Commerce. He resided in Brooklyn at 18 Pierrepont Street and his body was interred at Green-Wood Cemetery upon his death in 1889."],
+        "creator_ssm":["Chittenden, S.B. (Simeon Baldwin)",
+          "Chittenden, S.B. (Simeon Baldwin)"],
         "unitdate_normal_ssm":["1867/1867"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Congress. House"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1867"],
         "unitdate_ssm":["Inclusive, 1867"],
         "language_ssm":["English"],
-        "_version_":1799312283046772736,
-        "timestamp":"2024-05-17T14:58:31.536Z"}]
+        "_version_":1801962824660942848,
+        "timestamp":"2024-06-15T21:07:44.998Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chittenden, S.B. (Simeon Baldwin)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

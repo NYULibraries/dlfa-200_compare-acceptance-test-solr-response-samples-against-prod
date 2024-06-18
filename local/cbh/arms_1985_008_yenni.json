@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Courtney Yenni papers"],
         "unitid_ssm":["1985.008"],
         "abstract_ssm":["The Courtney Yenni papers span the period 1841 to 1929 and measure contains two scrapbooks, four programs, and one letter. The programs are of the final performance at the Brooklyn Academy of Music on Montague Street in the Brooklyn Heights neighborhood, as well as the first performance at its new building in the Fort Greene neighborhood. Courtney Yenni was a Brooklyn resident who lived at 17 7th Avenue."],
+        "creator_ssm":["Brooklyn Academy of Music",
+          "Yenni, Courtney",
+          "Brooklyn Academy of Music",
+          "Yenni, Courtney"],
         "unitdate_normal_ssm":["1841/1929"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Academy of Music",
@@ -69,8 +73,8 @@
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, 1841-1929"],
         "language_ssm":["English"],
-        "_version_":1799309973911502848,
-        "timestamp":"2024-05-17T14:21:49.373Z"}]
+        "_version_":1801962911732596736,
+        "timestamp":"2024-06-15T21:09:08.036Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +82,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Academy of Music",1,
+        "Yenni, Courtney",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Maresi Company Confectioners and Caterers invoice"],
         "unitid_ssm":["1985.028"],
         "abstract_ssm":["The collection contains one invoice from 1903 for catering an event at the Flushing Institute in Flushing, Long Island. The invoice includes a list of menu items served at the event. The Maresi Company Confectioners and Caterers had locations in Brooklyn (30 Clinton Street; 76 Seventh Avenue) and Manhattan (719 Sixth Avenue; 589 Madison Avenue; 320 Columbus Avenue)."],
+        "creator_ssm":["Maresi Company Confectioners and Caterers",
+          "Maresi Company Confectioners and Caterers"],
         "unitdate_normal_ssm":["1903/1903"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Maresi Company Confectioners and Caterers",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1903"],
         "unitdate_ssm":["Inclusive, 1903"],
         "language_ssm":["English"],
-        "_version_":1799309957679546368,
-        "timestamp":"2024-05-17T14:21:33.893Z"}]
+        "_version_":1801962966623453184,
+        "timestamp":"2024-06-15T21:10:00.384Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Maresi Company Confectioners and Caterers",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

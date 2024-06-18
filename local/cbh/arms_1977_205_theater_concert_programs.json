@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Brooklyn and Manhattan theater and concert programs scrapbook"],
         "unitid_ssm":["1977.205"],
         "abstract_ssm":["One scrapbook containing programs from theatrical productions and concerts at various Brooklyn and Manhattan venues during the period 1875 to 1885, particularly performances by the Philharmonic Society of Brooklyn at the Brooklyn Academy of Music.  There is an inscription on the inside front cover indicating that the scrapbook may have belonged to Bessie S. Gilbert."],
+        "creator_ssm":["Philharmonic Society of Brooklyn",
+          "Brooklyn Academy of Music",
+          "Philharmonic Society of Brooklyn",
+          "Brooklyn Academy of Music"],
         "unitdate_normal_ssm":["1875/1885"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Philharmonic Society of Brooklyn",
@@ -80,8 +84,8 @@
         "unitdate_end_ssm":["1885"],
         "unitdate_ssm":["Inclusive, 1875-1885"],
         "language_ssm":["English"],
-        "_version_":1799256188950413312,
-        "timestamp":"2024-05-17T00:06:56.037Z"}]
+        "_version_":1801960937387720704,
+        "timestamp":"2024-06-15T20:37:45.154Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +93,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Academy of Music",1,
+        "Philharmonic Society of Brooklyn",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

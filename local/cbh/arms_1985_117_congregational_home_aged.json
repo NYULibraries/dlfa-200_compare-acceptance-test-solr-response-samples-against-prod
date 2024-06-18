@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York Congregational Home for the Aged annual reports"],
         "unitid_ssm":["1985.117"],
         "abstract_ssm":["The New York Congregational Home for the Aged annual reports span the period 1910 to 1925. The reports are compiled in two bound volumes and feature extensive summary information on the Home, including listings and directories of officers, directors, managers, committees, and auxiliaries; lists of the Home's inhabitants (including the churches they came from, dates of admittance, and remarks on whether the resident left the home or passed away during the reviewed year); minutes of annual meetings; reports of directors, managers, physicians, and auxiliaries; financial statements and summaries of donations; lists of members and contributors from each of the Home's member churches; and the Home's certificate of incorporation, bylaws, and rules and regulations. Also included is a separate publication containing the Home's certificate of incorporation, bylaws, and rules."],
+        "creator_ssm":["New York Congregational Home for the Aged (New York, N.Y.)",
+          "New York Congregational Home for the Aged (New York, N.Y.)"],
         "unitdate_normal_ssm":["1910/1925"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Congregational Home for the Aged (New York, N.Y.)",
@@ -87,8 +89,8 @@
         "unitdate_end_ssm":["1925"],
         "unitdate_ssm":["Inclusive, 1910-1925"],
         "language_ssm":["English"],
-        "_version_":1799256453526061056,
-        "timestamp":"2024-05-17T00:11:08.355Z"}]
+        "_version_":1801963162356940800,
+        "timestamp":"2024-06-15T21:13:07.049Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +98,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York Congregational Home for the Aged (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

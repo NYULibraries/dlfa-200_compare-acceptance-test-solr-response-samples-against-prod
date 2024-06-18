@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["College of Business and Public Administration Scrapbook"],
         "unitid_ssm":["MC.367"],
         "abstract_ssm":["The New York University undergraduate School of Commerce, Accounts and Finance was established in 1900 to provide professional training for students pursuing a career in business. The school was presided over by Charles Waldo Haskins, the school's founding dean. In 1972, the School of Commerce, Accounts, and Finance was renamed the College of Business and Public Administration. In 1988, alumnus Leonoard N. Stern gave the school a generous donation, allowing the school to consolidate its graduate and undergraduate facilities at NYU's Washington Square campus. The school was renamed the Leonard N. Stern School of Business. This collection consists of a scrapbook created by the New York University College of Business and Public Administration documenting the 1973 lecture series \"Business Problems of the Seventies.\""],
+        "creator_ssm":["Leonard N. Stern School of Business",
+          "Leonard N. Stern School of Business"],
         "unitdate_normal_ssm":["1973/1973"],
         "corpname_ssm":["New York University Archives",
           "Leonard N. Stern School of Business"],
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["1973"],
-        "_version_":1799254664723562496,
-        "timestamp":"2024-05-16T23:42:42.421Z"},
+        "_version_":1801950226723897344,
+        "timestamp":"2024-06-15T17:47:30.669Z"},
       {
         "id":"mc_367aspace_404c0ae00c7932b099f96c6a40ddf929",
         "ead_ssi":"mc_367",
@@ -85,8 +87,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["1973"],
-        "_version_":1799254664742436864,
-        "timestamp":"2024-05-16T23:42:42.439Z"}]
+        "_version_":1801950226760597504,
+        "timestamp":"2024-06-15T17:47:30.704Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +96,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Leonard N. Stern School of Business",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

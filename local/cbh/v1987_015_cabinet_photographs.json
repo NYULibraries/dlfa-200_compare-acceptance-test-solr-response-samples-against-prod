@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Collection of cabinet photographs from Brooklyn photography studios"],
         "unitid_ssm":["V1987.015"],
         "abstract_ssm":["The three cabinet photographs are black-and-white studio portraits of one unidentified man, one man identified as Leroy, and one women identified as Grandma Sieman. The three Brooklyn-based photography studios that produced the photographs are: Richardson Brothers whose studio was located at 113 and 115 Broadway, below Bedford Avenue; Chapman & Co. located at 364 and 365 Bedford Avenue; and S. Olsen located at 240 Columbia Street."],
+        "creator_ssm":["Richardson Brothers (Firm)",
+          "S. Olsen (Firm)",
+          "Chapman & Co",
+          "Richardson Brothers (Firm)",
+          "S. Olsen (Firm)",
+          "Chapman & Co"],
         "unitdate_normal_ssm":["1860/1910"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Richardson Brothers (Firm)",
@@ -72,8 +78,8 @@
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, circa 1870 to 1900"],
         "language_ssm":["English"],
-        "_version_":1799311561504849920,
-        "timestamp":"2024-05-17T14:47:03.42Z"}]
+        "_version_":1802045144046764032,
+        "timestamp":"2024-06-16T18:56:10.882Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +87,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chapman & Co",1,
+        "Richardson Brothers (Firm)",1,
+        "S. Olsen (Firm)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

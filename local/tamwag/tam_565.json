@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Peter M. Filardo"],
         "unittitle_ssm":["Dan La Botz Socialist Party of Ohio U.S. Senate Campaign (2010) Records"],
         "unitid_ssm":["TAM.565"],
+        "creator_ssm":["La Botz, Dan",
+          "La Botz, Dan"],
         "unitdate_normal_ssm":["2010/2010"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Socialist Party of Ohio"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["2010"],
         "language_ssm":["English"],
-        "_version_":1799791505155555328,
-        "timestamp":"2024-05-22T21:55:33.352Z"}]
+        "_version_":1802183508942127104,
+        "timestamp":"2024-06-18T07:35:25.929Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "La Botz, Dan",1],
       "date_range_sim":[
         "2001-2100",1],
       "subject_sim":[

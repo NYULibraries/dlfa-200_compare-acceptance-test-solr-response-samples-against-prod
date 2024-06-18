@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York University Archives Collection of the Washington Square Dealer"],
         "unitid_ssm":["RG.39.193"],
         "abstract_ssm":["This collection contains issues from the student newspaper the Washington Square Dealer (1915 to 1920) and the New York University Daily News (1920-1922). This newspaper documented student life at NYU (particuarly at the Washington Square campus), local and national news, campus living, and student clubs. This collection includes issues in their original print format as well as microfilmed copies. New York University's Collegiate Division was established in 1903 and renamed Washington Square College in 1913. It was one of NYU's two liberal arts undergraduate colleges at that time, the other being the University College of Arts and Science at the University Heights campus (Bronx). Washington Square College had a more diverse student population that included women, recent immigrants, and professional students."],
+        "creator_ssm":["New York University",
+          "New York University"],
         "unitdate_normal_ssm":["1915/1922"],
         "corpname_ssm":["New York University Archives",
           "New York University",
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1922"],
         "unitdate_ssm":["Inclusive, 1915-1922"],
         "language_ssm":["English"],
-        "_version_":1799255752563490816,
-        "timestamp":"2024-05-16T23:59:59.866Z"},
+        "_version_":1801953684755578880,
+        "timestamp":"2024-06-15T18:42:28.505Z"},
       {
         "id":"rg_39_193aspace_4f48d0e9f627d56d0f439f851adc849b",
         "ead_ssi":"rg_39_193",
@@ -80,8 +82,8 @@
         "repository_ssm":["archives"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Microfilm copies"],
-        "_version_":1799255752577122304,
-        "timestamp":"2024-05-16T23:59:59.879Z"},
+        "_version_":1801953684771307520,
+        "timestamp":"2024-06-15T18:42:28.52Z"},
       {
         "id":"rg_39_193aspace_8f0ff98c077a80b8316968fb16fb4af4",
         "ead_ssi":"rg_39_193",
@@ -99,14 +101,13 @@
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared University Archives 101, reel: 5002",
-          "reel: 5002",
           "Box: Shared University Archives 103, reel: 5002"],
         "heading_ssm":["New York University News (2 copies)"],
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1922"],
         "unitdate_ssm":["Inclusive, November 1920-May 1922"],
-        "_version_":1799255752612773888,
-        "timestamp":"2024-05-16T23:59:59.913Z"},
+        "_version_":1801953684814299136,
+        "timestamp":"2024-06-15T18:42:28.561Z"},
       {
         "id":"rg_39_193aspace_f00cbdeacdf8e24fd436624ea26ff6ef",
         "ead_ssi":"rg_39_193",
@@ -124,14 +125,13 @@
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared University Archives 101, reel: 5001",
-          "reel: 5001",
           "Box: Shared University Archives 103, reel: 5001"],
         "heading_ssm":["Washington Square Dealer (2 copies)"],
         "unitdate_start_ssm":["1915"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, October 1915 - November 1920"],
-        "_version_":1799255752594948096,
-        "timestamp":"2024-05-16T23:59:59.895Z"}]
+        "_version_":1801953684791230464,
+        "timestamp":"2024-06-15T18:42:28.539Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -139,7 +139,8 @@
       "repository_sim":[
         "archives",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University",1],
       "date_range_sim":[
         "1901-2000",3,
         "undated & other",1],

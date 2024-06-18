@@ -47,6 +47,10 @@
         "unittitle_ssm":["Elizabeth Feldhusen records on the Brooklyn Park Advisory Committee"],
         "unitid_ssm":["1988.050"],
         "abstract_ssm":["The collection includes reports, studies, proposals, minutes, agendas, and letters covering the participation of Elizabeth Feldhusen in the Brooklyn Park Advisory Committee, specifically pertaining to the improvement of Prospect Park."],
+        "creator_ssm":["Brooklyn Park Advisory Committee (Brooklyn, New York, N.Y.)",
+          "Feldhusen, Elizabeth A.",
+          "Brooklyn Park Advisory Committee (Brooklyn, New York, N.Y.)",
+          "Feldhusen, Elizabeth A."],
         "unitdate_normal_ssm":["1982/1988"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Park Advisory Committee (Brooklyn, New York, N.Y.)"],
@@ -70,8 +74,8 @@
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1982-1988"],
         "language_ssm":["English"],
-        "_version_":1799256313663848448,
-        "timestamp":"2024-05-17T00:08:54.973Z"}]
+        "_version_":1801963465310470144,
+        "timestamp":"2024-06-15T21:17:55.968Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +83,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Park Advisory Committee (Brooklyn, New York, N.Y.)",1,
+        "Feldhusen, Elizabeth A.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

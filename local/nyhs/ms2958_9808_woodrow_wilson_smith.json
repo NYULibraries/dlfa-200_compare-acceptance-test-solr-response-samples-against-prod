@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Woodrow Wilson letter to Roland Cotton Smith"],
         "unitid_ssm":["AHMC - Wilson, Woodrow - Smith"],
         "abstract_ssm":["A typed letter signed by Woodrow Wilson on White House letterhead, dated 5 January 1917, marked \"Personal\" to Rev. Dr. Roland Cotton Smith at St. John's Rectory in Washington, D.C. In the two paragraph letter, Wilson acknowledges Smith's letter of January 2, notes that they have an understanding of each other's position, and states \"I must frankly say in reply to your inquiry about Secretary Lane that I should personally prefer that no official member of the administration should appear upon the programme with the gentleman I have mentioned.\"  For more information and to request this item, see the catalog record, or write to manuscripts@nyhistory.org."],
+        "creator_ssm":["United States. President (1913-1921 : Wilson)",
+          "United States. President (1913-1921 : Wilson)"],
         "corpname_ssm":["New-York Historical Society",
           "United States. President (1913-1921 : Wilson)"],
         "collection_ssm":["Woodrow Wilson letter to Roland Cotton Smith"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Woodrow Wilson letter to Roland Cotton Smith"],
         "unitdate_ssm":["1917 January 5"],
         "language_ssm":["English"],
-        "_version_":1799322269795745792,
-        "timestamp":"2024-05-17T17:37:15.642Z"}]
+        "_version_":1802083678109564928,
+        "timestamp":"2024-06-17T05:08:39.828Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. President (1913-1921 : Wilson)",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

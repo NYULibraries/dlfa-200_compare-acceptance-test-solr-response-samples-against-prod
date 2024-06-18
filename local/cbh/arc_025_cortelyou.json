@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jacques Cortelyou papers"],
         "unitid_ssm":["ARC.025"],
         "abstract_ssm":["Jacques Cortelyou (1796-1891) was of the seventh generation of the eminent Cortelyou family of Brooklyn.  He was born in Brooklyn in 1796 as the third child of Peter J. and Phebe H. (Voorhees) Cortelyou.  During the War of 1812 he served as a private in the 64th Regiment of the New York Militia.  He married Ann Maria Fowler in April of 1830, and over the course of their marriage the couple had three children.  Cortelyou was the last member of his family to reside at the historic Old Stone House (commonly known as \"the Cortelyou house\") at Gowanus.  The Jacques Cortelyou papers span the period 1706 to 1898 and consist chiefly of business, legal and financial records, many of which pertain to Cortelyou's farm at Gowanus and serve to illuminate the inheritance of the Old Stone House.  The remaining portion of the collection consists of a small amount of genealogical material pertaining to the Cortelyou family, and various other papers."],
+        "creator_ssm":["Cortelyou, Jacques",
+          "Cortelyou, Jacques"],
         "unitdate_normal_ssm":["1706/1898"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Militia",
@@ -91,8 +93,8 @@
         "unitdate_end_ssm":["1898"],
         "unitdate_ssm":["Inclusive, 1706-1898"],
         "language_ssm":["English"],
-        "_version_":1799256299015241728,
-        "timestamp":"2024-05-17T00:08:41.003Z"}]
+        "_version_":1801958705980243968,
+        "timestamp":"2024-06-15T20:02:17.118Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -100,7 +102,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cortelyou, Jacques",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

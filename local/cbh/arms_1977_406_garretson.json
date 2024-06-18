@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Simon C. Garretson military appointments"],
         "unitid_ssm":["1977.406"],
         "abstract_ssm":["This collection consists of two certificates dated 1821 and 1824 concerning Simon C. Garretson's rank in the 64th Regiment of the New York State Militia."],
+        "creator_ssm":["Garretson, Simon C.",
+          "Yates, Joseph Christopher",
+          "Clinton, DeWitt",
+          "Garretson, Simon C.",
+          "Yates, Joseph Christopher",
+          "Clinton, DeWitt"],
         "unitdate_normal_ssm":["1821/1824"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Militia. Regiment, 64th"],
@@ -71,8 +77,8 @@
         "unitdate_end_ssm":["1824"],
         "unitdate_ssm":["Inclusive, 1821, 1824"],
         "language_ssm":["English"],
-        "_version_":1799311723846434816,
-        "timestamp":"2024-05-17T14:49:38.241Z"}]
+        "_version_":1801961576917368832,
+        "timestamp":"2024-06-15T20:47:55.056Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +86,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Clinton, DeWitt",1,
+        "Garretson, Simon C.",1,
+        "Yates, Joseph Christopher",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

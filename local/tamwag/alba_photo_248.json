@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Bill Gandall Photographs"],
         "unitid_ssm":["ALBA.PHOTO.248"],
+        "creator_ssm":["Gandall, Bill, 1908-1991",
+          "Gandall, Bill, 1908-1991"],
         "unitdate_normal_ssm":["1936/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Gandall, Kate",
@@ -62,8 +64,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, circa 1936-1939"],
         "language_ssm":["English"],
-        "_version_":1799748437121433600,
-        "timestamp":"2024-05-22T10:31:00.475Z"},
+        "_version_":1802112447614550016,
+        "timestamp":"2024-06-17T12:45:56.566Z"},
       {
         "id":"alba_photo_248aspace_73daf86b95af5ecbb71f8e0940e6ae44",
         "ead_ssi":"alba_photo_248",
@@ -78,8 +80,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Photos"],
-        "_version_":1799748437135065088,
-        "timestamp":"2024-05-22T10:31:00.488Z"}]
+        "_version_":1802112447630278656,
+        "timestamp":"2024-06-17T12:45:56.581Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gandall, Bill, 1908-1991",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["C.I. Taylor Letter from Albacete, Spain"],
         "unitid_ssm":["TAM.790"],
         "abstract_ssm":["C.I. Taylor was an American volunteer who served in the Spanish Civil War (1936-1939). The letter in the collection describes his experience as a machine gunner in the Tom Mooney Company and his time spent at the headquarters in Albacete, Spain."],
+        "creator_ssm":["Taylor, C. I.",
+          "Taylor, C. I."],
         "unitdate_normal_ssm":["1937/2016"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Spain. Ejército Popular de la República. Tom Mooney Company",
@@ -72,8 +74,8 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["2016"],
         "unitdate_ssm":["Inclusive, 1937-2016"],
-        "_version_":1799792446088937472,
-        "timestamp":"2024-05-22T22:10:30.697Z"},
+        "_version_":1802184721631805440,
+        "timestamp":"2024-06-18T07:54:42.44Z"},
       {
         "id":"tam_790aspace_7b341db0d3c89c54633877a1129c91bb",
         "ead_ssi":"tam_790",
@@ -87,14 +89,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 059, Folder: 5",
-          "Folder: 5"],
+        "location_ssm":["Box: Shared Tamiment 059, Folder: 5"],
         "heading_ssm":["C.I. Taylor Letter, Typed Transcripts, Illustration"],
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["2016"],
         "unitdate_ssm":["Inclusive, 1937-2016"],
-        "_version_":1799792446104666112,
-        "timestamp":"2024-05-22T22:10:30.711Z"}]
+        "_version_":1802184721641242624,
+        "timestamp":"2024-06-18T07:54:42.449Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -102,7 +103,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Taylor, C. I.",1],
       "date_range_sim":[
         "1901-2000",2,
         "2001-2100",2],

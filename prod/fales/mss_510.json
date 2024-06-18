@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["DeCoursey Fales Art Collection"],
         "unitid_ssm":["MSS.510"],
         "abstract_ssm":["The DeCoursey Fales Art Collection was created in September 2017 to prepare two paintings to be sent to offsite art storage in September 2017.  The artworks consist of portraits of William Thackeray."],
+        "creator_ssm":["Fales, DeCoursey, 1888-1966",
+          "Fales, DeCoursey, 1888-1966"],
         "unitdate_normal_ssm":["1854/1854"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Painting."],
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1854"],
         "unitdate_end_ssm":["1854"],
         "unitdate_ssm":["1854, undated"],
-        "_version_":1775223491097788416,
-        "timestamp":"2023-08-25T17:37:29.341Z"},
+        "_version_":1800929188858822656,
+        "timestamp":"2024-06-04T11:18:33.08Z"},
       {
         "id":"mss_510aspace_3176dd3a1ea70a247a9903c8af014126",
         "ead_ssi":"mss_510",
@@ -87,8 +89,8 @@
         "unitdate_start_ssm":["1854"],
         "unitdate_end_ssm":["1854"],
         "unitdate_ssm":["1854"],
-        "_version_":1775223491158605824,
-        "timestamp":"2023-08-25T17:37:29.399Z"},
+        "_version_":1800929188872454144,
+        "timestamp":"2024-06-04T11:18:33.094Z"},
       {
         "id":"mss_510aspace_4c68b5377767ded1a9ddfb81adc4fd40",
         "ead_ssi":"mss_510",
@@ -110,8 +112,8 @@
         "unitdate_start_ssm":["1840"],
         "unitdate_end_ssm":["1863"],
         "unitdate_ssm":["Inclusive, Undated"],
-        "_version_":1775223491228860416,
-        "timestamp":"2023-08-25T17:37:29.466Z"}]
+        "_version_":1800929188887134208,
+        "timestamp":"2024-06-04T11:18:33.108Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -119,7 +121,8 @@
       "repository_sim":[
         "fales",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fales, DeCoursey, 1888-1966",1],
       "date_range_sim":[
         "1801-1900",3],
       "subject_sim":[],

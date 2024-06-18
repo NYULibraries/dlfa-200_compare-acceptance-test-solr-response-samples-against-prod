@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Harry R. Gudenberg Collection"],
         "unitid_ssm":["MC.296"],
         "abstract_ssm":["The Harry R. Gudenberg Collection contains a 1957-1958 NYU Log booklet, a \"1961 NYU Frosh\" pin, and a program for the 1958 NYU School of Commerce, Accounts, and Finance Evening Freshman Orientation event. Gudenberg was a student at NYU, serving as the Junior Class Secretary-Treasurer for the Evening Student Council in 1958."],
+        "creator_ssm":["Gudenberg, Harry R.",
+          "Gudenberg, Harry R."],
         "unitdate_normal_ssm":["1957/1961"],
         "corpname_ssm":["New York University Archives",
           "New York University. School of Commerce, Accounts, and Finance"],
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1957"],
         "unitdate_end_ssm":["1961"],
         "unitdate_ssm":["Inclusive, 1957-1961"],
-        "_version_":1799247974419660800,
-        "timestamp":"2024-05-16T21:56:22.049Z"},
+        "_version_":1801949598654136320,
+        "timestamp":"2024-06-15T17:37:31.695Z"},
       {
         "id":"mc_296aspace_e18d43b772f60d891a7e5f6a4f6e745e",
         "ead_ssi":"mc_296",
@@ -89,8 +91,8 @@
         "unitdate_start_ssm":["1957"],
         "unitdate_end_ssm":["1961"],
         "unitdate_ssm":["Inclusive, 1957-1958, 1961"],
-        "_version_":1799247974465798144,
-        "timestamp":"2024-05-16T21:56:22.094Z"}]
+        "_version_":1801949598668816384,
+        "timestamp":"2024-06-15T17:37:31.709Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -98,7 +100,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gudenberg, Harry R.",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[],

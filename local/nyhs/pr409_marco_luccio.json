@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Marco Luccio drypoint etchings"],
         "unitid_ssm":["PR 409"],
         "abstract_ssm":["14 drypoint etchings made in 2008 and 2013 by Australian artist Marco Luccio. All are of New York City scenes, principally of the built environment."],
+        "creator_ssm":["Luccio, Marco, 1969-",
+          "Luccio, Marco, 1969-"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Cityscapes (representations)",
           "Drypoints (prints)"],
@@ -63,8 +65,8 @@
         "heading_ssm":["Marco Luccio drypoint etchings"],
         "unitdate_ssm":["Inclusive, 2008, 2013"],
         "language_ssm":["English"],
-        "_version_":1799323345427103744,
-        "timestamp":"2024-05-17T17:54:21.444Z"},
+        "_version_":1802094622596399104,
+        "timestamp":"2024-06-17T08:02:37.303Z"},
       {
         "id":"pr409_marco_luccioaspace_081268c688a43fff16fd3ce90a1aff3e",
         "ead_ssi":"pr409_marco_luccio",
@@ -80,8 +82,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\"Blimp and the New Yorker\" (A/P, signed)"],
         "unitdate_ssm":["2013"],
-        "_version_":1799323345542447104,
-        "timestamp":"2024-05-17T17:54:21.554Z"},
+        "_version_":1802094622775705600,
+        "timestamp":"2024-06-17T08:02:37.475Z"},
       {
         "id":"pr409_marco_luccioaspace_0d6de10cad79e168b0bf2ee6c545ce4f",
         "ead_ssi":"pr409_marco_luccio",
@@ -97,8 +99,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\"The Flatiron From the Side\" (A/P, signed)"],
         "unitdate_ssm":["2013"],
-        "_version_":1799323345587535872,
-        "timestamp":"2024-05-17T17:54:21.597Z"},
+        "_version_":1802094622845960192,
+        "timestamp":"2024-06-17T08:02:37.542Z"},
       {
         "id":"pr409_marco_luccioaspace_529823603526ecdf6dff42c4accda515",
         "ead_ssi":"pr409_marco_luccio",
@@ -114,8 +116,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\"Nightime in New York\" (7/50, signed)"],
         "unitdate_ssm":["2013"],
-        "_version_":1799323345491066880,
-        "timestamp":"2024-05-17T17:54:21.505Z"},
+        "_version_":1802094622699159552,
+        "timestamp":"2024-06-17T08:02:37.402Z"},
       {
         "id":"pr409_marco_luccioaspace_6669adedcc4522999b997bf77b6e14e5",
         "ead_ssi":"pr409_marco_luccio",
@@ -131,8 +133,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\"The Manhattan Bridge\" (6/50, signed)"],
         "unitdate_ssm":["2013"],
-        "_version_":1799323345553981440,
-        "timestamp":"2024-05-17T17:54:21.565Z"},
+        "_version_":1802094622791434240,
+        "timestamp":"2024-06-17T08:02:37.49Z"},
       {
         "id":"pr409_marco_luccioaspace_6921c69a149cf7213474091bc3f63bcc",
         "ead_ssi":"pr409_marco_luccio",
@@ -148,8 +150,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\"Lights, Cars and the Flatiron\" (10/25, signed)"],
         "unitdate_ssm":["2008"],
-        "_version_":1799323345463803904,
-        "timestamp":"2024-05-17T17:54:21.479Z"},
+        "_version_":1802094622654070784,
+        "timestamp":"2024-06-17T08:02:37.359Z"},
       {
         "id":"pr409_marco_luccioaspace_6b728bb1d81a8e0b46ee55e3a47b804c",
         "ead_ssi":"pr409_marco_luccio",
@@ -165,8 +167,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\"Freedom Tower\" (6/50, signed)"],
         "unitdate_ssm":["[2013]"],
-        "_version_":1799323345576001536,
-        "timestamp":"2024-05-17T17:54:21.586Z"},
+        "_version_":1802094622826037248,
+        "timestamp":"2024-06-17T08:02:37.523Z"},
       {
         "id":"pr409_marco_luccioaspace_6c43f5e7b75429c2f632b51ba9a7840e",
         "ead_ssi":"pr409_marco_luccio",
@@ -182,8 +184,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\"View from the Sherry Netherland\" (9/50, signed)"],
         "unitdate_ssm":["2013"],
-        "_version_":1799323345599070208,
-        "timestamp":"2024-05-17T17:54:21.608Z"},
+        "_version_":1802094622864834560,
+        "timestamp":"2024-06-17T08:02:37.56Z"},
       {
         "id":"pr409_marco_luccioaspace_7b70fc2bceaf72dbb01d3d864e86b213",
         "ead_ssi":"pr409_marco_luccio",
@@ -199,8 +201,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\"New York and Central Park\" in 3 sections (7/50)"],
         "unitdate_ssm":["2013"],
-        "_version_":1799323345476386816,
-        "timestamp":"2024-05-17T17:54:21.491Z"},
+        "_version_":1802094622681333760,
+        "timestamp":"2024-06-17T08:02:37.385Z"},
       {
         "id":"pr409_marco_luccioaspace_b58994baa2039c4892dade84a9d49045",
         "ead_ssi":"pr409_marco_luccio",
@@ -216,8 +218,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\"Chinatown\" (24/25, signed)"],
         "unitdate_ssm":["2008"],
-        "_version_":1799323345439686656,
-        "timestamp":"2024-05-17T17:54:21.456Z"},
+        "_version_":1802094622615273472,
+        "timestamp":"2024-06-17T08:02:37.322Z"},
       {
         "id":"pr409_marco_luccioaspace_be56539eb1eb0ea20f67c0b3ebd12d31",
         "ead_ssi":"pr409_marco_luccio",
@@ -233,8 +235,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\"Chrysler, Pipes and the Queensboro Bridge\" (6/50, signed)"],
         "unitdate_ssm":["2013"],
-        "_version_":1799323345519378432,
-        "timestamp":"2024-05-17T17:54:21.532Z"},
+        "_version_":1802094622737956864,
+        "timestamp":"2024-06-17T08:02:37.438Z"},
       {
         "id":"pr409_marco_luccioaspace_c562309d25dc94fa9c0828f6d9145785",
         "ead_ssi":"pr409_marco_luccio",
@@ -250,8 +252,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\"Cranes on 29th Street\" (10/25, signed)"],
         "unitdate_ssm":["2008"],
-        "_version_":1799323345451220992,
-        "timestamp":"2024-05-17T17:54:21.467Z"},
+        "_version_":1802094622635196416,
+        "timestamp":"2024-06-17T08:02:37.341Z"},
       {
         "id":"pr409_marco_luccioaspace_d190d8989ed84e6c312b92bb3ca83f02",
         "ead_ssi":"pr409_marco_luccio",
@@ -267,8 +269,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\"Empire from the Chrysler Building\" (7/50, signed)"],
         "unitdate_ssm":["2013"],
-        "_version_":1799323345565515776,
-        "timestamp":"2024-05-17T17:54:21.575Z"},
+        "_version_":1802094622810308608,
+        "timestamp":"2024-06-17T08:02:37.508Z"},
       {
         "id":"pr409_marco_luccioaspace_d283f8bfc0f158f5c95c260dfeea2bc1",
         "ead_ssi":"pr409_marco_luccio",
@@ -284,8 +286,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":[" Untitled [Grand Central Station] (7/50, signed)"],
         "unitdate_ssm":["2013"],
-        "_version_":1799323345531961344,
-        "timestamp":"2024-05-17T17:54:21.543Z"},
+        "_version_":1802094622757879808,
+        "timestamp":"2024-06-17T08:02:37.458Z"},
       {
         "id":"pr409_marco_luccioaspace_e7a190c864eda5b04a96cba479f2d165",
         "ead_ssi":"pr409_marco_luccio",
@@ -301,8 +303,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\"Crowds and the Flatiron\" (A/P, signed)"],
         "unitdate_ssm":["2013"],
-        "_version_":1799323345504698368,
-        "timestamp":"2024-05-17T17:54:21.518Z"}]
+        "_version_":1802094622716985344,
+        "timestamp":"2024-06-17T08:02:37.419Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -310,7 +312,8 @@
       "repository_sim":[
         "nyhs",15],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Luccio, Marco, 1969-",1],
       "date_range_sim":[
         "undated & other",15],
       "subject_sim":[],

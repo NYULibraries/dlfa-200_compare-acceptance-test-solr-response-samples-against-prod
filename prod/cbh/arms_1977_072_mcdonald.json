@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edgar McDonald papers"],
         "unitid_ssm":["1977.072"],
         "abstract_ssm":["The Edgar McDonald papers include correspondence and other printed materials. The bulk of the correspondence concerns a dinner in McDonald's honor in 1904, and several were written to congratulate McDonald upon his election as President of Nassau National Bank."],
+        "creator_ssm":["McDonald, Edgar",
+          "McDonald, Edgar"],
         "unitdate_normal_ssm":["1862/1919",
           "1903/1911"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -80,8 +82,8 @@
           "1911"],
         "unitdate_ssm":["Inclusive, 1862-1919 ; 1903-1911"],
         "language_ssm":["English"],
-        "_version_":1777593428635287552,
-        "timestamp":"2023-09-20T21:26:37.902Z"}]
+        "_version_":1800682873848594432,
+        "timestamp":"2024-06-01T18:03:28.782Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "McDonald, Edgar",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

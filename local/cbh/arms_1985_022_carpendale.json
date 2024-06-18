@@ -47,6 +47,8 @@
         "unittitle_ssm":["Thomas C. Carpendale journal"],
         "unitid_ssm":["1985.022"],
         "abstract_ssm":["Thomas C. Carpendale's journal describes a trip from New York to London in 1861. Notes in the journal are addressed to Carpendale's friend in Brooklyn, George A. Thome. The journal also includes illustrations and drawings of sea scenes from the voyage by Carpendale."],
+        "creator_ssm":["Carpendale, Thomas C.",
+          "Carpendale, Thomas C."],
         "unitdate_normal_ssm":["1861/1861"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Diaries",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1861"],
         "unitdate_ssm":["Inclusive, 1861"],
         "language_ssm":["English"],
-        "_version_":1799311706168492032,
-        "timestamp":"2024-05-17T14:49:21.382Z"}]
+        "_version_":1801962947593895936,
+        "timestamp":"2024-06-15T21:09:42.236Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Carpendale, Thomas C.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

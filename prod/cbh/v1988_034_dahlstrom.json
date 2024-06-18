@@ -47,6 +47,10 @@
         "unittitle_ssm":["Carl H. Dahlstrom collection of Blizzard of 1888 photographs"],
         "unitid_ssm":["V1988.034"],
         "abstract_ssm":["Photographs in the collection are modern copy prints of black-and-white negatives taken by a Dr. Levison following the blizzard. Images are located in the Boerum Hill and Downtown neighborhoods of Brooklyn."],
+        "creator_ssm":["Dahlstrom, Carl H.",
+          "Levison, Dr.",
+          "Dahlstrom, Carl H.",
+          "Levison, Dr."],
         "unitdate_normal_ssm":["1888/1888"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Cityscapes",
@@ -74,8 +78,8 @@
         "unitdate_end_ssm":["1888"],
         "unitdate_ssm":["Inclusive, 1888"],
         "language_ssm":["English"],
-        "_version_":1775223807920832512,
-        "timestamp":"2023-08-25T17:42:31.487Z"}]
+        "_version_":1800851190324396032,
+        "timestamp":"2024-06-03T14:38:47.882Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +87,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dahlstrom, Carl H.",1,
+        "Levison, Dr.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Children's Crusade Against Communism Trading Cards"],
         "unitid_ssm":["TAM.786"],
         "abstract_ssm":["Bowman Gum Company was a maker of collectible trading cards, primarily baseball cards. In 1951, they released a series of cards entitled the \"Children's Crusade Against Communism,\" depicting atomic warfare, scenes of battles, notable figures in the Korean War, and negative consequences if communism were spread in the United States. The cards were marketed to children and are an example of anti-communist propaganda."],
+        "creator_ssm":["Bowman Gum Company (1927-1956)",
+          "Bowman Gum Company (1927-1956)"],
         "unitdate_normal_ssm":["1951/1951"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Bowman Gum Company (1927-1956)"],
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1951"],
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["1951"],
-        "_version_":1799792436070842368,
-        "timestamp":"2024-05-22T22:10:21.143Z"},
+        "_version_":1802184714604249088,
+        "timestamp":"2024-06-18T07:54:35.738Z"},
       {
         "id":"tam_786aspace_0ced43882a16f29376a09c70bbdf031c",
         "ead_ssi":"tam_786",
@@ -82,14 +84,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 049, Folder: 6",
-          "Folder: 6"],
+        "location_ssm":["Box: Shared Tamiment 049, Folder: 6"],
         "heading_ssm":["Children's Crusade Against Communism Trading Cards"],
         "unitdate_start_ssm":["1951"],
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["1951"],
-        "_version_":1799792436086571008,
-        "timestamp":"2024-05-22T22:10:21.158Z"}]
+        "_version_":1802184714612637696,
+        "timestamp":"2024-06-18T07:54:35.746Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,7 +98,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bowman Gum Company (1927-1956)",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

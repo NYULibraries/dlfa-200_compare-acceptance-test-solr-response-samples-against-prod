@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Alice Wexler Research Files on Emma Goldman"],
         "unitid_ssm":["TAM.620"],
         "abstract_ssm":["Alice Wexler (1942-) is the author of two biographies on Emma Goldman: Emma Goldman in America (1984), which tracks Goldman's political career in the United States up to her deportation, and Emma Goldman in Exile (1989), which cover's Goldman's life from 1919 until her death in 1940. The collection is mostly comprised of copies of primary materials related to Emma Goldman (correspondence, news articles, etc.), collected and often annotated by Wexler in the course of conducting her research."],
+        "creator_ssm":["Wexler, Alice, 1942-",
+          "Goldman, Emma, 1869-1940",
+          "Wexler, Alice, 1942-",
+          "Goldman, Emma, 1869-1940"],
         "unitdate_normal_ssm":["1912/1985",
           "1912/1940"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
@@ -75,8 +79,8 @@
         "unitdate_end_ssm":["1985",
           "1940"],
         "unitdate_ssm":["Inclusive, 1912-1985 ; 1912-1940"],
-        "_version_":1799791826869157888,
-        "timestamp":"2024-05-22T22:00:40.163Z"},
+        "_version_":1802183764316520448,
+        "timestamp":"2024-06-18T07:39:29.473Z"},
       {
         "id":"tam_620aspace_a5f1953081c4ab2a7c658dcc2c8a646d",
         "ead_ssi":"tam_620",
@@ -89,11 +93,10 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment MSOS006, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment MSOS006, Folder: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799791826884886528,
-        "timestamp":"2024-05-22T22:00:40.178Z"}]
+        "_version_":1802183764327006208,
+        "timestamp":"2024-06-18T07:39:29.483Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -101,7 +104,9 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Goldman, Emma, 1869-1940",1,
+        "Wexler, Alice, 1942-",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

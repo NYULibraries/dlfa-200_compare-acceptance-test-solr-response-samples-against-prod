@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":17,
+    "QTime":25,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Williamsburg, Brooklyn Feast of the Giglio oral history interview transcripts"],
         "unitid_ssm":["1990.019"],
         "abstract_ssm":["The Williamsburg, Brooklyn Feast of the Giglio oral history interview transcripts date from 1981 to 1983 and is comprised of the transcripts of 18 oral history interviews documenting the annual Feast of the Giglio held in Williamsburg. The interviews were used in a 1987 exhibition held at the Brooklyn Historical Society."],
+        "creator_ssm":["Brooklyn Historical Society (Brooklyn, New York, N.Y.)",
+          "Brooklyn Historical Society (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1981/1983"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Historical Society (Brooklyn, New York, N.Y.)",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1981-1983"],
         "language_ssm":["English"],
-        "_version_":1799312356218503168,
-        "timestamp":"2024-05-17T14:59:41.318Z"}]
+        "_version_":1801958007996678144,
+        "timestamp":"2024-06-15T19:51:11.469Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Historical Society (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Milton Felsen Papers"],
         "unitid_ssm":["ALBA.233"],
+        "creator_ssm":["Felsen, Milt, 1912-2005",
+          "Felsen, Milt, 1912-2005"],
         "unitdate_normal_ssm":["1936/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Bennett, Lois",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1930s-1980s"],
         "language_ssm":["English"],
-        "_version_":1799748084944601088,
-        "timestamp":"2024-05-22T10:25:24.613Z"},
+        "_version_":1802111426005827584,
+        "timestamp":"2024-06-17T12:29:42.284Z"},
       {
         "id":"alba_233aspace_97e425ac83323824cb0e7055a320b5df",
         "ead_ssi":"alba_233",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799748084958232576,
-        "timestamp":"2024-05-22T10:25:24.626Z"}]
+        "_version_":1802111426026799104,
+        "timestamp":"2024-06-17T12:29:42.304Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Felsen, Milt, 1912-2005",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

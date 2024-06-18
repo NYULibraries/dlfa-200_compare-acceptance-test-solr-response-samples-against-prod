@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":22,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Israel Amter <em>Winona</em> Piano Score"],
         "unitid_ssm":["TAM.232"],
         "abstract_ssm":["Israel Amter (1881-1954) was an official in the Communist Party, USA who had studied music at the Leipzig Conservatory, where in 1912 he composed a never-performed opera, Winona, which concerns the love between a U.S. army officer and a Native American woman, Winona."],
+        "creator_ssm":["Amter, I.  (Israel), 1881-1954",
+          "Amter, I.  (Israel), 1881-1954"],
         "unitdate_normal_ssm":["1912/1912"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Scores.",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1912"],
         "unitdate_ssm":["Inclusive, 1912"],
         "language_ssm":["English"],
-        "_version_":1775222823383465984,
-        "timestamp":"2023-08-25T17:26:52.558Z"},
+        "_version_":1801230871141810176,
+        "timestamp":"2024-06-07T19:13:39.726Z"},
       {
         "id":"tam_232aspace_ref13",
         "ead_ssi":"tam_232",
@@ -83,8 +85,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Container list"],
-        "_version_":1775222823419117568,
-        "timestamp":"2023-08-25T17:26:52.593Z"},
+        "_version_":1801230871170121728,
+        "timestamp":"2024-06-07T19:13:39.753Z"},
       {
         "id":"tam_232aspace_ref14",
         "ead_ssi":"tam_232",
@@ -101,14 +103,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Libretto"],
         "unitdate_start_ssm":["1912"],
         "unitdate_end_ssm":["1912"],
         "unitdate_ssm":["Inclusive, 1912"],
-        "_version_":1775222823466303488,
-        "timestamp":"2023-08-25T17:26:52.638Z"},
+        "_version_":1801230871187947520,
+        "timestamp":"2024-06-07T19:13:39.77Z"},
       {
         "id":"tam_232aspace_ref15",
         "ead_ssi":"tam_232",
@@ -125,14 +126,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Piano Score"],
         "unitdate_start_ssm":["1912"],
         "unitdate_end_ssm":["1912"],
         "unitdate_ssm":["Inclusive, 1912"],
-        "_version_":1775222823510343680,
-        "timestamp":"2023-08-25T17:26:52.679Z"}]
+        "_version_":1801230871202627584,
+        "timestamp":"2024-06-07T19:13:39.784Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -140,7 +140,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Amter, I.  (Israel), 1881-1954",1],
       "date_range_sim":[
         "1901-2000",3,
         "undated & other",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["\n  <em>Reginald Marsh: Thirty Etchings and Engravings</em>\n"],
         "unitid_ssm":["PR 341"],
         "abstract_ssm":["Thirty proof prints of etchings and engravings by Reginald Marsh, made from the artist's original copper plates for distribution by the Whitney Museum of American Art, 1969."],
+        "creator_ssm":["Marsh, Reginald, 1898-1954",
+          "Marsh, Reginald, 1898-1954"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Engravings (prints)",
           "Etchings (prints)"],
@@ -61,8 +63,8 @@
           "Etchings (prints)"],
         "heading_ssm":["Reginald Marsh: Thirty Etchings and Engravings"],
         "unitdate_ssm":["Inclusive, 1930–1943 (1969)"],
-        "_version_":1775219042204778496,
-        "timestamp":"2023-08-25T16:26:46.546Z"},
+        "_version_":1801063511001923584,
+        "timestamp":"2024-06-05T22:53:32.659Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref10_6na",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -78,8 +80,8 @@
         "location_ssm":["item: 5"],
         "heading_ssm":["Gaiety Burlesk [sic]"],
         "unitdate_ssm":["1930"],
-        "_version_":1775219042399813632,
-        "timestamp":"2023-08-25T16:26:46.732Z"},
+        "_version_":1801063511082663936,
+        "timestamp":"2024-06-05T22:53:32.736Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref11_um6",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -95,8 +97,8 @@
         "location_ssm":["item: 6"],
         "heading_ssm":["The Barker"],
         "unitdate_ssm":["1931"],
-        "_version_":1775219042438610944,
-        "timestamp":"2023-08-25T16:26:46.769Z"},
+        "_version_":1801063511097344000,
+        "timestamp":"2024-06-05T22:53:32.75Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref12_yt0",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -112,8 +114,8 @@
         "location_ssm":["item: 7"],
         "heading_ssm":["Wall Street"],
         "unitdate_ssm":["1931"],
-        "_version_":1775219042477408256,
-        "timestamp":"2023-08-25T16:26:46.806Z"},
+        "_version_":1801063511117266944,
+        "timestamp":"2024-06-05T22:53:32.769Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref13_npa",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -129,8 +131,8 @@
         "location_ssm":["item: 8"],
         "heading_ssm":["Tenth Ave. at 27th Street"],
         "unitdate_ssm":["1931"],
-        "_version_":1775219042513059840,
-        "timestamp":"2023-08-25T16:26:46.84Z"},
+        "_version_":1801063511140335616,
+        "timestamp":"2024-06-05T22:53:32.791Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref14_731",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -146,8 +148,8 @@
         "location_ssm":["item: 9"],
         "heading_ssm":["Steeplechase"],
         "unitdate_ssm":["1932"],
-        "_version_":1775219042549760000,
-        "timestamp":"2023-08-25T16:26:46.875Z"},
+        "_version_":1801063511159209984,
+        "timestamp":"2024-06-05T22:53:32.809Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref15_pr8",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -163,8 +165,8 @@
         "location_ssm":["item: 10"],
         "heading_ssm":["Bread Line—No One Has Starved"],
         "unitdate_ssm":["1932"],
-        "_version_":1775219042590654464,
-        "timestamp":"2023-08-25T16:26:46.914Z"},
+        "_version_":1801063511173890048,
+        "timestamp":"2024-06-05T22:53:32.823Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref16_aej",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -180,8 +182,8 @@
         "location_ssm":["item: 11"],
         "heading_ssm":["Tattoo-Shave-Haircut"],
         "unitdate_ssm":["1932"],
-        "_version_":1775219042640986112,
-        "timestamp":"2023-08-25T16:26:46.962Z"},
+        "_version_":1801063511192764416,
+        "timestamp":"2024-06-05T22:53:32.841Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref17_z4h",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -197,8 +199,8 @@
         "location_ssm":["item: 12"],
         "heading_ssm":["Star Burlesk [sic]"],
         "unitdate_ssm":["1933"],
-        "_version_":1775219042676637696,
-        "timestamp":"2023-08-25T16:26:46.996Z"},
+        "_version_":1801063511207444480,
+        "timestamp":"2024-06-05T22:53:32.855Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref18_cag",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -214,8 +216,8 @@
         "location_ssm":["item: 13"],
         "heading_ssm":["Box at the Metropolitan"],
         "unitdate_ssm":["1934"],
-        "_version_":1775219042735357952,
-        "timestamp":"2023-08-25T16:26:47.052Z"},
+        "_version_":1801063511230513152,
+        "timestamp":"2024-06-05T22:53:32.877Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref19_efa",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -231,8 +233,8 @@
         "location_ssm":["item: 14"],
         "heading_ssm":["Erie R.R. Locos Watering"],
         "unitdate_ssm":["1934"],
-        "_version_":1775219042773106688,
-        "timestamp":"2023-08-25T16:26:47.088Z"},
+        "_version_":1801063511250436096,
+        "timestamp":"2024-06-05T22:53:32.896Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref20_3ac",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -248,8 +250,8 @@
         "location_ssm":["item: 15"],
         "heading_ssm":["Steeplechase Swings"],
         "unitdate_ssm":["1935"],
-        "_version_":1775219042807709696,
-        "timestamp":"2023-08-25T16:26:47.121Z"},
+        "_version_":1801063511270359040,
+        "timestamp":"2024-06-05T22:53:32.915Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref21_fk8",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -265,8 +267,8 @@
         "location_ssm":["item: 16"],
         "heading_ssm":["Flying Concellos"],
         "unitdate_ssm":["1936"],
-        "_version_":1775219042842312704,
-        "timestamp":"2023-08-25T16:26:47.154Z"},
+        "_version_":1801063511283990528,
+        "timestamp":"2024-06-05T22:53:32.928Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref22_f8a",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -282,8 +284,8 @@
         "location_ssm":["item: 17"],
         "heading_ssm":["Morning in May"],
         "unitdate_ssm":["1936"],
-        "_version_":1775219042879012864,
-        "timestamp":"2023-08-25T16:26:47.189Z"},
+        "_version_":1801063511297622016,
+        "timestamp":"2024-06-05T22:53:32.94Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref23_ihh",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -299,8 +301,8 @@
         "location_ssm":["item: 18"],
         "heading_ssm":["Minsky's New Gotham Chorus"],
         "unitdate_ssm":["1936"],
-        "_version_":1775219042915713024,
-        "timestamp":"2023-08-25T16:26:47.224Z"},
+        "_version_":1801063511312302080,
+        "timestamp":"2024-06-05T22:53:32.955Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref24_2bs",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -316,8 +318,8 @@
         "location_ssm":["item: 19"],
         "heading_ssm":["Wooden Horses"],
         "unitdate_ssm":["1936"],
-        "_version_":1775219042955558912,
-        "timestamp":"2023-08-25T16:26:47.262Z"},
+        "_version_":1801063511337467904,
+        "timestamp":"2024-06-05T22:53:32.979Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref25_b8u",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -333,8 +335,8 @@
         "location_ssm":["item: 20"],
         "heading_ssm":["Battery (Belles)"],
         "unitdate_ssm":["1938"],
-        "_version_":1775219042991210496,
-        "timestamp":"2023-08-25T16:26:47.296Z"},
+        "_version_":1801063511357390848,
+        "timestamp":"2024-06-05T22:53:32.997Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref26_wzu",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -350,8 +352,8 @@
         "location_ssm":["item: 21"],
         "heading_ssm":["Merry-Go-Round"],
         "unitdate_ssm":["1938"],
-        "_version_":1775219043025813504,
-        "timestamp":"2023-08-25T16:26:47.329Z"},
+        "_version_":1801063511372070912,
+        "timestamp":"2024-06-05T22:53:33.011Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref27_i23",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -367,8 +369,8 @@
         "location_ssm":["item: 22"],
         "heading_ssm":["Pickaback"],
         "unitdate_ssm":["1938–9"],
-        "_version_":1775219043062513664,
-        "timestamp":"2023-08-25T16:26:47.364Z"},
+        "_version_":1801063511386750976,
+        "timestamp":"2024-06-05T22:53:33.026Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref28_5qb",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -384,8 +386,8 @@
         "location_ssm":["item: 23"],
         "heading_ssm":["Modern 1939 Venus"],
         "unitdate_ssm":["1939"],
-        "_version_":1775219043097116672,
-        "timestamp":"2023-08-25T16:26:47.397Z"},
+        "_version_":1801063511399333888,
+        "timestamp":"2024-06-05T22:53:33.038Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref29_ub0",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -401,8 +403,8 @@
         "location_ssm":["item: 24"],
         "heading_ssm":["Grand Tier at the Met"],
         "unitdate_ssm":["1939"],
-        "_version_":1775219043133816832,
-        "timestamp":"2023-08-25T16:26:47.432Z"},
+        "_version_":1801063511414013952,
+        "timestamp":"2024-06-05T22:53:33.052Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref30_yze",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -418,8 +420,8 @@
         "location_ssm":["item: 25"],
         "heading_ssm":["Coney Island Beach No. 1"],
         "unitdate_ssm":["1939"],
-        "_version_":1775219043172614144,
-        "timestamp":"2023-08-25T16:26:47.469Z"},
+        "_version_":1801063511431839744,
+        "timestamp":"2024-06-05T22:53:33.069Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref31_d0u",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -435,8 +437,8 @@
         "location_ssm":["item: 26"],
         "heading_ssm":["Girl in Fur Jacket Reading Tabloid"],
         "unitdate_ssm":["1940"],
-        "_version_":1775219043230285824,
-        "timestamp":"2023-08-25T16:26:47.524Z"},
+        "_version_":1801063511445471232,
+        "timestamp":"2024-06-05T22:53:33.082Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref32_bjx",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -452,8 +454,8 @@
         "location_ssm":["item: 27"],
         "heading_ssm":["Merry-Go-Round"],
         "unitdate_ssm":["1940"],
-        "_version_":1775219043266985984,
-        "timestamp":"2023-08-25T16:26:47.559Z"},
+        "_version_":1801063511459102720,
+        "timestamp":"2024-06-05T22:53:33.095Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref33_b1g",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -469,8 +471,8 @@
         "location_ssm":["item: 28"],
         "heading_ssm":["Eltinge Follies"],
         "unitdate_ssm":["1940"],
-        "_version_":1775219043301588992,
-        "timestamp":"2023-08-25T16:26:47.592Z"},
+        "_version_":1801063511474831360,
+        "timestamp":"2024-06-05T22:53:33.11Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref34_00d",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -486,8 +488,8 @@
         "location_ssm":["item: 29"],
         "heading_ssm":["Bathers-in-the-Hudson"],
         "unitdate_ssm":["1941"],
-        "_version_":1775219043337240576,
-        "timestamp":"2023-08-25T16:26:47.626Z"},
+        "_version_":1801063511487414272,
+        "timestamp":"2024-06-05T22:53:33.122Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref35_jbt",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -503,8 +505,8 @@
         "location_ssm":["item: 30"],
         "heading_ssm":["Two Girls Walking to Right"],
         "unitdate_ssm":["1943"],
-        "_version_":1775219043371843584,
-        "timestamp":"2023-08-25T16:26:47.659Z"},
+        "_version_":1801063511499997184,
+        "timestamp":"2024-06-05T22:53:33.134Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref6_8r6",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -520,8 +522,8 @@
         "location_ssm":["item: 1"],
         "heading_ssm":["Loco—Going through Jersey City"],
         "unitdate_ssm":["1930"],
-        "_version_":1775219042247770112,
-        "timestamp":"2023-08-25T16:26:46.587Z"},
+        "_version_":1801063511020797952,
+        "timestamp":"2024-06-05T22:53:32.677Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref7_atk",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -537,8 +539,8 @@
         "location_ssm":["item: 2"],
         "heading_ssm":["2nd Ave. El"],
         "unitdate_ssm":["1930"],
-        "_version_":1775219042286567424,
-        "timestamp":"2023-08-25T16:26:46.624Z"},
+        "_version_":1801063511037575168,
+        "timestamp":"2024-06-05T22:53:32.692Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref8_18o",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -554,8 +556,8 @@
         "location_ssm":["item: 3"],
         "heading_ssm":["Merry-Go-Round"],
         "unitdate_ssm":["1930"],
-        "_version_":1775219042324316160,
-        "timestamp":"2023-08-25T16:26:46.66Z"},
+        "_version_":1801063511052255232,
+        "timestamp":"2024-06-05T22:53:32.707Z"},
       {
         "id":"pr341_reginald_marsh_thirtyaspace_ref9_qrt",
         "ead_ssi":"pr341_reginald_marsh_thirty",
@@ -571,8 +573,8 @@
         "location_ssm":["item: 4"],
         "heading_ssm":["Irving Place Burlesk [sic]"],
         "unitdate_ssm":["1930"],
-        "_version_":1775219042362064896,
-        "timestamp":"2023-08-25T16:26:46.696Z"}]
+        "_version_":1801063511064838144,
+        "timestamp":"2024-06-05T22:53:32.719Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -580,7 +582,8 @@
       "repository_sim":[
         "nyhs",31],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Marsh, Reginald, 1898-1954",1],
       "date_range_sim":[
         "undated & other",31],
       "subject_sim":[],

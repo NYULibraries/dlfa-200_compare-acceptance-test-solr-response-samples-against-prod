@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Selah Strong Woodhull account book"],
         "unitid_ssm":["1973.212"],
         "abstract_ssm":["The Selah Strong Woodhull(1786-1826) account book consists of a single bound volume and spans the period 1818 to 1822, during which Strong was a minister at the Old First Reformed Church in Brooklyn."],
+        "creator_ssm":["Woodhull, Selah Strong",
+          "Woodhull, Selah Strong"],
         "unitdate_normal_ssm":["1818/1822"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Old First Reformed Church (Brooklyn, New York, N.Y.)"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1822"],
         "unitdate_ssm":["Inclusive, 1818-1822"],
         "language_ssm":["English"],
-        "_version_":1799311703978016768,
-        "timestamp":"2024-05-17T14:49:19.293Z"}]
+        "_version_":1801960068930863104,
+        "timestamp":"2024-06-15T20:23:56.928Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Woodhull, Selah Strong",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

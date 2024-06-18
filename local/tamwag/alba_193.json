@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Watt Family Papers"],
         "unitid_ssm":["ALBA.193"],
         "abstract_ssm":["George Watt served as a political commissar in the Abraham Lincoln Brigade during the Spanish Civil War and later as a sergeant in the Army Air Force during World War II. This collection consists chiefly of letters between George Watt and family members during these conflicts."],
+        "creator_ssm":["Watt, George, 1913-1994",
+          "Watt, Ruth Rosenthal, 1915-1940",
+          "Watt, George, 1913-1994",
+          "Watt, Ruth Rosenthal, 1915-1940"],
         "unitdate_normal_ssm":["1937/1949",
           "1937/1990"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
@@ -72,8 +76,8 @@
         "unitdate_end_ssm":["1949",
           "1990"],
         "unitdate_ssm":["Inclusive, 1937-1990 ; 1937-1949"],
-        "_version_":1799747998345854976,
-        "timestamp":"2024-05-22T10:24:02.026Z"},
+        "_version_":1802111281910513664,
+        "timestamp":"2024-06-17T12:27:24.864Z"},
       {
         "id":"alba_193aspace_04cc06478a9f337dcf68b69c32dcade0",
         "ead_ssi":"alba_193",
@@ -87,12 +91,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 4, Folder: 1-11",
-          "Folder: 1-11"],
+        "location_ssm":["Box: 4, Folder: 1-11"],
         "heading_ssm":["Letters from Ruth Rosenthal Watt to George Watt"],
         "unitdate_ssm":["Inclusive, 1937-07-1938-12"],
-        "_version_":1799747998404575232,
-        "timestamp":"2024-05-22T10:24:02.082Z"},
+        "_version_":1802111281994399744,
+        "timestamp":"2024-06-17T12:27:24.944Z"},
       {
         "id":"alba_193aspace_25ef8b179d30010d804bba7046e62cdd",
         "ead_ssi":"alba_193",
@@ -111,8 +114,8 @@
         "unitdate_start_ssm":["1942"],
         "unitdate_end_ssm":["1944"],
         "unitdate_ssm":["Inclusive, 1942-1944"],
-        "_version_":1799747998360535040,
-        "timestamp":"2024-05-22T10:24:02.04Z"},
+        "_version_":1802111281931485184,
+        "timestamp":"2024-06-17T12:27:24.884Z"},
       {
         "id":"alba_193aspace_30694ef02e327a5951483624e660e708",
         "ead_ssi":"alba_193",
@@ -131,8 +134,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["1987"],
-        "_version_":1799747998391992320,
-        "timestamp":"2024-05-22T10:24:02.07Z"},
+        "_version_":1802111281972379648,
+        "timestamp":"2024-06-17T12:27:24.923Z"},
       {
         "id":"alba_193aspace_7a4a3e20b096d98ac4211792df810438",
         "ead_ssi":"alba_193",
@@ -151,8 +154,8 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1937-1945, 1990"],
-        "_version_":1799747998374166528,
-        "timestamp":"2024-05-22T10:24:02.053Z"}]
+        "_version_":1802111281951408128,
+        "timestamp":"2024-06-17T12:27:24.903Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -160,7 +163,9 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Watt, George, 1913-1994",1,
+        "Watt, Ruth Rosenthal, 1915-1940",1],
       "date_range_sim":[
         "1901-2000",4,
         "undated & other",1],

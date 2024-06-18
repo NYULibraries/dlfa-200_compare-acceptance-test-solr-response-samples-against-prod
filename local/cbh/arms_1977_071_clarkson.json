@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Clarkson family papers"],
         "unitid_ssm":["1977.071"],
         "abstract_ssm":["The Clarkson family papers consist of correspondence, certificates, and news articles relating to the Clarkson family, who resided in New York City and Brooklyn in the 18th and 19th centuries."],
+        "creator_ssm":["Muhlenberg, William Augustus",
+          "Clarkson, Matthew",
+          "McIlvaine, Charles Pettit",
+          "Bull, Cyrus",
+          "Muhlenberg, William Augustus",
+          "Clarkson, Matthew",
+          "McIlvaine, Charles Pettit",
+          "Bull, Cyrus"],
         "unitdate_normal_ssm":["1793/1869",
           "1812/1815"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -86,8 +94,8 @@
           "1815"],
         "unitdate_ssm":["Inclusive, 1793-1869 ; 1812-1815"],
         "language_ssm":["English"],
-        "_version_":1799256202478092288,
-        "timestamp":"2024-05-17T00:07:08.938Z"}]
+        "_version_":1801960636765175808,
+        "timestamp":"2024-06-15T20:32:58.458Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +103,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bull, Cyrus",1,
+        "Clarkson, Matthew",1,
+        "McIlvaine, Charles Pettit",1,
+        "Muhlenberg, William Augustus",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

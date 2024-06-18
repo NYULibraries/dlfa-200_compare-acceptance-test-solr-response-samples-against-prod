@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["J. Archibald Murray scrapbooks"],
         "unitid_ssm":["MS 3186"],
         "abstract_ssm":["The collection holds 135 volumes of scrapbooks containing newspaper clippings. The bulk date from the 1890s. Most seem to be general news clippings, with some volumes having a thematic focus, principally \"necrology.\""],
+        "creator_ssm":["Murray, J. Archibald (John Archibald), 1857-1954",
+          "Murray, J. Archibald (John Archibald), 1857-1954"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Newspaper clippings.",
           "Scrapbooks."],
@@ -61,8 +63,8 @@
           "Scrapbooks."],
         "heading_ssm":["J. Archibald Murray scrapbooks"],
         "unitdate_ssm":["Inclusive, 1870s-1900 (bulk, 1893-1899)"],
-        "_version_":1775219138795405312,
-        "timestamp":"2023-08-25T16:28:18.662Z"},
+        "_version_":1801010979170942976,
+        "timestamp":"2024-06-05T08:58:34.401Z"},
       {
         "id":"ms3186_archibald_murrayaspace_0158c90f4d6126f326de004329511628",
         "ead_ssi":"ms3186_archibald_murray",
@@ -78,8 +80,8 @@
         "location_ssm":["Offsite-Box: 11"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139273555968,
-        "timestamp":"2023-08-25T16:28:19.118Z"},
+        "_version_":1801010979354443776,
+        "timestamp":"2024-06-05T08:58:34.576Z"},
       {
         "id":"ms3186_archibald_murrayaspace_0180936f6e0d492b49f62c8148090f89",
         "ead_ssi":"ms3186_archibald_murray",
@@ -95,8 +97,8 @@
         "location_ssm":["Offsite-Box: 9"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139182329856,
-        "timestamp":"2023-08-25T16:28:19.03Z"},
+        "_version_":1801010979317743616,
+        "timestamp":"2024-06-05T08:58:34.541Z"},
       {
         "id":"ms3186_archibald_murrayaspace_01cf6d995c063ff2655f5bd84df7fce3",
         "ead_ssi":"ms3186_archibald_murray",
@@ -112,8 +114,8 @@
         "location_ssm":["Offsite-Box: 22"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139718152192,
-        "timestamp":"2023-08-25T16:28:19.542Z"},
+        "_version_":1801010979531653120,
+        "timestamp":"2024-06-05T08:58:34.745Z"},
       {
         "id":"ms3186_archibald_murrayaspace_08c7d531eef2b1a0b2fd03c5c8fed09e",
         "ead_ssi":"ms3186_archibald_murray",
@@ -129,8 +131,8 @@
         "location_ssm":["Offsite-Box: 6"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139042869248,
-        "timestamp":"2023-08-25T16:28:18.898Z"},
+        "_version_":1801010979262169088,
+        "timestamp":"2024-06-05T08:58:34.488Z"},
       {
         "id":"ms3186_archibald_murrayaspace_0be88a5696b0c0538f177df77a56337d",
         "ead_ssi":"ms3186_archibald_murray",
@@ -146,8 +148,8 @@
         "location_ssm":["Offsite-Box: 10"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139225321472,
-        "timestamp":"2023-08-25T16:28:19.072Z"},
+        "_version_":1801010979336617984,
+        "timestamp":"2024-06-05T08:58:34.559Z"},
       {
         "id":"ms3186_archibald_murrayaspace_0df3237f7a7e68ad8cada65067b2d649",
         "ead_ssi":"ms3186_archibald_murray",
@@ -163,8 +165,8 @@
         "location_ssm":["Offsite-Box: 21"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139670966272,
-        "timestamp":"2023-08-25T16:28:19.497Z"},
+        "_version_":1801010979515924480,
+        "timestamp":"2024-06-05T08:58:34.73Z"},
       {
         "id":"ms3186_archibald_murrayaspace_2483b4217e410c5c7d2e0791e65848e6",
         "ead_ssi":"ms3186_archibald_murray",
@@ -180,8 +182,8 @@
         "location_ssm":["Offsite-Box: 23"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139755900928,
-        "timestamp":"2023-08-25T16:28:19.578Z"},
+        "_version_":1801010979565207552,
+        "timestamp":"2024-06-05T08:58:34.777Z"},
       {
         "id":"ms3186_archibald_murrayaspace_29baa239d879c86ef4a0eb7c24c44c36",
         "ead_ssi":"ms3186_archibald_murray",
@@ -197,8 +199,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219138918088704,
-        "timestamp":"2023-08-25T16:28:18.779Z"},
+        "_version_":1801010979214983168,
+        "timestamp":"2024-06-05T08:58:34.443Z"},
       {
         "id":"ms3186_archibald_murrayaspace_30409322f9e5f3ae9bcf1fdcbecef32a",
         "ead_ssi":"ms3186_archibald_murray",
@@ -214,8 +216,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219138835251200,
-        "timestamp":"2023-08-25T16:28:18.7Z"},
+        "_version_":1801010979186671616,
+        "timestamp":"2024-06-05T08:58:34.416Z"},
       {
         "id":"ms3186_archibald_murrayaspace_3a29e3b10d2aba7d2074e2f154218e14",
         "ead_ssi":"ms3186_archibald_murray",
@@ -231,8 +233,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219138874048512,
-        "timestamp":"2023-08-25T16:28:18.737Z"},
+        "_version_":1801010979199254528,
+        "timestamp":"2024-06-05T08:58:34.428Z"},
       {
         "id":"ms3186_archibald_murrayaspace_73fbfe1f9df6cff59eaaa2010a47684c",
         "ead_ssi":"ms3186_archibald_murray",
@@ -248,8 +250,8 @@
         "location_ssm":["Offsite-Box: 19"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139593371648,
-        "timestamp":"2023-08-25T16:28:19.423Z"},
+        "_version_":1801010979491807232,
+        "timestamp":"2024-06-05T08:58:34.707Z"},
       {
         "id":"ms3186_archibald_murrayaspace_7cb5b99000de12fd4eee53ff3f87629c",
         "ead_ssi":"ms3186_archibald_murray",
@@ -265,8 +267,8 @@
         "location_ssm":["Offsite-Box: 16"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139481174016,
-        "timestamp":"2023-08-25T16:28:19.316Z"},
+        "_version_":1801010979455107072,
+        "timestamp":"2024-06-05T08:58:34.672Z"},
       {
         "id":"ms3186_archibald_murrayaspace_7f52e3d69f16a7a8da9eafd97a7637b7",
         "ead_ssi":"ms3186_archibald_murray",
@@ -282,8 +284,8 @@
         "location_ssm":["Offsite-Box: 15"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139446571008,
-        "timestamp":"2023-08-25T16:28:19.283Z"},
+        "_version_":1801010979435184128,
+        "timestamp":"2024-06-05T08:58:34.653Z"},
       {
         "id":"ms3186_archibald_murrayaspace_840fab0dd8eb2073a0c07fbaa5d70b4d",
         "ead_ssi":"ms3186_archibald_murray",
@@ -299,8 +301,8 @@
         "location_ssm":["Offsite-Box: 8"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139138289664,
-        "timestamp":"2023-08-25T16:28:18.989Z"},
+        "_version_":1801010979296772096,
+        "timestamp":"2024-06-05T08:58:34.521Z"},
       {
         "id":"ms3186_archibald_murrayaspace_8bebf916dd56830207c0ce62a9f72725",
         "ead_ssi":"ms3186_archibald_murray",
@@ -316,8 +318,8 @@
         "location_ssm":["Offsite-Box: 13"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139366879232,
-        "timestamp":"2023-08-25T16:28:19.207Z"},
+        "_version_":1801010979400581120,
+        "timestamp":"2024-06-05T08:58:34.62Z"},
       {
         "id":"ms3186_archibald_murrayaspace_9ce1753239c04fc4e6e66faf70d7e6f1",
         "ead_ssi":"ms3186_archibald_murray",
@@ -333,8 +335,8 @@
         "location_ssm":["Offsite-Box: 18"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139552477184,
-        "timestamp":"2023-08-25T16:28:19.384Z"},
+        "_version_":1801010979480272896,
+        "timestamp":"2024-06-05T08:58:34.696Z"},
       {
         "id":"ms3186_archibald_murrayaspace_a527143a191f300718963224b55e59ee",
         "ead_ssi":"ms3186_archibald_murray",
@@ -350,8 +352,8 @@
         "location_ssm":["Offsite-Box: 5"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139003023360,
-        "timestamp":"2023-08-25T16:28:18.86Z"},
+        "_version_":1801010979249586176,
+        "timestamp":"2024-06-05T08:58:34.476Z"},
       {
         "id":"ms3186_archibald_murrayaspace_ae4ea20317a3979327fde4ad5a17cab3",
         "ead_ssi":"ms3186_archibald_murray",
@@ -367,8 +369,8 @@
         "location_ssm":["Offsite-Box: 20"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139630071808,
-        "timestamp":"2023-08-25T16:28:19.458Z"},
+        "_version_":1801010979503341568,
+        "timestamp":"2024-06-05T08:58:34.718Z"},
       {
         "id":"ms3186_archibald_murrayaspace_afac11b7e6ee020365f8137d355e1b9b",
         "ead_ssi":"ms3186_archibald_murray",
@@ -384,8 +386,8 @@
         "location_ssm":["Offsite-Box: 4"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219138964226048,
-        "timestamp":"2023-08-25T16:28:18.823Z"},
+        "_version_":1801010979229663232,
+        "timestamp":"2024-06-05T08:58:34.457Z"},
       {
         "id":"ms3186_archibald_murrayaspace_b195216b7ec95c08dd5c51aab33b140b",
         "ead_ssi":"ms3186_archibald_murray",
@@ -401,8 +403,8 @@
         "location_ssm":["Offsite-Box: 12"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139317596160,
-        "timestamp":"2023-08-25T16:28:19.16Z"},
+        "_version_":1801010979380658176,
+        "timestamp":"2024-06-05T08:58:34.601Z"},
       {
         "id":"ms3186_archibald_murrayaspace_c105fb269742fcff74e2a7edeef463e3",
         "ead_ssi":"ms3186_archibald_murray",
@@ -418,8 +420,8 @@
         "location_ssm":["Offsite-Box: 17"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139518922752,
-        "timestamp":"2023-08-25T16:28:19.352Z"},
+        "_version_":1801010979468738560,
+        "timestamp":"2024-06-05T08:58:34.685Z"},
       {
         "id":"ms3186_archibald_murrayaspace_caa9f2bc2fd6d5b02ea021daf231b82a",
         "ead_ssi":"ms3186_archibald_murray",
@@ -435,8 +437,8 @@
         "location_ssm":["Offsite-Box: 7"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139082715136,
-        "timestamp":"2023-08-25T16:28:18.936Z"},
+        "_version_":1801010979277897728,
+        "timestamp":"2024-06-05T08:58:34.503Z"},
       {
         "id":"ms3186_archibald_murrayaspace_d716cc6e6aa19be7f473e45921d1ffbb",
         "ead_ssi":"ms3186_archibald_murray",
@@ -452,8 +454,8 @@
         "location_ssm":["Offsite-Box: 14"],
         "heading_ssm":["Clippings scrapbooks"],
         "unitdate_ssm":["Inclusive, circa 1890s"],
-        "_version_":1775219139402530816,
-        "timestamp":"2023-08-25T16:28:19.241Z"}]
+        "_version_":1801010979417358336,
+        "timestamp":"2024-06-05T08:58:34.636Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -461,7 +463,8 @@
       "repository_sim":[
         "nyhs",24],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Murray, J. Archibald (John Archibald), 1857-1954",1],
       "date_range_sim":[
         "undated & other",24],
       "subject_sim":[],

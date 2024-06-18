@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Queens County Treasurer's Office land auction receipts"],
         "unitid_ssm":["1977.572"],
         "abstract_ssm":["Receipts dated 1892 to 1897 and issued by the Queens County Treasurer's Office from a public auction for plots of land in the town of Jamaica, Queens County owned by Charles H. Smith and seized for non-payment of taxes."],
+        "creator_ssm":["Queens County (N.Y.). Treasurer's Office",
+          "Queens County (N.Y.). Treasurer's Office"],
         "unitdate_normal_ssm":["1892/1897"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Queens County (N.Y.). Treasurer's Office"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1897"],
         "unitdate_ssm":["Inclusive, 1892-1897"],
         "language_ssm":["English"],
-        "_version_":1799311438143029248,
-        "timestamp":"2024-05-17T14:45:05.773Z"}]
+        "_version_":1801961976686968832,
+        "timestamp":"2024-06-15T20:54:16.307Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Queens County (N.Y.). Treasurer's Office",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

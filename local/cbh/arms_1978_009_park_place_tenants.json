@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["959 Park Place Tenants' Association records"],
         "unitid_ssm":["1978.009"],
         "abstract_ssm":["These 1965-1968 records include flyers, receipts, correspondence, notes, programs, and tickets for the tenants' association at 959 Park Place in Crown Heights, as well as materials related to the association's youth committee."],
+        "creator_ssm":["959 Park Place Tenants Association (Brooklyn, New York, N.Y.)",
+          "959 Park Place Tenants Association (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1965/1968"],
         "corpname_ssm":["Brooklyn Historical Society",
           "959 Park Place Tenants Association (Brooklyn, New York, N.Y.)"],
@@ -77,8 +79,8 @@
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1965-1968"],
         "language_ssm":["English"],
-        "_version_":1799256314005684224,
-        "timestamp":"2024-05-17T00:08:55.298Z"}]
+        "_version_":1801962228032733184,
+        "timestamp":"2024-06-15T20:58:16.009Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "959 Park Place Tenants Association (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

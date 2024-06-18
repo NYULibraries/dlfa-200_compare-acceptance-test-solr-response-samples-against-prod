@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Veronica Kieffer Brooklyn Navy Yard photograph and badge"],
         "unitid_ssm":["V1988.047"],
         "abstract_ssm":["The Veronica Kieffer Brooklyn Navy Yard photograph and badge consists of one black-and-white photograph of Kieffer and three other female employees of the New York Naval Shipyard (commonly referred to as the Brooklyn Navy Yard) taken while visiting Coney Island circa 1944; and Kieffer's identification badge from the Navy Yard, circa 1945."],
+        "creator_ssm":["Kieffer, Veronica Marino",
+          "Kieffer, Veronica Marino"],
         "unitdate_normal_ssm":["1944/1945"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Naval Shipyard"],
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, 1944-1945"],
         "language_ssm":["English"],
-        "_version_":1799309922865774592,
-        "timestamp":"2024-05-17T14:21:00.692Z"}]
+        "_version_":1802045248022511616,
+        "timestamp":"2024-06-16T18:57:50.041Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kieffer, Veronica Marino",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

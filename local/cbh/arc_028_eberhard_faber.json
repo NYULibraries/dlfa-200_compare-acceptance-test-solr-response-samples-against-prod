@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Eberhard Faber Pencil Company collection"],
         "unitid_ssm":["ARC.028"],
         "abstract_ssm":["The collection consists of materials relating to the Eberhard Faber Pencil Company, the oldest pencil manufacturing company in the United States. The collection, dating from 1924 to 1988 and measuring 1.5 linear feet, includes product catalogues, promotional materials, a company account ledger, an employee sales manual, photographs, and a publication describing the activities and history of the Eberhard Faber Pencil Company."],
+        "creator_ssm":["Eberhard Faber Pencil Company",
+          "Eberhard Faber Pencil Company"],
         "unitdate_normal_ssm":["1924/1988"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Eberhard Faber Pencil Company",
@@ -82,8 +84,8 @@
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1924-1988"],
         "language_ssm":["English"],
-        "_version_":1799309976606343168,
-        "timestamp":"2024-05-17T14:21:51.943Z"},
+        "_version_":1801958715505508352,
+        "timestamp":"2024-06-15T20:02:26.202Z"},
       {
         "id":"arc_028_eberhard_faberaspace_ref7_a99",
         "ead_ssi":"arc_028_eberhard_faber",
@@ -102,8 +104,8 @@
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1924-1988"],
         "language_ssm":["English"],
-        "_version_":1799309976621023232,
-        "timestamp":"2024-05-17T14:21:51.957Z"},
+        "_version_":1801958715523334144,
+        "timestamp":"2024-06-15T20:02:26.219Z"},
       {
         "id":"arc_028_eberhard_faberaspace_ref8_l7s",
         "ead_ssi":"arc_028_eberhard_faber",
@@ -119,8 +121,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 2: Photographs"],
         "unitdate_ssm":["circa 1920 to 1949"],
-        "_version_":1799309976633606144,
-        "timestamp":"2024-05-17T14:21:51.969Z"}]
+        "_version_":1801958715536965632,
+        "timestamp":"2024-06-15T20:02:26.232Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -128,7 +130,8 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Eberhard Faber Pencil Company",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["Abraham R. Winne military commission"],
         "unitid_ssm":["AHMC - Winne, Abraham R."],
         "abstract_ssm":["Document appointing Abraham R. Winne as ensign in the 155th Regiment, Rensselaer County Brigade. For further details about this item, and to request it for research, please read its catalog record, or write to reference@nyhistory.org."],
+        "creator_ssm":["Winne, Abraham R., active 1807",
+          "Winne, Abraham R., active 1807"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Winne, Abraham R., active 1807"],
         "collection_ssm":["Abraham R. Winne military commission"],
@@ -56,8 +58,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Abraham R. Winne military commission"],
         "unitdate_ssm":["1807 April 6"],
-        "_version_":1775225950007459840,
-        "timestamp":"2023-08-25T18:16:34.34Z"}]
+        "_version_":1800991157050671104,
+        "timestamp":"2024-06-05T03:43:30.554Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -65,7 +67,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Winne, Abraham R., active 1807",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

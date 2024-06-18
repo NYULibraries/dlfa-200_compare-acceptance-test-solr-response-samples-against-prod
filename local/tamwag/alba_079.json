@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":19,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["William Morel Papers"],
         "unitid_ssm":["ALBA.079"],
+        "creator_ssm":["Morel, William Benjamin",
+          "Morel, William Benjamin"],
         "unitdate_normal_ssm":["1938/1940"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Morel, William Benjamin"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, 1938-1940"],
         "language_ssm":["English"],
-        "_version_":1799333602663596032,
-        "timestamp":"2024-05-17T20:37:23.507Z"}]
+        "_version_":1802110928125165568,
+        "timestamp":"2024-06-17T12:21:47.468Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Morel, William Benjamin",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

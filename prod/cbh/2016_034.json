@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":17,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edward and Gertrude Dewey collection of Gage &amp; Tollner records"],
         "unitid_ssm":["2016.034"],
         "abstract_ssm":["The Edward and Gertrude Dewey collection of Gage & Tollner records consist of materials from the Gage & Tollner restaurant located at 372-374 Fulton Street in the Downtown Brooklyn neighborhood of Brooklyn, dating from 1888 to 2004. The materials were mainly collected and compiled by the Dewey family who owned the restaurant from 1919 to 1988. The records primarily document the business operation under the Dewey family's management. The Dewey family sold the restaurant to Peter Aschkenasy in 1988 and the restaurant was later closed in 2004. The highlights of the collection include photographs of the landmark building and celebrities, as well as the anniversary menus and other memorabilia that marks the significance of this 125 year-old restaurant food and dining venue in the heart of Downtown Brooklyn."],
+        "creator_ssm":["Pawlukiewicz, Janet Dewey",
+          "Pawlukiewicz, Janet Dewey"],
         "unitdate_normal_ssm":["1888/2004"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Dodgers (Baseball team)"],
@@ -141,8 +143,8 @@
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1888-2004"],
         "language_ssm":["English"],
-        "_version_":1775217222080266240,
-        "timestamp":"2023-08-25T15:57:50.729Z"},
+        "_version_":1800592926359683072,
+        "timestamp":"2024-05-31T18:13:48.17Z"},
       {
         "id":"2016_034aspace_0e1c1ae7dd8aec56f3f9980bf109c7ed",
         "ead_ssi":"2016_034",
@@ -160,8 +162,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 4"],
         "heading_ssm":["Memorabilia"],
-        "_version_":1775217222825803776,
-        "timestamp":"2023-08-25T15:57:51.451Z"},
+        "_version_":1800592926689984512,
+        "timestamp":"2024-05-31T18:13:48.487Z"},
       {
         "id":"2016_034aspace_1087cd78837f9970630581d3581c6999",
         "ead_ssi":"2016_034",
@@ -179,8 +181,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 11"],
         "heading_ssm":["Memorabilia"],
-        "_version_":1775217222961070080,
-        "timestamp":"2023-08-25T15:57:51.58Z"},
+        "_version_":1800592926743461888,
+        "timestamp":"2024-05-31T18:13:48.538Z"},
       {
         "id":"2016_034aspace_2f240bc686a5979807e09c2ec50dd134",
         "ead_ssi":"2016_034",
@@ -198,8 +200,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 8"],
         "heading_ssm":["Photographs"],
-        "_version_":1775217222444122112,
-        "timestamp":"2023-08-25T15:57:51.087Z"},
+        "_version_":1800592926532698112,
+        "timestamp":"2024-05-31T18:13:48.337Z"},
       {
         "id":"2016_034aspace_327b2ab72f7e0258fc989e81d2ade2ea",
         "ead_ssi":"2016_034",
@@ -217,8 +219,8 @@
         "unitdate_start_ssm":["1919"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1919-2004"],
-        "_version_":1775217222114869248,
-        "timestamp":"2023-08-25T15:57:50.773Z"},
+        "_version_":1800592926379606016,
+        "timestamp":"2024-05-31T18:13:48.191Z"},
       {
         "id":"2016_034aspace_398f46d26ef84ac36cf546a4271e0eb4",
         "ead_ssi":"2016_034",
@@ -236,8 +238,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 9"],
         "heading_ssm":["Memorabilia"],
-        "_version_":1775217222896058368,
-        "timestamp":"2023-08-25T15:57:51.518Z"},
+        "_version_":1800592926717247488,
+        "timestamp":"2024-05-31T18:13:48.513Z"},
       {
         "id":"2016_034aspace_3ac8bf89494a7d9f1cb263e9599dfd04",
         "ead_ssi":"2016_034",
@@ -255,8 +257,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 8"],
         "heading_ssm":["Memorabilia"],
-        "_version_":1775217222862503936,
-        "timestamp":"2023-08-25T15:57:51.486Z"},
+        "_version_":1800592926703616000,
+        "timestamp":"2024-05-31T18:13:48.5Z"},
       {
         "id":"2016_034aspace_42abf5817c0915755adb206444cf3243",
         "ead_ssi":"2016_034",
@@ -274,8 +276,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Business records"],
-        "_version_":1775217222152617984,
-        "timestamp":"2023-08-25T15:57:50.809Z"},
+        "_version_":1800592926396383232,
+        "timestamp":"2024-05-31T18:13:48.207Z"},
       {
         "id":"2016_034aspace_4d80fe8d9563114c7a412e4ae6f94bc5",
         "ead_ssi":"2016_034",
@@ -293,8 +295,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 8"],
         "heading_ssm":["Business records"],
-        "_version_":1775217222328778752,
-        "timestamp":"2023-08-25T15:57:50.977Z"},
+        "_version_":1800592926481317888,
+        "timestamp":"2024-05-31T18:13:48.288Z"},
       {
         "id":"2016_034aspace_53bfd1308b645057d6a86f0734a9f269",
         "ead_ssi":"2016_034",
@@ -312,8 +314,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Polaroid box 1"],
         "heading_ssm":["Photographs"],
-        "_version_":1775217222479773696,
-        "timestamp":"2023-08-25T15:57:51.121Z"},
+        "_version_":1800592926547378176,
+        "timestamp":"2024-05-31T18:13:48.35Z"},
       {
         "id":"2016_034aspace_5bc5dba9b09d2c9ccf95e072eecc2cd1",
         "ead_ssi":"2016_034",
@@ -331,8 +333,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 4"],
         "heading_ssm":["Business records"],
-        "_version_":1775217222256427008,
-        "timestamp":"2023-08-25T15:57:50.908Z"},
+        "_version_":1800592926448812032,
+        "timestamp":"2024-05-31T18:13:48.257Z"},
       {
         "id":"2016_034aspace_62718b7bbf1034508e0074d12e5219cc",
         "ead_ssi":"2016_034",
@@ -350,8 +352,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Business records"],
-        "_version_":1775217222186172416,
-        "timestamp":"2023-08-25T15:57:50.841Z"},
+        "_version_":1800592926422597632,
+        "timestamp":"2024-05-31T18:13:48.232Z"},
       {
         "id":"2016_034aspace_793e67d1f4c2b7e688ff50c11a7aa225",
         "ead_ssi":"2016_034",
@@ -373,8 +375,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["1972"],
-        "_version_":1775217222716751872,
-        "timestamp":"2023-08-25T15:57:51.346Z"},
+        "_version_":1800592926640701440,
+        "timestamp":"2024-05-31T18:13:48.44Z"},
       {
         "id":"2016_034aspace_7cde8cde004c20aaa2ea10e415de212c",
         "ead_ssi":"2016_034",
@@ -392,8 +394,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, circa 1930s-1984"],
-        "_version_":1775217222751354880,
-        "timestamp":"2023-08-25T15:57:51.38Z"},
+        "_version_":1800592926653284352,
+        "timestamp":"2024-05-31T18:13:48.452Z"},
       {
         "id":"2016_034aspace_8ab3c5e3c3d472a00441ba8aee1c6e79",
         "ead_ssi":"2016_034",
@@ -415,8 +417,8 @@
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["1977"],
-        "_version_":1775217222637060096,
-        "timestamp":"2023-08-25T15:57:51.271Z"},
+        "_version_":1800592926610292736,
+        "timestamp":"2024-05-31T18:13:48.411Z"},
       {
         "id":"2016_034aspace_a790c1d7eebcd5d14333d72df26015fb",
         "ead_ssi":"2016_034",
@@ -438,8 +440,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["1972"],
-        "_version_":1775217222676905984,
-        "timestamp":"2023-08-25T15:57:51.309Z"},
+        "_version_":1800592926626021376,
+        "timestamp":"2024-05-31T18:13:48.425Z"},
       {
         "id":"2016_034aspace_af3bd210300654d8a9ad213f39c0b038",
         "ead_ssi":"2016_034",
@@ -457,8 +459,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1972-1985"],
-        "_version_":1775217222562611200,
-        "timestamp":"2023-08-25T15:57:51.199Z"},
+        "_version_":1800592926578835456,
+        "timestamp":"2024-05-31T18:13:48.381Z"},
       {
         "id":"2016_034aspace_b4882aa11f31815faa49d763d6bdb917",
         "ead_ssi":"2016_034",
@@ -476,8 +478,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Oversize Glass Negatives"],
         "heading_ssm":["Photographs"],
-        "_version_":1775217222523813888,
-        "timestamp":"2023-08-25T15:57:51.163Z"},
+        "_version_":1800592926563106816,
+        "timestamp":"2024-05-31T18:13:48.365Z"},
       {
         "id":"2016_034aspace_bfd127ba8d2dd87f127e2169cf84adc5",
         "ead_ssi":"2016_034",
@@ -495,8 +497,8 @@
         "unitdate_start_ssm":["1888"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1888-1989"],
-        "_version_":1775217222362333184,
-        "timestamp":"2023-08-25T15:57:51.009Z"},
+        "_version_":1800592926493900800,
+        "timestamp":"2024-05-31T18:13:48.3Z"},
       {
         "id":"2016_034aspace_c3df9c5b943409ab5904019b7dd47864",
         "ead_ssi":"2016_034",
@@ -518,8 +520,8 @@
         "unitdate_start_ssm":["1985"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["1985"],
-        "_version_":1775217222600359936,
-        "timestamp":"2023-08-25T15:57:51.236Z"},
+        "_version_":1800592926595612672,
+        "timestamp":"2024-05-31T18:13:48.397Z"},
       {
         "id":"2016_034aspace_ce21c6fcdc024d8107d00419a1fdfea8",
         "ead_ssi":"2016_034",
@@ -537,8 +539,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 6"],
         "heading_ssm":["Photographs"],
-        "_version_":1775217222401130496,
-        "timestamp":"2023-08-25T15:57:51.046Z"},
+        "_version_":1800592926520115200,
+        "timestamp":"2024-05-31T18:13:48.325Z"},
       {
         "id":"2016_034aspace_d1841539b09d77d0af3844468452ed52",
         "ead_ssi":"2016_034",
@@ -556,8 +558,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 12"],
         "heading_ssm":["Memorabilia"],
-        "_version_":1775217222995673088,
-        "timestamp":"2023-08-25T15:57:51.613Z"},
+        "_version_":1800592926758141952,
+        "timestamp":"2024-05-31T18:13:48.552Z"},
       {
         "id":"2016_034aspace_d96de302670893d22e0a7d1aded86835",
         "ead_ssi":"2016_034",
@@ -575,8 +577,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 10"],
         "heading_ssm":["Memorabilia"],
-        "_version_":1775217222928564224,
-        "timestamp":"2023-08-25T15:57:51.549Z"},
+        "_version_":1800592926729830400,
+        "timestamp":"2024-05-31T18:13:48.525Z"},
       {
         "id":"2016_034aspace_e37f5c56a9651e542d388118d1270588",
         "ead_ssi":"2016_034",
@@ -594,8 +596,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 5"],
         "heading_ssm":["Business records"],
-        "_version_":1775217222295224320,
-        "timestamp":"2023-08-25T15:57:50.945Z"},
+        "_version_":1800592926467686400,
+        "timestamp":"2024-05-31T18:13:48.275Z"},
       {
         "id":"2016_034aspace_f519c01768dce0a1b95ddc505c64f690",
         "ead_ssi":"2016_034",
@@ -613,8 +615,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 3"],
         "heading_ssm":["Business records"],
-        "_version_":1775217222221824000,
-        "timestamp":"2023-08-25T15:57:50.875Z"},
+        "_version_":1800592926435180544,
+        "timestamp":"2024-05-31T18:13:48.244Z"},
       {
         "id":"2016_034aspace_fdd9163ac6a5a11a3d6486fcf94603b5",
         "ead_ssi":"2016_034",
@@ -632,8 +634,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 6"],
         "heading_ssm":["Memorabilia"],
-        "_version_":1775217222793297920,
-        "timestamp":"2023-08-25T15:57:51.42Z"}]
+        "_version_":1800592926676353024,
+        "timestamp":"2024-05-31T18:13:48.474Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -641,7 +643,8 @@
       "repository_sim":[
         "cbh",26],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Pawlukiewicz, Janet Dewey",1],
       "date_range_sim":[
         "1801-1900",2,
         "1901-2000",8,

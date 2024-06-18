@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Third Ward Enlistment Committee records"],
         "unitid_ssm":["ARC.062"],
         "abstract_ssm":["Before the first Union conscription law was enacted in March of 1863, it was left to state and local officials to fill Union troop quotas. In the state of New York, cities were allocated troop quotas. At the time of the Civil War, both the City of New York and the City of Brooklyn were comprised of small political units, or wards, that were in turn allocated troop quotas. The Third Ward Enlistment Committee was responsible for filling the ward's quotas. Post war, as of 1867, Third Ward boundaries consisted of what is now part of the neighborhoods of Brooklyn Heights, Boerum Hill, Cobble Hill, and Park Slope. The Third Ward Enlistment Committee records, housed in three folders, include a treasurer's account book, 1862 to 1871; a volunteer's journal, 1862; and three subscription journals for troop quotas, 1862."],
+        "creator_ssm":["Ryder, S.",
+          "Frost, Ezra M.",
+          "Studwell, John J.",
+          "Chauncey, M. Daniel",
+          "Third Ward Enlistment Committee (Brooklyn, New York, N.Y.)",
+          "Third Ward Enlistment Committee (Brooklyn, New York, N.Y.)",
+          "Ryder, S.",
+          "Frost, Ezra M.",
+          "Studwell, John J.",
+          "Chauncey, M. Daniel"],
         "unitdate_normal_ssm":["1862/1871"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Third Ward Enlistment Committee (Brooklyn, New York, N.Y.)",
@@ -76,8 +86,8 @@
         "unitdate_end_ssm":["1871"],
         "unitdate_ssm":["Inclusive, 1862-1871"],
         "language_ssm":["English"],
-        "_version_":1799311420308848640,
-        "timestamp":"2024-05-17T14:44:48.765Z"}]
+        "_version_":1801958852041637888,
+        "timestamp":"2024-06-15T20:04:36.413Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +95,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chauncey, M. Daniel",1,
+        "Frost, Ezra M.",1,
+        "Ryder, S.",1,
+        "Studwell, John J.",1,
+        "Third Ward Enlistment Committee (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

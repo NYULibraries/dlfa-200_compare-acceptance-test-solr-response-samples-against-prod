@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Dey genealogical collection"],
         "unitid_ssm":["MS 3123"],
         "abstract_ssm":["Genealogical research compiled by Joseph Warren Scott Dey (1832–1905) on the Dey (or Dye) family and related lines of New York, New Jersey, and Kentucky. Includes transcriptions of birth, marriage, and death records, as well as family bible entries, wills, compiled genealogies, and Dey's extensive correspondence querying relatives for information."],
+        "creator_ssm":["Dey, Joseph Warren Scott, 1832-1905.",
+          "Dey, Joseph Warren Scott, 1832-1905."],
         "corpname_ssm":["New-York Historical Society"],
         "famname_ssm":["Dey (Family)",
           "Dye (Family)"],
@@ -83,8 +85,8 @@
           "Wills."],
         "heading_ssm":["Dey genealogical collection"],
         "unitdate_ssm":["Inclusive, circa 1860–1904"],
-        "_version_":1799315814204047360,
-        "timestamp":"2024-05-17T15:54:39.11Z"},
+        "_version_":1802085420611141632,
+        "timestamp":"2024-06-17T05:36:21.607Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_061dc845e4d141ae5afd236e8bb26ca0",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -99,8 +101,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: B"],
         "heading_ssm":["Dey Genealogical Collection Box 04"],
-        "_version_":1799315814405373952,
-        "timestamp":"2024-05-17T15:54:39.302Z"},
+        "_version_":1802085420688736256,
+        "timestamp":"2024-06-17T05:36:21.681Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_0ba361583d06617f1be2dda2935e6e5a",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -115,8 +117,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: A"],
         "heading_ssm":["Dey Genealogical Collection Box 01"],
-        "_version_":1799315814258573312,
-        "timestamp":"2024-05-17T15:54:39.162Z"},
+        "_version_":1802085420631064576,
+        "timestamp":"2024-06-17T05:36:21.626Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_172a2a676901777f9959aec7dd11bee7",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -131,8 +133,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: I"],
         "heading_ssm":["Dey Genealogical Collection Box 17"],
-        "_version_":1799315814907641856,
-        "timestamp":"2024-05-17T15:54:39.781Z"},
+        "_version_":1802085420901597184,
+        "timestamp":"2024-06-17T05:36:21.884Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_1cc41d48625ad5adff15d2b022245857",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -147,8 +149,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: C"],
         "heading_ssm":["Dey Genealogical Collection Box 06"],
-        "_version_":1799315814491357184,
-        "timestamp":"2024-05-17T15:54:39.384Z"},
+        "_version_":1802085420722290688,
+        "timestamp":"2024-06-17T05:36:21.713Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_23ebc07ee5c2ff3a89634e6fef1d9116",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -163,8 +165,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: D"],
         "heading_ssm":["Dey Genealogical Collection Box 08"],
-        "_version_":1799315814581534720,
-        "timestamp":"2024-05-17T15:54:39.469Z"},
+        "_version_":1802085420755845120,
+        "timestamp":"2024-06-17T05:36:21.745Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_29c7191a04d7258427f51d9404b293a2",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -179,8 +181,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: E"],
         "heading_ssm":["Dey Genealogical Collection Box 10"],
-        "_version_":1799315814646546432,
-        "timestamp":"2024-05-17T15:54:39.532Z"},
+        "_version_":1802085420787302400,
+        "timestamp":"2024-06-17T05:36:21.775Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_41c75985bbce849846f83939d6b6042b",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -195,8 +197,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: F"],
         "heading_ssm":["Dey Genealogical Collection Box 12"],
-        "_version_":1799315814714703872,
-        "timestamp":"2024-05-17T15:54:39.597Z"},
+        "_version_":1802085420818759680,
+        "timestamp":"2024-06-17T05:36:21.805Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_503c46c2f1c047fb7418f11bb338883e",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -211,8 +213,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: H"],
         "heading_ssm":["Dey Genealogical Collection Box 15"],
-        "_version_":1799315814836338688,
-        "timestamp":"2024-05-17T15:54:39.713Z"},
+        "_version_":1802085420873285632,
+        "timestamp":"2024-06-17T05:36:21.857Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_6be0991314e298001b5aa6e76e304c7a",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -227,8 +229,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: I"],
         "heading_ssm":["Dey Genealogical Collection Box 18"],
-        "_version_":1799315814947487744,
-        "timestamp":"2024-05-17T15:54:39.819Z"},
+        "_version_":1802085420916277248,
+        "timestamp":"2024-06-17T05:36:21.898Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_778dac91cba81021dede136436b26b2d",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -243,8 +245,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: E"],
         "heading_ssm":["Dey Genealogical Collection Box 09"],
-        "_version_":1799315814618234880,
-        "timestamp":"2024-05-17T15:54:39.505Z"},
+        "_version_":1802085420773670912,
+        "timestamp":"2024-06-17T05:36:21.762Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_7b61809a222ccd701eb39e363b109ada",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -259,8 +261,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: B"],
         "heading_ssm":["Dey Genealogical Collection Box 03"],
-        "_version_":1799315814364479488,
-        "timestamp":"2024-05-17T15:54:39.263Z"},
+        "_version_":1802085420668813312,
+        "timestamp":"2024-06-17T05:36:21.662Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_7f512f0560a5dfba18d06cdbd40790d8",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -275,8 +277,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: C"],
         "heading_ssm":["Dey Genealogical Collection Box 05"],
-        "_version_":1799315814451511296,
-        "timestamp":"2024-05-17T15:54:39.346Z"},
+        "_version_":1802085420703416320,
+        "timestamp":"2024-06-17T05:36:21.695Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_8211a7cb7c9f75034d23b2ffc67c2889",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -291,8 +293,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: K"],
         "heading_ssm":["Card catalog \"Index to Dey (Dye) Family Genealogical Collection\""],
-        "_version_":1799315815065976832,
-        "timestamp":"2024-05-17T15:54:39.932Z"},
+        "_version_":1802085420966608896,
+        "timestamp":"2024-06-17T05:36:21.946Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_869a5d13dc32ae32a86576bf67ca1410",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -307,8 +309,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: G"],
         "heading_ssm":["Dey Genealogical Collection Box 13"],
-        "_version_":1799315814755598336,
-        "timestamp":"2024-05-17T15:54:39.636Z"},
+        "_version_":1802085420833439744,
+        "timestamp":"2024-06-17T05:36:21.818Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_8a4873a57efd396f56f170e185a48a13",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -323,8 +325,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: D"],
         "heading_ssm":["Dey Genealogical Collection Box 07"],
-        "_version_":1799315814545883136,
-        "timestamp":"2024-05-17T15:54:39.436Z"},
+        "_version_":1802085420735922176,
+        "timestamp":"2024-06-17T05:36:21.725Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_925c328bd10697fd7faa40ca82357b4b",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -339,8 +341,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: G"],
         "heading_ssm":["Dey Genealogical Collection Box 14"],
-        "_version_":1799315814790201344,
-        "timestamp":"2024-05-17T15:54:39.669Z"},
+        "_version_":1802085420852314112,
+        "timestamp":"2024-06-17T05:36:21.837Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_a2303379342e8cb8bbda8074ba8b3790",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -355,8 +357,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: J"],
         "heading_ssm":["Dey Genealogical Collection Box 20"],
-        "_version_":1799315815025082368,
-        "timestamp":"2024-05-17T15:54:39.893Z"},
+        "_version_":1802085420948783104,
+        "timestamp":"2024-06-17T05:36:21.929Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_aa0a7e7db2ae8b2dc15dc49ee248d2c3",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -371,8 +373,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: H"],
         "heading_ssm":["Dey Genealogical Collection Box 16"],
-        "_version_":1799315814873038848,
-        "timestamp":"2024-05-17T15:54:39.748Z"},
+        "_version_":1802085420887965696,
+        "timestamp":"2024-06-17T05:36:21.871Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_b5817e5505abdf8864f8394f8464bc05",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -387,8 +389,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: J"],
         "heading_ssm":["Dey Genealogical Collection Box 19"],
-        "_version_":1799315814990479360,
-        "timestamp":"2024-05-17T15:54:39.86Z"},
+        "_version_":1802085420933054464,
+        "timestamp":"2024-06-17T05:36:21.914Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_c74bca58d3a06dec87b264f540ac2d34",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -403,8 +405,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: A"],
         "heading_ssm":["Dey Genealogical Collection Box 02"],
-        "_version_":1799315814313099264,
-        "timestamp":"2024-05-17T15:54:39.213Z"},
+        "_version_":1802085420646793216,
+        "timestamp":"2024-06-17T05:36:21.64Z"},
       {
         "id":"ms3123_dey_genealogical_collectionaspace_ebf27c234efe9a86cd2d6357454e5337",
         "ead_ssi":"ms3123_dey_genealogical_collection",
@@ -419,8 +421,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Offsite-Box: F"],
         "heading_ssm":["Dey Genealogical Collection Box 11"],
-        "_version_":1799315814675906560,
-        "timestamp":"2024-05-17T15:54:39.56Z"}]
+        "_version_":1802085420804079616,
+        "timestamp":"2024-06-17T05:36:21.791Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -428,7 +430,8 @@
       "repository_sim":[
         "nyhs",22],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dey, Joseph Warren Scott, 1832-1905.",1],
       "date_range_sim":[
         "undated & other",22],
       "subject_sim":[

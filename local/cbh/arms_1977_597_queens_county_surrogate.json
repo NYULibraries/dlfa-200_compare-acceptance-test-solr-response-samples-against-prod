@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Queens County Surrogate's Office summonses"],
         "unitid_ssm":["1977.597"],
         "abstract_ssm":["Two 1816 summonses from the Queens County Surrogate's Office relating to the estates of George Van Alst and Nathaniel Tyler."],
+        "creator_ssm":["New York (State). Surrogate's Court (Queens County)",
+          "New York (State). Surrogate's Court (Queens County)"],
         "unitdate_normal_ssm":["1816/1816"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Surrogate's Court (Queens County)"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1816"],
         "unitdate_ssm":["1816"],
         "language_ssm":["English"],
-        "_version_":1799311716776935424,
-        "timestamp":"2024-05-17T14:49:31.499Z"}]
+        "_version_":1801962040765448192,
+        "timestamp":"2024-06-15T20:55:17.417Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (State). Surrogate's Court (Queens County)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

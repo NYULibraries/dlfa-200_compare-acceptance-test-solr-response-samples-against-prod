@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sebastian Milito Canarsie school busing protest photographs"],
         "unitid_ssm":["CBHM.0016"],
         "abstract_ssm":["18 black and white digital images of a Canarsie school busing protest in 1972."],
+        "creator_ssm":["Milito, Sebastian",
+          "Milito, Sebastian"],
         "unitdate_normal_ssm":["1972/1972"],
         "corpname_ssm":["Center for Brooklyn History"],
         "genreform_ssm":["Photographs"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["1972"],
         "language_ssm":["English"],
-        "_version_":1775221170357927936,
-        "timestamp":"2023-08-25T17:00:36.111Z"}]
+        "_version_":1800834181868027904,
+        "timestamp":"2024-06-03T10:08:27.354Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Milito, Sebastian",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment Staff"],
         "unittitle_ssm":["European Anarchists Autograph Collection"],
         "unitid_ssm":["TAM.013"],
+        "creator_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
+          "Tamiment Library and Robert F. Wagner Labor Archives"],
         "unitdate_normal_ssm":["1874/1928"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Tamiment Library and Robert F. Wagner Labor Archives"],
@@ -64,8 +66,8 @@
         "unitdate_end_ssm":["1928"],
         "unitdate_ssm":["Inclusive, 1874-1928"],
         "language_ssm":["English"],
-        "_version_":1775222916236967936,
-        "timestamp":"2023-08-25T17:28:21.111Z"},
+        "_version_":1801196604525379584,
+        "timestamp":"2024-06-07T10:09:00.534Z"},
       {
         "id":"tam_013aspace_2f4d4a34e06f22c879b6e18731275430",
         "ead_ssi":"tam_013",
@@ -80,8 +82,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Records"],
-        "_version_":1775222916272619520,
-        "timestamp":"2023-08-25T17:28:21.145Z"}]
+        "_version_":1801196604566274048,
+        "timestamp":"2024-06-07T10:09:00.573Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tamiment Library and Robert F. Wagner Labor Archives",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

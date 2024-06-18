@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["City of Brooklyn, Department of Health vital statistics"],
         "unitid_ssm":["ARC.160"],
         "abstract_ssm":["The City of Brooklyn, Department of Health vital statistics collection measures 1 linear foot and spans the dates 1873 to 1897. The collection consists of bound volumes of weekly vital statistics reports compiled and published by the Department of Health for each year covered in the date span. The reports list the number of deaths for each week, the causes of those deaths, the number of deaths in each voting ward, and general demographic information about the deceased (including gender, ethnicity/nationality, age, etc). The reports do not list the names of the deceased."],
+        "creator_ssm":["Brooklyn (New York, N.Y.). Dept. of Health",
+          "Brooklyn (New York, N.Y.). Dept. of Health"],
         "unitdate_normal_ssm":["1873/1897"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn (New York, N.Y.). Dept. of Health",
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1897"],
         "unitdate_ssm":["Inclusive, 1873-1897"],
         "language_ssm":["English"],
-        "_version_":1799309976843321344,
-        "timestamp":"2024-05-17T14:21:52.169Z"}]
+        "_version_":1801959247371567104,
+        "timestamp":"2024-06-15T20:10:53.429Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn (New York, N.Y.). Dept. of Health",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

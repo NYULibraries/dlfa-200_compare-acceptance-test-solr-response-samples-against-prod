@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Reformed Church on the Heights records"],
         "unitid_ssm":["1977.185"],
         "abstract_ssm":["This collection contains various records of the Reformed Church on the Heights dating from 1845 to 1852, including contracts, accounts, receipts, bills, and payrolls related to the construction of the Church's building, as well as deeds to the Church's land."],
+        "creator_ssm":["Reformed Church on the Heights (Brooklyn, New York, N.Y.)",
+          "Reformed Church on the Heights (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1845/1852"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Reformed Church on the Heights (Brooklyn, New York, N.Y.)",
@@ -79,8 +81,8 @@
         "unitdate_end_ssm":["1852"],
         "unitdate_ssm":["Inclusive, 1845-1852"],
         "language_ssm":["English"],
-        "_version_":1799256311739711488,
-        "timestamp":"2024-05-17T00:08:53.138Z"}]
+        "_version_":1801960885049098240,
+        "timestamp":"2024-06-15T20:36:55.24Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Reformed Church on the Heights (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

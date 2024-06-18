@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Joseph Sprague papers"],
         "unitid_ssm":["ARC.099"],
         "abstract_ssm":["The Joseph Sprague papers span the period 1810 to 1842 and consist of seven items: an enslaved person's bill of sale from Jacob Duryee of the town of Bushwick to Abraham Debevoise of the town of Brooklyn, Kings County, 1802; a tax assessment roll for the town of Brooklyn, 1810; a letter written by Sprague to his brother and sister, who were preparing to leave for a religious mission, 1821; a list of nominations for officers in the town of Brooklyn, 1823; an election broadside produced from a meeting of the Republican Electors of the town of Brooklyn, 1826, announcing the nomination of Joseph Sprague to represent Kings County in the State Assembly and signed by Chairman William Furman and Secretary Henry Waring; an agreement between architect Calvin Pollard and the Mayor and Common Council of the City of Brooklyn, 1836, regarding the construction of Brooklyn's City Hall between Fulton, Joralemon, and Court Streets; and an invitation for Sprague to a Masonic supper in New York, 1842."],
+        "creator_ssm":["Sprague, Joseph",
+          "Sprague, Joseph"],
         "unitdate_normal_ssm":["1810/1842"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Borough Hall (New York, N.Y.)"],
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["1842"],
         "unitdate_ssm":["Inclusive, 1810-1842"],
         "language_ssm":["English"],
-        "_version_":1799256488825323520,
-        "timestamp":"2024-05-17T00:11:42.02Z"}]
+        "_version_":1801958985783312384,
+        "timestamp":"2024-06-15T20:06:43.958Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sprague, Joseph",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

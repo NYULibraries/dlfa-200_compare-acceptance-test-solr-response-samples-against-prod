@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Russell Phillips Arbitration Files"],
         "unitid_ssm":["TAM.575"],
         "abstract_ssm":["Russell Phillips, an employee of Lenox Hill Hospital in New York City and member of Local 1199, was fired in 1983 after a physical altercation on October 28, 1983, with another employee, apparently arising from Mr. Phillips' distribution of radical political literature. This collection contains union and management briefs and exhibits, and American Arbitration Association rulings, ultimately upholding the dismissal of Mr. Phillips."],
+        "creator_ssm":["Phillips, Russell",
+          "Phillips, Russell"],
         "unitdate_normal_ssm":["1983/1985"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "National Union of Hospital and Nursing Home Employees. Local 1199 Drug & Hospital Union (New York, N.Y.)",
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1983-1985"],
-        "_version_":1799791526271778816,
-        "timestamp":"2024-05-22T21:55:53.491Z"}]
+        "_version_":1802183524391845888,
+        "timestamp":"2024-06-18T07:35:40.663Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Phillips, Russell",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Henry H. Van Dyck papers"],
         "unitid_ssm":["ARC.106"],
         "abstract_ssm":["Henry H. Van Dyck (1808-1888) was an editor, financier, and politician who held a variety of public and private offices throughout his lifetime. Van Dyck was a member of Elm Place Congregational Church in Brooklyn and elected to the Holland Society of New York on March 14, 1885. At the time of his death, he lived at 5 Spencer Place in the Bedford-Stuyvesant neighborhood of Brooklyn. Van Dyck is buried in Albany, N.Y. The collection comprises two linear feet in four manuscript boxes of correspondence received by Henry H. Van Dyck from 1840 to 1869 (bulk, 1865-1869). Materials are arranged chronologically.  The bulk of correspondence in the collection is from Hugh McColloch (1808-1895), Secretary of the Treasury from 1865 to 1869. The content within the bulk dates of this collection deals primarily with matters concerning the United States Treasury in the years after the Civil War: imports and exports, inflation, national debt, personnel and politics, bond issues, draft issues, fractional currency, transportation of monies, customs policy, discussion of currency designs, counterfeiting, fraud, and embezzlement."],
+        "creator_ssm":["Van Dyck, Henry H. (Henry Herbert)",
+          "Van Dyck, Henry H. (Henry Herbert)"],
         "unitdate_normal_ssm":["1840/1869",
           "1865/1869"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["1869"],
         "unitdate_ssm":["Inclusive, 1840-1869 ; 1865-1869"],
         "language_ssm":["English"],
-        "_version_":1799256468209270784,
-        "timestamp":"2024-05-17T00:11:22.359Z"}]
+        "_version_":1801959013550653440,
+        "timestamp":"2024-06-15T20:07:10.44Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Van Dyck, Henry H. (Henry Herbert)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

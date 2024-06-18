@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":17,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles F. McKim Letters"],
         "unitid_ssm":["MS 3221"],
         "abstract_ssm":["This collection consists of letters written to architect Charles Follen McKim from a variety of noteworthy correspondents, dated 1888-1906."],
+        "creator_ssm":["McKim, Charles Follen, 1847-1909",
+          "McKim, Charles Follen, 1847-1909"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["McKim, Charles Follen, 1847-1909"],
         "collection_ssm":["Charles F. McKim Letters"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Charles F. McKim Letters"],
         "unitdate_ssm":["Inclusive, 1888-1906"],
-        "_version_":1799322281495756800,
-        "timestamp":"2024-05-17T17:37:26.8Z"},
+        "_version_":1802086199645437952,
+        "timestamp":"2024-06-17T05:48:44.552Z"},
       {
         "id":"ms3221_cf_mckim_lettersaspace_4ec365f460724b793d11213ba618aded",
         "ead_ssi":"ms3221_cf_mckim_letters",
@@ -71,12 +73,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 1-4",
-          "Folder: 1-4"],
+        "location_ssm":["Offsite-Box: 1, Folder: 1-4"],
         "heading_ssm":["Letters"],
         "unitdate_ssm":["Inclusive, 1888-1906"],
-        "_version_":1799322281537699840,
-        "timestamp":"2024-05-17T17:37:26.84Z"}]
+        "_version_":1802086199663263744,
+        "timestamp":"2024-06-17T05:48:44.569Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +85,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "McKim, Charles Follen, 1847-1909",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["C.C. Gately Company Records"],
         "unitid_ssm":["AIA.039"],
         "abstract_ssm":["This collection consists of materials documenting the functions and activities of the C.C. Gately Company, a Brooklyn contracting firm operated by Joseph T. Gately in the late 19th century. Materials include ledgers, cash books, and other financial records, including receipts and cancelled checks."],
+        "creator_ssm":["C.C. Gately Company",
+          "C.C. Gately Company"],
         "unitdate_normal_ssm":["1856/1906"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "C.C. Gately Company"],
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1856"],
         "unitdate_end_ssm":["1906"],
         "unitdate_ssm":["Inclusive, 1856-1906"],
-        "_version_":1799747169362640896,
-        "timestamp":"2024-05-22T10:10:51.446Z"},
+        "_version_":1802109582037745664,
+        "timestamp":"2024-06-17T12:00:23.739Z"},
       {
         "id":"aia_039aspace_ref11",
         "ead_ssi":"aia_039",
@@ -83,8 +85,8 @@
         "unitdate_start_ssm":["1888"],
         "unitdate_end_ssm":["1899"],
         "unitdate_ssm":["Inclusive, 1888-1899"],
-        "_version_":1799747169374175232,
-        "timestamp":"2024-05-22T10:10:51.457Z"},
+        "_version_":1802109582063960064,
+        "timestamp":"2024-06-17T12:00:23.764Z"},
       {
         "id":"aia_039aspace_ref12",
         "ead_ssi":"aia_039",
@@ -103,8 +105,8 @@
         "unitdate_start_ssm":["1890"],
         "unitdate_end_ssm":["1897"],
         "unitdate_ssm":["Inclusive, 1890-1897"],
-        "_version_":1799747169384660992,
-        "timestamp":"2024-05-22T10:10:51.467Z"},
+        "_version_":1802109582087028736,
+        "timestamp":"2024-06-17T12:00:23.786Z"},
       {
         "id":"aia_039aspace_ref13",
         "ead_ssi":"aia_039",
@@ -123,8 +125,8 @@
         "unitdate_start_ssm":["1856"],
         "unitdate_end_ssm":["1905"],
         "unitdate_ssm":["Inclusive, circa 1856-1905"],
-        "_version_":1799747169395146752,
-        "timestamp":"2024-05-22T10:10:51.477Z"},
+        "_version_":1802109582110097408,
+        "timestamp":"2024-06-17T12:00:23.808Z"},
       {
         "id":"aia_039aspace_ref14",
         "ead_ssi":"aia_039",
@@ -143,8 +145,8 @@
         "unitdate_start_ssm":["1906"],
         "unitdate_end_ssm":["1906"],
         "unitdate_ssm":["Inclusive, 1906"],
-        "_version_":1799747169410875392,
-        "timestamp":"2024-05-22T10:10:51.492Z"}]
+        "_version_":1802109582140506112,
+        "timestamp":"2024-06-17T12:00:23.837Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -152,7 +154,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "C.C. Gately Company",1],
       "date_range_sim":[
         "1801-1900",4,
         "1901-2000",3],

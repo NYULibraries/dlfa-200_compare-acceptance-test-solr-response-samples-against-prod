@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Aura Levitas Tamiment Playhouse Film and Photographs"],
         "unitid_ssm":["PHOTOS.241"],
         "abstract_ssm":["The Aura Levitas Tamiment Playhouse Film Photographs document several different performances at the Camp Tamiment's summer theater in one film reel and 16 black and white photographic prints. Camp Tamiment, which operated near Bushkill, Pennsylvania from 1921-1965, was an educational and recreational resort affiliated with the socialist Rand School of Social Science. The playhouse was started to provide campers with entertainment, but it soon became a preeminent workshop for theater, dance, film, and television. Aura Levitas performed at Camp Tamiment and would later work as a dancer on Broadway and television."],
+        "creator_ssm":["Levitas, Aura",
+          "Levitas, Aura"],
         "unitdate_normal_ssm":["1946/1952"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Tamiment Playhouse",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1946"],
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, 1946-1952"],
-        "_version_":1775220148408418304,
-        "timestamp":"2023-08-25T16:44:21.504Z"},
+        "_version_":1801191301611257856,
+        "timestamp":"2024-06-07T08:44:43.281Z"},
       {
         "id":"photos_241aspace_29ca81635af584cd90f2cd3bd4983b2e",
         "ead_ssi":"photos_241",
@@ -87,8 +89,8 @@
         "unitdate_start_ssm":["1921"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1775220148521664512,
-        "timestamp":"2023-08-25T16:44:21.612Z"},
+        "_version_":1801191301664735232,
+        "timestamp":"2024-06-07T08:44:43.332Z"},
       {
         "id":"photos_241aspace_ref12",
         "ead_ssi":"photos_241",
@@ -103,8 +105,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment A002"],
         "heading_ssm":["Photographs"],
-        "_version_":1775220148446167040,
-        "timestamp":"2023-08-25T16:44:21.54Z"},
+        "_version_":1801191301628035072,
+        "timestamp":"2024-06-07T08:44:43.296Z"},
       {
         "id":"photos_241aspace_ref13",
         "ead_ssi":"photos_241",
@@ -119,8 +121,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment OS001"],
         "heading_ssm":["Photographs"],
-        "_version_":1775220148482867200,
-        "timestamp":"2023-08-25T16:44:21.575Z"}]
+        "_version_":1801191301647958016,
+        "timestamp":"2024-06-07T08:44:43.316Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -128,7 +130,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Levitas, Aura",1],
       "date_range_sim":[
         "1901-2000",2,
         "2001-2100",1,

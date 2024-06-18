@@ -47,6 +47,12 @@
         "unittitle_ssm":["Joseph and Franklyn Kelly papers"],
         "unitid_ssm":["1977.550"],
         "abstract_ssm":["This collection contains papers dated 1874 to 1899 of Joseph Kelly of Crown Heights, Brooklyn and his son, Franklyn."],
+        "creator_ssm":["Kelly, Franklyn",
+          "Kelly, Ellen L. Haggarty",
+          "Kelly, Joseph",
+          "Kelly, Franklyn",
+          "Kelly, Ellen L. Haggarty",
+          "Kelly, Joseph"],
         "unitdate_normal_ssm":["1874/1899"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Mortgages",
@@ -83,8 +89,8 @@
         "unitdate_end_ssm":["1899"],
         "unitdate_ssm":["Inclusive, 1874-1899"],
         "language_ssm":["English"],
-        "_version_":1799256311784800256,
-        "timestamp":"2024-05-17T00:08:53.181Z"}]
+        "_version_":1801961935411871744,
+        "timestamp":"2024-06-15T20:53:36.943Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +98,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kelly, Ellen L. Haggarty",1,
+        "Kelly, Franklyn",1,
+        "Kelly, Joseph",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

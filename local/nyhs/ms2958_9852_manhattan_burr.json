@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":18,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Resolution of the Manhattan Company concerning Aaron Burr's indebtedness"],
         "unitid_ssm":["AHMC - Manhattan Company-Burr"],
         "abstract_ssm":["7 page document which records the report made at a meeting of the president and directors of the Manhattan Company by the committee appointed to determine \"what sums had been advanced to Col [Aaron] Burr, & on what security, with the price at which each lot is mortgaged, & what further ought to be done by Col Burr & the Company in the premises,\" with the resulting resolution accepting the report's recommendations and proposing to implement it if agreed to by Aaron Burr. The report surveys Burr's level of indebtedness to the Manhattan Company and the properties he has pledged as collateral for the loans. The purpose of this survey appears to be in connection with Burr's request for a further loan and renegotiation of the terms of his current debt. The report expresses reservations about the deal but recommends it with various financial conditions. Various debtors are noted in connection with Burr's collateral, among them Ezra Weeks, Jonathan Dayton, Joseph Browne, Charles Loss, John and William Batchelor, and others. Alexander Hamilton (\"General Hamilton\") is referenced once along with others as having incurred expenses, to be paid by Burr, during the loan negotiations. The report also refers to a mortgaged mansion house and surrounding lots, presumably those of Burr. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Resolution of the Manhattan Company concerning Aaron Burr's indebtedness"],
+        "creator_ssm":["Manhattan Company",
+          "Manhattan Company"],
         "corpname_ssm":["New-York Historical Society",
           "Manhattan Company"],
         "collection_ssm":["Resolution of the Manhattan Company concerning Aaron Burr's indebtedness"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Resolution of the Manhattan Company concerning Aaron Burr's indebtedness"],
         "unitdate_ssm":["1802 December 16"],
-        "_version_":1799330640431153152,
-        "timestamp":"2024-05-17T19:50:18.502Z"}]
+        "_version_":1802083825168154624,
+        "timestamp":"2024-06-17T05:11:00.074Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Manhattan Company",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

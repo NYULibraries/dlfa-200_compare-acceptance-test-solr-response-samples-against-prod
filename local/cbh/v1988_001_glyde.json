@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edna Glyde photography collection"],
         "unitid_ssm":["V1988.001"],
         "abstract_ssm":["The collection consists of color slides, negatives, contact sheets, and black-and-white prints by resident Edna Glyde, with cityscapes and images of urban conditions in Brooklyn during the mid 20th century."],
+        "creator_ssm":["Glyde, Edna",
+          "Glyde, Edna"],
         "unitdate_normal_ssm":["1930/1977"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Naval Shipyard"],
@@ -87,8 +89,8 @@
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, circa 1940 to 1967"],
         "language_ssm":["English"],
-        "_version_":1799311510524133376,
-        "timestamp":"2024-05-17T14:46:14.801Z"}]
+        "_version_":1802045212832301056,
+        "timestamp":"2024-06-16T18:57:16.481Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +98,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Glyde, Edna",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

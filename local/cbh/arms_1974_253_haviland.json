@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Jack Harris letter to Robert Haviland"],
         "unitid_ssm":["1974.253"],
         "abstract_ssm":["Letter from Jack Harris, an enslaved man in Augusta, GA, to his owner Robert Haviland in New York City, seeking an arrangement to buy his freedom."],
+        "creator_ssm":["Harris, Jack",
+          "Haviland, Robert",
+          "Harris, Jack",
+          "Haviland, Robert"],
         "unitdate_normal_ssm":["1850/1850"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -69,8 +73,8 @@
         "unitdate_end_ssm":["1850"],
         "unitdate_ssm":["Inclusive, 1850"],
         "language_ssm":["English"],
-        "_version_":1799312406999990272,
-        "timestamp":"2024-05-17T15:00:29.747Z"}]
+        "_version_":1801960515179642880,
+        "timestamp":"2024-06-15T20:31:02.505Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +82,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Harris, Jack",1,
+        "Haviland, Robert",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

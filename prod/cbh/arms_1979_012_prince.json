@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William R. Prince circular"],
         "unitid_ssm":["1979.012"],
         "abstract_ssm":["A one-page 1853 printed circular written by William R. Prince and addressed to \"The Citizens of Flushing.\" The circular concerns the building of the Flushing Railroad line, and attempts to remedy misconceptions and misunderstandings about the line's route through the town."],
+        "creator_ssm":["Prince, William Robert",
+          "Prince, William Robert"],
         "unitdate_normal_ssm":["1853/1853"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Circulars (fliers)"],
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1853"],
         "unitdate_ssm":["1853"],
         "language_ssm":["English"],
-        "_version_":1794874951894827008,
-        "timestamp":"2024-03-29T15:29:02.783Z"}]
+        "_version_":1800752390972899328,
+        "timestamp":"2024-06-02T12:28:25.478Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Prince, William Robert",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

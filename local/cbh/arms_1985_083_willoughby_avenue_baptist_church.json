@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Willoughby Avenue Baptist Church records"],
         "unitid_ssm":["1985.083"],
         "abstract_ssm":["This collection contains one volume, dated 1879 to 1884. The volume contains records of the Willoughby Avenue Baptist Church, including meeting minutes, financial reports, and accounts.  Willoughby Avenue Baptist Church, once known as the First Baptist Church of Bushwick, was organized in 1854. The church went through several location sites and name changes before it solidified in 1878 on Willoughby Avenue near Broadway in the Bushwick neighborhood of Brooklyn. A large group of congregants left the church in 1875 to form the Trinity  Baptist Church, and in the late 1880s, the congregation merged with the Greene Avenue Baptist Church"],
+        "creator_ssm":["Willoughby Avenue Baptist Church (Brooklyn, New York, N.Y.)",
+          "Willoughby Avenue Baptist Church (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1879/1884"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Willoughby Avenue Baptist Church (Brooklyn, New York, N.Y.)",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1884"],
         "unitdate_ssm":["Inclusive, 1879-1884"],
         "language_ssm":["English"],
-        "_version_":1799312233155526656,
-        "timestamp":"2024-05-17T14:57:43.956Z"}]
+        "_version_":1801963079011926016,
+        "timestamp":"2024-06-15T21:11:47.566Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Willoughby Avenue Baptist Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

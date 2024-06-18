@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ernest Amatniek Papers"],
         "unitid_ssm":["ALBA.309"],
         "abstract_ssm":["Ernest Amatniek (1915-2005) was born in 1915 in Estonia and in 1929 emigrated to the United States. In February 1937, Amatniek joined and served with the XV International Brigade, Transmissiones squad that fought for the Spanish Republic in the Spanish Civil War. The Ernest Amatniek Papers are comprised of materials related to his service with the International Brigades, and includes pamphlets, flyers, postcards and publications collected while he was in Spain in the 1930s. Also included are his photographs, correspondence, and a Veterans of the Abraham Lincoln Brigade membership card. The collection also includes commemorative materials from the 50th and 60th anniversaries of the International Brigades, as well as ephemera from the 1997 commemoration of the support for defense of the Spanish Republic within communities of Spanish heritage in Tampa, Florida in the 1930s. This collection also includes honors and other materials from Amatniek's memorial service in 2005."],
+        "creator_ssm":["Amatniek, Ernest",
+          "Amatniek, Ernest"],
         "unitdate_normal_ssm":["1929/2005"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Spain. Ejército Popular de la República. Abraham Lincoln Battalion",
@@ -80,8 +82,8 @@
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1929-2005"],
-        "_version_":1799342492916645888,
-        "timestamp":"2024-05-17T22:58:41.913Z"},
+        "_version_":1802111704434212864,
+        "timestamp":"2024-06-17T12:34:07.814Z"},
       {
         "id":"alba_309aspace_1a18f82ec89325c5df53d04150e21ac7",
         "ead_ssi":"alba_309",
@@ -101,8 +103,8 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1946"],
         "unitdate_ssm":["Inclusive, 1936-1946"],
-        "_version_":1799342492951248896,
-        "timestamp":"2024-05-17T22:58:41.946Z"},
+        "_version_":1802111704486641664,
+        "timestamp":"2024-06-17T12:34:07.864Z"},
       {
         "id":"alba_309aspace_1bd94bd2e3e9ade258d44ede1c3b50eb",
         "ead_ssi":"alba_309",
@@ -121,8 +123,8 @@
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1929-2005"],
-        "_version_":1799342492932374528,
-        "timestamp":"2024-05-17T22:58:41.928Z"}]
+        "_version_":1802111704459378688,
+        "timestamp":"2024-06-17T12:34:07.838Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -130,7 +132,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Amatniek, Ernest",1],
       "date_range_sim":[
         "1901-2000",3,
         "2001-2100",2],

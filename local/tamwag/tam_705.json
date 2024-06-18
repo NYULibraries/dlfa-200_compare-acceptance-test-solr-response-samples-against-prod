@@ -47,6 +47,8 @@
         "unittitle_ssm":["Stephen Salant Research Files on Alger Hiss"],
         "unitid_ssm":["TAM.705"],
         "abstract_ssm":["The Stephen Salant Research Files on Alger Hiss documents Stephen Salant's research on the Alger Hiss espionage case. Stephen W. Salant is an American economist who has done extensive research on the trials of Alger Hiss, focusing primarily on a set of microfilm reels known as the \"Pumpkin Papers.\" Materials in this collection include documentation of Salant's research process into the microfilm and his 1975 lawsuit against the US Justice Department to provide access to these documents under the Freedom of Information Act (FOIA). These materials include FOIA request documents, copies of documents related to the Hiss trials, and correspondence between Salant's attorneys and the Department of Justice. The collection also contains notes, supporting research, and drafts of Salant's writing about the Hiss trials. Research materials include correspondence with other researchers, correspondence with the Kodak film company regarding the dating of the microfilm, a summary of an interview Salant conducted with a House Un-American Activities Committee (HUAC) investigator, and correspondence with an economic advisor to the State Department."],
+        "creator_ssm":["Salant, Stephen W.",
+          "Salant, Stephen W."],
         "unitdate_normal_ssm":["1947/2021",
           "1973/1978"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
@@ -77,8 +79,8 @@
         "unitdate_end_ssm":["2021",
           "1978"],
         "unitdate_ssm":["Inclusive, 1947-2021 ; 1973-1978"],
-        "_version_":1799791990093643776,
-        "timestamp":"2024-05-22T22:03:15.826Z"},
+        "_version_":1802184335600648192,
+        "timestamp":"2024-06-18T07:48:34.292Z"},
       {
         "id":"tam_705aspace_28fe1ae8684bf2d23092f5cd3a9c7391",
         "ead_ssi":"tam_705",
@@ -99,8 +101,8 @@
         "unitdate_start_ssm":["1963"],
         "unitdate_end_ssm":["2018"],
         "unitdate_ssm":["Inclusive, 1963-2018"],
-        "_version_":1799791990125101056,
-        "timestamp":"2024-05-22T22:03:15.855Z"},
+        "_version_":1802184335623716864,
+        "timestamp":"2024-06-18T07:48:34.314Z"},
       {
         "id":"tam_705aspace_4b07a3c1fa69c39a811b70f7d6d78cfa",
         "ead_ssi":"tam_705",
@@ -120,8 +122,8 @@
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 1947-2008"],
-        "_version_":1799791990109372416,
-        "timestamp":"2024-05-22T22:03:15.84Z"},
+        "_version_":1802184335613231104,
+        "timestamp":"2024-06-18T07:48:34.304Z"},
       {
         "id":"tam_705aspace_6f7617403a0757164879d50ab0744490",
         "ead_ssi":"tam_705",
@@ -137,14 +139,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["E-records: Electronic Records, E-records: TW_TAM_705_ER_1",
-          "E-records: TW_TAM_705_ER_1"],
+        "location_ssm":["E-records: Electronic Records, E-records: TW_TAM_705_ER_1"],
         "heading_ssm":["FOIA Requests"],
         "unitdate_start_ssm":["2021"],
         "unitdate_end_ssm":["2021"],
         "unitdate_ssm":["2021"],
-        "_version_":1799791990145024000,
-        "timestamp":"2024-05-22T22:03:15.875Z"}]
+        "_version_":1802184335638396928,
+        "timestamp":"2024-06-18T07:48:34.328Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -153,7 +154,8 @@
         "tamwag",4],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Salant, Stephen W.",1],
       "date_range_sim":[
         "1901-2000",3,
         "2001-2100",4],

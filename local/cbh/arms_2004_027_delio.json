@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Connie Delio collection of Brooklyn theater programs"],
         "unitid_ssm":["2004.027"],
         "abstract_ssm":["Collection contains nine programs from the following Brooklyn theaters: Payton's Theatre (1912), Empire Theatre (1913), Gayety Theatre (1913), and The Bushwick (1914-1915)."],
+        "creator_ssm":["Gayety Theatre (Brooklyn, New York, N.Y.)",
+          "Payton's Theatre (Brooklyn, New York, N.Y.)",
+          "Delio, Connie",
+          "The Bushwick (Brooklyn, New York, N.Y.)",
+          "Empire Theatre (Brooklyn, New York, N.Y.)",
+          "Gayety Theatre (Brooklyn, New York, N.Y.)",
+          "Payton's Theatre (Brooklyn, New York, N.Y.)",
+          "The Bushwick (Brooklyn, New York, N.Y.)",
+          "Empire Theatre (Brooklyn, New York, N.Y.)",
+          "Delio, Connie"],
         "unitdate_normal_ssm":["1912/1915"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Gayety Theatre (Brooklyn, New York, N.Y.)",
@@ -80,8 +90,8 @@
         "unitdate_end_ssm":["1915"],
         "unitdate_ssm":["Inclusive, 1912-1915"],
         "language_ssm":["English"],
-        "_version_":1799311710513790976,
-        "timestamp":"2024-05-17T14:49:25.525Z"}]
+        "_version_":1801963891669860352,
+        "timestamp":"2024-06-15T21:24:42.576Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +99,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Delio, Connie",1,
+        "Empire Theatre (Brooklyn, New York, N.Y.)",1,
+        "Gayety Theatre (Brooklyn, New York, N.Y.)",1,
+        "Payton's Theatre (Brooklyn, New York, N.Y.)",1,
+        "The Bushwick (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

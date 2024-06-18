@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":21,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["William Colfax Miller Papers"],
         "unitid_ssm":["ALBA.075"],
+        "creator_ssm":["Miller, William Colfax",
+          "Miller, William Colfax"],
         "unitdate_normal_ssm":["1936/1945"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Miller, William Colfax"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, circa 1936-1945"],
         "language_ssm":["English"],
-        "_version_":1799747867595767808,
-        "timestamp":"2024-05-22T10:21:57.333Z"},
+        "_version_":1802110911313346560,
+        "timestamp":"2024-06-17T12:21:31.435Z"},
       {
         "id":"alba_075aspace_6d98714a41fd6e7303d8bd7781c21794",
         "ead_ssi":"alba_075",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799747867627225088,
-        "timestamp":"2024-05-22T10:21:57.363Z"}]
+        "_version_":1802110911335366656,
+        "timestamp":"2024-06-17T12:21:31.456Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Miller, William Colfax",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["N. D. Avksentiev Papers"],
         "unitid_ssm":["TAM.467"],
+        "creator_ssm":["Avksentiev, N. D.",
+          "Avksentiev, N. D."],
         "unitdate_normal_ssm":["1920/1949"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Partīi︠a︡ sot︠s︡īalistov-revoli︠u︡t︠s︡īonerov"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, circa 1920s-1940s"],
         "language_ssm":["English"],
-        "_version_":1799791162156908544,
-        "timestamp":"2024-05-22T21:50:06.244Z"}]
+        "_version_":1802183165125591040,
+        "timestamp":"2024-06-18T07:29:58.04Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Avksentiev, N. D.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

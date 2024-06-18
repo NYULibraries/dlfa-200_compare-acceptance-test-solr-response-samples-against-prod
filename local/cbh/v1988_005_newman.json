@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Leslie H. Newman photographs of the Manhattan skyline"],
         "unitid_ssm":["V1988.005"],
         "abstract_ssm":["All photographs in the collection appear to have been taken from the Brooklyn Heights Promenade facing west. The most prominent subjects in the photographs are high-rise buildings in Lower Manhattan facing Brooklyn."],
+        "creator_ssm":["Newman, Leslie H.",
+          "Newman, Leslie H."],
         "unitdate_normal_ssm":["1950/1969"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographs",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, circa 1950s and 1960s"],
         "language_ssm":["English"],
-        "_version_":1799256165318656000,
-        "timestamp":"2024-05-17T00:06:33.5Z"}]
+        "_version_":1802045216163627008,
+        "timestamp":"2024-06-16T18:57:19.658Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Newman, Leslie H.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

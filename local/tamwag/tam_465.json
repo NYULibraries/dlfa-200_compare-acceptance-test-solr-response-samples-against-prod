@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Oliver Lincoln Lundquist Papers"],
         "unitid_ssm":["TAM.465"],
+        "creator_ssm":["Lundquist, Oliver Lincoln",
+          "Lundquist, Oliver Lincoln"],
         "unitdate_normal_ssm":["1947/2009"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United Nations"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1947-2009"],
         "language_ssm":["English"],
-        "_version_":1799791157119549440,
-        "timestamp":"2024-05-22T21:50:01.44Z"}]
+        "_version_":1802183160361910272,
+        "timestamp":"2024-06-18T07:29:53.497Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lundquist, Oliver Lincoln",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

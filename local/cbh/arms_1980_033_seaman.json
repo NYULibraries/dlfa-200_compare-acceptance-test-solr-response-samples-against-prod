@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Seaman family genealogical notes"],
         "unitid_ssm":["1980.033"],
         "abstract_ssm":["Copy of a genealogical account compiled by Jordan Seaman of Jericho, Long Island, N.Y., tracing the history of the Seaman family descended from Captain John Seaman of Hempstead, Long Island.  The account covers the period circa 1685 to 1865."],
+        "creator_ssm":["Seaman, Jordan",
+          "Seaman, Jordan"],
         "unitdate_normal_ssm":["1675/1875"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Seaman family"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1875"],
         "unitdate_ssm":["Inclusive, circa 1685 to 1865"],
         "language_ssm":["English"],
-        "_version_":1799256165886984192,
-        "timestamp":"2024-05-17T00:06:34.042Z"}]
+        "_version_":1801962843432550400,
+        "timestamp":"2024-06-15T21:08:02.9Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Seaman, Jordan",1],
       "date_range_sim":[
         "1601-1700",1,
         "1801-1900",1],

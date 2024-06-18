@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":10,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment Staff"],
         "unittitle_ssm":["Nelson Rollin Burr Index Cards Collection on 19th Century Labor Issues"],
         "unitid_ssm":["TAM.059"],
+        "creator_ssm":["Burr, Nelson R. (Nelson Rollin), 1904-1994",
+          "Burr, Nelson R. (Nelson Rollin), 1904-1994"],
         "unitdate_normal_ssm":["1904/1994"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Notes."],
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, circa 1904-1994"],
         "language_ssm":["English"],
-        "_version_":1775222895336751104,
-        "timestamp":"2023-08-25T17:28:01.179Z"}]
+        "_version_":1801205388554534912,
+        "timestamp":"2024-06-07T12:28:37.636Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Burr, Nelson R. (Nelson Rollin), 1904-1994",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

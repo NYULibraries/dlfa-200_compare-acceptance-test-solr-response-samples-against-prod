@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William T. McCarthy collection"],
         "unitid_ssm":["ARC.059"],
         "abstract_ssm":["William Thomas McCarthy (d. 1952) was a Brooklyn architect known for his large-scale apartment houses located throughout Brooklyn, as well as for his large-scale housing projects. McCarthy attended Lehigh University in Bethlehem, PA, 1896 to 1900, where he earned a BS in Architecture from the Department of Civil Engineering. Upon graduation, McCarthy opened his first office in Brooklyn in 1900 and began to build his reputation as an architect of large-scale apartment buildings in Brooklyn. Materials in the collection document his attendance at Lehigh University and his career as a Brooklyn architect. The bulk of the collection pertains to various architectural projects McCarthy designed or worked on, many of which were large-scale public housing projects in Brooklyn."],
+        "creator_ssm":["McCarthy, William T.",
+          "McCarthy, William T."],
         "unitdate_normal_ssm":["1894/1952"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Concord Village (Brooklyn Heights, New York, N.Y.)",
@@ -90,8 +92,8 @@
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, 1894-1952"],
         "language_ssm":["English"],
-        "_version_":1799311441520492544,
-        "timestamp":"2024-05-17T14:45:08.993Z"},
+        "_version_":1801958840894226432,
+        "timestamp":"2024-06-15T20:04:25.782Z"},
       {
         "id":"arc_059_mccarthyaspace_ref10_slz",
         "ead_ssi":"arc_059_mccarthy",
@@ -110,8 +112,8 @@
         "unitdate_end_ssm":["1942"],
         "unitdate_ssm":["Inclusive, 1894-1942"],
         "language_ssm":["English"],
-        "_version_":1799311441561387008,
-        "timestamp":"2024-05-17T14:45:09.033Z"},
+        "_version_":1801958840945606656,
+        "timestamp":"2024-06-15T20:04:25.831Z"},
       {
         "id":"arc_059_mccarthyaspace_ref12_d2c",
         "ead_ssi":"arc_059_mccarthy",
@@ -127,8 +129,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 3: Drawings and photographs"],
         "unitdate_ssm":["circa 1890 to 1940"],
-        "_version_":1799311441583407104,
-        "timestamp":"2024-05-17T14:45:09.054Z"},
+        "_version_":1801958840978112512,
+        "timestamp":"2024-06-15T20:04:25.861Z"},
       {
         "id":"arc_059_mccarthyaspace_ref16_xgs",
         "ead_ssi":"arc_059_mccarthy",
@@ -149,8 +151,8 @@
         "unitdate_start_ssm":["1896"],
         "unitdate_end_ssm":["1900"],
         "unitdate_ssm":["Inclusive, 1896-1900"],
-        "_version_":1799311441602281472,
-        "timestamp":"2024-05-17T14:45:09.072Z"},
+        "_version_":1801958841004326912,
+        "timestamp":"2024-06-15T20:04:25.886Z"},
       {
         "id":"arc_059_mccarthyaspace_ref17_y6k",
         "ead_ssi":"arc_059_mccarthy",
@@ -169,8 +171,8 @@
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["unspecified"],
-        "_version_":1799311441626398720,
-        "timestamp":"2024-05-17T14:45:09.095Z"},
+        "_version_":1801958841025298432,
+        "timestamp":"2024-06-15T20:04:25.907Z"},
       {
         "id":"arc_059_mccarthyaspace_ref18_c93",
         "ead_ssi":"arc_059_mccarthy",
@@ -188,8 +190,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Subseries 2: Photographs"],
         "unitdate_ssm":["circa 1900 to 1942"],
-        "_version_":1799311441644224512,
-        "timestamp":"2024-05-17T14:45:09.112Z"},
+        "_version_":1801958841042075648,
+        "timestamp":"2024-06-15T20:04:25.923Z"},
       {
         "id":"arc_059_mccarthyaspace_ref8_3hk",
         "ead_ssi":"arc_059_mccarthy",
@@ -208,8 +210,8 @@
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, 1896-1952"],
         "language_ssm":["English"],
-        "_version_":1799311441545658368,
-        "timestamp":"2024-05-17T14:45:09.018Z"}]
+        "_version_":1801958840923586560,
+        "timestamp":"2024-06-15T20:04:25.81Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -217,7 +219,8 @@
       "repository_sim":[
         "cbh",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "McCarthy, William T.",1],
       "date_range_sim":[
         "1801-1900",4,
         "1901-2000",3,

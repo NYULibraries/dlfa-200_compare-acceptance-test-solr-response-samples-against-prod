@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles Staton scrapbook"],
         "unitid_ssm":["2004.010"],
         "abstract_ssm":["This collection consists of the scrapbook of Charles Staton, a reporter on the \"Brooklyn Standard Union\" (1800-1910).  The scrapbook contains newpspaer clippings as well as listings of various events to be covered by named reporters.  There are several references to the Spanish American War of 1898."],
+        "creator_ssm":["Staton, Harry P., Jr.",
+          "Staton, Harry P., Jr."],
         "unitdate_normal_ssm":["1898/1898"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "persname_ssm":["Staton, Harry P., Jr.",
@@ -63,8 +65,8 @@
         "unitdate_end_ssm":["1898"],
         "unitdate_ssm":["Circa 1898"],
         "language_ssm":["English"],
-        "_version_":1775226466351448064,
-        "timestamp":"2023-08-25T18:24:46.764Z"}]
+        "_version_":1800587247600271360,
+        "timestamp":"2024-05-31T16:43:32.484Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -72,7 +74,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Staton, Harry P., Jr.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

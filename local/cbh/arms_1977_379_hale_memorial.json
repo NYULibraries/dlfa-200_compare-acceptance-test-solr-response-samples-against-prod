@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Nathan Hale Memorial Association certificate"],
         "unitid_ssm":["1977.379"],
         "abstract_ssm":["One 1894 certificate stating that Morris Patterson Harris has contributed five dollars toward the erection of the Nathan Hale Memorial in Huntington, Long Island."],
+        "creator_ssm":["Nathan Hale Memorial Association (Huntington, N.Y.)",
+          "Nathan Hale Memorial Association (Huntington, N.Y.)"],
         "unitdate_normal_ssm":["1894/1894"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Nathan Hale Memorial Association (Huntington, N.Y.)"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1894"],
         "unitdate_ssm":["1894"],
         "language_ssm":["English"],
-        "_version_":1799311560662843392,
-        "timestamp":"2024-05-17T14:47:02.617Z"}]
+        "_version_":1801961484497977344,
+        "timestamp":"2024-06-15T20:46:26.919Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nathan Hale Memorial Association (Huntington, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

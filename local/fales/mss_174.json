@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Yvonne Rainer <em>Grand Union</em> Performance Videotape Collection"],
         "unitid_ssm":["MSS.174"],
         "abstract_ssm":["The collection consists of seven videotapes which document a series of Grand Union performances that took place on May 28, 1972 at the Joe LoGiudice Gallery at 59 Wooster Street in SoHo."],
+        "creator_ssm":["Rainer, Yvonne, 1934-",
+          "Rainer, Yvonne, 1934-"],
         "unitdate_normal_ssm":["1972/1972"],
         "corpname_ssm":["Fales Library and Special Collections",
           "The Grand Union"],
@@ -76,8 +78,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["1972"],
-        "_version_":1799729808901406720,
-        "timestamp":"2024-05-22T05:34:55.219Z"},
+        "_version_":1802057903856680960,
+        "timestamp":"2024-06-16T22:18:59.585Z"},
       {
         "id":"mss_174aspace_6352016e49b286d7c52370de3bd4eb23",
         "ead_ssi":"mss_174",
@@ -94,8 +96,8 @@
         "repository_ssm":["fales"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Subseries B: Video Preservation Masters - CLOSED"],
-        "_version_":1799729809124753408,
-        "timestamp":"2024-05-22T05:34:55.433Z"},
+        "_version_":1802057904175448064,
+        "timestamp":"2024-06-16T22:18:59.889Z"},
       {
         "id":"mss_174aspace_ec4604a2e455c3baa68cec091b9308fb",
         "ead_ssi":"mss_174",
@@ -115,8 +117,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Fales PM 48"],
         "heading_ssm":["ID: 174.0002 - 174.0020"],
-        "_version_":1799729809144676352,
-        "timestamp":"2024-05-22T05:34:55.452Z"},
+        "_version_":1802057904199565312,
+        "timestamp":"2024-06-16T22:18:59.912Z"},
       {
         "id":"mss_174aspace_ref12",
         "ead_ssi":"mss_174",
@@ -130,8 +132,8 @@
         "repository_ssm":["fales"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I: Video recordings - The Grand Union, May 1972"],
-        "_version_":1799729808917135360,
-        "timestamp":"2024-05-22T05:34:55.234Z"},
+        "_version_":1802057903878701056,
+        "timestamp":"2024-06-16T22:18:59.606Z"},
       {
         "id":"mss_174aspace_ref29",
         "ead_ssi":"mss_174",
@@ -148,8 +150,8 @@
         "repository_ssm":["fales"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Subseries A: Video recordings"],
-        "_version_":1799729808933912576,
-        "timestamp":"2024-05-22T05:34:55.251Z"},
+        "_version_":1802057903901769728,
+        "timestamp":"2024-06-16T22:18:59.628Z"},
       {
         "id":"mss_174aspace_ref30",
         "ead_ssi":"mss_174",
@@ -176,8 +178,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, May 1972"],
-        "_version_":1799729808963272704,
-        "timestamp":"2024-05-22T05:34:55.279Z"},
+        "_version_":1802057903955247104,
+        "timestamp":"2024-06-16T22:18:59.679Z"},
       {
         "id":"mss_174aspace_ref32",
         "ead_ssi":"mss_174",
@@ -204,8 +206,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, May 1972"],
-        "_version_":1799729808988438528,
-        "timestamp":"2024-05-22T05:34:55.303Z"},
+        "_version_":1802057903985655808,
+        "timestamp":"2024-06-16T22:18:59.708Z"},
       {
         "id":"mss_174aspace_ref34",
         "ead_ssi":"mss_174",
@@ -231,8 +233,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, May 1972"],
-        "_version_":1799729809010458624,
-        "timestamp":"2024-05-22T05:34:55.324Z"},
+        "_version_":1802057904020258816,
+        "timestamp":"2024-06-16T22:18:59.74Z"},
       {
         "id":"mss_174aspace_ref36",
         "ead_ssi":"mss_174",
@@ -258,8 +260,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, May 1972"],
-        "_version_":1799729809038770176,
-        "timestamp":"2024-05-22T05:34:55.351Z"},
+        "_version_":1802057904059056128,
+        "timestamp":"2024-06-16T22:18:59.777Z"},
       {
         "id":"mss_174aspace_ref38",
         "ead_ssi":"mss_174",
@@ -286,8 +288,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, May 1972"],
-        "_version_":1799729809059741696,
-        "timestamp":"2024-05-22T05:34:55.371Z"},
+        "_version_":1802057904093659136,
+        "timestamp":"2024-06-16T22:18:59.811Z"},
       {
         "id":"mss_174aspace_ref40",
         "ead_ssi":"mss_174",
@@ -313,8 +315,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, May 1972"],
-        "_version_":1799729809082810368,
-        "timestamp":"2024-05-22T05:34:55.393Z"},
+        "_version_":1802057904119873536,
+        "timestamp":"2024-06-16T22:18:59.836Z"},
       {
         "id":"mss_174aspace_ref42",
         "ead_ssi":"mss_174",
@@ -336,15 +338,13 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1",
           "case: 174.0020, case: 174.0020",
-          "case: 174.0020",
-          "case: 174.0025, case: 174.0025",
-          "case: 174.0025"],
+          "case: 174.0025, case: 174.0025"],
         "heading_ssm":["The Grand Union, Tape 8"],
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, May 1972"],
-        "_version_":1799729809106927616,
-        "timestamp":"2024-05-22T05:34:55.416Z"}]
+        "_version_":1802057904151330816,
+        "timestamp":"2024-06-16T22:18:59.866Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -352,7 +352,8 @@
       "repository_sim":[
         "fales",12],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rainer, Yvonne, 1934-",1],
       "date_range_sim":[
         "1901-2000",8,
         "undated & other",4],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["David Young papers"],
         "unitid_ssm":["1977.554"],
         "abstract_ssm":["This collection includes various materials spanning 1891 to 1896 and relating to Reverend David Young.  Reverend David Young (1719-1752) was born in Southold, Long Island and graduated from Yale College in 1741.  He was ordained in either Setauket or Brookhaven, Long Island in 1742."],
+        "creator_ssm":["Young, David",
+          "Young, David"],
         "unitdate_normal_ssm":["1891/1896"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Sermons",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1896"],
         "unitdate_ssm":["Inclusive, 1891-1896"],
         "language_ssm":["English"],
-        "_version_":1799256450929786880,
-        "timestamp":"2024-05-17T00:11:05.88Z"}]
+        "_version_":1801961939603030016,
+        "timestamp":"2024-06-15T20:53:40.941Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Young, David",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

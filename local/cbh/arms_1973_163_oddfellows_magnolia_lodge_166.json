@@ -47,6 +47,8 @@
         "unittitle_ssm":["Independent Order of Odd Fellows Magnolia Lodge No. 166 manuscript"],
         "unitid_ssm":["1973.163"],
         "abstract_ssm":["One bound manuscript recording the history of Brooklyn's Independent Order of Odd Fellows Magnolia Lodge No. 166 for the period 1845 to 1870."],
+        "creator_ssm":["Kemble, William",
+          "Kemble, William"],
         "unitdate_normal_ssm":["1870/1875"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Independent Order of Odd Fellows. Magnolia Lodge No. 166 (Brooklyn, New York, N.Y.)"],
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1875"],
         "unitdate_ssm":["Inclusive, 1870-1875"],
         "language_ssm":["English"],
-        "_version_":1799311677719576576,
-        "timestamp":"2024-05-17T14:48:54.251Z"}]
+        "_version_":1801960008646131712,
+        "timestamp":"2024-06-15T20:22:59.437Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kemble, William",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

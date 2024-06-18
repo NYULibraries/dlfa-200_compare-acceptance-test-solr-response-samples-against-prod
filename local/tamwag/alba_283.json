@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":18,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Jack Bjoze: Freedom of Information Act Files"],
         "unitid_ssm":["ALBA.283"],
+        "creator_ssm":["United States. Federal Bureau of Investigation",
+          "United States. Federal Bureau of Investigation"],
         "unitdate_normal_ssm":["1944/2009",
           "1944/1959"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -65,8 +67,8 @@
           "1959"],
         "unitdate_ssm":["Inclusive, circa 1944-2009 ; 1944-1959"],
         "language_ssm":["English"],
-        "_version_":1799335290309967872,
-        "timestamp":"2024-05-17T21:04:12.971Z"},
+        "_version_":1802111626637213696,
+        "timestamp":"2024-06-17T12:32:53.621Z"},
       {
         "id":"alba_283aspace_ba00f5a58a6040efb4667f636210470f",
         "ead_ssi":"alba_283",
@@ -81,8 +83,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799335290325696512,
-        "timestamp":"2024-05-17T21:04:12.986Z"}]
+        "_version_":1802111626658185216,
+        "timestamp":"2024-06-17T12:32:53.641Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +92,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. Federal Bureau of Investigation",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

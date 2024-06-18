@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>Messages for the President-Elect</em> collection"],
         "unitid_ssm":["MS 3027"],
         "abstract_ssm":["The collection includes about 5,700 sticky notes from New-York Historical Society's special installation Messages for the President-Elect. Inspired by artist Matthew \"Levee\" Chavez's work Subway Therapy, Messages consisted of notes posted to N-YHS's front glass wall by visitors expressing thoughts concerning the upcoming inauguration of Donald J. Trump as U.S. President. The special installation was in place from 20 December 2016-20 January 2017."],
+        "creator_ssm":["New-York Historical Society",
+          "New-York Historical Society"],
         "corpname_ssm":["New-York Historical Society",
           "New-York Historical Society",
           "New-York Historical Society"],
@@ -62,8 +64,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Messages for the President-Elect collection"],
         "unitdate_ssm":["Inclusive, 2016-2017"],
-        "_version_":1799322452930592768,
-        "timestamp":"2024-05-17T17:40:10.293Z"},
+        "_version_":1802084983859314688,
+        "timestamp":"2024-06-17T05:29:25.087Z"},
       {
         "id":"ms3027_messages_president_electaspace_650e19911972012a25f688d1855e88c9",
         "ead_ssi":"ms3027_messages_president_elect",
@@ -79,8 +81,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["\"Messages for the President-Elect\""],
         "unitdate_ssm":["Inclusive, 2016-2017"],
-        "_version_":1799322452947369984,
-        "timestamp":"2024-05-17T17:40:10.309Z"}]
+        "_version_":1802084983875043328,
+        "timestamp":"2024-06-17T05:29:25.103Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New-York Historical Society",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

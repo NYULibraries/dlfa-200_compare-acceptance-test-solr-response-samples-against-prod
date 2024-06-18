@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Abraham Levine Papers"],
         "unitid_ssm":["TAM.693"],
         "abstract_ssm":["The Abraham Levine Papers (dated 1938-1948) consist of correspondence and drafts related to Abraham Levine's political activities. Levine was a rank-and-file member of Trotskyist movement, and his papers provide a window into the ways in which everyday members of the movement interpreted current affairs in the 1940s. His papers include correspondence with fellow members of the Trotskyist movement, and several drafts of essays reflecting on current events, international politics, and American trade and commerce from a leftist perspective."],
+        "creator_ssm":["Levine, Abraham",
+          "Levine, Abraham"],
         "unitdate_normal_ssm":["1938/1948"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Correspondence.",
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1938"],
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["Inclusive, 1938-1948"],
-        "_version_":1799333508726915072,
-        "timestamp":"2024-05-17T20:35:53.922Z"}]
+        "_version_":1802184031167578112,
+        "timestamp":"2024-06-18T07:43:43.962Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Levine, Abraham",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

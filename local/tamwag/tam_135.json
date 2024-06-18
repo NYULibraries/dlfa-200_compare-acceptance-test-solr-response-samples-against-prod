@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Holmes Collection on Noah London"],
         "unitid_ssm":["TAM.135"],
         "abstract_ssm":["Russian-born Noah London was active in the Jewish Federation of the Communist Party of the USA, and was the first labor editor of its newspaper, Freiheit, before returning to the USSR around 1926, where he used his engineering training to help develop the new socialist state. He was arrested sometime during the 1937-38 purges and died around 1940. Contains an unpublished typescript, ca. 1934, describing London's disillusionment with Stalinism, the transcript of an interview with Freiheiteditor Paul Novick, and several unpublished typescripts about London by John Holmes (great nephew of London)."],
+        "creator_ssm":["London, Noah, 1888-",
+          "London, Noah, 1888-"],
         "unitdate_normal_ssm":["1924/2002"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Communist Party of the United States of America. Jewish Federation",
@@ -76,8 +78,8 @@
         "unitdate_start_ssm":["1924"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, circa 1934-2002"],
-        "_version_":1799334077900259328,
-        "timestamp":"2024-05-17T20:44:56.728Z"},
+        "_version_":1802169681474224128,
+        "timestamp":"2024-06-18T03:55:39.028Z"},
       {
         "id":"tam_135aspace_ref14",
         "ead_ssi":"tam_135",
@@ -91,8 +93,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Container list"],
-        "_version_":1799334077913890816,
-        "timestamp":"2024-05-17T20:44:56.741Z"},
+        "_version_":1802169681482612736,
+        "timestamp":"2024-06-18T03:55:39.036Z"},
       {
         "id":"tam_135aspace_ref15",
         "ead_ssi":"tam_135",
@@ -109,14 +111,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Holmes, John: Unpublished Writings re Noah London"],
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1986-2002"],
-        "_version_":1799334077928570880,
-        "timestamp":"2024-05-17T20:44:56.755Z"},
+        "_version_":1802169681492049920,
+        "timestamp":"2024-06-18T03:55:39.045Z"},
       {
         "id":"tam_135aspace_ref16",
         "ead_ssi":"tam_135",
@@ -133,14 +134,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["London, Noah: Notes on USSR (unpublished typescript, 46 pp.)"],
         "unitdate_start_ssm":["1934"],
         "unitdate_end_ssm":["1934"],
         "unitdate_ssm":["Inclusive, ca. 1934"],
-        "_version_":1799334077944299520,
-        "timestamp":"2024-05-17T20:44:56.77Z"},
+        "_version_":1802169681504632832,
+        "timestamp":"2024-06-18T03:55:39.057Z"},
       {
         "id":"tam_135aspace_ref17",
         "ead_ssi":"tam_135",
@@ -156,12 +156,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Novick, Paul: Transcript of Interview by John Holmes"],
         "unitdate_ssm":["May 26, 1988"],
-        "_version_":1799334077964222464,
-        "timestamp":"2024-05-17T20:44:56.789Z"}]
+        "_version_":1802169681513021440,
+        "timestamp":"2024-06-18T03:55:39.065Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -169,7 +168,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "London, Noah, 1888-",1],
       "date_range_sim":[
         "1901-2000",3,
         "2001-2100",2,

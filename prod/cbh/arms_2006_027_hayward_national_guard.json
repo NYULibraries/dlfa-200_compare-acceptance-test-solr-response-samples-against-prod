@@ -47,6 +47,10 @@
         "unittitle_ssm":["Sgt. Arthur A. Hayward New York National Guard 13th Regiment collection"],
         "unitid_ssm":["2006.027"],
         "abstract_ssm":["The Sgt. Arthur A. Hayward New York National Guard 13th Regiment collection consists of materials relating to Sgt. Major Arthur A. Hayward and his career with the 13th Regiment Armory, located on 357 Sumner Street in Brooklyn, N.Y.  Materials date from 1857 to 1951 and include records of the New York National Guard at the 13th Coast Artillery Armory, the personal correspondence of Arthur A. Hayward, and photographs."],
+        "creator_ssm":["Hayward, Augustus",
+          "Hayward, Arthur A.",
+          "Hayward, Augustus",
+          "Hayward, Arthur A."],
         "unitdate_normal_ssm":["1857/1951"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). National Guard. Regiment, 13th",
@@ -87,8 +91,8 @@
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["Inclusive, 1857-1951"],
         "language_ssm":["English"],
-        "_version_":1775219434666852352,
-        "timestamp":"2023-08-25T16:33:00.827Z"},
+        "_version_":1800803036834037760,
+        "timestamp":"2024-06-03T01:53:25.135Z"},
       {
         "id":"arms_2006_027_hayward_national_guardaspace_ref10_2iu",
         "ead_ssi":"arms_2006_027_hayward_national_guard",
@@ -106,8 +110,8 @@
         "unitdate_start_ssm":["1861"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1861-1939"],
-        "_version_":1775219434701455360,
-        "timestamp":"2023-08-25T16:33:00.859Z"},
+        "_version_":1800803036848717824,
+        "timestamp":"2024-06-03T01:53:25.149Z"},
       {
         "id":"arms_2006_027_hayward_national_guardaspace_ref12_fcz",
         "ead_ssi":"arms_2006_027_hayward_national_guard",
@@ -125,8 +129,8 @@
         "unitdate_start_ssm":["1857"],
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["Inclusive, 1857-1951"],
-        "_version_":1775219434736058368,
-        "timestamp":"2023-08-25T16:33:00.893Z"},
+        "_version_":1800803036864446464,
+        "timestamp":"2024-06-03T01:53:25.164Z"},
       {
         "id":"arms_2006_027_hayward_national_guardaspace_ref14_7kv",
         "ead_ssi":"arms_2006_027_hayward_national_guard",
@@ -144,8 +148,8 @@
         "unitdate_start_ssm":["1883"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1883-1939"],
-        "_version_":1775219434785341440,
-        "timestamp":"2023-08-25T16:33:00.94Z"}]
+        "_version_":1800803036883320832,
+        "timestamp":"2024-06-03T01:53:25.182Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -153,7 +157,9 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hayward, Arthur A.",1,
+        "Hayward, Augustus",1],
       "date_range_sim":[
         "1801-1900",4,
         "1901-2000",4],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -60,8 +60,8 @@
         "material_type_ssm":["Photographic prints."],
         "heading_ssm":["Ruth Orkin Photograph Collection"],
         "unitdate_ssm":["Inclusive, ca. 1950-1981"],
-        "_version_":1799318537744941056,
-        "timestamp":"2024-05-17T16:37:56.481Z"},
+        "_version_":1802093538080456704,
+        "timestamp":"2024-06-17T07:45:23.029Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref11_xge",
         "ead_ssi":"pr190_ruth_orkin",
@@ -75,8 +75,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I. Unmatted"],
-        "_version_":1799318537760669696,
-        "timestamp":"2024-05-17T16:37:56.496Z"},
+        "_version_":1802093538100379648,
+        "timestamp":"2024-06-17T07:45:23.048Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref12_cv4",
         "ead_ssi":"pr190_ruth_orkin",
@@ -95,8 +95,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Tavern-on-the-Green, Holiday lights and 5th Ave."],
         "unitdate_ssm":["1976"],
-        "_version_":1799318537778495488,
-        "timestamp":"2024-05-17T16:37:56.513Z"},
+        "_version_":1802093538116108288,
+        "timestamp":"2024-06-17T07:45:23.063Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref13_6c1",
         "ead_ssi":"pr190_ruth_orkin",
@@ -115,8 +115,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Central Park South"],
         "unitdate_ssm":["1977"],
-        "_version_":1799318537792126976,
-        "timestamp":"2024-05-17T16:37:56.526Z"},
+        "_version_":1802093538131836928,
+        "timestamp":"2024-06-17T07:45:23.078Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref14_db9",
         "ead_ssi":"pr190_ruth_orkin",
@@ -135,8 +135,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Sunlit Streets Over the East Sixties"],
         "unitdate_ssm":["1977"],
-        "_version_":1799318537806807040,
-        "timestamp":"2024-05-17T16:37:56.54Z"},
+        "_version_":1802093538157002752,
+        "timestamp":"2024-06-17T07:45:23.102Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref15_rve",
         "ead_ssi":"pr190_ruth_orkin",
@@ -155,8 +155,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Moon Over August Concert, N.Y. Philharmonic in Sheep Meadow"],
         "unitdate_ssm":["1978"],
-        "_version_":1799318537823584256,
-        "timestamp":"2024-05-17T16:37:56.556Z"},
+        "_version_":1802093538181120000,
+        "timestamp":"2024-06-17T07:45:23.125Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref16_ivy",
         "ead_ssi":"pr190_ruth_orkin",
@@ -175,8 +175,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Peach Mist Over Sheep Meadow"],
         "unitdate_ssm":["1978"],
-        "_version_":1799318537837215744,
-        "timestamp":"2024-05-17T16:37:56.569Z"},
+        "_version_":1802093538203140096,
+        "timestamp":"2024-06-17T07:45:23.146Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref17_dxm",
         "ead_ssi":"pr190_ruth_orkin",
@@ -195,8 +195,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Rainbow Over 5th Ave."],
         "unitdate_ssm":["1979"],
-        "_version_":1799318537851895808,
-        "timestamp":"2024-05-17T16:37:56.583Z"},
+        "_version_":1802093538223063040,
+        "timestamp":"2024-06-17T07:45:23.165Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref18_otq",
         "ead_ssi":"pr190_ruth_orkin",
@@ -215,8 +215,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Rosy City at Christmas"],
         "unitdate_ssm":["1979"],
-        "_version_":1799318537866575872,
-        "timestamp":"2024-05-17T16:37:56.597Z"},
+        "_version_":1802093538241937408,
+        "timestamp":"2024-06-17T07:45:23.183Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref19_h1q",
         "ead_ssi":"pr190_ruth_orkin",
@@ -235,8 +235,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Autumn and the Plaza Area"],
         "unitdate_ssm":["1980"],
-        "_version_":1799318537881255936,
-        "timestamp":"2024-05-17T16:37:56.611Z"},
+        "_version_":1802093538266054656,
+        "timestamp":"2024-06-17T07:45:23.206Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref20_b84",
         "ead_ssi":"pr190_ruth_orkin",
@@ -255,8 +255,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Sheep Meadow, Central Park"],
         "unitdate_ssm":["1980"],
-        "_version_":1799318537894887424,
-        "timestamp":"2024-05-17T16:37:56.624Z"},
+        "_version_":1802093538287026176,
+        "timestamp":"2024-06-17T07:45:23.226Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref21_0mc",
         "ead_ssi":"pr190_ruth_orkin",
@@ -275,8 +275,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["White, Feathery Trees, Central Park South"],
         "unitdate_ssm":["1980"],
-        "_version_":1799318537907470336,
-        "timestamp":"2024-05-17T16:37:56.636Z"},
+        "_version_":1802093538302754816,
+        "timestamp":"2024-06-17T07:45:23.241Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref22_blc",
         "ead_ssi":"pr190_ruth_orkin",
@@ -290,8 +290,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I.A. Matted"],
-        "_version_":1799318537921101824,
-        "timestamp":"2024-05-17T16:37:56.649Z"},
+        "_version_":1802093538316386304,
+        "timestamp":"2024-06-17T07:45:23.254Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref23_34j",
         "ead_ssi":"pr190_ruth_orkin",
@@ -310,8 +310,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Central Park South"],
         "unitdate_ssm":["Ca. 1950-1959"],
-        "_version_":1799318537935781888,
-        "timestamp":"2024-05-17T16:37:56.663Z"},
+        "_version_":1802093538335260672,
+        "timestamp":"2024-06-17T07:45:23.272Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref24_23e",
         "ead_ssi":"pr190_ruth_orkin",
@@ -330,8 +330,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["White Light Over Central Park South and 5th Ave."],
         "unitdate_ssm":["1972"],
-        "_version_":1799318537950461952,
-        "timestamp":"2024-05-17T16:37:56.677Z"},
+        "_version_":1802093538362523648,
+        "timestamp":"2024-06-17T07:45:23.298Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref25_sq7",
         "ead_ssi":"pr190_ruth_orkin",
@@ -350,8 +350,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["The Plaza With a Golden Roof"],
         "unitdate_ssm":["1976"],
-        "_version_":1799318537999745024,
-        "timestamp":"2024-05-17T16:37:56.724Z"},
+        "_version_":1802093538384543744,
+        "timestamp":"2024-06-17T07:45:23.319Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref26_ztx",
         "ead_ssi":"pr190_ruth_orkin",
@@ -370,8 +370,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["The Plaza and Baseball in Summer"],
         "unitdate_ssm":["1979"],
-        "_version_":1799318538035396608,
-        "timestamp":"2024-05-17T16:37:56.758Z"},
+        "_version_":1802093538403418112,
+        "timestamp":"2024-06-17T07:45:23.337Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref27_yj9",
         "ead_ssi":"pr190_ruth_orkin",
@@ -390,8 +390,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Rainbow Over Hotel Carlyle"],
         "unitdate_ssm":["1979"],
-        "_version_":1799318538049028096,
-        "timestamp":"2024-05-17T16:37:56.771Z"},
+        "_version_":1802093538423341056,
+        "timestamp":"2024-06-17T07:45:23.356Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref28_b2b",
         "ead_ssi":"pr190_ruth_orkin",
@@ -410,8 +410,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Citycorp and the Plaza"],
         "unitdate_ssm":["1980"],
-        "_version_":1799318538062659584,
-        "timestamp":"2024-05-17T16:37:56.784Z"},
+        "_version_":1802093538445361152,
+        "timestamp":"2024-06-17T07:45:23.377Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref29_bll",
         "ead_ssi":"pr190_ruth_orkin",
@@ -430,8 +430,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Black Glass Building at Sunset, E. 66th St."],
         "unitdate_ssm":["[ca. 1980]"],
-        "_version_":1799318538078388224,
-        "timestamp":"2024-05-17T16:37:56.799Z"},
+        "_version_":1802093538467381248,
+        "timestamp":"2024-06-17T07:45:23.398Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref30_5ju",
         "ead_ssi":"pr190_ruth_orkin",
@@ -450,8 +450,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Blue Sunrise Over Sheep Meadow"],
         "unitdate_ssm":["[ca. 1980]"],
-        "_version_":1799318538094116864,
-        "timestamp":"2024-05-17T16:37:56.814Z"},
+        "_version_":1802093538486255616,
+        "timestamp":"2024-06-17T07:45:23.416Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref31_gge",
         "ead_ssi":"pr190_ruth_orkin",
@@ -470,8 +470,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Sheep Meadow After Re-sodding"],
         "unitdate_ssm":["1981 May"],
-        "_version_":1799318538107748352,
-        "timestamp":"2024-05-17T16:37:56.827Z"},
+        "_version_":1802093538507227136,
+        "timestamp":"2024-06-17T07:45:23.436Z"},
       {
         "id":"pr190_ruth_orkinaspace_ref32_in4",
         "ead_ssi":"pr190_ruth_orkin",
@@ -490,8 +490,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Sunbathers and Roller-skaters, Sheep Meadow"],
         "unitdate_ssm":["1981"],
-        "_version_":1799318538121379840,
-        "timestamp":"2024-05-17T16:37:56.84Z"}]
+        "_version_":1802093538527150080,
+        "timestamp":"2024-06-17T07:45:23.455Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

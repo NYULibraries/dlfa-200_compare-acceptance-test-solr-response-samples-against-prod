@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Eugene L. Armbruster photographs and scrapbooks"],
         "unitid_ssm":["ARC.308"],
         "abstract_ssm":["Eugene L. Armbruster was born in Baden-Baden, Germany. He was an amateur historian of New York City and lived most of his life in the Bushwick neighborhood of Brooklyn. The photographs and scrapbooks in this collection document buildings and landscapes and primarily feature Brooklyn, but also showcase Manhattan, Queens, Nassau County and Suffolk County."],
+        "creator_ssm":["Armbruster, Eugene L.",
+          "Armbruster, Eugene L."],
         "unitdate_normal_ssm":["1900/1939"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Brooklyn (New York, N.Y.)",
@@ -94,8 +96,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, circa 1900-1939"],
         "language_ssm":["English"],
-        "_version_":1799311500728336384,
-        "timestamp":"2024-05-17T14:46:05.459Z"},
+        "_version_":1801959861654650880,
+        "timestamp":"2024-06-15T20:20:39.255Z"},
       {
         "id":"arc_308_armbrusteraspace_01e4f79ced92223aa12221e4dd58b887",
         "ead_ssi":"arc_308_armbruster",
@@ -114,8 +116,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 16"],
         "heading_ssm":["Views of New York City, Brooklyn, and other places, Vol. 3"],
-        "_version_":1799311501161398272,
-        "timestamp":"2024-05-17T14:46:05.872Z"},
+        "_version_":1801959862024798208,
+        "timestamp":"2024-06-15T20:20:39.608Z"},
       {
         "id":"arc_308_armbrusteraspace_0df818036decf4e8fb91e51ce076daec",
         "ead_ssi":"arc_308_armbruster",
@@ -134,8 +136,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, circa 1920s"],
-        "_version_":1799311500759793664,
-        "timestamp":"2024-05-17T14:46:05.489Z"},
+        "_version_":1801959861672476672,
+        "timestamp":"2024-06-15T20:20:39.271Z"},
       {
         "id":"arc_308_armbrusteraspace_1865a4966754ca46141fc1f7966e70b1",
         "ead_ssi":"arc_308_armbruster",
@@ -154,8 +156,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 13"],
         "heading_ssm":["Views of Coney Island Vol. 3"],
-        "_version_":1799311501050249216,
-        "timestamp":"2024-05-17T14:46:05.766Z"},
+        "_version_":1801959861941960704,
+        "timestamp":"2024-06-15T20:20:39.529Z"},
       {
         "id":"arc_308_armbrusteraspace_1cefce53866a81ed68bdd20321704339",
         "ead_ssi":"arc_308_armbruster",
@@ -174,8 +176,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 15"],
         "heading_ssm":["Views of New York City, Brooklyn, and other places, Vol. 2"],
-        "_version_":1799311501130989568,
-        "timestamp":"2024-05-17T14:46:05.843Z"},
+        "_version_":1801959861999632384,
+        "timestamp":"2024-06-15T20:20:39.584Z"},
       {
         "id":"arc_308_armbrusteraspace_287b46b1c866c316ec9da87a1f880db6",
         "ead_ssi":"arc_308_armbruster",
@@ -193,8 +195,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 20"],
         "heading_ssm":["Prints and medium format negatives"],
-        "_version_":1799311501546225664,
-        "timestamp":"2024-05-17T14:46:06.239Z"},
+        "_version_":1801959862133850112,
+        "timestamp":"2024-06-15T20:20:39.712Z"},
       {
         "id":"arc_308_armbrusteraspace_39df393f496d32ff82552822694b1dbe",
         "ead_ssi":"arc_308_armbruster",
@@ -212,8 +214,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 4"],
         "heading_ssm":["V1974.1.1242-1820"],
-        "_version_":1799311500837388288,
-        "timestamp":"2024-05-17T14:46:05.563Z"},
+        "_version_":1801959861746925568,
+        "timestamp":"2024-06-15T20:20:39.343Z"},
       {
         "id":"arc_308_armbrusteraspace_3c350c420c8bada9fa7d52fac69b5b10",
         "ead_ssi":"arc_308_armbruster",
@@ -231,8 +233,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 5"],
         "heading_ssm":["V1974.1.1821-2429"],
-        "_version_":1799311500853116928,
-        "timestamp":"2024-05-17T14:46:05.578Z"},
+        "_version_":1801959861762654208,
+        "timestamp":"2024-06-15T20:20:39.358Z"},
       {
         "id":"arc_308_armbrusteraspace_4d473ad96745113808c67fa3d7128edc",
         "ead_ssi":"arc_308_armbruster",
@@ -251,8 +253,8 @@
         "unitdate_start_ssm":["1900"],
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["Inclusive, circa early 20th century"],
-        "_version_":1799311500927565824,
-        "timestamp":"2024-05-17T14:46:05.649Z"},
+        "_version_":1801959861833957376,
+        "timestamp":"2024-06-15T20:20:39.426Z"},
       {
         "id":"arc_308_armbrusteraspace_51b6496390caf6225938837795a06872",
         "ead_ssi":"arc_308_armbruster",
@@ -271,8 +273,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 12"],
         "heading_ssm":["Views of Coney Island Vol. 1"],
-        "_version_":1799311501002014720,
-        "timestamp":"2024-05-17T14:46:05.72Z"},
+        "_version_":1801959861907357696,
+        "timestamp":"2024-06-15T20:20:39.496Z"},
       {
         "id":"arc_308_armbrusteraspace_552b2bcf8983aa244bff17180b80e556",
         "ead_ssi":"arc_308_armbruster",
@@ -290,8 +292,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 8"],
         "heading_ssm":["V1974.1.3786-4422"],
-        "_version_":1799311500905545728,
-        "timestamp":"2024-05-17T14:46:05.628Z"},
+        "_version_":1801959861818228736,
+        "timestamp":"2024-06-15T20:20:39.411Z"},
       {
         "id":"arc_308_armbrusteraspace_57fff27864500b1eb8954b0d703b2f7c",
         "ead_ssi":"arc_308_armbruster",
@@ -309,8 +311,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 6"],
         "heading_ssm":["V1974.1.2430-3066"],
-        "_version_":1799311500873039872,
-        "timestamp":"2024-05-17T14:46:05.597Z"},
+        "_version_":1801959861778382848,
+        "timestamp":"2024-06-15T20:20:39.373Z"},
       {
         "id":"arc_308_armbrusteraspace_68846548990266bf35abc0aebfbdc976",
         "ead_ssi":"arc_308_armbruster",
@@ -329,8 +331,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 12"],
         "heading_ssm":["Views of Coney Island Vol. 2"],
-        "_version_":1799311501026131968,
-        "timestamp":"2024-05-17T14:46:05.743Z"},
+        "_version_":1801959861927280640,
+        "timestamp":"2024-06-15T20:20:39.515Z"},
       {
         "id":"arc_308_armbrusteraspace_92dc404db43523784a942f625378d3dc",
         "ead_ssi":"arc_308_armbruster",
@@ -349,8 +351,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 11"],
         "heading_ssm":["Bushwick and Her Neighbors Vol. 3"],
-        "_version_":1799311500986286080,
-        "timestamp":"2024-05-17T14:46:05.705Z"},
+        "_version_":1801959861890580480,
+        "timestamp":"2024-06-15T20:20:39.48Z"},
       {
         "id":"arc_308_armbrusteraspace_948f948921c38e058c7fc75eef9005d1",
         "ead_ssi":"arc_308_armbruster",
@@ -369,8 +371,8 @@
         "unitdate_start_ssm":["1900"],
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["Inclusive, circa early 20th century"],
-        "_version_":1799311501518962688,
-        "timestamp":"2024-05-17T14:46:06.213Z"},
+        "_version_":1801959862113927168,
+        "timestamp":"2024-06-15T20:20:39.693Z"},
       {
         "id":"arc_308_armbrusteraspace_9932e5d72456b07a6a10202a22ac25b0",
         "ead_ssi":"arc_308_armbruster",
@@ -389,8 +391,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 14"],
         "heading_ssm":["Views of Kings County, L.I."],
-        "_version_":1799311501072269312,
-        "timestamp":"2024-05-17T14:46:05.787Z"},
+        "_version_":1801959861960835072,
+        "timestamp":"2024-06-15T20:20:39.547Z"},
       {
         "id":"arc_308_armbrusteraspace_b3384a48dc5f3860f3e168c6a1d744ac",
         "ead_ssi":"arc_308_armbruster",
@@ -409,8 +411,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 9"],
         "heading_ssm":["Bushwick and Her Neighbors Vol. 1"],
-        "_version_":1799311500945391616,
-        "timestamp":"2024-05-17T14:46:05.666Z"},
+        "_version_":1801959861854928896,
+        "timestamp":"2024-06-15T20:20:39.446Z"},
       {
         "id":"arc_308_armbrusteraspace_beae5a98553d56f33e066e2c623ae066",
         "ead_ssi":"arc_308_armbruster",
@@ -429,8 +431,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 18"],
         "heading_ssm":["Suffolk County, Part 2"],
-        "_version_":1799311501280935936,
-        "timestamp":"2024-05-17T14:46:05.986Z"},
+        "_version_":1801959862062546944,
+        "timestamp":"2024-06-15T20:20:39.644Z"},
       {
         "id":"arc_308_armbrusteraspace_d1e5c6771ca80def05de503ab91fadf4",
         "ead_ssi":"arc_308_armbruster",
@@ -449,8 +451,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 17"],
         "heading_ssm":["Suffolk County, Part 1"],
-        "_version_":1799311501197049856,
-        "timestamp":"2024-05-17T14:46:05.905Z"},
+        "_version_":1801959862045769728,
+        "timestamp":"2024-06-15T20:20:39.628Z"},
       {
         "id":"arc_308_armbrusteraspace_d6cf390c5689044d5e2ea9da18b6e495",
         "ead_ssi":"arc_308_armbruster",
@@ -468,8 +470,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 7"],
         "heading_ssm":["V1974.1.3067-3785"],
-        "_version_":1799311500890865664,
-        "timestamp":"2024-05-17T14:46:05.613Z"},
+        "_version_":1801959861796208640,
+        "timestamp":"2024-06-15T20:20:39.39Z"},
       {
         "id":"arc_308_armbrusteraspace_eb6079ec6f6941f3a3c11dfbab1629a7",
         "ead_ssi":"arc_308_armbruster",
@@ -487,8 +489,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["V1974.1.1-405"],
-        "_version_":1799311500780765184,
-        "timestamp":"2024-05-17T14:46:05.509Z"},
+        "_version_":1801959861695545344,
+        "timestamp":"2024-06-15T20:20:39.294Z"},
       {
         "id":"arc_308_armbrusteraspace_ecd02004127734d115312a13ab23739f",
         "ead_ssi":"arc_308_armbruster",
@@ -506,8 +508,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 3"],
         "heading_ssm":["V1974.1.777-1241"],
-        "_version_":1799311500820611072,
-        "timestamp":"2024-05-17T14:46:05.547Z"},
+        "_version_":1801959861731196928,
+        "timestamp":"2024-06-15T20:20:39.328Z"},
       {
         "id":"arc_308_armbrusteraspace_edd85c839b4240cfe815ea797b15efb0",
         "ead_ssi":"arc_308_armbruster",
@@ -525,8 +527,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["V1974.1.406-776"],
-        "_version_":1799311500796493824,
-        "timestamp":"2024-05-17T14:46:05.524Z"},
+        "_version_":1801959861715468288,
+        "timestamp":"2024-06-15T20:20:39.313Z"},
       {
         "id":"arc_308_armbrusteraspace_ef09f0ec1e378e02d266ca612301313d",
         "ead_ssi":"arc_308_armbruster",
@@ -545,8 +547,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 10"],
         "heading_ssm":["Bushwick and Her Neighbors Vol. 2"],
-        "_version_":1799311500967411712,
-        "timestamp":"2024-05-17T14:46:05.687Z"},
+        "_version_":1801959861873803264,
+        "timestamp":"2024-06-15T20:20:39.464Z"},
       {
         "id":"arc_308_armbrusteraspace_f006530ca457beecf0f67140ed7068fa",
         "ead_ssi":"arc_308_armbruster",
@@ -565,8 +567,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 15"],
         "heading_ssm":["Views of New York City, Brooklyn, and other places, Vol. 1"],
-        "_version_":1799311501103726592,
-        "timestamp":"2024-05-17T14:46:05.817Z"},
+        "_version_":1801959861979709440,
+        "timestamp":"2024-06-15T20:20:39.565Z"},
       {
         "id":"arc_308_armbrusteraspace_f1c851863b1882dd01da675ba90d85a8",
         "ead_ssi":"arc_308_armbruster",
@@ -585,8 +587,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 19"],
         "heading_ssm":["Views of Queens Co., L.I."],
-        "_version_":1799311501364822016,
-        "timestamp":"2024-05-17T14:46:06.066Z"},
+        "_version_":1801959862081421312,
+        "timestamp":"2024-06-15T20:20:39.662Z"},
       {
         "id":"arc_308_armbrusteraspace_fc81ddf18273647b5240b66ed9f5d3b5",
         "ead_ssi":"arc_308_armbruster",
@@ -605,8 +607,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 19"],
         "heading_ssm":["Views of Nassau County"],
-        "_version_":1799311501463388160,
-        "timestamp":"2024-05-17T14:46:06.16Z"}]
+        "_version_":1801959862098198528,
+        "timestamp":"2024-06-15T20:20:39.678Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -614,7 +616,8 @@
       "repository_sim":[
         "cbh",27],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Armbruster, Eugene L.",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",4,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Albert W. Ferris Papers"],
         "unitid_ssm":["MC.183"],
         "abstract_ssm":["Albert W. Ferris was the grandson of New York University(NYU) Chancellor Isaac Ferris and an 1878 NYU alumnus.  The younger Ferris became a respected physician and psychiatrist in New York, as well as president of the NYU Alumni Association.  His notebooks provide a glimpse into the academic and social life of students at the University of the City of New York, as NYU was called during his time as a student."],
+        "creator_ssm":["Ferris, Albert Warren",
+          "Ferris, Albert Warren"],
         "unitdate_normal_ssm":["1865/1889"],
         "corpname_ssm":["New York University Archives",
           "Delta Upsilon Fraternity",
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1865"],
         "unitdate_end_ssm":["1889"],
         "unitdate_ssm":["Inclusive, 1865-1889"],
-        "_version_":1799248980910014464,
-        "timestamp":"2024-05-16T22:12:21.914Z"},
+        "_version_":1801948865047298048,
+        "timestamp":"2024-06-15T17:25:52.073Z"},
       {
         "id":"mc_183aspace_ref10",
         "ead_ssi":"mc_183",
@@ -79,15 +81,14 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Commencement and Junior Exhibition Appointments in the University of N.Y. since 1865"],
         "unitdate_start_ssm":["1865"],
         "unitdate_end_ssm":["1889"],
         "unitdate_ssm":["Inclusive, 1865-1889"],
         "language_ssm":["English"],
-        "_version_":1799248980932034560,
-        "timestamp":"2024-05-16T22:12:21.935Z"},
+        "_version_":1801948865064075264,
+        "timestamp":"2024-06-15T17:25:52.089Z"},
       {
         "id":"mc_183aspace_ref11",
         "ead_ssi":"mc_183",
@@ -101,15 +102,14 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Physical Diagnosis"],
         "unitdate_start_ssm":["1865"],
         "unitdate_end_ssm":["1880"],
         "unitdate_ssm":["Inclusive, 1865-1880"],
         "language_ssm":["English"],
-        "_version_":1799248980948811776,
-        "timestamp":"2024-05-16T22:12:21.951Z"},
+        "_version_":1801948865081901056,
+        "timestamp":"2024-06-15T17:25:52.106Z"},
       {
         "id":"mc_183aspace_ref12",
         "ead_ssi":"mc_183",
@@ -123,15 +123,14 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Psi Upsilon brochure"],
         "unitdate_start_ssm":["1882"],
         "unitdate_end_ssm":["1882"],
         "unitdate_ssm":["circa 1882"],
         "language_ssm":["English"],
-        "_version_":1799248980967686144,
-        "timestamp":"2024-05-16T22:12:21.969Z"}]
+        "_version_":1801948865104969728,
+        "timestamp":"2024-06-15T17:25:52.128Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -139,7 +138,8 @@
       "repository_sim":[
         "archives",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ferris, Albert Warren",1],
       "date_range_sim":[
         "1801-1900",4],
       "subject_sim":[],

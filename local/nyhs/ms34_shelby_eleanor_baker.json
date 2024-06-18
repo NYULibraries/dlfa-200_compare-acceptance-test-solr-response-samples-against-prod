@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":17,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Shelby and Eleanor Baker papers"],
         "unitid_ssm":["MS 34"],
         "abstract_ssm":["Correspondence, certificates, photographs, diaries, and clippings relating to Shelby Baker and his daughter, Eleanor Baker. The Bakers hailed from South Livonia, New York. The papers include several documents pertaining to Shelby's service in the Civil War, as well as several letters to Eleanor from her husband, George Gletty."],
+        "creator_ssm":["Baker, Shelby, 1826-1900",
+          "Baker, Eleanor, active 1900-1914",
+          "Baker, Shelby, 1826-1900",
+          "Baker, Eleanor, active 1900-1914"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Certificates.",
           "Clippings (information artifacts)",
@@ -75,8 +79,8 @@
           "Photographs."],
         "heading_ssm":["Shelby and Eleanor Baker papers"],
         "unitdate_ssm":["Inclusive, 1862-1915"],
-        "_version_":1799323399020871680,
-        "timestamp":"2024-05-17T17:55:12.555Z"},
+        "_version_":1802086429981933568,
+        "timestamp":"2024-06-17T05:52:24.218Z"},
       {
         "id":"ms34_shelby_eleanor_bakeraspace_ref14_c2r",
         "ead_ssi":"ms34_shelby_eleanor_baker",
@@ -89,12 +93,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Shelby Baker-Civil War Documents"],
         "unitdate_ssm":["1862-1901, n.d."],
-        "_version_":1799323399036600320,
-        "timestamp":"2024-05-17T17:55:12.57Z"},
+        "_version_":1802086429997662208,
+        "timestamp":"2024-06-17T05:52:24.233Z"},
       {
         "id":"ms34_shelby_eleanor_bakeraspace_ref15_4gj",
         "ead_ssi":"ms34_shelby_eleanor_baker",
@@ -107,12 +110,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Correspondence and Notes"],
         "unitdate_ssm":["1903-1914, n.d."],
-        "_version_":1799323399049183232,
-        "timestamp":"2024-05-17T17:55:12.582Z"},
+        "_version_":1802086430012342272,
+        "timestamp":"2024-06-17T05:52:24.247Z"},
       {
         "id":"ms34_shelby_eleanor_bakeraspace_ref16_1xz",
         "ead_ssi":"ms34_shelby_eleanor_baker",
@@ -125,12 +127,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Travel Diary"],
         "unitdate_ssm":["1909"],
-        "_version_":1799323399062814720,
-        "timestamp":"2024-05-17T17:55:12.595Z"},
+        "_version_":1802086430034362368,
+        "timestamp":"2024-06-17T05:52:24.268Z"},
       {
         "id":"ms34_shelby_eleanor_bakeraspace_ref17_ii4",
         "ead_ssi":"ms34_shelby_eleanor_baker",
@@ -143,12 +144,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 1, Folder: 4"],
         "heading_ssm":["Photographs"],
         "unitdate_ssm":["n.d."],
-        "_version_":1799323399077494784,
-        "timestamp":"2024-05-17T17:55:12.609Z"}]
+        "_version_":1802086430053236736,
+        "timestamp":"2024-06-17T05:52:24.286Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -156,7 +156,9 @@
       "repository_sim":[
         "nyhs",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Baker, Eleanor, active 1900-1914",1,
+        "Baker, Shelby, 1826-1900",1],
       "date_range_sim":[
         "undated & other",5],
       "subject_sim":[

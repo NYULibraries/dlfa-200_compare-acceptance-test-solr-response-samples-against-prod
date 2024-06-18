@@ -46,6 +46,8 @@
         "author_ssm":["Gail Malmgreen"],
         "unittitle_ssm":["Hans Grolheim Photograph Albums on Austrian Volunteers in the Spanish Civil War"],
         "unitid_ssm":["ALBA.PHOTO.249"],
+        "creator_ssm":["Grolheim, Hans",
+          "Grolheim, Hans"],
         "unitdate_normal_ssm":["1986/1986"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Grolheim, Hans"],
@@ -59,8 +61,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["1986"],
-        "_version_":1799748439575101440,
-        "timestamp":"2024-05-22T10:31:02.815Z"},
+        "_version_":1802112451065413632,
+        "timestamp":"2024-06-17T12:45:59.857Z"},
       {
         "id":"alba_photo_249aspace_5525e187ba61d68fb4ad5698ec04b5e0",
         "ead_ssi":"alba_photo_249",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799748439589781504,
-        "timestamp":"2024-05-22T10:31:02.829Z"}]
+        "_version_":1802112451086385152,
+        "timestamp":"2024-06-17T12:45:59.877Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Grolheim, Hans",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["WiIliam Brandenberg receipts"],
         "unitid_ssm":["1977.473"],
         "abstract_ssm":["This collection contains carriage maker William Brandenberg's receipts for water bills and other city taxes dated circa 1875-1887."],
+        "creator_ssm":["Brandenberg, William",
+          "Brandenberg, William"],
         "unitdate_normal_ssm":["1875/1887"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Receipts (financial records)"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1887"],
         "unitdate_ssm":["Inclusive, 1875-1887"],
         "language_ssm":["English"],
-        "_version_":1799311706413858816,
-        "timestamp":"2024-05-17T14:49:21.616Z"}]
+        "_version_":1801961731110469632,
+        "timestamp":"2024-06-15T20:50:22.107Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brandenberg, William",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

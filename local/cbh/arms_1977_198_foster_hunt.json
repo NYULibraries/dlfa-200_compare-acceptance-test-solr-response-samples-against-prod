@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Benjamin H. Foster and Samuel Hunt family papers"],
         "unitid_ssm":["1977.198"],
         "abstract_ssm":["This collection contains two principal sets of documents, one centered on attorney Benjamin H. Foster (1808-circa 1880s) of Southampton, Long Island, N.Y., and the other on Foster's brother-in-law, Samuel Hunt (1810-1878) of Massachusetts. Many of the documents, such as bills of sale, receipts and indentures, pertain to Benjamin Foster and his family's involvement in the whaling and steam ship industry in the mid-1800s. Other documents relate to Foster's legal work for various estates, and some concern the building of a branch of the Long Island Rail Road from Riverhead to Sag Harbor. The Hunt material consists primarily of correspondence from Reverend Richard Hunt to his son, Samuel. Subjects of the Hunt correspondence include family matters, family deaths, fatherly advice, and religion, especially concerning the father's encouragement of his son toward a life and career rooted in spirituality. Correspondence from Samuel's ill brother describes an experience of searching for a cure through \"animal magnetism.\" The material also includes notes most likely taken by Samuel at a speech given by Carl Schurz at the Harvard College Alumni Dinner in 1877 concerning the federal government's policies toward the U.S. South."],
+        "creator_ssm":["Foster, Benjamin H.",
+          "Hunt, Richard",
+          "Hunt, Samuel",
+          "Foster, Benjamin H.",
+          "Hunt, Richard",
+          "Hunt, Samuel"],
         "unitdate_normal_ssm":["1774/1870",
           "1827/1870"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -91,8 +97,8 @@
           "1827"],
         "unitdate_end_ssm":["1870"],
         "unitdate_ssm":["Inclusive, 1774-1870 ; 1827-1870"],
-        "_version_":1799256188571877376,
-        "timestamp":"2024-05-17T00:06:55.676Z"}]
+        "_version_":1801960909545930752,
+        "timestamp":"2024-06-15T20:37:18.601Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -100,7 +106,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Foster, Benjamin H.",1,
+        "Hunt, Richard",1,
+        "Hunt, Samuel",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

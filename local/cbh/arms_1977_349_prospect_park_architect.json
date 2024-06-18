@@ -47,6 +47,8 @@
         "unittitle_ssm":["Prospect Park architectural drawings"],
         "unitid_ssm":["1977.349"],
         "abstract_ssm":["Eight Photostat copies of architectural and landscape drawings for the Prospect Park Pavilion and Boathouse in Brooklyn, N.Y.  The drawings were done by the architectural firm of Helmle, Huberty, and Hudswell, located at 44 Court Street."],
+        "creator_ssm":["Helmle, Huberty & Hudswell",
+          "Helmle, Huberty & Hudswell"],
         "unitdate_normal_ssm":["1905/1905"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Helmle, Huberty & Hudswell"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1905"],
         "unitdate_ssm":["Inclusive, 1905"],
         "language_ssm":["English"],
-        "_version_":1799256453656084480,
-        "timestamp":"2024-05-17T00:11:08.48Z"}]
+        "_version_":1801961395870236672,
+        "timestamp":"2024-06-15T20:45:02.396Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Helmle, Huberty & Hudswell",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

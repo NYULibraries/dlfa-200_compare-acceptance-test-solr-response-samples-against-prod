@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>Science &amp; Society</em> Editorial Files"],
         "unitid_ssm":["TAM.555"],
         "abstract_ssm":["Science & Society is a scholarly Marxist quarterly founded in 1936. The editorial staff's records are comprised of author files, administrative correspondence, and the minutes and correspondence of the editorial board."],
+        "creator_ssm":["Science & Society (New York, N.Y.)",
+          "Science & Society (New York, N.Y.)"],
         "unitdate_normal_ssm":["1960/2009",
           "1990/2009"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -73,8 +75,8 @@
           "1990"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, circa 1960-2009 ; 1990-2009"],
-        "_version_":1799791475114901504,
-        "timestamp":"2024-05-22T21:55:04.703Z"},
+        "_version_":1802183485575659520,
+        "timestamp":"2024-06-18T07:35:03.645Z"},
       {
         "id":"tam_555aspace_ref10",
         "ead_ssi":"tam_555",
@@ -93,8 +95,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1960s-2000s"],
-        "_version_":1799791475144261632,
-        "timestamp":"2024-05-22T21:55:04.732Z"},
+        "_version_":1802183485597679616,
+        "timestamp":"2024-06-18T07:35:03.666Z"},
       {
         "id":"tam_555aspace_ref12",
         "ead_ssi":"tam_555",
@@ -113,8 +115,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1980s-2000s"],
-        "_version_":1799791475167330304,
-        "timestamp":"2024-05-22T21:55:04.754Z"},
+        "_version_":1802183485615505408,
+        "timestamp":"2024-06-18T07:35:03.683Z"},
       {
         "id":"tam_555aspace_ref14",
         "ead_ssi":"tam_555",
@@ -133,8 +135,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1990s-2000s"],
-        "_version_":1799791475185156096,
-        "timestamp":"2024-05-22T21:55:04.771Z"},
+        "_version_":1802183485625991168,
+        "timestamp":"2024-06-18T07:35:03.693Z"},
       {
         "id":"tam_555aspace_ref17",
         "ead_ssi":"tam_555",
@@ -153,8 +155,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1990s-2000s"],
-        "_version_":1799791475198787584,
-        "timestamp":"2024-05-22T21:55:04.784Z"},
+        "_version_":1802183485637525504,
+        "timestamp":"2024-06-18T07:35:03.704Z"},
       {
         "id":"tam_555aspace_ref20",
         "ead_ssi":"tam_555",
@@ -173,8 +175,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1990s-2000s"],
-        "_version_":1799791475213467648,
-        "timestamp":"2024-05-22T21:55:04.798Z"},
+        "_version_":1802183485648011264,
+        "timestamp":"2024-06-18T07:35:03.714Z"},
       {
         "id":"tam_555aspace_ref29",
         "ead_ssi":"tam_555",
@@ -189,8 +191,8 @@
         "format_ssm":["Archival Object"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["May 1, 2011-ongoing"],
-        "_version_":1799791475225001984,
-        "timestamp":"2024-05-22T21:55:04.809Z"},
+        "_version_":1802183485656399872,
+        "timestamp":"2024-06-18T07:35:03.722Z"},
       {
         "id":"tam_555aspace_ref8",
         "ead_ssi":"tam_555",
@@ -209,8 +211,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1960s-2000s"],
-        "_version_":1799791475130630144,
-        "timestamp":"2024-05-22T21:55:04.719Z"}]
+        "_version_":1802183485587193856,
+        "timestamp":"2024-06-18T07:35:03.656Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -218,7 +220,8 @@
       "repository_sim":[
         "tamwag",8],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Science & Society (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",7,
         "2001-2100",7,

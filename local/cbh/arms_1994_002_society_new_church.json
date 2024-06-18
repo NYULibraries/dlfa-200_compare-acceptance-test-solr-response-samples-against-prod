@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Society of the New Church records"],
         "unitid_ssm":["1994.002"],
         "abstract_ssm":["This collection consists of records of the Brooklyn Society of the New Church for the period circa 1850 to 1960, including trustees minutes; neighborhood club records; visitors books; minutes of the executive committee; registers of marriages, baptisms, births, and funerals; Sunday school minutes; church committee minutes; scrapbooks; handwritten reminiscences; subscriptions to church expenses; church income reports; the Society's constitution; membership lists; and card files."],
+        "creator_ssm":["Brooklyn Society of the New Church",
+          "Brooklyn Society of the New Church"],
         "unitdate_normal_ssm":["1840/1970"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Society of the New Church",
@@ -97,8 +99,8 @@
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, circa 1850 to 1960"],
         "language_ssm":["English"],
-        "_version_":1799256214465413120,
-        "timestamp":"2024-05-17T00:07:20.37Z"}]
+        "_version_":1801963732448837632,
+        "timestamp":"2024-06-15T21:22:10.731Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -106,7 +108,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Society of the New Church",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

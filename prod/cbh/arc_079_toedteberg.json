@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Emma Toedteberg collection"],
         "unitid_ssm":["ARC.079"],
         "abstract_ssm":["The Emma Toedteberg collection spans 1839 to 1948 and includes material from Emma, her sister Louise Toedteberg, and her father Augustus Toedteberg. The collection provides documentation of both Emma Toedteberg's career with the Long Island Historical Society and Toedteberg family history. Materials in the collection include clippings, vital records, correspondence, printed ephemera, photographs, and scrapbooks."],
+        "creator_ssm":["Toedteberg family",
+          "Toedteberg, Louise",
+          "Toedteberg, Emma",
+          "Toedteberg family",
+          "Toedteberg, Louise",
+          "Toedteberg, Emma"],
         "unitdate_normal_ssm":["1849/1938"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Toedteberg family"],
@@ -80,8 +86,8 @@
         "unitdate_start_ssm":["1849"],
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, 1849-1938"],
-        "_version_":1775219562197811200,
-        "timestamp":"2023-08-25T16:35:02.45Z"},
+        "_version_":1800610516788314112,
+        "timestamp":"2024-05-31T22:53:23.712Z"},
       {
         "id":"arc_079_toedtebergaspace_ref10_ukq",
         "ead_ssi":"arc_079_toedteberg",
@@ -100,8 +106,8 @@
         "unitdate_start_ssm":["1886"],
         "unitdate_end_ssm":["1913"],
         "unitdate_ssm":["Inclusive, 1886-1913"],
-        "_version_":1775219562304765952,
-        "timestamp":"2023-08-25T16:35:02.552Z"},
+        "_version_":1800610516836548608,
+        "timestamp":"2024-05-31T22:53:23.758Z"},
       {
         "id":"arc_079_toedtebergaspace_ref15_mo3",
         "ead_ssi":"arc_079_toedteberg",
@@ -119,8 +125,8 @@
         "unitdate_start_ssm":["1875"],
         "unitdate_end_ssm":["1925"],
         "unitdate_ssm":["Inclusive, circa late 19th century-early 20th century"],
-        "_version_":1775219562342514688,
-        "timestamp":"2023-08-25T16:35:02.588Z"},
+        "_version_":1800610516862763008,
+        "timestamp":"2024-05-31T22:53:23.783Z"},
       {
         "id":"arc_079_toedtebergaspace_ref8_obl",
         "ead_ssi":"arc_079_toedteberg",
@@ -138,8 +144,8 @@
         "unitdate_start_ssm":["1906"],
         "unitdate_end_ssm":["1906"],
         "unitdate_ssm":["Inclusive, circa 1906"],
-        "_version_":1775219562231365632,
-        "timestamp":"2023-08-25T16:35:02.482Z"},
+        "_version_":1800610516804042752,
+        "timestamp":"2024-05-31T22:53:23.727Z"},
       {
         "id":"arc_079_toedtebergaspace_ref9_bfp",
         "ead_ssi":"arc_079_toedteberg",
@@ -157,8 +163,8 @@
         "unitdate_start_ssm":["1849"],
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, 1849-1938"],
-        "_version_":1775219562268065792,
-        "timestamp":"2023-08-25T16:35:02.517Z"}]
+        "_version_":1800610516819771392,
+        "timestamp":"2024-05-31T22:53:23.742Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -166,7 +172,10 @@
       "repository_sim":[
         "cbh",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Toedteberg family",1,
+        "Toedteberg, Emma",1,
+        "Toedteberg, Louise",1],
       "date_range_sim":[
         "1801-1900",4,
         "1901-2000",5],

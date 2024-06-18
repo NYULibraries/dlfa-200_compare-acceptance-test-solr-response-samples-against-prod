@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Sergius Ingerman Papers"],
         "unitid_ssm":["TAM.004"],
+        "creator_ssm":["Ingerman, Sergius, 1868-1943",
+          "Ingerman, Sergius, 1868-1943"],
         "unitdate_normal_ssm":["1892/1943"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Russian Immigrants Aid Committee",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["Inclusive, 1892-1943"],
         "language_ssm":["English"],
-        "_version_":1799776719920431104,
-        "timestamp":"2024-05-22T18:00:33.054Z"},
+        "_version_":1802167147213881344,
+        "timestamp":"2024-06-18T03:15:22.168Z"},
       {
         "id":"tam_004aspace_8090e461096e7b9880083dee2304c25d",
         "ead_ssi":"tam_004",
@@ -89,8 +91,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799776720000122880,
-        "timestamp":"2024-05-22T18:00:33.13Z"}]
+        "_version_":1802167147224367104,
+        "timestamp":"2024-06-18T03:15:22.178Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -98,7 +100,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ingerman, Sergius, 1868-1943",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

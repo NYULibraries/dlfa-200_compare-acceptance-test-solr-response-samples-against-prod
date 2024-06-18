@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Johann Cohen Papers"],
         "unitid_ssm":["ALBA.175"],
+        "creator_ssm":["Cohen, Johann",
+          "Cohen, Johann"],
         "unitdate_normal_ssm":["1945/1960"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Cohen, Johann"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1960"],
         "unitdate_ssm":["Inclusive, circa 1945-1960"],
         "language_ssm":["English"],
-        "_version_":1775226061177487360,
-        "timestamp":"2023-08-25T18:18:20.36Z"}]
+        "_version_":1801136805714591744,
+        "timestamp":"2024-06-06T18:18:31.944Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cohen, Johann",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

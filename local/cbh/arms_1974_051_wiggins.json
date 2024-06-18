@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Wiggins family land deeds"],
         "unitid_ssm":["1974.051"],
         "abstract_ssm":["This collection contains deeds relating to land held by various members of the Wiggins family, particularly brothers Josias and William Wiggins, in the town of Jamaica in Queens County, N.Y.  Deeds span the period 1700 to 1801."],
+        "creator_ssm":["Wiggins family",
+          "Wiggins, William",
+          "Wiggins, Josias",
+          "Wiggins family",
+          "Wiggins, William",
+          "Wiggins, Josias"],
         "unitdate_normal_ssm":["1700/1801"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Wiggins family",
@@ -69,8 +75,8 @@
         "unitdate_end_ssm":["1801"],
         "unitdate_ssm":["Inclusive, 1700-1801"],
         "language_ssm":["English"],
-        "_version_":1799311709046833152,
-        "timestamp":"2024-05-17T14:49:24.127Z"}]
+        "_version_":1801960296206565376,
+        "timestamp":"2024-06-15T20:27:33.676Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +84,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wiggins family",1,
+        "Wiggins, Josias",1,
+        "Wiggins, William",1],
       "date_range_sim":[
         "1601-1700",1,
         "1801-1900",1],

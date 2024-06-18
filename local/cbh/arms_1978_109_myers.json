@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jacob Myers scrapbook"],
         "unitid_ssm":["1978.109"],
         "abstract_ssm":["One bound scrapbook compiled by Jacob Myers and containing various news clippings and sample printing work of the Electric Printing Company, such as calling cards, advertisements, tickets, and invoice cards."],
+        "creator_ssm":["Myers, Jacob",
+          "Myers, Jacob"],
         "unitdate_normal_ssm":["1849/1886"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Clippings (information artifacts)",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1886"],
         "unitdate_ssm":["Inclusive, circa 1859 to 1876"],
         "language_ssm":["English"],
-        "_version_":1799256469422473216,
-        "timestamp":"2024-05-17T00:11:23.516Z"}]
+        "_version_":1801962459309801472,
+        "timestamp":"2024-06-15T21:01:56.572Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Myers, Jacob",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

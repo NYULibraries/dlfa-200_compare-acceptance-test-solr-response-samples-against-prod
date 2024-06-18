@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":23,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Van Siclen family papers"],
         "unitid_ssm":["ARC.110"],
         "abstract_ssm":["The Van Siclen family papers date from circa 1770 to 1988 and contain materials relating to family members residing in the New Lots district of Flatbush in Kings County, and family members residing in the town of Gravesend in Kings County (who often spelled their surname as Van Sicklen).   Items include land deeds and other legal documents, financial records, military commissions and discharges, certificates, wills, photographs, and genealogical notes."],
+        "creator_ssm":["Van Siclen family",
+          "Van Sicklen family",
+          "Van Siclen family",
+          "Van Sicklen family"],
         "unitdate_normal_ssm":["1760/1998"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Van Sicklen Cemetery (Gravesend, New York, N.Y.)",
@@ -132,8 +136,8 @@
         "unitdate_end_ssm":["1998"],
         "unitdate_ssm":["Inclusive, circa 1770 to 1988"],
         "language_ssm":["English"],
-        "_version_":1799312377406029824,
-        "timestamp":"2024-05-17T15:00:01.523Z"}]
+        "_version_":1801959049385738240,
+        "timestamp":"2024-06-15T20:07:44.615Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -141,7 +145,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Van Sicklen family",1,
+        "Van Siclen family",1],
       "date_range_sim":[
         "1701-1800",1,
         "1901-2000",1],

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Reformed Protestant Dutch Church, Classis of Long Island minute book"],
         "unitid_ssm":["1973.142"],
         "abstract_ssm":["This minute book contains an extract of minutes of a meeting of the Reformed Protestant Dutch Church, Classis of Long Island that took place in December 1821 in the town of Jamaica, Queens County."],
+        "creator_ssm":["Reformed Protestant Dutch Church (U.S.). Classis of Long Island",
+          "Reformed Protestant Dutch Church (U.S.). Classis of Long Island"],
         "unitdate_normal_ssm":["1821/1822"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Reformed Protestant Dutch Church (U.S.). Classis of Long Island",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1822"],
         "unitdate_ssm":["Inclusive, 1821-1822"],
         "language_ssm":["English"],
-        "_version_":1799312376733892608,
-        "timestamp":"2024-05-17T15:00:00.883Z"}]
+        "_version_":1801959996257206272,
+        "timestamp":"2024-06-15T20:22:47.622Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Reformed Protestant Dutch Church (U.S.). Classis of Long Island",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

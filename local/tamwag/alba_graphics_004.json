@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Meredith Sydnor (Syd) Graham Drawings"],
         "unitid_ssm":["ALBA.GRAPHICS.004"],
+        "creator_ssm":["Graham, Meredith Sydnor, 1912?-1937",
+          "Graham, Meredith Sydnor, 1912?-1937"],
         "unitdate_normal_ssm":["1937/1937"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Graham, Meredith Sydnor, 1912?-1937"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Circa 1937"],
         "language_ssm":["English"],
-        "_version_":1799748248405016576,
-        "timestamp":"2024-05-22T10:28:00.501Z"},
+        "_version_":1802111833853657088,
+        "timestamp":"2024-06-17T12:36:11.238Z"},
       {
         "id":"alba_graphics_004aspace_5ea879bdbcda3ead88038f30a457f886",
         "ead_ssi":"alba_graphics_004",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799748248417599488,
-        "timestamp":"2024-05-22T10:28:00.513Z"}]
+        "_version_":1802111833876725760,
+        "timestamp":"2024-06-17T12:36:11.26Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Graham, Meredith Sydnor, 1912?-1937",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

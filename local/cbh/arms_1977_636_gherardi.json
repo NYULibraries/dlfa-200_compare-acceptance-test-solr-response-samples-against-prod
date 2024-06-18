@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Bancroft Gherardi farewell address"],
         "unitid_ssm":["1977.636"],
         "abstract_ssm":["The 1894 farewell address of Bancroft Gherardi, Rear Admiral and Commandant of the Brooklyn Navy Yard, upon his retirement from the United States Navy."],
+        "creator_ssm":["Gherardi, Bancroft",
+          "Gherardi, Bancroft"],
         "unitdate_normal_ssm":["1894/1894"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Naval Shipyard",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1894"],
         "unitdate_ssm":["1894"],
         "language_ssm":["English"],
-        "_version_":1799311443367034880,
-        "timestamp":"2024-05-17T14:45:10.755Z"}]
+        "_version_":1801962112182910976,
+        "timestamp":"2024-06-15T20:56:25.526Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gherardi, Bancroft",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Clifton Amsbury Papers"],
         "unitid_ssm":["ALBA.260"],
+        "creator_ssm":["Amsbury, Clifton, 1910-2007",
+          "Amsbury, Clifton, 1910-2007"],
         "unitdate_normal_ssm":["1937/2007"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Abraham Lincoln Brigade Archives",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["2007"],
         "unitdate_ssm":["Inclusive, circa 1930s-2000s"],
         "language_ssm":["English"],
-        "_version_":1799748109783269376,
-        "timestamp":"2024-05-22T10:25:48.301Z"},
+        "_version_":1802111506684313600,
+        "timestamp":"2024-06-17T12:30:59.224Z"},
       {
         "id":"alba_260aspace_53a700e871245889773fc177924e3ac9",
         "ead_ssi":"alba_260",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799748109796900864,
-        "timestamp":"2024-05-22T10:25:48.314Z"}]
+        "_version_":1802111506709479424,
+        "timestamp":"2024-06-17T12:30:59.249Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Amsbury, Clifton, 1910-2007",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sons of the North Social Club records"],
         "unitid_ssm":["MS 3141"],
         "abstract_ssm":["Meeting minutes, financial accounts, and correspondence of the Sons of the North Social Club, a fraternal organization of Scandinavian-Americans in Albany, New York. For further details about this collection, and to request it for research, please read its catalog record, or write to manuscripts@nyhistory.org."],
+        "creator_ssm":["Sons of the North Social Club, Inc. (Albany, N.Y.)",
+          "Sons of the North Social Club, Inc. (Albany, N.Y.)"],
         "corpname_ssm":["New-York Historical Society",
           "Sons of the North Social Club, Inc. (Albany, N.Y.)"],
         "collection_ssm":["Sons of the North Social Club records"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Sons of the North Social Club records"],
         "unitdate_ssm":["Inclusive, 1935-1956"],
         "language_ssm":["English"],
-        "_version_":1799316235970674688,
-        "timestamp":"2024-05-17T16:01:21.338Z"}]
+        "_version_":1802085495778312192,
+        "timestamp":"2024-06-17T05:37:33.292Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sons of the North Social Club, Inc. (Albany, N.Y.)",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

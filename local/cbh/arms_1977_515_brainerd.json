@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Elizabeth Brainerd deed"],
         "unitid_ssm":["1977.515"],
         "abstract_ssm":["One 1869 quit claim deed between Elizabeth Brainerd and her daughter, Lucy E. (Brainerd) Barron, regarding the estate of Elizabeth Brainerd's father, Adrian Martense."],
+        "creator_ssm":["Barron, Lucy E.",
+          "Brainerd, Elizabeth",
+          "Barron, Lucy E.",
+          "Brainerd, Elizabeth"],
         "unitdate_normal_ssm":["1869/1869"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Land titles -- New York (State) -- Kings County"],
@@ -71,8 +75,8 @@
         "unitdate_end_ssm":["1869"],
         "unitdate_ssm":["1869"],
         "language_ssm":["English"],
-        "_version_":1799309976895750144,
-        "timestamp":"2024-05-17T14:21:52.219Z"}]
+        "_version_":1801961855573295104,
+        "timestamp":"2024-06-15T20:52:20.803Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +84,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Barron, Lucy E.",1,
+        "Brainerd, Elizabeth",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

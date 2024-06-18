@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lawrence Stelter Brooklyn photograph collection"],
         "unitid_ssm":["V1989.025"],
         "abstract_ssm":["The collection includes two photographs showing houses on Beverley Road in Brooklyn; a photograph showing two unidentified children standing outside of a large house; a photograph of a boy on roller skates holding a hockey stick and standing in front of a car on a sidewalk; a photograph of two unidentified adults standing on a residential sidewalk in front a parked car; and one 8\" x 10\" print of an unidentified woman sitting on a bench located along the boardwalk in front of the Brighton Hotel in Brighton Beach."],
+        "creator_ssm":["Stelter, Lawrence",
+          "Stelter, Lawrence"],
         "unitdate_normal_ssm":["1920/1940"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographs",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, circa 1930"],
         "language_ssm":["English"],
-        "_version_":1799311710356504576,
-        "timestamp":"2024-05-17T14:49:25.376Z"}]
+        "_version_":1802045291105353728,
+        "timestamp":"2024-06-16T18:58:31.128Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stelter, Lawrence",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

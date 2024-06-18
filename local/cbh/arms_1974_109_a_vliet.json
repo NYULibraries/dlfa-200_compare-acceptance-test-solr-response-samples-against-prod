@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Vliet Civil War correspondence"],
         "unitid_ssm":["1974.109a"],
         "abstract_ssm":["Correspondence written by John Vliet of Brooklyn while he served in the 84th New York Infantry Regiment (also known as the 14th Regiment of the New York State Militia, or the \"Fighting 14th\") during the American Civil War."],
+        "creator_ssm":["Vliet, John",
+          "Vliet, John"],
         "unitdate_normal_ssm":["1861/1864"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Army. New York Infantry Regiment, 84th (1861-1864)"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1864"],
         "unitdate_ssm":["Inclusive, 1861-1864"],
         "language_ssm":["English"],
-        "_version_":1799256489048670208,
-        "timestamp":"2024-05-17T00:11:42.233Z"}]
+        "_version_":1801960322597126144,
+        "timestamp":"2024-06-15T20:27:58.843Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Vliet, John",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

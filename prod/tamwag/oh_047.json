@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -60,8 +60,8 @@
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 2002-2004"],
         "language_ssm":["English"],
-        "_version_":1775222995038502913,
-        "timestamp":"2023-08-25T17:29:36.262Z"},
+        "_version_":1801167950749630464,
+        "timestamp":"2024-06-07T02:33:34.164Z"},
       {
         "id":"oh_047aspace_5a4f3580e7cf58a0fe712d83ab2647e7",
         "ead_ssi":"oh_047",
@@ -79,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment 101"],
         "heading_ssm":["Accevedo-Wilson, cassettes 1A-17"],
-        "_version_":1775222995152797696,
-        "timestamp":"2023-08-25T17:29:36.371Z"},
+        "_version_":1801167950788427776,
+        "timestamp":"2024-06-07T02:33:34.201Z"},
       {
         "id":"oh_047aspace_8f5733bc9e7d9b3715837662b6f88a5c",
         "ead_ssi":"oh_047",
@@ -94,8 +94,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["Preservation Masters"],
-        "_version_":1775222995115048960,
-        "timestamp":"2023-08-25T17:29:36.335Z"},
+        "_version_":1801167950774796288,
+        "timestamp":"2024-06-07T02:33:34.188Z"},
       {
         "id":"oh_047aspace_cb1756de2ab078c2304fdfc79fa4ff8d",
         "ead_ssi":"oh_047",
@@ -110,8 +110,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Transcripts"],
-        "_version_":1775222995077300224,
-        "timestamp":"2023-08-25T17:29:36.299Z"}]
+        "_version_":1801167950763261952,
+        "timestamp":"2024-06-07T02:33:34.177Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

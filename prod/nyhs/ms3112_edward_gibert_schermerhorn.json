@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edward Gibert Schermerhorn papers"],
         "unitid_ssm":["MS 3112"],
         "abstract_ssm":["The collection holds 4 scrapbooks compiled by E. Gibert Schermerhorn documenting family history, his service in the New York State National Guard's 7th Regiment (1885-1891), and his tenure as Military Secretary (1912-1913) to Governor William Sulzer. The collection also holds 7 books from 1785-1834."],
+        "creator_ssm":["Schermerhorn, E. Gibert (Edward Gibert), 1864-1949",
+          "Schermerhorn, E. Gibert (Edward Gibert), 1864-1949"],
         "corpname_ssm":["New-York Historical Society",
           "New York (State). National Guard. Regiment, 7th"],
         "famname_ssm":["Schermerhorn family"],
@@ -70,8 +72,8 @@
           "Scrapbooks."],
         "heading_ssm":["Edward Gibert Schermerhorn papers"],
         "unitdate_ssm":["Inclusive, 1785-1949 (bulk, 1885-1918)"],
-        "_version_":1775219168242565120,
-        "timestamp":"2023-08-25T16:28:46.745Z"},
+        "_version_":1801004079461171200,
+        "timestamp":"2024-06-05T07:08:54.325Z"},
       {
         "id":"ms3112_edward_gibert_schermerhornaspace_102fbd6809d09a9ad4316590078cf832",
         "ead_ssi":"ms3112_edward_gibert_schermerhorn",
@@ -87,8 +89,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Scrapbook. Family & genealogy"],
         "unitdate_ssm":["Inclusive, 1829-1949"],
-        "_version_":1775219168317014016,
-        "timestamp":"2023-08-25T16:28:46.816Z"},
+        "_version_":1801004079510454272,
+        "timestamp":"2024-06-05T07:08:54.372Z"},
       {
         "id":"ms3112_edward_gibert_schermerhornaspace_59d49d178a518155d26439e0a9c8ed2a",
         "ead_ssi":"ms3112_edward_gibert_schermerhorn",
@@ -104,8 +106,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Books (7 volumes)"],
         "unitdate_ssm":["Inclusive, 1785-1834"],
-        "_version_":1775219168394608640,
-        "timestamp":"2023-08-25T16:28:46.89Z"},
+        "_version_":1801004079557640192,
+        "timestamp":"2024-06-05T07:08:54.417Z"},
       {
         "id":"ms3112_edward_gibert_schermerhornaspace_8811ac2f2d8a378682f784f3773cc951",
         "ead_ssi":"ms3112_edward_gibert_schermerhorn",
@@ -121,8 +123,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Scrapbook. Military Secretary to Governor William Sulzer & subsequent events"],
         "unitdate_ssm":["Inclusive, 1912-1918"],
-        "_version_":1775219168355811328,
-        "timestamp":"2023-08-25T16:28:46.853Z"},
+        "_version_":1801004079539814400,
+        "timestamp":"2024-06-05T07:08:54.4Z"},
       {
         "id":"ms3112_edward_gibert_schermerhornaspace_d7a9b70a27034ef4895a47b643598587",
         "ead_ssi":"ms3112_edward_gibert_schermerhorn",
@@ -138,8 +140,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Scrapbooks. New York State National Guard, 7th Regiment (2 volumes)"],
         "unitdate_ssm":["Inclusive, 1885-circa 1890"],
-        "_version_":1775219168281362432,
-        "timestamp":"2023-08-25T16:28:46.782Z"}]
+        "_version_":1801004079489482752,
+        "timestamp":"2024-06-05T07:08:54.352Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -147,7 +149,8 @@
       "repository_sim":[
         "nyhs",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Schermerhorn, E. Gibert (Edward Gibert), 1864-1949",1],
       "date_range_sim":[
         "undated & other",5],
       "subject_sim":[

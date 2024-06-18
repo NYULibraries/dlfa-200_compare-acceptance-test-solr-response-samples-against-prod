@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William I. Chalmers manuscripts"],
         "unitid_ssm":["ARC.287"],
         "abstract_ssm":["The Reverend William I. Chalmers served as pastor of the Congregational church in Riverhead, New York, during the late 19th century. The collection includes two manuscripts written and presented by Chalmers in the 1890s concerning the history of Congregationalism in Suffolk County, N.Y."],
+        "creator_ssm":["Chalmers, William I.",
+          "Chalmers, William I."],
         "unitdate_normal_ssm":["1891/1893"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Lecture notes",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1891"],
         "unitdate_end_ssm":["1893"],
         "unitdate_ssm":["Inclusive, 1891, 1893"],
-        "_version_":1799312376782127104,
-        "timestamp":"2024-05-17T15:00:00.929Z"}]
+        "_version_":1801959765835776000,
+        "timestamp":"2024-06-15T20:19:07.875Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chalmers, William I.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

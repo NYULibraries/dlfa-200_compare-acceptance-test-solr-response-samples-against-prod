@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":10,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Horatio Gates papers"],
         "unitid_ssm":["MS 240"],
         "abstract_ssm":["The collection documents the military career of Horatio Gates (1728-1806). Gates served as a lieutenant in the British military (1749-1769) and as a general in the Continental Army during the American Revolution (1774-1783). The collection includes extensive correspondence with British and American military figures, merchants and politicians, including Benedict Arnold, John Burgoyne, Thomas Jefferson, George Washington and others. The collection also contains the Articles of Convention, which defined the terms of British surrender at the Battle of Saratoga in 1777."],
+        "creator_ssm":["Gates, Horatio, 1728-1806",
+          "Gates, Horatio, 1728-1806"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Account books.",
           "Cashbooks.",
@@ -94,8 +96,8 @@
         "heading_ssm":["Horatio Gates papers"],
         "unitdate_ssm":["Inclusive, 1726-1828 (bulk 1774-1780)"],
         "language_ssm":["English"],
-        "_version_":1775217161173729280,
-        "timestamp":"2023-08-25T15:56:52.644Z"},
+        "_version_":1800951850452647936,
+        "timestamp":"2024-06-04T17:18:44.86Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref10_k0h",
         "ead_ssi":"ms240_horatio_gates",
@@ -110,8 +112,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 1: Correspondence"],
         "unitdate_ssm":["1726-1828, n.d."],
-        "_version_":1775217161212526592,
-        "timestamp":"2023-08-25T15:56:52.692Z"},
+        "_version_":1800951850475716608,
+        "timestamp":"2024-06-04T17:18:44.883Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref11_nu1",
         "ead_ssi":"ms240_horatio_gates",
@@ -130,8 +132,8 @@
         "location_ssm":["reel: 1"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1726 September 13 - 1769 November 7"],
-        "_version_":1775217161250275328,
-        "timestamp":"2023-08-25T15:56:52.728Z"},
+        "_version_":1800951850522902528,
+        "timestamp":"2024-06-04T17:18:44.928Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref12_43e",
         "ead_ssi":"ms240_horatio_gates",
@@ -150,8 +152,8 @@
         "location_ssm":["reel: 2"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1769 November 12 - 1776 July 17"],
-        "_version_":1775217161286975488,
-        "timestamp":"2023-08-25T15:56:52.763Z"},
+        "_version_":1800951850543874048,
+        "timestamp":"2024-06-04T17:18:44.948Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref13_y4i",
         "ead_ssi":"ms240_horatio_gates",
@@ -170,8 +172,8 @@
         "location_ssm":["reel: 3"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1776 July 17 - 1776 October 16"],
-        "_version_":1775217161323675648,
-        "timestamp":"2023-08-25T15:56:52.798Z"},
+        "_version_":1800951850575331328,
+        "timestamp":"2024-06-04T17:18:44.977Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref14_p6w",
         "ead_ssi":"ms240_horatio_gates",
@@ -190,8 +192,8 @@
         "location_ssm":["reel: 4"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1776 October 17 - 1777 August"],
-        "_version_":1775217161364570112,
-        "timestamp":"2023-08-25T15:56:52.837Z"},
+        "_version_":1800951850610982912,
+        "timestamp":"2024-06-04T17:18:45.012Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref15_hjy",
         "ead_ssi":"ms240_horatio_gates",
@@ -210,8 +212,8 @@
         "location_ssm":["reel: 5"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1777 August - 1777 October 19"],
-        "_version_":1775217161403367424,
-        "timestamp":"2023-08-25T15:56:52.873Z"},
+        "_version_":1800951850631954432,
+        "timestamp":"2024-06-04T17:18:45.032Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref16_8hj",
         "ead_ssi":"ms240_horatio_gates",
@@ -230,8 +232,8 @@
         "location_ssm":["reel: 6"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1777 October 20 - 1778 March 26"],
-        "_version_":1775217161440067584,
-        "timestamp":"2023-08-25T15:56:52.909Z"},
+        "_version_":1800951850647683072,
+        "timestamp":"2024-06-04T17:18:45.047Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref17_8m8",
         "ead_ssi":"ms240_horatio_gates",
@@ -250,8 +252,8 @@
         "location_ssm":["reel: 7"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1778 March 28 - 1778 August 15"],
-        "_version_":1775217161493544960,
-        "timestamp":"2023-08-25T15:56:52.96Z"},
+        "_version_":1800951850673897472,
+        "timestamp":"2024-06-04T17:18:45.072Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref18_imr",
         "ead_ssi":"ms240_horatio_gates",
@@ -270,8 +272,8 @@
         "location_ssm":["reel: 8"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1778 August 16 - 1779 March 3"],
-        "_version_":1775217161531293696,
-        "timestamp":"2023-08-25T15:56:52.996Z"},
+        "_version_":1800951850691723264,
+        "timestamp":"2024-06-04T17:18:45.089Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref19_q0h",
         "ead_ssi":"ms240_horatio_gates",
@@ -290,8 +292,8 @@
         "location_ssm":["reel: 9"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1779 March 4 - 1779 July 10"],
-        "_version_":1775217161569042432,
-        "timestamp":"2023-08-25T15:56:53.032Z"},
+        "_version_":1800951850706403328,
+        "timestamp":"2024-06-04T17:18:45.103Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref20_5fi",
         "ead_ssi":"ms240_horatio_gates",
@@ -310,8 +312,8 @@
         "location_ssm":["reel: 10"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1779 July 10 - 1779 October 15"],
-        "_version_":1775217161608888320,
-        "timestamp":"2023-08-25T15:56:53.07Z"},
+        "_version_":1800951850722131968,
+        "timestamp":"2024-06-04T17:18:45.118Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref21_7pw",
         "ead_ssi":"ms240_horatio_gates",
@@ -330,8 +332,8 @@
         "location_ssm":["reel: 11"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1779 October 16 - 1780 August 20 "],
-        "_version_":1775217161647685632,
-        "timestamp":"2023-08-25T15:56:53.107Z"},
+        "_version_":1800951850737860608,
+        "timestamp":"2024-06-04T17:18:45.133Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref22_rke",
         "ead_ssi":"ms240_horatio_gates",
@@ -350,8 +352,8 @@
         "location_ssm":["reel: 12"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1780 August 21 - 1780 November 27"],
-        "_version_":1775217161685434368,
-        "timestamp":"2023-08-25T15:56:53.143Z"},
+        "_version_":1800951850755686400,
+        "timestamp":"2024-06-04T17:18:45.15Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref23_ycx",
         "ead_ssi":"ms240_horatio_gates",
@@ -370,8 +372,8 @@
         "location_ssm":["reel: 13"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1780 November 28 - 1784 May 6"],
-        "_version_":1775217161723183104,
-        "timestamp":"2023-08-25T15:56:53.179Z"},
+        "_version_":1800951850779803648,
+        "timestamp":"2024-06-04T17:18:45.172Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref24_gis",
         "ead_ssi":"ms240_horatio_gates",
@@ -390,8 +392,8 @@
         "location_ssm":["reel: 14"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1784 May 7 - 1788 July 28"],
-        "_version_":1775217161768271872,
-        "timestamp":"2023-08-25T15:56:53.221Z"},
+        "_version_":1800951850794483712,
+        "timestamp":"2024-06-04T17:18:45.187Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref25_7wq",
         "ead_ssi":"ms240_horatio_gates",
@@ -410,8 +412,8 @@
         "location_ssm":["reel: 15"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1788 August 5 - 1792 January 1"],
-        "_version_":1775217161807069184,
-        "timestamp":"2023-08-25T15:56:53.259Z"},
+        "_version_":1800951850808115200,
+        "timestamp":"2024-06-04T17:18:45.2Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref26_l7l",
         "ead_ssi":"ms240_horatio_gates",
@@ -430,8 +432,8 @@
         "location_ssm":["reel: 16"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1792 January 2 - 1798 February 21"],
-        "_version_":1775217161843769344,
-        "timestamp":"2023-08-25T15:56:53.294Z"},
+        "_version_":1800951850824892416,
+        "timestamp":"2024-06-04T17:18:45.216Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref27_t5o",
         "ead_ssi":"ms240_horatio_gates",
@@ -450,8 +452,8 @@
         "location_ssm":["reel: 17"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1798 February 22 - 1828, n.d."],
-        "_version_":1775217161882566656,
-        "timestamp":"2023-08-25T15:56:53.331Z"},
+        "_version_":1800951850841669632,
+        "timestamp":"2024-06-04T17:18:45.232Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref31_gg5",
         "ead_ssi":"ms240_horatio_gates",
@@ -466,8 +468,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 2: Orderly Books and Returns"],
         "unitdate_ssm":["1756-1783"],
-        "_version_":1775217161915072512,
-        "timestamp":"2023-08-25T15:56:53.362Z"},
+        "_version_":1800951850854252544,
+        "timestamp":"2024-06-04T17:18:45.244Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref32_xl4",
         "ead_ssi":"ms240_horatio_gates",
@@ -486,8 +488,8 @@
         "location_ssm":["reel: 18"],
         "heading_ssm":["Orderly Books"],
         "unitdate_ssm":["1758 August 18 - 1783 February 15"],
-        "_version_":1775217161953869824,
-        "timestamp":"2023-08-25T15:56:53.399Z"},
+        "_version_":1800951850869981184,
+        "timestamp":"2024-06-04T17:18:45.259Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref33_02x",
         "ead_ssi":"ms240_horatio_gates",
@@ -506,8 +508,8 @@
         "location_ssm":["reel: 18"],
         "heading_ssm":["Returns"],
         "unitdate_ssm":["1756 January 29 - 1778 November 20"],
-        "_version_":1775217161994764288,
-        "timestamp":"2023-08-25T15:56:53.438Z"},
+        "_version_":1800951850889904128,
+        "timestamp":"2024-06-04T17:18:45.278Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref34_415",
         "ead_ssi":"ms240_horatio_gates",
@@ -526,8 +528,8 @@
         "location_ssm":["reel: 19"],
         "heading_ssm":["Returns"],
         "unitdate_ssm":["1778 November 24 - 1783 February 25"],
-        "_version_":1775217162033561600,
-        "timestamp":"2023-08-25T15:56:53.474Z"},
+        "_version_":1800951850905632768,
+        "timestamp":"2024-06-04T17:18:45.293Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref35_0j6",
         "ead_ssi":"ms240_horatio_gates",
@@ -542,8 +544,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 3: Financial Papers"],
         "unitdate_ssm":["1747-1799, n.d."],
-        "_version_":1775217162067116032,
-        "timestamp":"2023-08-25T15:56:53.507Z"},
+        "_version_":1800951850919264256,
+        "timestamp":"2024-06-04T17:18:45.306Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref36_jgz",
         "ead_ssi":"ms240_horatio_gates",
@@ -562,8 +564,8 @@
         "location_ssm":["reel: 19"],
         "heading_ssm":["Financial Papers"],
         "unitdate_ssm":["1747 - 1768 December 29"],
-        "_version_":1775217162103816192,
-        "timestamp":"2023-08-25T15:56:53.542Z"},
+        "_version_":1800951850933944320,
+        "timestamp":"2024-06-04T17:18:45.32Z"},
       {
         "id":"ms240_horatio_gatesaspace_ref37_552",
         "ead_ssi":"ms240_horatio_gates",
@@ -582,8 +584,8 @@
         "location_ssm":["reel: 20"],
         "heading_ssm":["Financial Papers"],
         "unitdate_ssm":["1768 - 1799, n.d."],
-        "_version_":1775217162140516352,
-        "timestamp":"2023-08-25T15:56:53.577Z"}]
+        "_version_":1800951850947575808,
+        "timestamp":"2024-06-04T17:18:45.333Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -591,7 +593,8 @@
       "repository_sim":[
         "nyhs",26],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gates, Horatio, 1728-1806",1],
       "date_range_sim":[
         "undated & other",26],
       "subject_sim":[

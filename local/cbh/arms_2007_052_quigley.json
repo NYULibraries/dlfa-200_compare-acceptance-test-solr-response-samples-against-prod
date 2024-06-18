@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":19,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Quigley collection of Baseball memorabilia"],
         "unitid_ssm":["2007.052"],
         "abstract_ssm":["This collection contains 12 signed team baseballs, 1943-1955; 11 world series programs, 1951-1956 (one signed by the Dodgers); a 1955 revised Dodgers Yearbook; 2 copies of Sports Illustrated (1955); and a 1973 Mets Diamond Club admission card for Daniel Quigley.  Except for this last item, all other items were collected by Daniel Quigley while he was employed at Ebbets Field in the 1940s and 1950s."],
+        "creator_ssm":["Quigley, Daniel N.",
+          "Quigley, Daniel N."],
         "unitdate_normal_ssm":["1943/1973"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Dodgers (Baseball team)",
@@ -82,8 +84,8 @@
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1943-1973"],
         "language_ssm":["English"],
-        "_version_":1799311563941740544,
-        "timestamp":"2024-05-17T14:47:05.744Z"}]
+        "_version_":1801964017397268480,
+        "timestamp":"2024-06-15T21:26:42.48Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Quigley, Daniel N.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

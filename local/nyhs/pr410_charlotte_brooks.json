@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charlotte Brooks photographs of Boscobel"],
         "unitid_ssm":["PR 410"],
         "abstract_ssm":["89 black-and-white photographs taken by Charlotte Brooks of the Boscobel House in Garrison, N.Y., likely in or about 1977 after its interior restoration of that time. The photographs depict exterior and interior views. Exteriors include the house, outbuildings, grounds, and views overlooking the Hudson River. Interiors include views of rooms, furniture, and particular museum objects. Most of the photographs are 14\" x 11\", with some smaller. Many scenes have multiple copies. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Charlotte Brooks photographs of Boscobel."],
+        "creator_ssm":["Brooks, Charlotte, 1918-2014",
+          "Brooks, Charlotte, 1918-2014"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Brooks, Charlotte, 1918-2014"],
         "collection_ssm":["Charlotte Brooks photographs of Boscobel"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Charlotte Brooks photographs of Boscobel"],
         "unitdate_ssm":["Inclusive, 1977?"],
         "language_ssm":["English"],
-        "_version_":1799322269607002112,
-        "timestamp":"2024-05-17T17:37:15.461Z"}]
+        "_version_":1802094627772170240,
+        "timestamp":"2024-06-17T08:02:42.24Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooks, Charlotte, 1918-2014",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

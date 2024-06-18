@@ -47,6 +47,8 @@
         "unittitle_ssm":["ACT UP New York Archived Websites"],
         "unitid_ssm":["MSS.619"],
         "abstract_ssm":["ACT UP (AIDS Coalition to Unleash Power) was founded to address the medical establishment and government's unresponsiveness to the AIDS pandemic in March 1987. The organization is committed to direct action to end the AIDS crisis by bringing about legislation, medical research, treatment, and policies to bring an end to the disease. The websites contain news, a timeline and history of the organization; information on their weekly Monday meetings; information on actions and demonstrations dating back to 1999 to 2017; zines and other organizing documents; treatment information; and information on DIVA TV (Damned Interfering Video Activists) and YELL (Youth Education Life Line)."],
+        "creator_ssm":["ACT UP New York (Organization)",
+          "ACT UP New York (Organization)"],
         "unitdate_normal_ssm":["2008-12-07/2017-12-18"],
         "corpname_ssm":["Fales Library and Special Collections",
           "ACT UP New York (Organization)",
@@ -64,8 +66,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["ACT UP New York Archived Websites"],
         "unitdate_ssm":["Inclusive, December 2008-December 2017"],
-        "_version_":1799745479787937792,
-        "timestamp":"2024-05-22T09:44:00.141Z"},
+        "_version_":1802081737229991936,
+        "timestamp":"2024-06-17T04:37:48.861Z"},
       {
         "id":"mss_619aspace_0c30d0175a7fc5eaf1dce3c81367a735",
         "ead_ssi":"mss_619",
@@ -85,8 +87,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["Inclusive, December 2008-December 2017"],
-        "_version_":1799745479804715008,
-        "timestamp":"2024-05-22T09:44:00.158Z"}]
+        "_version_":1802081737245720576,
+        "timestamp":"2024-06-17T04:37:48.876Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +97,8 @@
         "fales",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "ACT UP New York (Organization)",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

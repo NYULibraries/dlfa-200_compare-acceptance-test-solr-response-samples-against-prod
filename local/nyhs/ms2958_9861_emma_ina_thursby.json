@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Emma Thursby and Ina Thursby letters and photographs"],
         "unitid_ssm":["AHMC - Thursby, Emma & Ina"],
         "abstract_ssm":["A small set of documents: An autograph letter signed by Emma C. Thursby to Frances Preston, dated November 6, 1925, from Gramercy Park, NY, in which Thursby references her illness and slow recovery [from a paralytic attack in 1924], with a brief postscript from her sister, Ina L. Thursby; a postcard from Ina to Frances (Mrs. Robert Preston) dated March 20, 1938, writing of her arrival at Merritt, Florida, where she intends to stay through June before leaving to spend the summer at Eltingville, Staten Island; a carte-de-visite taken by a photographer in Stockholm of, and possibly signed by, Emma C. Thursby (circa 1879?); a 7x10 inch photograph of Ina L. Thursby and inscribed by her (circa 1940?); and an envelope to Mr and Mrs Robert M. Preston postmarked 1958 that was used to hold the 1924 letter from Emma Thursby. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Emma Thursby and Ina Thursby letters and photographs"],
+        "creator_ssm":["Thursby, Emma Cecilia, 1845-1931",
+          "Thursby, Emma Cecilia, 1845-1931"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Thursby, Emma Cecilia, 1845-1931"],
         "collection_ssm":["Emma Thursby and Ina Thursby letters and photographs"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Emma Thursby and Ina Thursby letters and photographs"],
         "unitdate_ssm":["Inclusive, circa 1879?-1958"],
-        "_version_":1799323422251024384,
-        "timestamp":"2024-05-17T17:55:34.709Z"}]
+        "_version_":1802083860340539392,
+        "timestamp":"2024-06-17T05:11:33.617Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Thursby, Emma Cecilia, 1845-1931",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

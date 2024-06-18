@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Harry Gannes Manuscript <em>From the Cradle to the Factory</em>"],
         "unitid_ssm":["TAM.296"],
         "abstract_ssm":["Harry Gannes (1901-1941), at one time served (during the Popular Front era, circa 1935 - 1939) as the foreign editor of the Daily Worker, the newspaper of the Communist Party, USA. The collection consists of \"From the Cradle to the Factory,\" an unpublished typescript (circa 1930s), 43 pp., about child labor in the United States."],
+        "creator_ssm":["Gannes, Harry",
+          "Gannes, Harry"],
         "unitdate_normal_ssm":["1930/1949"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Manuscripts for publication."],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, circa 1930-1941"],
         "language_ssm":["English"],
-        "_version_":1799333397500264448,
-        "timestamp":"2024-05-17T20:34:07.848Z"}]
+        "_version_":1802171512946425856,
+        "timestamp":"2024-06-18T04:24:45.656Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gannes, Harry",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

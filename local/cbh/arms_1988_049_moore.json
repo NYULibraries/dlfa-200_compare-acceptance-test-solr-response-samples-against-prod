@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Moore family cemetery plot records"],
         "unitid_ssm":["1988.049"],
         "abstract_ssm":["This collection contains a Cypress Hills Cemetery Deed from 1854 for members of the Moore family, as well as accompanying documents relating to the plot, such as rules and regulations and receipts of donations to the Perpetual Care Fund."],
+        "creator_ssm":["Cypress Hills Cemetery (Brooklyn, New York, N.Y.)",
+          "Cypress Hills Cemetery (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1854/1983"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Cypress Hills Cemetery (Brooklyn, New York, N.Y.)",
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1854-1983"],
         "language_ssm":["English"],
-        "_version_":1799311485054222336,
-        "timestamp":"2024-05-17T14:45:50.511Z"}]
+        "_version_":1801963460892819456,
+        "timestamp":"2024-06-15T21:17:51.756Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cypress Hills Cemetery (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

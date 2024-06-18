@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Aaron S. Robbins estate bill"],
         "unitid_ssm":["1977.623"],
         "abstract_ssm":["This collection pertains to a Village of Brooklyn, N.Y. Municipal Court case involving Alexander William Marr and Elias Taylor against Joseph Sprague and Andrew Demarest, administrators of the estate of Aaron S. Robbins. It consists of a bill of debt incurred by Robbins at Marr and Taylor's tavern from August 1825 through July 1826."],
+        "creator_ssm":["Village of Brooklyn. Municipal Court",
+          "Village of Brooklyn. Municipal Court"],
         "unitdate_normal_ssm":["1827/1827"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Village of Brooklyn. Municipal Court"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1827"],
         "unitdate_ssm":["1827"],
         "language_ssm":["English"],
-        "_version_":1799256191075876864,
-        "timestamp":"2024-05-17T00:06:58.064Z"}]
+        "_version_":1801962096342073344,
+        "timestamp":"2024-06-15T20:56:10.419Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Village of Brooklyn. Municipal Court",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Marshall collection of McLoughlin Brothers / Robert A. Graef illustrated children's books"],
         "unitid_ssm":["2013.009"],
         "abstract_ssm":["Five children's books, illustrated by Robert A. Graef and published by McLoughlin Bros., Inc, 1940-1943. The books belonged to Ken Marshall, and each book has been inscribed and/or autographed by illustrator Robert A. Graef. Titles include The Six Happy Goats, Rip Van Winkle, and A Christmas Carol (three copies)."],
+        "creator_ssm":["McLoughlin Bros., inc",
+          "Graef, Robert A.",
+          "McLoughlin Bros., inc",
+          "Graef, Robert A."],
         "unitdate_normal_ssm":["1940/1943"],
         "corpname_ssm":["Brooklyn Historical Society",
           "McLoughlin Bros., inc",
@@ -69,8 +73,8 @@
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["Inclusive, 1940-1943"],
         "language_ssm":["English"],
-        "_version_":1799312398593556480,
-        "timestamp":"2024-05-17T15:00:21.73Z"}]
+        "_version_":1801964189172891648,
+        "timestamp":"2024-06-15T21:29:26.298Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +82,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Graef, Robert A.",1,
+        "McLoughlin Bros., inc",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

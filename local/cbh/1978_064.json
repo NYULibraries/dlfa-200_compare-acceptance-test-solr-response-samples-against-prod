@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Van Wyck family papers"],
         "unitid_ssm":["1978.064"],
         "abstract_ssm":["The Van Wyck family papers contain four wills and one estate inventory, primarily related to Huntington, Long Island."],
+        "creator_ssm":["Van Wyck, Abraham",
+          "Van Wyck, Elizabeth",
+          "Van Wyck, Richard",
+          "Van Wyck, Theodoris",
+          "Van Wyck family",
+          "Van Wyck family",
+          "Van Wyck, Abraham",
+          "Van Wyck, Elizabeth",
+          "Van Wyck, Richard",
+          "Van Wyck, Theodoris"],
         "unitdate_normal_ssm":["1809/1844"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Van Wyck family"],
@@ -79,8 +89,8 @@
         "unitdate_end_ssm":["1844"],
         "unitdate_ssm":["Inclusive, 1809-1844"],
         "language_ssm":["English"],
-        "_version_":1799311561636970496,
-        "timestamp":"2024-05-17T14:47:03.546Z"}]
+        "_version_":1801957966374502400,
+        "timestamp":"2024-06-15T19:50:31.774Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +98,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Van Wyck family",1,
+        "Van Wyck, Abraham",1,
+        "Van Wyck, Elizabeth",1,
+        "Van Wyck, Richard",1,
+        "Van Wyck, Theodoris",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

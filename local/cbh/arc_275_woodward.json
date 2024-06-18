@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["John B. Woodward papers"],
         "unitid_ssm":["ARC.275"],
         "abstract_ssm":["This collection consists of correspondence, ephemera, scrapbooks, cartes-de-visite, cabinet cards, and other materials relating to John Blackburne Woodward (1835-1896).  A lifelong Brooklyn resident, Woodward was a notable businessman, military officer, and philanthropist.  He ran a successful trading business, completed his military career as Adjutant General, and served on the boards of many prominent organizations.  The revitalization of both the Brooklyn Institute of Arts and Sciences and Prospect Park have been attributed to Woodward's dedicated work.  In 1885, Woodward made an unsuccessful bid for Mayor of Brooklyn. The collection includes material on several organizations that Woodward was engaged in, particularly from the 1860s through the 1890s. These included Johnstown flood relief, the Society of the Army of the Potomac, J. S. T. Stranahan Statue Fund, the 13th Regiment of the National Guard of the State of New York (during the Civil War years), and the Brooklyn Institute. Political campaign ephemera of the 1880s is in the collection. The photographs in the collection are principally of the regimental military officers Woodward served with."],
+        "creator_ssm":["Woodward, John B. (John Blackburne)",
+          "Woodward family",
+          "Woodward family",
+          "Woodward, John B. (John Blackburne)"],
         "unitdate_normal_ssm":["1820/1924"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Club (New York, N.Y.)",
@@ -95,8 +99,8 @@
         "unitdate_end_ssm":["1924"],
         "unitdate_ssm":["Inclusive, 1820-1924"],
         "language_ssm":["English"],
-        "_version_":1799256202138353664,
-        "timestamp":"2024-05-17T00:07:08.614Z"},
+        "_version_":1801959713271709696,
+        "timestamp":"2024-06-15T20:18:17.745Z"},
       {
         "id":"arc_275_woodwardaspace_ref10_x1b",
         "ead_ssi":"arc_275_woodward",
@@ -114,8 +118,8 @@
         "unitdate_start_ssm":["1820"],
         "unitdate_end_ssm":["1924"],
         "unitdate_ssm":["Inclusive, 1820-1924"],
-        "_version_":1799256202158276608,
-        "timestamp":"2024-05-17T00:07:08.633Z"},
+        "_version_":1801959713298972672,
+        "timestamp":"2024-06-15T20:18:17.772Z"},
       {
         "id":"arc_275_woodwardaspace_ref12_afq",
         "ead_ssi":"arc_275_woodward",
@@ -133,8 +137,8 @@
         "unitdate_start_ssm":["1825"],
         "unitdate_end_ssm":["1924"],
         "unitdate_ssm":["Inclusive, 1825-1924"],
-        "_version_":1799256202175053824,
-        "timestamp":"2024-05-17T00:07:08.649Z"},
+        "_version_":1801959713329381376,
+        "timestamp":"2024-06-15T20:18:17.801Z"},
       {
         "id":"arc_275_woodwardaspace_ref15_9v4",
         "ead_ssi":"arc_275_woodward",
@@ -152,8 +156,8 @@
         "unitdate_start_ssm":["1860"],
         "unitdate_end_ssm":["1869"],
         "unitdate_ssm":["Inclusive, circa 1860-1865"],
-        "_version_":1799256202188685312,
-        "timestamp":"2024-05-17T00:07:08.661Z"}]
+        "_version_":1801959713347207168,
+        "timestamp":"2024-06-15T20:18:17.818Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -161,7 +165,9 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Woodward family",1,
+        "Woodward, John B. (John Blackburne)",1],
       "date_range_sim":[
         "1801-1900",4,
         "1901-2000",3],

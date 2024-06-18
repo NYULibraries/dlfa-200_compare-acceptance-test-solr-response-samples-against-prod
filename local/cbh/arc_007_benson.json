@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Robert Benson deeds"],
         "unitid_ssm":["ARC.007"],
         "abstract_ssm":["This collection consists of four deeds recording Robert Benson's land transactions in what is now the Brooklyn Heights neighborhood of Brooklyn, 1795-1804. The collection includes a 1795 deed, George Powers to James Arden; 1801 deed, John H. and Brockholst Livingston to Robert Benson for land on Joralemon Street; 1802 deed, James Arden to Robert Benson; and 1804 deed, Robert Benson to Hezekiah B. Pierpont (Pierrepont). The 1801 deed was transcribed by Washington Irving."],
+        "creator_ssm":["Arden, James",
+          "Benson, Robert",
+          "Arden, James",
+          "Benson, Robert"],
         "unitdate_normal_ssm":["1795/1804"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Brooklyn (New York, N.Y.)",
@@ -68,8 +72,8 @@
         "unitdate_end_ssm":["1804"],
         "unitdate_ssm":["Inclusive, 1795-1804"],
         "language_ssm":["English"],
-        "_version_":1799256201437904896,
-        "timestamp":"2024-05-17T00:07:07.946Z"}]
+        "_version_":1801958631033274368,
+        "timestamp":"2024-06-15T20:01:05.643Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +81,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Arden, James",1,
+        "Benson, Robert",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Education Committee for Non-English Speaking Women photographs"],
         "unitid_ssm":["PR 391"],
         "abstract_ssm":["Photographs documenting the work of the Education Committee for Non-English Speaking Women (renamed the Neighborhood Teachers' Association in 1927), a program that offered language and citizenship classes to foreign-born New Yorkers in areas underserved by the Board of Education. For fuller details about this item, and to request it for research, please read its catalog record, or write to printroom@nyhistory.org."],
+        "creator_ssm":["Education Committee for Non-English Speaking Women",
+          "Education Committee for Non-English Speaking Women"],
         "corpname_ssm":["New-York Historical Society",
           "Education Committee for Non-English Speaking Women"],
         "genreform_ssm":["Photographs."],
@@ -66,8 +68,8 @@
         "heading_ssm":["Education Committee for Non-English Speaking Women photographs"],
         "unitdate_ssm":["Inclusive, 1923-circa 1927, 1930"],
         "language_ssm":["English"],
-        "_version_":1799323773252403200,
-        "timestamp":"2024-05-17T18:01:09.45Z"},
+        "_version_":1802094534803324928,
+        "timestamp":"2024-06-17T08:01:13.578Z"},
       {
         "id":"pr391_educationaspace_3be94d05d920b64378d656ed414fbc52",
         "ead_ssi":"pr391_education",
@@ -83,8 +85,8 @@
         "location_ssm":["Box: SC-1"],
         "heading_ssm":["Education Committee for Non-English Speaking Women photographs and mailing envelope"],
         "unitdate_ssm":["Inclusive, 1923-circa 1927, 1930"],
-        "_version_":1799323773288054784,
-        "timestamp":"2024-05-17T18:01:09.484Z"}]
+        "_version_":1802094534824296448,
+        "timestamp":"2024-06-17T08:01:13.597Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +94,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Education Committee for Non-English Speaking Women",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Emily Hernandez Calamari collection"],
         "unitid_ssm":["1994.011"],
         "abstract_ssm":["This collection consists of material belonging to Emily Hernandez Calamari, many of which pertain to the Brooklyn neighborhood of Bay Ridge but also to Brooklyn in general. Materials include correspondence and family documents, portraits and photographs of the Hernandez family and the Bay Ridge neighborhood, correspondence and legal documents regarding burial plots in Green-Wood Cemetery and Long Island National Cemetery, documents relating to J.A. Calamari's military service, baptism certificates, membership certificates, and ephemera such as menus and newsletters."],
+        "creator_ssm":["Calamari, Emily Hernandez",
+          "Calamari, Emily Hernandez"],
         "unitdate_normal_ssm":["1524/1989"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island National Cemetery",
@@ -93,8 +95,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1524-1989"],
         "language_ssm":["English"],
-        "_version_":1799311497636085760,
-        "timestamp":"2024-05-17T14:46:02.51Z"}]
+        "_version_":1801963761093836800,
+        "timestamp":"2024-06-15T21:22:38.05Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -102,7 +104,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Calamari, Emily Hernandez",1],
       "date_range_sim":[
         "1501-1600",1,
         "1901-2000",1],

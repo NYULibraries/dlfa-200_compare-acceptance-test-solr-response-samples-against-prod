@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["New England Society in the City of Brooklyn records"],
         "unitid_ssm":["ARC.074"],
         "abstract_ssm":["The New England Society in the City of Brooklyn was a social, historical, and charitable organization incorporated in 1880 in response to the growing number of New Englanders residing in Brooklyn.  The Society's records consist of correspondence, membership lists and files, ephemera, financial records, and reports and minutes spanning the period 1880 to 1981, with the bulk of the items dating from 1880 to 1916.  The collection touches upon all functions of the Society, including its administrative and financial operations, membership, annual social events, and charitable activities."],
+        "creator_ssm":["Brooklyn Society of New England Women",
+          "New England Society in the City of New York",
+          "New England Society in the City of Brooklyn",
+          "Brooklyn Society of New England Women",
+          "New England Society in the City of New York",
+          "New England Society in the City of Brooklyn"],
         "unitdate_normal_ssm":["1880/1981",
           "1880/1916"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -117,8 +123,8 @@
           "1916"],
         "unitdate_ssm":["Inclusive, 1880-1981 ; 1880-1916"],
         "language_ssm":["English"],
-        "_version_":1799312232771747840,
-        "timestamp":"2024-05-17T14:57:43.59Z"},
+        "_version_":1801958894932590592,
+        "timestamp":"2024-06-15T20:05:17.316Z"},
       {
         "id":"arc_074_new_england_societyaspace_ref13_din",
         "ead_ssi":"arc_074_new_england_society",
@@ -133,8 +139,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 1: Correspondence"],
         "unitdate_ssm":["1880-1899, 1908-1912"],
-        "_version_":1799312232786427904,
-        "timestamp":"2024-05-17T14:57:43.604Z"},
+        "_version_":1801958894952513536,
+        "timestamp":"2024-06-15T20:05:17.335Z"},
       {
         "id":"arc_074_new_england_societyaspace_ref15_132",
         "ead_ssi":"arc_074_new_england_society",
@@ -149,8 +155,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 2: Membership"],
         "unitdate_ssm":["1880-1896, 1911-1914, 1905-1939"],
-        "_version_":1799312232800059392,
-        "timestamp":"2024-05-17T14:57:43.617Z"},
+        "_version_":1801958894976630784,
+        "timestamp":"2024-06-15T20:05:17.359Z"},
       {
         "id":"arc_074_new_england_societyaspace_ref17_mmn",
         "ead_ssi":"arc_074_new_england_society",
@@ -165,8 +171,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 3: Event material and ephemera"],
         "unitdate_ssm":["1882-1896, 1908-1916, 1930, 1945, 1978"],
-        "_version_":1799312232816836608,
-        "timestamp":"2024-05-17T14:57:43.633Z"},
+        "_version_":1801958894994456576,
+        "timestamp":"2024-06-15T20:05:17.376Z"},
       {
         "id":"arc_074_new_england_societyaspace_ref18_cnn",
         "ead_ssi":"arc_074_new_england_society",
@@ -181,8 +187,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 4: Financial records"],
         "unitdate_ssm":["1880-1909, 1913-1925, 1945-1981"],
-        "_version_":1799312232830468096,
-        "timestamp":"2024-05-17T14:57:43.646Z"},
+        "_version_":1801958895012282368,
+        "timestamp":"2024-06-15T20:05:17.393Z"},
       {
         "id":"arc_074_new_england_societyaspace_ref19_97s",
         "ead_ssi":"arc_074_new_england_society",
@@ -200,8 +206,8 @@
         "unitdate_start_ssm":["1880"],
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, 1880-1967"],
-        "_version_":1799312232844099584,
-        "timestamp":"2024-05-17T14:57:43.659Z"},
+        "_version_":1801958895028011008,
+        "timestamp":"2024-06-15T20:05:17.408Z"},
       {
         "id":"arc_074_new_england_societyaspace_ref28_1g8",
         "ead_ssi":"arc_074_new_england_society",
@@ -216,8 +222,8 @@
         "format_ssm":["Archival Object"],
         "heading_ssm":["Series 6: Brooklyn Society of New England Women scrapbooks"],
         "unitdate_ssm":["circa 1905-1960"],
-        "_version_":1799312232856682496,
-        "timestamp":"2024-05-17T14:57:43.671Z"}]
+        "_version_":1801958895046885376,
+        "timestamp":"2024-06-15T20:05:17.426Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -225,7 +231,10 @@
       "repository_sim":[
         "cbh",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Society of New England Women",1,
+        "New England Society in the City of Brooklyn",1,
+        "New England Society in the City of New York",1],
       "date_range_sim":[
         "1801-1900",2,
         "1901-2000",2,

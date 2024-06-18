@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Dale E. Jenkins collection of Manhattan restaurant postcards"],
         "unitid_ssm":["PR 337"],
         "abstract_ssm":["Postcards depicting Manhattan restaurants dating from the first half of the 20th century."],
+        "creator_ssm":["Jenkins, Dale E.",
+          "Jenkins, Dale E."],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Postcards."],
         "persname_ssm":["Jenkins, Dale E."],
@@ -61,8 +63,8 @@
         "heading_ssm":["Dale E. Jenkins collection of Manhattan restaurant postcards"],
         "unitdate_ssm":["Inclusive, circa 1901–1950s"],
         "language_ssm":["English"],
-        "_version_":1799316195601547264,
-        "timestamp":"2024-05-17T16:00:42.839Z"},
+        "_version_":1802094237274079232,
+        "timestamp":"2024-06-17T07:56:29.832Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref10_rw2",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 3"],
         "heading_ssm":["\n      Restaurants: E-F\n    "],
-        "_version_":1799316195790290944,
-        "timestamp":"2024-05-17T16:00:43.019Z"},
+        "_version_":1802094237321265152,
+        "timestamp":"2024-06-17T07:56:29.877Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref11_j7y",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -93,8 +95,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 4"],
         "heading_ssm":["\n      Restaurants: G-H\n    "],
-        "_version_":1799316195841671168,
-        "timestamp":"2024-05-17T16:00:43.068Z"},
+        "_version_":1802094237347479552,
+        "timestamp":"2024-06-17T07:56:29.902Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref12_hqr",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -109,8 +111,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 5"],
         "heading_ssm":["\n      Restaurants: I-J\n    "],
-        "_version_":1799316195885711360,
-        "timestamp":"2024-05-17T16:00:43.11Z"},
+        "_version_":1802094237365305344,
+        "timestamp":"2024-06-17T07:56:29.919Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref13_tx0",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -125,8 +127,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 6"],
         "heading_ssm":["\n      Restaurants: K-L\n    "],
-        "_version_":1799316195945480192,
-        "timestamp":"2024-05-17T16:00:43.167Z"},
+        "_version_":1802094237381033984,
+        "timestamp":"2024-06-17T07:56:29.934Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref14_n9b",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -141,8 +143,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 7"],
         "heading_ssm":["\n      Restaurants: M\n    "],
-        "_version_":1799316196009443328,
-        "timestamp":"2024-05-17T16:00:43.228Z"},
+        "_version_":1802094237396762624,
+        "timestamp":"2024-06-17T07:56:29.949Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref15_9gf",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -157,8 +159,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 8"],
         "heading_ssm":["\n      Restaurants: P\n    "],
-        "_version_":1799316196067115008,
-        "timestamp":"2024-05-17T16:00:43.283Z"},
+        "_version_":1802094237410394112,
+        "timestamp":"2024-06-17T07:56:29.962Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref16_g3d",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -173,8 +175,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 9"],
         "heading_ssm":["\n      Restaurants: R\n    "],
-        "_version_":1799316196116398080,
-        "timestamp":"2024-05-17T16:00:43.33Z"},
+        "_version_":1802094237426122752,
+        "timestamp":"2024-06-17T07:56:29.977Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref17_79s",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -189,8 +191,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 10"],
         "heading_ssm":["\n      Restaurants: S-T\n    "],
-        "_version_":1799316196156243968,
-        "timestamp":"2024-05-17T16:00:43.368Z"},
+        "_version_":1802094237441851392,
+        "timestamp":"2024-06-17T07:56:29.992Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref18_5oi",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -205,8 +207,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 11"],
         "heading_ssm":["\n      Restaurants: V\n    "],
-        "_version_":1799316196207624192,
-        "timestamp":"2024-05-17T16:00:43.417Z"},
+        "_version_":1802094237458628608,
+        "timestamp":"2024-06-17T07:56:30.008Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref19_gco",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -221,8 +223,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 12"],
         "heading_ssm":["\n      Restaurants: W-X\n    "],
-        "_version_":1799316196257955840,
-        "timestamp":"2024-05-17T16:00:43.465Z"},
+        "_version_":1802094237475405824,
+        "timestamp":"2024-06-17T07:56:30.024Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref20_gwi",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -237,8 +239,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 13"],
         "heading_ssm":["\n      Restaurants: Y-Z\n    "],
-        "_version_":1799316196300947456,
-        "timestamp":"2024-05-17T16:00:43.506Z"},
+        "_version_":1802094237495328768,
+        "timestamp":"2024-06-17T07:56:30.043Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref21_wkc",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -253,8 +255,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 14"],
         "heading_ssm":["\n      Restaurants: numbered\n    "],
-        "_version_":1799316196347084800,
-        "timestamp":"2024-05-17T16:00:43.55Z"},
+        "_version_":1802094237516300288,
+        "timestamp":"2024-06-17T07:56:30.062Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref22_boo",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -269,8 +271,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 15"],
         "heading_ssm":["\n      [empty envelopes]\n    "],
-        "_version_":1799316196399513600,
-        "timestamp":"2024-05-17T16:00:43.6Z"},
+        "_version_":1802094237532028928,
+        "timestamp":"2024-06-17T07:56:30.078Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref8_0mr",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -285,8 +287,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 1"],
         "heading_ssm":["\n      Restaurants: B\n    "],
-        "_version_":1799316195688579072,
-        "timestamp":"2024-05-17T16:00:42.922Z"},
+        "_version_":1802094237290856448,
+        "timestamp":"2024-06-17T07:56:29.848Z"},
       {
         "id":"pr337_dale_jenkins_postcardsaspace_ref9_vqn",
         "ead_ssi":"pr337_dale_jenkins_postcards",
@@ -301,8 +303,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Folder: 2"],
         "heading_ssm":["\n      Restaurants: C-D\n    "],
-        "_version_":1799316195744153600,
-        "timestamp":"2024-05-17T16:00:42.974Z"}]
+        "_version_":1802094237305536512,
+        "timestamp":"2024-06-17T07:56:29.862Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -310,7 +312,8 @@
       "repository_sim":[
         "nyhs",16],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Jenkins, Dale E.",1],
       "date_range_sim":[
         "undated & other",16],
       "subject_sim":[

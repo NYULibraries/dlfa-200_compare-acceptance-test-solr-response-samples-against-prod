@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York and Brooklyn Association of Congregational Churches records"],
         "unitid_ssm":["1977.082"],
         "abstract_ssm":["One volume (1847 to 1896) containing minutes for the Association's annual and special meetings, as well as its constitution."],
+        "creator_ssm":["New York and Brooklyn Association of Congregational Churches",
+          "New York and Brooklyn Association of Congregational Churches"],
         "unitdate_normal_ssm":["1847/1896"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York and Brooklyn Association of Congregational Churches",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1896"],
         "unitdate_ssm":["Inclusive, 1847-1896"],
         "language_ssm":["English"],
-        "_version_":1799309977277431808,
-        "timestamp":"2024-05-17T14:21:52.583Z"}]
+        "_version_":1801960663326654464,
+        "timestamp":"2024-06-15T20:33:23.789Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York and Brooklyn Association of Congregational Churches",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

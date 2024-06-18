@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Flatlands, N.Y., Overseers of the Poor account book"],
         "unitid_ssm":["2005.001"],
         "abstract_ssm":["The account book includes the record of financial transactions conducted by the Overseers of the Poor of Flatlands, Kings County, N.Y., from December 1807 until the Overseer position was abolished in April 1831. The journal includes both receipts and expenditures, which typically include reference to the recipient's name and the amount of cash or goods provided by the Overseers."],
+        "creator_ssm":["Flatlands (New York, N.Y.). Overseers of the Poor",
+          "Baxter, Garret S.",
+          "Wyckoff family",
+          "Lott family",
+          "Flatlands (New York, N.Y.). Overseers of the Poor",
+          "Wyckoff family",
+          "Lott family",
+          "Baxter, Garret S."],
         "unitdate_normal_ssm":["1807/1831"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Flatlands (New York, N.Y.). Overseers of the Poor",
@@ -72,8 +80,8 @@
         "unitdate_start_ssm":["1807"],
         "unitdate_end_ssm":["1831"],
         "unitdate_ssm":["Inclusive, 1807-1831"],
-        "_version_":1799256293827936256,
-        "timestamp":"2024-05-17T00:08:36.056Z"}]
+        "_version_":1801963894908911616,
+        "timestamp":"2024-06-15T21:24:45.666Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +89,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Baxter, Garret S.",1,
+        "Flatlands (New York, N.Y.). Overseers of the Poor",1,
+        "Lott family",1,
+        "Wyckoff family",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

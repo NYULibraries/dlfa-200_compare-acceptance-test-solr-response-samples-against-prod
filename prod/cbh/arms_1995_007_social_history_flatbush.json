@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Index to <em>A Social History of Flatbush</em>"],
         "unitid_ssm":["1995.007"],
         "abstract_ssm":["A handwritten index to the book, \"Social History of Flatbush\" by Gertrude Lefferts Vanderbilt, published in 1882. The index was created by Frances Bergen Cropsey in 1959. The Brooklyn Historical Society's Othmer Library also holds a typewritten copy of the index in its main collection."],
+        "creator_ssm":["Bergen, Frances Cropsey",
+          "Bergen, Frances Cropsey"],
         "unitdate_normal_ssm":["1959/1959"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Indexes (reference sources)"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, 1959"],
         "language_ssm":["English"],
-        "_version_":1775224427414290432,
-        "timestamp":"2023-08-25T17:52:22.282Z"}]
+        "_version_":1800794857908731904,
+        "timestamp":"2024-06-02T23:43:25.104Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bergen, Frances Cropsey",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

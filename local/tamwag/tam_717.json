@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Sofia Sequenzia Papers on Hugo Gellert"],
         "unitid_ssm":["TAM.717"],
         "abstract_ssm":["This collection contains three audio cassette tapes of a 1981 interview by Sofia Sequenzia with muralist and illustrator Hugo Gellert. Sequenzia conducted a three-hour interview with Gellert for a freelance article she published in the National Guardian. The audio recordings of the interview appear to be incomplete and are on 3 tapes numbered 1, 4, and 6. The interview is accompanied by Sequenzia's notes and a handwritten transcript. The collection also includes flyers, programs, and articles from events dedicated to Gellert's life and works."],
+        "creator_ssm":["Sequenzia, Sofia",
+          "Gellert, Hugo, 1892-1985",
+          "Sequenzia, Sofia",
+          "Gellert, Hugo, 1892-1985"],
         "unitdate_normal_ssm":["1981/1986"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Oral histories (literary works)"],
@@ -67,8 +71,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1981-1986"],
-        "_version_":1799792013261930496,
-        "timestamp":"2024-05-22T22:03:37.921Z"}]
+        "_version_":1802184355973431296,
+        "timestamp":"2024-06-18T07:48:53.721Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +80,9 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gellert, Hugo, 1892-1985",1,
+        "Sequenzia, Sofia",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

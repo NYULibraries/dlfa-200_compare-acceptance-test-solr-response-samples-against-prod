@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Dwight B. Demeritt, Jr. collection of 19th century photographs"],
         "unitid_ssm":["V1986.001"],
         "abstract_ssm":["Images in the collection show landscapes and rural scenes in Brooklyn, New York City, Long Island, and Westchester County, N.Y."],
+        "creator_ssm":["Demeritt, Dwight B., Jr.",
+          "Demeritt, Dwight B., Jr."],
         "unitdate_normal_ssm":["1897/1898"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["New York Harbor (N.Y. and N.J.)",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1898"],
         "unitdate_ssm":["Inclusive, 1897-1898"],
         "language_ssm":["English"],
-        "_version_":1799256165701386240,
-        "timestamp":"2024-05-17T00:06:33.865Z"}]
+        "_version_":1802044989411164160,
+        "timestamp":"2024-06-16T18:53:43.41Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Demeritt, Dwight B., Jr.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

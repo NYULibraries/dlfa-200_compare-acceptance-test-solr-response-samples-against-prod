@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Montauk Fire Insurance Company insurance policy to Christopher Jacobson"],
         "unitid_ssm":["1977.512"],
         "abstract_ssm":["An 1887 insurance policy issued by the Montauk Fire Insurance Company of Brooklyn to Christopher Jacobson for a home in the Brooklyn neighborhood of Gravesend."],
+        "creator_ssm":["Montauk Fire Insurance Company (Brooklyn, New York, N.Y.)",
+          "Montauk Fire Insurance Company (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1887/1887"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Montauk Fire Insurance Company (Brooklyn, New York, N.Y.)",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1887"],
         "unitdate_ssm":["1887"],
         "language_ssm":["English"],
-        "_version_":1799311502889451520,
-        "timestamp":"2024-05-17T14:46:07.52Z"}]
+        "_version_":1801961846544007168,
+        "timestamp":"2024-06-15T20:52:12.193Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Montauk Fire Insurance Company (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

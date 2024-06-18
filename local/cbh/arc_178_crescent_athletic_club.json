@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Crescent Athletic Club collection"],
         "unitid_ssm":["ARC.178"],
         "abstract_ssm":["The Crescent Athletic Club was originally founded as a football club in 1884 in Brooklyn, N.Y. By 1886, the club expanded its focus to include other sports and games and was reorganized as an athletic club. Two years later, in 1888, the club was incorporated as the Crescent Athletic Club of Brooklyn. The purpose of the club was to provide its members the opportunity to socialize, exercise, and compete in sports and games. Though the Crescent Athletic Club was considered one of the most popular athletic clubs in New York City with over 1500 members in 1902, club membership fell greatly by the 1920s and the club declared bankruptcy in 1939. The Crescent Athletic Club collection spans the years 1891 to 1940, and measures 0.75 linear feet."],
+        "creator_ssm":["Crescent Athletic Club (Brooklyn, New York, N.Y.)",
+          "Crescent Athletic Club (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1891/1940"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Crescent Athletic Club (Brooklyn, New York, N.Y.)",
@@ -80,8 +82,8 @@
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, 1891-1940"],
         "language_ssm":["English"],
-        "_version_":1799256170650664960,
-        "timestamp":"2024-05-17T00:06:38.585Z"}]
+        "_version_":1801959302264520704,
+        "timestamp":"2024-06-15T20:11:45.779Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Crescent Athletic Club (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

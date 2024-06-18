@@ -47,6 +47,8 @@
         "unittitle_ssm":["Royal W. Brouard papers"],
         "unitid_ssm":["2006.005"],
         "abstract_ssm":["This collection consists of material pertaining chiefly to Royal Willis Brouard's U.S. military service during and after World War I.  It includes military-issued maps of France, memorabilia, correspondence, photographs, printed documents, and a scrapbook containing newspaper clippings pertaining to the War.  The collection also contains Brouard's enlistment and honorable discharge papers."],
+        "creator_ssm":["Brouard, Royal W.",
+          "Brouard, Royal W."],
         "unitdate_normal_ssm":["1909/1922"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Army. Coast Artillery Regiment, 59th",
@@ -85,8 +87,8 @@
         "unitdate_end_ssm":["1922"],
         "unitdate_ssm":["Inclusive, 1909-1922"],
         "language_ssm":["English"],
-        "_version_":1799312247510532096,
-        "timestamp":"2024-05-17T14:57:57.646Z"}]
+        "_version_":1801963931818786816,
+        "timestamp":"2024-06-15T21:25:20.865Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +96,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brouard, Royal W.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

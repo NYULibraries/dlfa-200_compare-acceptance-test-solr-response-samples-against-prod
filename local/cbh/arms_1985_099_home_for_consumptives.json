@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Home for Consumptives Annual Reports collection"],
         "unitid_ssm":["1985.099"],
         "abstract_ssm":["The Brooklyn Home for Consumptives Annual Reports collection spans the years 1882 to 1933 and contains all annual reports for the years 1882 to 1928, as well as the annual report for 1933. The Brooklyn Home for Consumptives was incorporated as The Garfield Memorial Home on October 6, 1881 with the mission of providing shelter and care for tuberculosis patients and sufferers of other chronic ailments who could not find adequate care elsewhere. It was renamed the Brooklyn Home for Consumptives in 1882, and again renamed The Brooklyn Thoracic Hospital in 1938."],
+        "creator_ssm":["Brooklyn Home for Consumptives",
+          "Brooklyn Home for Consumptives"],
         "unitdate_normal_ssm":["1882/1933"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Home for Consumptives",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1933"],
         "unitdate_ssm":["Inclusive, 1882-1933"],
         "language_ssm":["English"],
-        "_version_":1799311710623891456,
-        "timestamp":"2024-05-17T14:49:25.631Z"}]
+        "_version_":1801963113137831936,
+        "timestamp":"2024-06-15T21:12:20.111Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Home for Consumptives",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

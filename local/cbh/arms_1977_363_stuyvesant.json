@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Peter Stuyvesant proclamation"],
         "unitid_ssm":["1977.363"],
         "abstract_ssm":["One photostat copy of a proclamation issued by Peter Stuyvesant proclaiming March 15th, 1662 to be a day of thanks. The proclamation is written in Dutch and is accompanied by three copies of translations.  At the time it was copied (circa 1953), the proclamation was held in the Bushwick Town Records in Brooklyn."],
+        "creator_ssm":["Stuyvesant, Peter",
+          "Stuyvesant, Peter"],
         "unitdate_normal_ssm":["1662/1662"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Proclamations"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1662"],
         "unitdate_end_ssm":["1662"],
         "unitdate_ssm":["1662"],
-        "_version_":1799256292815011840,
-        "timestamp":"2024-05-17T00:08:35.09Z"}]
+        "_version_":1801961439357829120,
+        "timestamp":"2024-06-15T20:45:43.87Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stuyvesant, Peter",1],
       "date_range_sim":[
         "1601-1700",1],
       "subject_sim":[

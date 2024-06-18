@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn, Jamaica and Flatbush Turnpike Company stockholder list"],
         "unitid_ssm":["1978.177"],
         "abstract_ssm":["A undated typed copy of the original 1833 list of stockholders and the number of shares each purchased of the Brooklyn, Jamaica and Flatbush Turnpike Company."],
+        "creator_ssm":["Brooklyn, Jamaica, and Flatbush Turnpike Company",
+          "Brooklyn, Jamaica, and Flatbush Turnpike Company"],
         "unitdate_normal_ssm":["1833/1833"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn, Jamaica, and Flatbush Turnpike Company",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1833"],
         "unitdate_ssm":["undated copy of 1833 original"],
         "language_ssm":["English"],
-        "_version_":1799256301227737088,
-        "timestamp":"2024-05-17T00:08:43.113Z"}]
+        "_version_":1801962643548798976,
+        "timestamp":"2024-06-15T21:04:52.276Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn, Jamaica, and Flatbush Turnpike Company",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

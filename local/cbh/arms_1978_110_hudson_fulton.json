@@ -47,6 +47,8 @@
         "unittitle_ssm":["Hudson-Fulton Celebration napkin"],
         "unitid_ssm":["1978.110"],
         "abstract_ssm":["One paper napkin used at the refreshment period following the Hudson-Fulton Celebration in Brooklyn in 1909 and notes describing the celebration."],
+        "creator_ssm":["Hudson-Fulton Celebration Commission",
+          "Hudson-Fulton Celebration Commission"],
         "unitdate_normal_ssm":["1909/1909"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Hudson-Fulton Celebration Commission"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["1909"],
         "language_ssm":["English"],
-        "_version_":1799256453268111360,
-        "timestamp":"2024-05-17T00:11:08.11Z"}]
+        "_version_":1801962464005324800,
+        "timestamp":"2024-06-15T21:02:01.05Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hudson-Fulton Celebration Commission",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

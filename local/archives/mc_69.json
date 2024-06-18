@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Leslie Tompkins Papers"],
         "unitid_ssm":["MC.69"],
         "abstract_ssm":["Leslie Tompkins was associated with New York University for over fifty years as a student, administrator, and law professor.  He came to NYU as an undergraduate in 1886 and graduated from the School of Law 1892.  Tompkins served as the University's Assistant Treasurer and Librarian (beginning in 1892), as well as the Law School's Secretary (beginning in 1898).  He began teaching law classes at the newly reorganized Law School in 1898 and devoted his efforts exclusively to teaching after 1918.  Tompkins' connection with NYU continued until September 1940, when he retired and assumed the position of Emeritus Professor of Law.   His Memories of New York University  includes Tompkins' reminiscences of his time at the University during a formative period for the institution and provides insight into the the University's management."],
+        "creator_ssm":["Tompkins, Leslie J. (Leslie Jay), 1867-1952",
+          "Tompkins, Leslie J. (Leslie Jay), 1867-1952"],
         "unitdate_normal_ssm":["1937/1945"],
         "corpname_ssm":["New York University Archives",
           "New York University. University Heights",
@@ -74,8 +76,8 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, 1937-1945"],
-        "_version_":1799255754088120320,
-        "timestamp":"2024-05-17T00:00:01.32Z"},
+        "_version_":1801950574235615232,
+        "timestamp":"2024-06-15T17:53:02.082Z"},
       {
         "id":"mc_69aspace_ref12",
         "ead_ssi":"mc_69",
@@ -94,8 +96,8 @@
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, 1930-1945"],
         "language_ssm":["English"],
-        "_version_":1799255754105946112,
-        "timestamp":"2024-05-17T00:00:01.337Z"},
+        "_version_":1801950574256586752,
+        "timestamp":"2024-06-15T17:53:02.102Z"},
       {
         "id":"mc_69aspace_ref13",
         "ead_ssi":"mc_69",
@@ -121,8 +123,8 @@
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, 1930-1945"],
         "language_ssm":["English"],
-        "_version_":1799255754134257664,
-        "timestamp":"2024-05-17T00:00:01.364Z"}]
+        "_version_":1801950574282801152,
+        "timestamp":"2024-06-15T17:53:02.127Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -130,7 +132,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tompkins, Leslie J. (Leslie Jay), 1867-1952",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

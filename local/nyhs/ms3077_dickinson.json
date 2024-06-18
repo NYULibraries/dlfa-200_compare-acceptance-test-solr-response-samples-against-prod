@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Nancy S. Dickinson research notes"],
         "unitid_ssm":["MS-3077"],
         "abstract_ssm":["This collection is comprised of the research notes of Nancy S. Dickinson, a research fellow at the Colonial Williamsburg Foundation from 1986-1987. The work was funded by a National Endowment for the Humanities grant for a larger project entitled \"English Ceramics in America 1760-1860: Marketing, Prices, and Availability.\" Dickinson's research focused on the ceramics trade in New York during the late 18th and early 19th centuries."],
+        "creator_ssm":["Dickinson, Nancy S.",
+          "Dickinson, Nancy S."],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Dickinson, Nancy S.",
           "Rhinelander, Frederick, 1743-1805",
@@ -64,8 +66,8 @@
         "heading_ssm":["Nancy S. Dickinson research notes"],
         "unitdate_ssm":["Inclusive, 1983-1992"],
         "language_ssm":["English"],
-        "_version_":1799323015301824512,
-        "timestamp":"2024-05-17T17:49:06.611Z"},
+        "_version_":1802085266376097792,
+        "timestamp":"2024-06-17T05:33:54.517Z"},
       {
         "id":"ms3077_dickinsonaspace_1641ff5b379af514c824a48514c25816",
         "ead_ssi":"ms3077_dickinson",
@@ -78,12 +80,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-4",
-          "Folder: 1-4"],
+        "location_ssm":["Box: 1, Folder: 1-4"],
         "heading_ssm":["National Endowment for the Humanities grant documentation"],
         "unitdate_ssm":["Inclusive, 1986-1992"],
-        "_version_":1799323015319650304,
-        "timestamp":"2024-05-17T17:49:06.629Z"},
+        "_version_":1802085266396020736,
+        "timestamp":"2024-06-17T05:33:54.536Z"},
       {
         "id":"ms3077_dickinsonaspace_5317222746279c7955446b908a0a4c72",
         "ead_ssi":"ms3077_dickinson",
@@ -96,12 +97,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 1-5",
-          "Folder: 1-5"],
+        "location_ssm":["Box: 2, Folder: 1-5"],
         "heading_ssm":["Research notes"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799323015359496192,
-        "timestamp":"2024-05-17T17:49:06.661Z"},
+        "_version_":1802085266432720896,
+        "timestamp":"2024-06-17T05:33:54.571Z"},
       {
         "id":"ms3077_dickinsonaspace_9ccaea8c3908902f4dcede85fce9c446",
         "ead_ssi":"ms3077_dickinson",
@@ -114,12 +114,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder:  6-20",
-          "Folder:  6-20"],
+        "location_ssm":["Box: 2, Folder:  6-20"],
         "heading_ssm":["Data sheets for computer generated analysis of records"],
         "unitdate_ssm":["Inclusive, 1986-1987"],
-        "_version_":1799323015379419136,
-        "timestamp":"2024-05-17T17:49:06.686Z"},
+        "_version_":1802085266452643840,
+        "timestamp":"2024-06-17T05:33:54.59Z"},
       {
         "id":"ms3077_dickinsonaspace_c6120949dcd36d33d157b6ec6c735bba",
         "ead_ssi":"ms3077_dickinson",
@@ -132,12 +131,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 5-23",
-          "Folder: 5-23"],
+        "location_ssm":["Box: 1, Folder: 5-23"],
         "heading_ssm":["Research notes"],
         "unitdate_ssm":["Inclusive, 1983-1991"],
-        "_version_":1799323015339573248,
-        "timestamp":"2024-05-17T17:49:06.648Z"}]
+        "_version_":1802085266413846528,
+        "timestamp":"2024-06-17T05:33:54.553Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -145,7 +143,8 @@
       "repository_sim":[
         "nyhs",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dickinson, Nancy S.",1],
       "date_range_sim":[
         "undated & other",5],
       "subject_sim":[

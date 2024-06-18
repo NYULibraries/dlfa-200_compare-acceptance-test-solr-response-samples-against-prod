@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Brooklyn Heights Synagogue oral histories"],
         "unitid_ssm":["2011.005"],
         "abstract_ssm":["These eight oral history interviews were collected during 2010 as a joint project between Brooklyn Heights Synagogue and Brooklyn Historical Society on the occasion of the Synagogue's 50th anniversary. Ten members of the Synagogue were interviewed during the project. During the interviews the members discuss their lives before and after joining the Synagogue."],
+        "creator_ssm":["Brooklyn Heights Synagogue",
+          "Sullivan, Sady",
+          "Brooklyn Heights Synagogue",
+          "Sullivan, Sady"],
         "unitdate_normal_ssm":["2010/2011"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Heights Synagogue"],
@@ -68,8 +72,8 @@
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["Inclusive, 2010"],
         "language_ssm":["English"],
-        "_version_":1799312378378059776,
-        "timestamp":"2024-05-17T15:00:02.45Z"},
+        "_version_":1801958062574010368,
+        "timestamp":"2024-06-15T19:52:03.517Z"},
       {
         "id":"2011_005aspace_44edbb60dd4927df0fd3464a2d047ac9",
         "ead_ssi":"2011_005",
@@ -126,8 +130,8 @@
         "unitdate_start_ssm":["2010"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, March 18, 2010"],
-        "_version_":1799312378589872128,
-        "timestamp":"2024-05-17T15:00:02.653Z"},
+        "_version_":1801958062862368768,
+        "timestamp":"2024-06-15T19:52:03.793Z"},
       {
         "id":"2011_005aspace_647d18b75f59aaf2f806e26ff9da4e04",
         "ead_ssi":"2011_005",
@@ -190,8 +194,8 @@
         "unitdate_start_ssm":["2010"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, April 9, 2010"],
-        "_version_":1799312378471383040,
-        "timestamp":"2024-05-17T15:00:02.54Z"},
+        "_version_":1801958062701936640,
+        "timestamp":"2024-06-15T19:52:03.64Z"},
       {
         "id":"2011_005aspace_6515fde3a7bb058e40d8f6ace7381c91",
         "ead_ssi":"2011_005",
@@ -267,8 +271,8 @@
         "unitdate_start_ssm":["2010"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, March 31, 2010"],
-        "_version_":1799312378564706304,
-        "timestamp":"2024-05-17T15:00:02.629Z"},
+        "_version_":1801958062815182848,
+        "timestamp":"2024-06-15T19:52:03.747Z"},
       {
         "id":"2011_005aspace_67a65febc5f00b293ac811287190efbe",
         "ead_ssi":"2011_005",
@@ -325,8 +329,8 @@
         "unitdate_start_ssm":["2010"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, November 10, 2010"],
-        "_version_":1799312378494451712,
-        "timestamp":"2024-05-17T15:00:02.562Z"},
+        "_version_":1801958062742831104,
+        "timestamp":"2024-06-15T19:52:03.679Z"},
       {
         "id":"2011_005aspace_83b5f5aa332f9fcb61877f0cacc93bb1",
         "ead_ssi":"2011_005",
@@ -374,8 +378,8 @@
         "unitdate_start_ssm":["2010"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, November 2, 2010"],
-        "_version_":1799312378435731456,
-        "timestamp":"2024-05-17T15:00:02.506Z"},
+        "_version_":1801958062662090752,
+        "timestamp":"2024-06-15T19:52:03.602Z"},
       {
         "id":"2011_005aspace_9eda769debfd897b6af818cb5ba2f58b",
         "ead_ssi":"2011_005",
@@ -435,8 +439,8 @@
         "unitdate_start_ssm":["2010"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, December 10, 2010"],
-        "_version_":1799312378525908992,
-        "timestamp":"2024-05-17T15:00:02.592Z"},
+        "_version_":1801958062775336960,
+        "timestamp":"2024-06-15T19:52:03.71Z"},
       {
         "id":"2011_005aspace_ea95d9f0257f2bb42281c105e339e917",
         "ead_ssi":"2011_005",
@@ -506,8 +510,8 @@
         "unitdate_start_ssm":["2010"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, March 16, 2010"],
-        "_version_":1799312378631815168,
-        "timestamp":"2024-05-17T15:00:02.693Z"},
+        "_version_":1801958062898020352,
+        "timestamp":"2024-06-15T19:52:03.827Z"},
       {
         "id":"2011_005aspace_ff4ab417267d4235667b77be410ad122",
         "ead_ssi":"2011_005",
@@ -561,8 +565,8 @@
         "unitdate_start_ssm":["2010"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, November 12, 2010"],
-        "_version_":1799312378412662784,
-        "timestamp":"2024-05-17T15:00:02.484Z"}]
+        "_version_":1801958062620147712,
+        "timestamp":"2024-06-15T19:52:03.562Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -571,7 +575,9 @@
         "cbh",9],
       "dao_sim":[
         "Online Access",9],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Heights Synagogue",1,
+        "Sullivan, Sady",1],
       "date_range_sim":[
         "2001-2100",9],
       "subject_sim":[

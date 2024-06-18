@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Third Kings Masonic Camp Fund publications"],
         "unitid_ssm":["ARC.162"],
         "abstract_ssm":["The Third Kings Masonic Camp Fund publications span the years 1937 to 1987 and are housed in one manuscript box. The collection consists of 16 event programs issued by the Fund for the annual fundraising event—Third Kings Masonic Camp Fund Annual Entertainment and Dance. The following years are represented in the collection: 1937 to 1941, 1943, 1946 to 1949, 1954, 1963, 1964, 1971, 1974, and 1987. Although the content included in the programs varied over the years, generally they contained lists of members of the various committees for the event; lists of supporters and donors; lists of the participating Masonic Lodges and the corresponding membership lists of those lodges; and advertisements for local businesses."],
+        "creator_ssm":["Third Kings Masonic Camp Fund (Brooklyn, New York, N.Y.)",
+          "Third Kings Masonic Camp Fund (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1937/1987",
           "1937/1949"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -72,8 +74,8 @@
           "1949"],
         "unitdate_ssm":["Inclusive, 1937-1987 ; 1937-1949"],
         "language_ssm":["English"],
-        "_version_":1799256305229103104,
-        "timestamp":"2024-05-17T00:08:46.929Z"}]
+        "_version_":1801959253153415168,
+        "timestamp":"2024-06-15T20:10:58.942Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Third Kings Masonic Camp Fund (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

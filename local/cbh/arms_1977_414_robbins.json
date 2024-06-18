@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lillian F. Robbins certificate from the Regents of the University of the State of New York"],
         "unitid_ssm":["1977.414"],
         "abstract_ssm":["One 1872 certificate issued by the Regents of the University of the State of New York stating that Lillian F. Robbins has passed a proficiency exam administered by the Packer Collegiate Institute in Brooklyn."],
+        "creator_ssm":["University of the State of New York",
+          "University of the State of New York"],
         "unitdate_normal_ssm":["1872/1872"],
         "corpname_ssm":["Brooklyn Historical Society",
           "University of the State of New York",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1872"],
         "unitdate_ssm":["1872"],
         "language_ssm":["English"],
-        "_version_":1799309973562327040,
-        "timestamp":"2024-05-17T14:21:49.04Z"}]
+        "_version_":1801961608410300416,
+        "timestamp":"2024-06-15T20:48:25.09Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "University of the State of New York",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

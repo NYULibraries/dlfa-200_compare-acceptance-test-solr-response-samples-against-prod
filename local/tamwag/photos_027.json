@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sidney Jonas Photographs"],
         "unitid_ssm":["PHOTOS.027"],
         "abstract_ssm":["Sidney Jonas, a labor union organizer, began his career by organizing shoe-workers. In 1934, he was appointed as a fieldworker for the United Shoe and Leather Workers Union. In 1936, United Automobile Workers (UAW-CIO) president, Homer Martin, appointed Jonas as his personal representative and director of the Northeast Region for the UAW-CIO. Jonas worked in this capacity until 1938. This small collection of mostly black and white photographs includes shots of a crowd gathered at Cadillac Square, Detroit, in support of the Flint sit-down strikers in 1937 and a similar demonstration in front of Ford Headquarters in New York City that same year."],
+        "creator_ssm":["Jonas, Sidney, 1905-",
+          "Jonas, Sidney, 1905-"],
         "unitdate_normal_ssm":["1923/1999",
           "1923/1948"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -78,8 +80,8 @@
           "1948"],
         "unitdate_ssm":["Inclusive, 1923-1999 ; 1923-1948"],
         "language_ssm":["English"],
-        "_version_":1799764311441145856,
-        "timestamp":"2024-05-22T14:43:19.406Z"},
+        "_version_":1802141727948013568,
+        "timestamp":"2024-06-17T20:31:20.468Z"},
       {
         "id":"photos_027aspace_ref13",
         "ead_ssi":"photos_027",
@@ -93,8 +95,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Container list"],
-        "_version_":1799764311454777344,
-        "timestamp":"2024-05-22T14:43:19.419Z"},
+        "_version_":1802141727959547904,
+        "timestamp":"2024-06-17T20:31:20.479Z"},
       {
         "id":"photos_027aspace_ref14",
         "ead_ssi":"photos_027",
@@ -111,14 +113,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Includes demonstrations supporting the Flint Sitdown Strike of 1937 and various CIO conventions; snapshots of students at Brookwood Labor College."],
         "unitdate_start_ssm":["1923"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, ca.1933-1938 , [1980-1989]"],
-        "_version_":1799764311469457408,
-        "timestamp":"2024-05-22T14:43:19.433Z"}]
+        "_version_":1802141727980519424,
+        "timestamp":"2024-06-17T20:31:20.499Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -126,7 +127,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Jonas, Sidney, 1905-",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",1],

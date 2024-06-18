@@ -47,6 +47,10 @@
         "unittitle_ssm":["Long Island Insurance Company subscription book and architectural drawing"],
         "unitid_ssm":["1977.013"],
         "abstract_ssm":["This collection contains a subscription book to the capital stock of the Long Island Insurance Company, dated 1833, and an architectural drawing of the Company's building by Richard Laurence, dated 1834."],
+        "creator_ssm":["Laurence, Richard",
+          "Long Island Insurance Company",
+          "Long Island Insurance Company",
+          "Laurence, Richard"],
         "unitdate_normal_ssm":["1833/1834"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island Insurance Company",
@@ -70,8 +74,8 @@
         "unitdate_end_ssm":["1834"],
         "unitdate_ssm":["Inclusive, 1833-1834"],
         "language_ssm":["English"],
-        "_version_":1799311563126996992,
-        "timestamp":"2024-05-17T14:47:04.966Z"}]
+        "_version_":1801960551621853184,
+        "timestamp":"2024-06-15T20:31:37.259Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +83,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Laurence, Richard",1,
+        "Long Island Insurance Company",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

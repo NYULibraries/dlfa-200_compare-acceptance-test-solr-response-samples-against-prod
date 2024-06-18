@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Debra Miller Collection"],
         "unitid_ssm":["MSS.544"],
         "abstract_ssm":["Debra Miller is an LGBTQ activist, singer, actress, performer, and an active member of the New York art scene during the 1980s. The Debra Miller Collection is comprised of postcards, event flyers and programs from artistic performances, and a local newspaper. An excerpt of a theater script is available with written notations from the Arts for Life: A Festival for Nuclear Disarmament in 1982, in which Miller was the stage manager. The collection also contains a photocopy of Miller's identification card as a performer at the Women's One World Festival in New York City (WOW Café) in 1981."],
+        "creator_ssm":["Miller, Debra E.",
+          "Miller, Debra E."],
         "unitdate_normal_ssm":["1981/2012"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Postcards."],
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 1981-2012"],
-        "_version_":1799744617936060416,
-        "timestamp":"2024-05-22T09:30:18.216Z"},
+        "_version_":1802080651607801856,
+        "timestamp":"2024-06-17T04:20:33.531Z"},
       {
         "id":"mss_544aspace_cd18632c0989c5950efcfd80541096ed",
         "ead_ssi":"mss_544",
@@ -86,15 +88,13 @@
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1",
-          "Box: Shared Fales 017, Folder: 7",
-          "Folder: 7"],
+          "Box: Shared Fales 017, Folder: 7"],
         "heading_ssm":["Postcards and Event Programs, Performance ID, and Theater Script"],
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 1981-2012, undated"],
-        "_version_":1799744617950740480,
-        "timestamp":"2024-05-22T09:30:18.23Z"}]
+        "_version_":1802080651634016256,
+        "timestamp":"2024-06-17T04:20:33.556Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -102,7 +102,8 @@
       "repository_sim":[
         "fales",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Miller, Debra E.",1],
       "date_range_sim":[
         "1901-2000",2,
         "2001-2100",2],

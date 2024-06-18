@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Frank Harris Letters to Constance Ruth Bonsall"],
         "unitid_ssm":["MSS.561"],
         "abstract_ssm":["This collection consists of personal letters from Irish author and editor Frank Harris to Constance Ruth Bonsall in 1916, at the time an aspiring young English writer."],
+        "creator_ssm":["Harris, Frank, 1855-1931",
+          "Harris, Frank, 1855-1931"],
         "unitdate_normal_ssm":["1910/1920"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Letters."],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, 1916, Undated "],
-        "_version_":1799745325318012928,
-        "timestamp":"2024-05-22T09:41:32.828Z"},
+        "_version_":1802081586131238912,
+        "timestamp":"2024-06-17T04:35:24.762Z"},
       {
         "id":"mss_561aspace_ac80bc46351a740082f1f05bcefdc785",
         "ead_ssi":"mss_561",
@@ -81,14 +83,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Frank Harris Letters to Constance Ruth Bonsall"],
         "unitdate_start_ssm":["1916"],
         "unitdate_end_ssm":["1916"],
         "unitdate_ssm":["1916, undated"],
-        "_version_":1799745325336887296,
-        "timestamp":"2024-05-22T09:41:32.846Z"}]
+        "_version_":1802081586151161856,
+        "timestamp":"2024-06-17T04:35:24.781Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +97,8 @@
       "repository_sim":[
         "fales",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Harris, Frank, 1855-1931",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

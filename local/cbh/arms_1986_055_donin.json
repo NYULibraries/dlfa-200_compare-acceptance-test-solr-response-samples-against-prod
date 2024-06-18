@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Frances Donin collection on the Dutch Reformed Church, Flatbush and Flatlands"],
         "unitid_ssm":["1986.055"],
         "abstract_ssm":["The Frances Donin collection on the Dutch Reformed Church, Flatbush and Flatlands measures 0.42 linear feet and dates from 1820 to 1964, with the bulk dating from 1870 to 1920. The collection includes church records, clippings, postcards, and one tintype. A large portion of the collection relates to the business of the Flatbush Dutch Reformed Church, including its account books, invoices, receipts, and correspondence with Brooklyn businesses, such as mechanics, upholsterers, and insurance agents. A pew plan shows the layout of the sanctuary and nave. In addition, pledge cards from 1920 list names--possibly church members--with home addresses."],
+        "creator_ssm":["Donin, Frances",
+          "Ditmars, John",
+          "Flatbush Dutch Reformed Church (Flatbush, New York, N.Y.)",
+          "Flatbush Dutch Reformed Church (Flatbush, New York, N.Y.)",
+          "Donin, Frances",
+          "Ditmars, John"],
         "unitdate_normal_ssm":["1820/1964",
           "1870/1920"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -103,8 +109,8 @@
           "1920"],
         "unitdate_ssm":["Inclusive, 1820-1964 ; 1870-1920"],
         "language_ssm":["English"],
-        "_version_":1799256321400242176,
-        "timestamp":"2024-05-17T00:09:02.351Z"}]
+        "_version_":1801963346405097472,
+        "timestamp":"2024-06-15T21:16:02.572Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -112,7 +118,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ditmars, John",1,
+        "Donin, Frances",1,
+        "Flatbush Dutch Reformed Church (Flatbush, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Philip Pope declaration of imports"],
         "unitid_ssm":["AHMC - Pope, Philip"],
         "abstract_ssm":["One declaration made and signed by Philip Pope at the Custom House of Wilmington, Delaware. Using a pre-printed form, Pope declared the importation of wrought iron from Cardiff on the ship Mary Ann under Arthur Child as master. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Philip Pope declaration of imports"],
+        "creator_ssm":["Pope, Philip, active 1836",
+          "Pope, Philip, active 1836"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Pope, Philip, active 1836"],
         "collection_ssm":["Philip Pope declaration of imports"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Philip Pope declaration of imports"],
         "unitdate_ssm":["1836 June 7"],
-        "_version_":1799322484468613120,
-        "timestamp":"2024-05-17T17:40:40.369Z"}]
+        "_version_":1802083828781547520,
+        "timestamp":"2024-06-17T05:11:03.52Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Pope, Philip, active 1836",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

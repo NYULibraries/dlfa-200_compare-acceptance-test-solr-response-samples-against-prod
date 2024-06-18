@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Ford family papers and Long Island Historical Society exhibition records"],
         "unitid_ssm":["1978.162"],
         "abstract_ssm":["Assembled for a 1974 Long Island Historical Society (known today as Brooklyn Historical Society) exhibition, the collection contains papers and photographs relating to the Ford family. The Fords were one of the most productive literary families living in the Brooklyn Heights neighborhood of Brooklyn in the latter part of the 19th century. The bulk of the collection are 20th century fascimiles of original papers, the content of which dates back to the 1850s. The collection includes numerous portraits of the Ford family, as well as one ledger from an unidentified Brooklyn school (1870s)."],
+        "creator_ssm":["Ford family",
+          "Bailey, Ellsworth N.",
+          "Long Island Historical Society",
+          "Long Island Historical Society",
+          "Ford family",
+          "Bailey, Ellsworth N."],
         "unitdate_normal_ssm":["1845/1974"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island Historical Society",
@@ -97,8 +103,8 @@
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, circa 1850s to 1974"],
         "language_ssm":["English"],
-        "_version_":1799311717761548288,
-        "timestamp":"2024-05-17T14:49:32.437Z"}]
+        "_version_":1801962617909018624,
+        "timestamp":"2024-06-15T21:04:27.824Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -106,7 +112,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bailey, Ellsworth N.",1,
+        "Ford family",1,
+        "Long Island Historical Society",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

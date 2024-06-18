@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edward L. Hyman collection"],
         "unitid_ssm":["2008.010"],
         "abstract_ssm":["This collection contains materials documenting Edward L. Hyman's career in entertainment, including a scrapbook relating to his time as Manager of the Mark Strand Theatre, clippings, articles, reports, speeches, trade press publications, and other information on motion picture distribution."],
+        "creator_ssm":["Hyman, Edward L.",
+          "Hyman, Edward L."],
         "unitdate_normal_ssm":["1921/1964"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Mark Strand Theatre (Brooklyn, New York, N.Y.)"],
@@ -79,8 +81,8 @@
         "unitdate_end_ssm":["1964"],
         "unitdate_ssm":["Inclusive, 1921-1964"],
         "language_ssm":["English"],
-        "_version_":1799311732133330944,
-        "timestamp":"2024-05-17T14:49:46.144Z"}]
+        "_version_":1801964030038900736,
+        "timestamp":"2024-06-15T21:26:54.536Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hyman, Edward L.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

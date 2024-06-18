@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Rachel Searcy"],
         "unittitle_ssm":["Brendan Muckian-Bates Posters on the 2018 West Virginia Teachers' Strike"],
-        "unitid_ssm":["WAG.358",
-          "/repositories/2/resources/2942"],
+        "unitid_ssm":["WAG.358"],
         "abstract_ssm":["Brendan Muckian-Bates is a social studies teacher in West Virginia and an organizer with the West Virginia Education Association (WVEA) and Industrial Workers of the World. Muckian-Bates was an active participant in the 2018 West Virginia Teachers' Strike, and wrote about his experiences in Jacobin and the Socialist Worker. This collection consists of posters collected by Brendan Muckian-Bates from the strikes. Posters contain messages of general support for the teachers, as well as specific demands concerning salary and health insurance."],
+        "creator_ssm":["Muckian-Bates, Brendan",
+          "Muckian-Bates, Brendan"],
         "unitdate_normal_ssm":["2018/2018"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "American Federation of Teachers"],
@@ -72,15 +73,15 @@
         "unitdate_start_ssm":["2018"],
         "unitdate_end_ssm":["2018"],
         "unitdate_ssm":["2018"],
-        "_version_":1799334812766437376,
-        "timestamp":"2024-05-17T20:56:37.551Z"},
+        "_version_":1802197549864452096,
+        "timestamp":"2024-06-18T11:18:36.396Z"},
       {
         "id":"wag_358aspace_823ba8b11cf8ada922ed1b707647292f",
         "ead_ssi":"wag_358",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Brendan Muckian-Bates Posters on the 2018 West Virginia Teachers' Strike"],
-        "collection_unitid_ssm":["WAG.358/repositories/2/resources/2942"],
+        "collection_unitid_ssm":["WAG.358"],
         "unittitle_ssm":["Posters"],
         "unitid_ssm":["/repositories/2/archival_objects/923889"],
         "unitdate_normal_ssm":["2018/2018"],
@@ -93,8 +94,8 @@
         "unitdate_start_ssm":["2018"],
         "unitdate_end_ssm":["2018"],
         "unitdate_ssm":["2018"],
-        "_version_":1799334812787408896,
-        "timestamp":"2024-05-17T20:56:37.571Z"}]
+        "_version_":1802197549873889280,
+        "timestamp":"2024-06-18T11:18:36.405Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -102,7 +103,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Muckian-Bates, Brendan",1],
       "date_range_sim":[
         "2001-2100",2],
       "subject_sim":[

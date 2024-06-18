@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Cleveland Radicalism Clippings Scrapbook"],
         "unitid_ssm":["TAM.455"],
+        "creator_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
+          "Tamiment Library and Robert F. Wagner Labor Archives"],
         "unitdate_normal_ssm":["1915/1926"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Tamiment Library and Robert F. Wagner Labor Archives"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1926"],
         "unitdate_ssm":["Inclusive, 1915-1920s"],
         "language_ssm":["English"],
-        "_version_":1799334326738878464,
-        "timestamp":"2024-05-17T20:48:54.039Z"}]
+        "_version_":1802183123423723520,
+        "timestamp":"2024-06-18T07:29:18.27Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tamiment Library and Robert F. Wagner Labor Archives",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

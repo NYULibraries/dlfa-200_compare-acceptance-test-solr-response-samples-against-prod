@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Brokstein family papers"],
         "unitid_ssm":["ARC.016"],
         "abstract_ssm":["The Brokstein family papers, measuring 3.2 linear feet, primarily document financial and business matters of members of the Brokstein family, 1920 to 1969. The collection includes account records of the estate of Charles Brokstein (1958-1969), as well as bank checks and other records of Charles Brokstein (1927-1929); a checkbook of Isidore Brokstein (1941); two checkbooks of Brokstein & Brokstein (1933; 1935 to 1936); and a staff publication of Central Hanover Bank & Trust of which Morris Brokstein was an employee. Also included in the collection are two oversized account books of invoices for the Marchant Hat Company (1920s) and one oversized account book of invoices for Brokstein Hat Works (1920s). Both hat companies were located at 25-27 Houston Street in Manhattan. There are also several fabric samples included in the collection."],
+        "creator_ssm":["Brokstein, Charles",
+          "Brokstein, Morris",
+          "Brokstein, Isidore",
+          "Brokstein family",
+          "Brokstein family",
+          "Brokstein, Charles",
+          "Brokstein, Morris",
+          "Brokstein, Isidore"],
         "unitdate_normal_ssm":["1920/1969"],
         "corpname_ssm":["Brooklyn Historical Society",
           "P.S. 102 (Brooklyn, New York, N.Y.)",
@@ -83,8 +91,8 @@
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1920-1969"],
         "language_ssm":["English"],
-        "_version_":1799256497200300032,
-        "timestamp":"2024-05-17T00:11:50.007Z"}]
+        "_version_":1801958669362921472,
+        "timestamp":"2024-06-15T20:01:42.197Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +100,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brokstein family",1,
+        "Brokstein, Charles",1,
+        "Brokstein, Isidore",1,
+        "Brokstein, Morris",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

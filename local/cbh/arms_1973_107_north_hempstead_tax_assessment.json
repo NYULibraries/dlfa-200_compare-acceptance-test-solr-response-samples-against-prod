@@ -47,6 +47,8 @@
         "unittitle_ssm":["North Hempstead tax assessment roll"],
         "unitid_ssm":["1973.107"],
         "abstract_ssm":["One tax assessment roll for the Town of North Hempstead in Long Island, dating from 1846."],
+        "creator_ssm":["Mott, John C.",
+          "Mott, John C."],
         "unitdate_normal_ssm":["1846/1846"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Rosters"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1846"],
         "unitdate_ssm":["Inclusive, 1846"],
         "language_ssm":["English"],
-        "_version_":1799256231810957312,
-        "timestamp":"2024-05-17T00:07:36.912Z"}]
+        "_version_":1801959947351621632,
+        "timestamp":"2024-06-15T20:22:00.982Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Mott, John C.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

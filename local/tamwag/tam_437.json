@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["James Myers Papers"],
         "unitid_ssm":["TAM.437"],
+        "creator_ssm":["Myers, James, 1882-1967",
+          "Myers, James, 1882-1967"],
         "unitdate_normal_ssm":["1930/1969"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Dutchess Bleachery (Wappingers Falls, N.Y.)",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1930s-1960s"],
         "language_ssm":["English"],
-        "_version_":1799791067703279616,
-        "timestamp":"2024-05-22T21:48:36.166Z"}]
+        "_version_":1802183049848291328,
+        "timestamp":"2024-06-18T07:28:08.103Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Myers, James, 1882-1967",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

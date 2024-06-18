@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ann Rosen Photograph Collection"],
         "unitid_ssm":["BCMS.0074"],
         "abstract_ssm":["This collection consists of photographs from artist Ann Rosen's series In the Presence of Family: Brooklyn Portraits and Revisiting In the Presence of Family: Brooklyn Portraits. Photographs are both print and digital."],
+        "creator_ssm":["Rosen, Ann",
+          "Rosen, Ann"],
         "unitdate_normal_ssm":["2001/2023",
           "2003/2007"],
         "corpname_ssm":["Brooklyn Collection"],
@@ -72,8 +74,8 @@
           "2007"],
         "unitdate_ssm":["Inclusive, 2001-2023 ; 2003-2007"],
         "language_ssm":["English"],
-        "_version_":1791174985317875712,
-        "timestamp":"2024-02-17T19:19:39.686Z"},
+        "_version_":1800828206614315008,
+        "timestamp":"2024-06-03T08:33:28.908Z"},
       {
         "id":"bcms_0074aspace_0178bc3917f6fcdc96d68cbcb765fb80",
         "ead_ssi":"bcms_0074",
@@ -86,11 +88,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 3, item: 1-16",
-          "item: 1-16"],
+        "location_ssm":["Box: 3, item: 1-16"],
         "heading_ssm":["Mounted Photographs"],
-        "_version_":1791174985388130304,
-        "timestamp":"2024-02-17T19:19:39.754Z"},
+        "_version_":1800828206688763904,
+        "timestamp":"2024-06-03T08:33:28.979Z"},
       {
         "id":"bcms_0074aspace_54d7fce6decd42a016bed44fb94cfd71",
         "ead_ssi":"bcms_0074",
@@ -103,11 +104,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, item: 1-24",
-          "item: 1-24"],
+        "location_ssm":["Box: 1, item: 1-24"],
         "heading_ssm":["Mounted Photographs"],
-        "_version_":1791174985351430144,
-        "timestamp":"2024-02-17T19:19:39.719Z"},
+        "_version_":1800828206635286528,
+        "timestamp":"2024-06-03T08:33:28.927Z"},
       {
         "id":"bcms_0074aspace_5d45b5327414fed6909b996d349c827e",
         "ead_ssi":"bcms_0074",
@@ -120,11 +120,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, item: 1-28",
-          "item: 1-28"],
+        "location_ssm":["Box: 2, item: 1-28"],
         "heading_ssm":["Mounted Photographs"],
-        "_version_":1791174985369255936,
-        "timestamp":"2024-02-17T19:19:39.736Z"},
+        "_version_":1800828206653112320,
+        "timestamp":"2024-06-03T08:33:28.945Z"},
       {
         "id":"bcms_0074aspace_ce15fca523189f911ea4649646405317",
         "ead_ssi":"bcms_0074",
@@ -138,14 +137,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 3, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 3, Folder: 2"],
         "heading_ssm":["Being Seen, Part II Exhibit Catalog "],
         "unitdate_start_ssm":["2023"],
         "unitdate_end_ssm":["2023"],
         "unitdate_ssm":["Inclusive, 2023"],
-        "_version_":1791174985432170496,
-        "timestamp":"2024-02-17T19:19:39.796Z"},
+        "_version_":1800828206747484160,
+        "timestamp":"2024-06-03T08:33:29.035Z"},
       {
         "id":"bcms_0074aspace_df68654babfdf64a13f33488133375b0",
         "ead_ssi":"bcms_0074",
@@ -158,11 +156,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 3, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 3, Folder: 1"],
         "heading_ssm":["Being Seen Exhibit Catalog "],
-        "_version_":1791174985411198976,
-        "timestamp":"2024-02-17T19:19:39.776Z"}]
+        "_version_":1800828206728609792,
+        "timestamp":"2024-06-03T08:33:29.017Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -170,7 +167,8 @@
       "repository_sim":[
         "cbh",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rosen, Ann",1],
       "date_range_sim":[
         "2001-2100",2,
         "undated & other",4],

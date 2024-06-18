@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Deepdale Golf Club photograph album"],
         "unitid_ssm":["V1998.002"],
         "abstract_ssm":["Photograph album containing images of the Deepdale Glof Club course and clubhouse (interior and exterior), dating from circa 1955. The course is located in Manhasset, New York, on the north shore of Long Island. The album includes one photograph of President Dwight D. Eisenhower on the course. The album was created by Haynes Provost Studios."],
+        "creator_ssm":["Haynes Provost Studios (New York)",
+          "Haynes Provost Studios (New York)"],
         "unitdate_normal_ssm":["1955/1959"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Haynes Provost Studios (New York)",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1955"],
         "language_ssm":["English"],
-        "_version_":1799312232475000832,
-        "timestamp":"2024-05-17T14:57:43.307Z"}]
+        "_version_":1802045641522675712,
+        "timestamp":"2024-06-16T19:04:05.312Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Haynes Provost Studios (New York)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

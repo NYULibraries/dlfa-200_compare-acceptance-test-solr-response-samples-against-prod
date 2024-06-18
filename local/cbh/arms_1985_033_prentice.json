@@ -47,6 +47,8 @@
         "unittitle_ssm":["Prentice family collection"],
         "unitid_ssm":["1985.033"],
         "abstract_ssm":["This collection contains a May 25, 1929 copy of the weekly popular magazine Brooklyn Life and Activities of Long Island Society featuring an article by Cornelia Henshaw on the history of the Prentice family."],
+        "creator_ssm":["Henshaw, Cornelia",
+          "Henshaw, Cornelia"],
         "unitdate_normal_ssm":["1929/1929"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Prentice family"],
@@ -81,8 +83,8 @@
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, 1929"],
         "language_ssm":["English"],
-        "_version_":1799256466156158976,
-        "timestamp":"2024-05-17T00:11:20.401Z"}]
+        "_version_":1801962976947732480,
+        "timestamp":"2024-06-15T21:10:10.23Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +92,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Henshaw, Cornelia",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

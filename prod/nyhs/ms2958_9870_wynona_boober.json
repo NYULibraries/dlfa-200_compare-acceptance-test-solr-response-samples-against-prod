@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -56,8 +56,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Wynona Boober typescript letters"],
         "unitdate_ssm":["Inclusive, 1940-1941"],
-        "_version_":1775225931363778560,
-        "timestamp":"2023-08-25T18:16:16.559Z"}]
+        "_version_":1800990213207490560,
+        "timestamp":"2024-06-05T03:28:30.435Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

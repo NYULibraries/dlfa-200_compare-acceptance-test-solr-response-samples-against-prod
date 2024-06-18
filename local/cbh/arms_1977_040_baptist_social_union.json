@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Baptist Social Union records"],
         "unitid_ssm":["1977.040"],
         "abstract_ssm":["This collection includes various materials documenting the activities of the Brooklyn Baptist Social Union during the period 1869 to 1898, including proceedings of the Union's Executive Board, correspondence, a minute book and roll of members, loose minutes and reports, a scrapbook of clippings on the 1874 national convention, and various news clippings, programs, and notices."],
+        "creator_ssm":["Brooklyn Baptist Social Union",
+          "Brooklyn Baptist Social Union"],
         "unitdate_normal_ssm":["1869/1898"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Baptist Social Union",
@@ -82,8 +84,8 @@
         "unitdate_end_ssm":["1898"],
         "unitdate_ssm":["Inclusive, 1869-1898"],
         "language_ssm":["English"],
-        "_version_":1799256194625306624,
-        "timestamp":"2024-05-17T00:07:01.449Z"}]
+        "_version_":1801960583762804736,
+        "timestamp":"2024-06-15T20:32:07.911Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Baptist Social Union",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

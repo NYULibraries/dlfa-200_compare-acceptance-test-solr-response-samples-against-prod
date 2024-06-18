@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edward H. Durell papers"],
         "unitid_ssm":["MS 1261"],
         "abstract_ssm":["The collection includes the papers of Edward H. Durell (1810-1887), originally of New Hampshire but who lived in New Orleans from 1836 to 1874. Before the Civil War, Durell primarily practiced law and was an author, publishing under the pen name Henry Didimus. After New Orleans fell to Union forces, Durell, as a Unionist, was appointed to various public positions during Reconstruction, including federal judge on the United States District Court for the District of Louisiana. The collection holds correspondence, letter books, manuscripts, extracts, diaries, notes, scrapbooks, and other documents. Represented in the collection in addition to Edward Durell are his father, Daniel Meserve Durell (1769-1841); other family and friends; his future wife, Mary Gebhard, and her circle; New Orleans merchant Aristide Miltenberger; and others."],
+        "creator_ssm":["Durell, Edward H. (Edward Henry), 1810-1887",
+          "Durell, Edward H. (Edward Henry), 1810-1887"],
         "corpname_ssm":["New-York Historical Society",
           "United States. Army. Department of the Gulf (1862-1865)",
           "United States. District Court (Louisiana)"],
@@ -80,8 +82,8 @@
           "Scrapbooks."],
         "heading_ssm":["Edward H. Durell papers"],
         "unitdate_ssm":["Inclusive, circa 1794-circa 1887"],
-        "_version_":1799322911935299584,
-        "timestamp":"2024-05-17T17:47:28.034Z"},
+        "_version_":1802082158094843904,
+        "timestamp":"2024-06-17T04:44:30.229Z"},
       {
         "id":"ms1261_edward_durellaspace_07dff27df753e2192654daf966c6b237",
         "ead_ssi":"ms1261_edward_durell",
@@ -97,8 +99,8 @@
         "location_ssm":["Offsite-Box: 8"],
         "heading_ssm":["Durell family records"],
         "unitdate_ssm":["Inclusive, 1830s-80s"],
-        "_version_":1799322912088391680,
-        "timestamp":"2024-05-17T17:47:28.18Z"},
+        "_version_":1802082158235353088,
+        "timestamp":"2024-06-17T04:44:30.363Z"},
       {
         "id":"ms1261_edward_durellaspace_127e41c40c1b118c597018f23c22a4c1",
         "ead_ssi":"ms1261_edward_durell",
@@ -114,8 +116,8 @@
         "location_ssm":["Offsite-Box: 13"],
         "heading_ssm":["\"Louisiana Debate\" (Box 2 of 2). Volumes 6-8"],
         "unitdate_ssm":["Inclusive, 1862-1878"],
-        "_version_":1799322912162840576,
-        "timestamp":"2024-05-17T17:47:28.251Z"},
+        "_version_":1802082158315044864,
+        "timestamp":"2024-06-17T04:44:30.439Z"},
       {
         "id":"ms1261_edward_durellaspace_15ecf06078994c59dc3d057ae71f8038",
         "ead_ssi":"ms1261_edward_durell",
@@ -131,8 +133,8 @@
         "location_ssm":["Offsite-Box: 20"],
         "heading_ssm":["\"Clippings\" (Box 7 of 8). Volumes 29-33"],
         "unitdate_ssm":["Inclusive, 1856-1881"],
-        "_version_":1799322912292864000,
-        "timestamp":"2024-05-17T17:47:28.375Z"},
+        "_version_":1802082158451359744,
+        "timestamp":"2024-06-17T04:44:30.569Z"},
       {
         "id":"ms1261_edward_durellaspace_19b226ce2ace185021126845a291460f",
         "ead_ssi":"ms1261_edward_durell",
@@ -148,8 +150,8 @@
         "location_ssm":["Offsite-Box: 12"],
         "heading_ssm":["\"Louisiana Debate\" (Box 1 of 2). Volumes 1-5"],
         "unitdate_ssm":["Inclusive, 1852-1877"],
-        "_version_":1799322912147111936,
-        "timestamp":"2024-05-17T17:47:28.236Z"},
+        "_version_":1802082158299316224,
+        "timestamp":"2024-06-17T04:44:30.423Z"},
       {
         "id":"ms1261_edward_durellaspace_33639df1a464a62cc2a553111d72306d",
         "ead_ssi":"ms1261_edward_durell",
@@ -165,8 +167,8 @@
         "location_ssm":["Offsite-Box: 14"],
         "heading_ssm":["\"Louisiana Legislation\" (Box 2 of 2). Volume 3"],
         "unitdate_ssm":["Inclusive, 1868-1877"],
-        "_version_":1799322912191152128,
-        "timestamp":"2024-05-17T17:47:28.278Z"},
+        "_version_":1802082158345453568,
+        "timestamp":"2024-06-17T04:44:30.468Z"},
       {
         "id":"ms1261_edward_durellaspace_33a6938644ab445687aa1b99bfe35502",
         "ead_ssi":"ms1261_edward_durell",
@@ -182,8 +184,8 @@
         "location_ssm":["Offsite-Box: 11"],
         "heading_ssm":["Bound volumes"],
         "unitdate_ssm":["Inclusive, 1840s?-1870s"],
-        "_version_":1799322912132431872,
-        "timestamp":"2024-05-17T17:47:28.222Z"},
+        "_version_":1802082158279393280,
+        "timestamp":"2024-06-17T04:44:30.405Z"},
       {
         "id":"ms1261_edward_durellaspace_3f623e588b966adfe68cb265466f3937",
         "ead_ssi":"ms1261_edward_durell",
@@ -199,8 +201,8 @@
         "location_ssm":["Offsite-Box: 17"],
         "heading_ssm":["\"Clippings\" (Box 4 of 8). Volumes 14-18"],
         "unitdate_ssm":["Inclusive, 1878-1880s"],
-        "_version_":1799322912250920960,
-        "timestamp":"2024-05-17T17:47:28.335Z"},
+        "_version_":1802082158404173824,
+        "timestamp":"2024-06-17T04:44:30.524Z"},
       {
         "id":"ms1261_edward_durellaspace_4e61bb1678723f81171f33c8869c381c",
         "ead_ssi":"ms1261_edward_durell",
@@ -216,8 +218,8 @@
         "location_ssm":["Offsite-Box: 21"],
         "heading_ssm":["\"Clippings\" (Box 8 of 8). Volumes 34"],
         "unitdate_ssm":["Inclusive, 1865-1881"],
-        "_version_":1799322912305446912,
-        "timestamp":"2024-05-17T17:47:28.387Z"},
+        "_version_":1802082158468136960,
+        "timestamp":"2024-06-17T04:44:30.584Z"},
       {
         "id":"ms1261_edward_durellaspace_5b97ecaaa71ca3023cb2f1f212ddcae0",
         "ead_ssi":"ms1261_edward_durell",
@@ -233,8 +235,8 @@
         "location_ssm":["Offsite-Box: 4"],
         "heading_ssm":["Durell family records"],
         "unitdate_ssm":["Inclusive, 1870s-1880s"],
-        "_version_":1799322912011845632,
-        "timestamp":"2024-05-17T17:47:28.107Z"},
+        "_version_":1802082158170341376,
+        "timestamp":"2024-06-17T04:44:30.301Z"},
       {
         "id":"ms1261_edward_durellaspace_600e97c397706549a5fa4fd66e73c0df",
         "ead_ssi":"ms1261_edward_durell",
@@ -250,8 +252,8 @@
         "location_ssm":["Offsite-Box: 15"],
         "heading_ssm":["\"Clippings\" (Box 1 of 8). Volumes 1, 2 (RESTRICTED)"],
         "unitdate_ssm":["Inclusive, 1860-1876"],
-        "_version_":1799322912204783616,
-        "timestamp":"2024-05-17T17:47:28.291Z"},
+        "_version_":1802082158359085056,
+        "timestamp":"2024-06-17T04:44:30.481Z"},
       {
         "id":"ms1261_edward_durellaspace_743c67cdee5974be5e30da4a59832aef",
         "ead_ssi":"ms1261_edward_durell",
@@ -267,8 +269,8 @@
         "location_ssm":["Offsite-Box: 13"],
         "heading_ssm":["\"Louisiana Legislation\" (Box 1 of 2). Volumes 1, 2"],
         "unitdate_ssm":["Inclusive, 1860-1870"],
-        "_version_":1799322912176472064,
-        "timestamp":"2024-05-17T17:47:28.264Z"},
+        "_version_":1802082158331822080,
+        "timestamp":"2024-06-17T04:44:30.455Z"},
       {
         "id":"ms1261_edward_durellaspace_77bb016c249ebab9521a7dda75137295",
         "ead_ssi":"ms1261_edward_durell",
@@ -284,8 +286,8 @@
         "location_ssm":["Offsite-Box: 14"],
         "heading_ssm":["\"Clippings\" (Box 2 of 8). Volumes 3-7"],
         "unitdate_ssm":["Inclusive, 1855-1885"],
-        "_version_":1799322912220512256,
-        "timestamp":"2024-05-17T17:47:28.306Z"},
+        "_version_":1802082158373765120,
+        "timestamp":"2024-06-17T04:44:30.495Z"},
       {
         "id":"ms1261_edward_durellaspace_78dc4614c11dc7ca620463b73a2c0df3",
         "ead_ssi":"ms1261_edward_durell",
@@ -301,8 +303,8 @@
         "location_ssm":["Offsite-Box: 9"],
         "heading_ssm":["Various"],
         "unitdate_ssm":["Inclusive, circa 1880s"],
-        "_version_":1799322912103071744,
-        "timestamp":"2024-05-17T17:47:28.194Z"},
+        "_version_":1802082158252130304,
+        "timestamp":"2024-06-17T04:44:30.379Z"},
       {
         "id":"ms1261_edward_durellaspace_7969efbceaa16c61da0e2d6f6196d257",
         "ead_ssi":"ms1261_edward_durell",
@@ -318,8 +320,8 @@
         "location_ssm":["Offsite-Box: 19"],
         "heading_ssm":["\"Clippings\" (Box 6 of 8). Volumes 24-28"],
         "unitdate_ssm":["Inclusive, 1858-1880s"],
-        "_version_":1799322912276086784,
-        "timestamp":"2024-05-17T17:47:28.359Z"},
+        "_version_":1802082158433533952,
+        "timestamp":"2024-06-17T04:44:30.552Z"},
       {
         "id":"ms1261_edward_durellaspace_94207a0efa80961c78907af1f814bad8",
         "ead_ssi":"ms1261_edward_durell",
@@ -335,8 +337,8 @@
         "location_ssm":["Offsite-Box: 21"],
         "heading_ssm":["\"Indexes\" Volumes 1,2"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799322912332709888,
-        "timestamp":"2024-05-17T17:47:28.413Z"},
+        "_version_":1802082158503788544,
+        "timestamp":"2024-06-17T04:44:30.619Z"},
       {
         "id":"ms1261_edward_durellaspace_98142fc9b1875a1be1b59391fda6c781",
         "ead_ssi":"ms1261_edward_durell",
@@ -352,8 +354,8 @@
         "location_ssm":["Offsite-Box: 18"],
         "heading_ssm":["\"Clippings\" (Box 5 of 8). Volumes 19-23"],
         "unitdate_ssm":["Inclusive, 1878-1880s"],
-        "_version_":1799322912263503872,
-        "timestamp":"2024-05-17T17:47:28.347Z"},
+        "_version_":1802082158417805312,
+        "timestamp":"2024-06-17T04:44:30.537Z"},
       {
         "id":"ms1261_edward_durellaspace_9ad56c566b50dc8a7c4ab0803d34c3a8",
         "ead_ssi":"ms1261_edward_durell",
@@ -369,8 +371,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Durell family records"],
         "unitdate_ssm":["Inclusive, 1820s-1880s"],
-        "_version_":1799322911975145472,
-        "timestamp":"2024-05-17T17:47:28.071Z"},
+        "_version_":1802082158132592640,
+        "timestamp":"2024-06-17T04:44:30.265Z"},
       {
         "id":"ms1261_edward_durellaspace_9b0879a5b39cb8e90e6ec0557df1d2a7",
         "ead_ssi":"ms1261_edward_durell",
@@ -386,8 +388,8 @@
         "location_ssm":["Offsite-Box: 5"],
         "heading_ssm":["Durell family records"],
         "unitdate_ssm":["Inclusive, 1840s-1880s"],
-        "_version_":1799322912028622848,
-        "timestamp":"2024-05-17T17:47:28.122Z"},
+        "_version_":1802082158186070016,
+        "timestamp":"2024-06-17T04:44:30.316Z"},
       {
         "id":"ms1261_edward_durellaspace_b5f499d43db8a7c1d1b4ae3473a3b1e9",
         "ead_ssi":"ms1261_edward_durell",
@@ -403,8 +405,8 @@
         "location_ssm":["Offsite-Box: 10"],
         "heading_ssm":["Bound volumes"],
         "unitdate_ssm":["Inclusive, 1840s?-1860s?"],
-        "_version_":1799322912117751808,
-        "timestamp":"2024-05-17T17:47:28.208Z"},
+        "_version_":1802082158265761792,
+        "timestamp":"2024-06-17T04:44:30.392Z"},
       {
         "id":"ms1261_edward_durellaspace_bb301007677cc35de895c0e178caf513",
         "ead_ssi":"ms1261_edward_durell",
@@ -420,8 +422,8 @@
         "location_ssm":["Offsite-Box: 6"],
         "heading_ssm":["Durell family records"],
         "unitdate_ssm":["Inclusive, 1802-1870s"],
-        "_version_":1799322912048545792,
-        "timestamp":"2024-05-17T17:47:28.142Z"},
+        "_version_":1802082158203895808,
+        "timestamp":"2024-06-17T04:44:30.333Z"},
       {
         "id":"ms1261_edward_durellaspace_d6a2f535cb4bb4c7657b6bacc4224abc",
         "ead_ssi":"ms1261_edward_durell",
@@ -437,8 +439,8 @@
         "location_ssm":["Offsite-Box: 16"],
         "heading_ssm":["\"Clippings\" (Box 3 of 8). Volumes 8-13"],
         "unitdate_ssm":["Inclusive, 1870-1880s"],
-        "_version_":1799322912234143744,
-        "timestamp":"2024-05-17T17:47:28.319Z"},
+        "_version_":1802082158389493760,
+        "timestamp":"2024-06-17T04:44:30.51Z"},
       {
         "id":"ms1261_edward_durellaspace_d7ada2a8414c08fc007a2005d0a73123",
         "ead_ssi":"ms1261_edward_durell",
@@ -454,8 +456,8 @@
         "location_ssm":["Offsite-Box: 7"],
         "heading_ssm":["Durell family records"],
         "unitdate_ssm":["Inclusive, 1817-1880s"],
-        "_version_":1799322912067420160,
-        "timestamp":"2024-05-17T17:47:28.16Z"},
+        "_version_":1802082158217527296,
+        "timestamp":"2024-06-17T04:44:30.346Z"},
       {
         "id":"ms1261_edward_durellaspace_e21fd34f984e17e7750e277a78a7b616",
         "ead_ssi":"ms1261_edward_durell",
@@ -471,8 +473,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Durell family records"],
         "unitdate_ssm":["Inclusive, 1794-1865"],
-        "_version_":1799322911956271104,
-        "timestamp":"2024-05-17T17:47:28.054Z"},
+        "_version_":1802082158113718272,
+        "timestamp":"2024-06-17T04:44:30.247Z"},
       {
         "id":"ms1261_edward_durellaspace_e40706589cb870528628d712e393a305",
         "ead_ssi":"ms1261_edward_durell",
@@ -488,8 +490,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Durell family records"],
         "unitdate_ssm":["Inclusive, 1830s-1880s"],
-        "_version_":1799322911995068416,
-        "timestamp":"2024-05-17T17:47:28.091Z"},
+        "_version_":1802082158149369856,
+        "timestamp":"2024-06-17T04:44:30.281Z"},
       {
         "id":"ms1261_edward_durellaspace_f7f079c47d181da08f27c0002c039cc1",
         "ead_ssi":"ms1261_edward_durell",
@@ -505,8 +507,8 @@
         "location_ssm":["Offsite-Box: 21"],
         "heading_ssm":["\"Selections\" Volumes 1, 2"],
         "unitdate_ssm":["Inclusive, 1868-1882"],
-        "_version_":1799322912318029824,
-        "timestamp":"2024-05-17T17:47:28.399Z"}]
+        "_version_":1802082158485962752,
+        "timestamp":"2024-06-17T04:44:30.602Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -514,7 +516,8 @@
       "repository_sim":[
         "nyhs",26],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Durell, Edward H. (Edward Henry), 1810-1887",1],
       "date_range_sim":[
         "undated & other",26],
       "subject_sim":[

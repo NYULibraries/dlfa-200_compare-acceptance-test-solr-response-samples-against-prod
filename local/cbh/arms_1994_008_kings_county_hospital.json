@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Mortimer D. Jones collection on the Kings County Hospital"],
         "unitid_ssm":["1994.008"],
         "abstract_ssm":["The collection contains an assortment of items relating to Kings County Hospital, dating from 1903 to the 1930s. It includes photographs, clippings, ephemera, and a history of the hospital."],
+        "creator_ssm":["Jones, Mortimer D.",
+          "Jones, Mortimer D."],
         "unitdate_normal_ssm":["1931/1939"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Kings County Hospital (Kings County, N.Y.)",
@@ -88,8 +90,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1903 to 1930s"],
         "language_ssm":["English"],
-        "_version_":1799256300007194624,
-        "timestamp":"2024-05-17T00:08:41.948Z"}]
+        "_version_":1801963751693352960,
+        "timestamp":"2024-06-15T21:22:29.085Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,7 +99,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Jones, Mortimer D.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

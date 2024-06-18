@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":17,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["C. William Britcher Thesis"],
         "unitid_ssm":["MC.283"],
         "abstract_ssm":["C. William Britcher was a student at New York University's School of Public Administration in the early 1950s. This collection consists of a single item, Britcher's 1952 thesis for his Master of Public Administration titled \"Quality Control of Small Lots.\""],
+        "creator_ssm":["Britcher, C. William",
+          "Britcher, C. William"],
         "unitdate_normal_ssm":["1952/1952"],
         "corpname_ssm":["New York University Archives"],
         "genreform_ssm":["Masters theses"],
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1952"],
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["1952"],
-        "_version_":1799247646217469952,
-        "timestamp":"2024-05-16T21:51:09.052Z"}]
+        "_version_":1801949547184783360,
+        "timestamp":"2024-06-15T17:36:42.61Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "archives",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Britcher, C. William",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

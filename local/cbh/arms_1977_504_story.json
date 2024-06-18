@@ -47,6 +47,8 @@
         "unittitle_ssm":["William H. Story patent"],
         "unitid_ssm":["1977.504"],
         "abstract_ssm":["One 1871 letter of patent granted by the United States Commissioner of Patents to William H. Story for an improvement in molds for sewer pipes."],
+        "creator_ssm":["United States. Patent Office",
+          "United States. Patent Office"],
         "unitdate_normal_ssm":["1871/1871"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Patent Office"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1871"],
         "unitdate_ssm":["1871"],
         "language_ssm":["English"],
-        "_version_":1799311682837676032,
-        "timestamp":"2024-05-17T14:48:59.132Z"}]
+        "_version_":1801961817551929344,
+        "timestamp":"2024-06-15T20:51:44.544Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. Patent Office",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

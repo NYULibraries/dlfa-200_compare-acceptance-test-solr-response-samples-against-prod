@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edwin Smith Manuscript \"American Labor History\""],
         "unitid_ssm":["TAM.375"],
         "abstract_ssm":["This collection contains an unpublished typescript of \"American Labor History\" written by Edwin Smith. Edwin Smith was an American labor leader was one of the first three members of the National Labor Relations Board appointed by Franklin Delano Roosevelt. Smith's manuscript for \"American Labor History,\" attempts to document the history of American labor from the colonial period up to the start of the Cold War in the 1950s. The manuscript is incomplete however, and only contains Chapters I through VII, ending in the 1820s. The collection also contains several biographical sketches of Smith including obituaries following his death in 1976."],
+        "creator_ssm":["Smith, Edwin S., 1891-1976",
+          "Smith, Edwin S., 1891-1976"],
         "unitdate_normal_ssm":["1976/1976"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Friends of the Soviet Union (Group)",
@@ -72,8 +74,8 @@
         "unitdate_start_ssm":["1976"],
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1976, undated"],
-        "_version_":1775219977113042944,
-        "timestamp":"2023-08-25T16:41:38.144Z"},
+        "_version_":1801249131766743040,
+        "timestamp":"2024-06-08T00:03:54.415Z"},
       {
         "id":"tam_375aspace_ref10",
         "ead_ssi":"tam_375",
@@ -87,14 +89,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Edwin Smith Biographical Information"],
         "unitdate_start_ssm":["1976"],
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, undated, 1976"],
-        "_version_":1775219977149743104,
-        "timestamp":"2023-08-25T16:41:38.179Z"},
+        "_version_":1801249131795054592,
+        "timestamp":"2024-06-08T00:03:54.442Z"},
       {
         "id":"tam_375aspace_ref11",
         "ead_ssi":"tam_375",
@@ -107,12 +108,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["\"American Labor History\" by Edwin Smith"],
         "unitdate_ssm":["undated"],
-        "_version_":1775219977185394688,
-        "timestamp":"2023-08-25T16:41:38.213Z"}]
+        "_version_":1801249131811831808,
+        "timestamp":"2024-06-08T00:03:54.458Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -120,7 +120,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Smith, Edwin S., 1891-1976",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",1],

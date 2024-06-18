@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Cora Williamson ephemera collection"],
         "unitid_ssm":["1985.030"],
         "abstract_ssm":["The collection consists of 19th century ephemera belonging to a schoolgirl named Cora Williamson."],
+        "creator_ssm":["Williamson, Cora",
+          "Williamson, Cora"],
         "unitdate_normal_ssm":["1870/1889"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Rewards of merit",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1889"],
         "unitdate_ssm":["Inclusive, circa 1870s-1880s"],
         "language_ssm":["English"],
-        "_version_":1799312377530810368,
-        "timestamp":"2024-05-17T15:00:01.643Z"}]
+        "_version_":1801962973486383104,
+        "timestamp":"2024-06-15T21:10:06.929Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Williamson, Cora",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

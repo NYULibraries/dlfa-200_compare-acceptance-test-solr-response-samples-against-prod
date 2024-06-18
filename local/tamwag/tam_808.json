@@ -47,6 +47,8 @@
         "unittitle_ssm":["Susan E. Wilson Collection on the American Peoples School"],
         "unitid_ssm":["TAM.808"],
         "abstract_ssm":["Susan E. Wilson's mother, Vivian Glenn Wilson, lived at the American Peoples School in the 1930s. The school, located at 67 Stevenson Place in the Bronx, was a progressive residential center for young men and women who work during the day and study in the evening. The Susan E. Wilson Collection on the American Peoples School (dated 1933-1937) consists of materials collected by Wilson's parents documenting the culture and politics of the American Peoples School in the Bronx. Materials include a blank membership application, ephemera, dance instructions, and a research paper. The collection also includes theater programs from the 1930s, many from the WPA Federal Theatre Project."],
+        "creator_ssm":["Wilson, Susan E.",
+          "Wilson, Susan E."],
         "unitdate_normal_ssm":["1933/1937"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Federal Theatre Project (U.S.)"],
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1933"],
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Inclusive, 1933-1937"],
-        "_version_":1799792485781733376,
-        "timestamp":"2024-05-22T22:11:08.551Z"},
+        "_version_":1802184753563041792,
+        "timestamp":"2024-06-18T07:55:12.892Z"},
       {
         "id":"tam_808aspace_78f8d6c7a343fea0b4927517b4c7201d",
         "ead_ssi":"tam_808",
@@ -82,14 +84,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["American Peoples School"],
         "unitdate_start_ssm":["1933"],
         "unitdate_end_ssm":["1936"],
         "unitdate_ssm":["Inclusive, 1933-1936"],
-        "_version_":1799792485797462016,
-        "timestamp":"2024-05-22T22:11:08.566Z"},
+        "_version_":1802184753573527552,
+        "timestamp":"2024-06-18T07:55:12.902Z"},
       {
         "id":"tam_808aspace_cc7aa5c1a701377b7837f7ecd248c0d6",
         "ead_ssi":"tam_808",
@@ -103,14 +104,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Theater Programs"],
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Inclusive, 1936-1937"],
-        "_version_":1799792485811093504,
-        "timestamp":"2024-05-22T22:11:08.579Z"}]
+        "_version_":1802184753582964736,
+        "timestamp":"2024-06-18T07:55:12.911Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -118,7 +118,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wilson, Susan E.",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

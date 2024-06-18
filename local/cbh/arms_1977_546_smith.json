@@ -47,6 +47,10 @@
         "unittitle_ssm":["Thomas and William H. Smith papers"],
         "unitid_ssm":["1977.546"],
         "abstract_ssm":["This collection consists of agreements and leases dating from 1884 to 1903 and relating to Thomas and William H. Smith's connection to properties on Front and Broad Streets in New York City through their roles as Committee and Trustee of N. Denton of Geneva, N.Y. and Guardian of Louise A. Gormly of Rochester, N.Y."],
+        "creator_ssm":["Smith, Thomas",
+          "Smith, William H.",
+          "Smith, Thomas",
+          "Smith, William H."],
         "unitdate_normal_ssm":["1884/1903"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Agreements",
@@ -74,8 +78,8 @@
         "unitdate_end_ssm":["1903"],
         "unitdate_ssm":["Inclusive, 1884-1903"],
         "language_ssm":["English"],
-        "_version_":1799309976026480640,
-        "timestamp":"2024-05-17T14:21:51.39Z"}]
+        "_version_":1801961922955837440,
+        "timestamp":"2024-06-15T20:53:25.064Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +87,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Smith, Thomas",1,
+        "Smith, William H.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Herman W. Benson Typescript \"Insurgency and Reform in the Painters Union, 1960-1967\""],
         "unitid_ssm":["WAG.280"],
         "abstract_ssm":["Herman W. Benson is a union member and labor journalist. This collection contains a typescript of an unpublished paper by Herman W. Benson regarding the reform movement in the Brotherhood of Painters, Decorators and Paperhangers in the 1960s."],
+        "creator_ssm":["Benson, Herman W.",
+          "Benson, Herman W."],
         "unitdate_normal_ssm":["1974/1974"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Benson, Herman W."],
@@ -60,8 +62,8 @@
         "unitdate_start_ssm":["1974"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["1974"],
-        "_version_":1799803952406986752,
-        "timestamp":"2024-05-23T01:13:23.977Z"},
+        "_version_":1802196480129236992,
+        "timestamp":"2024-06-18T11:01:36.217Z"},
       {
         "id":"wag_280aspace_0952edb69e96e5378341fa181893a2a5",
         "ead_ssi":"wag_280",
@@ -76,8 +78,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Typescript \"Insurgency and Reform in the Painters Union, 1960-1967\""],
-        "_version_":1799803952420618240,
-        "timestamp":"2024-05-23T01:13:23.99Z"}]
+        "_version_":1802196480137625600,
+        "timestamp":"2024-06-18T11:01:36.225Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Benson, Herman W.",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["James Oneal Papers"],
         "unitid_ssm":["TAM.034"],
+        "creator_ssm":["Oneal, James, 1875-1962",
+          "Oneal, James, 1875-1962"],
         "unitdate_normal_ssm":["1907/1962"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Socialist Party (U.S.)",
@@ -83,8 +85,8 @@
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1907-1962"],
         "language_ssm":["English"],
-        "_version_":1799776981324136448,
-        "timestamp":"2024-05-22T18:04:42.348Z"},
+        "_version_":1802167309012303872,
+        "timestamp":"2024-06-18T03:17:56.472Z"},
       {
         "id":"tam_034aspace_ref10",
         "ead_ssi":"tam_034",
@@ -99,8 +101,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 7"],
         "heading_ssm":["Clippings"],
-        "_version_":1799776981434236928,
-        "timestamp":"2024-05-22T18:04:42.453Z"},
+        "_version_":1802167309064732672,
+        "timestamp":"2024-06-18T03:17:56.522Z"},
       {
         "id":"tam_034aspace_ref11",
         "ead_ssi":"tam_034",
@@ -115,8 +117,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 8"],
         "heading_ssm":["Clippings"],
-        "_version_":1799776981447868416,
-        "timestamp":"2024-05-22T18:04:42.466Z"},
+        "_version_":1802167309072072704,
+        "timestamp":"2024-06-18T03:17:56.529Z"},
       {
         "id":"tam_034aspace_ref4",
         "ead_ssi":"tam_034",
@@ -131,8 +133,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Correspondence"],
-        "_version_":1799776981336719360,
-        "timestamp":"2024-05-22T18:04:42.36Z"},
+        "_version_":1802167309020692480,
+        "timestamp":"2024-06-18T03:17:56.48Z"},
       {
         "id":"tam_034aspace_ref5",
         "ead_ssi":"tam_034",
@@ -147,8 +149,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Writings"],
-        "_version_":1799776981351399424,
-        "timestamp":"2024-05-22T18:04:42.374Z"},
+        "_version_":1802167309026983936,
+        "timestamp":"2024-06-18T03:17:56.486Z"},
       {
         "id":"tam_034aspace_ref6",
         "ead_ssi":"tam_034",
@@ -163,8 +165,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 3"],
         "heading_ssm":["Writings"],
-        "_version_":1799776981369225216,
-        "timestamp":"2024-05-22T18:04:42.391Z"},
+        "_version_":1802167309038518272,
+        "timestamp":"2024-06-18T03:17:56.497Z"},
       {
         "id":"tam_034aspace_ref7",
         "ead_ssi":"tam_034",
@@ -179,8 +181,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 4"],
         "heading_ssm":["Writings"],
-        "_version_":1799776981386002432,
-        "timestamp":"2024-05-22T18:04:42.407Z"},
+        "_version_":1802167309044809728,
+        "timestamp":"2024-06-18T03:17:56.503Z"},
       {
         "id":"tam_034aspace_ref8",
         "ead_ssi":"tam_034",
@@ -195,8 +197,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 5"],
         "heading_ssm":["Clippings"],
-        "_version_":1799776981406973952,
-        "timestamp":"2024-05-22T18:04:42.427Z"},
+        "_version_":1802167309052149760,
+        "timestamp":"2024-06-18T03:17:56.51Z"},
       {
         "id":"tam_034aspace_ref9",
         "ead_ssi":"tam_034",
@@ -211,8 +213,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 6"],
         "heading_ssm":["Clippings"],
-        "_version_":1799776981422702592,
-        "timestamp":"2024-05-22T18:04:42.442Z"}]
+        "_version_":1802167309058441216,
+        "timestamp":"2024-06-18T03:17:56.516Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -220,7 +222,8 @@
       "repository_sim":[
         "tamwag",9],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Oneal, James, 1875-1962",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",8],

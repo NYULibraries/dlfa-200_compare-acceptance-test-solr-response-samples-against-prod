@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edward B. Watson collection of World War I and World War II illustrations and cartoons"],
         "unitid_ssm":["1977.278"],
         "abstract_ssm":["This collection consists of color illustrations and black-and-white cartoons relating to air, land, and sea activities during World War I and World War II. The cartoons were collected by Edward B. Watson and were clipped from various New York City newspapers and magazines."],
+        "creator_ssm":["Watson, Edward B.",
+          "Watson, Edward B."],
         "unitdate_normal_ssm":["1914/1945",
           "1914/1920"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -78,8 +80,8 @@
           "1920"],
         "unitdate_ssm":["Inclusive, 1914-1945 ; 1914-1920"],
         "language_ssm":["English"],
-        "_version_":1799311499846483968,
-        "timestamp":"2024-05-17T14:46:04.618Z"}]
+        "_version_":1801961235301793792,
+        "timestamp":"2024-06-15T20:42:29.267Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Watson, Edward B.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

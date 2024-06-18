@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":28,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["American Communications Association Records"],
         "unitid_ssm":["WAG.274"],
         "abstract_ssm":["The American Communications Association (ACA) was formed in 1931 as the American Radio Telegraphists Association, a union representing telegraphists and radio operators. This collection contains pamphlets and newsletters concerning locals and organizing in the ACA from the 1950's and 1960's."],
+        "creator_ssm":["American Communications Association",
+          "American Communications Association"],
         "unitdate_normal_ssm":["1950/1969"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "American Communications Association"],
@@ -60,8 +62,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1950-1969"],
-        "_version_":1799803934193221632,
-        "timestamp":"2024-05-23T01:13:06.607Z"}]
+        "_version_":1802196468082147328,
+        "timestamp":"2024-06-18T11:01:24.728Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -69,7 +71,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "American Communications Association",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

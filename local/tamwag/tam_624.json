@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":20,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Rachel Schimke"],
         "unittitle_ssm":["Anna and Max Sherover Scrapbooks"],
         "unitid_ssm":["TAM.624"],
+        "creator_ssm":["Sherover, Max, 1889-",
+          "Sherover, Max, 1889-"],
         "unitdate_normal_ssm":["1910/1929"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Scrapbooks."],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, 1910-1920s"],
         "language_ssm":["English"],
-        "_version_":1799791834950533120,
-        "timestamp":"2024-05-22T22:00:47.87Z"}]
+        "_version_":1802183770387775488,
+        "timestamp":"2024-06-18T07:39:35.262Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sherover, Max, 1889-",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Atlantic Avenue railroad project photographs"],
         "unitid_ssm":["V1992.015"],
         "abstract_ssm":["The photographs show views of the Brooklyn neighborhoods of East New York and Cypress Hills and views of the Queens neighborhoods of Woodhaven and Richmond Hill. Though the photography project was intended to document images of infrastructure related to the railroad such as railroad tracks, street ducts, street poles, and aerial cables, the photographs incidentally document street life, buildings, and period automobiles, among other subjects. The photographer was C. V. Beutel and project was directed by A. G. Dengler. All photographs were taken on October 4, 1939."],
+        "creator_ssm":["Beutel, C. V.",
+          "Dengler, A. G.",
+          "Beutel, C. V.",
+          "Dengler, A. G."],
         "unitdate_normal_ssm":["1939/1939"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographs",
@@ -81,8 +85,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1939"],
         "language_ssm":["English"],
-        "_version_":1799256313955352576,
-        "timestamp":"2024-05-17T00:08:55.25Z"}]
+        "_version_":1802045584152985600,
+        "timestamp":"2024-06-16T19:03:10.6Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +94,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Beutel, C. V.",1,
+        "Dengler, A. G.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

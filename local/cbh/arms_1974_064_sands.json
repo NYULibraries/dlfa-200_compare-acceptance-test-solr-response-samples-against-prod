@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["John Sands papers"],
         "unitid_ssm":["1974.064"],
         "abstract_ssm":["The papers primarily document Sands' tenure as a Colonel in General George Washington's army during the American Revolution."],
+        "creator_ssm":["Sands, John",
+          "Onderdonk, Henry",
+          "Sands, John",
+          "Onderdonk, Henry"],
         "unitdate_normal_ssm":["1728/1776"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Muster rolls",
@@ -74,8 +78,8 @@
         "unitdate_end_ssm":["1776"],
         "unitdate_ssm":["Inclusive, 1728-1776"],
         "language_ssm":["English"],
-        "_version_":1799311441285611520,
-        "timestamp":"2024-05-17T14:45:08.77Z"}]
+        "_version_":1801960308058619904,
+        "timestamp":"2024-06-15T20:27:44.979Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +87,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Onderdonk, Henry",1,
+        "Sands, John",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

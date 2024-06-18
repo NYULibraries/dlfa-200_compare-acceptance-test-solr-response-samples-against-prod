@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Musical Mutual Protective Union Minutes"],
         "unitid_ssm":["WAG.237"],
+        "creator_ssm":["Musical Mutual Protective Union",
+          "Musical Mutual Protective Union"],
         "unitdate_normal_ssm":["1863/1910"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Musical Mutual Protective Union"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, 1863-1910"],
         "language_ssm":["English"],
-        "_version_":1799803352254513152,
-        "timestamp":"2024-05-23T01:03:51.627Z"}]
+        "_version_":1802196073201008640,
+        "timestamp":"2024-06-18T10:55:08.139Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Musical Mutual Protective Union",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

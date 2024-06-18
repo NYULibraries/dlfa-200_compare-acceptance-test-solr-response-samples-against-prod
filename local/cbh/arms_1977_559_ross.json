@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William R. Ross papers"],
         "unitid_ssm":["1977.559"],
         "abstract_ssm":["This collection contains personal papers of William R. Ross spanning the period 1943 to 1947. Most items pertain to the death of Ross's son, William Richard Ross, in 1945."],
+        "creator_ssm":["Ross, William R.",
+          "Ross, William R."],
         "unitdate_normal_ssm":["1943/1947"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["Inclusive, 1943-1947"],
         "language_ssm":["English"],
-        "_version_":1799256280242585600,
-        "timestamp":"2024-05-17T00:08:23.1Z"}]
+        "_version_":1801961948293627904,
+        "timestamp":"2024-06-15T20:53:49.229Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ross, William R.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

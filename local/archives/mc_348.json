@@ -47,6 +47,10 @@
         "unittitle_ssm":["Curtis and Linda Hoffman Collection on the University Heights Campus Closing"],
         "unitid_ssm":["MC.348"],
         "abstract_ssm":["Curtis and Linda Hoffman are alumni of the New York University at the University Heights campus. This collection consists of a button and the lyrics of \"Bye-Bye University Heights\" written for Senior Day in 1973."],
+        "creator_ssm":["Hoffman, Linda",
+          "Hoffman, Curtis",
+          "Hoffman, Linda",
+          "Hoffman, Curtis"],
         "unitdate_normal_ssm":["1973/1973"],
         "corpname_ssm":["New York University Archives",
           "New York University. University Heights"],
@@ -64,8 +68,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["1973"],
-        "_version_":1799254161637769216,
-        "timestamp":"2024-05-16T23:34:42.641Z"},
+        "_version_":1801950160509468672,
+        "timestamp":"2024-06-15T17:46:27.522Z"},
       {
         "id":"mc_348aspace_65ba2e6342ea308f7236c433735dca68",
         "ead_ssi":"mc_348",
@@ -79,14 +83,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 099, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: Shared University Archives 099, Folder: 2"],
         "heading_ssm":["Button and Song Lyrics"],
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["1973"],
-        "_version_":1799254161668177920,
-        "timestamp":"2024-05-16T23:34:42.67Z"}]
+        "_version_":1801950160532537344,
+        "timestamp":"2024-06-15T17:46:27.544Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +97,9 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hoffman, Curtis",1,
+        "Hoffman, Linda",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":16,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Rebuild by Design Hurricane Sandy Competition records"],
         "unitid_ssm":["MS 3216"],
         "abstract_ssm":["This collection contains records of Rebuild by Design, a New York regional competition launched in 2013 by President Obama's Hurricane Sandy Rebuilding Task Force and led by the Institute for Public Knowledge at New York University, the Regional Plan Association, the Municipal Arts Society and the Van Alen Institute. It was a multi-stage planning and design competition to develop solutions to continuing threats resulting from climate change. The collection consists primarily of records related to competition planning, press releases, and interim and final deliverables. There are also a number of photos and videos of site visits, meetings, and various events."],
+        "creator_ssm":["Rebuild by Design (Firm)",
+          "Rebuild by Design (Firm)"],
         "corpname_ssm":["New-York Historical Society",
           "Rebuild by Design (Firm)"],
         "genreform_ssm":["Digital file formats.",
@@ -69,8 +71,8 @@
           "Digital images."],
         "heading_ssm":["Rebuild by Design Hurricane Sandy Competition records"],
         "unitdate_ssm":["Inclusive, 2013-2014"],
-        "_version_":1799324902190219264,
-        "timestamp":"2024-05-17T18:19:06.089Z"},
+        "_version_":1802086183417675776,
+        "timestamp":"2024-06-17T05:48:29.076Z"},
       {
         "id":"ms3216_rebuild_by_designaspace_03f0becbd7dae5a5f4b493e8716a8d7b",
         "ead_ssi":"ms3216_rebuild_by_design",
@@ -85,8 +87,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Digital-Folder: 10"],
         "heading_ssm":["Stage 1 Winning Teams Submissions"],
-        "_version_":1799324902311854080,
-        "timestamp":"2024-05-17T18:19:06.205Z"},
+        "_version_":1802086183585447936,
+        "timestamp":"2024-06-17T05:48:29.235Z"},
       {
         "id":"ms3216_rebuild_by_designaspace_0df4b6fbdbcff64c244f6cb8a772d00c",
         "ead_ssi":"ms3216_rebuild_by_design",
@@ -101,8 +103,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Digital-Folder: 7"],
         "heading_ssm":["Photos and Images"],
-        "_version_":1799324902278299648,
-        "timestamp":"2024-05-17T18:19:06.173Z"},
+        "_version_":1802086183539310592,
+        "timestamp":"2024-06-17T05:48:29.192Z"},
       {
         "id":"ms3216_rebuild_by_designaspace_28173ddc9aacc94e1e25025025e72b0d",
         "ead_ssi":"ms3216_rebuild_by_design",
@@ -117,8 +119,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Digital-Folder: 3"],
         "heading_ssm":["Documentation and Stats"],
-        "_version_":1799324902226919424,
-        "timestamp":"2024-05-17T18:19:06.124Z"},
+        "_version_":1802086183476396032,
+        "timestamp":"2024-06-17T05:48:29.132Z"},
       {
         "id":"ms3216_rebuild_by_designaspace_37a573afc209689968f1df550c6eefe6",
         "ead_ssi":"ms3216_rebuild_by_design",
@@ -133,8 +135,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Digital-Folder: 1"],
         "heading_ssm":["Communications Strategy and Published Press Articles"],
-        "_version_":1799324902202802176,
-        "timestamp":"2024-05-17T18:19:06.101Z"},
+        "_version_":1802086183443890176,
+        "timestamp":"2024-06-17T05:48:29.101Z"},
       {
         "id":"ms3216_rebuild_by_designaspace_3f838706c9067df6eeffc83c3e364aca",
         "ead_ssi":"ms3216_rebuild_by_design",
@@ -149,8 +151,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Digital-Folder: 6"],
         "heading_ssm":["Legal"],
-        "_version_":1799324902263619584,
-        "timestamp":"2024-05-17T18:19:06.159Z"},
+        "_version_":1802086183526727680,
+        "timestamp":"2024-06-17T05:48:29.18Z"},
       {
         "id":"ms3216_rebuild_by_designaspace_5b75fea0a85e362280b503e7a314b57e",
         "ead_ssi":"ms3216_rebuild_by_design",
@@ -165,8 +167,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Digital-Folder: 5"],
         "heading_ssm":["Final Event April 3"],
-        "_version_":1799324902248939520,
-        "timestamp":"2024-05-17T18:19:06.145Z"},
+        "_version_":1802086183512047616,
+        "timestamp":"2024-06-17T05:48:29.166Z"},
       {
         "id":"ms3216_rebuild_by_designaspace_7e200edc79df0a5bdcce40210bec0c52",
         "ead_ssi":"ms3216_rebuild_by_design",
@@ -181,8 +183,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Digital-Folder: 12"],
         "heading_ssm":["Stage 3 Design Stage"],
-        "_version_":1799324902333874176,
-        "timestamp":"2024-05-17T18:19:06.226Z"},
+        "_version_":1802086183612710912,
+        "timestamp":"2024-06-17T05:48:29.262Z"},
       {
         "id":"ms3216_rebuild_by_designaspace_89756730a7e44f3d03e14e234e821be0",
         "ead_ssi":"ms3216_rebuild_by_design",
@@ -197,8 +199,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Digital-Folder: 11"],
         "heading_ssm":["Stage 2 Research Stage"],
-        "_version_":1799324902322339840,
-        "timestamp":"2024-05-17T18:19:06.215Z"},
+        "_version_":1802086183599079424,
+        "timestamp":"2024-06-17T05:48:29.249Z"},
       {
         "id":"ms3216_rebuild_by_designaspace_992ee957404deadc59af33998821fccc",
         "ead_ssi":"ms3216_rebuild_by_design",
@@ -213,8 +215,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Digital-Folder: 9"],
         "heading_ssm":["Research Advisory Group"],
-        "_version_":1799324902301368320,
-        "timestamp":"2024-05-17T18:19:06.195Z"},
+        "_version_":1802086183571816448,
+        "timestamp":"2024-06-17T05:48:29.223Z"},
       {
         "id":"ms3216_rebuild_by_designaspace_9e5c4f009b9178a8b31e199ab87bf46d",
         "ead_ssi":"ms3216_rebuild_by_design",
@@ -229,8 +231,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Digital-Folder: 13"],
         "heading_ssm":["Videos"],
-        "_version_":1799324902345408512,
-        "timestamp":"2024-05-17T18:19:06.237Z"},
+        "_version_":1802086183631585280,
+        "timestamp":"2024-06-17T05:48:29.279Z"},
       {
         "id":"ms3216_rebuild_by_designaspace_b96f3b73d14cfea373d673c763788776",
         "ead_ssi":"ms3216_rebuild_by_design",
@@ -245,8 +247,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Digital-Folder: 8"],
         "heading_ssm":["Process Memos"],
-        "_version_":1799324902289833984,
-        "timestamp":"2024-05-17T18:19:06.184Z"},
+        "_version_":1802086183556087808,
+        "timestamp":"2024-06-17T05:48:29.208Z"},
       {
         "id":"ms3216_rebuild_by_designaspace_d0a57a610a71024bc883c7044964cc90",
         "ead_ssi":"ms3216_rebuild_by_design",
@@ -261,8 +263,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Digital-Folder: 2"],
         "heading_ssm":["Competition Planning"],
-        "_version_":1799324902214336512,
-        "timestamp":"2024-05-17T18:19:06.112Z"},
+        "_version_":1802086183460667392,
+        "timestamp":"2024-06-17T05:48:29.117Z"},
       {
         "id":"ms3216_rebuild_by_designaspace_dfb5cebb1258410abd82a717400c47d5",
         "ead_ssi":"ms3216_rebuild_by_design",
@@ -277,8 +279,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Digital-Folder: 14"],
         "heading_ssm":["Working Groups"],
-        "_version_":1799324902355894272,
-        "timestamp":"2024-05-17T18:19:06.247Z"},
+        "_version_":1802086183647313920,
+        "timestamp":"2024-06-17T05:48:29.295Z"},
       {
         "id":"ms3216_rebuild_by_designaspace_f1ea8db5e9662f4565f57deb75e77506",
         "ead_ssi":"ms3216_rebuild_by_design",
@@ -293,8 +295,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Digital-Folder: 4"],
         "heading_ssm":["Final Deliverables"],
-        "_version_":1799324902238453760,
-        "timestamp":"2024-05-17T18:19:06.134Z"}]
+        "_version_":1802086183497367552,
+        "timestamp":"2024-06-17T05:48:29.152Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -302,7 +304,8 @@
       "repository_sim":[
         "nyhs",15],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rebuild by Design (Firm)",1],
       "date_range_sim":[
         "undated & other",15],
       "subject_sim":[

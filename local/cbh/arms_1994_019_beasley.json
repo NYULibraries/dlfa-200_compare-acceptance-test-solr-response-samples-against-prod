@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["David S. Beasley family papers"],
         "unitid_ssm":["1994.019"],
         "abstract_ssm":["The David S. Beasley family papers consists of a photocopied typescript entitled \"Recollections of a Half a Century Ago,\" by Beasley (1904), three photocopies of Beasley family portraits (circa 1870s to 1890s), and genealogical papers regarding David S. Beasley (circa 1994)."],
+        "creator_ssm":["Beasley, David S.",
+          "Beasley, David S."],
         "unitdate_normal_ssm":["1870/1994"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Sumner Avenue Methodist Episcopal Church (Brooklyn, New York, N.Y.)"],
@@ -77,8 +79,8 @@
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, circa 1870s to circa 1994"],
         "language_ssm":["English"],
-        "_version_":1799311563873583104,
-        "timestamp":"2024-05-17T14:47:05.678Z"}]
+        "_version_":1801963773596008448,
+        "timestamp":"2024-06-15T21:22:49.973Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Beasley, David S.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

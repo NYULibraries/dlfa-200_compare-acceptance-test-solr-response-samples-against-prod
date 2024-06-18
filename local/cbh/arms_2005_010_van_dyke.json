@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Henry J. Van Dyke sermon"],
         "unitid_ssm":["2005.010"],
         "abstract_ssm":["A printed copy of a sermon delivered Rev. Henry J. Van Dyke, pastor of the First Presbyterian Church of Brooklyn, entitled The Character and Influence of Abolitionism.  The sermon was given on December 9, 1860, and published by D. Appleton and Company, New York in 1861."],
+        "creator_ssm":["Van Dyke, Henry J. (Henry Jackson)",
+          "Van Dyke, Henry J. (Henry Jackson)"],
         "unitdate_normal_ssm":["1860/1861"],
         "corpname_ssm":["Brooklyn Historical Society",
           "First Presbyterian Church (Brooklyn, New York, N.Y.)"],
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1861"],
         "unitdate_ssm":["Inclusive, 1860-1861"],
         "language_ssm":["English"],
-        "_version_":1799311503175712768,
-        "timestamp":"2024-05-17T14:46:07.793Z"}]
+        "_version_":1801963901111238656,
+        "timestamp":"2024-06-15T21:24:51.581Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Van Dyke, Henry J. (Henry Jackson)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

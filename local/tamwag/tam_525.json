@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Esta Nette Papers"],
         "unitid_ssm":["TAM.525"],
+        "creator_ssm":["Nette, Esta",
+          "Nette, Esta"],
         "unitdate_normal_ssm":["1934/2008"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Labor-Negro Vanguard Conference|y (1953)",
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["1934"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 1934-2008"],
-        "_version_":1799334116738465792,
-        "timestamp":"2024-05-17T20:45:33.767Z"}]
+        "_version_":1802183251982286848,
+        "timestamp":"2024-06-18T07:31:20.873Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nette, Esta",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Dwight B. Demeritt, Jr. collection of 19th century Brooklyn portraits"],
         "unitid_ssm":["V1988.028"],
         "abstract_ssm":["The collection is composed of cabinet cards and cartes-de-visite from commercial portrait studios in Brooklyn, N.Y. Portraits in the collection show Brooklyn and New England men, women, and children, some of whom are identified by name and address."],
+        "creator_ssm":["Demeritt, Dwight B., Jr.",
+          "Demeritt, Dwight B., Jr."],
         "unitdate_normal_ssm":["1864/1899"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Studio portraits",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1899"],
         "unitdate_ssm":["Inclusive, circa late 19th century"],
         "language_ssm":["English"],
-        "_version_":1799256190525374464,
-        "timestamp":"2024-05-17T00:06:57.539Z"}]
+        "_version_":1802045227773460480,
+        "timestamp":"2024-06-16T18:57:30.73Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Demeritt, Dwight B., Jr.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

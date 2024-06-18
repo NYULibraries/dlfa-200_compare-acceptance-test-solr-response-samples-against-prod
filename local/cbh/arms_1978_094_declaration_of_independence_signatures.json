@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Facsimiles of the Declaration of Independence signatures"],
         "unitid_ssm":["1978.094"],
         "abstract_ssm":["Embroidered silk facsimile of the signatures of all signers of the Declaration of Independence, created circa 1876."],
+        "creator_ssm":["American Silk Manufacturing Company",
+          "American Silk Manufacturing Company"],
         "unitdate_normal_ssm":["1876/1876"],
         "corpname_ssm":["Brooklyn Historical Society",
           "American Silk Manufacturing Company",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1876"],
         "unitdate_ssm":["circa 1876"],
         "language_ssm":["English"],
-        "_version_":1799311438198603776,
-        "timestamp":"2024-05-17T14:45:05.826Z"}]
+        "_version_":1801962430395318272,
+        "timestamp":"2024-06-15T21:01:28.997Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "American Silk Manufacturing Company",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

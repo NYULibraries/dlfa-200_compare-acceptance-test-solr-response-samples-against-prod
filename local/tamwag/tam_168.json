@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Benjamin and Jeannette Glassberg Papers"],
         "unitid_ssm":["TAM.168"],
         "abstract_ssm":["Benjamin Glassberg was a teacher and housing activist. Benjamin was active in the Teachers' League and in 1919 became acting director of the labor research department of the Rand School of Social Science.  He joined the Public Housing Administrationand in 1943 and worked on housing issues until his death in 1953. Jeanette Glassberg was involved in the women's suffrage movement in Washington D.C. and helped create the first nursery school in Wisconsin. After Benjamin died she worked for the Department of Public Welfare and other social agencies. This collection contains letters from Benjamin to Jeanette from 1944-1945, newspaper clippings related to Benjamin's work, articles by Benjamin, a copy of his unpublished PhD thesis, and school report cards. The collection also contains Jeanette's papers which include articles, clippings, report cards, photographs and other memorabilia."],
+        "creator_ssm":["Glassberg, Jeannette",
+          "Glassberg, Benjamin, b. 1889",
+          "Glassberg, Jeannette",
+          "Glassberg, Benjamin, b. 1889"],
         "unitdate_normal_ssm":["1919/1953"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Articles.",
@@ -79,8 +83,8 @@
         "unitdate_start_ssm":["1919"],
         "unitdate_end_ssm":["1953"],
         "unitdate_ssm":["Inclusive,  ; 1919-1953"],
-        "_version_":1799781074434260992,
-        "timestamp":"2024-05-22T19:09:45.842Z"}]
+        "_version_":1802170294871261184,
+        "timestamp":"2024-06-18T04:05:24.008Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +92,9 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Glassberg, Benjamin, b. 1889",1,
+        "Glassberg, Jeannette",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles Adler, Jr. Papers"],
         "unitid_ssm":["MC.61"],
         "abstract_ssm":["This collection contains the correspondence and patents pertaining to a number of Charles Adler, Jr.'s inventions, including aircraft lights, horns, and proximity lights."],
+        "creator_ssm":["Adler, Charles, Jr., 1899-1980",
+          "Adler, Charles, Jr., 1899-1980"],
         "unitdate_normal_ssm":["1936/1952",
           "1946/1951"],
         "corpname_ssm":["New York University Archives",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1952",
           "1951"],
         "unitdate_ssm":["Inclusive, 1936-1952 ; 1946-1951"],
-        "_version_":1799248522031136768,
-        "timestamp":"2024-05-16T22:05:04.293Z"},
+        "_version_":1801950538272604160,
+        "timestamp":"2024-06-15T17:52:27.785Z"},
       {
         "id":"mc_61aspace_ref1",
         "ead_ssi":"mc_61",
@@ -82,15 +84,14 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 008, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared University Archives 008, Folder: 1"],
         "heading_ssm":["Correspondence and Patents for Aircraft Lights"],
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, 1936-1952"],
         "language_ssm":["English"],
-        "_version_":1799248522053156864,
-        "timestamp":"2024-05-16T22:05:04.313Z"},
+        "_version_":1801950538293575680,
+        "timestamp":"2024-06-15T17:52:27.805Z"},
       {
         "id":"mc_61aspace_ref2",
         "ead_ssi":"mc_61",
@@ -104,15 +105,14 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 008, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: Shared University Archives 008, Folder: 2"],
         "heading_ssm":["Patent for Aircraft Horn"],
         "unitdate_start_ssm":["1946"],
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["Inclusive, 1946-1947"],
         "language_ssm":["English"],
-        "_version_":1799248522074128384,
-        "timestamp":"2024-05-16T22:05:04.334Z"},
+        "_version_":1801950538312450048,
+        "timestamp":"2024-06-15T17:52:27.823Z"},
       {
         "id":"mc_61aspace_ref3",
         "ead_ssi":"mc_61",
@@ -126,15 +126,14 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 008, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: Shared University Archives 008, Folder: 3"],
         "heading_ssm":["Patent for Aircraft Proximity Lights "],
         "unitdate_start_ssm":["1948"],
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["Inclusive, 1948-1951"],
         "language_ssm":["English"],
-        "_version_":1799248522094051328,
-        "timestamp":"2024-05-16T22:05:04.353Z"}]
+        "_version_":1801950538335518720,
+        "timestamp":"2024-06-15T17:52:27.844Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -142,7 +141,8 @@
       "repository_sim":[
         "archives",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Adler, Charles, Jr., 1899-1980",1],
       "date_range_sim":[
         "1901-2000",4],
       "subject_sim":[

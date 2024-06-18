@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":99,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Alexander Hamilton collection"],
         "unitid_ssm":["ARC.030"],
         "abstract_ssm":["This collection contains six items all created by or pertaining to Alexander Hamilton, all of which were previously cataloged as single items. Included are 2 letters written by Hamilton during his tenure as Secretary of the Treasury of the United States and 1 written in 1796. The collection also includes a photostat of Hamilton's oath of allegiance to the United States dated 1778, a handwritten copy of Hamilton's greek language excercises, and a check signed by Charles D. Cooper."],
+        "creator_ssm":["Cooper, Charles D. (Charles DeKay)",
+          "Hamilton, Alexander",
+          "Cooper, Charles D. (Charles DeKay)",
+          "Hamilton, Alexander"],
         "unitdate_normal_ssm":["1763/1840"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Stats (copies)",
@@ -66,8 +70,8 @@
         "unitdate_start_ssm":["1763"],
         "unitdate_end_ssm":["1840"],
         "unitdate_ssm":["Inclusive, circa 1773 to 1830"],
-        "_version_":1799311444268810240,
-        "timestamp":"2024-05-17T14:45:11.615Z"}]
+        "_version_":1801958721595637760,
+        "timestamp":"2024-06-15T20:02:32.01Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +79,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cooper, Charles D. (Charles DeKay)",1,
+        "Hamilton, Alexander",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

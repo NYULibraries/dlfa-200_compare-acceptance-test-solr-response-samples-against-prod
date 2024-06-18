@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Three Mile Island: Labor Issues Files"],
         "unitid_ssm":["WAG.184"],
+        "creator_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
+          "Tamiment Library and Robert F. Wagner Labor Archives"],
         "unitdate_normal_ssm":["1979/1979"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Tamiment Library and Robert F. Wagner Labor Archives"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["circa 1979"],
         "language_ssm":["English"],
-        "_version_":1799802371086221312,
-        "timestamp":"2024-05-23T00:48:15.912Z"},
+        "_version_":1802195417334546432,
+        "timestamp":"2024-06-18T10:44:42.656Z"},
       {
         "id":"wag_184aspace_c46fffc62b78ff8d23673d95a83bc0ca",
         "ead_ssi":"wag_184",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799802371113484288,
-        "timestamp":"2024-05-23T00:48:15.937Z"}]
+        "_version_":1802195417342935040,
+        "timestamp":"2024-06-18T10:44:42.665Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tamiment Library and Robert F. Wagner Labor Archives",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

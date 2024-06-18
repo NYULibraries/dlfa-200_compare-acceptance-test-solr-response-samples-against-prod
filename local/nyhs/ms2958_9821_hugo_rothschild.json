@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":16,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Hugo Rothschild letter to Reverend Father William Keegan"],
         "unitid_ssm":["AHMC - Rothschild, Hugo"],
         "abstract_ssm":["Autograph letter signed, and its related postmarked envelope. At the time of this letter, Hugo Rothschild was a trustee and secretary of the Brooklyn (N.Y.) Elevated Railroad Company, which was then building its first line, called the Bruff Road, from Washington and York streets along Flushing Avenue to Grand Avenue and Myrtle Avenue. William Keegan (1824-1890) was pastor of the Church of the Assumption, at York and Jay streets. \n\nThe letter relates to the objections and lawsuits registered by Brooklyn property owners against the construction of an elevated railroad line. Rothschild begins by referring to a meeting he had with Keegan four weeks earlier at which time Rothschild had attempted to ascertain and possibly resolve Keegan's grievances. That meeting was inconclusive, and in the subsequent weeks events developed in the railroad's favor, as Rothschild notes. He goes on to say that he had led a Mr. Hall to offer to pay the legal expenses incurred by the opposition as a form of reconciliation, but that he now found, as reported in the press, that Keegan had interpreted the offer as a sign of weakness in the railroad company's position. Rothschild says he is sympathetic to the property owners and that the company trustees are willing to pay any damages that can be proven, though he doubts that any such proof is possible. \n\nRothschild goes on to question the underlying motive of Keegan's tenacity in this matter. Noting Keegan's association with a Mr. Bradley and a Mr. McDermott, Rothschild believes the opposition is anti-Semitic, directed against the \"Hebrew element interested in the road.\" Rothschild says it would be patriotic to build the railroad, as benefiting the greater good. He also states that most of the Jews previously involved with the railroad have lost their investment and that most of the men now at the head of the company are not Jewish, though he professes not to know what denomination they do belong to. And, in any case, he parenthetically notes that the money of investors in a railroad should be as protected as that of an investment in real estate. Rothschild closes by saying he still wants peace but is prepared to fight if Keegan persists. He adds a motto in Latin as a postscript that translates as \"and on earth peace among men of good will.\" \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Hugo Rothschild letter to Reverend Father William Keegan."],
+        "creator_ssm":["Rothschild, Hugo, approximately 1839-1899",
+          "Rothschild, Hugo, approximately 1839-1899"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Rothschild, Hugo, approximately 1839-1899"],
         "collection_ssm":["Hugo Rothschild letter to Reverend Father William Keegan"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Hugo Rothschild letter to Reverend Father William Keegan"],
         "unitdate_ssm":["1884 May 31"],
         "language_ssm":["English"],
-        "_version_":1799321425858789376,
-        "timestamp":"2024-05-17T17:23:50.801Z"}]
+        "_version_":1802083715822649344,
+        "timestamp":"2024-06-17T05:09:15.793Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rothschild, Hugo, approximately 1839-1899",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

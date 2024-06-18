@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Henry Kassebart abstract of property title (1776-1892)"],
         "unitid_ssm":["AHMC - Kassebart, Henry"],
         "abstract_ssm":["Title abstract for a plot of land on West 21st street (now number 309, near 8th avenue) in Manhattan borough of New York City. The abstracts begin in 1776 with the conveyance to Mary Clark, upon the death of her husband Thomas Clark, the farm at Greenwich called \"Chelsea.\" The abstracts end in 1892 with the conveyance of a lot on the former Clark farm to Henry Kassebart from Philip and Ann E. Wagner. For more information and to request this item, see the catalog record, or write to manuscripts@nyhistory.org."],
+        "creator_ssm":["Kassebart, Henry",
+          "Kassebart, Henry"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Kassebart, Henry"],
         "collection_ssm":["Henry Kassebart abstract of property title (1776-1892)"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Henry Kassebart abstract of property title (1776-1892)"],
         "unitdate_ssm":["Inclusive, 1892?"],
         "language_ssm":["English"],
-        "_version_":1799330121685925888,
-        "timestamp":"2024-05-17T19:42:03.787Z"}]
+        "_version_":1802083639434936320,
+        "timestamp":"2024-06-17T05:08:02.945Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kassebart, Henry",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

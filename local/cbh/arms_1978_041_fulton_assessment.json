@@ -47,6 +47,16 @@
         "unittitle_ssm":["Fulton Street assessment agreement"],
         "unitid_ssm":["1978.041"],
         "abstract_ssm":["An agreement of local property owners to pay for the cost of paving Fulton Street between Middagh and Pierrepont Streets in Brooklyn, N.Y., dated December 15, 1841."],
+        "creator_ssm":["St. Ann's Church (Brooklyn, New York, N.Y.)",
+          "Nostrand family",
+          "Sprague family",
+          "March family",
+          "Bergen family",
+          "St. Ann's Church (Brooklyn, New York, N.Y.)",
+          "Nostrand family",
+          "Sprague family",
+          "March family",
+          "Bergen family"],
         "unitdate_normal_ssm":["1841/1841"],
         "corpname_ssm":["Brooklyn Historical Society",
           "St. Ann's Church (Brooklyn, New York, N.Y.)"],
@@ -74,8 +84,8 @@
         "unitdate_end_ssm":["1841"],
         "unitdate_ssm":["1841"],
         "language_ssm":["English"],
-        "_version_":1799256190658543616,
-        "timestamp":"2024-05-17T00:06:57.666Z"}]
+        "_version_":1801962310383697920,
+        "timestamp":"2024-06-15T20:59:34.545Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +93,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bergen family",1,
+        "March family",1,
+        "Nostrand family",1,
+        "Sprague family",1,
+        "St. Ann's Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Household of Faith Church collection"],
         "unitid_ssm":["1985.075"],
         "abstract_ssm":["The Household of Faith Church collection dates from 1886 to 1922 and is housed in one manuscript box. The collection contains seven bound volumes that include reports, the church membership roll, clerks' books, and minutes. The Household of Faith congregation was organized in 1886 under the direction of Rev. William N. Pile, who led the church for two decades."],
+        "creator_ssm":["Household of Faith Church (Brooklyn, New York, N.Y.)",
+          "Household of Faith Church (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1886/1922"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Household of Faith Church (Brooklyn, New York, N.Y.)",
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["1922"],
         "unitdate_ssm":["Inclusive, 1886-1922"],
         "language_ssm":["English"],
-        "_version_":1799309975982440448,
-        "timestamp":"2024-05-17T14:21:51.348Z"}]
+        "_version_":1801963068605857792,
+        "timestamp":"2024-06-15T21:11:37.642Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Household of Faith Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

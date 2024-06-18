@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Office of Vice President for Administration"],
         "unitid_ssm":["RG.8.0.4"],
         "abstract_ssm":["The Vice President for Administration is chiefly responsibile for non-academic affairs, such as the development and management of University real estate, finances and physical plant operations. Robert Goldfeld held the post from 1983 to 2003 under Presidents John Brademas and John Sexton. The collection contains records of the office from Goldfeld's term, including various financial and administrative records, and correspondence."],
+        "creator_ssm":["New York University. Office of Vice President for Administration",
+          "New York University. Office of Vice President for Administration"],
         "unitdate_normal_ssm":["1983/2003"],
         "corpname_ssm":["New York University Archives",
           "New York University. Office of Vice President for Administration",
@@ -73,8 +75,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1983-2003"],
-        "_version_":1799254664901820416,
-        "timestamp":"2024-05-16T23:42:42.591Z"}]
+        "_version_":1801955876989304832,
+        "timestamp":"2024-06-15T19:17:19.182Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "archives",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Office of Vice President for Administration",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

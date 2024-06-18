@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jacob Panken Papers"],
         "unitid_ssm":["TAM.042"],
         "abstract_ssm":["Jacob Panken (1879-1968) was a socialist, labor leader and New York City Municipal Court judge, serving on the Court of Domestic Relations from 1934-1955. He wrote about juvenile delinquency, ran unsuccessfully for governor, senator and New York City mayor as a candidate of the Socialist Party, and was active in the Organization for Rehabilitation through Training (ORT), a Jewish philanthropic organization.\nContains correspondence, manuscripts, speeches, clippings, published materials and biographical materials that document Panken's political and judicial career. Correspondence frequently relates to court cases; a smaller amount relates to Socialist affairs and includes some letters Morris Hillquit, Girolamo Valenti, and A. I. Shiplacoff. Typed pages of autobiographical writings, legal documents relating to court cases, and clippings on his career after 1927 are also found."],
+        "creator_ssm":["Panken, Jacob, 1879-1968",
+          "Panken, Jacob, 1879-1968"],
         "unitdate_normal_ssm":["1922/1964"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "New York (State). Municipal Court (New York)",
@@ -89,8 +91,8 @@
         "unitdate_start_ssm":["1922"],
         "unitdate_end_ssm":["1964"],
         "unitdate_ssm":["Inclusive, 1922-1964"],
-        "_version_":1775220106388832256,
-        "timestamp":"2023-08-25T16:43:41.43Z"},
+        "_version_":1801201305620840448,
+        "timestamp":"2024-06-07T11:23:43.848Z"},
       {
         "id":"tam_042aspace_ref13",
         "ead_ssi":"tam_042",
@@ -106,8 +108,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["1922-May 1934"],
-        "_version_":1775220106429726720,
-        "timestamp":"2023-08-25T16:43:41.47Z"},
+        "_version_":1801201305637617664,
+        "timestamp":"2024-06-07T11:23:43.864Z"},
       {
         "id":"tam_042aspace_ref14",
         "ead_ssi":"tam_042",
@@ -123,8 +125,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Correspondence"],
         "unitdate_ssm":["Jun 1934-Dec 1934"],
-        "_version_":1775220106476912640,
-        "timestamp":"2023-08-25T16:43:41.514Z"},
+        "_version_":1801201305658589184,
+        "timestamp":"2024-06-07T11:23:43.884Z"},
       {
         "id":"tam_042aspace_ref15",
         "ead_ssi":"tam_042",
@@ -140,8 +142,8 @@
         "location_ssm":["Box: 3"],
         "heading_ssm":["Correspondence and Other Materials"],
         "unitdate_ssm":["undated, 1935-1966"],
-        "_version_":1775220106515709952,
-        "timestamp":"2023-08-25T16:43:41.552Z"},
+        "_version_":1801201305674317824,
+        "timestamp":"2024-06-07T11:23:43.899Z"},
       {
         "id":"tam_042aspace_ref17",
         "ead_ssi":"tam_042",
@@ -157,8 +159,8 @@
         "location_ssm":["Box: 4"],
         "heading_ssm":["Biographical Items and Other Materials"],
         "unitdate_ssm":["undated, 1917-1939"],
-        "_version_":1775220106551361536,
-        "timestamp":"2023-08-25T16:43:41.586Z"}]
+        "_version_":1801201305693192192,
+        "timestamp":"2024-06-07T11:23:43.917Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -166,7 +168,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Panken, Jacob, 1879-1968",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",4],

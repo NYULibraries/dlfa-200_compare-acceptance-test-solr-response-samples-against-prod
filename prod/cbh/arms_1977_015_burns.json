@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edward Burns letter"],
         "unitid_ssm":["1977.015"],
         "abstract_ssm":["One letter from Edward Burns in Brooklyn, N.Y. to his son, also named Edward Burns, regarding various family matters.  Dated September 2, 1869."],
+        "creator_ssm":["Burns, Edward",
+          "Burns, Edward"],
         "unitdate_normal_ssm":["1869/1869"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1869"],
         "unitdate_ssm":["1869"],
         "language_ssm":["English"],
-        "_version_":1777653478589464576,
-        "timestamp":"2023-09-21T13:21:06Z"}]
+        "_version_":1800679097830998016,
+        "timestamp":"2024-06-01T17:03:27.691Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Burns, Edward",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

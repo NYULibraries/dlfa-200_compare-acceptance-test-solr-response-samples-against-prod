@@ -47,6 +47,16 @@
         "unittitle_ssm":["Willetts family deeds"],
         "unitid_ssm":["1977.475"],
         "abstract_ssm":["This collection consists of three 1719-1801 deeds involving members of the Willetts family of Queens County, N.Y."],
+        "creator_ssm":["Willetts, Jacob",
+          "Willetts family",
+          "Willetts, Richard",
+          "Willetts, Richard, Jr.",
+          "Willetts, Amos",
+          "Willetts family",
+          "Willetts, Jacob",
+          "Willetts, Richard",
+          "Willetts, Richard, Jr.",
+          "Willetts, Amos"],
         "unitdate_normal_ssm":["1719/1801"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Willetts family",
@@ -76,8 +86,8 @@
         "unitdate_end_ssm":["1801"],
         "unitdate_ssm":["Inclusive, 1719-1801"],
         "language_ssm":["English"],
-        "_version_":1799256450841706496,
-        "timestamp":"2024-05-17T00:11:05.796Z"}]
+        "_version_":1801961743427043328,
+        "timestamp":"2024-06-15T20:50:33.853Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +95,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Willetts family",1,
+        "Willetts, Amos",1,
+        "Willetts, Jacob",1,
+        "Willetts, Richard",1,
+        "Willetts, Richard, Jr.",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

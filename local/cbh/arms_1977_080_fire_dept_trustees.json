@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Board of Trustees of the Brooklyn Fire Department meeting minutes"],
         "unitid_ssm":["1977.080"],
         "abstract_ssm":["The Board of Trustees of the Brooklyn Fire Department meeting minutes list the members and officers of the board for each year and record votes taken and motions passed at each meeting between 1848 and 1854."],
+        "creator_ssm":["Brooklyn (New York, N.Y.). Fire Dept. Board of Trustees",
+          "Brooklyn (New York, N.Y.). Fire Dept. Board of Trustees"],
         "unitdate_normal_ssm":["1848/1854"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn (New York, N.Y.). Fire Dept. Board of Trustees",
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1854"],
         "unitdate_ssm":["Inclusive, 1848-1854"],
         "language_ssm":["English"],
-        "_version_":1799256320907411456,
-        "timestamp":"2024-05-17T00:09:01.881Z"}]
+        "_version_":1801960659629375488,
+        "timestamp":"2024-06-15T20:33:20.263Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn (New York, N.Y.). Fire Dept. Board of Trustees",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

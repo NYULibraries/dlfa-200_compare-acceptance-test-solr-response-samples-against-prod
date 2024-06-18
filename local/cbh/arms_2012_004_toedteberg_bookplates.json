@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":20,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Emma Toedteberg bookplate collection"],
         "unitid_ssm":["2012.004"],
         "abstract_ssm":["The Emma Toedteberg Bookplate collection, spanning from 1701 to 1982, was the bookplate collection of long-time Brooklyn Historical Society (BHS) librarian Emma Toedteberg (1856-1936).  The collection was originally created by Miss Toedteberg's father, Augustus Toedteberg (1824-1909), and later expanded by BHS librarians.  The present collection numbers over 7,000 bookplates ranging from the eighteenth to the twentieth century, including armorial, heraldic and presentation bookplates of individuals and institutions.  Works of numerous engravers are represented such as Edwin Davis French, Charles W. Sherborn and John W. Evans."],
+        "creator_ssm":["Huntington, Edna",
+          "Stryker-Rodda, Harriet",
+          "Toedteberg, Emma",
+          "Toedteberg, Augustus",
+          "Huntington, Edna",
+          "Stryker-Rodda, Harriet",
+          "Toedteberg, Emma",
+          "Toedteberg, Augustus"],
         "unitdate_normal_ssm":["1701/1982",
           "1870/1936"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -80,8 +88,8 @@
           "1936"],
         "unitdate_ssm":["Inclusive, 1701-1982 ; 1870-1936"],
         "language_ssm":["English"],
-        "_version_":1799311499322195968,
-        "timestamp":"2024-05-17T14:46:04.117Z"},
+        "_version_":1801964153310543872,
+        "timestamp":"2024-06-15T21:28:52.097Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref10_dt8",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -99,8 +107,8 @@
         "unitdate_start_ssm":["1831"],
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["Inclusive, 1831-1943"],
-        "_version_":1799311499346313216,
-        "timestamp":"2024-05-17T14:46:04.141Z"},
+        "_version_":1801964153329418240,
+        "timestamp":"2024-06-15T21:28:52.115Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref11_vl9",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -119,8 +127,8 @@
         "unitdate_start_ssm":["1759"],
         "unitdate_end_ssm":["1936"],
         "unitdate_ssm":["Inclusive, 1759-1936"],
-        "_version_":1799311499707023360,
-        "timestamp":"2024-05-17T14:46:04.485Z"},
+        "_version_":1801964153593659392,
+        "timestamp":"2024-06-15T21:28:52.366Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref12_ive",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -135,8 +143,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 6: Indexes and Papers"],
         "unitdate_ssm":["circa 1930s-1982"],
-        "_version_":1799311499726946304,
-        "timestamp":"2024-05-17T14:46:04.504Z"},
+        "_version_":1801964153609388032,
+        "timestamp":"2024-06-15T21:28:52.382Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref22_r5v",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -155,8 +163,8 @@
         "location_ssm":["Box: 41-42"],
         "heading_ssm":["Mounted"],
         "unitdate_ssm":["1700s-1936"],
-        "_version_":1799311499662983168,
-        "timestamp":"2024-05-17T14:46:04.443Z"},
+        "_version_":1801964153545424896,
+        "timestamp":"2024-06-15T21:28:52.321Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref23_764",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -175,8 +183,8 @@
         "location_ssm":["Box: 25"],
         "heading_ssm":["Unmounted"],
         "unitdate_ssm":["1700s-1936"],
-        "_version_":1799311499683954688,
-        "timestamp":"2024-05-17T14:46:04.463Z"},
+        "_version_":1801964153567444992,
+        "timestamp":"2024-06-15T21:28:52.342Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref26_ldl",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -195,8 +203,8 @@
         "location_ssm":["Box: 1 - 4"],
         "heading_ssm":["Subseries 1: Edwin Davis French"],
         "unitdate_ssm":["circa 1870s-1906"],
-        "_version_":1799311499388256256,
-        "timestamp":"2024-05-17T14:46:04.181Z"},
+        "_version_":1801964153353535488,
+        "timestamp":"2024-06-15T21:28:52.138Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref28_5rx",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -215,8 +223,8 @@
         "location_ssm":["Box: 6 - 7"],
         "heading_ssm":["Subseries 6: Sidney Lawton Smith"],
         "unitdate_ssm":["circa 1860s-1920s"],
-        "_version_":1799311499545542656,
-        "timestamp":"2024-05-17T14:46:04.331Z"},
+        "_version_":1801964153444761600,
+        "timestamp":"2024-06-15T21:28:52.225Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref31_1wx",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -235,8 +243,8 @@
         "location_ssm":["Box: 8 - 9"],
         "heading_ssm":["Subseries 7: Joseph Winfred Spenceley"],
         "unitdate_ssm":["circa 1880s-1908"],
-        "_version_":1799311499575951360,
-        "timestamp":"2024-05-17T14:46:04.36Z"},
+        "_version_":1801964153463635968,
+        "timestamp":"2024-06-15T21:28:52.243Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref34_zee",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -255,8 +263,8 @@
         "location_ssm":["Box: 5"],
         "heading_ssm":["Subseries 2: Charles W. Sherborn"],
         "unitdate_ssm":["circa 1870s-1912"],
-        "_version_":1799311499431247872,
-        "timestamp":"2024-05-17T14:46:04.222Z"},
+        "_version_":1801964153377652736,
+        "timestamp":"2024-06-15T21:28:52.161Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref36_6bu",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -275,8 +283,8 @@
         "location_ssm":["Box: 5"],
         "heading_ssm":["Subseries 3: Walter M. Aikman"],
         "unitdate_ssm":["circa 1870s-1930s"],
-        "_version_":1799311499468996608,
-        "timestamp":"2024-05-17T14:46:04.258Z"},
+        "_version_":1801964153395478528,
+        "timestamp":"2024-06-15T21:28:52.178Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref7_0yw",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -295,8 +303,8 @@
         "unitdate_start_ssm":["1701"],
         "unitdate_end_ssm":["1936"],
         "unitdate_ssm":["Inclusive, 1701-circa 1936"],
-        "_version_":1799311499617894400,
-        "timestamp":"2024-05-17T14:46:04.4Z"},
+        "_version_":1801964153501384704,
+        "timestamp":"2024-06-15T21:28:52.279Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref83_lug",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -315,8 +323,8 @@
         "location_ssm":["Box: 5"],
         "heading_ssm":["Subseries 4: George W. Eve"],
         "unitdate_ssm":["circa 1870s-1914"],
-        "_version_":1799311499501502464,
-        "timestamp":"2024-05-17T14:46:04.289Z"},
+        "_version_":1801964153413304320,
+        "timestamp":"2024-06-15T21:28:52.194Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref84_tug",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -335,8 +343,8 @@
         "location_ssm":["Box: 5"],
         "heading_ssm":["Subseries 5: John W. Evans"],
         "unitdate_ssm":["circa 1870s-1943"],
-        "_version_":1799311499523522560,
-        "timestamp":"2024-05-17T14:46:04.31Z"},
+        "_version_":1801964153427984384,
+        "timestamp":"2024-06-15T21:28:52.209Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref8_mr4",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -355,8 +363,8 @@
         "unitdate_start_ssm":["1701"],
         "unitdate_end_ssm":["1936"],
         "unitdate_ssm":["Inclusive, 1701-circa 1936"],
-        "_version_":1799311499595874304,
-        "timestamp":"2024-05-17T14:46:04.379Z"},
+        "_version_":1801964153481461760,
+        "timestamp":"2024-06-15T21:28:52.26Z"},
       {
         "id":"arms_2012_004_toedteberg_bookplatesaspace_ref9_uki",
         "ead_ssi":"arms_2012_004_toedteberg_bookplates",
@@ -375,8 +383,8 @@
         "unitdate_start_ssm":["1701"],
         "unitdate_end_ssm":["1936"],
         "unitdate_ssm":["Inclusive, 1700s-circa 1936"],
-        "_version_":1799311499637817344,
-        "timestamp":"2024-05-17T14:46:04.419Z"}]
+        "_version_":1801964153524453376,
+        "timestamp":"2024-06-15T21:28:52.301Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -384,7 +392,11 @@
       "repository_sim":[
         "cbh",16],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Huntington, Edna",1,
+        "Stryker-Rodda, Harriet",1,
+        "Toedteberg, Augustus",1,
+        "Toedteberg, Emma",1],
       "date_range_sim":[
         "1701-1800",5,
         "1801-1900",2,

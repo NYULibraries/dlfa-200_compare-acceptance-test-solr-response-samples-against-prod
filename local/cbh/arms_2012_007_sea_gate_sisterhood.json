@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sea Gate Sisterhood and Talmud Torah of Coney Island ledger"],
         "unitid_ssm":["2012.007"],
         "abstract_ssm":["The collection consists of the Sea Gate Sisterhood and Talmud Torah of Coney Island ledger. The ledger includes a history of the organization, meeting minutes, and financial records, dating from 1911 to 1923."],
+        "creator_ssm":["Sea Gate Sisterhood and Talmud Torah of Coney Island",
+          "Sea Gate Sisterhood and Talmud Torah of Coney Island"],
         "unitdate_normal_ssm":["1911/1923"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Sea Gate Sisterhood and Talmud Torah of Coney Island",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1923"],
         "unitdate_ssm":["Inclusive, 1911 to 1923"],
         "language_ssm":["English"],
-        "_version_":1799311687225966592,
-        "timestamp":"2024-05-17T14:49:03.317Z"}]
+        "_version_":1801964157038231552,
+        "timestamp":"2024-06-15T21:28:55.652Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sea Gate Sisterhood and Talmud Torah of Coney Island",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

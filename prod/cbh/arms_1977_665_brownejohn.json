@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William Brownejohn, Jr. letter"],
         "unitid_ssm":["1977.665"],
         "abstract_ssm":["One 1764 letter on business matters between William Brownejohn, Sr. of New York and William Brownejohn, Jr. of London."],
+        "creator_ssm":["Brownejohn, William, Jr.",
+          "Brownejohn, William, Jr."],
         "unitdate_normal_ssm":["1764/1764"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1764"],
         "unitdate_ssm":["1764"],
         "language_ssm":["English"],
-        "_version_":1785738824842739712,
-        "timestamp":"2023-12-19T19:14:13.062Z"}]
+        "_version_":1800732274098962432,
+        "timestamp":"2024-06-02T07:08:40.532Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brownejohn, William, Jr.",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

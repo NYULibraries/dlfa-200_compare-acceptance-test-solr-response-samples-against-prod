@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Maggie Schreiner"],
         "unittitle_ssm":["Robert Eckersdorff Papers"],
         "unitid_ssm":["WAG.014"],
+        "creator_ssm":["Eckersdorff, Robert F.",
+          "Eckersdorff, Robert F."],
         "unitdate_normal_ssm":["1895/1988"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Eckersdorff, Robert F."],
@@ -59,8 +61,8 @@
         "unitdate_start_ssm":["1895"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1895-1988"],
-        "_version_":1799333299533905920,
-        "timestamp":"2024-05-17T20:32:34.42Z"}]
+        "_version_":1802187557521326080,
+        "timestamp":"2024-06-18T08:39:46.955Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Eckersdorff, Robert F.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

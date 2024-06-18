@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Unique Long Island viewbooks"],
         "unitid_ssm":["ARC.233"],
         "abstract_ssm":["The Unique Long Island viewbooks consist of four volumes of black-and-white non-photographic prints of photographs documenting Long Island, dated circa 1900 (first three volumes) and 1904 (fourth volume)."],
+        "creator_ssm":["Long Island Railroad Company",
+          "Long Island Railroad Company"],
         "unitdate_normal_ssm":["1890/1910"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island Railroad Company"],
@@ -80,8 +82,8 @@
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, circa 1900, 1904"],
         "language_ssm":["English"],
-        "_version_":1799256292774117376,
-        "timestamp":"2024-05-17T00:08:35.051Z"}]
+        "_version_":1801959500798754816,
+        "timestamp":"2024-06-15T20:14:55.116Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Long Island Railroad Company",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

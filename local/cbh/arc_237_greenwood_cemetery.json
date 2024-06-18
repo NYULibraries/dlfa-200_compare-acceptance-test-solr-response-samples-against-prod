@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Green-Wood Cemetery viewbooks"],
         "unitid_ssm":["ARC.237"],
         "abstract_ssm":["The Green-Wood Cemetery viewbooks date from the period 1884 to 1891and measure .09 linear feet. The collection consists of four viewbooks that document sepulchral monuments within Green-Wood Cemetery."],
+        "creator_ssm":["Fritschler and Selle (Firm : Brooklyn, N.Y.)",
+          "Photo Engraving Co",
+          "Fritschler and Selle (Firm : Brooklyn, N.Y.)",
+          "Photo Engraving Co"],
         "unitdate_normal_ssm":["1884/1891"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Fritschler and Selle (Firm : Brooklyn, N.Y.)",
@@ -67,8 +71,8 @@
         "unitdate_end_ssm":["1891"],
         "unitdate_ssm":["Inclusive, 1884-1891"],
         "language_ssm":["English"],
-        "_version_":1799256191170248704,
-        "timestamp":"2024-05-17T00:06:58.154Z"}]
+        "_version_":1801959524860428288,
+        "timestamp":"2024-06-15T20:15:18.062Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +80,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fritschler and Selle (Firm : Brooklyn, N.Y.)",1,
+        "Photo Engraving Co",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

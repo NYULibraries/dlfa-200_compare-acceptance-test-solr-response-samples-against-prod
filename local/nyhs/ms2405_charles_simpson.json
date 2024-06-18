@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -89,8 +89,8 @@
           "Photographs."],
         "heading_ssm":["Charles Simpson Scrapbooks"],
         "unitdate_ssm":["Inclusive, 1864-1904"],
-        "_version_":1799323396548329472,
-        "timestamp":"2024-05-17T17:55:10.197Z"},
+        "_version_":1802083170910208000,
+        "timestamp":"2024-06-17T05:00:36.125Z"},
       {
         "id":"ms2405_charles_simpsonaspace_ref13_thl",
         "ead_ssi":"ms2405_charles_simpson",
@@ -106,8 +106,8 @@
         "location_ssm":["Volume: 1"],
         "heading_ssm":["Ancestral Record of the Simpson Family and of their Kindred by Marriage, From the Seventeenth Century to the Present Time."],
         "unitdate_ssm":["1863-1904, n.d."],
-        "_version_":1799323396565106688,
-        "timestamp":"2024-05-17T17:55:10.213Z"},
+        "_version_":1802083170935373824,
+        "timestamp":"2024-06-17T05:00:36.149Z"},
       {
         "id":"ms2405_charles_simpsonaspace_ref14_mci",
         "ead_ssi":"ms2405_charles_simpson",
@@ -123,8 +123,8 @@
         "location_ssm":["Volume: 2"],
         "heading_ssm":["Miscellaneous records of the Simpson Family and of Their Kindred by Marriage. Book Number One."],
         "unitdate_ssm":["1904"],
-        "_version_":1799323396580835328,
-        "timestamp":"2024-05-17T17:55:10.228Z"}]
+        "_version_":1802083170965782528,
+        "timestamp":"2024-06-17T05:00:36.178Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

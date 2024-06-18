@@ -47,6 +47,10 @@
         "unittitle_ssm":["Israel and Sadie Amter Autobiographical Typescript"],
         "unitid_ssm":["TAM.079"],
         "abstract_ssm":["Contains an autobiographical typescript, some 250 pages, describing their respective youths, their Communist political activities, and expositions of their ideology. While originally written jointly by Israel and Sadie Amter, the typescript in the Library's possession was extensively re-written by Sadie Van Veen Amter, circa 1965, according to her note on the table of contents pages."],
+        "creator_ssm":["Amter, I.  (Israel), 1881-1954",
+          "Amter, Sadie, 1882-1968",
+          "Amter, I.  (Israel), 1881-1954",
+          "Amter, Sadie, 1882-1968"],
         "unitdate_normal_ssm":["1960/1970"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Manuscripts for publication.",
@@ -73,8 +77,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, circa 1965"],
-        "_version_":1799334141188112384,
-        "timestamp":"2024-05-17T20:45:57.084Z"}]
+        "_version_":1802167474796363776,
+        "timestamp":"2024-06-18T03:20:34.576Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +86,9 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Amter, I.  (Israel), 1881-1954",1,
+        "Amter, Sadie, 1882-1968",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":19,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Edward and Charlotte Artus family photographs"],
         "unitid_ssm":["2010.010"],
         "abstract_ssm":["The Edward and Charlotte Artus family photographs span from 1920 to 1940 depict the Artus family's connection to their friends and relatives, as well as their summer retreats and outdoor recreation at various parks and beaches in Long Island and New Jersey. Edward A. Artus (1896-1973) was a machinist born and raised in Brooklyn. He met Charlotte at the National Biscuit Company and the couple married in 1921. The family later moved to New Jersey in the 1930s with their daughter Mildred."],
+        "creator_ssm":["Artus, Charlotte M. (1892-1971)",
+          "Artus, Edward A. (1896-1973)",
+          "Artus, Charlotte M. (1892-1971)",
+          "Artus, Edward A. (1896-1973)"],
         "unitdate_normal_ssm":["1920/1940"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Black-and-white prints (photographs)",
@@ -78,8 +82,8 @@
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, 1920-1940"],
         "language_ssm":["English"],
-        "_version_":1799312230361071616,
-        "timestamp":"2024-05-17T14:57:41.291Z"}]
+        "_version_":1801958058431086592,
+        "timestamp":"2024-06-15T19:51:59.567Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +91,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Artus, Charlotte M. (1892-1971)",1,
+        "Artus, Edward A. (1896-1973)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

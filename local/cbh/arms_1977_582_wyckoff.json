@@ -47,6 +47,8 @@
         "unittitle_ssm":["Peter Wyckoff historical notes"],
         "unitid_ssm":["1977.582"],
         "abstract_ssm":["Handwritten notes of Peter Wyckoff based on his research on various subjects in Brooklyn's history spanning the period circa 1700 to 1850. Topics covered include the construction of public roads in the town of Bushwick; the Dutch district subdivisions of Red Hook, Breukelen, Bedford-Stuyvesant, Gowanus, and Wallabout; church matters; and farmers' meetings."],
+        "creator_ssm":["Wyckoff, Peter",
+          "Wyckoff, Peter"],
         "unitdate_normal_ssm":["1690/1860"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Red Hook (New York, N.Y.)",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1860"],
         "unitdate_ssm":["Inclusive, circa 1700 to 1850"],
         "language_ssm":["English"],
-        "_version_":1799311392556187648,
-        "timestamp":"2024-05-17T14:44:22.298Z"}]
+        "_version_":1801962004831797248,
+        "timestamp":"2024-06-15T20:54:43.148Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wyckoff, Peter",1],
       "date_range_sim":[
         "1601-1700",1,
         "1801-1900",1],

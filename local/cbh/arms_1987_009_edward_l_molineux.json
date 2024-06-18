@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edward L. Molineux papers"],
         "unitid_ssm":["1987.009"],
         "abstract_ssm":["The papers are comprised of five items: event bulletins, biographical notes, and a bound collection of Civil War reflections by the creator, all of which document the scope of Molineux's military career and his rise through the ranks during the American Civil War."],
+        "creator_ssm":["Molineux, Edward L.",
+          "Molineux, Edward L."],
         "unitdate_normal_ssm":["1865/1909",
           "1905/1909"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -82,8 +84,8 @@
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["Inclusive, 1865, 1905-1909 ; 1905-1909"],
         "language_ssm":["English"],
-        "_version_":1799256468738801664,
-        "timestamp":"2024-05-17T00:11:22.864Z"}]
+        "_version_":1801963397690949632,
+        "timestamp":"2024-06-15T21:16:51.482Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Molineux, Edward L.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

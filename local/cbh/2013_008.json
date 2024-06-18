@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":10,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Schlagel and Wolf family papers"],
         "unitid_ssm":["2013.008"],
         "abstract_ssm":["This collection consists of items that date from circa 1919 to circa 1979 and represent the student and work life of three generations of Brooklyn women. The collection comprises books, pamphlets, and published reports used as research material for an unpublished graduate thesis on the history of breweries in Brooklyn, New York.The collection contains items relating to Brooklyn College, including copies of issues of a student newspaper for the House Plan Association (HPA), school report cards, student work, and memorabilia, such as a school ring,  medals, and a pendant. The collection also contains records and artifacts from Wolf's shoe store (1009 Flushing Avenue), including business correspondence, a rental property ledger, tools, and other objects. Finally, the collection also contains New York City government forms and information regarding stenography and the civil service."],
+        "creator_ssm":["Federman, Amy Schlagel",
+          "Drucker, Mildred Wolf ",
+          "Schlagel, Helen Wolf ",
+          "Federman, Amy Schlagel",
+          "Drucker, Mildred Wolf ",
+          "Schlagel, Helen Wolf "],
         "unitdate_normal_ssm":["1914/1992"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Thomas Jefferson High School (Brooklyn, New York, N.Y.)",
@@ -114,8 +120,8 @@
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, circa 1919-circa 1987"],
         "language_ssm":["English"],
-        "_version_":1799311408238690304,
-        "timestamp":"2024-05-17T14:44:37.253Z"},
+        "_version_":1801958135584260096,
+        "timestamp":"2024-06-15T19:53:13.145Z"},
       {
         "id":"2013_008aspace_ref2_spg",
         "ead_ssi":"2013_008",
@@ -137,8 +143,8 @@
           "1959"],
         "unitdate_ssm":["Inclusive, 1914-1980s ; 1919-1959"],
         "language_ssm":["English"],
-        "_version_":1799311408259661824,
-        "timestamp":"2024-05-17T14:44:37.274Z"},
+        "_version_":1801958135606280192,
+        "timestamp":"2024-06-15T19:53:13.167Z"},
       {
         "id":"2013_008aspace_ref3_w05",
         "ead_ssi":"2013_008",
@@ -159,8 +165,8 @@
         "unitdate_end_ssm":["1987",
           "1939"],
         "unitdate_ssm":["Inclusive, circa 1928-circa 1987 ; 1930-1939"],
-        "_version_":1799311408319430656,
-        "timestamp":"2024-05-17T14:44:37.331Z"},
+        "_version_":1801958135637737472,
+        "timestamp":"2024-06-15T19:53:13.196Z"},
       {
         "id":"2013_008aspace_ref4_rr9",
         "ead_ssi":"2013_008",
@@ -178,8 +184,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1970s"],
-        "_version_":1799311408352985088,
-        "timestamp":"2024-05-17T14:44:37.363Z"}]
+        "_version_":1801958135652417536,
+        "timestamp":"2024-06-15T19:53:13.211Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -187,7 +193,10 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Drucker, Mildred Wolf ",1,
+        "Federman, Amy Schlagel",1,
+        "Schlagel, Helen Wolf ",1],
       "date_range_sim":[
         "1901-2000",4],
       "subject_sim":[

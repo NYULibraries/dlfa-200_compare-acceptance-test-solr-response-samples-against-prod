@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,18 @@
         "unittitle_ssm":["Newtown, Queens County deeds"],
         "unitid_ssm":["1977.514"],
         "abstract_ssm":["Three deeds dated 1806-1827 for land owned in Newtown, Queens County by the Titus, Bailey, Childs and Todd families."],
+        "creator_ssm":["Childs, Abel",
+          "Todd, John",
+          "Titus, Francis",
+          "Titus, Maria",
+          "Bailey, Benjamin",
+          "Bailey, Cornelius Benjamin",
+          "Childs, Abel",
+          "Todd, John",
+          "Titus, Francis",
+          "Titus, Maria",
+          "Bailey, Benjamin",
+          "Bailey, Cornelius Benjamin"],
         "unitdate_normal_ssm":["1806/1827"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Newtown (Queens County, N.Y.)",
@@ -77,8 +89,8 @@
         "unitdate_end_ssm":["1827"],
         "unitdate_ssm":["Inclusive, 1806-1827"],
         "language_ssm":["English"],
-        "_version_":1799311722098458624,
-        "timestamp":"2024-05-17T14:49:36.574Z"}]
+        "_version_":1801961851158790144,
+        "timestamp":"2024-06-15T20:52:16.594Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +98,13 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bailey, Benjamin",1,
+        "Bailey, Cornelius Benjamin",1,
+        "Childs, Abel",1,
+        "Titus, Francis",1,
+        "Titus, Maria",1,
+        "Todd, John",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Victor M. Drake papers on the U.S.S. Monitor"],
         "unitid_ssm":["1973.219"],
         "abstract_ssm":["The Victor M. Drake papers on the U.S.S. Monitor consist of several documents, primarily concerning the Monitor's crew. Included are both typewritten and handwritten notes on the ship's crew members, featuring first and last names, ranks, and in some instanceas, birth and death dates."],
+        "creator_ssm":["Drake, Victor M.",
+          "Drake, Victor M."],
         "unitdate_normal_ssm":["1851/1964"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Monitor (Ironclad)"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1964"],
         "unitdate_ssm":["Inclusive, circa 1861 to 1954"],
         "language_ssm":["English"],
-        "_version_":1799256315924578304,
-        "timestamp":"2024-05-17T00:08:57.129Z"}]
+        "_version_":1801960090120486912,
+        "timestamp":"2024-06-15T20:24:17.137Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Drake, Victor M.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff."],
         "unittitle_ssm":["James J. Hulley Papers"],
         "unitid_ssm":["TAM.065"],
+        "creator_ssm":["Hulley, James J.",
+          "Hulley, James J."],
         "unitdate_normal_ssm":["1907/1994"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Fleischer Studios Inc.",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, circa 1907-1994"],
         "language_ssm":["English"],
-        "_version_":1799777127036354560,
-        "timestamp":"2024-05-22T18:07:01.31Z"}]
+        "_version_":1802167442997248000,
+        "timestamp":"2024-06-18T03:20:04.25Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hulley, James J.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

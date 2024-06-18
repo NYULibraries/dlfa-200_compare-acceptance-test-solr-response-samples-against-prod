@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,20 @@
         "unittitle_ssm":["Hall, Rohr, Van Winkle, and Peaslee families papers"],
         "unitid_ssm":["1977.233"],
         "abstract_ssm":["This collection consists of wills, receipts, bonds, deeds, correspondence, genealogical notes, photographs, and other legal documents pertaining to the allied Hall, Rohr, Van Winkle, and Peaslee families of New York City.  Though all four families are documented in genealogical notes, the majority of the material relates to members of the Hall family, including Charles M. (1863-1914) and Ella Louise Hall and their daughters, Vivien Whittier Smith, Sibyl Peaslee Moon, and Ruth Elizabeth Hall, and mostly concerns the estates of Charles M. and Ella Louise Hall.  Materials cover the period 1633 to 1929."],
+        "creator_ssm":["Van Winkle family",
+          "Peaslee family",
+          "Rohr family",
+          "Hall family",
+          "Hall, Ruth Elizabeth",
+          "Hall, Ella Louise",
+          "Hall, Charles M.",
+          "Van Winkle family",
+          "Peaslee family",
+          "Rohr family",
+          "Hall family",
+          "Hall, Ruth Elizabeth",
+          "Hall, Ella Louise",
+          "Hall, Charles M."],
         "unitdate_normal_ssm":["1633/1929"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Van Winkle family",
@@ -96,8 +110,8 @@
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, 1633-1929"],
         "language_ssm":["English"],
-        "_version_":1799256311647436800,
-        "timestamp":"2024-05-17T00:08:53.05Z"}]
+        "_version_":1801960982305570816,
+        "timestamp":"2024-06-15T20:38:27.991Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -105,7 +119,14 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hall family",1,
+        "Hall, Charles M.",1,
+        "Hall, Ella Louise",1,
+        "Hall, Ruth Elizabeth",1,
+        "Peaslee family",1,
+        "Rohr family",1,
+        "Van Winkle family",1],
       "date_range_sim":[
         "1601-1700",1,
         "1901-2000",1],

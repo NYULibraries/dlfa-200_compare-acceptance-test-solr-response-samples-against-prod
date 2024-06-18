@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Leonard Levenson Papers"],
         "unitid_ssm":["ALBA.151"],
         "abstract_ssm":["Leonard Bertram Levenson (1913- ) was born in New York in 1913 and attended the City College of New York, followed by the New York University Law School. He later on went on to a legal career with the FBI. Levenson joined the Abraham Lincoln Brigade, arriving in Spain in June of 1937. This unprocessed collection consists of materials created and collected by Leonard Levenson during his participation in both the Spanish Civil War and the Veterans of the Abraham Lincoln Brigade (VALB) organization. Materials include a cap worn by Levenson in Spain, copies of newspaper and journal articles, and photographs (including a group shot of New York University volunteers in Spain, a 1986 German Democratic Republic commemorative event at Thaelmann Park in Berlin, and a group shot with Levenson of the FBI Players receiving an award from J. Edgar Hoover). A subsequent donation of material included artifacts, a few audio tapes, correspondence (with some dating from the Spanish Civil War), VALB organizational files, original writings, subject files, and research materials for an article entitled \"US Communists in Spain: A Profile,\" published in Political Affairs in 1986."],
+        "creator_ssm":["Levenson, Leonard Bertram",
+          "Levenson, Leonard Bertram"],
         "unitdate_normal_ssm":["1937/1986"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Veterans of the Abraham Lincoln Brigade"],
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1937-1986"],
-        "_version_":1799747955406667776,
-        "timestamp":"2024-05-22T10:23:21.076Z"}]
+        "_version_":1802111194416283648,
+        "timestamp":"2024-06-17T12:26:01.423Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Levenson, Leonard Bertram",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

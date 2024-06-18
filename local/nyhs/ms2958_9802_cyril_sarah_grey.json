@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":24,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Tripartite trust indenture between Cyril V. Grey, Sarah M. Grey, and Thomas Warner"],
         "unitid_ssm":["AHMC - Grey, Cyril V."],
         "abstract_ssm":["One indenture signed by the three parties, with seals. The indenture creates a trust holding the property owned by Sarah Maria Grey prior to her marriage to Cyril Grey. Prior to the marriage, the couple had agreed that the property owned by Sarah would remain hers subsequent to the marriage, though the New York law of the time would cause ownership rights to pass to Cyril. Consistent with their agreement, the Greys prepared this indenture, placing Sarah's property in trust for her use and benefit as though she were a \"feme sole.\"The indenture specifies the disposition of the property under various circumstances including the death of Sarah. A daughter, Maria Louise Kean, is named as a contingent beneficiary of the trust, with a Louisa Haviland also named as a contingent beneficiary. The indenture includes a schedule of the property by room at 109 Grand Street that was subject to the indenture. The property included various pieces of mahogany furniture; paintings, daguerreotypes, engravings, and related frames; curtains; candlesticks; silverware; decanters; vases; bedding, towels, and other textiles; necklace, bracelets, and other jewelry; and other objects.\n\nFor more information and to request this item, see the catalog record, or write to  manuscripts@nyhistory.org."],
+        "creator_ssm":["Grey, Cyril V., approximately 1819-1891",
+          "Grey, Sarah Maria, approximately 1809-1897",
+          "Grey, Cyril V., approximately 1819-1891",
+          "Grey, Sarah Maria, approximately 1809-1897"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Grey, Cyril V., approximately 1819-1891",
           "Grey, Sarah Maria, approximately 1809-1897"],
@@ -59,8 +63,8 @@
         "heading_ssm":["Tripartite trust indenture between Cyril V. Grey, Sarah M. Grey, and Thomas Warner"],
         "unitdate_ssm":["Inclusive, 1847 April 2"],
         "language_ssm":["English"],
-        "_version_":1799316301531840512,
-        "timestamp":"2024-05-17T16:02:23.86Z"}]
+        "_version_":1802083664927916032,
+        "timestamp":"2024-06-17T05:08:27.257Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +72,9 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Grey, Cyril V., approximately 1819-1891",1,
+        "Grey, Sarah Maria, approximately 1809-1897",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

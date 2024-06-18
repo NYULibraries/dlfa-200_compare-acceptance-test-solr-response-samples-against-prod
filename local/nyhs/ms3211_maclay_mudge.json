@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":30,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Maclay &amp; Mudge legal case diary"],
         "unitid_ssm":["BV Maclay & Mudge"],
         "abstract_ssm":["One volume of diary entries concerning various legal matters relating to real estate transactions. These appear to be primarily properties in Manhattan, with some in the Bronx. The entries indicate the parties to the transaction, a sketch of the related property lots, and dated entries of activity on the matter. The entries span from 1870 to 1879. There is no indication in the volume itself as to the lawyer or firm involved, but there are three legal documents inside the volume prepared by the firm of Maclay & Mudge, and so they are presumed to be the firm related to the diary. The three legal documents are: a bond for $12,000 from William Goodkind and Fanny Goodkind of New York to Samuel Bachrack of San Remo, Italy (1875); and two deeds conveying property in the 21st Ward of Manhattan between Moses B. Maclay and Susan D. Maclay and their counterparties, William Goodkind and Fanny Goodkind (1876). \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Maclay & Mudge legal case diary"],
+        "creator_ssm":["Maclay & Mudge (Firm)",
+          "Maclay & Mudge (Firm)"],
         "corpname_ssm":["New-York Historical Society",
           "Maclay & Mudge (Firm)"],
         "collection_ssm":["Maclay & Mudge legal case diary"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Maclay & Mudge legal case diary"],
         "unitdate_ssm":["Inclusive, 1870-1879"],
-        "_version_":1799329991262994432,
-        "timestamp":"2024-05-17T19:39:59.407Z"}]
+        "_version_":1802086167396483072,
+        "timestamp":"2024-06-17T05:48:13.797Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Maclay & Mudge (Firm)",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

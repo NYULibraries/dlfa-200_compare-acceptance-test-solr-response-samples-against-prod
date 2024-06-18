@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Nancy Romer Papers on the Professional Staff Congress-City University of New York"],
         "unitid_ssm":["WAG.336"],
         "abstract_ssm":["This collection contains the papers of Brooklyn College professor Nancy Romer. Romer is a professor of psychology at Brooklyn College of the City University of New York (CUNY), and has served as director of the Brooklyn College Community Partnership for Research and Learning and co-coordinator of the New Caucus of the Professional Staff Congress/CUNY. The collection includes Romer's papers related to a 2001 Professional Staff Congress-CUNY contract campaign and chapter elections. Materials in the collection include correspondence with contract liaisons from other CUNY schools, reports on budget priorities, contact lists, flyers, teacher surveys, meeting programs and reports, and contract demands. There are also several files related to campaign activities of the New Caucus, a left-leaning political causus in the union."],
+        "creator_ssm":["Romer, Nancy",
+          "Romer, Nancy"],
         "unitdate_normal_ssm":["2000/2001"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Professional Staff Congress/City University of New York"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["2000"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 2000-2001"],
-        "_version_":1799805119169036288,
-        "timestamp":"2024-05-23T01:31:56.688Z"}]
+        "_version_":1802197252792385536,
+        "timestamp":"2024-06-18T11:13:53.086Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Romer, Nancy",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

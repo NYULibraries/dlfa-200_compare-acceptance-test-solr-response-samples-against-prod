@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York University Archives Collection of School of Engineering Technical Reports"],
         "unitid_ssm":["MC.326"],
         "abstract_ssm":["The New York University Tandon School of Engineering was founded in 1854 as Brooklyn Collegiate and Polytechnic Institute. In 2014, the programs merged with New York University to become the second oldest private engineering and technology school in the United States. This collection consists of technical reports produced by the New York University School of Engineering from 1959-1979."],
+        "creator_ssm":["New York University Archives",
+          "New York University Archives"],
         "unitdate_normal_ssm":["1959/1979"],
         "corpname_ssm":["New York University Archives",
           "New York University Archives",
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1959"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1959-1979"],
-        "_version_":1799248593718083584,
-        "timestamp":"2024-05-16T22:06:12.659Z"},
+        "_version_":1801950019721363456,
+        "timestamp":"2024-06-15T17:44:13.255Z"},
       {
         "id":"mc_326aspace_01afaf0b5e4c1c2e759ffde6f26b0fbc",
         "ead_ssi":"mc_326",
@@ -86,8 +88,8 @@
         "unitdate_start_ssm":["1959"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1959-1979"],
-        "_version_":1799248593740103680,
-        "timestamp":"2024-05-16T22:06:12.68Z"}]
+        "_version_":1801950019740237824,
+        "timestamp":"2024-06-15T17:44:13.273Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +97,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University Archives",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

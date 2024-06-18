@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Fred Fowler diaries"],
         "unitid_ssm":["2015.021"],
         "abstract_ssm":["The collection comprises eleven leatherbound diaries kept by Frederick Paddock Fowler, a native of Brooklyn, during the years 1885-1895.  Spanning his late adolescence and early adulthood, the diaries include brief, handwritten entries made daily that record his day-to-day life in the Fort Greene neighborhood of Brooklyn during this period."],
+        "creator_ssm":["Fowler, Frederick Paddock",
+          "Fowler, Frederick Paddock"],
         "unitdate_normal_ssm":["1885/1895"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Diaries"],
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1895"],
         "unitdate_ssm":["Inclusive, 1885-1895"],
         "language_ssm":["English"],
-        "_version_":1799311430535610368,
-        "timestamp":"2024-05-17T14:44:58.518Z"}]
+        "_version_":1801966983608008704,
+        "timestamp":"2024-06-15T22:13:51.279Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fowler, Frederick Paddock",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -47,6 +47,10 @@
         "unittitle_ssm":["Norwegian Lutheran Deaconesses' Home and Hospital annual reports and receipts"],
         "unitid_ssm":["ARC.246"],
         "abstract_ssm":["This collection consists of annual reports and receipts of the Norwegian Lutheran Deaconesses' Home and Hospital dating from the period 1891 to 1927."],
+        "creator_ssm":["Norwegian Lutheran Deaconesses' Home and Hospital (Brooklyn, New York, N.Y.)",
+          "Norwegian Relief Society (Brooklyn, New York, N.Y.)",
+          "Norwegian Lutheran Deaconesses' Home and Hospital (Brooklyn, New York, N.Y.)",
+          "Norwegian Relief Society (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1891/1927"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Norwegian Lutheran Deaconesses' Home and Hospital (Brooklyn, New York, N.Y.)",
@@ -72,8 +76,8 @@
         "unitdate_end_ssm":["1927"],
         "unitdate_ssm":["Inclusive, 1891-1927"],
         "language_ssm":["English"],
-        "_version_":1775226636228100096,
-        "timestamp":"2023-08-25T18:27:28.77Z"}]
+        "_version_":1800636629901115392,
+        "timestamp":"2024-06-01T05:48:27.117Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +85,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Norwegian Lutheran Deaconesses' Home and Hospital (Brooklyn, New York, N.Y.)",1,
+        "Norwegian Relief Society (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

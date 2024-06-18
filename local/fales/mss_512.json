@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["David Pollack Collection of Cereal Boxes"],
         "unitid_ssm":["MSS.512"],
         "abstract_ssm":["David Pollack is a New York-based architect and designer. This collection consists of approximately 300 breakfast cereal boxes and other items of food packaging collected by Pollack from the 1970s through the 2000s. The bulk of the collection consists of cereal boxes, many of which feature athletes, popular culture figures, entertainment cross-promotions for newly released films, or fictional spokescharacters for specific cereals, such as Kellogg's Corn Flakes' \"Sweetheart of the Corn\" and Rice Krispies' Snap, Crackle, and Pop. Olympians are prominently featured throughout the collection, documenting the breakfast cereal industry's long-standing association with athletics, especially Kellogg Corn Flakes and Wheaties' \"Breakfast of Champions\" promotion. In addition to the specific items present in the collection, the materials also document the intersection of food advertising, design, and marketing with athletics and popular culture in the late 20th and early 21st centuries."],
+        "creator_ssm":["Pollack, David",
+          "Pollack, David"],
         "unitdate_normal_ssm":["1976/2017"],
         "corpname_ssm":["Fales Library and Special Collections",
           "Kellogg Company",
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1976"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 1976-2017"],
-        "_version_":1799741658067107840,
-        "timestamp":"2024-05-22T08:43:15.465Z"},
+        "_version_":1802074158220181504,
+        "timestamp":"2024-06-17T02:37:20.954Z"},
       {
         "id":"mss_512aspace_36d1416955b672dfe93aa3639f8ff86b",
         "ead_ssi":"mss_512",
@@ -87,8 +89,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 1992-2017"],
-        "_version_":1799741658167771136,
-        "timestamp":"2024-05-22T08:43:15.561Z"},
+        "_version_":1802074158377467904,
+        "timestamp":"2024-06-17T02:37:21.103Z"},
       {
         "id":"mss_512aspace_4786a4dde6d7e984ca8534a8f5cd8025",
         "ead_ssi":"mss_512",
@@ -113,8 +115,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1990s"],
-        "_version_":1799741658133168128,
-        "timestamp":"2024-05-22T08:43:15.528Z"},
+        "_version_":1802074158320844800,
+        "timestamp":"2024-06-17T02:37:21.05Z"},
       {
         "id":"mss_512aspace_5d4ad696ce751db766f030549868abb6",
         "ead_ssi":"mss_512",
@@ -138,8 +140,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1980s"],
-        "_version_":1799741658109050880,
-        "timestamp":"2024-05-22T08:43:15.505Z"},
+        "_version_":1802074158278901760,
+        "timestamp":"2024-06-17T02:37:21.01Z"},
       {
         "id":"mss_512aspace_80336ac3549fb7daca52e2991d012481",
         "ead_ssi":"mss_512",
@@ -161,8 +163,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1970s"],
-        "_version_":1799741658089127936,
-        "timestamp":"2024-05-22T08:43:15.486Z"},
+        "_version_":1802074158249541632,
+        "timestamp":"2024-06-17T02:37:20.982Z"},
       {
         "id":"mss_512aspace_98d4ff6956f66ea0cea857d0179b80fb",
         "ead_ssi":"mss_512",
@@ -189,8 +191,8 @@
         "unitdate_start_ssm":["2000"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 2000s"],
-        "_version_":1799741658154139648,
-        "timestamp":"2024-05-22T08:43:15.548Z"}]
+        "_version_":1802074158351253504,
+        "timestamp":"2024-06-17T02:37:21.079Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -198,7 +200,8 @@
       "repository_sim":[
         "fales",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Pollack, David",1],
       "date_range_sim":[
         "1901-2000",6,
         "2001-2100",3],

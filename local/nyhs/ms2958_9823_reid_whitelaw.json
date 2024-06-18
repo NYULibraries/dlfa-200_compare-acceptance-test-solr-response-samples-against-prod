@@ -46,6 +46,8 @@
         "unittitle_ssm":["Whitelaw Reid letter to Stephen B. Elkins"],
         "unitid_ssm":["AHMC - Reid, Whitelaw (to Elkins)"],
         "abstract_ssm":["Letter recommending David Stuart Hounshell to stump in Virginia and West Virginia for James G. Blaine, 1884 Republican nominee for United States president. To request this item for research, and for fuller details about it, please read its catalog record, or write to reference@nyhistory.org."],
+        "creator_ssm":["Reid, Whitelaw, 1837-1912",
+          "Reid, Whitelaw, 1837-1912"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Reid, Whitelaw, 1837-1912"],
         "collection_ssm":["Whitelaw Reid letter to Stephen B. Elkins"],
@@ -57,8 +59,8 @@
         "heading_ssm":["Whitelaw Reid letter to Stephen B. Elkins"],
         "unitdate_ssm":["1884 June 30"],
         "language_ssm":["English"],
-        "_version_":1799324858273759232,
-        "timestamp":"2024-05-17T18:18:24.207Z"}]
+        "_version_":1802083723701649408,
+        "timestamp":"2024-06-17T05:09:23.308Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Reid, Whitelaw, 1837-1912",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

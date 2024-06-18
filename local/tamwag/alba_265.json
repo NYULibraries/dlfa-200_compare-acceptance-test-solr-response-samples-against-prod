@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Hilliard Bernstein Spanish Civil War Materials"],
         "unitid_ssm":["ALBA.265"],
+        "creator_ssm":["Bernstein, Hilliard, 1910-",
+          "Bernstein, Hilliard, 1910-"],
         "unitdate_normal_ssm":["1937/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Harlan, Sondra",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1930s-1980s"],
         "language_ssm":["English"],
-        "_version_":1799748120089722880,
-        "timestamp":"2024-05-22T10:25:58.13Z"},
+        "_version_":1802111525092065280,
+        "timestamp":"2024-06-17T12:31:16.78Z"},
       {
         "id":"alba_265aspace_6cdd9bb8adf05689c6c00c1fcf62b1fd",
         "ead_ssi":"alba_265",
@@ -75,12 +77,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 034, Folder: 11",
-          "Folder: 11"],
+        "location_ssm":["Box: Shared Tamiment 034, Folder: 11"],
         "heading_ssm":["Broadside"],
         "unitdate_ssm":["undated"],
-        "_version_":1799748120118034432,
-        "timestamp":"2024-05-22T10:25:58.157Z"},
+        "_version_":1802111525137154048,
+        "timestamp":"2024-06-17T12:31:16.823Z"},
       {
         "id":"alba_265aspace_c3700a8a6799fac43f786b055a9ebc7c",
         "ead_ssi":"alba_265",
@@ -94,11 +95,10 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1",
-          "Box: Shared Tamiment MSOS003, Folder: 1",
-          "Folder: 1"],
+          "Box: Shared Tamiment MSOS003, Folder: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799748120104402944,
-        "timestamp":"2024-05-22T10:25:58.144Z"}]
+        "_version_":1802111525118279680,
+        "timestamp":"2024-06-17T12:31:16.804Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -106,7 +106,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bernstein, Hilliard, 1910-",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",2],

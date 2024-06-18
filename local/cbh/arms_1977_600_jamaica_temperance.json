@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Village of Jamaica, Queens County temperance collection"],
         "unitid_ssm":["1977.600"],
         "abstract_ssm":["This collection consists of 1833 meeting minutes and constitution of the Temperance Society of School District No. 4 in the Village of Jamaica, Queens County and an 1855 petition to the village's Board of Trustees requesting an increase in the number of police officers to combat the problems of \"intemperance and profanity.\""],
+        "creator_ssm":["School District Temperance Society No. 4 (Jamaica, New York, N.Y.)",
+          "School District Temperance Society No. 4 (Jamaica, New York, N.Y.)"],
         "unitdate_normal_ssm":["1833/1855"],
         "corpname_ssm":["Brooklyn Historical Society",
           "School District Temperance Society No. 4 (Jamaica, New York, N.Y.)",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1855"],
         "unitdate_ssm":["Inclusive, 1833, 1855"],
         "language_ssm":["English"],
-        "_version_":1799311687177732096,
-        "timestamp":"2024-05-17T14:49:03.271Z"}]
+        "_version_":1801962044595896320,
+        "timestamp":"2024-06-15T20:55:21.07Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "School District Temperance Society No. 4 (Jamaica, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

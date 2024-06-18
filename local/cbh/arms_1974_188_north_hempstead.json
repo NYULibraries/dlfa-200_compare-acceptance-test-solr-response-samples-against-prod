@@ -47,6 +47,12 @@
         "unittitle_ssm":["North Hempstead land deed"],
         "unitid_ssm":["1974.188"],
         "abstract_ssm":["A handwritten deed for a tract of land in North Hempstead, Long Island between James Smith, Philip Valentine and Hendrick Hagner, dated 1793."],
+        "creator_ssm":["Smith, James",
+          "Valentine, Philip",
+          "Hagner, Hendrick",
+          "Smith, James",
+          "Valentine, Philip",
+          "Hagner, Hendrick"],
         "unitdate_normal_ssm":["1793/1793"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["North Hempstead (N.Y. : Town)"],
@@ -69,8 +75,8 @@
         "unitdate_end_ssm":["1793"],
         "unitdate_ssm":["Inclusive, 1793"],
         "language_ssm":["English"],
-        "_version_":1799312399465971712,
-        "timestamp":"2024-05-17T15:00:22.562Z"}]
+        "_version_":1801960427965382656,
+        "timestamp":"2024-06-15T20:29:39.331Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +84,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hagner, Hendrick",1,
+        "Smith, James",1,
+        "Valentine, Philip",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

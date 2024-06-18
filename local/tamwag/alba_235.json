@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Nicole Greenhouse"],
         "unittitle_ssm":["Ralph Fasanella Papers and Photographs"],
-        "unitid_ssm":["ALBA.235",
-          "/repositories/2/resources/215"],
+        "unitid_ssm":["ALBA.235"],
         "abstract_ssm":["Ralph Fasanella (1914-1997) was a Abraham Lincoln Brigade veteran, painter, and United Electrical, Radio and Machine Workers of America Local 1227 organizer. This collection contains his papers, correspondence, and photographs, the bulk of which are from 1970-1993. There are some materials from Spain during the Spanish Civil War."],
+        "creator_ssm":["Fasanella, Ralph",
+          "Fasanella, Ralph"],
         "unitdate_normal_ssm":["1937/1993"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United Electrical, Radio and Machine Workers of America. Local 1227 (New York, N.Y.)"],
@@ -69,15 +70,15 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1937-1993"],
-        "_version_":1799748087427629056,
-        "timestamp":"2024-05-22T10:25:26.98Z"},
+        "_version_":1802111429892898816,
+        "timestamp":"2024-06-17T12:29:45.991Z"},
       {
         "id":"alba_235aspace_47afd94b41339476db8d7f3aeb5b5452",
         "ead_ssi":"alba_235",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Ralph Fasanella Papers and Photographs"],
-        "collection_unitid_ssm":["ALBA.235/repositories/2/resources/215"],
+        "collection_unitid_ssm":["ALBA.235"],
         "unittitle_ssm":["un ano de las brigadas internacionales"],
         "unitid_ssm":["/repositories/2/archival_objects/810623"],
         "unitdate_normal_ssm":["1939/1939"],
@@ -85,21 +86,20 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 034, Folder: 14",
-          "Folder: 14"],
+        "location_ssm":["Box: Shared Tamiment 034, Folder: 14"],
         "heading_ssm":["un ano de las brigadas internacionales"],
         "unitdate_start_ssm":["1939"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["1939"],
-        "_version_":1799748087454892032,
-        "timestamp":"2024-05-22T10:25:27.007Z"},
+        "_version_":1802111429936939008,
+        "timestamp":"2024-06-17T12:29:46.032Z"},
       {
         "id":"alba_235aspace_ef9f17386bdb02a27ddcd6a07786eb28",
         "ead_ssi":"alba_235",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Ralph Fasanella Papers and Photographs"],
-        "collection_unitid_ssm":["ALBA.235/repositories/2/resources/215"],
+        "collection_unitid_ssm":["ALBA.235"],
         "unittitle_ssm":["Unprocessed Records"],
         "unitid_ssm":["/repositories/2/archival_objects/789098"],
         "ref_ssi":"aspace_ef9f17386bdb02a27ddcd6a07786eb28",
@@ -110,11 +110,10 @@
           "Box: 2",
           "Box: 3",
           "Box: Shared Tamiment OS004, Folder: 1",
-          "Folder: 1",
           "Flat-File-Folder: 10"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799748087442309120,
-        "timestamp":"2024-05-22T10:25:26.995Z"}]
+        "_version_":1802111429917016064,
+        "timestamp":"2024-06-17T12:29:46.014Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -122,7 +121,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fasanella, Ralph",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",1],

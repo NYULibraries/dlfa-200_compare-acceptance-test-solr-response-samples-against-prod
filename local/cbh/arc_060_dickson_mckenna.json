@@ -47,6 +47,8 @@
         "unittitle_ssm":["H. Dickson McKenna collection"],
         "unitid_ssm":["ARC.060"],
         "abstract_ssm":["The H. Dickson McKenna Collection contains materials dating from 1868 to 1991 (bulk dates 1968 to 1989) compiled by architect and former Brooklyn resident H. Dickson McKenna, author of A House in the City: A Guide to Buying and Renovating Old Row Houses (New York: Van Nostrand Reinhold, 1971).  The collection consists of news clippings, magazine articles, publications, brochures, flyers, newsletters, photographs, and ephemera, the majority concerning the brownstone movement and the development and renewal of Brooklyn neighborhoods.  The material covers a wide range of topics from architecture to home remodeling and gives an overview of the efforts of McKenna and the Brooklyn community in the 1970s and 1980s to preserve and revitalize their neighborhoods.  It also holds a small but significant collection of McKenna's general business documents and personal papers, including records and correspondence relating to his book."],
+        "creator_ssm":["McKenna, H. Dickson",
+          "McKenna, H. Dickson"],
         "unitdate_normal_ssm":["1868/1991",
           "1968/1989"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -114,8 +116,8 @@
           "1989"],
         "unitdate_ssm":["Inclusive, 1868-1991 ; 1968-1989"],
         "language_ssm":["English"],
-        "_version_":1799311511479386112,
-        "timestamp":"2024-05-17T14:46:15.711Z"}]
+        "_version_":1801958844724674560,
+        "timestamp":"2024-06-15T20:04:29.435Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -123,7 +125,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "McKenna, H. Dickson",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

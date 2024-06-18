@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Clerical Union minute books and scrapbook"],
         "unitid_ssm":["1978.153"],
         "abstract_ssm":["The Brooklyn Clerical Union minute books and scrapbook span the dates 1844 to 1940 and contains the records of the Brooklyn Clerical Union (formerly known as the Clerical Society of the City of Brooklyn). Included are eight volumes of minute books, the first of which contains the Union's original constitution, bylaws, and membership list. The Brooklyn Clerical Union (formerly known as the Clerical Society of the City of Brooklyn) was formed on January 29, 1844 through the efforts of Maurice W. Dwight."],
+        "creator_ssm":["Brooklyn Clerical Union",
+          "Brooklyn Clerical Union"],
         "unitdate_normal_ssm":["1844/1940"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Clerical Union",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, 1844-1940"],
         "language_ssm":["English"],
-        "_version_":1799311583162138624,
-        "timestamp":"2024-05-17T14:47:24.073Z"}]
+        "_version_":1801962590495047680,
+        "timestamp":"2024-06-15T21:04:01.68Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Clerical Union",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

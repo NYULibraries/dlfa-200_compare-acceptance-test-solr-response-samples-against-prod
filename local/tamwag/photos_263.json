@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":19,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["AFSCME, Local 983 Photographs"],
         "unitid_ssm":["PHOTOS.263"],
         "abstract_ssm":["AFSCME, Local 983 is one of the District Council 37's earliest locals, founded in the 1950s, representing motor vehicle operators and other blue collar municipal and public employees. The collection contains mostly photographs from 1998-2006, many including local president Mark Rosenthal."],
+        "creator_ssm":["AFSCME. Local 983 ",
+          "AFSCME. Local 983 "],
         "unitdate_normal_ssm":["1968/2006",
           "1998/2006"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -66,8 +68,8 @@
           "1998"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, 1968-2006 ; 1998-2006"],
-        "_version_":1799776675580346368,
-        "timestamp":"2024-05-22T17:59:50.768Z"},
+        "_version_":1802167108491018240,
+        "timestamp":"2024-06-18T03:14:45.24Z"},
       {
         "id":"photos_263aspace_ref16",
         "ead_ssi":"photos_263",
@@ -83,8 +85,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I: Archived Website"],
         "unitdate_ssm":["Mar 28, 2014-ongoing"],
-        "_version_":1799776675598172160,
-        "timestamp":"2024-05-22T17:59:50.785Z"}]
+        "_version_":1802167108501504000,
+        "timestamp":"2024-06-18T03:14:45.25Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +95,8 @@
         "tamwag",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "AFSCME. Local 983 ",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Drake Bakeries photographs"],
         "unitid_ssm":["V1987.007"],
         "abstract_ssm":["Images include exterior and interior views of the factory that was located at 77 Clinton Avenue in Brooklyn. Front and back exterior views are included, as are interior views of the mixing room and mixing machines, dough production areas, wrapping machines, ovens, and shipping rooms with conveyor belts."],
+        "creator_ssm":["Drake Bakeries, Inc.",
+          "Drake Bakeries, Inc."],
         "unitdate_normal_ssm":["1907/1959"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Drake Bakeries, Inc.",
@@ -77,8 +79,8 @@
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1917 to 1949"],
         "language_ssm":["English"],
-        "_version_":1799311721357115392,
-        "timestamp":"2024-05-17T14:49:35.867Z"}]
+        "_version_":1802045121353482240,
+        "timestamp":"2024-06-16T18:55:49.24Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Drake Bakeries, Inc.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

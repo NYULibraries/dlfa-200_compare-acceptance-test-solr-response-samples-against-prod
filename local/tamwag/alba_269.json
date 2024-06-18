@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Bernard Ades Papers"],
         "unitid_ssm":["ALBA.269"],
+        "creator_ssm":["Ades, Bernard, 1903-1986",
+          "Ades, Bernard, 1903-1986"],
         "unitdate_normal_ssm":["1937/1986"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Ades, Bernard, 1903-1986"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, circa 1930s-1980s"],
         "language_ssm":["English"],
-        "_version_":1799335389101555712,
-        "timestamp":"2024-05-17T21:05:47.187Z"},
+        "_version_":1802111550939463680,
+        "timestamp":"2024-06-17T12:31:41.43Z"},
       {
         "id":"alba_269aspace_510763cc9949e0b3008f48ed2d8561be",
         "ead_ssi":"alba_269",
@@ -78,8 +80,8 @@
           "Box: 3",
           "Box: 4"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799335389116235776,
-        "timestamp":"2024-05-17T21:05:47.201Z"}]
+        "_version_":1802111550963580928,
+        "timestamp":"2024-06-17T12:31:41.453Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ades, Bernard, 1903-1986",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

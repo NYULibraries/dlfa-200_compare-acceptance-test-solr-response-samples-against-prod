@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Levi's in America: a portfolio by Bert Stern"],
         "unitid_ssm":["PR 406"],
         "abstract_ssm":["A portfolio of 9 lithographs, 3 silkscreens, introductory text, and other front matter, in a case. Commissioned by Hystron Fibers Incorporated, Stern's portfolio includes imagery centered on the advertising, fashion, and history of Levi Strauss jeans. This copy is number 43 of 300 of Edition A, in which all 9 prints are signed and numbered by Stern. This copy is inscribed by Stern to the photographer Jessica Burstein, who donated it to New-York Historical. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Levi's in America: a portfolio by Bert Stern"],
+        "creator_ssm":["Stern, Bert",
+          "Stern, Bert"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Stern, Bert"],
         "collection_ssm":["Levi's in America: a portfolio by Bert Stern"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Levi's in America: a portfolio by Bert Stern"],
         "unitdate_ssm":["Inclusive, 1971, 1973"],
         "language_ssm":["English"],
-        "_version_":1799317102202454016,
-        "timestamp":"2024-05-17T16:15:07.441Z"}]
+        "_version_":1802094611923992576,
+        "timestamp":"2024-06-17T08:02:27.126Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stern, Bert",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

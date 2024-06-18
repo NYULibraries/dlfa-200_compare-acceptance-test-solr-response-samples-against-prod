@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Commercial Closet, AdRespect, and Michael Wilke LGBT Advertising Archive"],
         "unitid_ssm":["MSS.495"],
         "abstract_ssm":["Founded in 2001, the Commercial Closet Association, renamed AdRespect, began as a way to track and document lesbian, gay, bisexual, and transgender (LGBT) themed advertisements globally.  Michael Wilke, the founding executive director of the Commercial Closet Association, has researched and written about LGBT issues in advertising for over twenty years.   The print and media publications' series consists of mostly earmarked magazines and newspaper articles that were a part of Michael Wilke and the Commercial Closet Association's research ranging from 1975-2017. The archived website contains a database of video and print advertisements rated by AdRespect dating back to 1917."],
+        "creator_ssm":["Wilke, Michael",
+          "Wilke, Michael"],
         "unitdate_normal_ssm":["1975/2017"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Commercials.",
@@ -75,8 +77,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 1975-2017"],
-        "_version_":1775216349501456384,
-        "timestamp":"2023-08-25T15:43:58.584Z"},
+        "_version_":1800927300799168512,
+        "timestamp":"2024-06-04T10:48:32.487Z"},
       {
         "id":"mss_495aspace_1c9e090d46fbcbacbf7d49d6faffaf4f",
         "ead_ssi":"mss_495",
@@ -98,8 +100,8 @@
         "unitdate_start_ssm":["2002"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["2002"],
-        "_version_":1775216350165204992,
-        "timestamp":"2023-08-25T15:43:59.217Z"},
+        "_version_":1800927301086478336,
+        "timestamp":"2024-06-04T10:48:32.76Z"},
       {
         "id":"mss_495aspace_44a47685eea5cf5ceb3fcfd475926342",
         "ead_ssi":"mss_495",
@@ -121,8 +123,8 @@
         "unitdate_start_ssm":["2005"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, 2005-2010"],
-        "_version_":1775216350412668928,
-        "timestamp":"2023-08-25T15:43:59.453Z"},
+        "_version_":1800927301189238784,
+        "timestamp":"2024-06-04T10:48:32.859Z"},
       {
         "id":"mss_495aspace_491af40992f71f63bd552774c6699208",
         "ead_ssi":"mss_495",
@@ -144,8 +146,8 @@
           "Box: 18",
           "Box: 19"],
         "heading_ssm":["Various Publications"],
-        "_version_":1775216350037278720,
-        "timestamp":"2023-08-25T15:43:59.095Z"},
+        "_version_":1800927301037195264,
+        "timestamp":"2024-06-04T10:48:32.714Z"},
       {
         "id":"mss_495aspace_4bb85307df5604abb90478dcc8a6428b",
         "ead_ssi":"mss_495",
@@ -167,8 +169,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 2003-2008"],
-        "_version_":1775216349826514945,
-        "timestamp":"2023-08-25T15:43:58.894Z"},
+        "_version_":1800927300948066304,
+        "timestamp":"2024-06-04T10:48:32.628Z"},
       {
         "id":"mss_495aspace_5c7bae1644bbd3b87f051b91fc5f3bc2",
         "ead_ssi":"mss_495",
@@ -192,8 +194,8 @@
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, 2003-2010"],
         "language_ssm":["French"],
-        "_version_":1775216349666082816,
-        "timestamp":"2023-08-25T15:43:58.741Z"},
+        "_version_":1800927300867325952,
+        "timestamp":"2024-06-04T10:48:32.552Z"},
       {
         "id":"mss_495aspace_61bc4ffb52435dbde7090aa571fdde2e",
         "ead_ssi":"mss_495",
@@ -215,8 +217,8 @@
         "unitdate_start_ssm":["1997"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1997-2003"],
-        "_version_":1775216350082367488,
-        "timestamp":"2023-08-25T15:43:59.138Z"},
+        "_version_":1800927301052923904,
+        "timestamp":"2024-06-04T10:48:32.729Z"},
       {
         "id":"mss_495aspace_687c5b24682cd60fa3bbd4b7697de06b",
         "ead_ssi":"mss_495",
@@ -238,8 +240,8 @@
         "unitdate_start_ssm":["2006"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 2006-2008"],
-        "_version_":1775216350450417664,
-        "timestamp":"2023-08-25T15:43:59.489Z"},
+        "_version_":1800927301221744640,
+        "timestamp":"2024-06-04T10:48:32.89Z"},
       {
         "id":"mss_495aspace_7e793e24d2735027f5ba43e923e5e60f",
         "ead_ssi":"mss_495",
@@ -264,8 +266,8 @@
         "unitdate_start_ssm":["1994"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 1994-2017"],
-        "_version_":1775216349784571905,
-        "timestamp":"2023-08-25T15:43:58.854Z"},
+        "_version_":1800927300929191936,
+        "timestamp":"2024-06-04T10:48:32.611Z"},
       {
         "id":"mss_495aspace_8a8c514b4d5ce94bbc336d8bdfb6f386",
         "ead_ssi":"mss_495",
@@ -291,8 +293,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 1975-2017"],
-        "_version_":1775216349546545152,
-        "timestamp":"2023-08-25T15:43:58.627Z"},
+        "_version_":1800927300815945728,
+        "timestamp":"2024-06-04T10:48:32.503Z"},
       {
         "id":"mss_495aspace_8b15958b854a768bf95a8714ea2bf671",
         "ead_ssi":"mss_495",
@@ -314,8 +316,8 @@
         "unitdate_start_ssm":["2000"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 2000-2005"],
-        "_version_":1775216350373871616,
-        "timestamp":"2023-08-25T15:43:59.416Z"},
+        "_version_":1800927301172461568,
+        "timestamp":"2024-06-04T10:48:32.842Z"},
       {
         "id":"mss_495aspace_a1b50b5471b81ce5c38c00f3991c9028",
         "ead_ssi":"mss_495",
@@ -337,8 +339,8 @@
         "unitdate_start_ssm":["1999"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 1999-2008"],
-        "_version_":1775216349625188352,
-        "timestamp":"2023-08-25T15:43:58.702Z"},
+        "_version_":1800927300849500160,
+        "timestamp":"2024-06-04T10:48:32.535Z"},
       {
         "id":"mss_495aspace_a49d30803c374bc974c0504bbd812329",
         "ead_ssi":"mss_495",
@@ -360,8 +362,8 @@
         "unitdate_start_ssm":["1999"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1999-2005"],
-        "_version_":1775216350262722560,
-        "timestamp":"2023-08-25T15:43:59.31Z"},
+        "_version_":1800927301123178496,
+        "timestamp":"2024-06-04T10:48:32.796Z"},
       {
         "id":"mss_495aspace_a800039d945d1d6a0ac148102ca22a7e",
         "ead_ssi":"mss_495",
@@ -383,8 +385,8 @@
         "unitdate_start_ssm":["2005"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["2005"],
-        "_version_":1775216350207148032,
-        "timestamp":"2023-08-25T15:43:59.257Z"},
+        "_version_":1800927301107449856,
+        "timestamp":"2024-06-04T10:48:32.781Z"},
       {
         "id":"mss_495aspace_ae8a11b9ec6fd330e81177bcf425d2df",
         "ead_ssi":"mss_495",
@@ -410,8 +412,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 1992-2017"],
-        "_version_":1775216349587439616,
-        "timestamp":"2023-08-25T15:43:58.666Z"},
+        "_version_":1800927300833771520,
+        "timestamp":"2024-06-04T10:48:32.52Z"},
       {
         "id":"mss_495aspace_b299b0e6c4347c77ec7a04ebd34edbcd",
         "ead_ssi":"mss_495",
@@ -433,8 +435,8 @@
         "unitdate_start_ssm":["2000"],
         "unitdate_end_ssm":["2007"],
         "unitdate_ssm":["Inclusive, 2000-2007"],
-        "_version_":1775216349868457984,
-        "timestamp":"2023-08-25T15:43:58.934Z"},
+        "_version_":1800927300963794944,
+        "timestamp":"2024-06-04T10:48:32.644Z"},
       {
         "id":"mss_495aspace_b89d7770aab5aeed46b4fabb12b992f5",
         "ead_ssi":"mss_495",
@@ -456,8 +458,8 @@
         "unitdate_start_ssm":["2006"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 2006-2008"],
-        "_version_":1775216349995335680,
-        "timestamp":"2023-08-25T15:43:59.055Z"},
+        "_version_":1800927301019369472,
+        "timestamp":"2024-06-04T10:48:32.697Z"},
       {
         "id":"mss_495aspace_e2933ffa0eb739b41a230045fda6e45d",
         "ead_ssi":"mss_495",
@@ -479,8 +481,8 @@
         "unitdate_start_ssm":["2005"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 2005-2008"],
-        "_version_":1775216350123261952,
-        "timestamp":"2023-08-25T15:43:59.176Z"},
+        "_version_":1800927301068652544,
+        "timestamp":"2024-06-04T10:48:32.744Z"},
       {
         "id":"mss_495aspace_e2e8b1e4e65f62b071aaaef7026a5b90",
         "ead_ssi":"mss_495",
@@ -498,8 +500,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 14"],
         "heading_ssm":["\n      Fight 4 Sight\n    "],
-        "_version_":1775216349942906880,
-        "timestamp":"2023-08-25T15:43:59.005Z"},
+        "_version_":1800927301003640832,
+        "timestamp":"2024-06-04T10:48:32.682Z"},
       {
         "id":"mss_495aspace_e320977270822aaf043cdf63c10c3a75",
         "ead_ssi":"mss_495",
@@ -523,8 +525,8 @@
         "unitdate_start_ssm":["2002"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 2002-2017"],
-        "_version_":1775216349742628864,
-        "timestamp":"2023-08-25T15:43:58.814Z"},
+        "_version_":1800927300911366144,
+        "timestamp":"2024-06-04T10:48:32.594Z"},
       {
         "id":"mss_495aspace_e706d54891b800b911c39356a3b6eacc",
         "ead_ssi":"mss_495",
@@ -547,8 +549,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1975-1979"],
-        "_version_":1775216349702782976,
-        "timestamp":"2023-08-25T15:43:58.776Z"},
+        "_version_":1800927300893540352,
+        "timestamp":"2024-06-04T10:48:32.577Z"},
       {
         "id":"mss_495aspace_e80f45b999d4b281fbd0bed195bad5c0",
         "ead_ssi":"mss_495",
@@ -570,8 +572,8 @@
         "unitdate_start_ssm":["2000"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, 2000-2006"],
-        "_version_":1775216349906206720,
-        "timestamp":"2023-08-25T15:43:58.97Z"},
+        "_version_":1800927300982669312,
+        "timestamp":"2024-06-04T10:48:32.662Z"},
       {
         "id":"mss_495aspace_eca4224fb4ec2c3a0a3dd42e9ac90b26",
         "ead_ssi":"mss_495",
@@ -593,8 +595,8 @@
         "unitdate_start_ssm":["2008"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["2008"],
-        "_version_":1775216350308859905,
-        "timestamp":"2023-08-25T15:43:59.354Z"},
+        "_version_":1800927301146247168,
+        "timestamp":"2024-06-04T10:48:32.818Z"},
       {
         "id":"mss_495aspace_fe182174060d3f282929cce7848aadaf",
         "ead_ssi":"mss_495",
@@ -612,8 +614,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 20"],
         "heading_ssm":["Advertisement Clippings' Scrapbook"],
-        "_version_":1775216350490263552,
-        "timestamp":"2023-08-25T15:43:59.527Z"},
+        "_version_":1800927301251104768,
+        "timestamp":"2024-06-04T10:48:32.917Z"},
       {
         "id":"mss_495aspace_ff5f1f7bd90ecfeb77b8b8c08db0b806",
         "ead_ssi":"mss_495",
@@ -630,8 +632,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series II. Archived Website"],
         "unitdate_ssm":["February 2016-ongoing"],
-        "_version_":1775216350532206592,
-        "timestamp":"2023-08-25T15:43:59.567Z"}]
+        "_version_":1800927301264736256,
+        "timestamp":"2024-06-04T10:48:32.931Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -640,7 +642,8 @@
         "fales",25],
       "dao_sim":[
         "Translation missing: en.ead_indexer.fields.dao",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wilke, Michael",1],
       "date_range_sim":[
         "1901-2000",11,
         "2001-2100",20,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Merritt family papers"],
         "unitid_ssm":["MS 3145"],
         "abstract_ssm":["A small collection of inscribed books, photograph albums, an autograph album, and a scrapbook, belonging to the Merritt family of Brooklyn and Great Neck, Long Island."],
+        "creator_ssm":["Merritt family",
+          "Merritt family"],
         "corpname_ssm":["New-York Historical Society"],
         "famname_ssm":["Merritt family"],
         "genreform_ssm":["Autograph albums",
@@ -67,8 +69,8 @@
         "heading_ssm":["Merritt family papers"],
         "unitdate_ssm":["Inclusive, 1800, 1850s–1910s, 1931"],
         "language_ssm":["English"],
-        "_version_":1799329970021990400,
-        "timestamp":"2024-05-17T19:39:39.15Z"},
+        "_version_":1802085512923578368,
+        "timestamp":"2024-06-17T05:37:49.642Z"},
       {
         "id":"ms3145_merrittaspace_267367ad4a871b43cc16d1979fcdb9aa",
         "ead_ssi":"ms3145_merritt",
@@ -81,12 +83,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 6, Box: 4",
-          "Box: 4"],
+        "location_ssm":["Offsite-Box: 6, Box: 4"],
         "heading_ssm":["Autograph album"],
         "unitdate_ssm":["Inclusive, 1852–1861"],
-        "_version_":1799329970096439296,
-        "timestamp":"2024-05-17T19:39:39.221Z"},
+        "_version_":1802085513005367296,
+        "timestamp":"2024-06-17T05:37:49.721Z"},
       {
         "id":"ms3145_merrittaspace_31a4667aa29f3ef99f43e58870be9090",
         "ead_ssi":"ms3145_merritt",
@@ -102,8 +103,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Photograph album"],
         "unitdate_ssm":["Inclusive, 1850s-1870s"],
-        "_version_":1799329970058690560,
-        "timestamp":"2024-05-17T19:39:39.185Z"},
+        "_version_":1802085512963424256,
+        "timestamp":"2024-06-17T05:37:49.681Z"},
       {
         "id":"ms3145_merrittaspace_894430ef734145326635efb356d1d07d",
         "ead_ssi":"ms3145_merritt",
@@ -119,8 +120,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Inscribed books (3)"],
         "unitdate_ssm":["Inclusive, 1800, 1882-1883"],
-        "_version_":1799329970039816192,
-        "timestamp":"2024-05-17T19:39:39.167Z"},
+        "_version_":1802085512944549888,
+        "timestamp":"2024-06-17T05:37:49.663Z"},
       {
         "id":"ms3145_merrittaspace_a65987138499e1f1a2b119fd3e63d0ac",
         "ead_ssi":"ms3145_merritt",
@@ -136,8 +137,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Photograph album"],
         "unitdate_ssm":["Inclusive, 1850s-1870s, 1931"],
-        "_version_":1799329970073370624,
-        "timestamp":"2024-05-17T19:39:39.199Z"},
+        "_version_":1802085512980201472,
+        "timestamp":"2024-06-17T05:37:49.697Z"},
       {
         "id":"ms3145_merrittaspace_c455562e7f0beb34ced1c0bb31544bd3",
         "ead_ssi":"ms3145_merritt",
@@ -150,12 +151,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 6, Box: 5",
-          "Box: 5"],
+        "location_ssm":["Offsite-Box: 6, Box: 5"],
         "heading_ssm":["Scrapbook"],
         "unitdate_ssm":["Inclusive, 1870s-1910s"],
-        "_version_":1799329970116362240,
-        "timestamp":"2024-05-17T19:39:39.24Z"}]
+        "_version_":1802085513021095936,
+        "timestamp":"2024-06-17T05:37:49.735Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -163,7 +163,8 @@
       "repository_sim":[
         "nyhs",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Merritt family",1],
       "date_range_sim":[
         "undated & other",6],
       "subject_sim":[

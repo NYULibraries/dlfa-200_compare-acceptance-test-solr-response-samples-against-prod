@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["George E. Shibley Collection"],
         "unitid_ssm":["TAM.237"],
+        "creator_ssm":["Szeliga, Loretta",
+          "Szeliga, Loretta"],
         "unitdate_normal_ssm":["1954/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Szeliga, Loretta",
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1954"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1954-1957, 1989"],
-        "_version_":1799782427323793408,
-        "timestamp":"2024-05-22T19:31:16.058Z"},
+        "_version_":1802171226433519616,
+        "timestamp":"2024-06-18T04:20:12.416Z"},
       {
         "id":"tam_237aspace_ref3",
         "ead_ssi":"tam_237",
@@ -78,14 +80,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Shibley Defense Committee Fact Sheet and Form Letter"],
         "unitdate_start_ssm":["1956"],
         "unitdate_end_ssm":["1956"],
         "unitdate_ssm":["Inclusive, 1956"],
-        "_version_":1799782427338473472,
-        "timestamp":"2024-05-22T19:31:16.072Z"},
+        "_version_":1802171226442956800,
+        "timestamp":"2024-06-18T04:20:12.425Z"},
       {
         "id":"tam_237aspace_ref4",
         "ead_ssi":"tam_237",
@@ -99,14 +100,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Shibley, George E.: Clippings re Shibley Case"],
         "unitdate_start_ssm":["1954"],
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["Inclusive, 1954-1957"],
-        "_version_":1799782427357347840,
-        "timestamp":"2024-05-22T19:31:16.09Z"},
+        "_version_":1802171226450296832,
+        "timestamp":"2024-06-18T04:20:12.432Z"},
       {
         "id":"tam_237aspace_ref5",
         "ead_ssi":"tam_237",
@@ -119,12 +119,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Shibley, George E.: Obituaries and Biographical Sketches"],
         "unitdate_ssm":["1989"],
-        "_version_":1799782427372027904,
-        "timestamp":"2024-05-22T19:31:16.104Z"}]
+        "_version_":1802171226457636864,
+        "timestamp":"2024-06-18T04:20:12.439Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -132,7 +131,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Szeliga, Loretta",1],
       "date_range_sim":[
         "1901-2000",3,
         "undated & other",1],

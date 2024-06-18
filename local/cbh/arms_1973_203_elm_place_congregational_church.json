@@ -47,6 +47,8 @@
         "unittitle_ssm":["Elm Place Congregational Church records"],
         "unitid_ssm":["1973.203"],
         "abstract_ssm":["The Elm Place Congregational Church records are housed in a single folder and span the period 1864 to 1940. The records include a photo-negative copy of an event program for the church's 1864 dedication ceremony, a program of the church's Sunday School Festival Art Gallery, dated 1868, and handwritten historical notes on the church, circa 1940."],
+        "creator_ssm":["Elm Place Congregational Church (Brooklyn, New York, N.Y.)",
+          "Elm Place Congregational Church (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1864/1950"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Elm Place Congregational Church (Brooklyn, New York, N.Y.)",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1950"],
         "unitdate_ssm":["Inclusive, 1864 to circa 1940"],
         "language_ssm":["English"],
-        "_version_":1799311646686969856,
-        "timestamp":"2024-05-17T14:48:24.656Z"}]
+        "_version_":1801960065985413120,
+        "timestamp":"2024-06-15T20:23:54.12Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Elm Place Congregational Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

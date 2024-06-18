@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":19,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,20 @@
         "unittitle_ssm":["Blackburne, Woodward, and Ottaway family papers"],
         "unitid_ssm":["2013.006"],
         "abstract_ssm":["This collection consists of correspondence, wills, land indentures, travel journals and diaries, photographs (cabinet cards, cartes-de-visite, daguerreotypes, ambrotypes, tintypes, photo postcards, loose prints), holiday cards, scrapbooks, school programs, report cards, inventories of assets, hymnals and other books, genealogies, and artifacts including a parasol and pairs of spectacles relating to individuals in the Woodward, Blackburne, Cook, Ward, Littlejohn, Condit, Haynes, Hart, Ottaway, and Prosser families; all descendants of John Blackburne (1775-1845) and Elizabeth Cook (1781-1812). John Blackburne emigrated from England to the United States in 1821, settling in Brooklyn Heights; his grandson John Blackburne Woodward (1835-1895) was a Civil War general and prominent business, political, and civic leader. This collection is focused on family matters, including European travels and daily life at the family members' homes in Brooklyn, including nos. 70 Sands Street and 86 Sands Street (within a parcel of properties owned by the family), 259 Henry Street, and 54 Remsen Street, and is a reflection of memorabilia preserved by women of the family, particularly Mary Woodward and Ruth Hart Ottaway, from one generation to the next, along with materials and information gathered in the course of genealogical research by various family members."],
+        "creator_ssm":["Ottaway family",
+          "Woodward, John B. (John Blackburne)",
+          "Blackburne family",
+          "Woodward family",
+          "Ottaway, Ruth B.",
+          "Woodward, Elizabeth",
+          "Woodward, Mary Blackburne",
+          "Ottaway family",
+          "Blackburne family",
+          "Woodward family",
+          "Woodward, John B. (John Blackburne)",
+          "Ottaway, Ruth B.",
+          "Woodward, Elizabeth",
+          "Woodward, Mary Blackburne"],
         "unitdate_normal_ssm":["1807/2011",
           "1870/1930"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -186,8 +200,8 @@
           "1930"],
         "unitdate_ssm":["Inclusive, 1807 to 2011 ; 1870-1930"],
         "language_ssm":["English"],
-        "_version_":1799256203418664960,
-        "timestamp":"2024-05-17T00:07:09.835Z"},
+        "_version_":1801964185730416640,
+        "timestamp":"2024-06-15T21:29:23.015Z"},
       {
         "id":"arms_2013_006_blackburne_woodward_ottawayaspace_ref11_kup",
         "ead_ssi":"arms_2013_006_blackburne_woodward_ottaway",
@@ -207,8 +221,8 @@
           "1870"],
         "unitdate_end_ssm":["1889"],
         "unitdate_ssm":["Inclusive, 1844-1889 ; 1870-1889"],
-        "_version_":1799256203437539328,
-        "timestamp":"2024-05-17T00:07:09.853Z"},
+        "_version_":1801964185750339584,
+        "timestamp":"2024-06-15T21:29:23.034Z"},
       {
         "id":"arms_2013_006_blackburne_woodward_ottawayaspace_ref13_brf",
         "ead_ssi":"arms_2013_006_blackburne_woodward_ottaway",
@@ -228,8 +242,8 @@
         "unitdate_end_ssm":["1940",
           "1900"],
         "unitdate_ssm":["Inclusive, 1880-1940 ; 1880-1900"],
-        "_version_":1799256203454316544,
-        "timestamp":"2024-05-17T00:07:09.869Z"},
+        "_version_":1801964185769213952,
+        "timestamp":"2024-06-15T21:29:23.052Z"},
       {
         "id":"arms_2013_006_blackburne_woodward_ottawayaspace_ref15_ukf",
         "ead_ssi":"arms_2013_006_blackburne_woodward_ottaway",
@@ -250,8 +264,8 @@
         "unitdate_end_ssm":["2011",
           "1961"],
         "unitdate_ssm":["Inclusive, 1916-2011 ; 1925-1961"],
-        "_version_":1799256203470045184,
-        "timestamp":"2024-05-17T00:07:09.884Z"},
+        "_version_":1801964185788088320,
+        "timestamp":"2024-06-15T21:29:23.07Z"},
       {
         "id":"arms_2013_006_blackburne_woodward_ottawayaspace_ref17_jhu",
         "ead_ssi":"arms_2013_006_blackburne_woodward_ottaway",
@@ -269,8 +283,8 @@
         "unitdate_start_ssm":["1807"],
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1807-2000"],
-        "_version_":1799256203485773824,
-        "timestamp":"2024-05-17T00:07:09.899Z"},
+        "_version_":1801964185806962688,
+        "timestamp":"2024-06-15T21:29:23.088Z"},
       {
         "id":"arms_2013_006_blackburne_woodward_ottawayaspace_ref20_4pq",
         "ead_ssi":"arms_2013_006_blackburne_woodward_ottaway",
@@ -288,8 +302,8 @@
         "unitdate_start_ssm":["1850"],
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, 1850-1940"],
-        "_version_":1799256203500453888,
-        "timestamp":"2024-05-17T00:07:09.913Z"}]
+        "_version_":1801964185824788480,
+        "timestamp":"2024-06-15T21:29:23.104Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -297,7 +311,14 @@
       "repository_sim":[
         "cbh",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Blackburne family",1,
+        "Ottaway family",1,
+        "Ottaway, Ruth B.",1,
+        "Woodward family",1,
+        "Woodward, Elizabeth",1,
+        "Woodward, John B. (John Blackburne)",1,
+        "Woodward, Mary Blackburne",1],
       "date_range_sim":[
         "1801-1900",5,
         "1901-2000",5,

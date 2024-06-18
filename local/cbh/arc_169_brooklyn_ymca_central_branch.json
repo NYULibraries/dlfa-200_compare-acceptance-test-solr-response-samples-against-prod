@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Brooklyn YMCA Central Branch publications"],
         "unitid_ssm":["ARC.169"],
         "abstract_ssm":["Brooklyn's YMCA was founded in 1853.  Its first permanent edifice, comprised of three buildings on Fulton, Bond, and Hanover Streets, opened in 1885 and housed the newly formed Central Branch, commonly referred to as Brooklyn Central.  The Brooklyn YMCA Central Branch publications span the period 1884 to 1967 and document the activities of the Central Branch.  Included are copies of the Central Branch's news bulletin, Brooklyn Central (later Brooklyn Central News), as well as additional ephemeral literature."],
+        "creator_ssm":["Brooklyn Young Men's Christian Association. Central Branch",
+          "Brooklyn and Queens Young Men's Christian Association. Central Branch",
+          "Brooklyn Young Men's Christian Association. Eastern District Branch",
+          "YMCA of Greater New York. Brooklyn Central",
+          "Brooklyn Young Men's Christian Association",
+          "Brooklyn Young Men's Christian Association. Central Branch",
+          "Brooklyn and Queens Young Men's Christian Association. Central Branch",
+          "Brooklyn Young Men's Christian Association. Eastern District Branch",
+          "YMCA of Greater New York. Brooklyn Central",
+          "Brooklyn Young Men's Christian Association"],
         "unitdate_normal_ssm":["1884/1967",
           "1928/1967"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -91,8 +101,8 @@
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, 1884-1967 ; 1928-1967"],
         "language_ssm":["English"],
-        "_version_":1799312455182057472,
-        "timestamp":"2024-05-17T15:01:15.696Z"}]
+        "_version_":1801959273693970432,
+        "timestamp":"2024-06-15T20:11:18.531Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -100,7 +110,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Young Men's Christian Association",1,
+        "Brooklyn Young Men's Christian Association. Central Branch",1,
+        "Brooklyn Young Men's Christian Association. Eastern District Branch",1,
+        "Brooklyn and Queens Young Men's Christian Association. Central Branch",1,
+        "YMCA of Greater New York. Brooklyn Central",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

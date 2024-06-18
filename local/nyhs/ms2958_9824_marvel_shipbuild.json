@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["T.S. Marvel Shipbuilding Company ledger"],
         "unitid_ssm":["AHMC - Marvel, T.S. Shipbuilding Company"],
         "abstract_ssm":["This ledger records construction details for 189 ships built by the T.S. Marvel Shipbuilding Company between 1888 and 1907. The T.S. Marvel Shipbuilding Company (originally T.S. Marvel and Co.) was founded in 1884 by Thomas S. Marvel (1834-1916) and John Delaney in Newburgh, New York and operated until 1914. \n\nEach numbered entry in the ledger provides a boat's class, name, owner name, and hull dimensions, as well as contract amount and actual cost. The types of ships recorded include: tug boats, ferries, cargo barges, steel passenger steamers, steam yachts, side wheelers, and others. Among the owners listed are the Troy Iron and Steel Company, Long Island Navy Yard, New York Central and Hudson River Railroad, Standard Oil Company, and Brooklyn Ferry Company. Entry #107 records that the firm built J.P. Morgan's yacht \"Corsair,\" actually Corsair III. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: T.S. Marvel Shipbuilding Company Ledger"],
+        "creator_ssm":["T. S. Marvel Shipbuilding Company",
+          "T. S. Marvel Shipbuilding Company"],
         "corpname_ssm":["New-York Historical Society",
           "T. S. Marvel Shipbuilding Company"],
         "collection_ssm":["T.S. Marvel Shipbuilding Company ledger"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["T.S. Marvel Shipbuilding Company ledger"],
         "unitdate_ssm":["Inclusive, 1888-1907"],
-        "_version_":1799330237148823552,
-        "timestamp":"2024-05-17T19:43:53.902Z"}]
+        "_version_":1802083727928459264,
+        "timestamp":"2024-06-17T05:09:27.339Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "T. S. Marvel Shipbuilding Company",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

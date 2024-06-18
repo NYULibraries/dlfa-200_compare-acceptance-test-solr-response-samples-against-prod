@@ -47,6 +47,8 @@
         "unittitle_ssm":["Frank Jenks theater program collection"],
         "unitid_ssm":["1992.023"],
         "abstract_ssm":["Programs from various Brooklyn theaters operating during the late 19th century.  Theaters represented include the Brooklyn Academy of Music, the New Park Theatre (also known as Colonel Sinn's New Park Theatre, or as simply the Park Theatre), the Brooklyn Theatre, the Brooklyn Grand Opera House, Haverly's Theatre, Hyde & Behman's, and F.F. Proctor's Criterion Theatre."],
+        "creator_ssm":["Jenks, Frank, Sr.",
+          "Jenks, Frank, Sr."],
         "unitdate_normal_ssm":["1877/1892"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New Park Theatre (Brooklyn, New York, N.Y.)",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1892"],
         "unitdate_ssm":["Inclusive, 1877-1892"],
         "language_ssm":["English"],
-        "_version_":1799312356302389248,
-        "timestamp":"2024-05-17T14:59:41.398Z"}]
+        "_version_":1801963697814372352,
+        "timestamp":"2024-06-15T21:21:37.702Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Jenks, Frank, Sr.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

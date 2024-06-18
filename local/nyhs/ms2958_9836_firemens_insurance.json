@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Firemen's Insurance Company fire insurance policy to Anna Maria Kelly"],
         "unitid_ssm":["AHMC - Firemen's Insurance Company"],
         "abstract_ssm":["Firemen's Insurance Company policy number 11,361 issued to Anna Maria Kelly in 1833 to insure against loss or damage by fire on the frame dwelling house, adjoining kitchen, cider mill press, shed, and barns located about 1.5 miles from Newtown, Long Island on land formerly owned by William Sackett (identified by the donor as in what is now Woodside, Queens, New York City). Total insurance was $2000 for a one year period, for a premium of $13.25. The pre-printed four page form includes terms and conditions of the insurance and the list of company directors. There are fragments of two receipts attached to the form, suggesting that the policy may have been extended in future years. A note on the policy indicates it was cancelled, possibly in 1836. (The folder also includes two of the donor's research notes, prepared in 2016, about the family and property.)\n \nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Firemen's Insurance Company fire insurance policy to Anna Maria Kelly"],
+        "creator_ssm":["Firemen's Insurance Company, New York",
+          "Firemen's Insurance Company, New York"],
         "corpname_ssm":["New-York Historical Society",
           "Firemen's Insurance Company, New York"],
         "collection_ssm":["Firemen's Insurance Company fire insurance policy to Anna Maria Kelly"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Firemen's Insurance Company fire insurance policy to Anna Maria Kelly"],
         "unitdate_ssm":["Inclusive, 1833, 2016"],
         "language_ssm":["English"],
-        "_version_":1799316870794313728,
-        "timestamp":"2024-05-17T16:11:26.753Z"}]
+        "_version_":1802083774924587008,
+        "timestamp":"2024-06-17T05:10:12.158Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Firemen's Insurance Company, New York",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

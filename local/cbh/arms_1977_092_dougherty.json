@@ -47,6 +47,8 @@
         "unittitle_ssm":["Maria Louisa Dougherty autograph album"],
         "unitid_ssm":["1977.092"],
         "abstract_ssm":["The Maria Louisa Dougherty autograph album includes autographs, poems, illustrations, pressed leaves, and two loose newspaper clippings pertaining to the Brooklyn neighborhood of Brooklyn Heights, circa 1920 to 1934."],
+        "creator_ssm":["Dougherty, James S.",
+          "Dougherty, James S."],
         "unitdate_normal_ssm":["1838/1934",
           "1838/1844"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -74,8 +76,8 @@
           "1844"],
         "unitdate_ssm":["Inclusive, 1838-circa 1934 ; 1838-1844"],
         "language_ssm":["English"],
-        "_version_":1799256170702045184,
-        "timestamp":"2024-05-17T00:06:38.634Z"}]
+        "_version_":1801960680813756416,
+        "timestamp":"2024-06-15T20:33:40.466Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dougherty, James S.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -47,6 +47,8 @@
         "unittitle_ssm":["WLTH \"Looking Back in Brooklyn\" scripts"],
         "unitid_ssm":["1977.249"],
         "abstract_ssm":["This collection consists of 12 scripts for radio plays presented as part of the series \"Looking Back in Brooklyn,\" produced by the Brooklyn radio station WLTH from 1933 to 1934."],
+        "creator_ssm":["WLTH (Radio station : Brooklyn, New York, N.Y.)",
+          "WLTH (Radio station : Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1933/1934"],
         "corpname_ssm":["Brooklyn Historical Society",
           "WLTH (Radio station : Brooklyn, New York, N.Y.)",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1934"],
         "unitdate_ssm":["Inclusive, 1933-1934"],
         "language_ssm":["English"],
-        "_version_":1776297823094964224,
-        "timestamp":"2023-09-06T14:13:32.174Z"},
+        "_version_":1800697660634562560,
+        "timestamp":"2024-06-01T21:58:30.56Z"},
       {
         "id":"arms_1977_249_wlthaspace_0f2bcbb0eb8959278bd419c910823d88",
         "ead_ssi":"arms_1977_249_wlth",
@@ -84,8 +86,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: A0022"],
         "heading_ssm":["Prison Ships - Incidents On"],
-        "_version_":1776297823144247296,
-        "timestamp":"2023-09-06T14:13:32.221Z"},
+        "_version_":1800697660680699904,
+        "timestamp":"2024-06-01T21:58:30.604Z"},
       {
         "id":"arms_1977_249_wlthaspace_10e79c38b876cd7a749c17ebcad7e4ed",
         "ead_ssi":"arms_1977_249_wlth",
@@ -100,8 +102,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: A0022"],
         "heading_ssm":["Pirate Gold on Coney Island"],
-        "_version_":1776297823115935744,
-        "timestamp":"2023-09-06T14:13:32.192Z"},
+        "_version_":1800697660654485504,
+        "timestamp":"2024-06-01T21:58:30.579Z"},
       {
         "id":"arms_1977_249_wlthaspace_239f62f73e99fe78b498cfd8430f461b",
         "ead_ssi":"arms_1977_249_wlth",
@@ -116,8 +118,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: A0022"],
         "heading_ssm":["Revolutionary War: Rebel's Kidnap Plot"],
-        "_version_":1776297823130615808,
-        "timestamp":"2023-09-06T14:13:32.208Z"},
+        "_version_":1800697660668116992,
+        "timestamp":"2024-06-01T21:58:30.592Z"},
       {
         "id":"arms_1977_249_wlthaspace_2911cff581531cc1e0c699838b821530",
         "ead_ssi":"arms_1977_249_wlth",
@@ -132,8 +134,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: A0022"],
         "heading_ssm":["Patrick Campbell, Chief of Police"],
-        "_version_":1776297823256444928,
-        "timestamp":"2023-09-06T14:13:32.328Z"},
+        "_version_":1800697660800237568,
+        "timestamp":"2024-06-01T21:58:30.718Z"},
       {
         "id":"arms_1977_249_wlthaspace_2e4d68a30436891c46d037f3d3e8a12f",
         "ead_ssi":"arms_1977_249_wlth",
@@ -148,8 +150,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: A0022"],
         "heading_ssm":["Attempt to Kidnap George Washington"],
-        "_version_":1776297823229181952,
-        "timestamp":"2023-09-06T14:13:32.302Z"},
+        "_version_":1800697660770877440,
+        "timestamp":"2024-06-01T21:58:30.69Z"},
       {
         "id":"arms_1977_249_wlthaspace_53e88fa2463a2893032178e6b08e3fb3",
         "ead_ssi":"arms_1977_249_wlth",
@@ -164,8 +166,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: A0022"],
         "heading_ssm":["State of Long Island and \"Governor\" Alden Spooner"],
-        "_version_":1776297823173607424,
-        "timestamp":"2023-09-06T14:13:32.249Z"},
+        "_version_":1800697660711108608,
+        "timestamp":"2024-06-01T21:58:30.633Z"},
       {
         "id":"arms_1977_249_wlthaspace_5570a486ab7eebdd89fa03631becb195",
         "ead_ssi":"arms_1977_249_wlth",
@@ -180,8 +182,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: A0022"],
         "heading_ssm":["Romance of Melrose Abbey"],
-        "_version_":1776297823201918976,
-        "timestamp":"2023-09-06T14:13:32.276Z"},
+        "_version_":1800697660735225856,
+        "timestamp":"2024-06-01T21:58:30.656Z"},
       {
         "id":"arms_1977_249_wlthaspace_563b7ede2335999e10417396a2ff974a",
         "ead_ssi":"arms_1977_249_wlth",
@@ -196,8 +198,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: A0022"],
         "heading_ssm":["Cornelius Vanderveer, Patriot"],
-        "_version_":1776297823215550464,
-        "timestamp":"2023-09-06T14:13:32.289Z"},
+        "_version_":1800697660758294528,
+        "timestamp":"2024-06-01T21:58:30.677Z"},
       {
         "id":"arms_1977_249_wlthaspace_656256c270e3e36d2e032741dec1818f",
         "ead_ssi":"arms_1977_249_wlth",
@@ -212,8 +214,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: A0022"],
         "heading_ssm":["Death of Nathaniel Woodhull"],
-        "_version_":1776297823273222144,
-        "timestamp":"2023-09-06T14:13:32.344Z"},
+        "_version_":1800697660815966208,
+        "timestamp":"2024-06-01T21:58:30.733Z"},
       {
         "id":"arms_1977_249_wlthaspace_9d67687cf468f8d90c191ba2d7462e6f",
         "ead_ssi":"arms_1977_249_wlth",
@@ -228,8 +230,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: A0022"],
         "heading_ssm":["Civil War Episodes in Brooklyn"],
-        "_version_":1776297823189336064,
-        "timestamp":"2023-09-06T14:13:32.264Z"},
+        "_version_":1800697660722642944,
+        "timestamp":"2024-06-01T21:58:30.644Z"},
       {
         "id":"arms_1977_249_wlthaspace_a46c88ee9789b72960e49def740628d3",
         "ead_ssi":"arms_1977_249_wlth",
@@ -244,8 +246,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: A0022"],
         "heading_ssm":["Samuel Dodge and British Gold"],
-        "_version_":1776297823158927360,
-        "timestamp":"2023-09-06T14:13:32.235Z"},
+        "_version_":1800697660699574272,
+        "timestamp":"2024-06-01T21:58:30.622Z"},
       {
         "id":"arms_1977_249_wlthaspace_cf719f01aee8c19dc041de0b7bca8777",
         "ead_ssi":"arms_1977_249_wlth",
@@ -260,8 +262,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: A0022"],
         "heading_ssm":["Building the Brooklyn Bridge - The Roeblings"],
-        "_version_":1776297823242813440,
-        "timestamp":"2023-09-06T14:13:32.315Z"}]
+        "_version_":1800697660785557504,
+        "timestamp":"2024-06-01T21:58:30.703Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -269,7 +271,8 @@
       "repository_sim":[
         "cbh",13],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "WLTH (Radio station : Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",12],

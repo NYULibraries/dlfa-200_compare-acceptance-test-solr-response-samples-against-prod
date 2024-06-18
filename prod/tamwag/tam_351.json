@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Student Liberation Action Movement (SLAM!) Records"],
         "unitid_ssm":["TAM.351"],
         "abstract_ssm":["SLAM! (formed in 1996) was a citywide radical student activist group, based at Hunter College, City University of New York (CUNY). SLAM!'s main organizing concern was to stop the budget cuts and tuition hikes at CUNY, but they also addressed various social justice issues, particularly those relating to the ethnically and racially diverse and largely working class student body at CUNY. The records include meeting agendas and minutes, promotional material and brochures, material related to reading groups and fundraising; topical campaign files, including material related to Mumia Abu-Jamal Youth, Rising: Taking Back our Stolen Education, CUNY Coalition for Open Admissions campaigns; documents related programs such as the Summer Youth Employment Program and the High School Organizing Program; commercial and recorded VHS tapes related to Crazy Horse, Nelson Mandela, workers rights issues, 9/11 and global economic theory."],
+        "creator_ssm":["Student Liberation Action Movement (SLAM!)",
+          "Student Liberation Action Movement (SLAM!)"],
         "unitdate_normal_ssm":["1989/2007",
           "1999/2003"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["2007",
           "2003"],
         "unitdate_ssm":["Inclusive, 1989-2007 ; 1999-2003"],
-        "_version_":1775221201327620096,
-        "timestamp":"2023-08-25T17:01:05.646Z"},
+        "_version_":1801246919082639360,
+        "timestamp":"2024-06-07T23:28:44.235Z"},
       {
         "id":"tam_351aspace_ref10",
         "ead_ssi":"tam_351",
@@ -89,8 +91,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 3"],
         "heading_ssm":["BOX 3: "],
-        "_version_":1775221201487003648,
-        "timestamp":"2023-08-25T17:01:05.798Z"},
+        "_version_":1801246919143456768,
+        "timestamp":"2024-06-07T23:28:44.293Z"},
       {
         "id":"tam_351aspace_ref11",
         "ead_ssi":"tam_351",
@@ -105,8 +107,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 4"],
         "heading_ssm":["BOX 4: "],
-        "_version_":1775221201532092416,
-        "timestamp":"2023-08-25T17:01:05.841Z"},
+        "_version_":1801246919158136832,
+        "timestamp":"2024-06-07T23:28:44.307Z"},
       {
         "id":"tam_351aspace_ref12",
         "ead_ssi":"tam_351",
@@ -121,8 +123,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 5"],
         "heading_ssm":["BOX 5: "],
-        "_version_":1775221201577181184,
-        "timestamp":"2023-08-25T17:01:05.884Z"},
+        "_version_":1801246919203225600,
+        "timestamp":"2024-06-07T23:28:44.35Z"},
       {
         "id":"tam_351aspace_ref13",
         "ead_ssi":"tam_351",
@@ -137,8 +139,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 6"],
         "heading_ssm":["BOX 6: "],
-        "_version_":1775221201626464256,
-        "timestamp":"2023-08-25T17:01:05.931Z"},
+        "_version_":1801246919231537152,
+        "timestamp":"2024-06-07T23:28:44.377Z"},
       {
         "id":"tam_351aspace_ref14",
         "ead_ssi":"tam_351",
@@ -153,8 +155,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 7"],
         "heading_ssm":["BOX 7: "],
-        "_version_":1775221201671553024,
-        "timestamp":"2023-08-25T17:01:05.974Z"},
+        "_version_":1801246919281868800,
+        "timestamp":"2024-06-07T23:28:44.425Z"},
       {
         "id":"tam_351aspace_ref15",
         "ead_ssi":"tam_351",
@@ -169,8 +171,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 8"],
         "heading_ssm":["BOX 8: "],
-        "_version_":1775221201718738944,
-        "timestamp":"2023-08-25T17:01:06.019Z"},
+        "_version_":1801246919313326080,
+        "timestamp":"2024-06-07T23:28:44.455Z"},
       {
         "id":"tam_351aspace_ref16",
         "ead_ssi":"tam_351",
@@ -185,8 +187,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 9"],
         "heading_ssm":["BOX 9: "],
-        "_version_":1775221201756487680,
-        "timestamp":"2023-08-25T17:01:06.055Z"},
+        "_version_":1801246919332200448,
+        "timestamp":"2024-06-07T23:28:44.472Z"},
       {
         "id":"tam_351aspace_ref17",
         "ead_ssi":"tam_351",
@@ -201,8 +203,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 10"],
         "heading_ssm":["BOX 10: "],
-        "_version_":1775221201814159360,
-        "timestamp":"2023-08-25T17:01:06.103Z"},
+        "_version_":1801246919360512000,
+        "timestamp":"2024-06-07T23:28:44.5Z"},
       {
         "id":"tam_351aspace_ref18",
         "ead_ssi":"tam_351",
@@ -217,8 +219,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 11"],
         "heading_ssm":["BOX 11: "],
-        "_version_":1775221201855053824,
-        "timestamp":"2023-08-25T17:01:06.149Z"},
+        "_version_":1801246919385677824,
+        "timestamp":"2024-06-07T23:28:44.523Z"},
       {
         "id":"tam_351aspace_ref19",
         "ead_ssi":"tam_351",
@@ -233,8 +235,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 12"],
         "heading_ssm":["BOX 12: "],
-        "_version_":1775221201894899712,
-        "timestamp":"2023-08-25T17:01:06.187Z"},
+        "_version_":1801246919411892224,
+        "timestamp":"2024-06-07T23:28:44.549Z"},
       {
         "id":"tam_351aspace_ref20",
         "ead_ssi":"tam_351",
@@ -249,8 +251,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 13"],
         "heading_ssm":["BOX 13: "],
-        "_version_":1775221201936842752,
-        "timestamp":"2023-08-25T17:01:06.227Z"},
+        "_version_":1801246919430766592,
+        "timestamp":"2024-06-07T23:28:44.567Z"},
       {
         "id":"tam_351aspace_ref21",
         "ead_ssi":"tam_351",
@@ -265,8 +267,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 14"],
         "heading_ssm":["BOX 14: "],
-        "_version_":1775221201986125824,
-        "timestamp":"2023-08-25T17:01:06.273Z"},
+        "_version_":1801246919451738112,
+        "timestamp":"2024-06-07T23:28:44.587Z"},
       {
         "id":"tam_351aspace_ref22",
         "ead_ssi":"tam_351",
@@ -281,8 +283,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 15"],
         "heading_ssm":["BOX 15: "],
-        "_version_":1775221202054283264,
-        "timestamp":"2023-08-25T17:01:06.339Z"},
+        "_version_":1801246919472709632,
+        "timestamp":"2024-06-07T23:28:44.607Z"},
       {
         "id":"tam_351aspace_ref23",
         "ead_ssi":"tam_351",
@@ -297,8 +299,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 16"],
         "heading_ssm":["BOX 16: "],
-        "_version_":1775221202103566336,
-        "timestamp":"2023-08-25T17:01:06.385Z"},
+        "_version_":1801246919495778304,
+        "timestamp":"2024-06-07T23:28:44.629Z"},
       {
         "id":"tam_351aspace_ref24",
         "ead_ssi":"tam_351",
@@ -313,8 +315,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 17"],
         "heading_ssm":["BOX 17: "],
-        "_version_":1775221202141315072,
-        "timestamp":"2023-08-25T17:01:06.422Z"},
+        "_version_":1801246919519895552,
+        "timestamp":"2024-06-07T23:28:44.652Z"},
       {
         "id":"tam_351aspace_ref25",
         "ead_ssi":"tam_351",
@@ -329,8 +331,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 18"],
         "heading_ssm":["BOX 18: "],
-        "_version_":1775221202221006849,
-        "timestamp":"2023-08-25T17:01:06.497Z"},
+        "_version_":1801246919540867072,
+        "timestamp":"2024-06-07T23:28:44.672Z"},
       {
         "id":"tam_351aspace_ref26",
         "ead_ssi":"tam_351",
@@ -345,8 +347,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 19"],
         "heading_ssm":["BOX 19: "],
-        "_version_":1775221202279727105,
-        "timestamp":"2023-08-25T17:01:06.554Z"},
+        "_version_":1801246919580712960,
+        "timestamp":"2024-06-07T23:28:44.71Z"},
       {
         "id":"tam_351aspace_ref27",
         "ead_ssi":"tam_351",
@@ -361,8 +363,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 20"],
         "heading_ssm":["BOX 20: "],
-        "_version_":1775221202324815872,
-        "timestamp":"2023-08-25T17:01:06.597Z"},
+        "_version_":1801246919607975936,
+        "timestamp":"2024-06-07T23:28:44.736Z"},
       {
         "id":"tam_351aspace_ref28",
         "ead_ssi":"tam_351",
@@ -377,8 +379,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 21"],
         "heading_ssm":["BOX 21: "],
-        "_version_":1775221202368856064,
-        "timestamp":"2023-08-25T17:01:06.638Z"},
+        "_version_":1801246919624753152,
+        "timestamp":"2024-06-07T23:28:44.752Z"},
       {
         "id":"tam_351aspace_ref29",
         "ead_ssi":"tam_351",
@@ -393,8 +395,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 22"],
         "heading_ssm":["BOX 22: "],
-        "_version_":1775221202422333440,
-        "timestamp":"2023-08-25T17:01:06.689Z"},
+        "_version_":1801246919650967552,
+        "timestamp":"2024-06-07T23:28:44.776Z"},
       {
         "id":"tam_351aspace_ref79",
         "ead_ssi":"tam_351",
@@ -412,8 +414,8 @@
         "location_ssm":["Box: 25"],
         "heading_ssm":["February 2016 Accretion BOX 25:"],
         "language_ssm":["English"],
-        "_version_":1775221202560745473,
-        "timestamp":"2023-08-25T17:01:06.822Z"},
+        "_version_":1801246919722270720,
+        "timestamp":"2024-06-07T23:28:44.845Z"},
       {
         "id":"tam_351aspace_ref8",
         "ead_ssi":"tam_351",
@@ -428,8 +430,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["BOX 1: "],
-        "_version_":1775221201395777536,
-        "timestamp":"2023-08-25T17:01:05.711Z"},
+        "_version_":1801246919104659456,
+        "timestamp":"2024-06-07T23:28:44.256Z"},
       {
         "id":"tam_351aspace_ref82",
         "ead_ssi":"tam_351",
@@ -455,8 +457,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 23"],
         "heading_ssm":["2015 Accretion BOX 23:"],
-        "_version_":1775221202468470784,
-        "timestamp":"2023-08-25T17:01:06.733Z"},
+        "_version_":1801246919669841920,
+        "timestamp":"2024-06-07T23:28:44.795Z"},
       {
         "id":"tam_351aspace_ref83",
         "ead_ssi":"tam_351",
@@ -477,8 +479,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 24"],
         "heading_ssm":["2015 Accretion: BOX 24:"],
-        "_version_":1775221202515656705,
-        "timestamp":"2023-08-25T17:01:06.779Z"},
+        "_version_":1801246919686619136,
+        "timestamp":"2024-06-07T23:28:44.811Z"},
       {
         "id":"tam_351aspace_ref9",
         "ead_ssi":"tam_351",
@@ -493,8 +495,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["BOX 2: "],
-        "_version_":1775221201437720576,
-        "timestamp":"2023-08-25T17:01:05.751Z"}]
+        "_version_":1801246919122485248,
+        "timestamp":"2024-06-07T23:28:44.273Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -502,7 +504,8 @@
       "repository_sim":[
         "tamwag",26],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Student Liberation Action Movement (SLAM!)",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

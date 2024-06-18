@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["New York Customs House accounting records and John Jay copy of Federalist Paper No. 2"],
         "unitid_ssm":["1974.127"],
         "abstract_ssm":["The collection includes the receipts and accounts of the Province of New York Customs House (1704-1709) and a handwritten copy of the Federalist Paper No. 2 by John Jay (1787). Although the two items were accessioned as a single unit, the connection between the two is unknown."],
+        "creator_ssm":["New York (Colony). Customs House",
+          "Jay, John",
+          "New York (Colony). Customs House",
+          "Jay, John"],
         "unitdate_normal_ssm":["1704/1787"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (Colony). Customs House",
@@ -71,8 +75,8 @@
         "unitdate_end_ssm":["1787"],
         "unitdate_ssm":["Inclusive, 1704-1709, 1787"],
         "language_ssm":["English"],
-        "_version_":1799256329156558848,
-        "timestamp":"2024-05-17T00:09:09.748Z"}]
+        "_version_":1801960343510974464,
+        "timestamp":"2024-06-15T20:28:18.789Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +84,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Jay, John",1,
+        "New York (Colony). Customs House",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

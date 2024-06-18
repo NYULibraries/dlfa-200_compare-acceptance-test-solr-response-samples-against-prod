@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Central Congregational Society and Church"],
         "unitid_ssm":["ARC.086"],
         "abstract_ssm":["Records of the Central Congregational Society and Church document the activities of the church from its creation in 1854 to its consolidation with the Clinton Avenue Congregational Church in 1942. The collection is largely composed of ledgers with financial and membership information."],
+        "creator_ssm":["Central Congregational Church (Brooklyn, New York, N.Y.)",
+          "Central Congregational Church (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1854/1945"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Central Congregational Church (Brooklyn, New York, N.Y.)"],
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, 1854-1945"],
         "language_ssm":["English"],
-        "_version_":1799256329064284160,
-        "timestamp":"2024-05-17T00:09:09.66Z"}]
+        "_version_":1801958939456176128,
+        "timestamp":"2024-06-15T20:05:59.778Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Central Congregational Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Simon Loeb Collection"],
         "unitid_ssm":["MC.272"],
         "abstract_ssm":["Simon Loeb (d. 1975) was a 1908 graduate of New York University School of Commerce, Accounts, and Finance, and later the founder and senior partner of the accounting firm of Loeb and Troper. This collection contains materials collected by Loeb while attending the New York University School of Commerce, Accounts, and Finance, including commencement invitations, programs, a songbook, a yearbook for the class of 1908, and a banner. Also included is a Commerce Alumni Dinner program listing Loeb's 1962 John T. Madden Memorial Award, as well as a 1968 special issue of NYU's Internal."],
+        "creator_ssm":["Loeb, Simon",
+          "Loeb, Simon"],
         "unitdate_normal_ssm":["1908/1968"],
         "corpname_ssm":["New York University Archives",
           "New York University. School of Commerce, Accounts, and Finance. Alumni Association",
@@ -71,8 +73,8 @@
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1908-1909, 1962, 1968, undated"],
-        "_version_":1799255756695928832,
-        "timestamp":"2024-05-17T00:00:03.807Z"},
+        "_version_":1801949528300978176,
+        "timestamp":"2024-06-15T17:36:24.601Z"},
       {
         "id":"mc_272aspace_8abcdc9c12b97017c255d4a3e18e690e",
         "ead_ssi":"mc_272",
@@ -91,8 +93,8 @@
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1908-1909, 1962, 1968, undated"],
-        "_version_":1799255756713754624,
-        "timestamp":"2024-05-17T00:00:03.824Z"},
+        "_version_":1801949528318803968,
+        "timestamp":"2024-06-15T17:36:24.618Z"},
       {
         "id":"mc_272aspace_8f7eec4aff1f65e21fff4ddf6607a77a",
         "ead_ssi":"mc_272",
@@ -107,8 +109,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["School of Commerce, Accounts and Finance 50 year anniversary banner"],
-        "_version_":1799255756728434688,
-        "timestamp":"2024-05-17T00:00:03.838Z"}]
+        "_version_":1801949528333484032,
+        "timestamp":"2024-06-15T17:36:24.632Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -116,7 +118,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Loeb, Simon",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York University Archives Collection of NYU Presidential Portraits"],
         "unitid_ssm":["MC.376"],
         "abstract_ssm":["From 1831-2023, 16 men have acted as the Chancellor or President of New York University. The New York University Archives Collection of NYU Presidential Portraits consists of portraits representing people who have held this title."],
+        "creator_ssm":["New York University",
+          "New York University"],
         "unitdate_normal_ssm":["1831/2023"],
         "corpname_ssm":["New York University Archives",
           "New York University",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1831"],
         "unitdate_end_ssm":["2023"],
         "unitdate_ssm":["Inclusive, circa 1831-2023"],
-        "_version_":1775218142077779968,
-        "timestamp":"2023-08-25T16:12:28.118Z"},
+        "_version_":1800553910344089600,
+        "timestamp":"2024-05-31T07:53:39.6Z"},
       {
         "id":"mc_376aspace_03b83a2c399d1472abce568125a19dc8",
         "ead_ssi":"mc_376",
@@ -89,8 +91,8 @@
         "unitdate_start_ssm":["1948"],
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["1948"],
-        "_version_":1775218142402838528,
-        "timestamp":"2023-08-25T16:12:28.428Z"},
+        "_version_":1800553910466772992,
+        "timestamp":"2024-05-31T07:53:39.717Z"},
       {
         "id":"mc_376aspace_0741f3198085d165d836fead68caff1e",
         "ead_ssi":"mc_376",
@@ -110,8 +112,8 @@
         "unitdate_start_ssm":["2023"],
         "unitdate_end_ssm":["2023"],
         "unitdate_ssm":["2023"],
-        "_version_":1775218142698536960,
-        "timestamp":"2023-08-25T16:12:28.71Z"},
+        "_version_":1800553910592602112,
+        "timestamp":"2024-05-31T07:53:39.837Z"},
       {
         "id":"mc_376aspace_0ced27b240d5d3922878d37d35044fc4",
         "ead_ssi":"mc_376",
@@ -131,8 +133,8 @@
         "unitdate_start_ssm":["1962"],
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["1962"],
-        "_version_":1775218142442684416,
-        "timestamp":"2023-08-25T16:12:28.466Z"},
+        "_version_":1800553910482501632,
+        "timestamp":"2024-05-31T07:53:39.732Z"},
       {
         "id":"mc_376aspace_4589645016c397c8884b835471b33625",
         "ead_ssi":"mc_376",
@@ -152,8 +154,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["1975"],
-        "_version_":1775218142518181888,
-        "timestamp":"2023-08-25T16:12:28.538Z"},
+        "_version_":1800553910513958912,
+        "timestamp":"2024-05-31T07:53:39.762Z"},
       {
         "id":"mc_376aspace_502540691bddc4a44b07670459ba4783",
         "ead_ssi":"mc_376",
@@ -173,8 +175,8 @@
         "unitdate_start_ssm":["1893"],
         "unitdate_end_ssm":["1893"],
         "unitdate_ssm":["1893"],
-        "_version_":1775218142286446592,
-        "timestamp":"2023-08-25T16:12:28.316Z"},
+        "_version_":1800553910421684224,
+        "timestamp":"2024-05-31T07:53:39.674Z"},
       {
         "id":"mc_376aspace_59ea412d2f301b129da8206020a7a98b",
         "ead_ssi":"mc_376",
@@ -194,8 +196,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["1992"],
-        "_version_":1775218142593679360,
-        "timestamp":"2023-08-25T16:12:28.61Z"},
+        "_version_":1800553910546464768,
+        "timestamp":"2024-05-31T07:53:39.793Z"},
       {
         "id":"mc_376aspace_61af0b4af51b92b33456bf6e7f773d33",
         "ead_ssi":"mc_376",
@@ -215,8 +217,8 @@
         "unitdate_start_ssm":["1800"],
         "unitdate_end_ssm":["1850"],
         "unitdate_ssm":["Inclusive, circa early 1800s"],
-        "_version_":1775218142131257344,
-        "timestamp":"2023-08-25T16:12:28.169Z"},
+        "_version_":1800553910360866816,
+        "timestamp":"2024-05-31T07:53:39.616Z"},
       {
         "id":"mc_376aspace_61e412db48b17136ad4d1d458c10f2a3",
         "ead_ssi":"mc_376",
@@ -236,8 +238,8 @@
         "unitdate_start_ssm":["1800"],
         "unitdate_end_ssm":["1850"],
         "unitdate_ssm":["Inclusive, circa early 1800s"],
-        "_version_":1775218142167957504,
-        "timestamp":"2023-08-25T16:12:28.204Z"},
+        "_version_":1800553910375546880,
+        "timestamp":"2024-05-31T07:53:39.63Z"},
       {
         "id":"mc_376aspace_6511a9a73eaa365f7c6bd4cf3d9be700",
         "ead_ssi":"mc_376",
@@ -257,8 +259,8 @@
         "unitdate_start_ssm":["1900"],
         "unitdate_end_ssm":["1950"],
         "unitdate_ssm":["Inclusive, early 1900s"],
-        "_version_":1775218142366138368,
-        "timestamp":"2023-08-25T16:12:28.393Z"},
+        "_version_":1800553910452092928,
+        "timestamp":"2024-05-31T07:53:39.703Z"},
       {
         "id":"mc_376aspace_7c8b6f77892cb1e49aaeabf8b2d4be89",
         "ead_ssi":"mc_376",
@@ -278,8 +280,8 @@
         "unitdate_start_ssm":["1962"],
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["1962"],
-        "_version_":1775218142481481728,
-        "timestamp":"2023-08-25T16:12:28.503Z"},
+        "_version_":1800553910497181696,
+        "timestamp":"2024-05-31T07:53:39.746Z"},
       {
         "id":"mc_376aspace_7d9c1efad7b60ff8f0212f5c15b37de5",
         "ead_ssi":"mc_376",
@@ -299,8 +301,8 @@
         "unitdate_start_ssm":["1861"],
         "unitdate_end_ssm":["1861"],
         "unitdate_ssm":["1861"],
-        "_version_":1775218142206754816,
-        "timestamp":"2023-08-25T16:12:28.241Z"},
+        "_version_":1800553910390226944,
+        "timestamp":"2024-05-31T07:53:39.644Z"},
       {
         "id":"mc_376aspace_9e3f22e51b1a0147c060292c997eed03",
         "ead_ssi":"mc_376",
@@ -320,8 +322,8 @@
         "unitdate_start_ssm":["1894"],
         "unitdate_end_ssm":["1894"],
         "unitdate_ssm":["1894"],
-        "_version_":1775218142330486784,
-        "timestamp":"2023-08-25T16:12:28.358Z"},
+        "_version_":1800553910437412864,
+        "timestamp":"2024-05-31T07:53:39.689Z"},
       {
         "id":"mc_376aspace_b48cc0678ff37e4b51628ed5bef21386",
         "ead_ssi":"mc_376",
@@ -341,8 +343,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["1986"],
-        "_version_":1775218142553833472,
-        "timestamp":"2023-08-25T16:12:28.572Z"},
+        "_version_":1800553910529687552,
+        "timestamp":"2024-05-31T07:53:39.777Z"},
       {
         "id":"mc_376aspace_be4d50b366c5893ee82973dbb3baf275",
         "ead_ssi":"mc_376",
@@ -362,8 +364,8 @@
         "unitdate_start_ssm":["2002"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["2002"],
-        "_version_":1775218142628282368,
-        "timestamp":"2023-08-25T16:12:28.642Z"},
+        "_version_":1800553910563241984,
+        "timestamp":"2024-05-31T07:53:39.809Z"},
       {
         "id":"mc_376aspace_f1bce577cac5bb69f11cde7f88e39938",
         "ead_ssi":"mc_376",
@@ -383,8 +385,8 @@
         "unitdate_start_ssm":["2015"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["2015"],
-        "_version_":1775218142666031104,
-        "timestamp":"2023-08-25T16:12:28.679Z"},
+        "_version_":1800553910577922048,
+        "timestamp":"2024-05-31T07:53:39.823Z"},
       {
         "id":"mc_376aspace_f6642f8fc45c582adbd0b7a2f60fc1d9",
         "ead_ssi":"mc_376",
@@ -404,8 +406,8 @@
         "unitdate_start_ssm":["1851"],
         "unitdate_end_ssm":["1900"],
         "unitdate_ssm":["Inclusive, circa late 1800s"],
-        "_version_":1775218142248697856,
-        "timestamp":"2023-08-25T16:12:28.281Z"}]
+        "_version_":1800553910407004160,
+        "timestamp":"2024-05-31T07:53:39.66Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -413,7 +415,8 @@
       "repository_sim":[
         "archives",17],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University",1],
       "date_range_sim":[
         "1701-1800",2,
         "1801-1900",8,

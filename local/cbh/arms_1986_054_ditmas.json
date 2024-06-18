@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,20 @@
         "unittitle_ssm":["Ditmas family papers"],
         "unitid_ssm":["1986.054"],
         "abstract_ssm":["The Ditmas family papers span the period 1647 to 1900 and consist of indentures, deeds, bonds, bills of sale, mortgages, agreements, and other documents, mostly regarding land transactions in the town of Flatbush in Kings County, N.Y. Other documents pertain to transactions involving enslaved African Americans; land transactions in the towns of Bushwick and Gowanus in Kings County; and land disputes. One document in the collection is written in Dutch."],
+        "creator_ssm":["Ditmas, Johannes",
+          "Ditmas family",
+          "Ditmars family",
+          "Ditmas, Elizabeth Armstrong",
+          "Ditmas, John J., Jr.",
+          "Ditmas, John J., Sr.",
+          "Ditmas, Priscilla Burr",
+          "Ditmas family",
+          "Ditmars family",
+          "Ditmas, Johannes",
+          "Ditmas, Elizabeth Armstrong",
+          "Ditmas, John J., Jr.",
+          "Ditmas, John J., Sr.",
+          "Ditmas, Priscilla Burr"],
         "unitdate_normal_ssm":["1647/1900"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Ditmas family",
@@ -93,8 +107,8 @@
         "unitdate_start_ssm":["1647"],
         "unitdate_end_ssm":["1900"],
         "unitdate_ssm":["Inclusive, 1647-1900"],
-        "_version_":1799256291190767616,
-        "timestamp":"2024-05-17T00:08:33.541Z"}]
+        "_version_":1801963341086720000,
+        "timestamp":"2024-06-15T21:15:57.5Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -102,7 +116,14 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ditmars family",1,
+        "Ditmas family",1,
+        "Ditmas, Elizabeth Armstrong",1,
+        "Ditmas, Johannes",1,
+        "Ditmas, John J., Jr.",1,
+        "Ditmas, John J., Sr.",1,
+        "Ditmas, Priscilla Burr",1],
       "date_range_sim":[
         "1601-1700",1,
         "1801-1900",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Peter Filardo"],
         "unittitle_ssm":["American Workers Party Records"],
         "unitid_ssm":["TAM.441"],
+        "creator_ssm":["American Workers Party (New York, N.Y.,1970s- )",
+          "American Workers Party (New York, N.Y.,1970s- )"],
         "unitdate_normal_ssm":["1976/1984"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "American Workers Party (New York, N.Y.,1970s- )",
@@ -63,8 +65,8 @@
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, circa 1976-1984"],
         "language_ssm":["English"],
-        "_version_":1799334326941253632,
-        "timestamp":"2024-05-17T20:48:54.232Z"}]
+        "_version_":1802183074823274496,
+        "timestamp":"2024-06-18T07:28:31.921Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -72,7 +74,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "American Workers Party (New York, N.Y.,1970s- )",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

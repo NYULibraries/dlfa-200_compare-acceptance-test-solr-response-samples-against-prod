@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Gilliam Schenck election notice"],
         "unitid_ssm":["1974.233"],
         "abstract_ssm":["An election notice stating that Gilliam Schenck was voted to the position of Kings County Treasurer, dated 1879."],
+        "creator_ssm":["Schenck, Gilliam",
+          "Schenck, Gilliam"],
         "unitdate_normal_ssm":["1879/1879"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Brooklyn (New York, N.Y.) |x Politics and government",
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1879"],
         "unitdate_ssm":["Inclusive, 1879"],
         "language_ssm":["English"],
-        "_version_":1799256184807489536,
-        "timestamp":"2024-05-17T00:06:52.086Z"}]
+        "_version_":1801960477311369216,
+        "timestamp":"2024-06-15T20:30:26.391Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Schenck, Gilliam",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

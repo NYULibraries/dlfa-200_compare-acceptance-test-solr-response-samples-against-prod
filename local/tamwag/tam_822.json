@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["George Wood Papers on the Democratic Socialists Organizing Committee (DSOC)"],
         "unitid_ssm":["TAM.822"],
         "abstract_ssm":["George Wood is a former member of the Democratic Socialist Organizing Committee (DSOC), having served on the organization's National Board while living in Illinois. The George Wood Papers on the Democratic Socialists Organizing Committee (DSOC) (dated 1977-1981) consists of materials documenting the activities of DSOC from the late 1970s and early 1980s. Materials include correspondence (including correspondence between Wood and DSOC founder Michael Harrington), memoranda, and ephemera documenting organizational elections, conventions, conferences, and the formation of DSOC's international committee and education policy task force. The collections also includes issues of the DSOC newsletter Downstate Left. The collection documents the evolution of democratic socialist ideals and organizations in the late 20th century."],
+        "creator_ssm":["Wood, George",
+          "Wood, George"],
         "unitdate_normal_ssm":["1977/1981"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Democratic Socialist Organizing Committee (U.S.)"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1981"],
         "unitdate_ssm":["Inclusive, 1977-1981"],
-        "_version_":1799792501620473856,
-        "timestamp":"2024-05-22T22:11:23.656Z"},
+        "_version_":1802184766443749376,
+        "timestamp":"2024-06-18T07:55:25.176Z"},
       {
         "id":"tam_822aspace_026d107ef4cc99e608b76e89d0e2ad67",
         "ead_ssi":"tam_822",
@@ -81,14 +83,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-2",
-          "Folder: 1-2"],
+        "location_ssm":["Box: 1, Folder: 1-2"],
         "heading_ssm":["DSOC -- General"],
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1981"],
         "unitdate_ssm":["Inclusive, 1977-1981"],
-        "_version_":1799792501637251072,
-        "timestamp":"2024-05-22T22:11:23.672Z"},
+        "_version_":1802184766453186560,
+        "timestamp":"2024-06-18T07:55:25.185Z"},
       {
         "id":"tam_822aspace_6bd3681160ae5b9ef7ac96dafb4bed09",
         "ead_ssi":"tam_822",
@@ -102,14 +103,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3-4",
-          "Folder: 3-4"],
+        "location_ssm":["Box: 1, Folder: 3-4"],
         "heading_ssm":["Downstate Left Newsletter"],
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1979-1980"],
-        "_version_":1799792501651931136,
-        "timestamp":"2024-05-22T22:11:23.686Z"}]
+        "_version_":1802184766460526592,
+        "timestamp":"2024-06-18T07:55:25.192Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -117,7 +117,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wood, George",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

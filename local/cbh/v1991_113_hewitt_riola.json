@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Hewitt and Riola families photographs"],
         "unitid_ssm":["V1991.113"],
         "abstract_ssm":["The collection primarily documents the family life of William Riola and Sara Hewitt Riola from the time of their marriage in Brooklyn in 1935 through their 40th wedding anniversary. The bulk of the collection documents the period of time when William and Sara Riola, and their three young sons, Peter, William (\"Billy'), and Richard, lived in the Prospect Heights neighborhood of Brooklyn during the 1930s and 1940s. Street views of St. John's Place near Underhill Avenue showing the Riola family posing for photographs or the children at play are included."],
+        "creator_ssm":["Riola family",
+          "Hewitt family",
+          "Riola family",
+          "Hewitt family"],
         "unitdate_normal_ssm":["1927/1947"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Riola family",
@@ -79,8 +83,8 @@
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["Inclusive, 1927-1947"],
         "language_ssm":["English"],
-        "_version_":1799312249188253696,
-        "timestamp":"2024-05-17T14:57:59.245Z"}]
+        "_version_":1802045540660150272,
+        "timestamp":"2024-06-16T19:02:29.122Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +92,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hewitt family",1,
+        "Riola family",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

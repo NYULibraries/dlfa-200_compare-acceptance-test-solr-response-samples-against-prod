@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Benjamin Segan letters"],
         "unitid_ssm":["MS 3024"],
         "abstract_ssm":["Approximately 740 letters written by U.S. Army private Benjamin Segan (b. 1924) to his fianceé, Judith Berman, in New York City, describing his activities at basic training in Fort Dix, New Jersey, Camp Croft, South Carolina, Fort George G. Meade, Maryland, and his experiences in Italy, France, and Germany during World War II. The letters are digitized and are available in New-York Historical Society's Digital Collections."],
+        "creator_ssm":["Segan, Benjamin D., 1924-",
+          "Segan, Benjamin D., 1924-"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["V-mail",
           "Telegrams.",
@@ -71,8 +73,8 @@
           "Postcards."],
         "heading_ssm":["Benjamin Segan letters"],
         "unitdate_ssm":["Inclusive, 1943-1945"],
-        "_version_":1799322972918382592,
-        "timestamp":"2024-05-17T17:48:26.192Z"},
+        "_version_":1802084974746140672,
+        "timestamp":"2024-06-17T05:29:16.397Z"},
       {
         "id":"ms3024_benjamin_seganaspace_ref20_sxh",
         "ead_ssi":"ms3024_benjamin_segan",
@@ -88,8 +90,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Letters 1-173"],
         "unitdate_ssm":["1943 May-December"],
-        "_version_":1799322972932014080,
-        "timestamp":"2024-05-17T17:48:26.205Z"},
+        "_version_":1802084974765015040,
+        "timestamp":"2024-06-17T05:29:16.415Z"},
       {
         "id":"ms3024_benjamin_seganaspace_ref21_hnz",
         "ead_ssi":"ms3024_benjamin_segan",
@@ -105,8 +107,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Letters 174-493"],
         "unitdate_ssm":["1944 January-December"],
-        "_version_":1799322972947742720,
-        "timestamp":"2024-05-17T17:48:26.219Z"},
+        "_version_":1802084974783889408,
+        "timestamp":"2024-06-17T05:29:16.433Z"},
       {
         "id":"ms3024_benjamin_seganaspace_ref22_xv0",
         "ead_ssi":"ms3024_benjamin_segan",
@@ -122,8 +124,8 @@
         "location_ssm":["Box: 3"],
         "heading_ssm":["Letters 494-754"],
         "unitdate_ssm":["1945 January-November"],
-        "_version_":1799322972963471360,
-        "timestamp":"2024-05-17T17:48:26.235Z"}]
+        "_version_":1802084974798569472,
+        "timestamp":"2024-06-17T05:29:16.447Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -131,7 +133,8 @@
       "repository_sim":[
         "nyhs",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Segan, Benjamin D., 1924-",1],
       "date_range_sim":[
         "undated & other",4],
       "subject_sim":[

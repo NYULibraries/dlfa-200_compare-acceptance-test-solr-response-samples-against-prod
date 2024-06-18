@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Courant Institute of Mathematical Sciences Ultracomputer"],
         "unitid_ssm":["MC.385"],
         "abstract_ssm":["The New York University Ultracomputer was developed in the 1980s at Computer Science department of the Courant Institute of Mathematical Sciences. Much of the original concept was developed by mathematician, computer scientist, and professor Jacob T. Schwartz. The Records of the Courant Institute of Mathematical Sciences Ultracomputer consist of schematics and logs of Ultracomputer II and Ultracomputer III from 1987."],
+        "creator_ssm":["Courant Institute of Mathematical Sciences",
+          "Courant Institute of Mathematical Sciences"],
         "unitdate_normal_ssm":["1987/1987"],
         "corpname_ssm":["New York University Archives",
           "Courant Institute of Mathematical Sciences",
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["1987"],
-        "_version_":1799253004831948800,
-        "timestamp":"2024-05-16T23:16:19.425Z"},
+        "_version_":1801950277886017536,
+        "timestamp":"2024-06-15T17:48:19.461Z"},
       {
         "id":"mc_385aspace_fdff26d7116949da3ab1ec43b7ad50ae",
         "ead_ssi":"mc_385",
@@ -79,14 +81,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-5",
-          "Folder: 1-5"],
+        "location_ssm":["Box: 1, Folder: 1-5"],
         "heading_ssm":["Logs and Schematics"],
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["1987"],
-        "_version_":1799253004850823168,
-        "timestamp":"2024-05-16T23:16:19.443Z"}]
+        "_version_":1801950277905940480,
+        "timestamp":"2024-06-15T17:48:19.48Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +95,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Courant Institute of Mathematical Sciences",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

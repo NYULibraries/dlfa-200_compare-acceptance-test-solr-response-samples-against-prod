@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Faust Club records"],
         "unitid_ssm":["1977.268"],
         "abstract_ssm":["This collection includes materials documenting the activities of the Faust Club from 1872 to 1875, including a minute book, correspondence, a directory with lists of members and committees, and an account book with a name index."],
+        "creator_ssm":["Faust Club (Brooklyn, New York, N.Y.)",
+          "Faust Club (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1872/1875"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Faust Club (Brooklyn, New York, N.Y.)",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1875"],
         "unitdate_ssm":["Inclusive, 1872-1875"],
         "language_ssm":["English"],
-        "_version_":1799311682575532032,
-        "timestamp":"2024-05-17T14:48:58.882Z"}]
+        "_version_":1801961206887481344,
+        "timestamp":"2024-06-15T20:42:02.169Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Faust Club (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

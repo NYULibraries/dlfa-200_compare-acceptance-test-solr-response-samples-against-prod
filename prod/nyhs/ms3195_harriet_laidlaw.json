@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Harriet Burton Laidlaw scrapbooks"],
         "unitid_ssm":["MS 3195"],
         "abstract_ssm":["The collection primarily holds scrapbooks and ephemera related to woman suffrage and \"white slavery\" (prostitution) compiled by suffragist Harriet Burton Laidlaw, principally from the years leading to the enfranchisement of women in New York State in 1917."],
+        "creator_ssm":["Laidlaw, H. B. (Harriet Burton), 1873-1949",
+          "Laidlaw, H. B. (Harriet Burton), 1873-1949"],
         "corpname_ssm":["New-York Historical Society",
           "Woman Suffrage Party of New York City"],
         "genreform_ssm":["Newspaper clippings.",
@@ -69,8 +71,8 @@
           "Scrapbooks."],
         "heading_ssm":["Harriet Burton Laidlaw scrapbooks"],
         "unitdate_ssm":["Inclusive, 1910-1939"],
-        "_version_":1775219137444839424,
-        "timestamp":"2023-08-25T16:28:17.373Z"},
+        "_version_":1801012236533104640,
+        "timestamp":"2024-06-05T09:18:33.514Z"},
       {
         "id":"ms3195_harriet_laidlawaspace_038ef6c5a7d65f3ba7e0408815719e8a",
         "ead_ssi":"ms3195_harriet_laidlaw",
@@ -83,12 +85,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Volume: 1-6",
-          "Volume: 1-6"],
+        "location_ssm":["Offsite-Box: 1, Volume: 1-6"],
         "heading_ssm":["Scrapbooks on suffrage for women (6 volumes)"],
         "unitdate_ssm":["Inclusive, 1915"],
-        "_version_":1775219137489928192,
-        "timestamp":"2023-08-25T16:28:17.417Z"},
+        "_version_":1801012236547784704,
+        "timestamp":"2024-06-05T09:18:33.529Z"},
       {
         "id":"ms3195_harriet_laidlawaspace_467e440dc41397fd155135be35b3162f",
         "ead_ssi":"ms3195_harriet_laidlaw",
@@ -101,12 +102,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 2, Volume: 1-7",
-          "Volume: 1-7"],
+        "location_ssm":["Offsite-Box: 2, Volume: 1-7"],
         "heading_ssm":["Scrapbooks  on suffrage for women (7 volumes)"],
         "unitdate_ssm":["Inclusive, 1916-1918"],
-        "_version_":1775219137526628352,
-        "timestamp":"2023-08-25T16:28:17.452Z"},
+        "_version_":1801012236563513344,
+        "timestamp":"2024-06-05T09:18:33.544Z"},
       {
         "id":"ms3195_harriet_laidlawaspace_5f8e420b22fa33dab61dd7e6980b9438",
         "ead_ssi":"ms3195_harriet_laidlaw",
@@ -119,12 +119,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 3, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Offsite-Box: 3, Folder: 1"],
         "heading_ssm":["Loose clippings"],
         "unitdate_ssm":["Inclusive, 1910-1934"],
-        "_version_":1775219137609465856,
-        "timestamp":"2023-08-25T16:28:17.531Z"},
+        "_version_":1801012236598116352,
+        "timestamp":"2024-06-05T09:18:33.577Z"},
       {
         "id":"ms3195_harriet_laidlawaspace_99ef2e5208d97290adf2a8715a9bbccd",
         "ead_ssi":"ms3195_harriet_laidlaw",
@@ -140,8 +139,8 @@
         "location_ssm":["Folder: OS-Small"],
         "heading_ssm":["Oversize items"],
         "unitdate_ssm":["Inclusive, 1912-1936"],
-        "_version_":1775219137683914752,
-        "timestamp":"2023-08-25T16:28:17.602Z"},
+        "_version_":1801012236630622208,
+        "timestamp":"2024-06-05T09:18:33.608Z"},
       {
         "id":"ms3195_harriet_laidlawaspace_afa9cdef55657cb207a5e0f9ea761ebd",
         "ead_ssi":"ms3195_harriet_laidlaw",
@@ -154,12 +153,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 3, Volume: 1-4",
-          "Volume: 1-4"],
+        "location_ssm":["Offsite-Box: 3, Volume: 1-4"],
         "heading_ssm":["Scrapbooks on \"white slavery\" [prostitution] (4 volumes)"],
         "unitdate_ssm":["Inclusive, 1911-1916"],
-        "_version_":1775219137572765696,
-        "timestamp":"2023-08-25T16:28:17.496Z"},
+        "_version_":1801012236576096256,
+        "timestamp":"2024-06-05T09:18:33.556Z"},
       {
         "id":"ms3195_harriet_laidlawaspace_ef148b7d8806c4b58851978eb434ec11",
         "ead_ssi":"ms3195_harriet_laidlaw",
@@ -172,12 +170,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 4, Folder: 1-12",
-          "Folder: 1-12"],
+        "location_ssm":["Offsite-Box: 4, Folder: 1-12"],
         "heading_ssm":["Ephemera, stationery, articles, reprints, etc. (12 folders)"],
         "unitdate_ssm":["Inclusive, 1910-1939"],
-        "_version_":1775219137646166016,
-        "timestamp":"2023-08-25T16:28:17.566Z"}]
+        "_version_":1801012236612796416,
+        "timestamp":"2024-06-05T09:18:33.591Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -185,7 +182,8 @@
       "repository_sim":[
         "nyhs",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Laidlaw, H. B. (Harriet Burton), 1873-1949",1],
       "date_range_sim":[
         "undated & other",7],
       "subject_sim":[

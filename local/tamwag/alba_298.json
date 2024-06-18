@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Aubrey Kirby Kelley Papers"],
         "unitid_ssm":["ALBA.298"],
         "abstract_ssm":["Aubrey Kirby Kelley (1903-1970) was a veteran of the Abraham Lincoln Brigade. Kelley was originally from Texas and worked as a carpenter and plasterer. He served with the Lincoln and George Washington Battalion, and later served in the US Armed Forces during World War II. This collection consists of materials created and collected by Kelley documenting his participation in the Abraham Lincoln Brigade of the Spanish Civil War. Materials include a scrapbook documenting his experiences both in Spain and upon his return, military hats and textiles, and Kelley's World War II dogtags. The collection also includes a copy of Estampas de la Revolutcion Espanola that has been signed by other International Brigade veterans indicating their origins and the battalions in which they served."],
+        "creator_ssm":["Kelley, Aubrey Kirby",
+          "Kelley, Aubrey Kirby"],
         "unitdate_normal_ssm":["1936/1945"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "geogname_ssm":["Spain -- History -- Civil War, 1936-1939 -- Veterans.",
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, 1936-1945"],
-        "_version_":1799748159592726528,
-        "timestamp":"2024-05-22T10:26:35.803Z"},
+        "_version_":1802111663946596352,
+        "timestamp":"2024-06-17T12:33:29.202Z"},
       {
         "id":"alba_298aspace_19db0c42000d1dc44db6aef343a04b99",
         "ead_ssi":"alba_298",
@@ -85,8 +87,8 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, circa 1936-1945"],
-        "_version_":1799748159631523840,
-        "timestamp":"2024-05-22T10:26:35.84Z"},
+        "_version_":1802111664023142400,
+        "timestamp":"2024-06-17T12:33:29.275Z"},
       {
         "id":"alba_298aspace_bab99c79c22b893d91144be3162ecdf4",
         "ead_ssi":"alba_298",
@@ -105,8 +107,8 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1936-1939"],
-        "_version_":1799748159619989504,
-        "timestamp":"2024-05-22T10:26:35.829Z"},
+        "_version_":1802111663997976576,
+        "timestamp":"2024-06-17T12:33:29.251Z"},
       {
         "id":"alba_298aspace_efe6919dd8161495057644cf17c32409",
         "ead_ssi":"alba_298",
@@ -123,8 +125,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Estampas de la Revolucion Espanola"],
         "unitdate_ssm":["1936-07-19"],
-        "_version_":1799748159606358016,
-        "timestamp":"2024-05-22T10:26:35.816Z"},
+        "_version_":1802111663969665024,
+        "timestamp":"2024-06-17T12:33:29.224Z"},
       {
         "id":"alba_298aspace_fc470461e763799f4b1cf80001e3a61b",
         "ead_ssi":"alba_298",
@@ -143,8 +145,8 @@
         "unitdate_start_ssm":["1941"],
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, circa 1941-1945"],
-        "_version_":1799748159648301056,
-        "timestamp":"2024-05-22T10:26:35.856Z"}]
+        "_version_":1802111664049356800,
+        "timestamp":"2024-06-17T12:33:29.3Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -152,7 +154,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kelley, Aubrey Kirby",1],
       "date_range_sim":[
         "1901-2000",4,
         "undated & other",1],

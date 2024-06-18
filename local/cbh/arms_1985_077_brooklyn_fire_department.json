@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Fire Department payroll records"],
         "unitid_ssm":["1985.077"],
         "abstract_ssm":["The Brooklyn Fire Department payroll records are contained in one oversize enclosure and one oversize box and include commissioner and general staff monthly payrolls for the period August 30 to October 31, 1881, as well as individual monthly company payrolls from the years 1875 and 1881. The records feature lists of Fire Department employees, with signatures and pay rates next to the names."],
+        "creator_ssm":["Brooklyn (New York, N.Y.). Fire Dept",
+          "Brooklyn (New York, N.Y.). Fire Dept"],
         "unitdate_normal_ssm":["1875/1881"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn (New York, N.Y.). Fire Dept",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1881"],
         "unitdate_ssm":["Inclusive, 1875-1881"],
         "language_ssm":["English"],
-        "_version_":1799256307413286912,
-        "timestamp":"2024-05-17T00:08:49.012Z"}]
+        "_version_":1801963072166821888,
+        "timestamp":"2024-06-15T21:11:41.038Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn (New York, N.Y.). Fire Dept",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

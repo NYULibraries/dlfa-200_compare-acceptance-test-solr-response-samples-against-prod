@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Hertz Burgin History of Jewish Labor Movement Typescript"],
         "unitid_ssm":["TAM.249"],
+        "creator_ssm":["Burgin, Hertz, 1870-",
+          "Burgin, Hertz, 1870-"],
         "unitdate_normal_ssm":["1962/1962"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Jewish Labor Bund"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["1962"],
         "language_ssm":["English"],
-        "_version_":1799782449922703360,
-        "timestamp":"2024-05-22T19:31:37.61Z"}]
+        "_version_":1802171254731440128,
+        "timestamp":"2024-06-18T04:20:39.403Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Burgin, Hertz, 1870-",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

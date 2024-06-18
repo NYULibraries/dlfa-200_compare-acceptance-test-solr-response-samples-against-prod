@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Proprietors of Montauk collection"],
         "unitid_ssm":["ARC.066"],
         "abstract_ssm":["The Proprietors of Montauk collection spans the years 1699 to 1886 and is housed in three manuscript boxes and one oversize box. Included in the collection are minutes, account books, bylaws, receipts, land conveyances, land deeds, and other documents relating to land ownership and land rights in Montauk, Long Island, N.Y. Montauk, N.Y. is an unincorporated, census-designated area located in Suffolk County, Long Island and it is the easternmost census-designated place in New York state. In the late 17th century, the Montauketts and the early English settlers, or, the Proprietors of Montauk, engaged in a series of land conveyances in which the proprietors of Montauk paid the Montauketts for land. Hand written documents were drawn up to record the exchanges between the Montauketts and the proprietors of Montauk."],
+        "creator_ssm":["Benson, Arthur W.",
+          "Proprietors of Montauk (Montauk, N.Y.)",
+          "Proprietors of Montauk (Montauk, N.Y.)",
+          "Benson, Arthur W."],
         "unitdate_normal_ssm":["1699/1886"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Proprietors of Montauk (Montauk, N.Y.)",
@@ -80,8 +84,8 @@
         "unitdate_end_ssm":["1886"],
         "unitdate_ssm":["Inclusive, 1699-1886"],
         "language_ssm":["English"],
-        "_version_":1799312230451249152,
-        "timestamp":"2024-05-17T14:57:41.377Z"}]
+        "_version_":1801958866167005184,
+        "timestamp":"2024-06-15T20:04:49.884Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +93,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Benson, Arthur W.",1,
+        "Proprietors of Montauk (Montauk, N.Y.)",1],
       "date_range_sim":[
         "1601-1700",1,
         "1801-1900",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":22,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Spiller collection of Brooklyn product labels"],
         "unitid_ssm":["2014.024"],
         "abstract_ssm":["This collection contains 25 product labels produced by Brooklyn pharmaceutical manufacturers from the early 20th century. Companies represented in the collection include Brigandi Laboratories, Central Supply Company, Atlas Drug Company, and Barget Pharmacy. The type of products included are lipstick, oral hygiene products, haircare products, toilet water, mosquito oil, and a vitamin/iron supplement."],
+        "creator_ssm":["Spiller, Hanley",
+          "Barget Pharmacy (Brooklyn, New York, N.Y.)",
+          "Brigandi Laboratories (Brooklyn, New York, N.Y.)",
+          "Central Supply Company (Brooklyn, New York, N.Y.)",
+          "Atlas Drug Company (Brooklyn, New York, N.Y.)",
+          "Barget Pharmacy (Brooklyn, New York, N.Y.)",
+          "Brigandi Laboratories (Brooklyn, New York, N.Y.)",
+          "Central Supply Company (Brooklyn, New York, N.Y.)",
+          "Atlas Drug Company (Brooklyn, New York, N.Y.)",
+          "Spiller, Hanley"],
         "unitdate_normal_ssm":["1895/1935"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Barget Pharmacy (Brooklyn, New York, N.Y.)",
@@ -80,8 +90,8 @@
         "unitdate_end_ssm":["1935"],
         "unitdate_ssm":["Inclusive, circa 1900-1930"],
         "language_ssm":["English"],
-        "_version_":1799256330100277248,
-        "timestamp":"2024-05-17T00:09:10.648Z"}]
+        "_version_":1801966959852519424,
+        "timestamp":"2024-06-15T22:13:28.624Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +99,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Atlas Drug Company (Brooklyn, New York, N.Y.)",1,
+        "Barget Pharmacy (Brooklyn, New York, N.Y.)",1,
+        "Brigandi Laboratories (Brooklyn, New York, N.Y.)",1,
+        "Central Supply Company (Brooklyn, New York, N.Y.)",1,
+        "Spiller, Hanley",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Free Kindergarten Society collection"],
         "unitid_ssm":["1985.098"],
         "abstract_ssm":["The Brooklyn Free Kindergarten Society collection spans the dates 1892 to 2016 and contains annual reports,  copies of the Society's monthly newsletter, The Free Kindergarten, and a 125th anniversary booklet. The annual reports span the years 1892 to 1918 and 1920 to 1931.  The Brooklyn Free Kindergarten Society was founded in 1891 as the Brooklyn Kindergarten Association with the mission of providing early childhood education to children in Brooklyn's impoverished immigrant neighborhoods, and to promote interest in such work throughout the City (and later, Borough) of Brooklyn."],
+        "creator_ssm":["Brooklyn Free Kindergarten Society",
+          "Brooklyn Free Kindergarten Society"],
         "unitdate_normal_ssm":["1892/2016",
           "1892/1931"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -74,8 +76,8 @@
           "1931"],
         "unitdate_ssm":["Inclusive, 1892-2016 ; 1892-1931"],
         "language_ssm":["English"],
-        "_version_":1799311508190003200,
-        "timestamp":"2024-05-17T14:46:12.575Z"}]
+        "_version_":1801963109604130816,
+        "timestamp":"2024-06-15T21:12:16.741Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Free Kindergarten Society",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Murray S. Barkan papers"],
         "unitid_ssm":["1990.026"],
         "abstract_ssm":["The Murray S. Barkan papers cover the period October 1941 to June 1944 and measure 1.5 linear feet. The papers document Barkan's tenure as an Air Raid Warden in Brooklyn during the Second World War and provide insight into the duties and responsibilities of Air Raid Wardens, the types of war preparedness activities undertaken by civilians on the homefront during the war, as well as the NYPD's central role in coordinating New York City's war preparedness."],
+        "creator_ssm":["Barkan, Murray S.",
+          "United States. Office of Civilian Defense",
+          "New York (N.Y.). Police Department",
+          "United States. Office of Civilian Defense",
+          "New York (N.Y.). Police Department",
+          "Barkan, Murray S."],
         "unitdate_normal_ssm":["1941/1944"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Office of Civilian Defense",
@@ -83,8 +89,8 @@
         "unitdate_end_ssm":["1944"],
         "unitdate_ssm":["Inclusive, 1941-1944"],
         "language_ssm":["English"],
-        "_version_":1799256302283653120,
-        "timestamp":"2024-05-17T00:08:44.12Z"}]
+        "_version_":1801963545658654720,
+        "timestamp":"2024-06-15T21:19:12.595Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +98,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Barkan, Murray S.",1,
+        "New York (N.Y.). Police Department",1,
+        "United States. Office of Civilian Defense",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

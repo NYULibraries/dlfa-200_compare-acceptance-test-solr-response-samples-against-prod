@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Female authors of Kings County list"],
         "unitid_ssm":["1995.008"],
         "abstract_ssm":["A bound volume, titled Model County Records. County of Kings, that features a typewritten list of female authors who resided in Kings County, N.Y. during the 19th century. The list is typewritten, alphabetical by surname, and lists the titles of books, magazine, and newspaper articles written by each author. In the back of the volume is an index organized alphabetically by surname."],
+        "creator_ssm":["Bellamy, Frederick P., Mrs.",
+          "Packer, Harriet L., 1820-1892",
+          "Bellamy, Frederick P., Mrs.",
+          "Packer, Harriet L., 1820-1892"],
         "unitdate_normal_ssm":["1810/1910"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Indexes (reference sources)",
@@ -71,8 +75,8 @@
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, circa 1820 to 1900"],
         "language_ssm":["English"],
-        "_version_":1799312455071956992,
-        "timestamp":"2024-05-17T15:01:15.592Z"}]
+        "_version_":1801963791105130496,
+        "timestamp":"2024-06-15T21:23:06.671Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +84,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bellamy, Frederick P., Mrs.",1,
+        "Packer, Harriet L., 1820-1892",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

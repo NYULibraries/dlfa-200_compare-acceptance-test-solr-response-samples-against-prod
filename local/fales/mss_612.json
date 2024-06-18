@@ -47,6 +47,8 @@
         "unittitle_ssm":["No Longer Empty Records"],
         "unitid_ssm":["MSS.612"],
         "abstract_ssm":["No Longer Empty was an arts organization, established in 2009, that \"curate[d] site-responsive exhibitions, education and public programs in unconventional locations around New York City.\" In July 2020, the organization ceased programming, due to the COVID-19 pandemic. The collection is made up of the archived websites for the organization, focusing on their exhibits, events, and their education programs the Young Exhibition Makers and Youth Action Council. The collections also includes exhibition documentation, ephemera, administrative records, and publications concerning specific programming, educational outreach, and the organization's daily operations."],
+        "creator_ssm":["No Longer Empty (New York, N.Y.)",
+          "No Longer Empty (New York, N.Y.)"],
         "unitdate_normal_ssm":["2008/2023"],
         "corpname_ssm":["Fales Library and Special Collections",
           "No Longer Empty (New York, N.Y.)"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["2008"],
         "unitdate_end_ssm":["2023"],
         "unitdate_ssm":["Inclusive, 2008-2023"],
-        "_version_":1799745462417227776,
-        "timestamp":"2024-05-22T09:43:43.576Z"},
+        "_version_":1802081720136105984,
+        "timestamp":"2024-06-17T04:37:32.559Z"},
       {
         "id":"mss_612aspace_aa61a50c2ae6fd36f486b3834c20c578",
         "ead_ssi":"mss_612",
@@ -92,8 +94,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["Inclusive, April 2022-February 2023"],
-        "_version_":1799745462439247872,
-        "timestamp":"2024-05-22T09:43:43.597Z"}]
+        "_version_":1802081720160223232,
+        "timestamp":"2024-06-17T04:37:32.581Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -102,7 +104,8 @@
         "fales",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "No Longer Empty (New York, N.Y.)",1],
       "date_range_sim":[
         "2001-2100",1,
         "undated & other",1],

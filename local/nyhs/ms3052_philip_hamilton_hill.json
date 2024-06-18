@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":20,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Philip Hamilton Hill diaries"],
         "unitid_ssm":["MS 3052"],
         "abstract_ssm":["The collection includes the three volumes of diaries maintained from August 1855 to June 1865 by Philip Hamilton Hill (1839-1915). Hill, who was employed by the Jewish businessman Jacob Bamberg in a millinery shop in Albany and New York City, wrote entries concerning his social activities with family, friends, and women; leisure activities, including going to the theatre; employment matters; description of travel and events he witnessed in New York; and his time during the Civil War as an enlistee with the 7th Regiment of the New York State National Guard at Fort Federal Hill in Baltimore."],
+        "creator_ssm":["Hill, Philip Hamilton, 1839-1915",
+          "Hill, Philip Hamilton, 1839-1915"],
         "corpname_ssm":["New-York Historical Society",
           "Independent Order of Odd Fellows",
           "New York (State). National Guard. Regiment, 7th"],
@@ -71,8 +73,8 @@
         "heading_ssm":["Philip Hamilton Hill diaries"],
         "unitdate_ssm":["Inclusive, 1855-1865"],
         "language_ssm":["English"],
-        "_version_":1799331338457710592,
-        "timestamp":"2024-05-17T20:01:24.191Z"},
+        "_version_":1802085157188927488,
+        "timestamp":"2024-06-17T05:32:10.388Z"},
       {
         "id":"ms3052_philip_hamilton_hillaspace_ref10_irg",
         "ead_ssi":"ms3052_philip_hamilton_hill",
@@ -85,12 +87,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Volume 1"],
         "unitdate_ssm":["1855 August-1860 December"],
-        "_version_":1799331338473439232,
-        "timestamp":"2024-05-17T20:01:24.207Z"},
+        "_version_":1802085157208850432,
+        "timestamp":"2024-06-17T05:32:10.407Z"},
       {
         "id":"ms3052_philip_hamilton_hillaspace_ref11_inh",
         "ead_ssi":"ms3052_philip_hamilton_hill",
@@ -103,12 +104,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Volume 2"],
         "unitdate_ssm":["1861 January-1863 May"],
-        "_version_":1799331338486022144,
-        "timestamp":"2024-05-17T20:01:24.219Z"},
+        "_version_":1802085157225627648,
+        "timestamp":"2024-06-17T05:32:10.423Z"},
       {
         "id":"ms3052_philip_hamilton_hillaspace_ref12_5ge",
         "ead_ssi":"ms3052_philip_hamilton_hill",
@@ -121,12 +121,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Volume 3"],
         "unitdate_ssm":["1863 May-1865 June"],
-        "_version_":1799331338501750784,
-        "timestamp":"2024-05-17T20:01:24.233Z"},
+        "_version_":1802085157240307712,
+        "timestamp":"2024-06-17T05:32:10.437Z"},
       {
         "id":"ms3052_philip_hamilton_hillaspace_ref16_r85",
         "ead_ssi":"ms3052_philip_hamilton_hill",
@@ -139,12 +138,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 1, Folder: 4"],
         "heading_ssm":["Codes"],
         "unitdate_ssm":["Undated"],
-        "_version_":1799331338516430848,
-        "timestamp":"2024-05-17T20:01:24.248Z"},
+        "_version_":1802085157260230656,
+        "timestamp":"2024-06-17T05:32:10.456Z"},
       {
         "id":"ms3052_philip_hamilton_hillaspace_ref17_zvb",
         "ead_ssi":"ms3052_philip_hamilton_hill",
@@ -157,12 +155,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 5-7",
-          "Folder: 5-7"],
+        "location_ssm":["Box: 1, Folder: 5-7"],
         "heading_ssm":["Transcripts (3 folders)"],
         "unitdate_ssm":["Undated"],
-        "_version_":1799331338534256640,
-        "timestamp":"2024-05-17T20:01:24.265Z"}]
+        "_version_":1802085157277007872,
+        "timestamp":"2024-06-17T05:32:10.472Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -170,7 +167,8 @@
       "repository_sim":[
         "nyhs",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hill, Philip Hamilton, 1839-1915",1],
       "date_range_sim":[
         "undated & other",6],
       "subject_sim":[

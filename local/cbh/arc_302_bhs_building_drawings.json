@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["128 Pierrepont Street building architectural drawings"],
         "unitid_ssm":["ARC.302"],
         "abstract_ssm":["Collection of 73 architectural drawings for the Brooklyn Historical Society (formerly Long Island Historical Society) building at 128 Pierrepont Street, in Brooklyn, New York. The drawings were submitted to the historical society as part of a design contest held from December 1877 to February 1878. They include 33 drawings by George Browne Post, who was selected as the winner of the contest. These drawings were used as the basis for the construction of the building, which was completed in 1881. The collection includes 40 drawings by other architects, which were also submitted to the contest."],
+        "creator_ssm":["Thorp, Alfred H.",
+          "Post, George Browne",
+          "Eidlitz, Leopold",
+          "Davis, Alexander Jackson",
+          "Thorp, Alfred H.",
+          "Post, George Browne",
+          "Eidlitz, Leopold",
+          "Davis, Alexander Jackson"],
         "unitdate_normal_ssm":["1875/1878"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Historical Society (Brooklyn, New York, N.Y.)",
@@ -78,8 +86,8 @@
         "unitdate_end_ssm":["1878"],
         "unitdate_ssm":["Inclusive, circa 1878"],
         "language_ssm":["English"],
-        "_version_":1799312229157306368,
-        "timestamp":"2024-05-17T14:57:40.143Z"}]
+        "_version_":1801959787981701120,
+        "timestamp":"2024-06-15T20:19:28.995Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +95,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Davis, Alexander Jackson",1,
+        "Eidlitz, Leopold",1,
+        "Post, George Browne",1,
+        "Thorp, Alfred H.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

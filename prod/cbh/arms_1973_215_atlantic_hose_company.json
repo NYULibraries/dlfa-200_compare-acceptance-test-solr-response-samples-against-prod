@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Atlantic Hose Company No. 1 manuscript"],
         "unitid_ssm":["1973.215"],
         "abstract_ssm":["The Atlantic Hose Company No. 1 manuscript consists of a four-page typewritten pages spanning the dates 1835 to 1881. The manuscript collects reminisciences of past members of the company."],
+        "creator_ssm":["Nicholson, Henry M.",
+          "Nicholson, Henry M."],
         "unitdate_normal_ssm":["1835/1881"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Manuscripts (document genre)"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1881"],
         "unitdate_ssm":["Inclusive, 1835-1881"],
         "language_ssm":["English"],
-        "_version_":1775226398222319616,
-        "timestamp":"2023-08-25T18:23:41.79Z"}]
+        "_version_":1800654873146949632,
+        "timestamp":"2024-06-01T10:38:25.232Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nicholson, Henry M.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

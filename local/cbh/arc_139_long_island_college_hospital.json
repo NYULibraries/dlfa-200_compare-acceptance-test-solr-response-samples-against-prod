@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Long Island College Hospital collection"],
         "unitid_ssm":["ARC.139"],
         "abstract_ssm":["The Long Island College Hospital was founded in 1858 and functioned as both a hospital and medical school.  Its original building was located on the west side of Henry Street between Pacific and Amity Streets in the Brooklyn neighborhood of Cobble Hill.  The Hospital later moved to 339 Hicks Street.  The Long Island College Hospital collection spans the period 1861 to 1969 and contains publications and ephemera documenting the activities of the Hospital and its medical school, including annual reports, yearbooks, catalogs, newsletters, bulletins, programs, brochures, and pamphlets."],
+        "creator_ssm":["Long Island College of Medicine",
+          "Long Island College Hospital",
+          "Long Island College Hospital. Guild",
+          "Long Island College of Medicine",
+          "Long Island College Hospital",
+          "Long Island College Hospital. Guild"],
         "unitdate_normal_ssm":["1861/1969"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island College of Medicine",
@@ -99,8 +105,8 @@
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1861-1969"],
         "language_ssm":["English"],
-        "_version_":1799256199103774720,
-        "timestamp":"2024-05-17T00:07:05.72Z"}]
+        "_version_":1801959160349196288,
+        "timestamp":"2024-06-15T20:09:30.438Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -108,7 +114,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Long Island College Hospital",1,
+        "Long Island College Hospital. Guild",1,
+        "Long Island College of Medicine",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

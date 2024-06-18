@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Jacob Brenner papers"],
         "unitid_ssm":["2006.023"],
         "abstract_ssm":["This collection contains documents and news clippings of Jacob A. Brenner (1857-1921), former Brooklyn magistrate and Kings County Commissioner of Jurors. The collection chiefly relates to Brenner's numerous appointments in the Kings County judicial system and his membership in the Republican Party, as well as personal materials regarding the death of his wife, Louise (Blumenau) Brenner."],
+        "creator_ssm":["Brenner, Rose",
+          "Brenner, Jacob A.",
+          "Woodruff, Timothy L. (Timothy Lester)",
+          "Depew, Chauncey M. (Chauncey Mitchell)",
+          "Brenner, Rose",
+          "Brenner, Jacob A.",
+          "Woodruff, Timothy L. (Timothy Lester)",
+          "Depew, Chauncey M. (Chauncey Mitchell)"],
         "unitdate_normal_ssm":["1884/1921",
           "1896/1902"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -85,8 +93,8 @@
         "unitdate_end_ssm":["1921",
           "1902"],
         "unitdate_ssm":["Inclusive, 1884-1921 ; 1896-1902"],
-        "_version_":1799312275548405760,
-        "timestamp":"2024-05-17T14:58:24.385Z"},
+        "_version_":1801963941741461504,
+        "timestamp":"2024-06-15T21:25:30.329Z"},
       {
         "id":"arms_2006_023_brenneraspace_ref10_mw8",
         "ead_ssi":"arms_2006_023_brenner",
@@ -104,8 +112,8 @@
         "unitdate_start_ssm":["1896"],
         "unitdate_end_ssm":["1921"],
         "unitdate_ssm":["Inclusive, 1896-1921"],
-        "_version_":1799312275564134400,
-        "timestamp":"2024-05-17T14:58:24.4Z"},
+        "_version_":1801963941759287296,
+        "timestamp":"2024-06-15T21:25:30.346Z"},
       {
         "id":"arms_2006_023_brenneraspace_ref11_nw2",
         "ead_ssi":"arms_2006_023_brenner",
@@ -123,8 +131,8 @@
         "unitdate_start_ssm":["1884"],
         "unitdate_end_ssm":["1921"],
         "unitdate_ssm":["Inclusive, 1884-1921"],
-        "_version_":1799312275578814464,
-        "timestamp":"2024-05-17T14:58:24.414Z"}]
+        "_version_":1801963941778161664,
+        "timestamp":"2024-06-15T21:25:30.364Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -132,7 +140,11 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brenner, Jacob A.",1,
+        "Brenner, Rose",1,
+        "Depew, Chauncey M. (Chauncey Mitchell)",1,
+        "Woodruff, Timothy L. (Timothy Lester)",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",3],

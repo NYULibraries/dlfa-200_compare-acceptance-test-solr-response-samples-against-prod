@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Richard Fanning shipping certificate"],
         "unitid_ssm":["1977.603"],
         "abstract_ssm":["One 1799 document certifying that goods transported on the ship Revolution from New York, N.Y. under shipmaster Richard Fanning have safely arrived in Havana, Cuba."],
+        "creator_ssm":["Fanning, Richard",
+          "Fanning, Richard"],
         "unitdate_normal_ssm":["1799/1799"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Revolution (Ship)"],
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1799"],
         "unitdate_ssm":["1799"],
         "language_ssm":["English"],
-        "_version_":1799256214787325952,
-        "timestamp":"2024-05-17T00:07:20.677Z"}]
+        "_version_":1801962052603871232,
+        "timestamp":"2024-06-15T20:55:28.707Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fanning, Richard",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

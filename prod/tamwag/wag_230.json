@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Retail, Wholesale, and Department Store Union (RWDSU), Local 3, United Store Workers Records"],
         "unitid_ssm":["WAG.230"],
         "abstract_ssm":["Retail, Wholesale, and Department Store Union (RWDSU), Local 3 represents workers at certain Bloomingdale's stores in Manhattan.  They entered their first contract with Bloomingdale's in 1937.  Materials in this collection are primarily from the late 1970s through the early 1990s, and relate to arbitrations, contracts, grievances, picketing, and assorted union activities.  The files of Ida Torres, former president of Local 3, are also included in this collection."],
+        "creator_ssm":["Retail, Wholesale and Department Store Union. Local 3 (New York, N.Y.)",
+          "Retail, Wholesale and Department Store Union. Local 3 (New York, N.Y.)"],
         "unitdate_normal_ssm":["1975/2023"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Retail, Wholesale and Department Store Union. Local 3 (New York, N.Y.)",
@@ -73,8 +75,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["2023"],
         "unitdate_ssm":["Inclusive, 1975-1999, 2013-ongoing"],
-        "_version_":1775216516971626496,
-        "timestamp":"2023-08-25T15:46:38.295Z"},
+        "_version_":1801333738728062976,
+        "timestamp":"2024-06-08T22:28:41.9Z"},
       {
         "id":"wag_230aspace_ref11",
         "ead_ssi":"wag_230",
@@ -94,8 +96,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, circa 1980-1995"],
-        "_version_":1775216517390008320,
-        "timestamp":"2023-08-25T15:46:38.695Z"},
+        "_version_":1801333738930438144,
+        "timestamp":"2024-06-08T22:28:42.094Z"},
       {
         "id":"wag_230aspace_ref12",
         "ead_ssi":"wag_230",
@@ -114,8 +116,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1984-1985"],
-        "_version_":1775216517009375232,
-        "timestamp":"2023-08-25T15:46:38.332Z"},
+        "_version_":1801333738754277376,
+        "timestamp":"2024-06-08T22:28:41.926Z"},
       {
         "id":"wag_230aspace_ref13",
         "ead_ssi":"wag_230",
@@ -134,8 +136,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1980-1989"],
-        "_version_":1775216517043978240,
-        "timestamp":"2023-08-25T15:46:38.365Z"},
+        "_version_":1801333738774200320,
+        "timestamp":"2024-06-08T22:28:41.945Z"},
       {
         "id":"wag_230aspace_ref14",
         "ead_ssi":"wag_230",
@@ -154,8 +156,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1981-1989"],
-        "_version_":1775216517077532672,
-        "timestamp":"2023-08-25T15:46:38.397Z"},
+        "_version_":1801333738789928960,
+        "timestamp":"2024-06-08T22:28:41.959Z"},
       {
         "id":"wag_230aspace_ref15",
         "ead_ssi":"wag_230",
@@ -174,8 +176,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, circa 1975-1985"],
-        "_version_":1775216517114232832,
-        "timestamp":"2023-08-25T15:46:38.431Z"},
+        "_version_":1801333738807754752,
+        "timestamp":"2024-06-08T22:28:41.977Z"},
       {
         "id":"wag_230aspace_ref16",
         "ead_ssi":"wag_230",
@@ -194,8 +196,8 @@
         "unitdate_start_ssm":["1978"],
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, circa 1978-1983"],
-        "_version_":1775216517151981568,
-        "timestamp":"2023-08-25T15:46:38.468Z"},
+        "_version_":1801333738822434816,
+        "timestamp":"2024-06-08T22:28:41.991Z"},
       {
         "id":"wag_230aspace_ref17",
         "ead_ssi":"wag_230",
@@ -214,8 +216,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, circa 1975-1985"],
-        "_version_":1775216517187633152,
-        "timestamp":"2023-08-25T15:46:38.502Z"},
+        "_version_":1801333738835017728,
+        "timestamp":"2024-06-08T22:28:42.002Z"},
       {
         "id":"wag_230aspace_ref18",
         "ead_ssi":"wag_230",
@@ -234,8 +236,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1989"],
-        "_version_":1775216517225381888,
-        "timestamp":"2023-08-25T15:46:38.538Z"},
+        "_version_":1801333738853892096,
+        "timestamp":"2024-06-08T22:28:42.021Z"},
       {
         "id":"wag_230aspace_ref19",
         "ead_ssi":"wag_230",
@@ -254,8 +256,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1982"],
         "unitdate_ssm":["Inclusive, circa 1981-1982"],
-        "_version_":1775216517268373504,
-        "timestamp":"2023-08-25T15:46:38.579Z"},
+        "_version_":1801333738883252224,
+        "timestamp":"2024-06-08T22:28:42.049Z"},
       {
         "id":"wag_230aspace_ref2",
         "ead_ssi":"wag_230",
@@ -268,11 +270,10 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment MSOS006, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment MSOS006, Folder: 1"],
         "heading_ssm":["Alan Charney Storeworkers"],
-        "_version_":1775216517590286336,
-        "timestamp":"2023-08-25T15:46:38.886Z"},
+        "_version_":1801333739002789888,
+        "timestamp":"2024-06-08T22:28:42.163Z"},
       {
         "id":"wag_230aspace_ref20",
         "ead_ssi":"wag_230",
@@ -291,8 +292,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, circa 1990-1995"],
-        "_version_":1775216517308219392,
-        "timestamp":"2023-08-25T15:46:38.617Z"},
+        "_version_":1801333738900029440,
+        "timestamp":"2024-06-08T22:28:42.065Z"},
       {
         "id":"wag_230aspace_ref21",
         "ead_ssi":"wag_230",
@@ -311,8 +312,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, circa 1990-1999"],
-        "_version_":1775216517349113856,
-        "timestamp":"2023-08-25T15:46:38.656Z"},
+        "_version_":1801333738915758080,
+        "timestamp":"2024-06-08T22:28:42.08Z"},
       {
         "id":"wag_230aspace_ref22",
         "ead_ssi":"wag_230",
@@ -332,8 +333,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, circa 1980-1995"],
-        "_version_":1775216517474942976,
-        "timestamp":"2023-08-25T15:46:38.776Z"},
+        "_version_":1801333738965041152,
+        "timestamp":"2024-06-08T22:28:42.127Z"},
       {
         "id":"wag_230aspace_ref23",
         "ead_ssi":"wag_230",
@@ -352,8 +353,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, circa 1975-1995"],
-        "_version_":1775216517439291392,
-        "timestamp":"2023-08-25T15:46:38.742Z"},
+        "_version_":1801333738945118208,
+        "timestamp":"2024-06-08T22:28:42.107Z"},
       {
         "id":"wag_230aspace_ref24",
         "ead_ssi":"wag_230",
@@ -372,8 +373,8 @@
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, circa 1977-1985"],
-        "_version_":1775216517513740288,
-        "timestamp":"2023-08-25T15:46:38.813Z"},
+        "_version_":1801333738978672640,
+        "timestamp":"2024-06-08T22:28:42.14Z"},
       {
         "id":"wag_230aspace_ref25",
         "ead_ssi":"wag_230",
@@ -392,8 +393,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, circa 1990-1999"],
-        "_version_":1775216517553586176,
-        "timestamp":"2023-08-25T15:46:38.851Z"},
+        "_version_":1801333738990206976,
+        "timestamp":"2024-06-08T22:28:42.151Z"},
       {
         "id":"wag_230aspace_ref29",
         "ead_ssi":"wag_230",
@@ -413,8 +414,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["November 2013-ongoing"],
-        "_version_":1775216517624889344,
-        "timestamp":"2023-08-25T15:46:38.919Z"}]
+        "_version_":1801333739017469952,
+        "timestamp":"2024-06-08T22:28:42.176Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -423,7 +424,8 @@
         "tamwag",18],
       "dao_sim":[
         "Translation missing: en.ead_indexer.fields.dao",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Retail, Wholesale and Department Store Union. Local 3 (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",16,
         "2001-2100",1,

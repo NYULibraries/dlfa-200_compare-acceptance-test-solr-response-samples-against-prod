@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Maria S. Randolph papers"],
         "unitid_ssm":["1980.030"],
         "abstract_ssm":["The Maria S. Randolph papers span the period 1888 to 1932 and measure 0.3 linear feet. The papers include tax notices and payments for lots owned by Maria S. Rudolph in the town of New Utrecht, Kings County. The town of New Utrecht became a section of the borough of Brooklyn when Brooklyn merged with the New York City and was absorbed into the Brooklyn neighborhoods of Bensonhurst, Bay Ridge, and Borough Park."],
+        "creator_ssm":["Randolph, Maria S.",
+          "Randolph, Maria S."],
         "unitdate_normal_ssm":["1888/1932"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Tax records"],
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1932"],
         "unitdate_ssm":["Inclusive, 1888-1932"],
         "language_ssm":["English"],
-        "_version_":1799311705115721728,
-        "timestamp":"2024-05-17T14:49:20.378Z"}]
+        "_version_":1801962838960373760,
+        "timestamp":"2024-06-15T21:07:58.635Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Randolph, Maria S.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

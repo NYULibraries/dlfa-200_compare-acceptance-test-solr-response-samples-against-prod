@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Workers' Cooperative Colony Records"],
         "unitid_ssm":["TAM.432"],
+        "creator_ssm":["Friends of The Coops, Inc.",
+          "Friends of The Coops, Inc."],
         "unitdate_normal_ssm":["1975/1979"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Friends of The Coops, Inc.",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1977"],
         "language_ssm":["English"],
-        "_version_":1799791055057453056,
-        "timestamp":"2024-05-22T21:48:24.106Z"}]
+        "_version_":1802183038279352320,
+        "timestamp":"2024-06-18T07:27:57.07Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Friends of The Coops, Inc.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

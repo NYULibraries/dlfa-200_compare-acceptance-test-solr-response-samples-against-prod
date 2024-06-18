@@ -47,6 +47,8 @@
         "unittitle_ssm":["Mabel D. Myers papers"],
         "unitid_ssm":["1980.025"],
         "abstract_ssm":["This collection contains personal papers of Mabel Donnison Myers, born on January 5, 1881. Documents include letters Myers received, receipts, genealogical notes, and papers concerning a piece of property at Huntington Beach, Long Island. The papers span the period 1912 to 1939 and measure 0.2 linear feet."],
+        "creator_ssm":["Myers, Mabel D.",
+          "Myers, Mabel D."],
         "unitdate_normal_ssm":["1912/1939"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1912-1939"],
         "language_ssm":["English"],
-        "_version_":1799256443762769920,
-        "timestamp":"2024-05-17T00:10:59.045Z"}]
+        "_version_":1801962834336153600,
+        "timestamp":"2024-06-15T21:07:54.225Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Myers, Mabel D.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

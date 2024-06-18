@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Williamsburgh Savings Bank account book and scrapbook"],
         "unitid_ssm":["1990.008"],
         "abstract_ssm":["This collection includes an an account book recording transactions with suppliers and contractors during the construction of the Williamsburgh Savings Bank's building at 175 Broadway from 1869 to 1875, and an oversize scrapbook containing clippings about the bank dating from 1936 to 1969."],
+        "creator_ssm":["Williamsburgh Savings Bank",
+          "Williamsburgh Savings Bank"],
         "unitdate_normal_ssm":["1869/1969"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Williamsburgh Savings Bank",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1869-1875, 1936-1969"],
         "language_ssm":["English"],
-        "_version_":1799256291231662080,
-        "timestamp":"2024-05-17T00:08:33.58Z"}]
+        "_version_":1801963504815570944,
+        "timestamp":"2024-06-15T21:18:33.644Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Williamsburgh Savings Bank",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

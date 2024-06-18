@@ -47,6 +47,10 @@
         "unittitle_ssm":["Ethel M. Martin Brooklyn nursing school collection"],
         "unitid_ssm":["1996.001"],
         "abstract_ssm":["The collection contains items which document Ethel M. Martin's nursing education in Brooklyn, New York, dating from 1926 to 1933. It includes two photographs of Martin (one portrait and one snapshot), one autograph book (1926-1927), two editions of The Echo, the Prospect Heights Hospital and Brooklyn Maternity Training School for Nurses yearbook (1928-1929), and The Nursing Bureau of Brooklyn, Inc.'s Articles of Incorporation and Terms of Agreement with Registrants (1933). The autograph book and the 1928 yearbook contains inscriptions from other students to Martin. Martin was a nurse who practiced in Brooklyn and later Pittsburgh, Pennsylvania."],
+        "creator_ssm":["Nursing Bureau of Brooklyn, Inc",
+          "Prospect Heights Hospital and Brooklyn Maternity (Brooklyn, New York, N.Y.)",
+          "Nursing Bureau of Brooklyn, Inc",
+          "Prospect Heights Hospital and Brooklyn Maternity (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1926/1933"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Nursing Bureau of Brooklyn, Inc",
@@ -80,8 +84,8 @@
         "unitdate_end_ssm":["1933"],
         "unitdate_ssm":["Inclusive, 1926-1933"],
         "language_ssm":["English"],
-        "_version_":1799311584352272384,
-        "timestamp":"2024-05-17T14:47:25.209Z"}]
+        "_version_":1801963800441651200,
+        "timestamp":"2024-06-15T21:23:15.575Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +93,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nursing Bureau of Brooklyn, Inc",1,
+        "Prospect Heights Hospital and Brooklyn Maternity (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

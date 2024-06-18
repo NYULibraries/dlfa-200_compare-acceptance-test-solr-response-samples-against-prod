@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Perley Baldwin Payne Jr. Papers"],
         "unitid_ssm":["ALBA.258"],
+        "creator_ssm":["Payne, Perley Baldwin, Jr",
+          "Payne, Perley Baldwin, Jr"],
         "unitdate_normal_ssm":["1938/1938"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Payne, Richard.",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["1938"],
         "language_ssm":["English"],
-        "_version_":1775223140925833216,
-        "timestamp":"2023-08-25T17:31:55.391Z"},
+        "_version_":1801144669834313728,
+        "timestamp":"2024-06-06T20:23:31.753Z"},
       {
         "id":"alba_258aspace_b3377bd95680b665fbd91387b6d30212",
         "ead_ssi":"alba_258",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1775223140959387648,
-        "timestamp":"2023-08-25T17:31:55.423Z"}]
+        "_version_":1801144669851090944,
+        "timestamp":"2024-06-06T20:23:31.769Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Payne, Perley Baldwin, Jr",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

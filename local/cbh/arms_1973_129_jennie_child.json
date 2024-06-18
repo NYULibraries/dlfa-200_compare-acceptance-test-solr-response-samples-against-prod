@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jennie Child recollections of Park Slope"],
         "unitid_ssm":["1973.129"],
         "abstract_ssm":["The Jennie Child manuscript consists of several handwritten pages that were used as notes for a talk given by Ms. Child at the Old First Reformed Church in the Park Slope neighborhood of Brooklyn in 1958. The manuscript describes Ms. Child's recollections of growing up and living in Park Slope during the 1890s and early 1900s. In it, Ms. Child provides a detailed sketch of life in Park Slope during this period, including descriptions of the locations of churches in the neighborhood; the types of public transportation that served its residents; descriptions of its public schools; and recollections of various businesses that operated there. The manuscript also relates some of Ms. Child's personal anecdotes, including rides to Coney Island on the elevated steam train, and days spent sledding in Prospect Park in the winter."],
+        "creator_ssm":["Child, Jennie",
+          "Child, Jennie"],
         "unitdate_normal_ssm":["1958/1958"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Old First Reformed Church (Brooklyn, New York, N.Y.)"],
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["Inclusive, 1958"],
         "language_ssm":["English"],
-        "_version_":1799309972666843136,
-        "timestamp":"2024-05-17T14:21:48.185Z"}]
+        "_version_":1801959981238452224,
+        "timestamp":"2024-06-15T20:22:33.299Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Child, Jennie",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

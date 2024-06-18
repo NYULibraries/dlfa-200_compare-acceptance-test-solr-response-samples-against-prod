@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Old First Class of Wilson Street School records"],
         "unitid_ssm":["ARC.107"],
         "abstract_ssm":["This collection, dated 1873 to 1942 and housed in six manuscript boxes and one short-top box, contains the business records of the Old First Class. Materials in the collection document the organization's membership, officers, annual meetings, and activities. The bulk of the collection consists of correspondence, including letters, postcards, telegrams, and memos, from 1896 to 1923; treasurers' files dated 1873 to 1916; and minute books from 1873 to 1931."],
+        "creator_ssm":["Old First Class of Wilson Street School (Brooklyn, New York, N.Y.)",
+          "Old First Class of Wilson Street School (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1873/1942"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Old First Class of Wilson Street School (Brooklyn, New York, N.Y.)",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1942"],
         "unitdate_ssm":["Inclusive, 1873-1942"],
         "language_ssm":["English"],
-        "_version_":1799311678693703680,
-        "timestamp":"2024-05-17T14:48:55.18Z"}]
+        "_version_":1801959017178726400,
+        "timestamp":"2024-06-15T20:07:13.9Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Old First Class of Wilson Street School (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

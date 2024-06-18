@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William R. Coleman collection of New York City waterfront pollution slides"],
         "unitid_ssm":["2012.017"],
         "abstract_ssm":["The collection contains 147 35mm color transparency slides of pollution along Newtown Creek, the East River, the Hudson River, and other New York City waterfront areas, taken by William R. Coleman when he was working as a student assistant in the United States Attorney's Office for the Southern District of New York in 1971. The photographs were taken while he toured the harbor with the Army Corps of Engineers."],
+        "creator_ssm":["Coleman, William Roger",
+          "Coleman, William Roger"],
         "unitdate_normal_ssm":["1971/1971"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Color slides",
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["1971"],
         "unitdate_ssm":["Inclusive, 1971"],
         "language_ssm":["English"],
-        "_version_":1777669899187912704,
-        "timestamp":"2023-09-21T17:42:05.903Z"}]
+        "_version_":1800811539378208768,
+        "timestamp":"2024-06-03T04:08:33.793Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Coleman, William Roger",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Miller Papers on the Homeport Movement"],
         "unitid_ssm":["TAM.349"],
         "abstract_ssm":["The John Miller Papers on the Homeport Movement (dated 1981-1993) contain clippings, reports, correspondence, ephemera, and organizing materials related to John Miller's work with grassroots organizations opposing the U.S. Navy's Strategic Homeport Plan. John Miller is an organizer and activist who worked with several organizations opposing homeporting, including Mobilization for Survival (MSF), the Coalition for a Nuclear-Free Harbor (CNFH), and the North Atlantic Network (NAN)."],
+        "creator_ssm":["Miller, John",
+          "Miller, John"],
         "unitdate_normal_ssm":["1981/1993"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Mobilization for Survival (Organization)",
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1981-1993"],
-        "_version_":1775218366842142720,
-        "timestamp":"2023-08-25T16:16:02.47Z"},
+        "_version_":1801246619818000384,
+        "timestamp":"2024-06-07T23:23:58.834Z"},
       {
         "id":"tam_349aspace_03e0984f8cf3468bc963267fb6609dde",
         "ead_ssi":"tam_349",
@@ -89,8 +91,8 @@
         "unitdate_start_ssm":["1988"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1988-1993"],
-        "_version_":1775218367246893056,
-        "timestamp":"2023-08-25T16:16:02.855Z"},
+        "_version_":1801246619983675392,
+        "timestamp":"2024-06-07T23:23:58.992Z"},
       {
         "id":"tam_349aspace_32645f207e028c5b166a04cac78bd7ca",
         "ead_ssi":"tam_349",
@@ -110,8 +112,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1984-1993"],
-        "_version_":1775218367283593216,
-        "timestamp":"2023-08-25T16:16:02.89Z"},
+        "_version_":1801246619998355456,
+        "timestamp":"2024-06-07T23:23:59.006Z"},
       {
         "id":"tam_349aspace_4c0cd6b50c3d098b74081e18fa586655",
         "ead_ssi":"tam_349",
@@ -130,8 +132,8 @@
         "unitdate_start_ssm":["1985"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1985-1988"],
-        "_version_":1775218367101140992,
-        "timestamp":"2023-08-25T16:16:02.717Z"},
+        "_version_":1801246619943829504,
+        "timestamp":"2024-06-07T23:23:58.954Z"},
       {
         "id":"tam_349aspace_5dd2788514f9d9cb8c4d74e2d5e131f1",
         "ead_ssi":"tam_349",
@@ -150,8 +152,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1983-1986"],
-        "_version_":1775218367016206336,
-        "timestamp":"2023-08-25T16:16:02.636Z"},
+        "_version_":1801246619905032192,
+        "timestamp":"2024-06-07T23:23:58.917Z"},
       {
         "id":"tam_349aspace_616912ab921868d968d13b3e9c032401",
         "ead_ssi":"tam_349",
@@ -170,8 +172,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, 1986-1997"],
-        "_version_":1775218366930223104,
-        "timestamp":"2023-08-25T16:16:02.554Z"},
+        "_version_":1801246619860992000,
+        "timestamp":"2024-06-07T23:23:58.875Z"},
       {
         "id":"tam_349aspace_98326c7c94795cf608cf2d8d6f0618ac",
         "ead_ssi":"tam_349",
@@ -190,8 +192,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1986-1987"],
-        "_version_":1775218367147278336,
-        "timestamp":"2023-08-25T16:16:02.761Z"},
+        "_version_":1801246619957460992,
+        "timestamp":"2024-06-07T23:23:58.966Z"},
       {
         "id":"tam_349aspace_a55d0df95c156fb9e6f0e14e4863c997",
         "ead_ssi":"tam_349",
@@ -212,8 +214,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1983-1990"],
-        "_version_":1775218367187124224,
-        "timestamp":"2023-08-25T16:16:02.799Z"},
+        "_version_":1801246619971092480,
+        "timestamp":"2024-06-07T23:23:58.98Z"},
       {
         "id":"tam_349aspace_b419b0d5e3afa3db0188683afbdb204d",
         "ead_ssi":"tam_349",
@@ -232,8 +234,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1986-1991"],
-        "_version_":1775218366967971840,
-        "timestamp":"2023-08-25T16:16:02.59Z"},
+        "_version_":1801246619880914944,
+        "timestamp":"2024-06-07T23:23:58.894Z"},
       {
         "id":"tam_349aspace_c4a8957b227cde7e3d9f5d5a848ee954",
         "ead_ssi":"tam_349",
@@ -252,8 +254,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, 1981-1996"],
-        "_version_":1775218366893522944,
-        "timestamp":"2023-08-25T16:16:02.519Z"},
+        "_version_":1801246619833729024,
+        "timestamp":"2024-06-07T23:23:58.849Z"},
       {
         "id":"tam_349aspace_e24052b47b23661c530dfb25d4ecdf35",
         "ead_ssi":"tam_349",
@@ -272,8 +274,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1986-1988"],
-        "_version_":1775218367056052224,
-        "timestamp":"2023-08-25T16:16:02.674Z"}]
+        "_version_":1801246619928100864,
+        "timestamp":"2024-06-07T23:23:58.938Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -281,7 +283,8 @@
       "repository_sim":[
         "tamwag",11],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Miller, John",1],
       "date_range_sim":[
         "1901-2000",11],
       "subject_sim":[

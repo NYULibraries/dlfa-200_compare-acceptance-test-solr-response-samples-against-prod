@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Sean Cronin Papers"],
         "unitid_ssm":["TAM.460"],
+        "creator_ssm":["Cronin, Sean",
+          "Cronin, Sean"],
         "unitdate_normal_ssm":["1932/1996",
           "1983/1986"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
@@ -71,8 +73,8 @@
           "1986"],
         "unitdate_ssm":["Inclusive, 1932-1996 ; 1983-1986"],
         "language_ssm":["English"],
-        "_version_":1799791130957578240,
-        "timestamp":"2024-05-22T21:49:36.49Z"}]
+        "_version_":1802183135910166528,
+        "timestamp":"2024-06-18T07:29:30.178Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cronin, Sean",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

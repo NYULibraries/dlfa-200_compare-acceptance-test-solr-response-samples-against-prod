@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment Staff"],
         "unittitle_ssm":["Frank Chandler Papers"],
         "unitid_ssm":["TAM.286"],
+        "creator_ssm":["Chandler, Frank, 1903-1992",
+          "Chandler, Frank, 1903-1992"],
         "unitdate_normal_ssm":["1940/1997"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Foner, Henry",
@@ -64,8 +66,8 @@
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, circa 1940s-1990s"],
         "language_ssm":["English"],
-        "_version_":1799782551720558592,
-        "timestamp":"2024-05-22T19:33:14.692Z"}]
+        "_version_":1802171364364255232,
+        "timestamp":"2024-06-18T04:22:23.957Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chandler, Frank, 1903-1992",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

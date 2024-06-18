@@ -47,6 +47,8 @@
         "unittitle_ssm":["Emma J. Smith receipt"],
         "unitid_ssm":["1977.571"],
         "abstract_ssm":["One 1887 receipt issued to Emma J. Smith for payment to Benjamin W. Hitchcock's real estate office towards the purchase of lots in Ozone Park in the town of Jamaica, Queens County."],
+        "creator_ssm":["Smith, Emma J.",
+          "Smith, Emma J."],
         "unitdate_normal_ssm":["1887/1887"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Receipts (financial records)"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1887"],
         "unitdate_ssm":["1887"],
         "language_ssm":["English"],
-        "_version_":1799312397290176512,
-        "timestamp":"2024-05-17T15:00:20.487Z"}]
+        "_version_":1801961973032681472,
+        "timestamp":"2024-06-15T20:54:12.822Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Smith, Emma J.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

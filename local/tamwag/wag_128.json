@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Communications Workers of America, Local 1032 Records"],
         "unitid_ssm":["WAG.128"],
         "abstract_ssm":["CWA Local 1032 represents about 6,000 workers in a variety of professions and fields in New Jersey state government (especially the Department of Transportation), the Port Authority of New York and New Jersey, several New Jersey towns and counties as well as several private sector work sites.  Headquartered in Ewing, Local 1032 also has offices in Newark and Newton. The records of CWA Local 1032 document the activities of an important New Jersey local.  Executive Board material, including minutes, is especially valuable for understanding 1032.  Other material in the collection includes organizing campaign files, correspondence, negotiation files, political campaign files, and grievances."],
+        "creator_ssm":["Communications Workers of America. Local 1032 (Ewing, N.J.)",
+          "Communications Workers of America. Local 1032 (Ewing, N.J.)"],
         "unitdate_normal_ssm":["1978/1995"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Communications Workers of America. Local 1032 (Ewing, N.J.)",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1978"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1978-1995"],
-        "_version_":1799802125995212800,
-        "timestamp":"2024-05-23T00:44:22.175Z"},
+        "_version_":1802195010812116992,
+        "timestamp":"2024-06-18T10:38:14.967Z"},
       {
         "id":"wag_128aspace_ref10",
         "ead_ssi":"wag_128",
@@ -88,8 +90,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1983-1987"],
-        "_version_":1799802126133624832,
-        "timestamp":"2024-05-23T00:44:22.307Z"},
+        "_version_":1802195010903343104,
+        "timestamp":"2024-06-18T10:38:15.054Z"},
       {
         "id":"wag_128aspace_ref11",
         "ead_ssi":"wag_128",
@@ -108,8 +110,8 @@
         "unitdate_start_ssm":["1985"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1985-1987"],
-        "_version_":1799802126149353472,
-        "timestamp":"2024-05-23T00:44:22.322Z"},
+        "_version_":1802195010913828864,
+        "timestamp":"2024-06-18T10:38:15.064Z"},
       {
         "id":"wag_128aspace_ref12",
         "ead_ssi":"wag_128",
@@ -128,8 +130,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1983-1986"],
-        "_version_":1799802126165082112,
-        "timestamp":"2024-05-23T00:44:22.337Z"},
+        "_version_":1802195010923266048,
+        "timestamp":"2024-06-18T10:38:15.073Z"},
       {
         "id":"wag_128aspace_ref13",
         "ead_ssi":"wag_128",
@@ -148,8 +150,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1986-1988"],
-        "_version_":1799802126179762176,
-        "timestamp":"2024-05-23T00:44:22.351Z"},
+        "_version_":1802195010933751808,
+        "timestamp":"2024-06-18T10:38:15.083Z"},
       {
         "id":"wag_128aspace_ref14",
         "ead_ssi":"wag_128",
@@ -168,8 +170,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1987-1988"],
-        "_version_":1799802126202830848,
-        "timestamp":"2024-05-23T00:44:22.373Z"},
+        "_version_":1802195010946334720,
+        "timestamp":"2024-06-18T10:38:15.095Z"},
       {
         "id":"wag_128aspace_ref15",
         "ead_ssi":"wag_128",
@@ -188,8 +190,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1986-1995"],
-        "_version_":1799802126218559488,
-        "timestamp":"2024-05-23T00:44:22.388Z"},
+        "_version_":1802195010957869056,
+        "timestamp":"2024-06-18T10:38:15.106Z"},
       {
         "id":"wag_128aspace_ref16",
         "ead_ssi":"wag_128",
@@ -208,8 +210,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1990-1993"],
-        "_version_":1799802126233239552,
-        "timestamp":"2024-05-23T00:44:22.402Z"},
+        "_version_":1802195010967306240,
+        "timestamp":"2024-06-18T10:38:15.115Z"},
       {
         "id":"wag_128aspace_ref17",
         "ead_ssi":"wag_128",
@@ -228,8 +230,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1981-1986"],
-        "_version_":1799802126248968192,
-        "timestamp":"2024-05-23T00:44:22.417Z"},
+        "_version_":1802195010977792000,
+        "timestamp":"2024-06-18T10:38:15.125Z"},
       {
         "id":"wag_128aspace_ref18",
         "ead_ssi":"wag_128",
@@ -248,8 +250,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1987-1990"],
-        "_version_":1799802126263648256,
-        "timestamp":"2024-05-23T00:44:22.431Z"},
+        "_version_":1802195010987229184,
+        "timestamp":"2024-06-18T10:38:15.134Z"},
       {
         "id":"wag_128aspace_ref19",
         "ead_ssi":"wag_128",
@@ -268,8 +270,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1987-1991"],
-        "_version_":1799802126279376896,
-        "timestamp":"2024-05-23T00:44:22.445Z"},
+        "_version_":1802195010999812096,
+        "timestamp":"2024-06-18T10:38:15.146Z"},
       {
         "id":"wag_128aspace_ref20",
         "ead_ssi":"wag_128",
@@ -288,8 +290,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1986-1988"],
-        "_version_":1799802126297202688,
-        "timestamp":"2024-05-23T00:44:22.463Z"},
+        "_version_":1802195011011346432,
+        "timestamp":"2024-06-18T10:38:15.157Z"},
       {
         "id":"wag_128aspace_ref21",
         "ead_ssi":"wag_128",
@@ -308,8 +310,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, 1987-1994"],
-        "_version_":1799802126316077056,
-        "timestamp":"2024-05-23T00:44:22.481Z"},
+        "_version_":1802195011023929344,
+        "timestamp":"2024-06-18T10:38:15.169Z"},
       {
         "id":"wag_128aspace_ref22",
         "ead_ssi":"wag_128",
@@ -328,8 +330,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1983-1988"],
-        "_version_":1799802126338097152,
-        "timestamp":"2024-05-23T00:44:22.502Z"},
+        "_version_":1802195011037560832,
+        "timestamp":"2024-06-18T10:38:15.182Z"},
       {
         "id":"wag_128aspace_ref23",
         "ead_ssi":"wag_128",
@@ -348,8 +350,8 @@
         "unitdate_start_ssm":["1978"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1978-1993"],
-        "_version_":1799802126359068672,
-        "timestamp":"2024-05-23T00:44:22.522Z"},
+        "_version_":1802195011054338048,
+        "timestamp":"2024-06-18T10:38:15.198Z"},
       {
         "id":"wag_128aspace_ref24",
         "ead_ssi":"wag_128",
@@ -368,8 +370,8 @@
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1989-1991"],
-        "_version_":1799802126376894464,
-        "timestamp":"2024-05-23T00:44:22.539Z"},
+        "_version_":1802195011065872384,
+        "timestamp":"2024-06-18T10:38:15.209Z"},
       {
         "id":"wag_128aspace_ref25",
         "ead_ssi":"wag_128",
@@ -388,8 +390,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1980-1993"],
-        "_version_":1799802126392623104,
-        "timestamp":"2024-05-23T00:44:22.554Z"},
+        "_version_":1802195011076358144,
+        "timestamp":"2024-06-18T10:38:15.219Z"},
       {
         "id":"wag_128aspace_ref26",
         "ead_ssi":"wag_128",
@@ -408,8 +410,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1983-1992"],
-        "_version_":1799802126412546048,
-        "timestamp":"2024-05-23T00:44:22.573Z"},
+        "_version_":1802195011086843904,
+        "timestamp":"2024-06-18T10:38:15.229Z"},
       {
         "id":"wag_128aspace_ref27",
         "ead_ssi":"wag_128",
@@ -428,8 +430,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1987-1992"],
-        "_version_":1799802126430371840,
-        "timestamp":"2024-05-23T00:44:22.59Z"},
+        "_version_":1802195011096281088,
+        "timestamp":"2024-06-18T10:38:15.238Z"},
       {
         "id":"wag_128aspace_ref3",
         "ead_ssi":"wag_128",
@@ -448,8 +450,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1983-1988"],
-        "_version_":1799802126015135744,
-        "timestamp":"2024-05-23T00:44:22.193Z"},
+        "_version_":1802195010822602752,
+        "timestamp":"2024-06-18T10:38:14.977Z"},
       {
         "id":"wag_128aspace_ref4",
         "ead_ssi":"wag_128",
@@ -468,8 +470,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1983-1988"],
-        "_version_":1799802126031912960,
-        "timestamp":"2024-05-23T00:44:22.21Z"},
+        "_version_":1802195010833088512,
+        "timestamp":"2024-06-18T10:38:14.987Z"},
       {
         "id":"wag_128aspace_ref41",
         "ead_ssi":"wag_128",
@@ -485,8 +487,8 @@
         "format_ssm":["Archival Object"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["Feb 26, 2009-ongoing "],
-        "_version_":1799802126446100480,
-        "timestamp":"2024-05-23T00:44:22.605Z"},
+        "_version_":1802195011105718272,
+        "timestamp":"2024-06-18T10:38:15.247Z"},
       {
         "id":"wag_128aspace_ref5",
         "ead_ssi":"wag_128",
@@ -505,8 +507,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1981-1985"],
-        "_version_":1799802126053933056,
-        "timestamp":"2024-05-23T00:44:22.231Z"},
+        "_version_":1802195010848817152,
+        "timestamp":"2024-06-18T10:38:15.002Z"},
       {
         "id":"wag_128aspace_ref6",
         "ead_ssi":"wag_128",
@@ -525,8 +527,8 @@
         "unitdate_start_ssm":["1982"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1982-1984"],
-        "_version_":1799802126069661696,
-        "timestamp":"2024-05-23T00:44:22.246Z"},
+        "_version_":1802195010859302912,
+        "timestamp":"2024-06-18T10:38:15.012Z"},
       {
         "id":"wag_128aspace_ref7",
         "ead_ssi":"wag_128",
@@ -545,8 +547,8 @@
         "unitdate_start_ssm":["1982"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1982-1989"],
-        "_version_":1799802126084341760,
-        "timestamp":"2024-05-23T00:44:22.26Z"},
+        "_version_":1802195010869788672,
+        "timestamp":"2024-06-18T10:38:15.022Z"},
       {
         "id":"wag_128aspace_ref8",
         "ead_ssi":"wag_128",
@@ -565,8 +567,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1990-1995"],
-        "_version_":1799802126101118976,
-        "timestamp":"2024-05-23T00:44:22.275Z"},
+        "_version_":1802195010880274432,
+        "timestamp":"2024-06-18T10:38:15.032Z"},
       {
         "id":"wag_128aspace_ref9",
         "ead_ssi":"wag_128",
@@ -585,8 +587,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1986-1987"],
-        "_version_":1799802126117896192,
-        "timestamp":"2024-05-23T00:44:22.292Z"}]
+        "_version_":1802195010890760192,
+        "timestamp":"2024-06-18T10:38:15.042Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -595,7 +597,8 @@
         "tamwag",27],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Communications Workers of America. Local 1032 (Ewing, N.J.)",1],
       "date_range_sim":[
         "1901-2000",26,
         "undated & other",1],

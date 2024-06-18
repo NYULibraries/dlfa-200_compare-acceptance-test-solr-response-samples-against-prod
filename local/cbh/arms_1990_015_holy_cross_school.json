@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Volume of school work by students at Holy Cross School"],
         "unitid_ssm":["1990.015"],
         "abstract_ssm":["A bound volume of school work by several students at the Holy Cross School in the Flatbush neighborhood of Brooklyn.  The volume was created to commemorate the Columbian Exposition in Chicago in 1893."],
+        "creator_ssm":["Holy Cross School",
+          "Holy Cross School"],
         "unitdate_normal_ssm":["1893/1893"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Holy Cross School"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1893"],
         "unitdate_ssm":["1893"],
         "language_ssm":["English"],
-        "_version_":1799311510671982592,
-        "timestamp":"2024-05-17T14:46:14.942Z"}]
+        "_version_":1801963528128561152,
+        "timestamp":"2024-06-15T21:18:55.877Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Holy Cross School",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

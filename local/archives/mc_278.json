@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lanier Family Collection on Albert Gallatin"],
         "unitid_ssm":["MC.278"],
         "abstract_ssm":["This collection consists of materials collected by the Lanier family on Albert Gallatin, including a book from 1780, maps and family histories from the late 1800s, newspaper clippings from the early 1900s and photographs from the early 1950s."],
+        "creator_ssm":["Lanier Family",
+          "Lanier Family"],
         "unitdate_normal_ssm":["1780/1951"],
         "corpname_ssm":["New York University Archives"],
         "famname_ssm":["Lanier Family"],
@@ -72,8 +74,8 @@
         "unitdate_start_ssm":["1780"],
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["Inclusive, 1780-1951"],
-        "_version_":1799248900426563584,
-        "timestamp":"2024-05-16T22:11:05.159Z"},
+        "_version_":1801949536922370048,
+        "timestamp":"2024-06-15T17:36:32.823Z"},
       {
         "id":"mc_278aspace_20f426f26d8acd023468a617c5d3a6ef",
         "ead_ssi":"mc_278",
@@ -87,14 +89,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 005, Folder: 1-2",
-          "Folder: 1-2"],
+        "location_ssm":["Box: Shared University Archives 005, Folder: 1-2"],
         "heading_ssm":["Maps and Family Tree "],
         "unitdate_start_ssm":["1855"],
         "unitdate_end_ssm":["1892"],
         "unitdate_ssm":["Inclusive, 1855-1892"],
-        "_version_":1799248900481089536,
-        "timestamp":"2024-05-16T22:11:05.211Z"},
+        "_version_":1801949536978993152,
+        "timestamp":"2024-06-15T17:36:32.877Z"},
       {
         "id":"mc_278aspace_b2b3284aa4952a3c5fee892495b54003",
         "ead_ssi":"mc_278",
@@ -108,14 +109,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 002, Folder: 1-2",
-          "Folder: 1-2"],
+        "location_ssm":["Box: Shared University Archives 002, Folder: 1-2"],
         "heading_ssm":["Photographs and Clippings "],
         "unitdate_start_ssm":["1900"],
         "unitdate_end_ssm":["1946"],
         "unitdate_ssm":["Inclusive, Undated "],
-        "_version_":1799248900463263744,
-        "timestamp":"2024-05-16T22:11:05.194Z"},
+        "_version_":1801949536953827328,
+        "timestamp":"2024-06-15T17:36:32.853Z"},
       {
         "id":"mc_278aspace_cd824b4b141e8d91e4e610643ba3f785",
         "ead_ssi":"mc_278",
@@ -129,14 +129,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-9",
-          "Folder: 1-9"],
+        "location_ssm":["Box: 1, Folder: 1-9"],
         "heading_ssm":["Clippings, Correspondence, Photographs and Ephemera"],
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["Inclusive, 1910-1951"],
-        "_version_":1799248900447535104,
-        "timestamp":"2024-05-16T22:11:05.179Z"},
+        "_version_":1801949536939147264,
+        "timestamp":"2024-06-15T17:36:32.839Z"},
       {
         "id":"mc_278aspace_e9358bd24ed93aabf96601d09054c9b7",
         "ead_ssi":"mc_278",
@@ -155,8 +154,8 @@
         "unitdate_start_ssm":["1780"],
         "unitdate_end_ssm":["1780"],
         "unitdate_ssm":["1780"],
-        "_version_":1799248900495769600,
-        "timestamp":"2024-05-16T22:11:05.225Z"}]
+        "_version_":1801949536995770368,
+        "timestamp":"2024-06-15T17:36:32.892Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -164,7 +163,8 @@
       "repository_sim":[
         "archives",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lanier Family",1],
       "date_range_sim":[
         "1701-1800",2,
         "1801-1900",2,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["George H. Williams journal"],
         "unitid_ssm":["1973.272"],
         "abstract_ssm":["Private Journal of George H. Williams of Allegheny City, PA.  Journal records Williams's experience onboard the bark George and Mary on a round-trip voyage to Greenland from New Bedford, MA, from 1879 to 1880.  The captain of the ship was M. Baker."],
+        "creator_ssm":["Williams, George H.",
+          "Williams, George H."],
         "unitdate_normal_ssm":["1879/1880"],
         "corpname_ssm":["Brooklyn Historical Society",
           "George and Mary (Bark)"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1880"],
         "unitdate_ssm":["Inclusive, 1879-1880"],
         "language_ssm":["English"],
-        "_version_":1799312250231586816,
-        "timestamp":"2024-05-17T14:58:00.241Z"}]
+        "_version_":1801960159060164608,
+        "timestamp":"2024-06-15T20:25:22.883Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Williams, George H.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

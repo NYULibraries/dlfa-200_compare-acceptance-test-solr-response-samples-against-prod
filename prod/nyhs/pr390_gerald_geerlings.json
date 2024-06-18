@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":16,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Gerald K. Geerlings prints"],
         "unitid_ssm":["PR 390"],
         "abstract_ssm":["Eleven prints of New York City scenes of the 1970s, drawn, printed and signed by Gerald K. Geerlings (1897-1998)."],
+        "creator_ssm":["Geerlings, Gerald K. (Gerald Kenneth), 1897-",
+          "Geerlings, Gerald K. (Gerald Kenneth), 1897-"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Prints (visual works)."],
         "geogname_ssm":["Manhattan (New York, N.Y.)"],
@@ -61,8 +63,8 @@
         "heading_ssm":["Gerald K. Geerlings prints"],
         "unitdate_ssm":["Inclusive, 1975-1976"],
         "language_ssm":["English"],
-        "_version_":1775220635845263360,
-        "timestamp":"2023-08-25T16:52:06.36Z"},
+        "_version_":1801071373273006080,
+        "timestamp":"2024-06-06T00:58:30.705Z"},
       {
         "id":"pr390_gerald_geerlingsaspace_00e7c7255a5babd28d616a9e2d02fcad",
         "ead_ssi":"pr390_gerald_geerlings",
@@ -78,8 +80,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Aspirations Unlimited (2 prints)"],
         "unitdate_ssm":["1975"],
-        "_version_":1775220635928100864,
-        "timestamp":"2023-08-25T16:52:06.439Z"},
+        "_version_":1801071373303414784,
+        "timestamp":"2024-06-06T00:58:30.734Z"},
       {
         "id":"pr390_gerald_geerlingsaspace_1b050b500f5733a77644e13b090c89a2",
         "ead_ssi":"pr390_gerald_geerlings",
@@ -95,8 +97,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      Bicentennial Neighbors\n    "],
         "unitdate_ssm":["1976"],
-        "_version_":1775220636097970176,
-        "timestamp":"2023-08-25T16:52:06.6Z"},
+        "_version_":1801071373400932352,
+        "timestamp":"2024-06-06T00:58:30.827Z"},
       {
         "id":"pr390_gerald_geerlingsaspace_4e09a40299513d69c7dec914d878a55c",
         "ead_ssi":"pr390_gerald_geerlings",
@@ -112,8 +114,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      Old Spire, New Towers\n    "],
         "unitdate_ssm":["1976"],
-        "_version_":1775220636234285056,
-        "timestamp":"2023-08-25T16:52:06.73Z"},
+        "_version_":1801071373485867008,
+        "timestamp":"2024-06-06T00:58:30.908Z"},
       {
         "id":"pr390_gerald_geerlingsaspace_61fbc69861acc5f744f6cfcd3b848e7e",
         "ead_ssi":"pr390_gerald_geerlings",
@@ -129,8 +131,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      Dawn of a New Era\n    "],
         "unitdate_ssm":["1976"],
-        "_version_":1775220636165079041,
-        "timestamp":"2023-08-25T16:52:06.665Z"},
+        "_version_":1801071373429243904,
+        "timestamp":"2024-06-06T00:58:30.854Z"},
       {
         "id":"pr390_gerald_geerlingsaspace_8cd04afdfd0b58501c0e2a80229aaec8",
         "ead_ssi":"pr390_gerald_geerlings",
@@ -146,8 +148,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      Sing Hallelujah!\n    "],
         "unitdate_ssm":["1975"],
-        "_version_":1775220636047638528,
-        "timestamp":"2023-08-25T16:52:06.553Z"},
+        "_version_":1801071373387300864,
+        "timestamp":"2024-06-06T00:58:30.814Z"},
       {
         "id":"pr390_gerald_geerlingsaspace_c1f6dd52a9e98ce72951a0ea81595d99",
         "ead_ssi":"pr390_gerald_geerlings",
@@ -163,8 +165,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      Bicentennial Oasis\n    "],
         "unitdate_ssm":["1976"],
-        "_version_":1775220636131524608,
-        "timestamp":"2023-08-25T16:52:06.633Z"},
+        "_version_":1801071373416660992,
+        "timestamp":"2024-06-06T00:58:30.842Z"},
       {
         "id":"pr390_gerald_geerlingsaspace_d473f472fef8b91d2aec10245a57824a",
         "ead_ssi":"pr390_gerald_geerlings",
@@ -180,8 +182,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      Old Fort, New Fortresses\n    "],
         "unitdate_ssm":["1975"],
-        "_version_":1775220636011986944,
-        "timestamp":"2023-08-25T16:52:06.519Z"},
+        "_version_":1801071373375766528,
+        "timestamp":"2024-06-06T00:58:30.803Z"},
       {
         "id":"pr390_gerald_geerlingsaspace_d67dfb5f0032b6c5d602ace7c2177f07",
         "ead_ssi":"pr390_gerald_geerlings",
@@ -197,8 +199,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      Hail Utopia!\n    "],
         "unitdate_ssm":["1975"],
-        "_version_":1775220635966898176,
-        "timestamp":"2023-08-25T16:52:06.476Z"},
+        "_version_":1801071373315997696,
+        "timestamp":"2024-06-06T00:58:30.746Z"},
       {
         "id":"pr390_gerald_geerlingsaspace_de302074bff727e5b1f81d54ff2dadf2",
         "ead_ssi":"pr390_gerald_geerlings",
@@ -214,8 +216,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      Midtown Oasis\n    "],
         "unitdate_ssm":["1976"],
-        "_version_":1775220636199682048,
-        "timestamp":"2023-08-25T16:52:06.698Z"},
+        "_version_":1801071373473284096,
+        "timestamp":"2024-06-06T00:58:30.896Z"},
       {
         "id":"pr390_gerald_geerlingsaspace_ee576e7b3dd4d90e88cfb9b53e76530b",
         "ead_ssi":"pr390_gerald_geerlings",
@@ -231,8 +233,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["\n      Acropolis Americana\n    "],
         "unitdate_ssm":["1975"],
-        "_version_":1775220635887206400,
-        "timestamp":"2023-08-25T16:52:06.4Z"}]
+        "_version_":1801071373288734720,
+        "timestamp":"2024-06-06T00:58:30.72Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -240,7 +242,8 @@
       "repository_sim":[
         "nyhs",11],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Geerlings, Gerald K. (Gerald Kenneth), 1897-",1],
       "date_range_sim":[
         "undated & other",11],
       "subject_sim":[],

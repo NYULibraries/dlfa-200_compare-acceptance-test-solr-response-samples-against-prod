@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Raoul Froger-Doudemont photograph collection"],
         "unitid_ssm":["BCMS.0057"],
         "abstract_ssm":["Black and white photographs by Raoul Froger-Doudement documenting street scenes in New York City and elsewhere from 1895-1901."],
+        "creator_ssm":["Froger-Doudement, Raoul",
+          "Froger-Doudement, Raoul"],
         "unitdate_normal_ssm":["1895/1901"],
         "corpname_ssm":["Brooklyn Collection"],
         "geogname_ssm":["Brooklyn (New York, N.Y.)"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1901"],
         "unitdate_ssm":["Inclusive, 1895-1901"],
         "language_ssm":["English"],
-        "_version_":1799312406551199744,
-        "timestamp":"2024-05-17T15:00:29.319Z"},
+        "_version_":1802044062699618304,
+        "timestamp":"2024-06-16T18:38:59.629Z"},
       {
         "id":"bcms_0057aspace_2152a9b2c23f50949995e48c25961443",
         "ead_ssi":"bcms_0057",
@@ -79,11 +81,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["cabinet: Morgue Photo Cabinets, Folder: 20",
-          "Folder: 20"],
+        "location_ssm":["cabinet: Morgue Photo Cabinets, Folder: 20"],
         "heading_ssm":["Additional prints"],
-        "_version_":1799312406622502912,
-        "timestamp":"2024-05-17T15:00:29.387Z"},
+        "_version_":1802044062804475904,
+        "timestamp":"2024-06-16T18:38:59.729Z"},
       {
         "id":"bcms_0057aspace_3e90030e966f59d7cea8f41f5e3aca1c",
         "ead_ssi":"bcms_0057",
@@ -96,11 +97,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["cabinet: Morgue Photo Cabinets, Folder: 12-17",
-          "Folder: 12-17"],
+        "location_ssm":["cabinet: Morgue Photo Cabinets, Folder: 12-17"],
         "heading_ssm":["Duplicate negatives"],
-        "_version_":1799312406594191360,
-        "timestamp":"2024-05-17T15:00:29.36Z"},
+        "_version_":1802044062761484288,
+        "timestamp":"2024-06-16T18:38:59.688Z"},
       {
         "id":"bcms_0057aspace_553a431f4b6c23094e5b20e2eb5f308c",
         "ead_ssi":"bcms_0057",
@@ -113,11 +113,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["cabinet: Morgue Photo Cabinets, Folder: 1-5",
-          "Folder: 1-5"],
+        "location_ssm":["cabinet: Morgue Photo Cabinets, Folder: 1-5"],
         "heading_ssm":["Vintage prints"],
-        "_version_":1799312406567976960,
-        "timestamp":"2024-05-17T15:00:29.335Z"},
+        "_version_":1802044062721638400,
+        "timestamp":"2024-06-16T18:38:59.65Z"},
       {
         "id":"bcms_0057aspace_9e30d5ab2ca7e048b50ebe9d177f585c",
         "ead_ssi":"bcms_0057",
@@ -132,8 +131,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Binder: 1"],
         "heading_ssm":["Modern prints"],
-        "_version_":1799312406635085824,
-        "timestamp":"2024-05-17T15:00:29.399Z"},
+        "_version_":1802044062823350272,
+        "timestamp":"2024-06-16T18:38:59.747Z"},
       {
         "id":"bcms_0057aspace_b36c80bb4dc21dc40be867acfdee4bb3",
         "ead_ssi":"bcms_0057",
@@ -146,11 +145,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["cabinet: Morgue Photo Cabinets, Folder: 18-19",
-          "Folder: 18-19"],
+        "location_ssm":["cabinet: Morgue Photo Cabinets, Folder: 18-19"],
         "heading_ssm":["Film positives"],
-        "_version_":1799312406609920000,
-        "timestamp":"2024-05-17T15:00:29.375Z"},
+        "_version_":1802044062786650112,
+        "timestamp":"2024-06-16T18:38:59.712Z"},
       {
         "id":"bcms_0057aspace_d63ce953a92d878baaa3cd713be07e85",
         "ead_ssi":"bcms_0057",
@@ -163,11 +161,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["cabinet: Morgue Photo Cabinets, Folder: 6-11",
-          "Folder: 6-11"],
+        "location_ssm":["cabinet: Morgue Photo Cabinets, Folder: 6-11"],
         "heading_ssm":["Contact prints"],
-        "_version_":1799312406581608448,
-        "timestamp":"2024-05-17T15:00:29.348Z"}]
+        "_version_":1802044062739464192,
+        "timestamp":"2024-06-16T18:38:59.667Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -175,7 +172,8 @@
       "repository_sim":[
         "cbh",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Froger-Doudement, Raoul",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

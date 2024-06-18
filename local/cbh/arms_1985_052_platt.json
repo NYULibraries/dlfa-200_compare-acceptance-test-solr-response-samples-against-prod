@@ -47,6 +47,8 @@
         "unittitle_ssm":["John H. Platt title search"],
         "unitid_ssm":["1985.052"],
         "abstract_ssm":["Photocopies of a title search for a parcel of land located at Carlton Avenue and Warren Street (which was later renamed Prospect Place) in Brooklyn. The title search covers the period 1779 to 1882."],
+        "creator_ssm":["Platt, John H.",
+          "Platt, John H."],
         "unitdate_normal_ssm":["1779/1882"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Land titles |z New York (State) |z Kings County"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1882"],
         "unitdate_ssm":["Inclusive, 1779-1882"],
         "language_ssm":["English"],
-        "_version_":1799256329200599040,
-        "timestamp":"2024-05-17T00:09:09.79Z"}]
+        "_version_":1801963019000872960,
+        "timestamp":"2024-06-15T21:10:50.335Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Platt, John H.",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

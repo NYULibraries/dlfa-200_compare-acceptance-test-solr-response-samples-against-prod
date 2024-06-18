@@ -47,6 +47,8 @@
         "unittitle_ssm":["Carvo family war ration booklets"],
         "unitid_ssm":["1991.007"],
         "abstract_ssm":["This collection consists of 14  ration books dating from the Second World War and assigned to Joan, Catherine, and Salvatore Carvo.  During the war, the United States government introduced rationing on the homefront due to a lack of supplies and goods as a result of the war effort. War ration books were issued to each family that dictated the amount of gasoline, tires, sugar, meat, nylon, shoes, and any other items one person could purchase. Also included in the collection is one notice of maximum rent issued by the United States Office of Price Administration."],
+        "creator_ssm":["United States. Office of Price Administration",
+          "United States. Office of Price Administration"],
         "unitdate_normal_ssm":["1942/1943"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Office of Price Administration"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["Inclusive, 1942-1943"],
         "language_ssm":["English"],
-        "_version_":1799309919733678080,
-        "timestamp":"2024-05-17T14:20:57.705Z"}]
+        "_version_":1801963566427799552,
+        "timestamp":"2024-06-15T21:19:32.402Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. Office of Price Administration",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

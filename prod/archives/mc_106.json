@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John G. Stephenson Streetcar Patent"],
         "unitid_ssm":["MC.106"],
         "abstract_ssm":["This collection inculdes John G. Stephenson's patent for the first streetcar, developed in 1831.  Stephenson (1809-1893) invented and patented the first streetcar that ran on rails in the United States."],
+        "creator_ssm":["Stephenson, John G.",
+          "Stephenson, John G."],
         "unitdate_normal_ssm":["1831/1831"],
         "corpname_ssm":["New York University Archives"],
         "persname_ssm":["Stephenson, John G."],
@@ -61,8 +63,8 @@
         "unitdate_start_ssm":["1831"],
         "unitdate_end_ssm":["1831"],
         "unitdate_ssm":["1831"],
-        "_version_":1775226178662039552,
-        "timestamp":"2023-08-25T18:20:12.402Z"},
+        "_version_":1800530611742441472,
+        "timestamp":"2024-05-31T01:43:20.322Z"},
       {
         "id":"mc_106aspace_e8ceb4daffb31bcdc741821f70eab014",
         "ead_ssi":"mc_106",
@@ -81,8 +83,8 @@
         "unitdate_start_ssm":["1831"],
         "unitdate_end_ssm":["1831"],
         "unitdate_ssm":["1831"],
-        "_version_":1775226178697691136,
-        "timestamp":"2023-08-25T18:20:12.436Z"}]
+        "_version_":1800530611774947328,
+        "timestamp":"2024-05-31T01:43:20.353Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +92,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stephenson, John G.",1],
       "date_range_sim":[
         "1801-1900",2],
       "subject_sim":[

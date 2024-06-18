@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Reformed Protestant Dutch Church of Flatbush land lease to the Trustees of the Town of Flatbush"],
         "unitid_ssm":["1977.510"],
         "abstract_ssm":["One 1848 lease between the Protestant Reformed Dutch Church of Flatbush and the Trustees of the Town of Flatbush, providing for the building and continued use of a common school on church-owned land in Flatbush School District No. 1."],
+        "creator_ssm":["Flatbush Dutch Reformed Church (Flatbush, New York, N.Y.)",
+          "Flatbush Dutch Reformed Church (Flatbush, New York, N.Y.)"],
         "unitdate_normal_ssm":["1848/1848"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Flatbush Dutch Reformed Church (Flatbush, New York, N.Y.)",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1848"],
         "unitdate_ssm":["1848"],
         "language_ssm":["English"],
-        "_version_":1799311497755623424,
-        "timestamp":"2024-05-17T14:46:02.624Z"}]
+        "_version_":1801961836485017600,
+        "timestamp":"2024-06-15T20:52:02.6Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Flatbush Dutch Reformed Church (Flatbush, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

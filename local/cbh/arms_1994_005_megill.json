@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edward L. Megill Company records"],
         "unitid_ssm":["1994.005"],
         "abstract_ssm":["The Edward L. Megill Company records span the period 1870 to 1881 and measure 0.42 linear feet. The records consist of account books, daybooks and ledgers of the company (established in 1869), which manufactured gauge pins invented by Edward L. Megill for the Planten Printing Press.The company was located at 761-763 Atlantic Avenue in Brooklyn."],
+        "creator_ssm":["Edward L. Megill Company",
+          "Edward L. Megill Company"],
         "unitdate_normal_ssm":["1870/1881"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Edward L. Megill Company",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1881"],
         "unitdate_ssm":["Inclusive, 1870-1881"],
         "language_ssm":["English"],
-        "_version_":1799312398679539712,
-        "timestamp":"2024-05-17T15:00:21.812Z"}]
+        "_version_":1801963738740293632,
+        "timestamp":"2024-06-15T21:22:16.732Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Edward L. Megill Company",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

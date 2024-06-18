@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York University Archives Collection of the Washington Square College Evening News"],
         "unitid_ssm":["RG.39.191"],
         "abstract_ssm":["This collection contains issues from the Washington Square College Evening Division's student newspaper dating from 1926 to 1967. It documents local and national news, campus living, student clubs, and student life at NYU as it pertained to the Evening Division  students. The newspaper was published under three titles: Guess (1926), Nite News (1927-1932), and Washington Square College Evening News (1933-1967). The collection is extensive but not comprehensive, there may be some issues that were published but are not included in this collection. This collection includes issues in their original print format as well as microfilmed copies. Some issues are bound."],
+        "creator_ssm":["New York University",
+          "New York University"],
         "unitdate_normal_ssm":["1926/1967"],
         "corpname_ssm":["New York University Archives",
           "New York University"],
@@ -62,8 +64,8 @@
         "unitdate_start_ssm":["1926"],
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, 1926-1967"],
-        "_version_":1799255778947760128,
-        "timestamp":"2024-05-17T00:00:25.028Z"},
+        "_version_":1801953678255456256,
+        "timestamp":"2024-06-15T18:42:22.306Z"},
       {
         "id":"rg_39_191aspace_583bd22cc76c0fd453e47aa1f7a766a1",
         "ead_ssi":"rg_39_191",
@@ -80,14 +82,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 104, reel: 5103",
-          "reel: 5103"],
+        "location_ssm":["Box: Shared University Archives 104, reel: 5103"],
         "heading_ssm":["Washington Square College Evening News"],
         "unitdate_start_ssm":["1953"],
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, 1953-1967"],
-        "_version_":1799255779022209024,
-        "timestamp":"2024-05-17T00:00:25.099Z"},
+        "_version_":1801953678335148032,
+        "timestamp":"2024-06-15T18:42:22.382Z"},
       {
         "id":"rg_39_191aspace_8503fa8b50ba6b6efc84ad0d801ff248",
         "ead_ssi":"rg_39_191",
@@ -104,14 +105,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 104, reel: 5101",
-          "reel: 5101"],
+        "location_ssm":["Box: Shared University Archives 104, reel: 5101"],
         "heading_ssm":["Guess, Nite News, Washington Square College Evening News"],
         "unitdate_start_ssm":["1926"],
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Inclusive, 1926-1937"],
-        "_version_":1799255778989703168,
-        "timestamp":"2024-05-17T00:00:25.068Z"},
+        "_version_":1801953678287962112,
+        "timestamp":"2024-06-15T18:42:22.337Z"},
       {
         "id":"rg_39_191aspace_ab058f998ba42c4b3c9131468e5d5ffe",
         "ead_ssi":"rg_39_191",
@@ -125,8 +125,8 @@
         "repository_ssm":["archives"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Microfilm copies"],
-        "_version_":1799255778972925952,
-        "timestamp":"2024-05-17T00:00:25.052Z"},
+        "_version_":1801953678270136320,
+        "timestamp":"2024-06-15T18:42:22.32Z"},
       {
         "id":"rg_39_191aspace_cef2eada50b9d6f5fb1c51ac795af9da",
         "ead_ssi":"rg_39_191",
@@ -143,14 +143,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 104, reel: 5102",
-          "reel: 5102"],
+        "location_ssm":["Box: Shared University Archives 104, reel: 5102"],
         "heading_ssm":["Washington Square College Evening News"],
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1953"],
         "unitdate_ssm":["Inclusive, 1937-1953"],
-        "_version_":1799255779006480384,
-        "timestamp":"2024-05-17T00:00:25.084Z"}]
+        "_version_":1801953678304739328,
+        "timestamp":"2024-06-15T18:42:22.353Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -158,7 +157,8 @@
       "repository_sim":[
         "archives",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University",1],
       "date_range_sim":[
         "1901-2000",4,
         "undated & other",1],

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Wellmade Glove artifacts and records"],
         "unitid_ssm":["ARC.224"],
         "abstract_ssm":["The Wellmade Glove records are comprised of business and financial records kept by Louis Lebman, the owner and operator of Wellmade Glove, throughout the period 1941 to 1964."],
+        "creator_ssm":["Lebman, Louis",
+          "Lebman, Louis"],
         "unitdate_normal_ssm":["1941/1964"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Wellmade Glove (Brooklyn, New York, N.Y.)"],
@@ -93,8 +95,8 @@
         "unitdate_end_ssm":["1964"],
         "unitdate_ssm":["Inclusive, 1941-1964"],
         "language_ssm":["English"],
-        "_version_":1799312251896725504,
-        "timestamp":"2024-05-17T14:58:01.829Z"}]
+        "_version_":1801959463196819456,
+        "timestamp":"2024-06-15T20:14:19.256Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -102,7 +104,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lebman, Louis",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

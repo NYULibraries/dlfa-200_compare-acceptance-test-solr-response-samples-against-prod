@@ -47,6 +47,16 @@
         "unittitle_ssm":["Sands family papers"],
         "unitid_ssm":["ARC.096"],
         "abstract_ssm":["The Sands family was one of the original three families that settled in and owned what is now Sands Point, N.Y.  In 1784, Joshua and Comfort Sands, who were brothers, purchased 160 acres of land along the Brooklyn waterfront for $12,000. The Sands family papers consist of four items, dating from 1776 to 1795, and include two financial accounts pertaining to the American Revolutionary War, one indenture for apprenticeship at the Sands brothers ropemaking business, and one receipt."],
+        "creator_ssm":["Sands, Joshua",
+          "Codwise, George",
+          "Fisk, John",
+          "Sands, Comfort",
+          "Sands, Benjamin",
+          "Sands, Joshua",
+          "Codwise, George",
+          "Fisk, John",
+          "Sands, Comfort",
+          "Sands, Benjamin"],
         "unitdate_normal_ssm":["1776/1795"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Receipts (financial records)",
@@ -80,8 +90,8 @@
         "unitdate_end_ssm":["1795"],
         "unitdate_ssm":["Inclusive, 1776-1795"],
         "language_ssm":["English"],
-        "_version_":1799311443945848832,
-        "timestamp":"2024-05-17T14:45:11.307Z"}]
+        "_version_":1801958978357297152,
+        "timestamp":"2024-06-15T20:06:36.877Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +99,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Codwise, George",1,
+        "Fisk, John",1,
+        "Sands, Benjamin",1,
+        "Sands, Comfort",1,
+        "Sands, Joshua",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

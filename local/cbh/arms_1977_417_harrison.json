@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Thomas Harrison military records"],
         "unitid_ssm":["1977.417"],
         "abstract_ssm":["This collection contains records relating to the 137th Regiment of the New York State Militia, based in the town of Huntington, Long Island and led by Major and Lieutenant Colonel Thomas Harrison."],
+        "creator_ssm":["Harrison, Thomas",
+          "Harrison, Thomas"],
         "unitdate_normal_ssm":["1826/1826"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Militia. Regiment, 137th"],
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1826"],
         "unitdate_ssm":["1826"],
         "language_ssm":["English"],
-        "_version_":1799256208032399360,
-        "timestamp":"2024-05-17T00:07:14.235Z"}]
+        "_version_":1801961618658033664,
+        "timestamp":"2024-06-15T20:48:34.864Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Harrison, Thomas",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

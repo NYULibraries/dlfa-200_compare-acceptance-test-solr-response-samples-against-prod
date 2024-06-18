@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Michael Molinari photographs of buildings in Gowanus and Flatlands"],
         "unitid_ssm":["ARC.255"],
         "abstract_ssm":["The Michael Molinari photographs of buildings in Gowanus and Flatlands date from circa 1970 to 1989. The collection consists of 24 color photographic prints taken by Michael Molinari."],
+        "creator_ssm":["Molinari, Michael",
+          "Molinari, Michael"],
         "unitdate_normal_ssm":["1970/1989"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Color prints (photographs)",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1970s to 1980s"],
         "language_ssm":["English"],
-        "_version_":1799256466251579392,
-        "timestamp":"2024-05-17T00:11:20.492Z"}]
+        "_version_":1801959605483339776,
+        "timestamp":"2024-06-15T20:16:34.951Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Molinari, Michael",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

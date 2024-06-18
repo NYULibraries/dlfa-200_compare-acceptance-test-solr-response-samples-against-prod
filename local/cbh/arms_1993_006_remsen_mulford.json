@@ -47,6 +47,8 @@
         "unittitle_ssm":["William Remsen Mulford papers"],
         "unitid_ssm":["1993.006"],
         "abstract_ssm":["The collection contains three documents: one pertaining to the farm of the late Abraham A. Remsen; one to the farm of Jeremiah Johnson; and a history of the Johnson Mansion by William Remsen Mulford."],
+        "creator_ssm":["Mulford, William Remsen",
+          "Mulford, William Remsen"],
         "unitdate_normal_ssm":["1835/1865"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Brooklyn (New York, N.Y.)"],
@@ -64,8 +66,8 @@
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["Inclusive, circa 1845 to 1855"],
         "language_ssm":["English"],
-        "_version_":1799311559823982592,
-        "timestamp":"2024-05-17T14:47:01.817Z"}]
+        "_version_":1801963726140604416,
+        "timestamp":"2024-06-15T21:22:04.716Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Mulford, William Remsen",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

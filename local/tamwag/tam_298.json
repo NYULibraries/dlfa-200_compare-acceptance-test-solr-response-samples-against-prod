@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":22,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Stephanie Oursler Papers"],
         "unitid_ssm":["TAM.298"],
+        "creator_ssm":["Oursler, Stephanie",
+          "Oursler, Stephanie"],
         "unitdate_normal_ssm":["1950/1979"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Social Democracy of America",
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1955 - 1970"],
         "language_ssm":["English"],
-        "_version_":1799782594755166208,
-        "timestamp":"2024-05-22T19:33:55.732Z"}]
+        "_version_":1802171516355346432,
+        "timestamp":"2024-06-18T04:24:48.907Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Oursler, Stephanie",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Gerhart Eisler Scrapbook"],
         "unitid_ssm":["TAM.438"],
+        "creator_ssm":["Eisler, Gerhart",
+          "Eisler, Gerhart"],
         "unitdate_normal_ssm":["1946/1947"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United States. Congress. House. Committee on Un-American Activities"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["Inclusive, 1946-1947"],
         "language_ssm":["English"],
-        "_version_":1799791070207279104,
-        "timestamp":"2024-05-22T21:48:38.554Z"},
+        "_version_":1802183052428836864,
+        "timestamp":"2024-06-18T07:28:10.564Z"},
       {
         "id":"tam_438aspace_8480ad464756ebc4bc58019dbb6c7069",
         "ead_ssi":"tam_438",
@@ -81,8 +83,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "heading_ssm":["Scrapbook"],
-        "_version_":1799791070219862016,
-        "timestamp":"2024-05-22T21:48:38.566Z"}]
+        "_version_":1802183052439322624,
+        "timestamp":"2024-06-18T07:28:10.574Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +92,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Eisler, Gerhart",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

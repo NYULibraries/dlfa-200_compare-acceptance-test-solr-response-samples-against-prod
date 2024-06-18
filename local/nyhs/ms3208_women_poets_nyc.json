@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Women Poets of New York scrapbook"],
         "unitid_ssm":["MS 3208"],
         "abstract_ssm":["One scrapbook holding poems composed by members of the Women Poets of New York organization (disbanded 1987) from the 1950s to the 1970s. 43 members are represented in the scrapbook, such as Evelyn Ames, Laura Benét, Henrietta Cholmeley-Jones, Rhina P. Espaillat, and Frances Minturn Howard."],
+        "creator_ssm":["Women Poets of New York (Organization)",
+          "Women Poets of New York (Organization)"],
         "corpname_ssm":["New-York Historical Society",
           "Women Poets of New York (Organization)"],
         "genreform_ssm":["Poems",
@@ -63,8 +65,8 @@
           "Scrapbooks."],
         "heading_ssm":["Women Poets of New York scrapbook"],
         "unitdate_ssm":["Inclusive, 1950s-1988 (bulk 1960s-1970s)"],
-        "_version_":1799316224284295168,
-        "timestamp":"2024-05-17T16:01:10.193Z"},
+        "_version_":1802086154939400192,
+        "timestamp":"2024-06-17T05:48:01.917Z"},
       {
         "id":"ms3208_women_poets_nycaspace_86aaf50bc60f43b6a7a37fe85d28287c",
         "ead_ssi":"ms3208_women_poets_nyc",
@@ -80,8 +82,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Women Poets of New York scrapbook"],
         "unitdate_ssm":["Inclusive, 1950s-1988"],
-        "_version_":1799316224349306880,
-        "timestamp":"2024-05-17T16:01:10.255Z"}]
+        "_version_":1802086154959323136,
+        "timestamp":"2024-06-17T05:48:01.936Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Women Poets of New York (Organization)",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

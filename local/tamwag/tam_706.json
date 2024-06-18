@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Sister City Project Records"],
         "unitid_ssm":["TAM.706"],
         "abstract_ssm":["The Brooklyn Sister City Project was founded in Brooklyn, New York during the late 1980s in order to educate people on the conditions of the Nicaraguan people during the Contra War of the Nicaraguan Revolution. The group's activities demonstrated their support of the Sandinista Front for National Liberation (FSLN) over the Contras, including their ongoing, personal relationship with their designated \"sister city\" Dan Juan del Rio Coco. The collection's materials date between 1985 and 1991 and include newsletters, meeting minutes, correspondence, conference materials, brochures, flyers, and clippings."],
+        "creator_ssm":["Brooklyn Sister City Project",
+          "Brooklyn Sister City Project"],
         "unitdate_normal_ssm":["1985/1991"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Brooklyn Sister City Project",
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1985"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1985-1991, undated"],
-        "_version_":1799791992731860992,
-        "timestamp":"2024-05-22T22:03:18.342Z"}]
+        "_version_":1802184337662148608,
+        "timestamp":"2024-06-18T07:48:36.258Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Sister City Project",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

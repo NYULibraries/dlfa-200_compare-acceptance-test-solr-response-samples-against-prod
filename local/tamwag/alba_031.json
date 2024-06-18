@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Gerald Cook Papers"],
         "unitid_ssm":["ALBA.031"],
+        "creator_ssm":["Cook, Gerald.",
+          "Cook, Gerald."],
         "unitdate_normal_ssm":["1930/1979"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Cook, Gerald."],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1930s-1970s"],
         "language_ssm":["English"],
-        "_version_":1799747801431670784,
-        "timestamp":"2024-05-22T10:20:54.234Z"}]
+        "_version_":1802110734251851776,
+        "timestamp":"2024-06-17T12:18:42.576Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cook, Gerald.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

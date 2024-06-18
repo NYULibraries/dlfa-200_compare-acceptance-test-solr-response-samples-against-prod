@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["John Ditmars and Jacob Duryee enslaved woman bill of sale"],
         "unitid_ssm":["1977.583"],
         "abstract_ssm":["Bill of sale for Sine (b. 1817), an enslaved African American woman, from John Ditmars of the town of Flatlands, Kings County, to Jacob Duryee of the town of Flatbush. The bill is dated June 16, 1825."],
+        "creator_ssm":["Ditmars, John",
+          "Duryee, Jacob",
+          "Ditmars, John",
+          "Duryee, Jacob"],
         "unitdate_normal_ssm":["1825/1825"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Bills of sale"],
@@ -70,8 +74,8 @@
         "unitdate_end_ssm":["1825"],
         "unitdate_ssm":["1825"],
         "language_ssm":["English"],
-        "_version_":1799311703699095552,
-        "timestamp":"2024-05-17T14:49:19.027Z"}]
+        "_version_":1801962009377374208,
+        "timestamp":"2024-06-15T20:54:47.483Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +83,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ditmars, John",1,
+        "Duryee, Jacob",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

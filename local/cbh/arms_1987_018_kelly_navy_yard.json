@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["James F. Kelly Brooklyn Navy Yard collection"],
         "unitid_ssm":["1987.018"],
         "abstract_ssm":["The collection contains a certificate for an award presented to James F. Kelly from the Department of the Navy; his identification badge; a program for the commissioning ceremony of the U.S.S. Independence; a copy of a publication titled National Association of Supervisors: 1952 Review."],
+        "creator_ssm":["Kelly, James F.",
+          "New York Naval Shipyard",
+          "United States. Navy",
+          "New York Naval Shipyard",
+          "United States. Navy",
+          "Kelly, James F."],
         "unitdate_normal_ssm":["1950/1952"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Naval Shipyard",
@@ -74,8 +80,8 @@
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, 1950-1952"],
         "language_ssm":["English"],
-        "_version_":1799309976083103744,
-        "timestamp":"2024-05-17T14:21:51.444Z"}]
+        "_version_":1801963413381840896,
+        "timestamp":"2024-06-15T21:17:06.446Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +89,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kelly, James F.",1,
+        "New York Naval Shipyard",1,
+        "United States. Navy",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

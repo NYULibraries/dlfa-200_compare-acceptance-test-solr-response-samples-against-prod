@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,10 @@
       {
         "unittitle_ssm":["Shapiro Spanish Civil War Scrapbook"],
         "unitid_ssm":["ALBA.PHOTO.246"],
+        "creator_ssm":["Shapiro, Barbara",
+          "Shapiro, Ralph",
+          "Shapiro, Barbara",
+          "Shapiro, Ralph"],
         "unitdate_normal_ssm":["1937/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Shapiro, Barbara",
@@ -60,8 +64,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1937-1939"],
         "language_ssm":["English"],
-        "_version_":1799748434440224768,
-        "timestamp":"2024-05-22T10:30:57.918Z"},
+        "_version_":1802112444382838784,
+        "timestamp":"2024-06-17T12:45:53.484Z"},
       {
         "id":"alba_photo_246aspace_03c336c8455716cfe3502ccb2d5061c5",
         "ead_ssi":"alba_photo_246",
@@ -77,8 +81,8 @@
         "location_ssm":["Box: 1",
           "Box: 2"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799748434452807680,
-        "timestamp":"2024-05-22T10:30:57.93Z"}]
+        "_version_":1802112444403810304,
+        "timestamp":"2024-06-17T12:45:53.504Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +90,9 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Shapiro, Barbara",1,
+        "Shapiro, Ralph",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

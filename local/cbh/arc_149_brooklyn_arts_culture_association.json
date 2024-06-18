@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Arts and Culture Association publications"],
         "unitid_ssm":["ARC.149"],
         "abstract_ssm":["The Brooklyn Arts and Culture Association publications date from 1969 to 1997 and measure 0.21 linear feet. The collection consists primarily of the Association's monthly calendar, which provided a comprehensive list of cultural events in the borough. Also included is one copy of the Association's newsletter, , spotlighting local artists and performances, and press releases for exhibits and performances."],
+        "creator_ssm":["Brooklyn Arts and Culture Association",
+          "Brooklyn Arts and Culture Association"],
         "unitdate_normal_ssm":["1969/1997"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Arts and Culture Association",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, 1969-1997"],
         "language_ssm":["English"],
-        "_version_":1799311716621746176,
-        "timestamp":"2024-05-17T14:49:31.35Z"}]
+        "_version_":1801959205890949120,
+        "timestamp":"2024-06-15T20:10:13.869Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Arts and Culture Association",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

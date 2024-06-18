@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Agreement between the City of Brooklyn and the Flatbush Railroad Company"],
         "unitid_ssm":["1992.007"],
         "abstract_ssm":["This document, signed by Mayor Martin Kalbfleish of the City of Brooklyn, confirms an agreement between the city and the Flatbush Railroad Company for the laying of streetcar tracks in conformity with Brooklyn city streets.  The agreement also stipulates that the railroad tracks should not hinder or obstruct public traffic."],
+        "creator_ssm":["Kalbfleish, Martin",
+          "Flatbush Railroad Company",
+          "Flatbush Railroad Company",
+          "Kalbfleish, Martin"],
         "unitdate_normal_ssm":["1870/1870"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Flatbush Railroad Company"],
@@ -69,8 +73,8 @@
         "unitdate_end_ssm":["1870"],
         "unitdate_ssm":["Inclusive, 1870"],
         "language_ssm":["English"],
-        "_version_":1799311514125991936,
-        "timestamp":"2024-05-17T14:46:18.236Z"}]
+        "_version_":1801963669412642816,
+        "timestamp":"2024-06-15T21:21:10.615Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +82,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Flatbush Railroad Company",1,
+        "Kalbfleish, Martin",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

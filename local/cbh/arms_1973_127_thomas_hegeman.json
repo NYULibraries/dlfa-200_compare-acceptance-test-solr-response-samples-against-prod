@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Thomas Hegeman New Utrecht, New York Justice of the Peace papers"],
         "unitid_ssm":["1973.127"],
         "abstract_ssm":["The papers span the period 1821 to 1828 and consist of a single bound volume containing Hegeman's handwritten notes detailing his tenure as Justice of the Peace in New Utrecht."],
+        "creator_ssm":["Hegeman, Thomas",
+          "Hegeman, Thomas"],
         "unitdate_normal_ssm":["1821/1828"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Legal documents"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1828"],
         "unitdate_ssm":["Inclusive, 1821-1828"],
         "language_ssm":["English"],
-        "_version_":1799256492893798400,
-        "timestamp":"2024-05-17T00:11:45.899Z"}]
+        "_version_":1801959978147250176,
+        "timestamp":"2024-06-15T20:22:30.351Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hegeman, Thomas",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

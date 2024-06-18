@@ -47,6 +47,8 @@
         "unittitle_ssm":["Libby Frank Papers"],
         "unitid_ssm":["TAM.740"],
         "abstract_ssm":["Libby Frank attended the World Youth Festival of 1951 in Berlin, East Germany. During the festival she collected songbooks, pamphlets, and the periodical World Youth. These materials were given to participants of the 1951 festival and also included a year's subscription to World Youth. The 1951 festival took place in the international context of the Korean War, the rise of communism in China and Europe, and growing tensions between the Soviet Union and western nations."],
+        "creator_ssm":["Frank, Libby",
+          "Frank, Libby"],
         "unitdate_normal_ssm":["1951/1952"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "World Festival of Youth and Students for Peace and Friendship"],
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1951"],
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, 1951-1952"],
-        "_version_":1799792025182142464,
-        "timestamp":"2024-05-22T22:03:49.289Z"}]
+        "_version_":1802184430316421120,
+        "timestamp":"2024-06-18T07:50:04.62Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Frank, Libby",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

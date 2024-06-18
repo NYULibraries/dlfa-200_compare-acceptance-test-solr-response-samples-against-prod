@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ken Rush photographs of the Smith-9th Streets subway station"],
         "unitid_ssm":["2019.010"],
         "abstract_ssm":["Six Polaroids mounted on three sheets of black paper depicting interior of Smith-9th Streets subway station, including shots of the original wooden escalator, taken in 1970s by painter Ken Rush, in preparation for the painting Smith-Smith-9th Streets."],
+        "creator_ssm":["Rush, Ken",
+          "Rush, Ken"],
         "unitdate_normal_ssm":["1970/1979"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Gowanus (New York, N.Y.)"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1970s"],
         "language_ssm":["English"],
-        "_version_":1799311717705973760,
-        "timestamp":"2024-05-17T14:49:32.385Z"}]
+        "_version_":1801958476866387968,
+        "timestamp":"2024-06-15T19:58:38.617Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rush, Ken",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

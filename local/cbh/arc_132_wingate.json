@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles F. Wingate Civil War scrapbooks"],
         "unitid_ssm":["ARC.132"],
         "abstract_ssm":["Fifteen scrapbooks compiled by Brooklyn resident and sanitary engineer Charles F. Wingate, containing clippings on the events of the American Civil War.  Coverage relates to events occurring throughout the United States."],
+        "creator_ssm":["Wingate, Charles F. (Charles Frederick)",
+          "Wingate, Charles F. (Charles Frederick)"],
         "unitdate_normal_ssm":["1861/1865"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Scrapbooks",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["Inclusive, 1861-1865"],
         "language_ssm":["English"],
-        "_version_":1799311706362478592,
-        "timestamp":"2024-05-17T14:49:21.567Z"}]
+        "_version_":1801959135141429248,
+        "timestamp":"2024-06-15T20:09:06.398Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wingate, Charles F. (Charles Frederick)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

@@ -47,6 +47,8 @@
         "unittitle_ssm":["International Union of Steam Engineers Photographs"],
         "unitid_ssm":["PHOTOS.288"],
         "abstract_ssm":["The National Union of Steam Engineers was founded in 1896 in an effort to address wages, benefits, work week hours, and working conditions. Local union charters were granted the following year, and the organization changed its name in 1898 to International Union of Steam Engineers to account for locals in Canada. The union adopted a steam gauge as its emblem, which continues to be the logo even after the organization has become the International Union of Operating Engineers as of 1928.This collection contains five contact prints and four glass negatives of New York delegates on their way to the 1908 convention of the International Union of Steam Engineers."],
+        "creator_ssm":["CMYSales",
+          "CMYSales"],
         "unitdate_normal_ssm":["1908/1908"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "CMYSales",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1908"],
         "unitdate_ssm":["Inclusive, 1908"],
-        "_version_":1799776704384729088,
-        "timestamp":"2024-05-22T18:00:18.238Z"},
+        "_version_":1802167136541474816,
+        "timestamp":"2024-06-18T03:15:11.991Z"},
       {
         "id":"photos_288aspace_ref13",
         "ead_ssi":"photos_288",
@@ -83,14 +85,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment A006, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment A006, Folder: 1"],
         "heading_ssm":["Photographic Prints "],
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1908"],
         "unitdate_ssm":["Inclusive, 1908"],
-        "_version_":1799776704401506304,
-        "timestamp":"2024-05-22T18:00:18.254Z"},
+        "_version_":1802167136551960576,
+        "timestamp":"2024-06-18T03:15:12.001Z"},
       {
         "id":"photos_288aspace_ref14",
         "ead_ssi":"photos_288",
@@ -109,8 +110,8 @@
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1908"],
         "unitdate_ssm":["Inclusive, 1908"],
-        "_version_":1799776704417234944,
-        "timestamp":"2024-05-22T18:00:18.269Z"}]
+        "_version_":1802167136561397760,
+        "timestamp":"2024-06-18T03:15:12.01Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -118,7 +119,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "CMYSales",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

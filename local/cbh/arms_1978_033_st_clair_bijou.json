@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ernest St. Clair Bijou correspondence"],
         "unitid_ssm":["1978.033"],
         "abstract_ssm":["One letter and one postcard, both dated 1930, written by the writer Ernest St. Clair Bijou."],
+        "creator_ssm":["Bijou, Ernest St. Clair",
+          "Bijou, Ernest St. Clair"],
         "unitdate_normal_ssm":["1930/1930"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["1930"],
         "language_ssm":["English"],
-        "_version_":1799312398550564864,
-        "timestamp":"2024-05-17T15:00:21.689Z"}]
+        "_version_":1801962284922175488,
+        "timestamp":"2024-06-15T20:59:10.263Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bijou, Ernest St. Clair",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["St. Peter's Church certificates of incorporation"],
         "unitid_ssm":["1974.150"],
         "abstract_ssm":["St. Peter's Church certificates of incorporation, dated 1832. St. Peter's was an African-American Episcopal church that met in the Apprentice's Library in the Brooklyn Heights neighborhood of Brooklyn."],
+        "creator_ssm":["St. Peter's Church (Brooklyn, New York, N.Y.)",
+          "St. Peter's Church (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1832/1832"],
         "corpname_ssm":["Brooklyn Historical Society",
           "St. Peter's Church (Brooklyn, New York, N.Y.)",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1832"],
         "unitdate_ssm":["Inclusive, 1832"],
         "language_ssm":["English"],
-        "_version_":1799309977325666304,
-        "timestamp":"2024-05-17T14:21:52.629Z"}]
+        "_version_":1801960370797019136,
+        "timestamp":"2024-06-15T20:28:44.811Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "St. Peter's Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

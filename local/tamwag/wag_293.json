@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Retail Apparel Salespeople's Union, Local 340A of New York Arbitration Cases"],
         "unitid_ssm":["WAG.293"],
+        "creator_ssm":["Retail Apparel Salespeople's Union, Local 340A",
+          "Retail Apparel Salespeople's Union, Local 340A"],
         "unitdate_normal_ssm":["1960/2010"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Retail Apparel Salespeople's Union, Local 340A"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, circa 1960s-2000s"],
         "language_ssm":["English"],
-        "_version_":1799804925348151296,
-        "timestamp":"2024-05-23T01:28:51.846Z"}]
+        "_version_":1802197123808100352,
+        "timestamp":"2024-06-18T11:11:50.077Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Retail Apparel Salespeople's Union, Local 340A",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

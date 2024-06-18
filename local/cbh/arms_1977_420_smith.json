@@ -47,6 +47,8 @@
         "unittitle_ssm":["Bathsheba Smith will"],
         "unitid_ssm":["1977.420"],
         "abstract_ssm":["The last will and testament of Bathsheba Smith of Huntington, Long Island, dated November 9, 1784."],
+        "creator_ssm":["Smith, Bathsheba",
+          "Smith, Bathsheba"],
         "unitdate_normal_ssm":["1784/1784"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Wills"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1784"],
         "unitdate_ssm":["1784"],
         "language_ssm":["English"],
-        "_version_":1799256280199593984,
-        "timestamp":"2024-05-17T00:08:23.059Z"}]
+        "_version_":1801961634900475904,
+        "timestamp":"2024-06-15T20:48:50.354Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Smith, Bathsheba",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

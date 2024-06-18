@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Oscar Shaftel Papers"],
         "unitid_ssm":["TAM.263"],
         "abstract_ssm":["Oscar Shaftel (1912-2000) was a faculty member at Queens College who was fired in 1953 after he refused to answer the New York City Board of Higher Education's questions about Communist affiliations in academia. This collection contains clippings, correspondence, printed ephemera, legal documents and testimonies."],
+        "creator_ssm":["Shaftel, Oscar, 1912-2000",
+          "Shaftel, Oscar, 1912-2000"],
         "unitdate_normal_ssm":["1940/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United States. Federal Bureau of Investigation",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1940s-1990s"],
         "language_ssm":["English"],
-        "_version_":1799782502150176768,
-        "timestamp":"2024-05-22T19:32:27.418Z"}]
+        "_version_":1802171314822184960,
+        "timestamp":"2024-06-18T04:21:36.71Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Shaftel, Oscar, 1912-2000",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

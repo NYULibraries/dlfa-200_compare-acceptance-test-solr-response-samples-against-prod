@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Walter E.D. Robinson papers"],
         "unitid_ssm":["2016.038"],
         "abstract_ssm":["The collection contains two World War I diaries, photographs, a scrapbook, genealogical papers, and other items relating to Walter E.D. Robinson, dating from 1913 to 2016. Robinson was raised in Brooklyn, attended Erasmus Hall High School, served in the U.S. Army during World War I, and was a longtime employee of the U.S. Postal Service."],
+        "creator_ssm":["Robinson, Walter E.D. ",
+          "Robinson, Walter E.",
+          "Robinson, Walter E.D. ",
+          "Robinson, Walter E."],
         "unitdate_normal_ssm":["1913/2016"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Diaries",
@@ -78,8 +82,8 @@
         "unitdate_end_ssm":["2016"],
         "unitdate_ssm":["Inclusive, 1913-2016"],
         "language_ssm":["English"],
-        "_version_":1799311436529270784,
-        "timestamp":"2024-05-17T14:45:04.234Z"}]
+        "_version_":1801958379159027712,
+        "timestamp":"2024-06-15T19:57:05.437Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +91,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Robinson, Walter E.",1,
+        "Robinson, Walter E.D. ",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

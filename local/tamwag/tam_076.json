@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":42,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles S. Zimmerman Papers"],
         "unitid_ssm":["TAM.076"],
         "abstract_ssm":["Charles S. Zimmerman (1896-1983) was a labor leader and political activist who worked in the New York garment industry and served as the secretary-manager of the International Ladies' Garment Workers Union (ILGWU) Local 22 as well as an organizer for the Joint Board of the Dress and Waistmaker Union.  Zimmerman was also a member of the Socialist Party and the Communist Party until 1931. This collection contains congress reports from the Communist-affiliated Red International of Labour Unions (RILU) as well as leaflets and clippings related to Communism and the labor movement."],
+        "creator_ssm":["Zimmerman, Charles S., 1896-1983",
+          "Zimmerman, Charles S., 1896-1983"],
         "unitdate_normal_ssm":["1920/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Communist Party of the United States of America",
@@ -75,8 +77,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, circa 1920s-1930s, undated"],
-        "_version_":1799777166783676416,
-        "timestamp":"2024-05-22T18:07:39.216Z"}]
+        "_version_":1802167469335379968,
+        "timestamp":"2024-06-18T03:20:29.368Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Zimmerman, Charles S., 1896-1983",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

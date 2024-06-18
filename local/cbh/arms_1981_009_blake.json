@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Steven M. Blake business records"],
         "unitid_ssm":["1981.009"],
         "abstract_ssm":["The business records of Steven M. Blake span the period 1831 to 1847 and measure 1.7 linear feet. The records consist of sales journals, ledgers, a daybook, inventories, and invoices documenting his store in New York City. Sales journals show the amount and character of sales. Some books include indexes to names of customers. Steven M. Blake was a New York businessman who lived on Hicks Street in Brooklyn. Though the exact type of store he owned is not specified in the records, based on the types of products sold it appears to have been a dry goods store."],
+        "creator_ssm":["Blake, Steven M.",
+          "Blake, Steven M."],
         "unitdate_normal_ssm":["1831/1847"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Journals (accounts)",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1847"],
         "unitdate_ssm":["Inclusive, 1831-1847"],
         "language_ssm":["English"],
-        "_version_":1799311703847993344,
-        "timestamp":"2024-05-17T14:49:19.169Z"}]
+        "_version_":1801962878896439296,
+        "timestamp":"2024-06-15T21:08:36.721Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Blake, Steven M.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

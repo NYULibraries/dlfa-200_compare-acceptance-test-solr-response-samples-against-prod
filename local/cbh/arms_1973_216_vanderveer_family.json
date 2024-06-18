@@ -47,6 +47,8 @@
         "unittitle_ssm":["Vanderveer family title abstract"],
         "unitid_ssm":["1973.216"],
         "abstract_ssm":["Title abstract, dated 1910 and created by the M. Englehardt Real Estate Co. for parcels of land located at 2543-2551 Bedford Avenue, between Avenue C and Avenue D in Brooklyn, New York.  Typewritten.  The abstract traces ownership of land held by members of the Vanderveer family from 1803 to 1910. It includes a blueprint map of the land parcels and transcripts of the last wills and testaments of several Vanderveer family members."],
+        "creator_ssm":["M.Engelhardt Real Estate Co",
+          "M.Engelhardt Real Estate Co"],
         "unitdate_normal_ssm":["1803/1910"],
         "corpname_ssm":["Brooklyn Historical Society",
           "M.Engelhardt Real Estate Co"],
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, 1803-1910"],
         "language_ssm":["English"],
-        "_version_":1799311430166511616,
-        "timestamp":"2024-05-17T14:44:58.166Z"}]
+        "_version_":1801960081126850560,
+        "timestamp":"2024-06-15T20:24:08.56Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "M.Engelhardt Real Estate Co",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

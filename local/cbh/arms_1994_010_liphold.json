@@ -47,6 +47,8 @@
         "unittitle_ssm":["Liphold family scrapbook"],
         "unitid_ssm":["1994.010"],
         "abstract_ssm":["This accession consists of one scrapbook belonging to the Liphold family dated circa 1920-1940. The scrapbook contains mostly newspaper clippings and programs and invitations to events such as weddings, parties, and charity events. Most items in the scrapbook concern members of the Liphold family of Brooklyn, as well as other families in Brooklyn and Pennsylvania."],
+        "creator_ssm":["Liphold family",
+          "Liphold family"],
         "unitdate_normal_ssm":["1910/1950"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Liphold family",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1950"],
         "unitdate_ssm":["Inclusive, circa 1920 to 1940"],
         "language_ssm":["English"],
-        "_version_":1799256497606098944,
-        "timestamp":"2024-05-17T00:11:50.394Z"}]
+        "_version_":1801963758038286336,
+        "timestamp":"2024-06-15T21:22:35.136Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Liphold family",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

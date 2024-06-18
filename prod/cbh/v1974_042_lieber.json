@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Joseph V. Lieber photographs of Dutch colonial houses in Brooklyn"],
         "unitid_ssm":["V1974.042"],
         "abstract_ssm":["The photographs are of various Dutch colonial houses, located in Brooklyn, and were taken by Joseph V. Lieber. The photos were made in conjunction with a Brooklyn Arts and Cultural Association (renamed Brooklyn Arts Council in 1987) project called the \"Brooklyn Bicentennial Documentation Project.\""],
+        "creator_ssm":["Lieber, Joseph V.",
+          "Lieber, Joseph V."],
         "unitdate_normal_ssm":["1976/1976"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Contact sheets",
@@ -84,8 +86,8 @@
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1976"],
         "language_ssm":["English"],
-        "_version_":1775221113761038336,
-        "timestamp":"2023-08-25T16:59:42.136Z"}]
+        "_version_":1800838897785110528,
+        "timestamp":"2024-06-03T11:23:24.803Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +95,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lieber, Joseph V.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Borough of Brooklyn Commissioner of Public Works report"],
         "unitid_ssm":["1980.004"],
         "abstract_ssm":["The 1903 annual report of the Commissioner of Public Works for the Borough of Brooklyn, William C. Redfield, including reports from the Assistant Commissioner, Bureau of Highways, Bureau of Sewers, Bureau of Public Buildings and Offices, Bureau of Encumberances and Permits, and the General Bookkeeper. The report is enclosed in a single hardbound volume, is typewritten, and includes some photographs."],
+        "creator_ssm":["Redfield, William C.",
+          "New York (N.Y.). Department of Public Works",
+          "New York (N.Y.). Department of Public Works",
+          "Redfield, William C."],
         "unitdate_normal_ssm":["1903/1903"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (N.Y.). Department of Public Works",
@@ -75,8 +79,8 @@
         "unitdate_end_ssm":["1903"],
         "unitdate_ssm":["1903"],
         "language_ssm":["English"],
-        "_version_":1799311437369180160,
-        "timestamp":"2024-05-17T14:45:05.035Z"}]
+        "_version_":1801962776402329600,
+        "timestamp":"2024-06-15T21:06:58.975Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +88,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (N.Y.). Department of Public Works",1,
+        "Redfield, William C.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

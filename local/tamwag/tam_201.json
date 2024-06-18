@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Bernard Goodman Papers"],
         "unitid_ssm":["TAM.201"],
         "abstract_ssm":["Bernard Goodman (1910-2003), was a tenants' rights activist in New York City and a Congressional candidate of the Tenants Party. This collection contains papers related to 206-212 East 17th Street, Goodman's residence, and the successful struggle he waged to retain rent stabilization and to turn the building into a tenant cooperative letters to the editor, papers from the Lower Manhattan East Tenants Association, material on the Tenants Party, the tenants' movement rent strike of 1976, and various other social justice and tenant organizations. The collection also includes material from groups addressing the issue of peace and Vietnam. The collection includes organizational and legal records, clippings, correspondence, printed ephemera, several photographs and a large Tenants Party ballot poster."],
+        "creator_ssm":["Goodman, Bernard, 1910-2003",
+          "Goodman, Bernard, 1910-2003"],
         "unitdate_normal_ssm":["1946/1982"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Tenants Party of New York State",
@@ -87,8 +89,8 @@
         "unitdate_start_ssm":["1946"],
         "unitdate_end_ssm":["1982"],
         "unitdate_ssm":["Inclusive, 1946-1982"],
-        "_version_":1799782281923002368,
-        "timestamp":"2024-05-22T19:28:57.393Z"}]
+        "_version_":1802171132946677760,
+        "timestamp":"2024-06-18T04:18:43.26Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +98,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Goodman, Bernard, 1910-2003",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

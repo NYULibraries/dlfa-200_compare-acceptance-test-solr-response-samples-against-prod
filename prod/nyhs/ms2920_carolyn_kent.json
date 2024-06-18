@@ -47,6 +47,8 @@
         "unittitle_ssm":["Carolyn Cassady Kent papers"],
         "unitid_ssm":["MS 2920"],
         "abstract_ssm":["The collection includes Carolyn Cassady Kent's files, dating from about 1984-2009, concerning her activism in historic preservation in the Morningside Heights neighborhood of New York City. Among the many preservation projects represented in the collection are those concerning the Cathedral Church of St. John the Divine, the neighborhood surrounding Columbia University, the Hamilton Grange, Hamilton Vaudeville Palace (Hamilton Theater), 440 Riverside Drive (Kent's residence), and others."],
+        "creator_ssm":["Kent, Carolyn Cassady, 1935-2009",
+          "Kent, Carolyn Cassady, 1935-2009"],
         "corpname_ssm":["New-York Historical Society",
           "Cathedral of St. John the Divine (New York, N.Y.)",
           "Columbia University",
@@ -75,8 +77,8 @@
           "Photographs."],
         "heading_ssm":["Carolyn Cassady Kent papers"],
         "unitdate_ssm":["Inclusive, 1984-2009"],
-        "_version_":1775217881642958848,
-        "timestamp":"2023-08-25T16:08:19.747Z"},
+        "_version_":1800978575869870080,
+        "timestamp":"2024-06-05T00:23:32.205Z"},
       {
         "id":"ms2920_carolyn_kentaspace_006237bf95414f9d300a455484c09363",
         "ead_ssi":"ms2920_carolyn_kent",
@@ -92,8 +94,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Box 1"],
         "unitdate_ssm":["Inclusive, 1997-2005"],
-        "_version_":1775217881688047616,
-        "timestamp":"2023-08-25T16:08:19.791Z"},
+        "_version_":1800978575884550144,
+        "timestamp":"2024-06-05T00:23:32.219Z"},
       {
         "id":"ms2920_carolyn_kentaspace_00e6ace986aed912b28fc76ddeb822ec",
         "ead_ssi":"ms2920_carolyn_kent",
@@ -109,8 +111,8 @@
         "location_ssm":["Offsite-Box: 9"],
         "heading_ssm":["Box 9"],
         "unitdate_ssm":["Inclusive, 1990s, 2006-2008"],
-        "_version_":1775217881997377536,
-        "timestamp":"2023-08-25T16:08:20.086Z"},
+        "_version_":1800978576008282112,
+        "timestamp":"2024-06-05T00:23:32.337Z"},
       {
         "id":"ms2920_carolyn_kentaspace_19ad95af61c6bac0f705c1664ef3abb9",
         "ead_ssi":"ms2920_carolyn_kent",
@@ -126,8 +128,8 @@
         "location_ssm":["Offsite-Box: 6"],
         "heading_ssm":["Box 6"],
         "unitdate_ssm":["Inclusive, 1991-2009"],
-        "_version_":1775217881888325632,
-        "timestamp":"2023-08-25T16:08:19.982Z"},
+        "_version_":1800978575960047616,
+        "timestamp":"2024-06-05T00:23:32.291Z"},
       {
         "id":"ms2920_carolyn_kentaspace_5043adfc397310ed485dc19356d73dab",
         "ead_ssi":"ms2920_carolyn_kent",
@@ -143,8 +145,8 @@
         "location_ssm":["Offsite-Box: 10"],
         "heading_ssm":["Box 10"],
         "unitdate_ssm":["Inclusive, 1990s-2007"],
-        "_version_":1775217882038272000,
-        "timestamp":"2023-08-25T16:08:20.125Z"},
+        "_version_":1800978576020865024,
+        "timestamp":"2024-06-05T00:23:32.349Z"},
       {
         "id":"ms2920_carolyn_kentaspace_63553575bf718e8feaaeaa67e8645f70",
         "ead_ssi":"ms2920_carolyn_kent",
@@ -160,8 +162,8 @@
         "location_ssm":["Offsite-Box: 8"],
         "heading_ssm":["Box 8"],
         "unitdate_ssm":["Inclusive, 1989-2004"],
-        "_version_":1775217881959628800,
-        "timestamp":"2023-08-25T16:08:20.05Z"},
+        "_version_":1800978575993602048,
+        "timestamp":"2024-06-05T00:23:32.323Z"},
       {
         "id":"ms2920_carolyn_kentaspace_65231e4890bfce0ffc518721c41a9f27",
         "ead_ssi":"ms2920_carolyn_kent",
@@ -177,8 +179,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Box 2"],
         "unitdate_ssm":["Inclusive, 2002-2007"],
-        "_version_":1775217881725796352,
-        "timestamp":"2023-08-25T16:08:19.827Z"},
+        "_version_":1800978575899230208,
+        "timestamp":"2024-06-05T00:23:32.233Z"},
       {
         "id":"ms2920_carolyn_kentaspace_89af7c35b332dbe8301db792117e9157",
         "ead_ssi":"ms2920_carolyn_kent",
@@ -194,8 +196,8 @@
         "location_ssm":["Offsite-Box: 5"],
         "heading_ssm":["Box 5"],
         "unitdate_ssm":["Inclusive, 1990s-2008"],
-        "_version_":1775217881846382592,
-        "timestamp":"2023-08-25T16:08:19.941Z"},
+        "_version_":1800978575945367552,
+        "timestamp":"2024-06-05T00:23:32.277Z"},
       {
         "id":"ms2920_carolyn_kentaspace_9c073afcd1fc75ae35a4eb4b159ce1a6",
         "ead_ssi":"ms2920_carolyn_kent",
@@ -211,8 +213,8 @@
         "location_ssm":["Offsite-Box: 7"],
         "heading_ssm":["Box 7"],
         "unitdate_ssm":["Inclusive, 1984-1990, 2004-2007"],
-        "_version_":1775217881922928640,
-        "timestamp":"2023-08-25T16:08:20.015Z"},
+        "_version_":1800978575981019136,
+        "timestamp":"2024-06-05T00:23:32.311Z"},
       {
         "id":"ms2920_carolyn_kentaspace_b272e28a65dd3b2c78b235694a81cdde",
         "ead_ssi":"ms2920_carolyn_kent",
@@ -228,8 +230,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Box 3"],
         "unitdate_ssm":["Inclusive, 2002-2007"],
-        "_version_":1775217881762496512,
-        "timestamp":"2023-08-25T16:08:19.862Z"},
+        "_version_":1800978575910764544,
+        "timestamp":"2024-06-05T00:23:32.244Z"},
       {
         "id":"ms2920_carolyn_kentaspace_c3ea7897c4dd70347bfbecc05a498456",
         "ead_ssi":"ms2920_carolyn_kent",
@@ -245,8 +247,8 @@
         "location_ssm":["Offsite-Box: 4"],
         "heading_ssm":["Box 4"],
         "unitdate_ssm":["Inclusive, 2006-2009"],
-        "_version_":1775217881800245248,
-        "timestamp":"2023-08-25T16:08:19.898Z"}]
+        "_version_":1800978575926493184,
+        "timestamp":"2024-06-05T00:23:32.259Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -254,7 +256,8 @@
       "repository_sim":[
         "nyhs",11],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kent, Carolyn Cassady, 1935-2009",1],
       "date_range_sim":[
         "undated & other",11],
       "subject_sim":[

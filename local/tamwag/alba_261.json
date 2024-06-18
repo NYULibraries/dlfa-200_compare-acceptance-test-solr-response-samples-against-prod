@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Sidney Rosenblatt Papers"],
         "unitid_ssm":["ALBA.261"],
+        "creator_ssm":["Rosenblatt, Sidney, 1915-1944",
+          "Rosenblatt, Sidney, 1915-1944"],
         "unitdate_normal_ssm":["1937/1937"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Rosenblatt, Sidney, 1915-1944"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["1937"],
         "language_ssm":["English"],
-        "_version_":1799748112207577088,
-        "timestamp":"2024-05-22T10:25:50.613Z"},
+        "_version_":1802111511262396416,
+        "timestamp":"2024-06-17T12:31:03.591Z"},
       {
         "id":"alba_261aspace_39bb84f7cba8a36584a9b18264c04194",
         "ead_ssi":"alba_261",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799748112223305728,
-        "timestamp":"2024-05-22T10:25:50.628Z"}]
+        "_version_":1802111511284416512,
+        "timestamp":"2024-06-17T12:31:03.612Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rosenblatt, Sidney, 1915-1944",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

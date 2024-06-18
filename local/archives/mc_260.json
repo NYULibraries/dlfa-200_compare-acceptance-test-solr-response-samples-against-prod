@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Richard Hull Papers"],
         "unitid_ssm":["MC.260"],
         "abstract_ssm":["Richard W. Hull is a former Professor of History at New York University specializing in African history. Hull received his Ph.D. from Columbia University in 1968, and taught and published widely on subjects including African urbanization, segregation in South Africa, democratization in Africa, and Africa-Chinese relations. This collection consists of materials created and collected by Richard Hull documenting his involvement in academic policy and planning with the New York University Faculty Council and Senate. Materials include correspondence, photographs, membership lists, meeting minutes, memoranda, pamphlets, magazines, and reports from meetings of the Faculty Council. Topics present include student life, academic curriculum programming, proposals for new faculty positions, and the affirmative action committee activities."],
+        "creator_ssm":["Hull, Richard W., 1940-",
+          "Hull, Richard W., 1940-"],
         "unitdate_normal_ssm":["1968/2011"],
         "corpname_ssm":["New York University Archives",
           "New York University -- Administration -- History",
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["Inclusive, 1968-2011"],
-        "_version_":1799255033972260864,
-        "timestamp":"2024-05-16T23:48:34.564Z"},
+        "_version_":1801949484453724160,
+        "timestamp":"2024-06-15T17:35:42.785Z"},
       {
         "id":"mc_260aspace_ref10",
         "ead_ssi":"mc_260",
@@ -87,8 +89,8 @@
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, Fall 1996"],
         "language_ssm":["English"],
-        "_version_":1799255033996378112,
-        "timestamp":"2024-05-16T23:48:34.586Z"},
+        "_version_":1801949484470501376,
+        "timestamp":"2024-06-15T17:35:42.801Z"},
       {
         "id":"mc_260aspace_ref11",
         "ead_ssi":"mc_260",
@@ -108,8 +110,8 @@
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1988 October"],
         "language_ssm":["English"],
-        "_version_":1799255034016301056,
-        "timestamp":"2024-05-16T23:48:34.606Z"},
+        "_version_":1801949484487278592,
+        "timestamp":"2024-06-15T17:35:42.817Z"},
       {
         "id":"mc_260aspace_ref12",
         "ead_ssi":"mc_260",
@@ -129,8 +131,8 @@
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, Fall 1989, Spring 1990"],
         "language_ssm":["English"],
-        "_version_":1799255034033078272,
-        "timestamp":"2024-05-16T23:48:34.622Z"},
+        "_version_":1801949484511395840,
+        "timestamp":"2024-06-15T17:35:42.84Z"},
       {
         "id":"mc_260aspace_ref13",
         "ead_ssi":"mc_260",
@@ -150,8 +152,8 @@
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, Fall 1995"],
         "language_ssm":["English"],
-        "_version_":1799255034057195520,
-        "timestamp":"2024-05-16T23:48:34.645Z"},
+        "_version_":1801949484528173056,
+        "timestamp":"2024-06-15T17:35:42.856Z"},
       {
         "id":"mc_260aspace_ref14",
         "ead_ssi":"mc_260",
@@ -171,8 +173,8 @@
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1981-1986"],
         "language_ssm":["English"],
-        "_version_":1799255034076069888,
-        "timestamp":"2024-05-16T23:48:34.663Z"},
+        "_version_":1801949484543901696,
+        "timestamp":"2024-06-15T17:35:42.871Z"},
       {
         "id":"mc_260aspace_ref15",
         "ead_ssi":"mc_260",
@@ -192,8 +194,8 @@
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, Fall 1996"],
         "language_ssm":["English"],
-        "_version_":1799255034094944256,
-        "timestamp":"2024-05-16T23:48:34.681Z"},
+        "_version_":1801949484557533184,
+        "timestamp":"2024-06-15T17:35:42.884Z"},
       {
         "id":"mc_260aspace_ref16",
         "ead_ssi":"mc_260",
@@ -213,8 +215,8 @@
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, Spring 1996"],
         "language_ssm":["English"],
-        "_version_":1799255034113818624,
-        "timestamp":"2024-05-16T23:48:34.699Z"},
+        "_version_":1801949484573261824,
+        "timestamp":"2024-06-15T17:35:42.899Z"},
       {
         "id":"mc_260aspace_ref17",
         "ead_ssi":"mc_260",
@@ -234,8 +236,8 @@
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, Fall 1987, Spring 1988"],
         "language_ssm":["English"],
-        "_version_":1799255034129547264,
-        "timestamp":"2024-05-16T23:48:34.714Z"},
+        "_version_":1801949484588990464,
+        "timestamp":"2024-06-15T17:35:42.914Z"},
       {
         "id":"mc_260aspace_ref18",
         "ead_ssi":"mc_260",
@@ -255,8 +257,8 @@
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1995 December"],
         "language_ssm":["English"],
-        "_version_":1799255034146324480,
-        "timestamp":"2024-05-16T23:48:34.73Z"},
+        "_version_":1801949484605767680,
+        "timestamp":"2024-06-15T17:35:42.93Z"},
       {
         "id":"mc_260aspace_ref19",
         "ead_ssi":"mc_260",
@@ -276,8 +278,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, Spring 1989"],
         "language_ssm":["English"],
-        "_version_":1799255034163101696,
-        "timestamp":"2024-05-16T23:48:34.746Z"},
+        "_version_":1801949484622544896,
+        "timestamp":"2024-06-15T17:35:42.946Z"},
       {
         "id":"mc_260aspace_ref20",
         "ead_ssi":"mc_260",
@@ -297,8 +299,8 @@
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1975-1976"],
         "language_ssm":["English"],
-        "_version_":1799255034179878912,
-        "timestamp":"2024-05-16T23:48:34.762Z"},
+        "_version_":1801949484641419264,
+        "timestamp":"2024-06-15T17:35:42.964Z"},
       {
         "id":"mc_260aspace_ref21",
         "ead_ssi":"mc_260",
@@ -318,8 +320,8 @@
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1975"],
         "language_ssm":["English"],
-        "_version_":1799255034199801856,
-        "timestamp":"2024-05-16T23:48:34.781Z"},
+        "_version_":1801949484663439360,
+        "timestamp":"2024-06-15T17:35:42.985Z"},
       {
         "id":"mc_260aspace_ref22",
         "ead_ssi":"mc_260",
@@ -339,8 +341,8 @@
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["Inclusive, 2010-2011"],
         "language_ssm":["English"],
-        "_version_":1799255034216579072,
-        "timestamp":"2024-05-16T23:48:34.797Z"},
+        "_version_":1801949484678119424,
+        "timestamp":"2024-06-15T17:35:42.999Z"},
       {
         "id":"mc_260aspace_ref23",
         "ead_ssi":"mc_260",
@@ -360,8 +362,8 @@
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1987-1988"],
         "language_ssm":["English"],
-        "_version_":1799255034233356288,
-        "timestamp":"2024-05-16T23:48:34.813Z"},
+        "_version_":1801949484693848064,
+        "timestamp":"2024-06-15T17:35:43.014Z"},
       {
         "id":"mc_260aspace_ref24",
         "ead_ssi":"mc_260",
@@ -381,8 +383,8 @@
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1982-1988"],
         "language_ssm":["English"],
-        "_version_":1799255034249084928,
-        "timestamp":"2024-05-16T23:48:34.828Z"},
+        "_version_":1801949484711673856,
+        "timestamp":"2024-06-15T17:35:43.031Z"},
       {
         "id":"mc_260aspace_ref25",
         "ead_ssi":"mc_260",
@@ -402,8 +404,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, Spring 1989"],
         "language_ssm":["English"],
-        "_version_":1799255034266910720,
-        "timestamp":"2024-05-16T23:48:34.845Z"},
+        "_version_":1801949484729499648,
+        "timestamp":"2024-06-15T17:35:43.048Z"},
       {
         "id":"mc_260aspace_ref26",
         "ead_ssi":"mc_260",
@@ -423,8 +425,8 @@
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, Spring 1997"],
         "language_ssm":["English"],
-        "_version_":1799255034283687936,
-        "timestamp":"2024-05-16T23:48:34.861Z"},
+        "_version_":1801949484748374016,
+        "timestamp":"2024-06-15T17:35:43.066Z"},
       {
         "id":"mc_260aspace_ref27",
         "ead_ssi":"mc_260",
@@ -444,8 +446,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, Autumn 1979"],
         "language_ssm":["English"],
-        "_version_":1799255034301513728,
-        "timestamp":"2024-05-16T23:48:34.878Z"},
+        "_version_":1801949484770394112,
+        "timestamp":"2024-06-15T17:35:43.086Z"},
       {
         "id":"mc_260aspace_ref28",
         "ead_ssi":"mc_260",
@@ -465,8 +467,8 @@
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, Fall 1996"],
         "language_ssm":["English"],
-        "_version_":1799255034323533824,
-        "timestamp":"2024-05-16T23:48:34.899Z"},
+        "_version_":1801949484787171328,
+        "timestamp":"2024-06-15T17:35:43.103Z"},
       {
         "id":"mc_260aspace_ref29",
         "ead_ssi":"mc_260",
@@ -486,8 +488,8 @@
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, 1995-2006"],
         "language_ssm":["English"],
-        "_version_":1799255034343456768,
-        "timestamp":"2024-05-16T23:48:34.918Z"},
+        "_version_":1801949484804997120,
+        "timestamp":"2024-06-15T17:35:43.12Z"},
       {
         "id":"mc_260aspace_ref30",
         "ead_ssi":"mc_260",
@@ -507,8 +509,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, Spring 1989"],
         "language_ssm":["English"],
-        "_version_":1799255034367574016,
-        "timestamp":"2024-05-16T23:48:34.94Z"},
+        "_version_":1801949484821774336,
+        "timestamp":"2024-06-15T17:35:43.135Z"},
       {
         "id":"mc_260aspace_ref31",
         "ead_ssi":"mc_260",
@@ -528,8 +530,8 @@
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1980"],
         "language_ssm":["English"],
-        "_version_":1799255034386448384,
-        "timestamp":"2024-05-16T23:48:34.959Z"},
+        "_version_":1801949484838551552,
+        "timestamp":"2024-06-15T17:35:43.152Z"},
       {
         "id":"mc_260aspace_ref32",
         "ead_ssi":"mc_260",
@@ -549,8 +551,8 @@
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, Fall 1997"],
         "language_ssm":["English"],
-        "_version_":1799255034412662784,
-        "timestamp":"2024-05-16T23:48:34.984Z"},
+        "_version_":1801949484855328768,
+        "timestamp":"2024-06-15T17:35:43.168Z"},
       {
         "id":"mc_260aspace_ref33",
         "ead_ssi":"mc_260",
@@ -570,8 +572,8 @@
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, circa 1970-1990 "],
         "language_ssm":["English"],
-        "_version_":1799255034440974336,
-        "timestamp":"2024-05-16T23:48:35.011Z"},
+        "_version_":1801949484871057408,
+        "timestamp":"2024-06-15T17:35:43.183Z"},
       {
         "id":"mc_260aspace_ref34",
         "ead_ssi":"mc_260",
@@ -591,8 +593,8 @@
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, 1970"],
         "language_ssm":["English"],
-        "_version_":1799255034470334464,
-        "timestamp":"2024-05-16T23:48:35.039Z"},
+        "_version_":1801949484890980352,
+        "timestamp":"2024-06-15T17:35:43.202Z"},
       {
         "id":"mc_260aspace_ref35",
         "ead_ssi":"mc_260",
@@ -612,8 +614,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, Fall 1988, Spring 1989"],
         "language_ssm":["English"],
-        "_version_":1799255034493403136,
-        "timestamp":"2024-05-16T23:48:35.06Z"},
+        "_version_":1801949484908806144,
+        "timestamp":"2024-06-15T17:35:43.219Z"},
       {
         "id":"mc_260aspace_ref36",
         "ead_ssi":"mc_260",
@@ -633,8 +635,8 @@
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, Fall 1989, Spring 1990"],
         "language_ssm":["English"],
-        "_version_":1799255034522763264,
-        "timestamp":"2024-05-16T23:48:35.089Z"},
+        "_version_":1801949484924534784,
+        "timestamp":"2024-06-15T17:35:43.234Z"},
       {
         "id":"mc_260aspace_ref37",
         "ead_ssi":"mc_260",
@@ -654,8 +656,8 @@
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, Fall 1988"],
         "language_ssm":["English"],
-        "_version_":1799255034540589056,
-        "timestamp":"2024-05-16T23:48:35.106Z"},
+        "_version_":1801949484941312000,
+        "timestamp":"2024-06-15T17:35:43.25Z"},
       {
         "id":"mc_260aspace_ref39",
         "ead_ssi":"mc_260",
@@ -675,8 +677,8 @@
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1968"],
         "language_ssm":["English"],
-        "_version_":1799255034557366272,
-        "timestamp":"2024-05-16T23:48:35.121Z"},
+        "_version_":1801949485010518016,
+        "timestamp":"2024-06-15T17:35:43.316Z"},
       {
         "id":"mc_260aspace_ref40",
         "ead_ssi":"mc_260",
@@ -696,8 +698,8 @@
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1983"],
         "language_ssm":["English"],
-        "_version_":1799255034576240640,
-        "timestamp":"2024-05-16T23:48:35.14Z"}]
+        "_version_":1801949485028343808,
+        "timestamp":"2024-06-15T17:35:43.333Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -705,7 +707,8 @@
       "repository_sim":[
         "archives",31],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hull, Richard W., 1940-",1],
       "date_range_sim":[
         "1901-2000",30,
         "2001-2100",3],

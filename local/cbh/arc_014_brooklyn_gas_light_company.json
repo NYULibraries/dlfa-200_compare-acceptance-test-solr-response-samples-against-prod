@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":21,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Gas Light Company records"],
         "unitid_ssm":["ARC.014"],
         "abstract_ssm":["The Brooklyn Gas Light Company records span the years 1825 to 1839 and contain orders for stock in the Brooklyn Gas Light Company, signed by such prominent Brooklynites as David Leavitt, Edward Macomber, Ebener Macomber, John Radcliff, G.C. Congdon, John B. Graham, Alfred Suydam, W.R. Dean, Leffert Lefferts, Azor S. Marvin, C.A. Graham, I.A. Smith, Joseph Sprague, and Jehiel Juggar. Also included is a scrapbook of autographs taken from the Brooklyn Gas Light Company's list of original subscribers with an index to the names."],
+        "creator_ssm":["Brooklyn Gas Light Company",
+          "Brooklyn Gas Light Company"],
         "unitdate_normal_ssm":["1825/1839"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Gas Light Company",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1839"],
         "unitdate_ssm":["Inclusive, 1825-1839"],
         "language_ssm":["English"],
-        "_version_":1799309977892945920,
-        "timestamp":"2024-05-17T14:21:53.17Z"}]
+        "_version_":1801958660395499520,
+        "timestamp":"2024-06-15T20:01:33.645Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Gas Light Company",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

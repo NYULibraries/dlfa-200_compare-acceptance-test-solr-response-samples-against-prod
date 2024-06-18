@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn, New York balance sheet"],
         "unitid_ssm":["1977.443"],
         "abstract_ssm":["An 1842 balance sheet signed by accountant J.H. Paterson listing streets and other projects in Brooklyn and their monetary values or real estate values, debits, and credits."],
+        "creator_ssm":["Paterson, J. H.",
+          "Paterson, J. H."],
         "unitdate_normal_ssm":["1842/1842"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Balance sheets"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1842"],
         "unitdate_ssm":["1842"],
         "language_ssm":["English"],
-        "_version_":1799311422644027392,
-        "timestamp":"2024-05-17T14:44:50.992Z"}]
+        "_version_":1801961683707494400,
+        "timestamp":"2024-06-15T20:49:36.9Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Paterson, J. H.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

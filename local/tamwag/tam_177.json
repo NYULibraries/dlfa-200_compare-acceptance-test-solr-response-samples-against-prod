@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Chalmers K. Stewart Papers"],
         "unitid_ssm":["TAM.177"],
         "abstract_ssm":["Chalmers K. Stewart was an active member of the Workers Party and Independent Socialist Leauge in the 1940s and 1950s.  This collection contains an autobiographical typescript, internal documents of the Workers Party and Independent Socialist League, correspondence, writings, research notes, and photographs."],
+        "creator_ssm":["Stewart, Chalmers K., 1910-1995",
+          "Stewart, Chalmers K., 1910-1995"],
         "unitdate_normal_ssm":["1928/1995",
           "1942/1958"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -84,8 +86,8 @@
         "unitdate_end_ssm":["1995",
           "1958"],
         "unitdate_ssm":["Inclusive, circa 1928-1995 ; 1942-1958"],
-        "_version_":1799781234066325504,
-        "timestamp":"2024-05-22T19:12:18.079Z"},
+        "_version_":1802170403778461696,
+        "timestamp":"2024-06-18T04:07:07.871Z"},
       {
         "id":"tam_177aspace_ref4",
         "ead_ssi":"tam_177",
@@ -106,8 +108,8 @@
         "unitdate_start_ssm":["1985"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, circa 1985-1995"],
-        "_version_":1799781234081005568,
-        "timestamp":"2024-05-22T19:12:18.093Z"},
+        "_version_":1802170403787898880,
+        "timestamp":"2024-06-18T04:07:07.88Z"},
       {
         "id":"tam_177aspace_ref5",
         "ead_ssi":"tam_177",
@@ -134,8 +136,8 @@
         "unitdate_start_ssm":["1942"],
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["Inclusive, 1942-1958"],
-        "_version_":1799781234100928512,
-        "timestamp":"2024-05-22T19:12:18.112Z"},
+        "_version_":1802170403803627520,
+        "timestamp":"2024-06-18T04:07:07.895Z"},
       {
         "id":"tam_177aspace_ref6",
         "ead_ssi":"tam_177",
@@ -154,8 +156,8 @@
         "unitdate_start_ssm":["1959"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, circa 1959-1995"],
-        "_version_":1799781234113511424,
-        "timestamp":"2024-05-22T19:12:18.124Z"},
+        "_version_":1802170403810967552,
+        "timestamp":"2024-06-18T04:07:07.902Z"},
       {
         "id":"tam_177aspace_ref7",
         "ead_ssi":"tam_177",
@@ -177,8 +179,8 @@
         "unitdate_start_ssm":["1928"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, circa 1928-1995"],
-        "_version_":1799781234128191488,
-        "timestamp":"2024-05-22T19:12:18.138Z"}]
+        "_version_":1802170403819356160,
+        "timestamp":"2024-06-18T04:07:07.909Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -186,7 +188,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stewart, Chalmers K., 1910-1995",1],
       "date_range_sim":[
         "1901-2000",5],
       "subject_sim":[

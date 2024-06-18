@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":17,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Robert Ewing Anthony, Jr. notebook"],
         "unitid_ssm":["MC.75"],
         "abstract_ssm":["Robert Ewing Anthony, Jr. graduated from the University of the City of New-York (later New York University) in 1883. The collection comprises his student notebook, dated January 1883."],
+        "creator_ssm":["Anthony, Robert Ewing, Jr.",
+          "Anthony, Robert Ewing, Jr."],
         "unitdate_normal_ssm":["1883-01/1883-01"],
         "corpname_ssm":["New York University Archives",
           "New York University -- Students"],
@@ -62,8 +64,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Robert Ewing Anthony, Jr. notebook"],
         "unitdate_ssm":["January 1883"],
-        "_version_":1799248522145431552,
-        "timestamp":"2024-05-16T22:05:04.402Z"},
+        "_version_":1801950598956843008,
+        "timestamp":"2024-06-15T17:53:25.657Z"},
       {
         "id":"mc_75aspace_ref3",
         "ead_ssi":"mc_75",
@@ -77,13 +79,12 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Student Notebook"],
         "unitdate_ssm":["January 1883"],
         "language_ssm":["English"],
-        "_version_":1799248522165354496,
-        "timestamp":"2024-05-16T22:05:04.421Z"}]
+        "_version_":1801950598983057408,
+        "timestamp":"2024-06-15T17:53:25.683Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +92,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Anthony, Robert Ewing, Jr.",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

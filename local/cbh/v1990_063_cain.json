@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Doris R. Cain collection of Brooklyn waterfront improvement photographs"],
         "unitid_ssm":["V1990.063"],
         "abstract_ssm":["The collection includes aerial photographs or copy prints of renderings showing the proposed improvement program area and the piers along the Brooklyn waterfront. The aerial views include the Brooklyn and Manhattan waterfronts, views of the East River, and views of New York Harbor. Some of the renderings show the proposed piers."],
+        "creator_ssm":["Port Authority of New York and New Jersey",
+          "Port Authority of New York and New Jersey"],
         "unitdate_normal_ssm":["1950/1959"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Port Authority of New York and New Jersey"],
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1950s"],
         "language_ssm":["English"],
-        "_version_":1799311444206944256,
-        "timestamp":"2024-05-17T14:45:11.556Z"}]
+        "_version_":1802045405409574912,
+        "timestamp":"2024-06-16T19:00:20.136Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Port Authority of New York and New Jersey",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

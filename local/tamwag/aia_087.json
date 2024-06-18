@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lena Kelly Collection on the Bronx Gaelic League"],
         "unitid_ssm":["AIA.087"],
         "abstract_ssm":["Lena Kelly (née McGann) is a member and former treasurer of the Bronx Gaelic League. The Lena Kelly Collection on the Bronx Gaelic League consists of materials collected by Kelly documenting her involvement with the Bronx Gaelic League from approximately 1960-1990. Materials include event programs, correspondence, newsletters, photographs, and ephemera for events like feiseanna and anniversary dinners."],
+        "creator_ssm":["Kelly, Lena",
+          "Kelly, Lena"],
         "unitdate_normal_ssm":["1960/1990"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Bronx Gaelic League, Inc."],
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1960-1990"],
-        "_version_":1799747626534436864,
-        "timestamp":"2024-05-22T10:18:07.438Z"},
+        "_version_":1802110355202113536,
+        "timestamp":"2024-06-17T12:12:41.086Z"},
       {
         "id":"aia_087aspace_0c7783af74e01b1afac1be13c656c379",
         "ead_ssi":"aia_087",
@@ -83,14 +85,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Correspondence and Newsletters"],
         "unitdate_start_ssm":["1961"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1961-1973"],
-        "_version_":1799747626548068352,
-        "timestamp":"2024-05-22T10:18:07.452Z"},
+        "_version_":1802110355226230784,
+        "timestamp":"2024-06-17T12:12:41.109Z"},
       {
         "id":"aia_087aspace_1a38765a0c4b75a47ca2b2533e9e7b34",
         "ead_ssi":"aia_087",
@@ -105,14 +106,13 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2",
           "Box: Shared Tamiment 069, Folder: 2"],
         "heading_ssm":["Photographs"],
         "unitdate_start_ssm":["1961"],
         "unitdate_end_ssm":["1964"],
         "unitdate_ssm":["Inclusive, 1961-1964"],
-        "_version_":1799747626562748416,
-        "timestamp":"2024-05-22T10:18:07.466Z"},
+        "_version_":1802110355247202304,
+        "timestamp":"2024-06-17T12:12:41.129Z"},
       {
         "id":"aia_087aspace_6207e7a72ef62236f80233242d65f095",
         "ead_ssi":"aia_087",
@@ -127,14 +127,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Dinner Ceilis"],
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1960-1990"],
-        "_version_":1799747626580574208,
-        "timestamp":"2024-05-22T10:18:07.483Z"}]
+        "_version_":1802110355274465280,
+        "timestamp":"2024-06-17T12:12:41.155Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -142,7 +141,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kelly, Lena",1],
       "date_range_sim":[
         "1901-2000",4],
       "subject_sim":[

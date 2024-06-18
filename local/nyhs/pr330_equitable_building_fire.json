@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -60,8 +60,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Equitable Building Fire photograph collection"],
         "unitdate_ssm":["Inclusive, 1912"],
-        "_version_":1799316308480753664,
-        "timestamp":"2024-05-17T16:02:30.488Z"},
+        "_version_":1802094207123324928,
+        "timestamp":"2024-06-17T07:56:01.078Z"},
       {
         "id":"pr330_equitable_building_fireaspace_ref9_0kn",
         "ead_ssi":"pr330_equitable_building_fire",
@@ -74,12 +74,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-4",
-          "Folder: 1-4"],
+        "location_ssm":["Box: 1, Folder: 1-4"],
         "heading_ssm":["8 albumen photographs of the aftermath of the Equitable Building fire"],
         "unitdate_ssm":["1912"],
-        "_version_":1799316308539473920,
-        "timestamp":"2024-05-17T16:02:30.545Z"}]
+        "_version_":1802094207146393600,
+        "timestamp":"2024-06-17T07:56:01.1Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Land indenture between James J. Stoutenburgh and Abraham Stoutenburgh and Peter Stoutenburgh"],
         "unitid_ssm":["AHMC - Stoutenburgh, James J."],
         "abstract_ssm":["One indenture by which James J. Stoutenburgh of Coxsackie, New York, conveyed 75 acres of land \"in the Miner Kill\" (likely in the Catskills region) to Captain Abraham Stoutenburgh and Peter Stoutenburgh, Jr., of Clinton, New York, for 600 pounds. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Land indenture between James J. Stoutenburgh and Abraham Stoutenburgh and Peter Stoutenburgh"],
+        "creator_ssm":["Stoutenburgh, James J., active 1798",
+          "Stoutenburgh, James J., active 1798"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Stoutenburgh, James J., active 1798"],
         "collection_ssm":["Land indenture between James J. Stoutenburgh and Abraham Stoutenburgh and Peter Stoutenburgh"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Land indenture between James J. Stoutenburgh and Abraham Stoutenburgh and Peter Stoutenburgh"],
         "unitdate_ssm":["1798"],
-        "_version_":1799330349907443712,
-        "timestamp":"2024-05-17T19:45:41.437Z"}]
+        "_version_":1802083841098121216,
+        "timestamp":"2024-06-17T05:11:15.266Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stoutenburgh, James J., active 1798",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

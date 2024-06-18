@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Kings County Almshouse questionnaire"],
         "unitid_ssm":["1978.020"],
         "abstract_ssm":["This collection consists of a questionnaire answered by Kings County Almshouse officials with statistics on the institution for the year 1864."],
+        "creator_ssm":["Kings County Almshouse",
+          "Kings County Almshouse"],
         "unitdate_normal_ssm":["1865/1865"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Kings County Almshouse"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["1865"],
         "language_ssm":["English"],
-        "_version_":1799256289790918656,
-        "timestamp":"2024-05-17T00:08:32.206Z"}]
+        "_version_":1801962251683364864,
+        "timestamp":"2024-06-15T20:58:38.564Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kings County Almshouse",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

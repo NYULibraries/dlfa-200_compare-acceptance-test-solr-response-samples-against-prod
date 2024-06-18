@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":17,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Gene T. Condrill papers"],
         "unitid_ssm":["ARC.022"],
         "abstract_ssm":["This collection, with materials dated 1940 to 1965, consists of certificates, office memos, personnel documents, printed materials, and photographs relating to Gene T. Condrill's employment at the New York Naval Shipyard in Brooklyn, N.Y."],
+        "creator_ssm":["Condrill, Gene",
+          "Condrill, Gene"],
         "unitdate_normal_ssm":["1940/1965"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Naval Shipyard"],
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1940-1965"],
         "language_ssm":["English"],
-        "_version_":1799309973851734016,
-        "timestamp":"2024-05-17T14:21:49.316Z"}]
+        "_version_":1801958695276380160,
+        "timestamp":"2024-06-15T20:02:06.909Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Condrill, Gene",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

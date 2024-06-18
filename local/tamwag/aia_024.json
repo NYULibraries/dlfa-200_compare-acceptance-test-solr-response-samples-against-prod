@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John McLaughlin 1981 Irish Hunger Strike Ephemera Collection"],
         "unitid_ssm":["AIA.024"],
         "abstract_ssm":["The collection, collected by John McLaughlin, consists of articles, newspaper clippings and posters related to the Irish Hunger Strikes and other Irish Republicanism activities. Both the American and Irish press are represented."],
+        "creator_ssm":["McLaughlin, John",
+          "McLaughlin, John"],
         "unitdate_normal_ssm":["1977/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Irish Northern Aid Committee",
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1977-1989"],
-        "_version_":1799746343494746112,
-        "timestamp":"2024-05-22T09:57:43.837Z"},
+        "_version_":1802108414288986112,
+        "timestamp":"2024-06-17T11:41:50.087Z"},
       {
         "id":"aia_024aspace_ref2",
         "ead_ssi":"aia_024",
@@ -85,14 +87,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment AIAOS001, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment AIAOS001, Folder: 1"],
         "heading_ssm":["Posters: Hunger Strikers at Long Kesh Prison; Irish Awareness in America March, Washington DC"],
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1981"],
         "unitdate_ssm":["Inclusive, 1981"],
-        "_version_":1799746343525154816,
-        "timestamp":"2024-05-22T09:57:43.866Z"},
+        "_version_":1802108414330929152,
+        "timestamp":"2024-06-17T11:41:50.127Z"},
       {
         "id":"aia_024aspace_ref23",
         "ead_ssi":"aia_024",
@@ -111,8 +112,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1981"],
         "unitdate_ssm":["Inclusive, 1981"],
-        "_version_":1799746343544029184,
-        "timestamp":"2024-05-22T09:57:43.884Z"},
+        "_version_":1802108414361337856,
+        "timestamp":"2024-06-17T11:41:50.156Z"},
       {
         "id":"aia_024aspace_ref3",
         "ead_ssi":"aia_024",
@@ -131,8 +132,8 @@
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1977-1989"],
-        "_version_":1799746343508377600,
-        "timestamp":"2024-05-22T09:57:43.85Z"}]
+        "_version_":1802108414312054784,
+        "timestamp":"2024-06-17T11:41:50.109Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -140,7 +141,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "McLaughlin, John",1],
       "date_range_sim":[
         "1901-2000",4],
       "subject_sim":[

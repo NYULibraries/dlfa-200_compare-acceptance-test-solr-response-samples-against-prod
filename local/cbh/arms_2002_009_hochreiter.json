@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":19,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jeanne Hochreiter collection"],
         "unitid_ssm":["2002.009"],
         "abstract_ssm":["This collection includes documents related to the title history of a property in the Bushwick neighborhood of Brooklyn on a block between Bushwick and Evergreen Avenues and Hancock Street and Jefferson Avenue.  Also included are a program of the Bushwick Avenue Baptist Church mentioning the sale of the church, a program for a production of the play Cinderella, and a copy photograph of the Junior Choir of the Bushwick Avenue Methodist Episcopal Church."],
+        "creator_ssm":["Hochreiter, Jeanne",
+          "Hochreiter, Jeanne"],
         "unitdate_normal_ssm":["1877/2002"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographs",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1877-2002"],
         "language_ssm":["English"],
-        "_version_":1799311419848523776,
-        "timestamp":"2024-05-17T14:44:48.326Z"}]
+        "_version_":1801963869095067648,
+        "timestamp":"2024-06-15T21:24:21.048Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hochreiter, Jeanne",1],
       "date_range_sim":[
         "1801-1900",1,
         "2001-2100",1],

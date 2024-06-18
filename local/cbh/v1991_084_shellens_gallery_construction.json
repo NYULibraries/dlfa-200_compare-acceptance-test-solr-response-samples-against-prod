@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Shellens Gallery construction photographs"],
         "unitid_ssm":["V1991.084"],
         "abstract_ssm":["Taken in March of 1988 by Arthur Vitols, the photographs show interior views of workers, scaffolding, and portions of the gallery under construction. There is also one photograph of exhibit builder and furniture maker Ethan Intrater at his shop standing next to a model of the Brooklyn Bridge."],
+        "creator_ssm":["Vitols, Arthur",
+          "Vitols, Arthur"],
         "unitdate_normal_ssm":["1988/1988"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Historical Society (Brooklyn, New York, N.Y.)"],
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1988"],
         "language_ssm":["English"],
-        "_version_":1799311561924280320,
-        "timestamp":"2024-05-17T14:47:03.82Z"}]
+        "_version_":1802045511677509632,
+        "timestamp":"2024-06-16T19:02:01.482Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Vitols, Arthur",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

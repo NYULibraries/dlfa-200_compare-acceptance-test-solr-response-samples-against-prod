@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lea Lerner Camp Wo-Chi-Ca Graphics and Photographs"],
         "unitid_ssm":["GRAPHICS.016"],
         "abstract_ssm":["Lea Lerner was a music teacher at Camp Wo-Chi-Ca for several years after World War II. Camp Wo-Chi-Ca (which stood for Workers Children's Camp) was a children's summer camp in New Jersey. The camp, which was founded in 1934 and ran through the early 1950s, was mainly organized by the International Workers Order (I.W.O.) and was affiliated with the Communist Party, USA. The collection contains a variety of graphic and photographic materials, most of which relate to Camp Wo-Chi-Ca."],
+        "creator_ssm":["Camp Wo-Chi-Ca (N.J.)",
+          "Camp Wo-Chi-Ca (N.J.)"],
         "unitdate_normal_ssm":["1940/1950"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Camp Wo-Chi-Ca (N.J.)",
@@ -71,8 +73,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1950"],
         "unitdate_ssm":["Inclusive, circa 1940-1950, undated"],
-        "_version_":1799748561965940736,
-        "timestamp":"2024-05-22T10:32:59.536Z"},
+        "_version_":1802112729999212544,
+        "timestamp":"2024-06-17T12:50:25.869Z"},
       {
         "id":"graphics_016aspace_f7bb8d7f27c13b822080641d89d336ec",
         "ead_ssi":"graphics_016",
@@ -85,11 +87,10 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment OS004, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment OS004, Folder: 1"],
         "heading_ssm":["Unprocessed materials"],
-        "_version_":1799748561982717952,
-        "timestamp":"2024-05-22T10:32:59.552Z"}]
+        "_version_":1802112730018086912,
+        "timestamp":"2024-06-17T12:50:25.887Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,7 +98,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Camp Wo-Chi-Ca (N.J.)",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

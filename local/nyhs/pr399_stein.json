@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -65,8 +65,8 @@
         "heading_ssm":["Harry Stein photographs"],
         "unitdate_ssm":["Inclusive, 1919-1922"],
         "language_ssm":["English"],
-        "_version_":1799316038721994752,
-        "timestamp":"2024-05-17T15:58:13.227Z"},
+        "_version_":1802094576209494016,
+        "timestamp":"2024-06-17T08:01:53.066Z"},
       {
         "id":"pr399_steinaspace_5b1502d8e69ab844b3a9a9fcd692d465",
         "ead_ssi":"pr399_stein",
@@ -82,8 +82,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Volume 1"],
         "unitdate_ssm":["Inclusive, 1919-1922"],
-        "_version_":1799316038782812160,
-        "timestamp":"2024-05-17T15:58:13.285Z"},
+        "_version_":1802094576240951296,
+        "timestamp":"2024-06-17T08:01:53.095Z"},
       {
         "id":"pr399_steinaspace_f8fd10b181339245d6cef5912f556ff9",
         "ead_ssi":"pr399_stein",
@@ -99,8 +99,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Volume 2"],
         "unitdate_ssm":["Inclusive, 1919-1922"],
-        "_version_":1799316038843629568,
-        "timestamp":"2024-05-17T15:58:13.342Z"}]
+        "_version_":1802094576262971392,
+        "timestamp":"2024-06-17T08:01:53.117Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

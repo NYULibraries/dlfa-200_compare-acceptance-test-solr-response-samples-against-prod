@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Melissa Spore Postcard and Photograph Collection"],
         "unitid_ssm":["MSS.487"],
         "abstract_ssm":["Educator and writer Melissa Spore (1948-2015) moved to Canada from the United States in the 1980s, and taught instructional design and co-authored the book, The Designer's Guide to Presenting Numbers, Figures, and Charts in 2013. The bulk of the collection is approximately 400 printed postcards, collected between 1970 and 2015, covering a range of topics, especially politically left-leaning ideology, but also includes reproductions of artworks and travel destinations. The collection also includes a group of collectible \"Doom of Youth\"-themed cards designed by John Stalin from the early 1980s. Original photographs most likely taken by Spore's former husband, Ken Brown, during the 1970s and 1980s are also in this collection. Photographic subjects include musician portraits, city street scenes, and political protests in New York and Toronto."],
+        "creator_ssm":["Spore, Melissa",
+          "Spore, Melissa"],
         "unitdate_normal_ssm":["1917/2015"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Picture postcards.",
@@ -72,8 +74,8 @@
         "unitdate_start_ssm":["1917"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 1917, 1970-2015"],
-        "_version_":1799741328114843648,
-        "timestamp":"2024-05-22T08:38:00.798Z"},
+        "_version_":1802073625094782976,
+        "timestamp":"2024-06-17T02:28:52.526Z"},
       {
         "id":"mss_487aspace_329835523934c407af8b4e5edeead987",
         "ead_ssi":"mss_487",
@@ -88,15 +90,14 @@
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1",
-          "Box: 2, Folder: 1-2",
-          "Folder: 1-2"],
+          "Box: 2, Folder: 1-2"],
         "heading_ssm":["Postcards"],
         "unitdate_start_ssm":["1917"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 1917, 1970-2015"],
         "language_ssm":["English"],
-        "_version_":1799741328129523712,
-        "timestamp":"2024-05-22T08:38:00.812Z"},
+        "_version_":1802073625117851648,
+        "timestamp":"2024-06-17T02:28:52.548Z"},
       {
         "id":"mss_487aspace_8c1414ac1f629191474b46500e82439d",
         "ead_ssi":"mss_487",
@@ -110,15 +111,14 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 2, Folder: 4"],
         "heading_ssm":["Photographs Likely Taken by Ken Brown"],
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1970s-1980s"],
         "language_ssm":["English"],
-        "_version_":1799741328159932416,
-        "timestamp":"2024-05-22T08:38:00.841Z"},
+        "_version_":1802073625181814784,
+        "timestamp":"2024-06-17T02:28:52.609Z"},
       {
         "id":"mss_487aspace_ee248ed3b9771de5806c2c7ccff7b77f",
         "ead_ssi":"mss_487",
@@ -132,15 +132,14 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 2, Folder: 3"],
         "heading_ssm":["John Stalin-Designed Postcards: Doom of Youth"],
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1980-1985"],
         "language_ssm":["English"],
-        "_version_":1799741328143155200,
-        "timestamp":"2024-05-22T08:38:00.825Z"}]
+        "_version_":1802073625145114624,
+        "timestamp":"2024-06-17T02:28:52.574Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -148,7 +147,8 @@
       "repository_sim":[
         "fales",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Spore, Melissa",1],
       "date_range_sim":[
         "1901-2000",4,
         "2001-2100",2],

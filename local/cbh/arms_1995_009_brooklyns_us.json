@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["\n  <em>Brooklyns in the U.S.</em>\n"],
         "unitid_ssm":["1995.009"],
         "abstract_ssm":["A handwritten, bound manuscript titled Brooklyns in the U.S. by Samuel Barber, dated 1900. The volume features historical sketches about towns and cities named Brooklyn throughout the United States and Canada."],
+        "creator_ssm":["Barber, Samuel",
+          "Barber, Samuel"],
         "unitdate_normal_ssm":["1900/1900"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Manuscripts (document genre)"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1900"],
         "unitdate_ssm":["Inclusive, 1900"],
         "language_ssm":["English"],
-        "_version_":1799256164541661184,
-        "timestamp":"2024-05-17T00:06:32.759Z"}]
+        "_version_":1801963794203672576,
+        "timestamp":"2024-06-15T21:23:09.625Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Barber, Samuel",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

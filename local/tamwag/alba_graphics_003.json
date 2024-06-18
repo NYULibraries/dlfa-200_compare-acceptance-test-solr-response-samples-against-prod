@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":18,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Joseph Vogel Drawings"],
         "unitid_ssm":["ALBA.GRAPHICS.003"],
         "abstract_ssm":["Joseph Vogel (1911-1995) was born in Poland and emigrated to the United States with his family in 1927. In January 1937 he volunteered to fight in Spain.  The Joseph Vogel Drawings consist of 27 pen-and-ink drawings that Vogel made while in Spain during the Spanish Civil War."],
+        "creator_ssm":["Vogel, Joseph, 1911-1995",
+          "Vogel, Joseph, 1911-1995"],
         "unitdate_normal_ssm":["1937/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Drawings (visual works)"],
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, circa 1937-1939"],
-        "_version_":1799748246006923264,
-        "timestamp":"2024-05-22T10:27:58.214Z"},
+        "_version_":1802111829113044992,
+        "timestamp":"2024-06-17T12:36:06.717Z"},
       {
         "id":"alba_graphics_003aspace_d7d5b84958b14c52fb606187e3fb4caf",
         "ead_ssi":"alba_graphics_003",
@@ -79,8 +81,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Drawings"],
-        "_version_":1799748246018457600,
-        "timestamp":"2024-05-22T10:27:58.225Z"}]
+        "_version_":1802111829134016512,
+        "timestamp":"2024-06-17T12:36:06.736Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Vogel, Joseph, 1911-1995",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

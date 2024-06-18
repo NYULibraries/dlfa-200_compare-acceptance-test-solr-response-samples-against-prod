@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Robert Calese Papers"],
         "unitid_ssm":["ALBA.185"],
+        "creator_ssm":["Calese, Robert",
+          "Calese, Robert"],
         "unitdate_normal_ssm":["1936/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Calese, Robert"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, circa"],
         "language_ssm":["English"],
-        "_version_":1799747987423887360,
-        "timestamp":"2024-05-22T10:23:51.61Z"}]
+        "_version_":1802111260124250112,
+        "timestamp":"2024-06-17T12:27:04.087Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Calese, Robert",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

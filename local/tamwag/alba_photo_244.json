@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Ben Katine: Photo Scrapbook"],
         "unitid_ssm":["ALBA.PHOTO.244"],
+        "creator_ssm":["Katine, Ben",
+          "Katine, Ben"],
         "unitdate_normal_ssm":["1937/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "famname_ssm":["Katine family",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1937-1939"],
         "language_ssm":["English"],
-        "_version_":1799748431999139840,
-        "timestamp":"2024-05-22T10:30:55.59Z"},
+        "_version_":1802112440896323584,
+        "timestamp":"2024-06-17T12:45:50.159Z"},
       {
         "id":"alba_photo_244aspace_cd50570d584fd1d6e0b0dc18ddfe8e13",
         "ead_ssi":"alba_photo_244",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["UNPROCESSED MATERIALS"],
-        "_version_":1799748432011722752,
-        "timestamp":"2024-05-22T10:30:55.602Z"}]
+        "_version_":1802112440914149376,
+        "timestamp":"2024-06-17T12:45:50.176Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Katine, Ben",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Thomas Petrella Papers"],
         "unitid_ssm":["ALBA.252"],
+        "creator_ssm":["Petrella, Thomas, 1907-1937?",
+          "Petrella, Thomas, 1907-1937?"],
         "unitdate_normal_ssm":["1930/1948"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Petrella, Thomas, 1907-1937?"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["Inclusive, 1930-1948"],
         "language_ssm":["English"],
-        "_version_":1799333411762995200,
-        "timestamp":"2024-05-17T20:34:21.449Z"},
+        "_version_":1802111473427677184,
+        "timestamp":"2024-06-17T12:30:27.509Z"},
       {
         "id":"alba_252aspace_fa73cd0b687b760feff8679c67910168",
         "ead_ssi":"alba_252",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799333411780820992,
-        "timestamp":"2024-05-17T20:34:21.467Z"}]
+        "_version_":1802111473462280192,
+        "timestamp":"2024-06-17T12:30:27.542Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Petrella, Thomas, 1907-1937?",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

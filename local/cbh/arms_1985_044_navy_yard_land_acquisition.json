@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Navy Yard land acquisition records"],
         "unitid_ssm":["1985.044"],
         "abstract_ssm":["Records from the District Court of the United States for the Eastern District of New York detailing the acquisition of land for the expansion of the New York Naval Shipyard (commonly known as the Brooklyn Navy Yard), dated 1940."],
+        "creator_ssm":["United States. District Court (New York : Eastern District)",
+          "United States. District Court (New York : Eastern District)"],
         "unitdate_normal_ssm":["1940/1940"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. District Court (New York : Eastern District)",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, 1940"],
         "language_ssm":["English"],
-        "_version_":1799256293256462336,
-        "timestamp":"2024-05-17T00:08:35.511Z"}]
+        "_version_":1801963005583294464,
+        "timestamp":"2024-06-15T21:10:37.539Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. District Court (New York : Eastern District)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

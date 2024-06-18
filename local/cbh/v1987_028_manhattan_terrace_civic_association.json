@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Manhattan Terrace Civic Association photographs"],
         "unitid_ssm":["V1987.028"],
         "abstract_ssm":["The collection documents homes on E. 17th, 18th, and 19th Streets between Avenue I, J, and K in the Midwood neighborhood of Brooklyn. Photographs show street views of detached, single-family homes in a variety of domestic architectural styles, including colonial."],
+        "creator_ssm":["Scharf, H.",
+          "Manhattan Terrace Civic Association (Brooklyn, New York, N.Y.)",
+          "Manhattan Terrace Civic Association (Brooklyn, New York, N.Y.)",
+          "Scharf, H."],
         "unitdate_normal_ssm":["1984/1984"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Manhattan Terrace Civic Association (Brooklyn, New York, N.Y.)",
@@ -71,8 +75,8 @@
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1984"],
         "language_ssm":["English"],
-        "_version_":1799256293661212672,
-        "timestamp":"2024-05-17T00:08:35.897Z"}]
+        "_version_":1802045167046230016,
+        "timestamp":"2024-06-16T18:56:32.815Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +84,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Manhattan Terrace Civic Association (Brooklyn, New York, N.Y.)",1,
+        "Scharf, H.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

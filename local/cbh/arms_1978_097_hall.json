@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles H. Hall letter of invitation from the American Colonization Society"],
         "unitid_ssm":["1978.097"],
         "abstract_ssm":["One 1886 letter requesting Rev. Charles H. Hall of Brooklyn's Holy Trinity Church to speak at the 70th meeting of the American Colonization Society in Washington, D.C. in 1887."],
+        "creator_ssm":["Coppinger, William, 1828-1892",
+          "Coppinger, William, 1828-1892"],
         "unitdate_normal_ssm":["1886/1886"],
         "corpname_ssm":["Brooklyn Historical Society",
           "American Colonization Society",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1886"],
         "unitdate_ssm":["1886"],
         "language_ssm":["English"],
-        "_version_":1799256329109372928,
-        "timestamp":"2024-05-17T00:09:09.703Z"}]
+        "_version_":1801962442910072832,
+        "timestamp":"2024-06-15T21:01:40.932Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Coppinger, William, 1828-1892",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

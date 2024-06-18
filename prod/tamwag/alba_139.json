@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":19,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["Saul Wellman Papers"],
         "unitid_ssm":["ALBA.139"],
         "abstract_ssm":["Saul Wellman was a veteran of the Abraham Lincoln Brigade. The collection consists mainly of published and unpublished material about the Spanish Civil War, including articles, clippings, periodicals, ephemera, veteran memoirs, and student writings."],
+        "creator_ssm":["Wellman, Saul",
+          "Wellman, Saul"],
         "unitdate_normal_ssm":["1960/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Wellman, Saul"],
@@ -59,8 +61,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, Circa 1960s-1990s"],
-        "_version_":1775223177804251136,
-        "timestamp":"2023-08-25T17:32:30.561Z"}]
+        "_version_":1801134994080399360,
+        "timestamp":"2024-06-06T17:49:44.235Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wellman, Saul",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

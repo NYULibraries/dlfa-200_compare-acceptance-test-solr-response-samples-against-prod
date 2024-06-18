@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Patricia Carino Pasick collection of Johnson Street Filipino-American oral histories"],
         "unitid_ssm":["2013.001"],
         "abstract_ssm":["The collection contains nine interviews (with eight individuals) who were part of a Filipino-American community that was located at 72 and 74 Johnson Street in the Downtown neighborhood of Brooklyn in the early twentieth century. In addition the interview recordings and transcripts, the collection contains digital images relating to some of the narrators."],
+        "creator_ssm":["Pasick, Patricia",
+          "Pasick, Patricia"],
         "unitdate_normal_ssm":["2004/2014"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Naval Shipyard",
@@ -90,8 +92,8 @@
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2004-2014"],
         "language_ssm":["English"],
-        "_version_":1799311684610818048,
-        "timestamp":"2024-05-17T14:49:00.823Z"},
+        "_version_":1801958109945528320,
+        "timestamp":"2024-06-15T19:52:48.694Z"},
       {
         "id":"2013_001aspace_ref10_ony",
         "ead_ssi":"2013_001",
@@ -133,8 +135,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["2014 August 7"],
-        "_version_":1799311684634935296,
-        "timestamp":"2024-05-17T14:49:00.846Z"},
+        "_version_":1801958109988519936,
+        "timestamp":"2024-06-15T19:52:48.736Z"},
       {
         "id":"2013_001aspace_ref12_9rs",
         "ead_ssi":"2013_001",
@@ -168,8 +170,8 @@
         "unitdate_start_ssm":["2004"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["2004 August"],
-        "_version_":1799311684660101120,
-        "timestamp":"2024-05-17T14:49:00.869Z"},
+        "_version_":1801958110017880064,
+        "timestamp":"2024-06-15T19:52:48.764Z"},
       {
         "id":"2013_001aspace_ref16_jgx",
         "ead_ssi":"2013_001",
@@ -216,8 +218,8 @@
         "unitdate_start_ssm":["2004"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["2004 August 26"],
-        "_version_":1799311684681072640,
-        "timestamp":"2024-05-17T14:49:00.889Z"},
+        "_version_":1801958110046191616,
+        "timestamp":"2024-06-15T19:52:48.791Z"},
       {
         "id":"2013_001aspace_ref19_x35",
         "ead_ssi":"2013_001",
@@ -258,8 +260,8 @@
         "unitdate_start_ssm":["2007"],
         "unitdate_end_ssm":["2007"],
         "unitdate_ssm":["2007 June"],
-        "_version_":1799311684706238464,
-        "timestamp":"2024-05-17T14:49:00.914Z"},
+        "_version_":1801958110071357440,
+        "timestamp":"2024-06-15T19:52:48.814Z"},
       {
         "id":"2013_001aspace_ref1_cah",
         "ead_ssi":"2013_001",
@@ -305,8 +307,8 @@
         "unitdate_start_ssm":["2004"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["2004 September 1"],
-        "_version_":1799311684774395904,
-        "timestamp":"2024-05-17T14:49:00.979Z"},
+        "_version_":1801958110169923584,
+        "timestamp":"2024-06-15T19:52:48.909Z"},
       {
         "id":"2013_001aspace_ref22_xfo",
         "ead_ssi":"2013_001",
@@ -348,8 +350,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["2014 March 21"],
-        "_version_":1799311684794318848,
-        "timestamp":"2024-05-17T14:49:00.998Z"},
+        "_version_":1801958110200332288,
+        "timestamp":"2024-06-15T19:52:48.938Z"},
       {
         "id":"2013_001aspace_ref25_mni",
         "ead_ssi":"2013_001",
@@ -385,8 +387,8 @@
         "unitdate_start_ssm":["2004"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 2004 August"],
-        "_version_":1799311684814241792,
-        "timestamp":"2024-05-17T14:49:01.017Z"},
+        "_version_":1801958110225498112,
+        "timestamp":"2024-06-15T19:52:48.962Z"},
       {
         "id":"2013_001aspace_ref4_myz",
         "ead_ssi":"2013_001",
@@ -429,8 +431,8 @@
         "unitdate_start_ssm":["2004"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["2004 September 4"],
-        "_version_":1799311684749230080,
-        "timestamp":"2024-05-17T14:49:00.955Z"},
+        "_version_":1801958110141612032,
+        "timestamp":"2024-06-15T19:52:48.882Z"},
       {
         "id":"2013_001aspace_ref7_urx",
         "ead_ssi":"2013_001",
@@ -474,8 +476,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["2014 June 14"],
-        "_version_":1799311684727209984,
-        "timestamp":"2024-05-17T14:49:00.933Z"}]
+        "_version_":1801958110105960448,
+        "timestamp":"2024-06-15T19:52:48.848Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -483,7 +485,8 @@
       "repository_sim":[
         "cbh",10],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Pasick, Patricia",1],
       "date_range_sim":[
         "2001-2100",10],
       "subject_sim":[

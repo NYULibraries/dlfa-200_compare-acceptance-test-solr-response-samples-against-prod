@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":20,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Michael V. D'Ambrosio and Daniel Michelson, Jun 2011"],
         "unittitle_ssm":["Dorothy O. Helly Research Files for <em>Livingstone's Legacy: Horace Waller and Victorian Mythmaking</em>"],
         "unitid_ssm":["TAM.161"],
+        "creator_ssm":["Helly, Dorothy O.",
+          "Helly, Dorothy O."],
         "unitdate_normal_ssm":["1850/1985"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "geogname_ssm":["Africa, Southern -- History"],
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1850"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, circa 1850s-1985"],
-        "_version_":1799781042117148672,
-        "timestamp":"2024-05-22T19:09:15.022Z"},
+        "_version_":1802170273384890368,
+        "timestamp":"2024-06-18T04:05:03.518Z"},
       {
         "id":"tam_161aspace_ref10",
         "ead_ssi":"tam_161",
@@ -90,8 +92,8 @@
         "unitdate_start_ssm":["1850"],
         "unitdate_end_ssm":["1889"],
         "unitdate_ssm":["Inclusive, 1850s - 1880s"],
-        "_version_":1799781042260803584,
-        "timestamp":"2024-05-22T19:09:15.159Z"},
+        "_version_":1802170273469825024,
+        "timestamp":"2024-06-18T04:05:03.599Z"},
       {
         "id":"tam_161aspace_ref11",
         "ead_ssi":"tam_161",
@@ -113,8 +115,8 @@
         "unitdate_start_ssm":["1860"],
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1860s-1985"],
-        "_version_":1799781042277580800,
-        "timestamp":"2024-05-22T19:09:15.175Z"},
+        "_version_":1802170273479262208,
+        "timestamp":"2024-06-18T04:05:03.608Z"},
       {
         "id":"tam_161aspace_ref12",
         "ead_ssi":"tam_161",
@@ -136,8 +138,8 @@
         "unitdate_start_ssm":["1850"],
         "unitdate_end_ssm":["1889"],
         "unitdate_ssm":["Inclusive, 1850s - 1880s"],
-        "_version_":1799781042293309440,
-        "timestamp":"2024-05-22T19:09:15.19Z"},
+        "_version_":1802170273489747968,
+        "timestamp":"2024-06-18T04:05:03.617Z"},
       {
         "id":"tam_161aspace_ref13",
         "ead_ssi":"tam_161",
@@ -159,8 +161,8 @@
         "unitdate_start_ssm":["1860"],
         "unitdate_end_ssm":["1889"],
         "unitdate_ssm":["Inclusive, 1860s-1880s"],
-        "_version_":1799781042314280960,
-        "timestamp":"2024-05-22T19:09:15.21Z"},
+        "_version_":1802170273500233728,
+        "timestamp":"2024-06-18T04:05:03.628Z"},
       {
         "id":"tam_161aspace_ref14",
         "ead_ssi":"tam_161",
@@ -179,8 +181,8 @@
         "location_ssm":["Box: 12"],
         "heading_ssm":["Individual Files: Lee, Henry Austin, Lister, Sir T. Villers, Long, James, MacDonald, John, Lorne, Marquis of, Maitland, W.I., Pelly, Sir Lewis, Sanford, Henry S., Stanley, Sir Henry M., Strauch, Colonel"],
         "unitdate_ssm":["Undated"],
-        "_version_":1799781042330009600,
-        "timestamp":"2024-05-22T19:09:15.225Z"},
+        "_version_":1802170273509670912,
+        "timestamp":"2024-06-18T04:05:03.637Z"},
       {
         "id":"tam_161aspace_ref2",
         "ead_ssi":"tam_161",
@@ -194,8 +196,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Inventory"],
-        "_version_":1799781042130780160,
-        "timestamp":"2024-05-22T19:09:15.035Z"},
+        "_version_":1802170273393278976,
+        "timestamp":"2024-06-18T04:05:03.526Z"},
       {
         "id":"tam_161aspace_ref3",
         "ead_ssi":"tam_161",
@@ -217,8 +219,8 @@
         "unitdate_start_ssm":["1861"],
         "unitdate_end_ssm":["1961"],
         "unitdate_ssm":["Inclusive, 1861-1961"],
-        "_version_":1799781042145460224,
-        "timestamp":"2024-05-22T19:09:15.049Z"},
+        "_version_":1802170273401667584,
+        "timestamp":"2024-06-18T04:05:03.534Z"},
       {
         "id":"tam_161aspace_ref4",
         "ead_ssi":"tam_161",
@@ -237,8 +239,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Individual Files: Devaux, Jules Jean-Paul, Evan-Smith, Col. Sir Chas., Huntington, Collis P., Hutchinson, Gen. George, Hutton, James E., Jephson, A.J. Mounteney, Johnston, Sir Harry, Kemall, Sir Arnold B., Kirk, Sir John, Lambert, Leon, De La Laing, Count"],
         "unitdate_ssm":["Undated"],
-        "_version_":1799781042160140288,
-        "timestamp":"2024-05-22T19:09:15.063Z"},
+        "_version_":1802170273411104768,
+        "timestamp":"2024-06-18T04:05:03.543Z"},
       {
         "id":"tam_161aspace_ref5",
         "ead_ssi":"tam_161",
@@ -260,8 +262,8 @@
         "unitdate_start_ssm":["1862"],
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1862-1976"],
-        "_version_":1799781042185306112,
-        "timestamp":"2024-05-22T19:09:15.087Z"},
+        "_version_":1802170273424736256,
+        "timestamp":"2024-06-18T04:05:03.556Z"},
       {
         "id":"tam_161aspace_ref6",
         "ead_ssi":"tam_161",
@@ -280,8 +282,8 @@
         "location_ssm":["Box: 4"],
         "heading_ssm":["Microfilm, Publications and Testimonials late-19th Century, East Africa Letters, Conference Papers on Women in East Africa, Central African Missionary Diaries, Mailings from Libraries, Letters, Livingston Files"],
         "unitdate_ssm":["Undated"],
-        "_version_":1799781042199986176,
-        "timestamp":"2024-05-22T19:09:15.101Z"},
+        "_version_":1802170273433124864,
+        "timestamp":"2024-06-18T04:05:03.564Z"},
       {
         "id":"tam_161aspace_ref7",
         "ead_ssi":"tam_161",
@@ -300,8 +302,8 @@
         "location_ssm":["Box: 5"],
         "heading_ssm":["Livingston Letters, Waller Papers, UMCA \"Occasional Paper\", Proctor Letters, Newspaper Clippings, National Library of Scotland Files, Mrs. Ware's Collection, Mackenzie Letters, Miscellaneous letters from UMCA, Waller Diary, Central African Mission Reports, Files on Slavery"],
         "unitdate_ssm":["late-19th Century to early-20th Century"],
-        "_version_":1799781042214666240,
-        "timestamp":"2024-05-22T19:09:15.115Z"},
+        "_version_":1802170273441513472,
+        "timestamp":"2024-06-18T04:05:03.572Z"},
       {
         "id":"tam_161aspace_ref8",
         "ead_ssi":"tam_161",
@@ -323,8 +325,8 @@
         "unitdate_start_ssm":["1870"],
         "unitdate_end_ssm":["1889"],
         "unitdate_ssm":["Inclusive, 1870s-1880s"],
-        "_version_":1799781042229346304,
-        "timestamp":"2024-05-22T19:09:15.129Z"},
+        "_version_":1802170273450950656,
+        "timestamp":"2024-06-18T04:05:03.581Z"},
       {
         "id":"tam_161aspace_ref9",
         "ead_ssi":"tam_161",
@@ -346,8 +348,8 @@
         "unitdate_start_ssm":["1850"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1850s - 1970s"],
-        "_version_":1799781042245074944,
-        "timestamp":"2024-05-22T19:09:15.144Z"}]
+        "_version_":1802170273460387840,
+        "timestamp":"2024-06-18T04:05:03.59Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -355,7 +357,8 @@
       "repository_sim":[
         "tamwag",14],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Helly, Dorothy O.",1],
       "date_range_sim":[
         "1801-1900",9,
         "1901-2000",5,

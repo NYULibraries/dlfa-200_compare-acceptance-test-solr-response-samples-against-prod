@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Nicole Greenhouse"],
         "unittitle_ssm":["Dixon Place Archived Websites"],
-        "unitid_ssm":["MSS.593",
-          "/repositories/3/resources/3235"],
+        "unitid_ssm":["MSS.593"],
         "abstract_ssm":["Dixon Place is an experimental nonprofit theater located on Chrystie Street in New York that supports original theater, puppetry, dance, music, and circus arts. The collection contains their website and calendar, with captures of the website dating back to 2017."],
+        "creator_ssm":["Dixon Place",
+          "Dixon Place"],
         "unitdate_normal_ssm":["2017-11-21/2017-11-21"],
         "corpname_ssm":["Fales Library and Special Collections",
           "Dixon Place"],
@@ -63,15 +64,15 @@
         "material_type_ssm":["Web sites."],
         "heading_ssm":["Dixon Place Archived Websites"],
         "unitdate_ssm":["November 2017-ongoing"],
-        "_version_":1799745403587919872,
-        "timestamp":"2024-05-22T09:42:47.472Z"},
+        "_version_":1802081662809407488,
+        "timestamp":"2024-06-17T04:36:37.888Z"},
       {
         "id":"mss_593aspace_38cdbfd44c296b220be9cb9e27b9ce26",
         "ead_ssi":"mss_593",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Dixon Place Archived Websites"],
-        "collection_unitid_ssm":["MSS.593/repositories/3/resources/3235"],
+        "collection_unitid_ssm":["MSS.593"],
         "unittitle_ssm":["Archived Websites"],
         "unitid_ssm":["/repositories/3/archival_objects/863746"],
         "unitdate_normal_ssm":["2017-11-21/2017-11-21"],
@@ -89,8 +90,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["November 2017-ongoing"],
-        "_version_":1799745403604697088,
-        "timestamp":"2024-05-22T09:42:47.488Z"}]
+        "_version_":1802081662833524736,
+        "timestamp":"2024-06-17T04:36:37.911Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -99,7 +100,8 @@
         "fales",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dixon Place",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

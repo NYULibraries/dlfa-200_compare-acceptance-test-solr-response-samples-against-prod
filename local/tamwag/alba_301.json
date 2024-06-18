@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":44,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Samuel Waitzman Papers"],
         "unitid_ssm":["ALBA.301"],
         "abstract_ssm":["Samuel Waitzman (1911-1982) was a veteran of the Spanish Civil War and World War II. The Samuel Waitzman Papers (dated 1937-1945) contain several handwritten diaries and notebooks written during Waitzman's service fighting for the international brigades in the Spanish Civil War (1937-1938). His papers also contain letters and clippings sent to his sisters during his deployment as a soldier in Europe during WWII (1943-1945)."],
+        "creator_ssm":["Waitzman, Samuel",
+          "Waitzman, Samuel"],
         "unitdate_normal_ssm":["1937/1945"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Diaries",
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, 1937-1945"],
-        "_version_":1799748165206802432,
-        "timestamp":"2024-05-22T10:26:41.157Z"}]
+        "_version_":1802111674473250816,
+        "timestamp":"2024-06-17T12:33:39.241Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Waitzman, Samuel",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

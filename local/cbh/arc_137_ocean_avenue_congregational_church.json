@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ocean Avenue Congregational Church collection"],
         "unitid_ssm":["ARC.137"],
         "abstract_ssm":["The Ocean Avenue Congregational Church collection dates from 1915 to 1961 and measures 0.83 linear feet. The collection contains church directories, anniversary publications, programs, bulletins, and newsletters. Bulletins and programs provide details about individual church services, while newsletters report on the work of church committees and clubs. Directories provide lists of member names with mailing addresses."],
+        "creator_ssm":["Ocean Avenue Congregational Church (Brooklyn, New York, N.Y.)",
+          "Ocean Avenue Congregational Church (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1914/1961"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Ocean Avenue Congregational Church (Brooklyn, New York, N.Y.)",
@@ -80,8 +82,8 @@
         "unitdate_end_ssm":["1961"],
         "unitdate_ssm":["Inclusive, 1914-1961"],
         "language_ssm":["English"],
-        "_version_":1799309975848222720,
-        "timestamp":"2024-05-17T14:21:51.219Z"}]
+        "_version_":1801959150570176512,
+        "timestamp":"2024-06-15T20:09:21.112Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ocean Avenue Congregational Church (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

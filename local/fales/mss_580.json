@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lee Kaplan Collection on Julius Hemphill"],
         "unitid_ssm":["MSS.580"],
         "abstract_ssm":["Lee Kaplan (born 1956) is a Los Angeles musician, concert producer, bookseller, and former record buyer for Rhino Records in the 1970s. Kaplan owned the record label Aten Records and produced a concert series at the Century City Playhouse from 1976-1982, which focused on creative improvisation and featured artists such as the Art Ensemble of Chicago, Oliver Lake, Horace Tapscott, and John Zorn. The Lee Kaplan Collection on Julius Hemphill consists of materials collected by Kaplan documenting the musical career of saxophonist Julius Hemphill. Materials include audio recordings and ephemeral materials by the Janus Company (Julius Hemphill, Baikida Carroll, and Alex Cline); an unreleased, professionally recorded and mastered 12\" 45 RPM vinyl recording with music by the Janus Company produced by Kaplan; and printed flyers for solo and ensemble performances by Hemphill at the Century City Playhouse."],
+        "creator_ssm":["Kaplan, Lee",
+          "Kaplan, Lee"],
         "unitdate_normal_ssm":["1977/1980"],
         "corpname_ssm":["Fales Library and Special Collections",
           "Janus Company"],
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1977-1980"],
-        "_version_":1799745360357228544,
-        "timestamp":"2024-05-22T09:42:06.244Z"},
+        "_version_":1802081621115928576,
+        "timestamp":"2024-06-17T04:35:58.126Z"},
       {
         "id":"mss_580aspace_299e11d3fe9b3e49f9b1f156d3bdf52f",
         "ead_ssi":"mss_580",
@@ -85,15 +87,13 @@
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1",
-          "Box: Shared Fales 093, Folder: 14",
-          "Folder: 14"],
+          "Box: Shared Fales 093, Folder: 14"],
         "heading_ssm":["Flyers and Posters"],
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["1980"],
-        "_version_":1799745360385540096,
-        "timestamp":"2024-05-22T09:42:06.271Z"},
+        "_version_":1802081621135851520,
+        "timestamp":"2024-06-17T04:35:58.145Z"},
       {
         "id":"mss_580aspace_9d8abeca0359d47aa95c5de2f3495006",
         "ead_ssi":"mss_580",
@@ -107,14 +107,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":[" The Janus Company Ephemera and Photographs"],
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1977-1979"],
-        "_version_":1799745360410705920,
-        "timestamp":"2024-05-22T09:42:06.295Z"},
+        "_version_":1802081621152628736,
+        "timestamp":"2024-06-17T04:35:58.16Z"},
       {
         "id":"mss_580aspace_c4cdc56c90e1018341b130dd84ba2de3",
         "ead_ssi":"mss_580",
@@ -131,15 +130,13 @@
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Fales 046, Sound_Disc--Vinyl: 580.0001",
-          "Sound_Disc--Vinyl: 580.0001",
-          "Box: Electronic Records, E-records: FA_MSS_580_ER_1",
-          "E-records: FA_MSS_580_ER_1"],
+          "Box: Electronic Records, E-records: FA_MSS_580_ER_1"],
         "heading_ssm":["The Janus Company Recordings"],
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1977-1979"],
-        "_version_":1799745360449503232,
-        "timestamp":"2024-05-22T09:42:06.332Z"}]
+        "_version_":1802081621175697408,
+        "timestamp":"2024-06-17T04:35:58.183Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -148,7 +145,8 @@
         "fales",4],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kaplan, Lee",1],
       "date_range_sim":[
         "1901-2000",4],
       "subject_sim":[

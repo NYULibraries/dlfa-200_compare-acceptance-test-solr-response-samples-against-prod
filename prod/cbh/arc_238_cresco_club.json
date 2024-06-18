@@ -47,6 +47,8 @@
         "unittitle_ssm":["Cresco Club scrapbook and photograph album"],
         "unitid_ssm":["ARC.238"],
         "abstract_ssm":["The Cresco Club scrapbook and photograph album date from 1899 to 1980 (bulk dates: 1950 to 1975) and measure 1.23 linear feet. The collection consists of photographs, bylaws, meeting agendas, clippings, and ephemera, which document the Cresco Club's activities, including meetings and its membership."],
+        "creator_ssm":["Cresco Club (Brooklyn, New York, N.Y.)",
+          "Cresco Club (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1899/1980",
           "1950/1975"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -87,8 +89,8 @@
           "1975"],
         "unitdate_ssm":["Inclusive, 1899-1980 ; 1950-1975"],
         "language_ssm":["English"],
-        "_version_":1775221623214833664,
-        "timestamp":"2023-08-25T17:07:47.989Z"}]
+        "_version_":1800635053372342272,
+        "timestamp":"2024-06-01T05:23:23.621Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +98,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cresco Club (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

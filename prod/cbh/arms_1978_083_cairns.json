@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John I. Cairns petition for the erection of a monument to James Lawrence"],
         "unitid_ssm":["1978.083"],
         "abstract_ssm":["Top portion of a presumably signed circa 1884 petition for the erection of a permanent monument at the burial site of Captain James Lawrence in New York City's Trinity Church yard."],
+        "creator_ssm":["Cairns, John I.",
+          "Cairns, John I."],
         "unitdate_normal_ssm":["1874/1894"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Petitions"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1894"],
         "unitdate_ssm":["Inclusive, circa 1884"],
         "language_ssm":["English"],
-        "_version_":1786634719664799744,
-        "timestamp":"2023-12-29T16:34:04.944Z"}]
+        "_version_":1800741066055352320,
+        "timestamp":"2024-06-02T09:28:25.194Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cairns, John I.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

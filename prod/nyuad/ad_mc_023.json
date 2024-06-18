@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -59,8 +59,8 @@
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["2013-2014"],
         "language_ssm":["English"],
-        "_version_":1782826358323281920,
-        "timestamp":"2023-11-17T15:41:48.545Z"},
+        "_version_":1801094022831276032,
+        "timestamp":"2024-06-06T06:58:31.007Z"},
       {
         "id":"ad_mc_023aspace_decb9075f90ff082aa570e7bc9edcdd1",
         "ead_ssi":"ad_mc_023",
@@ -75,8 +75,8 @@
         "repository_ssm":["nyuad"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Online Collection "],
-        "_version_":1782826358336913408,
-        "timestamp":"2023-11-17T15:41:48.558Z"},
+        "_version_":1801094022848053248,
+        "timestamp":"2024-06-06T06:58:31.023Z"},
       {
         "id":"ad_mc_023aspace_ref10_b0p",
         "ead_ssi":"ad_mc_023",
@@ -96,8 +96,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 4 May 2014"],
-        "_version_":1782826358465888256,
-        "timestamp":"2023-11-17T15:41:48.681Z"},
+        "_version_":1801094022977028096,
+        "timestamp":"2024-06-06T06:58:31.146Z"},
       {
         "id":"ad_mc_023aspace_ref11_qqz",
         "ead_ssi":"ad_mc_023",
@@ -117,8 +117,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 4 May 2014"],
-        "_version_":1782826358478471168,
-        "timestamp":"2023-11-17T15:41:48.693Z"},
+        "_version_":1801094022989611008,
+        "timestamp":"2024-06-06T06:58:31.158Z"},
       {
         "id":"ad_mc_023aspace_ref12_ui1",
         "ead_ssi":"ad_mc_023",
@@ -138,8 +138,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 11 May 2014"],
-        "_version_":1782826358491054080,
-        "timestamp":"2023-11-17T15:41:48.705Z"},
+        "_version_":1801094023002193920,
+        "timestamp":"2024-06-06T06:58:31.17Z"},
       {
         "id":"ad_mc_023aspace_ref13_eem",
         "ead_ssi":"ad_mc_023",
@@ -159,8 +159,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 11 May 2014"],
-        "_version_":1782826358507831296,
-        "timestamp":"2023-11-17T15:41:48.721Z"},
+        "_version_":1801094023015825408,
+        "timestamp":"2024-06-06T06:58:31.183Z"},
       {
         "id":"ad_mc_023aspace_ref14_r0q",
         "ead_ssi":"ad_mc_023",
@@ -180,8 +180,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 11 May 2014"],
-        "_version_":1782826358522511360,
-        "timestamp":"2023-11-17T15:41:48.735Z"},
+        "_version_":1801094023030505472,
+        "timestamp":"2024-06-06T06:58:31.197Z"},
       {
         "id":"ad_mc_023aspace_ref15_iea",
         "ead_ssi":"ad_mc_023",
@@ -201,8 +201,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 11 May 2014"],
-        "_version_":1782826358535094272,
-        "timestamp":"2023-11-17T15:41:48.747Z"},
+        "_version_":1801094023043088384,
+        "timestamp":"2024-06-06T06:58:31.209Z"},
       {
         "id":"ad_mc_023aspace_ref16_b7f",
         "ead_ssi":"ad_mc_023",
@@ -222,8 +222,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 11 May 2014"],
-        "_version_":1782826358546628608,
-        "timestamp":"2023-11-17T15:41:48.758Z"},
+        "_version_":1801094023059865600,
+        "timestamp":"2024-06-06T06:58:31.225Z"},
       {
         "id":"ad_mc_023aspace_ref17_k0w",
         "ead_ssi":"ad_mc_023",
@@ -243,8 +243,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 11 May 2014"],
-        "_version_":1782826358560260096,
-        "timestamp":"2023-11-17T15:41:48.771Z"},
+        "_version_":1801094023073497088,
+        "timestamp":"2024-06-06T06:58:31.238Z"},
       {
         "id":"ad_mc_023aspace_ref18_co0",
         "ead_ssi":"ad_mc_023",
@@ -264,8 +264,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 24 May 2014"],
-        "_version_":1782826358572843008,
-        "timestamp":"2023-11-17T15:41:48.783Z"},
+        "_version_":1801094023087128576,
+        "timestamp":"2024-06-06T06:58:31.251Z"},
       {
         "id":"ad_mc_023aspace_ref19_qfe",
         "ead_ssi":"ad_mc_023",
@@ -285,8 +285,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 25 May 2014"],
-        "_version_":1782826358607446016,
-        "timestamp":"2023-11-17T15:41:48.816Z"},
+        "_version_":1801094023101808640,
+        "timestamp":"2024-06-06T06:58:31.265Z"},
       {
         "id":"ad_mc_023aspace_ref1_x9m",
         "ead_ssi":"ad_mc_023",
@@ -306,8 +306,8 @@
         "unitdate_start_ssm":["2013"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["Inclusive, 17 Nov 2013"],
-        "_version_":1782826358352642048,
-        "timestamp":"2023-11-17T15:41:48.573Z"},
+        "_version_":1801094022862733312,
+        "timestamp":"2024-06-06T06:58:31.037Z"},
       {
         "id":"ad_mc_023aspace_ref20_t3p",
         "ead_ssi":"ad_mc_023",
@@ -327,8 +327,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 23 Jun 2014"],
-        "_version_":1782826358621077504,
-        "timestamp":"2023-11-17T15:41:48.829Z"},
+        "_version_":1801094023114391552,
+        "timestamp":"2024-06-06T06:58:31.277Z"},
       {
         "id":"ad_mc_023aspace_ref22_f5i",
         "ead_ssi":"ad_mc_023",
@@ -348,8 +348,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 24 Jun 2014"],
-        "_version_":1782826358634708992,
-        "timestamp":"2023-11-17T15:41:48.842Z"},
+        "_version_":1801094023126974464,
+        "timestamp":"2024-06-06T06:58:31.288Z"},
       {
         "id":"ad_mc_023aspace_ref23_qb0",
         "ead_ssi":"ad_mc_023",
@@ -369,8 +369,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 28 Sep 2014"],
-        "_version_":1782826358648340480,
-        "timestamp":"2023-11-17T15:41:48.855Z"},
+        "_version_":1801094023138508800,
+        "timestamp":"2024-06-06T06:58:31.3Z"},
       {
         "id":"ad_mc_023aspace_ref25_nqx",
         "ead_ssi":"ad_mc_023",
@@ -390,8 +390,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 30 Sep 2014"],
-        "_version_":1782826358673506304,
-        "timestamp":"2023-11-17T15:41:48.879Z"},
+        "_version_":1801094023152140288,
+        "timestamp":"2024-06-06T06:58:31.313Z"},
       {
         "id":"ad_mc_023aspace_ref26_iks",
         "ead_ssi":"ad_mc_023",
@@ -411,8 +411,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 1 Oct 2014"],
-        "_version_":1782826358690283520,
-        "timestamp":"2023-11-17T15:41:48.895Z"},
+        "_version_":1801094023166820352,
+        "timestamp":"2024-06-06T06:58:31.327Z"},
       {
         "id":"ad_mc_023aspace_ref2_gw0",
         "ead_ssi":"ad_mc_023",
@@ -433,8 +433,8 @@
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 27 Apr 2014"],
         "language_ssm":["English"],
-        "_version_":1782826358367322112,
-        "timestamp":"2023-11-17T15:41:48.587Z"},
+        "_version_":1801094022877413376,
+        "timestamp":"2024-06-06T06:58:31.051Z"},
       {
         "id":"ad_mc_023aspace_ref3_j4d",
         "ead_ssi":"ad_mc_023",
@@ -454,8 +454,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 27 Apr 2014"],
-        "_version_":1782826358383050752,
-        "timestamp":"2023-11-17T15:41:48.602Z"},
+        "_version_":1801094022896287744,
+        "timestamp":"2024-06-06T06:58:31.069Z"},
       {
         "id":"ad_mc_023aspace_ref4_6p6",
         "ead_ssi":"ad_mc_023",
@@ -475,8 +475,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 27 Apr 2014"],
-        "_version_":1782826358396682240,
-        "timestamp":"2023-11-17T15:41:48.615Z"},
+        "_version_":1801094022908870656,
+        "timestamp":"2024-06-06T06:58:31.081Z"},
       {
         "id":"ad_mc_023aspace_ref5_g1y",
         "ead_ssi":"ad_mc_023",
@@ -496,8 +496,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 27 Apr 2014"],
-        "_version_":1782826358412410880,
-        "timestamp":"2023-11-17T15:41:48.63Z"},
+        "_version_":1801094022921453568,
+        "timestamp":"2024-06-06T06:58:31.093Z"},
       {
         "id":"ad_mc_023aspace_ref6_hkj",
         "ead_ssi":"ad_mc_023",
@@ -517,8 +517,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 4 May 2014"],
-        "_version_":1782826358426042368,
-        "timestamp":"2023-11-17T15:41:48.643Z"},
+        "_version_":1801094022934036480,
+        "timestamp":"2024-06-06T06:58:31.105Z"},
       {
         "id":"ad_mc_023aspace_ref7_a1m",
         "ead_ssi":"ad_mc_023",
@@ -538,8 +538,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 4 May 2014"],
-        "_version_":1782826358438625280,
-        "timestamp":"2023-11-17T15:41:48.655Z"},
+        "_version_":1801094022947667968,
+        "timestamp":"2024-06-06T06:58:31.118Z"},
       {
         "id":"ad_mc_023aspace_ref9_ug8",
         "ead_ssi":"ad_mc_023",
@@ -559,8 +559,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 4 May 2014"],
-        "_version_":1782826358453305344,
-        "timestamp":"2023-11-17T15:41:48.669Z"}]
+        "_version_":1801094022963396608,
+        "timestamp":"2024-06-06T06:58:31.133Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

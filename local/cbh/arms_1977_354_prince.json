@@ -47,6 +47,8 @@
         "unittitle_ssm":["Christopher Prince log book synopsis"],
         "unitid_ssm":["1977.354"],
         "abstract_ssm":["This collection consists of two photostat copies of a typescript synopsis of the log books kept by Christopher Prince on his journeys as captain of various ships throughout the period 1806 to 1823."],
+        "creator_ssm":["Prince, Christopher",
+          "Prince, Christopher"],
         "unitdate_normal_ssm":["1806/1823"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Logs (records)",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1823"],
         "unitdate_ssm":["Inclusive, 1806-1823"],
         "language_ssm":["English"],
-        "_version_":1799256201788129280,
-        "timestamp":"2024-05-17T00:07:08.28Z"}]
+        "_version_":1801961410786230272,
+        "timestamp":"2024-06-15T20:45:16.622Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Prince, Christopher",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

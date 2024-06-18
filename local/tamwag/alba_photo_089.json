@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Stanley Postek Photographs"],
         "unitid_ssm":["ALBA.PHOTO.089"],
+        "creator_ssm":["Postek, Stanley, 1912-1991",
+          "Postek, Stanley, 1912-1991"],
         "unitdate_normal_ssm":["1937/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Postek, Stanley, 1912-1991"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, Circa 1937-1989"],
         "language_ssm":["English"],
-        "_version_":1799748386914566144,
-        "timestamp":"2024-05-22T10:30:12.594Z"},
+        "_version_":1802112282971340800,
+        "timestamp":"2024-06-17T12:43:19.55Z"},
       {
         "id":"alba_photo_089aspace_aa0327d5b85f72fc911127a305e076cb",
         "ead_ssi":"alba_photo_089",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799748386927149056,
-        "timestamp":"2024-05-22T10:30:12.606Z"}]
+        "_version_":1802112282987069440,
+        "timestamp":"2024-06-17T12:43:19.565Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Postek, Stanley, 1912-1991",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

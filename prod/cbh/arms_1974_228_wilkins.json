@@ -47,6 +47,8 @@
         "unittitle_ssm":["Nehemiah Denton Wilkins land records"],
         "unitid_ssm":["1974.228"],
         "abstract_ssm":["The Nehemiah Denton Wilkins land records span the period 1879 to 1907 and consist of leases, sales contracts and deeds for properties located on Smith St., Henry St. and Myrtle Ave. in Brooklyn."],
+        "creator_ssm":["Wilkins, Nemiah Denton",
+          "Wilkins, Nemiah Denton"],
         "unitdate_normal_ssm":["1879/1907"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Leases",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1907"],
         "unitdate_ssm":["Inclusive, 1879-1907"],
         "language_ssm":["English"],
-        "_version_":1775226096973774848,
-        "timestamp":"2023-08-25T18:18:54.497Z"}]
+        "_version_":1800675006996283392,
+        "timestamp":"2024-06-01T15:58:26.367Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wilkins, Nemiah Denton",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

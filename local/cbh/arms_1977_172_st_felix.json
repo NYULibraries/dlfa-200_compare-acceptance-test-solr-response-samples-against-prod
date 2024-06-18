@@ -47,6 +47,8 @@
         "unittitle_ssm":["John R. St. Felix papers"],
         "unitid_ssm":["1977.172"],
         "abstract_ssm":["The John R. St. Felix papers span the period 1821 to 1864 and include correspondence, receipts, contracts for home construction and repairs, land conveyances for properties in Brooklyn, and other legal and business papers."],
+        "creator_ssm":["St. Felix, John R.",
+          "St. Felix, John R."],
         "unitdate_normal_ssm":["1821/1864"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Conveyances",
@@ -72,8 +74,8 @@
         "unitdate_start_ssm":["1821"],
         "unitdate_end_ssm":["1864"],
         "unitdate_ssm":["Inclusive, 1821-1864"],
-        "_version_":1799256190836801536,
-        "timestamp":"2024-05-17T00:06:57.835Z"}]
+        "_version_":1801960858266370048,
+        "timestamp":"2024-06-15T20:36:29.698Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "St. Felix, John R.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

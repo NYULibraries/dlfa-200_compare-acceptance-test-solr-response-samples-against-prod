@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":19,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edward R. Squibb collection"],
         "unitid_ssm":["2008.021"],
         "abstract_ssm":["This collection contains materials relating to Edward R. Squibb, his family, and his company, Squibb Pharmaceuticals. Items include correspondence, a family bible, books, pamphlets, additional printed materials, and nine antique pharmaceutical containers."],
+        "creator_ssm":["Squibb, Edward Robinson",
+          "Squibb, Edward Robinson"],
         "unitdate_normal_ssm":["1832/1979"],
         "corpname_ssm":["Brooklyn Historical Society",
           "E.R. Squibb & Sons"],
@@ -83,8 +85,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1832-1979"],
         "language_ssm":["English"],
-        "_version_":1799256300927844352,
-        "timestamp":"2024-05-17T00:08:42.827Z"}]
+        "_version_":1801964048580870144,
+        "timestamp":"2024-06-15T21:27:12.219Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +94,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Squibb, Edward Robinson",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

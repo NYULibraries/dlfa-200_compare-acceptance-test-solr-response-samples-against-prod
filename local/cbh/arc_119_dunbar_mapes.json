@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lester Dunbar Mapes genealogy collection"],
         "unitid_ssm":["ARC.119"],
         "abstract_ssm":["The Lester Dunbar Mapes genealogy collection, spanning circa 1930 to 1944 and measuring .25 linear feet, contains genealogical notes, copies of wills, and copies of deeds that were compiled by Lester Dunbar Mapes for an unpublished genealogy of the Mapes family and its descendents spanning the 17th, 18th, and 19th centuries. The collection contains genealogical notes on 20 families from New York State (mostly from Suffolk County and Orange County) including four Brooklyn families: the Mapes, Vanderveers, Tuthills, and Pratts. Additionally, there are extensive reference notes citing the sources from which Mapes attained his genealogical information. Finally, the collection includes a Photostat and typescript copy of a portion of the last will and testament of Thomas Mapes of Southold, Long Island, N.Y., 1686."],
+        "creator_ssm":["Mapes, Lester Dunbar",
+          "Mapes, Lester Dunbar"],
         "unitdate_normal_ssm":["1920/1954"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Vanderveer family",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1954"],
         "unitdate_ssm":["Inclusive, circa 1930 to 1944"],
         "language_ssm":["English"],
-        "_version_":1799312251220393984,
-        "timestamp":"2024-05-17T14:58:01.184Z"}]
+        "_version_":1801959082921295872,
+        "timestamp":"2024-06-15T20:08:16.596Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Mapes, Lester Dunbar",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

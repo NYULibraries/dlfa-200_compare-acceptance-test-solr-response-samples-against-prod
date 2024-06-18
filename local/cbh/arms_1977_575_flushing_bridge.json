@@ -47,6 +47,8 @@
         "unittitle_ssm":["City of New York Department of Plant and Structures, Bureau of Design notes on the Flushing Bridge"],
         "unitid_ssm":["1977.575"],
         "abstract_ssm":["Handwritten notes dated 1938-1939 by an employee of the City of New York Department of Plant and Structures Bureau of Design relating to the construction of the Flushing Bridge."],
+        "creator_ssm":["New York (N.Y.). Department of Plant and Structures",
+          "New York (N.Y.). Department of Plant and Structures"],
         "unitdate_normal_ssm":["1938/1939"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (N.Y.). Department of Plant and Structures"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1938-1939"],
         "language_ssm":["English"],
-        "_version_":1799311677311680512,
-        "timestamp":"2024-05-17T14:48:53.862Z"}]
+        "_version_":1801961984104595456,
+        "timestamp":"2024-06-15T20:54:23.381Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (N.Y.). Department of Plant and Structures",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

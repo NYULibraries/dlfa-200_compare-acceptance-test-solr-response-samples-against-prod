@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Ferry Company indenture"],
         "unitid_ssm":["1978.195"],
         "abstract_ssm":["An indenture for the purchase of land, boats, licenses, and other rights of the Long Island Ferry Company by the Brooklyn Ferry Company."],
+        "creator_ssm":["Brooklyn Ferry Company",
+          "Brooklyn Ferry Company"],
         "unitdate_normal_ssm":["1859/1859"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Ferry Company",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1859"],
         "unitdate_ssm":["1859"],
         "language_ssm":["English"],
-        "_version_":1799311721773400064,
-        "timestamp":"2024-05-17T14:49:36.264Z"}]
+        "_version_":1801962682182533120,
+        "timestamp":"2024-06-15T21:05:29.12Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Ferry Company",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Hiram T. Dewey property records"],
         "unitid_ssm":["ARC.200"],
         "abstract_ssm":["This collection consists of two deeds from 1875 and 1890 conveying property at #29 Prospect Place (formerly Warren Street) to and from Hiram T. Dewey, as well as one abstract from 1875 to the title of this property, giving a history of its ownership from 1834 onwards.  There is also an envelope addressed to the Long Island Historical Society (now the Brooklyn Historical Society) from Mrs. James F. Dickson, Jr. of East Hartford, CT, who is believed to be the donor of this collection."],
+        "creator_ssm":["Dewey, Hiram T.",
+          "Dewey, Hiram T."],
         "unitdate_normal_ssm":["1875/1960"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Legal documents",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1960"],
         "unitdate_ssm":["Inclusive, 1875-1890, 1960"],
         "language_ssm":["English"],
-        "_version_":1799256200784642048,
-        "timestamp":"2024-05-17T00:07:07.323Z"}]
+        "_version_":1801959370700881920,
+        "timestamp":"2024-06-15T20:12:51.045Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dewey, Hiram T.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

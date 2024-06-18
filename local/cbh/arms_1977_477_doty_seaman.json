@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Joseph Doty and Jacob Seaman deed"],
         "unitid_ssm":["1977.477"],
         "abstract_ssm":["One 1767 deed for land in Jericho, Queens County, N.Y., sold by Jacob Seaman to Joseph Doty."],
+        "creator_ssm":["Doty, Joseph",
+          "Seaman, Jacob",
+          "Doty, Joseph",
+          "Seaman, Jacob"],
         "unitdate_normal_ssm":["1767/1767"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Oyster Bay (N.Y.)",
@@ -69,8 +73,8 @@
         "unitdate_end_ssm":["1767"],
         "unitdate_ssm":["1767"],
         "language_ssm":["English"],
-        "_version_":1799312397786152960,
-        "timestamp":"2024-05-17T15:00:20.96Z"}]
+        "_version_":1801961753145245696,
+        "timestamp":"2024-06-15T20:50:43.121Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +82,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Doty, Joseph",1,
+        "Seaman, Jacob",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

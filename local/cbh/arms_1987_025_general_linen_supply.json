@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["General Linen Supply and Laundry Company, Inc. records"],
         "unitid_ssm":["1987.025"],
         "abstract_ssm":["Records contain General Linen Supply and Laundry Company, Inc. financial records (1925), photocopy of correspondence regarding finances and a business card (1933), and a 75th anniversary press release from the Cascade Laundry, a division of General Linen Supply and Laundry Company, Inc. (1973)."],
+        "creator_ssm":["General Linen Supply and Laundry Company, Inc",
+          "Cascade Laundry",
+          "General Linen Supply and Laundry Company, Inc",
+          "Cascade Laundry"],
         "unitdate_normal_ssm":["1925/1973"],
         "corpname_ssm":["Brooklyn Historical Society",
           "General Linen Supply and Laundry Company, Inc",
@@ -78,8 +82,8 @@
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1925 to 1973"],
         "language_ssm":["English"],
-        "_version_":1799311428499275776,
-        "timestamp":"2024-05-17T14:44:56.576Z"}]
+        "_version_":1801963418574389248,
+        "timestamp":"2024-06-15T21:17:11.398Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +91,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cascade Laundry",1,
+        "General Linen Supply and Laundry Company, Inc",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

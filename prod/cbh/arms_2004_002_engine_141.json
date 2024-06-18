@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Engine 141 collection"],
         "unitid_ssm":["2004.002"],
         "abstract_ssm":["The collection consists of one bound volume containing the roster and activity log for Brooklyn Engine 141 in the year 1905. It also includes a photocopy of a booklet entitled, \"Engine 241 - A Century of Firefighting\" (1996) and some genealogical material relating to the donor's family, the Wardells (some of whom were members of the company)."],
+        "creator_ssm":["New York (N.Y.). Fire Dept. Engine 141",
+          "New York (N.Y.). Fire Dept. Engine 141"],
         "unitdate_normal_ssm":["1905/2004"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (N.Y.). Fire Dept. Engine 141",
@@ -79,8 +81,8 @@
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1905, 1996, 2004"],
         "language_ssm":["English"],
-        "_version_":1775224357384093696,
-        "timestamp":"2023-08-25T17:51:15.496Z"}]
+        "_version_":1800799263527010304,
+        "timestamp":"2024-06-03T00:53:26.629Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (N.Y.). Fire Dept. Engine 141",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

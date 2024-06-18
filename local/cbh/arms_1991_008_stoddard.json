@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["William W. Stoddard Brooklyn Navy Yard correspondence"],
         "unitid_ssm":["1991.008"],
         "abstract_ssm":["This collection consists of 16 letters of recommendation concerning the hiring of William W. Stoddard at the Brooklyn Navy Yard as an Outside Master Machinist, two letters concerning a salary increase, and five letters pertaining to a court-martial, dismissal and reinstatement. Materials in the collection span the period 1898 to 1910."],
+        "creator_ssm":["New York Naval Shipyard",
+          "Stoddard, William W.",
+          "New York Naval Shipyard",
+          "Stoddard, William W."],
         "unitdate_normal_ssm":["1898/1910"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Naval Shipyard",
@@ -70,8 +74,8 @@
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, 1898-1910"],
         "language_ssm":["English"],
-        "_version_":1799311464836628480,
-        "timestamp":"2024-05-17T14:45:31.23Z"}]
+        "_version_":1801963569515855872,
+        "timestamp":"2024-06-15T21:19:35.347Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +83,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York Naval Shipyard",1,
+        "Stoddard, William W.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

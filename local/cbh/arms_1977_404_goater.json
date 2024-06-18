@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles Goater papers"],
         "unitid_ssm":["1977.404"],
         "abstract_ssm":["Two letters regarding Charles Goater: one 1860 letter from Charles Goater to brother describing movements of family members, residences, and the landscape of Brooklyn and one 1865 letter of administration naming Charles Goater of Sydney, New South Wales, Australia as executor of the will of Thomas Sheppard of the same place."],
+        "creator_ssm":["Goater, Charles",
+          "Goater, Charles"],
         "unitdate_normal_ssm":["1860/1865"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Letters of administration"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["Inclusive,  ; 1860-1865"],
         "language_ssm":["English"],
-        "_version_":1799312397929807872,
-        "timestamp":"2024-05-17T15:00:21.097Z"}]
+        "_version_":1801961566195679232,
+        "timestamp":"2024-06-15T20:47:44.832Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Goater, Charles",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

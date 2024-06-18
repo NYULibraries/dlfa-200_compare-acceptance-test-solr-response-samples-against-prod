@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William Watson Clark scrapbook"],
         "unitid_ssm":["2011.006"],
         "abstract_ssm":["One scrapbook documenting the career of William Watson Clark as a pitcher for the Brooklyn Robins, Brooklyn Dodgers, and New York Giants. Items date from circa 1928 to 1938. Items in the scrapbook include clippings, tickets to Ebbets Field, baseball cards, and other ephemera. The scrapbook was compiled by Watson's wife."],
+        "creator_ssm":["Clark, William Watson",
+          "Clark, William Watson"],
         "unitdate_normal_ssm":["1918/1948"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Dodgers (Baseball team)",
@@ -81,8 +83,8 @@
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["Inclusive, circa 1928 to 1938"],
         "language_ssm":["English"],
-        "_version_":1799312329463037952,
-        "timestamp":"2024-05-17T14:59:15.801Z"}]
+        "_version_":1801964130512404480,
+        "timestamp":"2024-06-15T21:28:30.355Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +92,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Clark, William Watson",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Francis Hovey Stoddard Papers"],
         "unitid_ssm":["MC.41"],
         "abstract_ssm":["Francis Harvey Stoddard served as Professor of English Language and Literature at New York University (NYU) from 1888-1914 and retired as Professor Emeritus. He also served as the Dean of the Faculty of the College of Arts and Pure Science, subsequently the College of Arts and Science, from 1910-1914. Stoddard published widely on topics of English literature, language, and poetry. His papers consist of lecture notes taken by his students as well as biographical material."],
+        "creator_ssm":["Stoddard, Francis Hovey, 1847-1936",
+          "Stoddard, Francis Hovey, 1847-1936"],
         "unitdate_normal_ssm":["1905/1937",
           "1905/1907"],
         "corpname_ssm":["New York University Archives",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1937",
           "1907"],
         "unitdate_ssm":["Inclusive, 1905-1937 ; 1905-1907"],
-        "_version_":1775222079632703488,
-        "timestamp":"2023-08-25T17:15:03.263Z"},
+        "_version_":1800521500772532224,
+        "timestamp":"2024-05-30T23:18:31.423Z"},
       {
         "id":"mc_41aspace_ref2",
         "ead_ssi":"mc_41",
@@ -87,8 +89,8 @@
         "unitdate_end_ssm":["1907"],
         "unitdate_ssm":["Inclusive, 1905-1907"],
         "language_ssm":["English"],
-        "_version_":1775222079677792256,
-        "timestamp":"2023-08-25T17:15:03.306Z"},
+        "_version_":1800521500788260864,
+        "timestamp":"2024-05-30T23:18:31.439Z"},
       {
         "id":"mc_41aspace_ref3",
         "ead_ssi":"mc_41",
@@ -105,14 +107,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Notes on the Development of Fiction - Taken by Katharine C. Shively from the Lectures of Professor Stoddard (English IV)"],
         "unitdate_start_ssm":["1905"],
         "unitdate_end_ssm":["1906"],
         "unitdate_ssm":["Inclusive, 1905-1906"],
-        "_version_":1775222079721832448,
-        "timestamp":"2023-08-25T17:15:03.348Z"},
+        "_version_":1800521500803989504,
+        "timestamp":"2024-05-30T23:18:31.454Z"},
       {
         "id":"mc_41aspace_ref4",
         "ead_ssi":"mc_41",
@@ -129,14 +130,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Lectures on English Poetry Delivered by Professor Stoddard - Notes Taken by Olga Marx in the Graduate School of NYU"],
         "unitdate_start_ssm":["1906"],
         "unitdate_end_ssm":["1907"],
         "unitdate_ssm":["Inclusive, 1906-1907"],
-        "_version_":1775222079766921216,
-        "timestamp":"2023-08-25T17:15:03.39Z"},
+        "_version_":1800521500819718144,
+        "timestamp":"2024-05-30T23:18:31.469Z"},
       {
         "id":"mc_41aspace_ref5",
         "ead_ssi":"mc_41",
@@ -155,8 +155,8 @@
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Inclusive, 1914-1937"],
         "language_ssm":["English"],
-        "_version_":1775222079816204288,
-        "timestamp":"2023-08-25T17:15:03.438Z"},
+        "_version_":1800521500837543936,
+        "timestamp":"2024-05-30T23:18:31.486Z"},
       {
         "id":"mc_41aspace_ref6",
         "ead_ssi":"mc_41",
@@ -173,14 +173,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Dinner Given in Honor of Frances Hovey Stoddard"],
         "unitdate_start_ssm":["1914"],
         "unitdate_end_ssm":["1914"],
         "unitdate_ssm":["1914"],
-        "_version_":1775222079855001600,
-        "timestamp":"2023-08-25T17:15:03.475Z"},
+        "_version_":1800521500857466880,
+        "timestamp":"2024-05-30T23:18:31.505Z"},
       {
         "id":"mc_41aspace_ref7",
         "ead_ssi":"mc_41",
@@ -197,14 +196,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 1, Folder: 4"],
         "heading_ssm":["Francis Hovey Stoddard Biography"],
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["1937"],
-        "_version_":1775222079893798912,
-        "timestamp":"2023-08-25T17:15:03.511Z"}]
+        "_version_":1800521500872146944,
+        "timestamp":"2024-05-30T23:18:31.519Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -212,7 +210,8 @@
       "repository_sim":[
         "archives",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stoddard, Francis Hovey, 1847-1936",1],
       "date_range_sim":[
         "1901-2000",7],
       "subject_sim":[

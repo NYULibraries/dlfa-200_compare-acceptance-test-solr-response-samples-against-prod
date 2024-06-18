@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":17,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["Lewis Albert Sayre Papers"],
         "unitid_ssm":["MC.113"],
         "abstract_ssm":["This collection is comprised of a notebook containing Lewis Albert Sayre's notes on surgery from the lectures given by Dr. Willard Parker in 1844-1845."],
+        "creator_ssm":["Sayre, Lewis A., 1820-1900",
+          "Sayre, Lewis A., 1820-1900"],
         "unitdate_normal_ssm":["1844/1845"],
         "corpname_ssm":["New York University Archives"],
         "persname_ssm":["Sayre, Lewis A., 1820-1900"],
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1845"],
         "unitdate_ssm":["Inclusive, 1844-1845"],
         "language_ssm":["English"],
-        "_version_":1799256039296598016,
-        "timestamp":"2024-05-17T00:04:33.316Z"},
+        "_version_":1801945750818521088,
+        "timestamp":"2024-06-15T16:36:22.113Z"},
       {
         "id":"mc_113aspace_ref1",
         "ead_ssi":"mc_113",
@@ -75,13 +77,12 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 018, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared University Archives 018, Folder: 1"],
         "heading_ssm":["Lewis Albert Sayre Notebook"],
         "unitdate_ssm":["1844-1845"],
         "language_ssm":["English"],
-        "_version_":1799256039311278080,
-        "timestamp":"2024-05-17T00:04:33.33Z"}]
+        "_version_":1801945750838444032,
+        "timestamp":"2024-06-15T16:36:22.132Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +90,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sayre, Lewis A., 1820-1900",1],
       "date_range_sim":[
         "1801-1900",1,
         "undated & other",1],

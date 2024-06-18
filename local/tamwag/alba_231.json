@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Leonard Cahn Papers"],
         "unitid_ssm":["ALBA.231"],
+        "creator_ssm":["Cahn, Leonard, 1914-",
+          "Cahn, Leonard, 1914-"],
         "unitdate_normal_ssm":["1983/1986"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Cahn, Leonard, 1914-",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, Undated; 1983-1986"],
         "language_ssm":["English"],
-        "_version_":1799748082468913152,
-        "timestamp":"2024-05-22T10:25:22.252Z"},
+        "_version_":1802111422312742912,
+        "timestamp":"2024-06-17T12:29:38.762Z"},
       {
         "id":"alba_231aspace_c39fffacd0d883ff1593e0bc9477867a",
         "ead_ssi":"alba_231",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799748082480447488,
-        "timestamp":"2024-05-22T10:25:22.263Z"}]
+        "_version_":1802111422329520128,
+        "timestamp":"2024-06-17T12:29:38.778Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cahn, Leonard, 1914-",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

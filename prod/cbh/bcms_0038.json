@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -59,8 +59,8 @@
         "heading_ssm":["Brooklyn Badges Collection"],
         "unitdate_ssm":["various"],
         "language_ssm":["English"],
-        "_version_":1775224136622145536,
-        "timestamp":"2023-08-25T17:47:44.961Z"},
+        "_version_":1800823501249052672,
+        "timestamp":"2024-06-03T07:18:41.522Z"},
       {
         "id":"bcms_0038aspace_ref10",
         "ead_ssi":"bcms_0038",
@@ -75,8 +75,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Brooklyn Jockey Club Patrol, No. 40"],
-        "_version_":1775224136672477184,
-        "timestamp":"2023-08-25T17:47:45.009Z"},
+        "_version_":1800823501261635584,
+        "timestamp":"2024-06-03T07:18:41.534Z"},
       {
         "id":"bcms_0038aspace_ref12",
         "ead_ssi":"bcms_0038",
@@ -92,8 +92,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Kings County Sheriff, Special Deputy"],
         "unitdate_ssm":["1898-1899"],
-        "_version_":1775224136723857408,
-        "timestamp":"2023-08-25T17:47:45.058Z"},
+        "_version_":1800823501272121344,
+        "timestamp":"2024-06-03T07:18:41.544Z"},
       {
         "id":"bcms_0038aspace_ref13",
         "ead_ssi":"bcms_0038",
@@ -108,8 +108,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["New York City Municipal Court, Justice Lewis S. Flagg, Jr."],
-        "_version_":1775224136759508992,
-        "timestamp":"2023-08-25T17:47:45.092Z"}]
+        "_version_":1800823501282607104,
+        "timestamp":"2024-06-03T07:18:41.554Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

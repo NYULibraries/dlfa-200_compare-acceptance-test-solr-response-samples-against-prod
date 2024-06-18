@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Thelma E. Smith collection on the William Matthews family genealogy"],
         "unitid_ssm":["ARC.091"],
         "abstract_ssm":["The Thelma E. Smith collection on the William Matthews family contains three folders of material resulting from Smith's research on the history and genealogy of the Matthews family. While the majority of the items were created or collected by Smith during the 1970s, they document the history of the Matthews family as far back as the late 18th century up to the 1970s."],
+        "creator_ssm":["Smith, Thelma E.",
+          "Smith, Thelma E."],
         "unitdate_normal_ssm":["1780/1979"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Green-Wood Cemetery (New York, N.Y.)",
@@ -96,8 +98,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1780s-1970s"],
         "language_ssm":["English"],
-        "_version_":1799312462837710848,
-        "timestamp":"2024-05-17T15:01:22.998Z"}]
+        "_version_":1801958960367927296,
+        "timestamp":"2024-06-15T20:06:19.721Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -105,7 +107,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Smith, Thelma E.",1],
       "date_range_sim":[
         "1701-1800",1,
         "1901-2000",1],

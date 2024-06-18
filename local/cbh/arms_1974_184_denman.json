@@ -47,6 +47,8 @@
         "unittitle_ssm":["Samuel Denman deed"],
         "unitid_ssm":["1974.184"],
         "abstract_ssm":["A handwritten deed from Samuel Denman to Jesse Morrell for a parcel of land in Newtown, Queens County, dated 1806."],
+        "creator_ssm":["Denman, Samuel",
+          "Denman, Samuel"],
         "unitdate_normal_ssm":["1806/1806"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Queens County (N.Y.)",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1806"],
         "unitdate_ssm":["Inclusive, 1806"],
         "language_ssm":["English"],
-        "_version_":1799312406723166208,
-        "timestamp":"2024-05-17T15:00:29.483Z"}]
+        "_version_":1801960425010495488,
+        "timestamp":"2024-06-15T20:29:36.513Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Denman, Samuel",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

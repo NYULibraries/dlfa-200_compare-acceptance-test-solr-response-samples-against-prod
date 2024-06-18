@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Robert Todd Lincoln letter to William B. Davenport"],
         "unitid_ssm":["1977.381"],
         "abstract_ssm":["One 1911 letter from Robert Todd Lincoln to William B. Davenport regarding a visit made by President Abraham Lincoln to Brooklyn to consult with Henry Ward Beecher on the Emancipation Proclamation."],
+        "creator_ssm":["Lincoln, Robert Todd",
+          "Lincoln, Robert Todd"],
         "unitdate_normal_ssm":["1911/1911"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. President (1861-1865 : Lincoln). Emancipation Proclamation"],
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1911"],
         "unitdate_ssm":["1911"],
         "language_ssm":["English"],
-        "_version_":1799311482527154176,
-        "timestamp":"2024-05-17T14:45:48.1Z"}]
+        "_version_":1801961489829986304,
+        "timestamp":"2024-06-15T20:46:32.004Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lincoln, Robert Todd",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

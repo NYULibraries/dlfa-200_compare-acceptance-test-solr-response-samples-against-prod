@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Henry and John Laurens papers"],
         "unitid_ssm":["1974.119"],
         "abstract_ssm":["The collection contains correspondence, reports, and memoirs of Henry Laurens (1724-1792), as well as memoirs of his son John Laurens (1754-1782)."],
+        "creator_ssm":["Laurens, Henry",
+          "Laurens, John",
+          "Laurens, Henry",
+          "Laurens, John"],
         "unitdate_normal_ssm":["1773/1790"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Continental Congress",
@@ -82,8 +86,8 @@
         "unitdate_end_ssm":["1790"],
         "unitdate_ssm":["Inclusive, 1773-1790"],
         "language_ssm":["English"],
-        "_version_":1799311678396956672,
-        "timestamp":"2024-05-17T14:48:54.897Z"}]
+        "_version_":1801960334406189056,
+        "timestamp":"2024-06-15T20:28:10.106Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +95,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Laurens, Henry",1,
+        "Laurens, John",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[],

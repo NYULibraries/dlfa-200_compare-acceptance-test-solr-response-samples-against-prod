@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":32,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["Sean Delonas collection of cartoons from the New York Post"],
         "unitid_ssm":["PR 313"],
         "abstract_ssm":["This collection consists of 113 original drawings of cartoons by Sean Delonas that were published by the New York Post's Page Six between 1990-2013."],
+        "creator_ssm":["Delonas, Sean",
+          "Delonas, Sean"],
         "unitdate_normal_ssm":["1990/2013"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Caricatures.",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["Inclusive, 1990-2013"],
-        "_version_":1775223345728454656,
-        "timestamp":"2023-08-25T17:35:10.706Z"},
+        "_version_":1801059114880598016,
+        "timestamp":"2024-06-05T21:43:40.191Z"},
       {
         "id":"pr313_sean_delonas_cartoonsaspace_ref3_sq8",
         "ead_ssi":"pr313_sean_delonas_cartoons",
@@ -85,8 +87,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["113 cartoons by Sean Delonas, published in the New York Post"],
         "unitdate_ssm":["1990-2013"],
-        "_version_":1775223345765154816,
-        "timestamp":"2023-08-25T17:35:10.74Z"}]
+        "_version_":1801059114894229504,
+        "timestamp":"2024-06-05T21:43:40.204Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +96,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Delonas, Sean",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

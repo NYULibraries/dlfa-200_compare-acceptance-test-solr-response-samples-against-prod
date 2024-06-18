@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lee Stookey Papers"],
         "unitid_ssm":["WAG.350"],
         "abstract_ssm":["The Lee Stookey Papers contain documents recording Stookey's efforts to improve New York City public schools. A member of New York, New York's District 13 Community School Board she wrote a series of reports on public education based on her experiences."],
+        "creator_ssm":["Stookey, Lee",
+          "Stookey, Lee"],
         "unitdate_normal_ssm":["1969/1980"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Stookey, Lee",
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1969-1980"],
-        "_version_":1799805433166168064,
-        "timestamp":"2024-05-23T01:36:56.139Z"},
+        "_version_":1802197539848454144,
+        "timestamp":"2024-06-18T11:18:26.844Z"},
       {
         "id":"wag_350aspace_571a0946866430f37fc78748ac581fec",
         "ead_ssi":"wag_350",
@@ -81,14 +83,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-15",
-          "Folder: 1-15"],
+        "location_ssm":["Box: 1, Folder: 1-15"],
         "heading_ssm":["Public school board material"],
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1969-1980"],
-        "_version_":1799805433180848128,
-        "timestamp":"2024-05-23T01:36:56.153Z"}]
+        "_version_":1802197539858939904,
+        "timestamp":"2024-06-18T11:18:26.853Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +97,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stookey, Lee",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

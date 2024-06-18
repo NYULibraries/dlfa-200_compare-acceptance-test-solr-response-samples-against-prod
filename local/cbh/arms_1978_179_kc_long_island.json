@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Knights of Columbus of Long Island records"],
         "unitid_ssm":["1978.179"],
         "abstract_ssm":["The collection includes a constitution, reports, printed communications, newsletters, and programs from the Knights of Columbus of Long Island, dated 1901 to 1966. Some Brooklyn material is included."],
+        "creator_ssm":["Knights of Columbus",
+          "Knights of Columbus"],
         "unitdate_normal_ssm":["1901/1966"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Knights of Columbus",
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["1966"],
         "unitdate_ssm":["Inclusive, 1901-1966"],
         "language_ssm":["English"],
-        "_version_":1799309973959737344,
-        "timestamp":"2024-05-17T14:21:49.419Z"}]
+        "_version_":1801962653593108480,
+        "timestamp":"2024-06-15T21:05:01.855Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Knights of Columbus",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

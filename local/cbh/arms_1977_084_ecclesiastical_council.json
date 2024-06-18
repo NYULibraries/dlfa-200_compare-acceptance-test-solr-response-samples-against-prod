@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["New York City Congregational Church Association ecclesiastical council minutes"],
         "unitid_ssm":["1977.084"],
         "abstract_ssm":["The minutes from 1868 to 1954 include resolutions and document proceedings regarding the establishment of congregations, ordinations, enstatements and dismissals of clergy, and investigations into church matters in Brooklyn and New York City Congregational churches."],
+        "creator_ssm":["New York and Brooklyn Association of Congregational Churches",
+          "New York City Congregational Church Association",
+          "New York and Brooklyn Association of Congregational Churches",
+          "New York City Congregational Church Association"],
         "unitdate_normal_ssm":["1868/1954"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York and Brooklyn Association of Congregational Churches",
@@ -82,8 +86,8 @@
         "unitdate_end_ssm":["1954"],
         "unitdate_ssm":["Inclusive, 1868-1954"],
         "language_ssm":["English"],
-        "_version_":1799256208085876736,
-        "timestamp":"2024-05-17T00:07:14.285Z"}]
+        "_version_":1801960670730649600,
+        "timestamp":"2024-06-15T20:33:30.849Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +95,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York City Congregational Church Association",1,
+        "New York and Brooklyn Association of Congregational Churches",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

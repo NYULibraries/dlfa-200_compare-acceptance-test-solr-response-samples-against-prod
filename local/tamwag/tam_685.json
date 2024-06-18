@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Rachel Searcy"],
         "unittitle_ssm":["Q-Wave Costumes and Posters from Lunar New Year for All Parades"],
-        "unitid_ssm":["TAM.685",
-          "/repositories/2/resources/1240"],
+        "unitid_ssm":["TAM.685"],
         "abstract_ssm":["Q-Wave is a community organization dedicated to the support of and advocacy for individuals of Asian and/or Pacific Islander descent who identify as gay, lesbian, bisexual, queer, transgender, gender variant, or questioning. The organization aims to promote visibility and empowerment through various forms of social, political, and educational organizing, including lectures, workshops, film screenings, and participation in public demonstrations. This collection consists of materials created and used for the Q-Wave contingent of the 2014 and 2015 Lunar New Year for All parades in New York City. Materials include a rainbow sash, two sheep costumes to celebrate the Year of the Sheep, and 14 demonstration posters with messages in Chinese, English, and Japanese promoting inclusivity and challenging homophobia and discrimination."],
+        "creator_ssm":["Q-Wave",
+          "Q-Wave"],
         "unitdate_normal_ssm":["2014/2017"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Q-Wave",
@@ -71,15 +72,15 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 2014-2017"],
-        "_version_":1799334026774839296,
-        "timestamp":"2024-05-17T20:44:07.971Z"},
+        "_version_":1802184018239684608,
+        "timestamp":"2024-06-18T07:43:31.633Z"},
       {
         "id":"tam_685aspace_65c81d2b5713655d10bc403e59806894",
         "ead_ssi":"tam_685",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Q-Wave Costumes and Posters from Lunar New Year for All Parades"],
-        "collection_unitid_ssm":["TAM.685/repositories/2/resources/1240"],
+        "collection_unitid_ssm":["TAM.685"],
         "unittitle_ssm":["Year of the Rooster Parade Posters"],
         "unitid_ssm":["/repositories/2/archival_objects/801596"],
         "unitdate_normal_ssm":["2017/2017"],
@@ -96,15 +97,15 @@
         "unitdate_start_ssm":["2017"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["2017"],
-        "_version_":1799334026842996736,
-        "timestamp":"2024-05-17T20:44:08.036Z"},
+        "_version_":1802184018300502016,
+        "timestamp":"2024-06-18T07:43:31.691Z"},
       {
         "id":"tam_685aspace_ref12",
         "ead_ssi":"tam_685",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Q-Wave Costumes and Posters from Lunar New Year for All Parades"],
-        "collection_unitid_ssm":["TAM.685/repositories/2/resources/1240"],
+        "collection_unitid_ssm":["TAM.685"],
         "unittitle_ssm":["Year of the Sheep Costumes"],
         "unitid_ssm":["/repositories/2/archival_objects/244587"],
         "unitdate_normal_ssm":["2014/2015"],
@@ -118,15 +119,15 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 2014-2015"],
-        "_version_":1799334026792665088,
-        "timestamp":"2024-05-17T20:44:07.988Z"},
+        "_version_":1802184018256461824,
+        "timestamp":"2024-06-18T07:43:31.649Z"},
       {
         "id":"tam_685aspace_ref13",
         "ead_ssi":"tam_685",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Q-Wave Costumes and Posters from Lunar New Year for All Parades"],
-        "collection_unitid_ssm":["TAM.685/repositories/2/resources/1240"],
+        "collection_unitid_ssm":["TAM.685"],
         "unittitle_ssm":["Rainbow Sash"],
         "unitid_ssm":["/repositories/2/archival_objects/244588"],
         "unitdate_normal_ssm":["2014/2015"],
@@ -139,15 +140,15 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 2014-2015"],
-        "_version_":1799334026808393728,
-        "timestamp":"2024-05-17T20:44:08.002Z"},
+        "_version_":1802184018266947584,
+        "timestamp":"2024-06-18T07:43:31.659Z"},
       {
         "id":"tam_685aspace_ref14",
         "ead_ssi":"tam_685",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Q-Wave Costumes and Posters from Lunar New Year for All Parades"],
-        "collection_unitid_ssm":["TAM.685/repositories/2/resources/1240"],
+        "collection_unitid_ssm":["TAM.685"],
         "unittitle_ssm":["Parade Signs and Posters"],
         "unitid_ssm":["/repositories/2/archival_objects/244589"],
         "unitdate_normal_ssm":["2014/2015"],
@@ -166,8 +167,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 2014-2015"],
-        "_version_":1799334026827268096,
-        "timestamp":"2024-05-17T20:44:08.021Z"}]
+        "_version_":1802184018285821952,
+        "timestamp":"2024-06-18T07:43:31.677Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -175,7 +176,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Q-Wave",1],
       "date_range_sim":[
         "2001-2100",5],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Nathan Gross Papers"],
         "unitid_ssm":["ALBA.257"],
+        "creator_ssm":["Gross, Nathan, 1914-",
+          "Gross, Nathan, 1914-"],
         "unitdate_normal_ssm":["1937/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Gross, Nathan, 1914-",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, circa 1930s-1990s"],
         "language_ssm":["English"],
-        "_version_":1799748102476791808,
-        "timestamp":"2024-05-22T10:25:41.333Z"},
+        "_version_":1802111493897977856,
+        "timestamp":"2024-06-17T12:30:47.031Z"},
       {
         "id":"alba_257aspace_6e3b41d60baa545a7cbf6c68f7d45faa",
         "ead_ssi":"alba_257",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799748102489374720,
-        "timestamp":"2024-05-22T10:25:41.345Z"}]
+        "_version_":1802111493919997952,
+        "timestamp":"2024-06-17T12:30:47.052Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gross, Nathan, 1914-",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

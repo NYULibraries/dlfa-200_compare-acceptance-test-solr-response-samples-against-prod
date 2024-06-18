@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Yapp Culyer collection"],
         "unitid_ssm":["1977.430"],
         "abstract_ssm":["The John Yapp Culyer collection dates from circa 1870s to 1955 and consists of photographs and newspaper clippings concerning John Yapp Culyer and other members of the Culyer family."],
+        "creator_ssm":["Brooklyn Daily Eagle (Firm)",
+          "Brooklyn Daily Eagle (Firm)"],
         "unitdate_normal_ssm":["1870/1955"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Daily Eagle (Firm)"],
@@ -77,8 +79,8 @@
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["Inclusive, circa 1870s-1955"],
         "language_ssm":["English"],
-        "_version_":1799256323466985472,
-        "timestamp":"2024-05-17T00:09:04.322Z"}]
+        "_version_":1801961661603512320,
+        "timestamp":"2024-06-15T20:49:15.82Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Daily Eagle (Firm)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

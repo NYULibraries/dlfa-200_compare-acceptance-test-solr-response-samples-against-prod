@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["David Weiner Papers on the United Federation of Teachers"],
         "unitid_ssm":["TAM.164"],
         "abstract_ssm":["From the 1960s to the 1990s, educator and activist David Weiner was a member of the Teachers Union of New York and the United Federation of Teachers. He was also a member of the left-wing opposition group the Teachers Action Caucus. This collection consists of materials from his involvement in those organizations. Included are correspondence, notes, agendas and minutes, article drafts and publications, newsletters, clippings, broadsides, and promotional materials."],
+        "creator_ssm":["Weiner, David",
+          "Weiner, David"],
         "unitdate_normal_ssm":["1924/2006"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Teachers' Union of the City of New York",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1924"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, 1924-2006"],
-        "_version_":1799781060295262208,
-        "timestamp":"2024-05-22T19:09:32.358Z"},
+        "_version_":1802170284854214656,
+        "timestamp":"2024-06-18T04:05:14.456Z"},
       {
         "id":"tam_164aspace_0bb06468c521593b30a3421fe6f6afe1",
         "ead_ssi":"tam_164",
@@ -91,8 +93,8 @@
         "unitdate_start_ssm":["1949"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1949-1995"],
-        "_version_":1799781060518608896,
-        "timestamp":"2024-05-22T19:09:32.571Z"},
+        "_version_":1802170284991578112,
+        "timestamp":"2024-06-18T04:05:14.587Z"},
       {
         "id":"tam_164aspace_28d1d34587301ddd3ddff7d1eefd3f27",
         "ead_ssi":"tam_164",
@@ -114,8 +116,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1990-2002"],
-        "_version_":1799781060423188480,
-        "timestamp":"2024-05-22T19:09:32.48Z"},
+        "_version_":1802170284933906432,
+        "timestamp":"2024-06-18T04:05:14.532Z"},
       {
         "id":"tam_164aspace_460cf72350719da25118015e8c3f313c",
         "ead_ssi":"tam_164",
@@ -137,8 +139,8 @@
         "unitdate_start_ssm":["1939"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1939-2004"],
-        "_version_":1799781060534337536,
-        "timestamp":"2024-05-22T19:09:32.586Z"},
+        "_version_":1802170285001015296,
+        "timestamp":"2024-06-18T04:05:14.596Z"},
       {
         "id":"tam_164aspace_49ef76719381ea6f52cac3ab1693cbbd",
         "ead_ssi":"tam_164",
@@ -160,8 +162,8 @@
         "unitdate_start_ssm":["1949"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1949-1977"],
-        "_version_":1799781060489248768,
-        "timestamp":"2024-05-22T19:09:32.543Z"},
+        "_version_":1802170284973752320,
+        "timestamp":"2024-06-18T04:05:14.57Z"},
       {
         "id":"tam_164aspace_4fc704f37a38a0ce44095fd6719e7fa2",
         "ead_ssi":"tam_164",
@@ -179,8 +181,8 @@
         "unitdate_start_ssm":["1949"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, 1949-2006"],
-        "_version_":1799781060309942272,
-        "timestamp":"2024-05-22T19:09:32.372Z"},
+        "_version_":1802170284863651840,
+        "timestamp":"2024-06-18T04:05:14.465Z"},
       {
         "id":"tam_164aspace_5961ea6f016ff9dd5696f4420bfba572",
         "ead_ssi":"tam_164",
@@ -202,8 +204,8 @@
         "unitdate_start_ssm":["1955"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1955-1969"],
-        "_version_":1799781060345593856,
-        "timestamp":"2024-05-22T19:09:32.406Z"},
+        "_version_":1802170284886720512,
+        "timestamp":"2024-06-18T04:05:14.487Z"},
       {
         "id":"tam_164aspace_7931b3595857d6b2b63a300b2a8e7472",
         "ead_ssi":"tam_164",
@@ -225,8 +227,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1968-1990"],
-        "_version_":1799781060360273920,
-        "timestamp":"2024-05-22T19:09:32.42Z"},
+        "_version_":1802170284896157696,
+        "timestamp":"2024-06-18T04:05:14.496Z"},
       {
         "id":"tam_164aspace_8581de2ff778a15db3683dee18c022c9",
         "ead_ssi":"tam_164",
@@ -248,8 +250,8 @@
         "unitdate_start_ssm":["1995"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, 1995-2006"],
-        "_version_":1799781060437868544,
-        "timestamp":"2024-05-22T19:09:32.494Z"},
+        "_version_":1802170284943343616,
+        "timestamp":"2024-06-18T04:05:14.541Z"},
       {
         "id":"tam_164aspace_861826c79506efb33211c7a04f50ab03",
         "ead_ssi":"tam_164",
@@ -271,8 +273,8 @@
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1979-1991"],
-        "_version_":1799781060390682624,
-        "timestamp":"2024-05-22T19:09:32.449Z"},
+        "_version_":1802170284916080640,
+        "timestamp":"2024-06-18T04:05:14.515Z"},
       {
         "id":"tam_164aspace_8dd0eb584d978914a77a340f3fe65b3d",
         "ead_ssi":"tam_164",
@@ -298,8 +300,8 @@
         "unitdate_start_ssm":["1966"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1966-1992"],
-        "_version_":1799781060457791488,
-        "timestamp":"2024-05-22T19:09:32.513Z"},
+        "_version_":1802170284954877952,
+        "timestamp":"2024-06-18T04:05:14.552Z"},
       {
         "id":"tam_164aspace_97aacf785f3c57ef1e92d036f0b7c9e4",
         "ead_ssi":"tam_164",
@@ -321,8 +323,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1973-1991"],
-        "_version_":1799781060376002560,
-        "timestamp":"2024-05-22T19:09:32.435Z"},
+        "_version_":1802170284906643456,
+        "timestamp":"2024-06-18T04:05:14.505Z"},
       {
         "id":"tam_164aspace_b5aed930e3c15d46b7cda88de84cf75a",
         "ead_ssi":"tam_164",
@@ -344,8 +346,8 @@
         "unitdate_start_ssm":["1924"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1924-2002"],
-        "_version_":1799781060502880256,
-        "timestamp":"2024-05-22T19:09:32.556Z"},
+        "_version_":1802170284983189504,
+        "timestamp":"2024-06-18T04:05:14.579Z"},
       {
         "id":"tam_164aspace_fd26fb969b2aecbc529eed028643bc42",
         "ead_ssi":"tam_164",
@@ -367,8 +369,8 @@
         "unitdate_start_ssm":["1949"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, 1949-1959"],
-        "_version_":1799781060324622336,
-        "timestamp":"2024-05-22T19:09:32.386Z"},
+        "_version_":1802170284873089024,
+        "timestamp":"2024-06-18T04:05:14.474Z"},
       {
         "id":"tam_164aspace_fd6c1df7b9136d06305475f46cd8761b",
         "ead_ssi":"tam_164",
@@ -390,8 +392,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, 1987-2006"],
-        "_version_":1799781060406411264,
-        "timestamp":"2024-05-22T19:09:32.464Z"},
+        "_version_":1802170284924469248,
+        "timestamp":"2024-06-18T04:05:14.523Z"},
       {
         "id":"tam_164aspace_fe00611529b6af7a36d0dec47211c1d4",
         "ead_ssi":"tam_164",
@@ -409,8 +411,8 @@
         "unitdate_start_ssm":["1924"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1924-2004"],
-        "_version_":1799781060473520128,
-        "timestamp":"2024-05-22T19:09:32.528Z"}]
+        "_version_":1802170284964315136,
+        "timestamp":"2024-06-18T04:05:14.561Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -418,7 +420,8 @@
       "repository_sim":[
         "tamwag",16],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Weiner, David",1],
       "date_range_sim":[
         "1901-2000",16,
         "2001-2100",8],

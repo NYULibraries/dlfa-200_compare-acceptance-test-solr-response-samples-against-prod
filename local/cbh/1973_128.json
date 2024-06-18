@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jeremiah Johnson manuscript on the Flatbush Dutch Reformed Church"],
         "unitid_ssm":["1973.128"],
         "abstract_ssm":["A handwritten manuscript by Jeremiah Johnson circa 1850 with notes on the history of the Flatbush Dutch Reformed Church from 1656-1824."],
+        "creator_ssm":["Johnson, Jeremiah",
+          "Johnson, Jeremiah"],
         "unitdate_normal_ssm":["1850/1850"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Flatbush Dutch Reformed Church (Flatbush, New York, N.Y.)"],
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1850"],
         "unitdate_ssm":["circa 1850"],
         "language_ssm":["English"],
-        "_version_":1799312232566226944,
-        "timestamp":"2024-05-17T14:57:43.394Z"}]
+        "_version_":1801957928405565440,
+        "timestamp":"2024-06-15T19:49:55.565Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Johnson, Jeremiah",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

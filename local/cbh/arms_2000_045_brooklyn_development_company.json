@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Brooklyn Development Company records"],
         "unitid_ssm":["2000.045"],
         "abstract_ssm":["This collection consists of 27 annual reports of the Brooklyn Development Company and one annual report of the the Greater New York Development Company. The records span the period 1901 to 1924 and measure 0.2 linear feet. The Brooklyn Development Company was formed in 1899 and comprised 16 Brooklyn-based real estate firms with combined total asset holdings of $300,000 and 726 acres of land."],
+        "creator_ssm":["Greater New York Development Company",
+          "Sookikian, Vahram",
+          "Brooklyn Development Company",
+          "Greater New York Development Company",
+          "Brooklyn Development Company",
+          "Sookikian, Vahram"],
         "unitdate_normal_ssm":["1901/1924"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Greater New York Development Company",
@@ -69,8 +75,8 @@
         "unitdate_end_ssm":["1924"],
         "unitdate_ssm":["Inclusive, 1901-1924"],
         "language_ssm":["English"],
-        "_version_":1799256188684075008,
-        "timestamp":"2024-05-17T00:06:55.782Z"}]
+        "_version_":1801963843750985728,
+        "timestamp":"2024-06-15T21:23:56.878Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +84,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Development Company",1,
+        "Greater New York Development Company",1,
+        "Sookikian, Vahram",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

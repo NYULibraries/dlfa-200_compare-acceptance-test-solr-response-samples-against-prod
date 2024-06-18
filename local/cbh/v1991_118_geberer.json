@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Raanan Geberer photographs of Brooklyn neighborhoods"],
         "unitid_ssm":["V1991.118"],
         "abstract_ssm":["The collection documents various Brooklyn neighborhoods from 1988 to 1990, including Coney Island, Flatbush, Manhattan Beach, Midwood, Bay Ridge, and Brighton Beach, among others. Photographs also include areas within Prospect Park. All are taken outdoors with the primary subjects being houses along Glenwood Road in Flatbush; street views of people on sidewalks; views taken from subway platforms; and people engaged in outdoor summertime activities. The photographer places some emphasis on documenting Jewish life in Brooklyn."],
+        "creator_ssm":["Geberer, Raanan",
+          "Geberer, Raanan"],
         "unitdate_normal_ssm":["1988/1990"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Color prints (photographs)",
@@ -79,8 +81,8 @@
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1988-1990"],
         "language_ssm":["English"],
-        "_version_":1799311500115968000,
-        "timestamp":"2024-05-17T14:46:04.875Z"}]
+        "_version_":1802045549611843584,
+        "timestamp":"2024-06-16T19:02:37.658Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Geberer, Raanan",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Platt Stratton correspondence and property advertisement"],
         "unitid_ssm":["1974.237"],
         "abstract_ssm":["One letter from Platt Stratton of Flushing Bay, Queens County, to Oliver H. Jones of New York City, regarding the printing of an advertisement for property on the east side of Flushing Bay that Stratton would like to sell.  The letter is accompanied by the handwritten advertisement, describing the dimensions of the property, that Stratton would like to have printed."],
+        "creator_ssm":["Stratton, Platt",
+          "Stratton, Platt"],
         "unitdate_normal_ssm":["1830/1860"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Advertisements",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1860"],
         "unitdate_ssm":["Inclusive, circa 1840-1850"],
         "language_ssm":["English"],
-        "_version_":1799256290874097664,
-        "timestamp":"2024-05-17T00:08:33.239Z"}]
+        "_version_":1801960483783180288,
+        "timestamp":"2024-06-15T20:30:32.563Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stratton, Platt",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

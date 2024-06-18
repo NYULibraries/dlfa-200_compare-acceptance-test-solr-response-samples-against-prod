@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":28,
+    "QTime":25,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Mordecai Barles Papers"],
         "unitid_ssm":["WAG.083"],
+        "creator_ssm":["Barles, Mordecai",
+          "Barles, Mordecai"],
         "unitdate_normal_ssm":["1890/1920"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Barles, Mordecai"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, circa 1890s-1920s"],
         "language_ssm":["English"],
-        "_version_":1775226138901086208,
-        "timestamp":"2023-08-25T18:19:34.483Z"},
+        "_version_":1801314236587048960,
+        "timestamp":"2024-06-08T17:18:43.21Z"},
       {
         "id":"wag_083aspace_d39715aa02432f2bc2b7496d0645041e",
         "ead_ssi":"wag_083",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1775226138935689216,
-        "timestamp":"2023-08-25T18:19:34.515Z"}]
+        "_version_":1801314236601729024,
+        "timestamp":"2024-06-08T17:18:43.224Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Barles, Mordecai",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

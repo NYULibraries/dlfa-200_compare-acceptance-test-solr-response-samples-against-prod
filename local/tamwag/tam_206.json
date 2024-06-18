@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Camp Wo-Chi-Ca Records"],
         "unitid_ssm":["TAM.206"],
+        "creator_ssm":["Camp Wo-Chi-Ca (N.J.)",
+          "Camp Wo-Chi-Ca (N.J.)"],
         "unitdate_normal_ssm":["1937/1976",
           "1937/1947"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1976",
           "1947"],
         "unitdate_ssm":["Inclusive, 1937-1976 ; 1937-1947"],
-        "_version_":1799782301667688448,
-        "timestamp":"2024-05-22T19:29:16.223Z"}]
+        "_version_":1802171145401663488,
+        "timestamp":"2024-06-18T04:18:55.138Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Camp Wo-Chi-Ca (N.J.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

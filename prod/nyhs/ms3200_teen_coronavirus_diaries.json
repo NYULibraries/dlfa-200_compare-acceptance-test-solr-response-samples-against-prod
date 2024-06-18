@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":20,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Teen coronavirus diaries collection"],
         "unitid_ssm":["MS 3200"],
         "abstract_ssm":["The Teen Coronavirus Diaries Collection consists of diary entries, images, videos, and slideshow presentations submitted by 162 teenagers in March 2020 through June 2020. In these submissions, teenagers share their experiences, thoughts, and feelings regarding the coronavirus, which includes topics such as remote learning, quarantine, and other current events."],
+        "creator_ssm":["New-York Historical Society. Education Department",
+          "New-York Historical Society. Education Department"],
         "corpname_ssm":["New-York Historical Society",
           "New-York Historical Society. Education Department"],
         "genreform_ssm":["Diaries."],
@@ -64,8 +66,8 @@
         "material_type_ssm":["Diaries."],
         "heading_ssm":["Teen coronavirus diaries collection"],
         "unitdate_ssm":["Inclusive, 2020 March-June "],
-        "_version_":1776211523610345472,
-        "timestamp":"2023-09-05T15:21:50.572Z"},
+        "_version_":1801012866201944064,
+        "timestamp":"2024-06-05T09:28:34.014Z"},
       {
         "id":"ms3200_teen_coronavirus_diariesaspace_6c839138a1302e37da8bcadc3d84ce93",
         "ead_ssi":"ms3200_teen_coronavirus_diaries",
@@ -81,8 +83,8 @@
         "location_ssm":["Digital-File: MS3200"],
         "heading_ssm":["Student submissions"],
         "language_ssm":["English"],
-        "_version_":1776211523643899904,
-        "timestamp":"2023-09-05T15:21:50.604Z"}]
+        "_version_":1801012866216624128,
+        "timestamp":"2024-06-05T09:28:34.028Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +92,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New-York Historical Society. Education Department",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

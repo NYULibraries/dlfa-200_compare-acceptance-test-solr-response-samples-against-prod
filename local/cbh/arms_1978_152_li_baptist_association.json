@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Long Island Baptist Association records"],
         "unitid_ssm":["1978.152"],
         "abstract_ssm":["Deeds, titles, correspondence, and memos pertaining to the Long Island Baptist Association and the People's Baptist Church (also known as the Bethel Baptist Church), both located in Sag Harbor, New York."],
+        "creator_ssm":["Bethel Baptist Church (Sag Harbor, N.Y.)",
+          "Long Island Baptist Association",
+          "Bethel Baptist Church (Sag Harbor, N.Y.)",
+          "Long Island Baptist Association"],
         "unitdate_normal_ssm":["1819/1923"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Bethel Baptist Church (Sag Harbor, N.Y.)",
@@ -77,8 +81,8 @@
         "unitdate_end_ssm":["1923"],
         "unitdate_ssm":["Inclusive, 1819-1923"],
         "language_ssm":["English"],
-        "_version_":1799311477672247296,
-        "timestamp":"2024-05-17T14:45:43.471Z"}]
+        "_version_":1801962585921159168,
+        "timestamp":"2024-06-15T21:03:57.318Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +90,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bethel Baptist Church (Sag Harbor, N.Y.)",1,
+        "Long Island Baptist Association",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

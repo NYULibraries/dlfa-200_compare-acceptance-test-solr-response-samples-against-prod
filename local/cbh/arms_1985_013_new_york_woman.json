@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>The New York Woman </em> magazine collection"],
         "unitid_ssm":["1985.013"],
         "abstract_ssm":["This collection contains approximately 30 issues of The New York Woman spanning September 16, 1936 to March 31, 1937.  The New York Woman was a weekly women's magazine published in New York City during the 1930s.  The magazine's focus was on fashion, home furnishings, entertainment, and special articles reflecting women's interests."],
+        "creator_ssm":["New York Woman, Inc. (New York, N.Y.)",
+          "New York Woman, Inc. (New York, N.Y.)"],
         "unitdate_normal_ssm":["1936/1937"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Woman, Inc. (New York, N.Y.)"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Inclusive, 1936-1937"],
         "language_ssm":["English"],
-        "_version_":1799312463979610112,
-        "timestamp":"2024-05-17T15:01:24.087Z"}]
+        "_version_":1801962921128886272,
+        "timestamp":"2024-06-15T21:09:16.997Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York Woman, Inc. (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn and Jamaica Plank Road Company records"],
         "unitid_ssm":["1978.037"],
         "abstract_ssm":["The Brooklyn and Jamaica Plank Road Company records contain abstracts of laws authorizing the organization of the Brooklyn Jamaica and Flatbush Turnpike Company, the building of the road, and laws closing portions of the road lying within the city in Brooklyn."],
+        "creator_ssm":["Brooklyn and Jamaica Plank Road Company",
+          "Brooklyn and Jamaica Plank Road Company"],
         "unitdate_normal_ssm":["1807/1875"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn and Jamaica Plank Road Company",
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1875"],
         "unitdate_ssm":["Inclusive, 1807-1875"],
         "language_ssm":["English"],
-        "_version_":1799256498203787264,
-        "timestamp":"2024-05-17T00:11:50.964Z"}]
+        "_version_":1801962302426054656,
+        "timestamp":"2024-06-15T20:59:26.955Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn and Jamaica Plank Road Company",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

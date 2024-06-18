@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Thomas and John Cooper estate papers"],
         "unitid_ssm":["1977.358"],
         "abstract_ssm":["This collection consists of photocopies of the will of Thomas Cooper, dated 1742, and photocopies of a letter of administration of the estate of John Cooper to executor Annanias Cooper, dated 1756. The Cooper family lived in Southampton, Long Island."],
+        "creator_ssm":["Cooper, Thomas",
+          "Cooper, John",
+          "Cooper, Thomas",
+          "Cooper, John"],
         "unitdate_normal_ssm":["1742/1756"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Cooper family"],
@@ -73,8 +77,8 @@
         "unitdate_end_ssm":["1756"],
         "unitdate_ssm":["Inclusive, 1742-1756"],
         "language_ssm":["English"],
-        "_version_":1799311676787392512,
-        "timestamp":"2024-05-17T14:48:53.362Z"}]
+        "_version_":1801961426200297472,
+        "timestamp":"2024-06-15T20:45:31.322Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +86,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cooper, John",1,
+        "Cooper, Thomas",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

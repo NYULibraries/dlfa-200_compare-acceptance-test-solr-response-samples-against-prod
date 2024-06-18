@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["James Dominick lease to Josiah Lane"],
         "unitid_ssm":["1977.604"],
         "abstract_ssm":["Lease to Josiah A. Lane from landlord James Dominick for premises at 19 Chatharine (Catherine) Street in New York City. Dated 1862."],
+        "creator_ssm":["Dominick, James",
+          "Dominick, James"],
         "unitdate_normal_ssm":["1862/1862"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Leases"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1862"],
         "unitdate_ssm":["1862"],
         "language_ssm":["English"],
-        "_version_":1799312378705215488,
-        "timestamp":"2024-05-17T15:00:02.763Z"}]
+        "_version_":1801962056812855296,
+        "timestamp":"2024-06-15T20:55:32.721Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dominick, James",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

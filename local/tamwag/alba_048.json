@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":16,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Manny Harriman Papers"],
         "unitid_ssm":["ALBA.048"],
+        "creator_ssm":["Harriman, Manny",
+          "Harriman, Manny"],
         "unitdate_normal_ssm":["1957/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Harriman, Manny"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1957-1980s"],
         "language_ssm":["English"],
-        "_version_":1799747816051965952,
-        "timestamp":"2024-05-22T10:21:08.177Z"}]
+        "_version_":1802110791007076352,
+        "timestamp":"2024-06-17T12:19:36.702Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Harriman, Manny",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

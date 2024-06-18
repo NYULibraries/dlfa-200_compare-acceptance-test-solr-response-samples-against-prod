@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Brooklyn pharmacy and medicine bottles"],
         "unitid_ssm":["2013.022"],
         "abstract_ssm":["The collection consists of 29 pharmacy and medicine bottles of various sizes produced or used by Brooklyn druggists, pharmacies, and pharmaceutical manufacturing companies, dating from around 1880 to 1920."],
+        "creator_ssm":["Kone, Allen J.",
+          "Lyon Manufacturing Company (Brooklyn, New York, N.Y.)",
+          "Lyon Manufacturing Company (Brooklyn, New York, N.Y.)",
+          "Kone, Allen J."],
         "unitdate_normal_ssm":["1880/1920"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Lyon Manufacturing Company (Brooklyn, New York, N.Y.)",
@@ -84,8 +88,8 @@
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, circa 1880 to 1920"],
         "language_ssm":["English"],
-        "_version_":1799256491418451968,
-        "timestamp":"2024-05-17T00:11:44.493Z"}]
+        "_version_":1801964888566792192,
+        "timestamp":"2024-06-15T21:40:33.292Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +97,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kone, Allen J.",1,
+        "Lyon Manufacturing Company (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

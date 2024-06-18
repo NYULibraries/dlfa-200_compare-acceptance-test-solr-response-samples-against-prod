@@ -47,6 +47,8 @@
         "unittitle_ssm":["Prospect Club records"],
         "unitid_ssm":["ARC.068"],
         "abstract_ssm":["The collection includes reports of the Prospect Club corresponding secretary, 1911-1935; a scrapbook of news clippings, 1939-1941; the treasurer's account book, 1922-1960; lists of members present at meetings, 1920-1925; minute books, 1897-1942; programs; and correspondence. These materials chronicle the activities of the Prospect Club, with detailed descriptions of study meetings and documentation of the club's contributions to larger womens' organizations and charitable funds."],
+        "creator_ssm":["Prospect Club (Park Slope, New York, N.Y.)",
+          "Prospect Club (Park Slope, New York, N.Y.)"],
         "unitdate_normal_ssm":["1897/1958"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Prospect Club (Park Slope, New York, N.Y.)"],
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["1958"],
         "unitdate_ssm":["Inclusive, 1897-1958"],
         "language_ssm":["English"],
-        "_version_":1799256200839168000,
-        "timestamp":"2024-05-17T00:07:07.375Z"}]
+        "_version_":1801958873158909952,
+        "timestamp":"2024-06-15T20:04:56.552Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Prospect Club (Park Slope, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

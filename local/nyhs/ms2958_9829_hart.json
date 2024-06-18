@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":18,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["Richard P. Hart letter to James Crombie"],
         "unitid_ssm":["AHMC - Hart, Richard P."],
         "abstract_ssm":["Letter from Richard Philip Hart at Troy, New York, to James Crombie, at Fulton, New York, discussing the sale of crops, rental of farmland, the possible acquisition of buildings, and the proposed construction of a dam to provide water power. For fuller details about this item, and to request it for research, please read its catalog record, or write to reference@nyhistory.org."],
+        "creator_ssm":["Hart, Richard Philip, 1780-1843",
+          "Hart, Richard Philip, 1780-1843"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Hart, Richard Philip, 1780-1843"],
         "collection_ssm":["Richard P. Hart letter to James Crombie"],
@@ -57,8 +59,8 @@
         "heading_ssm":["Richard P. Hart letter to James Crombie"],
         "unitdate_ssm":["1842 November 30"],
         "language_ssm":["English"],
-        "_version_":1799324272083075072,
-        "timestamp":"2024-05-17T18:09:05.171Z"}]
+        "_version_":1802083748257202176,
+        "timestamp":"2024-06-17T05:09:46.726Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hart, Richard Philip, 1780-1843",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

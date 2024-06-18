@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["John B. Andrews Papers"],
         "unitid_ssm":["TAM.113"],
+        "creator_ssm":["Andrews, John B. (John Bertram), 1880-1943",
+          "Andrews, John B. (John Bertram), 1880-1943"],
         "unitdate_normal_ssm":["1906/1908"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Knights of Labor"],
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1906"],
         "unitdate_end_ssm":["1908"],
         "unitdate_ssm":["Inclusive, 1906-1908"],
-        "_version_":1799777355050254336,
-        "timestamp":"2024-05-22T18:10:38.761Z"},
+        "_version_":1802167673782534144,
+        "timestamp":"2024-06-18T03:23:44.344Z"},
       {
         "id":"tam_113aspace_7e6bb5817488b79bd8b29cf42535f174",
         "ead_ssi":"tam_113",
@@ -85,8 +87,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Papers"],
-        "_version_":1799777355062837248,
-        "timestamp":"2024-05-22T18:10:38.773Z"}]
+        "_version_":1802167673791971328,
+        "timestamp":"2024-06-18T03:23:44.353Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +96,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Andrews, John B. (John Bertram), 1880-1943",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

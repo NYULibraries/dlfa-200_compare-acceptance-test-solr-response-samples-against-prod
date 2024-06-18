@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John E. Williamson certificate"],
         "unitid_ssm":["1977.371"],
         "abstract_ssm":["One 1897 certificate issued to John E. Williamson, granting him license to pilot steam vessels in New York Harbor."],
+        "creator_ssm":["Williamson, John E.",
+          "Williamson, John E."],
         "unitdate_normal_ssm":["1897/1897"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Licenses",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1897"],
         "unitdate_ssm":["1897"],
         "language_ssm":["English"],
-        "_version_":1799311682699264000,
-        "timestamp":"2024-05-17T14:48:59Z"}]
+        "_version_":1801961468423307264,
+        "timestamp":"2024-06-15T20:46:11.588Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Williamson, John E.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

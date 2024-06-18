@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Mark Andersen and Positive Force DC Riot Grrrl Collection"],
         "unitid_ssm":["MSS.445"],
         "abstract_ssm":["Mark Andersen is a punk rock community activist and author who co-founded Positive Force DC, an activist collective promoting social change, personal growth, and youth empowerment. The Positive Force House served as a meeting and organizational space for Riot Grrrl, with the DC chapter acting as the de facto headquarters for the movement in the early 1990s. This collection contains materials created and collected by members of the Riot Grrrl movement in Washington, DC documenting their organizing efforts, including notes, zines, subscriber lists, press clippings, and publications featuring articles about Riot Grrrl or women in the music industry. The majority of the collection consists of letters sent by teenagers and young adults expressing their interest and support, as well as asking for information on how to establish their own local chapters."],
+        "creator_ssm":["Positive Force DC",
+          "Andersen, Mark",
+          "Positive Force DC",
+          "Andersen, Mark"],
         "unitdate_normal_ssm":["1992/1996"],
         "corpname_ssm":["Fales Library and Special Collections",
           "Positive Force DC"],
@@ -71,8 +75,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, circa 1992-1996"],
-        "_version_":1799740776324792320,
-        "timestamp":"2024-05-22T08:29:14.569Z"},
+        "_version_":1802072757169553408,
+        "timestamp":"2024-06-17T02:15:04.808Z"},
       {
         "id":"mss_445aspace_ref15",
         "ead_ssi":"mss_445",
@@ -91,8 +95,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, 1992-1996"],
-        "_version_":1799740776339472384,
-        "timestamp":"2024-05-22T08:29:14.584Z"},
+        "_version_":1802072757195767808,
+        "timestamp":"2024-06-17T02:15:04.833Z"},
       {
         "id":"mss_445aspace_ref16",
         "ead_ssi":"mss_445",
@@ -112,8 +116,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, 1992-1996"],
-        "_version_":1799740776353103872,
-        "timestamp":"2024-05-22T08:29:14.597Z"},
+        "_version_":1802072757225127936,
+        "timestamp":"2024-06-17T02:15:04.861Z"},
       {
         "id":"mss_445aspace_ref17",
         "ead_ssi":"mss_445",
@@ -132,8 +136,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, 1992-1996"],
-        "_version_":1799740776371978240,
-        "timestamp":"2024-05-22T08:29:14.615Z"}]
+        "_version_":1802072757269168128,
+        "timestamp":"2024-06-17T02:15:04.903Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -141,7 +145,9 @@
       "repository_sim":[
         "fales",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Andersen, Mark",1,
+        "Positive Force DC",1],
       "date_range_sim":[
         "1901-2000",4],
       "subject_sim":[

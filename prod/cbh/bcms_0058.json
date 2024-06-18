@@ -68,8 +68,8 @@
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 2007-2008"],
         "language_ssm":["English"],
-        "_version_":1775224111158525952,
-        "timestamp":"2023-08-25T17:47:20.677Z"},
+        "_version_":1800826639069741056,
+        "timestamp":"2024-06-03T08:08:33.981Z"},
       {
         "id":"bcms_0058aspace_ccb9d901d3c8e46c563cf6a5a794afff",
         "ead_ssi":"bcms_0058",
@@ -82,11 +82,10 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Folder: BCMS.0058, Drawer: 12",
-          "Drawer: 12"],
+        "location_ssm":["Folder: BCMS.0058, Drawer: 12"],
         "heading_ssm":["Photographs"],
-        "_version_":1775224111222489088,
-        "timestamp":"2023-08-25T17:47:20.737Z"}]
+        "_version_":1800826639082323968,
+        "timestamp":"2024-06-03T08:08:33.993Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

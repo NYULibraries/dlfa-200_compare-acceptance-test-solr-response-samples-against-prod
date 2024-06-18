@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":31,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Joseph French Johnson Scrapbook"],
         "unitid_ssm":["MC.56"],
         "abstract_ssm":["Joseph French Johnson was dean of New York University's (NYU) School of Commerce, Accounts, and Finance from 1903 to 1925. This collection consists of a scrapbook about his life and work."],
+        "creator_ssm":["Block, Lillian R.",
+          "Block, Lillian R."],
         "unitdate_normal_ssm":["1920/1935"],
         "corpname_ssm":["New York University Archives",
           "New York University",
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1935"],
         "unitdate_ssm":["Inclusive, 1920-1935"],
-        "_version_":1799256159353307136,
-        "timestamp":"2024-05-17T00:06:27.811Z"},
+        "_version_":1801950518862413824,
+        "timestamp":"2024-06-15T17:52:09.274Z"},
       {
         "id":"mc_56aspace_37b6059946147058694ca9402adcbdd1",
         "ead_ssi":"mc_56",
@@ -85,8 +87,8 @@
         "unitdate_start_ssm":["1935"],
         "unitdate_end_ssm":["1935"],
         "unitdate_ssm":["1935"],
-        "_version_":1799256159370084352,
-        "timestamp":"2024-05-17T00:06:27.827Z"}]
+        "_version_":1801950518878142464,
+        "timestamp":"2024-06-15T17:52:09.289Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +96,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Block, Lillian R.",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[],

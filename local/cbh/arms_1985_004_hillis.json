@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Newell Dwight Hillis papers"],
         "unitid_ssm":["1985.004"],
         "abstract_ssm":["These papers document the career of Newell Dwight Hillis (1858 -1929), a noted clergyman, lecturer and author of his day. The bulk of the papers reflect Dr. Hillis's activities during his years at Plymouth Church in Brooklyn (1899-1924)."],
+        "creator_ssm":["Hillis family",
+          "Hillis, Newell Dwight",
+          "Hillis family",
+          "Hillis, Newell Dwight"],
         "unitdate_normal_ssm":["1883/1964",
           "1899/1924"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -95,8 +99,8 @@
           "1924"],
         "unitdate_ssm":["Inclusive, 1883-1964 ; 1899-1924"],
         "language_ssm":["English"],
-        "_version_":1799312398155251712,
-        "timestamp":"2024-05-17T15:00:21.311Z"},
+        "_version_":1801962904240521216,
+        "timestamp":"2024-06-15T21:09:00.89Z"},
       {
         "id":"arms_1985_004_hillisaspace_ref11_zhv",
         "ead_ssi":"arms_1985_004_hillis",
@@ -110,8 +114,8 @@
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 4: Ephemera"],
-        "_version_":1799312398220263424,
-        "timestamp":"2024-05-17T15:00:21.374Z"},
+        "_version_":1801962904328601600,
+        "timestamp":"2024-06-15T21:09:00.974Z"},
       {
         "id":"arms_1985_004_hillisaspace_ref13_d4a",
         "ead_ssi":"arms_1985_004_hillis",
@@ -130,8 +134,8 @@
         "unitdate_start_ssm":["1898"],
         "unitdate_end_ssm":["1961"],
         "unitdate_ssm":["Inclusive, 1898-1961"],
-        "_version_":1799312398234943488,
-        "timestamp":"2024-05-17T15:00:21.388Z"},
+        "_version_":1801962904345378816,
+        "timestamp":"2024-06-15T21:09:00.991Z"},
       {
         "id":"arms_1985_004_hillisaspace_ref15_5uj",
         "ead_ssi":"arms_1985_004_hillis",
@@ -149,8 +153,8 @@
         "unitdate_start_ssm":["1895"],
         "unitdate_end_ssm":["1918"],
         "unitdate_ssm":["Inclusive, 1895-1918"],
-        "_version_":1799312398248574976,
-        "timestamp":"2024-05-17T15:00:21.401Z"},
+        "_version_":1801962904362156032,
+        "timestamp":"2024-06-15T21:09:01.007Z"},
       {
         "id":"arms_1985_004_hillisaspace_ref17_3in",
         "ead_ssi":"arms_1985_004_hillis",
@@ -168,8 +172,8 @@
         "unitdate_start_ssm":["1901"],
         "unitdate_end_ssm":["1964"],
         "unitdate_ssm":["Inclusive, 1901-1964"],
-        "_version_":1799312398261157888,
-        "timestamp":"2024-05-17T15:00:21.413Z"},
+        "_version_":1801962904382078976,
+        "timestamp":"2024-06-15T21:09:01.026Z"},
       {
         "id":"arms_1985_004_hillisaspace_ref24_es9",
         "ead_ssi":"arms_1985_004_hillis",
@@ -183,8 +187,8 @@
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 8: Photographs"],
-        "_version_":1799312398272692224,
-        "timestamp":"2024-05-17T15:00:21.423Z"},
+        "_version_":1801962904402001920,
+        "timestamp":"2024-06-15T21:09:01.045Z"},
       {
         "id":"arms_1985_004_hillisaspace_ref5_rad",
         "ead_ssi":"arms_1985_004_hillis",
@@ -202,8 +206,8 @@
         "unitdate_start_ssm":["1892"],
         "unitdate_end_ssm":["1928"],
         "unitdate_ssm":["Inclusive, 1892-1928"],
-        "_version_":1799312398175174656,
-        "timestamp":"2024-05-17T15:00:21.331Z"},
+        "_version_":1801962904269881344,
+        "timestamp":"2024-06-15T21:09:00.919Z"},
       {
         "id":"arms_1985_004_hillisaspace_ref7_0q3",
         "ead_ssi":"arms_1985_004_hillis",
@@ -221,8 +225,8 @@
         "unitdate_start_ssm":["1891"],
         "unitdate_end_ssm":["1925"],
         "unitdate_ssm":["Inclusive, 1891-1925"],
-        "_version_":1799312398190903296,
-        "timestamp":"2024-05-17T15:00:21.346Z"},
+        "_version_":1801962904291901440,
+        "timestamp":"2024-06-15T21:09:00.94Z"},
       {
         "id":"arms_1985_004_hillisaspace_ref9_tcq",
         "ead_ssi":"arms_1985_004_hillis",
@@ -240,8 +244,8 @@
         "unitdate_start_ssm":["1898"],
         "unitdate_end_ssm":["1928"],
         "unitdate_ssm":["Inclusive, 1898-1928"],
-        "_version_":1799312398205583360,
-        "timestamp":"2024-05-17T15:00:21.36Z"}]
+        "_version_":1801962904313921536,
+        "timestamp":"2024-06-15T21:09:00.961Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -249,7 +253,9 @@
       "repository_sim":[
         "cbh",9],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hillis family",1,
+        "Hillis, Newell Dwight",1],
       "date_range_sim":[
         "1801-1900",6,
         "1901-2000",7,

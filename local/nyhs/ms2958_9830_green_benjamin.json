@@ -46,6 +46,8 @@
         "unittitle_ssm":["Benjamin Green letters and discharge papers"],
         "unitid_ssm":["AHMC - Green, Benjamin"],
         "abstract_ssm":["Correspondence and discharge papers of Benjamin Green, who served under the alias \"George Allen\" in Company D, 61st Regiment, New York Infantry, United States Army (known as the \"Astor Regiment\" or \"Clinton Guards\"), during the Civil War. For fuller details about this collection, and to request it for research, please read its catalog record, or write to reference@nyhistory.org."],
+        "creator_ssm":["Green, Benjamin, approximately 1841–1866",
+          "Green, Benjamin, approximately 1841–1866"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Green, Benjamin, approximately 1841–1866"],
         "collection_ssm":["Benjamin Green letters and discharge papers"],
@@ -57,8 +59,8 @@
         "heading_ssm":["Benjamin Green letters and discharge papers"],
         "unitdate_ssm":["Inclusive, 1863-1867"],
         "language_ssm":["English"],
-        "_version_":1799322467328589824,
-        "timestamp":"2024-05-17T17:40:24.024Z"}]
+        "_version_":1802083752188313600,
+        "timestamp":"2024-06-17T05:09:50.475Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Green, Benjamin, approximately 1841–1866",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

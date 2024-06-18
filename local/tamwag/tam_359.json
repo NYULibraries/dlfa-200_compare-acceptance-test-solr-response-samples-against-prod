@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Dorothy Epstein Papers"],
         "unitid_ssm":["TAM.359"],
         "abstract_ssm":["Dorothy Epstein (1913-2006) was a labor, political, and community activist and organizer. She served as the first female local president of the American Federation of State, County and Municipal Employees (AFSCME), District Council 37. The collection contains Epstein's memoir and minutes, publicity materials, photographs, correspondence, and other assorted materials that document her activism."],
+        "creator_ssm":["Epstein, Dorothy, 1913-2006",
+          "Epstein, Dorothy, 1913-2006"],
         "unitdate_normal_ssm":["1930/2009"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "AFSCME. District Council 37 (New York, N.Y.)",
@@ -77,8 +79,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, circa 1930-2009"],
-        "_version_":1799782783883673600,
-        "timestamp":"2024-05-22T19:36:56.1Z"}]
+        "_version_":1802176879062417408,
+        "timestamp":"2024-06-18T05:50:03.183Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Epstein, Dorothy, 1913-2006",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

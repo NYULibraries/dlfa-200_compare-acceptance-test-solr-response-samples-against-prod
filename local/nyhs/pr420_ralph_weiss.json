@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ralph Weiss photographs"],
         "unitid_ssm":["PR 420"],
         "abstract_ssm":["The collection includes 76 black and white, silver gelatin photographs taken by Ralph Weiss (1931-2015). 63 of the photos center on New York City's urban landscape and street scenes. 13 are nature scenes, likely from the Catskills region."],
+        "creator_ssm":["Weiss, Ralph, 1931-2015",
+          "Weiss, Ralph, 1931-2015"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Black-and-white photographs."],
         "geogname_ssm":["Catskill Mountains (N.Y.) -- Photographs.",
@@ -65,8 +67,8 @@
         "material_type_ssm":["Black-and-white photographs."],
         "heading_ssm":["Ralph Weiss photographs"],
         "unitdate_ssm":["Inclusive, 1988-2006 (bulk, undated)"],
-        "_version_":1799325486717861888,
-        "timestamp":"2024-05-17T18:28:23.538Z"},
+        "_version_":1802094667758567424,
+        "timestamp":"2024-06-17T08:03:20.374Z"},
       {
         "id":"pr420_ralph_weissaspace_4b400b8d6ea5bc4767c765518a6069cb",
         "ead_ssi":"pr420_ralph_weiss",
@@ -82,8 +84,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Ralph Weiss photographs"],
         "unitdate_ssm":["Inclusive, 1988-2006, undated"],
-        "_version_":1799325486748270592,
-        "timestamp":"2024-05-17T18:28:23.567Z"}]
+        "_version_":1802094667778490368,
+        "timestamp":"2024-06-17T08:03:20.393Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Weiss, Ralph, 1931-2015",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

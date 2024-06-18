@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["June Nash Papers on Bolivia"],
         "unitid_ssm":["TAM.662"],
         "abstract_ssm":["June Nash is a social and feminist anthropologist and Distinguished Professor Emerita at the City University of New York (CUNY) who conducted extensive field work throughout the United States and Latin America, especially in Bolivia, Mexico and Guatemala. This collection includes field notes, diaries, lectures, papers, interviews, and Nash's published writings focusing on communities of tin miners working in Bolivia in 1970. Written in Spanish and English, these materials cover both the experience of the miners and Nash herself, and include accounts of daily activites in the mine, past strikes, speeches to workers assemblies, and complaints about working conditions in the mine."],
+        "creator_ssm":["Nash, June C., 1927-",
+          "Nash, June C., 1927-"],
         "unitdate_normal_ssm":["1970/1970"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Nash, June C., 1927-",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["circa 1970"],
-        "_version_":1799791912354316288,
-        "timestamp":"2024-05-22T22:02:01.688Z"},
+        "_version_":1802183945070051328,
+        "timestamp":"2024-06-18T07:42:21.853Z"},
       {
         "id":"tam_662aspace_7ece3c8575ef8a8a573aff43f015fe32",
         "ead_ssi":"tam_662",
@@ -82,11 +84,10 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 148, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: Shared Tamiment 148, Folder: 3"],
         "heading_ssm":["oversize materials"],
-        "_version_":1799791912372142080,
-        "timestamp":"2024-05-22T22:02:01.705Z"}]
+        "_version_":1802183945085779968,
+        "timestamp":"2024-06-18T07:42:21.868Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +95,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nash, June C., 1927-",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

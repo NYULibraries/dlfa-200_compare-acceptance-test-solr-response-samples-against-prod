@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Michael \"Miska\" Draskoczy photograph collection"],
         "unitid_ssm":["BCMS.0069"],
         "abstract_ssm":["2 color photographs of the Gowanus Canal industrial area taken in 2013 by photographer Miska Draskoczy."],
+        "creator_ssm":["Draskoczy, Michael (Miska)",
+          "Draskoczy, Michael (Miska)"],
         "unitdate_normal_ssm":["2013/2013"],
         "corpname_ssm":["Brooklyn Collection"],
         "geogname_ssm":["Brooklyn (New York, N.Y.)",
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["2013"],
         "language_ssm":["English"],
-        "_version_":1799312376551440384,
-        "timestamp":"2024-05-17T15:00:00.709Z"},
+        "_version_":1802044127366348800,
+        "timestamp":"2024-06-16T18:40:01.3Z"},
       {
         "id":"bcms_0069aspace_3461a3a391e6515459ca0e9c7838eeb0",
         "ead_ssi":"bcms_0069",
@@ -85,8 +87,8 @@
         "unitdate_start_ssm":["2013"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["2013"],
-        "_version_":1799312376581849088,
-        "timestamp":"2024-05-17T15:00:00.738Z"},
+        "_version_":1802044127410388992,
+        "timestamp":"2024-06-16T18:40:01.342Z"},
       {
         "id":"bcms_0069aspace_9381dc8c5459c03fcea90c20d053688c",
         "ead_ssi":"bcms_0069",
@@ -105,8 +107,8 @@
         "unitdate_start_ssm":["2013"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["2013"],
-        "_version_":1799312376567169024,
-        "timestamp":"2024-05-17T15:00:00.724Z"}]
+        "_version_":1802044127388368896,
+        "timestamp":"2024-06-16T18:40:01.321Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -114,7 +116,8 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Draskoczy, Michael (Miska)",1],
       "date_range_sim":[
         "2001-2100",3],
       "subject_sim":[

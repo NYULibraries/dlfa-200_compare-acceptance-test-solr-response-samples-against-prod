@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Long Island Weekly Intelligencer subscription receipt"],
         "unitid_ssm":["1977.625"],
         "abstract_ssm":["This collection contains one 1806 receipt for a subscription to the Long Island Weekly Intelligencer for subscriber Michael Vandervoort."],
+        "creator_ssm":["Long Island Weekly Intelligencer",
+          "Long Island Weekly Intelligencer"],
         "unitdate_normal_ssm":["1806/1806"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island Weekly Intelligencer"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1806"],
         "unitdate_ssm":["1806"],
         "language_ssm":["English"],
-        "_version_":1799256497090199552,
-        "timestamp":"2024-05-17T00:11:49.902Z"}]
+        "_version_":1801962100262699008,
+        "timestamp":"2024-06-15T20:56:14.158Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Long Island Weekly Intelligencer",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

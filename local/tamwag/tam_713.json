@@ -47,6 +47,8 @@
         "unittitle_ssm":["William Bachmann Papers"],
         "unitid_ssm":["TAM.713"],
         "abstract_ssm":["This collection contains the papers of Revolutionary Socialist League (RSL) member William Bachmann. Papers in the collection relate to Bachmann's involvement with the RSL and include newsletters, agendas, meeting minutes, flyers, memos, and reports from New York regional meetings and fraction meetings between the mid-1970s and 1980s. Other materials documenting RSL activities include editorial files from the RSL newspaper The Torch, leaflets, pamphlets, and issues of the the RLS newsletter League Report from 1973 to 1980. Additionally the collection contains a small amount of materials related to the North East Federation of Anarchist Communists, which contains programs and reading materials from anarchist conferences between 2000 and 2011."],
+        "creator_ssm":["Bachmann, William",
+          "Bachmann, William"],
         "unitdate_normal_ssm":["1973/2011",
           "1970/1984"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["2011",
           "1984"],
         "unitdate_ssm":["Inclusive, 1973-2011 ; 1970-1984"],
-        "_version_":1799792006006833152,
-        "timestamp":"2024-05-22T22:03:31.002Z"},
+        "_version_":1802184350802903040,
+        "timestamp":"2024-06-18T07:48:48.79Z"},
       {
         "id":"tam_713aspace_25affd04329a5df8a7ad374ab864fccc",
         "ead_ssi":"tam_713",
@@ -94,8 +96,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1975-1977"],
-        "_version_":1799792006067650560,
-        "timestamp":"2024-05-22T22:03:31.06Z"},
+        "_version_":1802184350846943232,
+        "timestamp":"2024-06-18T07:48:48.832Z"},
       {
         "id":"tam_713aspace_b966bddcd3baff2daf95638ac3c3004f",
         "ead_ssi":"tam_713",
@@ -114,8 +116,8 @@
         "unitdate_start_ssm":["1985"],
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["Inclusive, 1985-2011"],
-        "_version_":1799792006036193280,
-        "timestamp":"2024-05-22T22:03:31.03Z"},
+        "_version_":1802184350823874560,
+        "timestamp":"2024-06-18T07:48:48.809Z"},
       {
         "id":"tam_713aspace_c5fcb256b6e04ef6c69cc1219b4fe668",
         "ead_ssi":"tam_713",
@@ -134,8 +136,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1973-1975"],
-        "_version_":1799792006080233472,
-        "timestamp":"2024-05-22T22:03:31.072Z"},
+        "_version_":1802184350856380416,
+        "timestamp":"2024-06-18T07:48:48.84Z"},
       {
         "id":"tam_713aspace_e43f4b501f06b80c4b339adca9cede18",
         "ead_ssi":"tam_713",
@@ -154,8 +156,8 @@
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1977-1980"],
-        "_version_":1799792006055067648,
-        "timestamp":"2024-05-22T22:03:31.048Z"},
+        "_version_":1802184350833311744,
+        "timestamp":"2024-06-18T07:48:48.819Z"},
       {
         "id":"tam_713aspace_f3a887becca1ed82f5be995b8ee591a0",
         "ead_ssi":"tam_713",
@@ -175,8 +177,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1970-1984"],
-        "_version_":1799792006021513216,
-        "timestamp":"2024-05-22T22:03:31.016Z"}]
+        "_version_":1802184350813388800,
+        "timestamp":"2024-06-18T07:48:48.8Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -184,7 +186,8 @@
       "repository_sim":[
         "tamwag",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bachmann, William",1],
       "date_range_sim":[
         "1901-2000",6,
         "2001-2100",2],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Fort Greene historic interiors photographs"],
         "unitid_ssm":["V1988.033"],
         "abstract_ssm":["Three items, dated 1988, showing interiors of historic houses in the Fort Greene neighborhood of Brooklyn. Images in the collection include a mid-century kitchen and a colonial dining room and parlor. Photographs in the collection were taken by Phoebe Ferguson during a tour of landmarked homes given by the Fort Greene Landmarks Preservation Committee. A press release for the tour is available in the accession folder."],
+        "creator_ssm":["Ferguson, Phoebe",
+          "Ferguson, Phoebe"],
         "unitdate_normal_ssm":["1988/1988"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Interior views",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1988"],
         "language_ssm":["English"],
-        "_version_":1799312250903724032,
-        "timestamp":"2024-05-17T14:58:00.882Z"}]
+        "_version_":1802045232264511488,
+        "timestamp":"2024-06-16T18:57:35.013Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ferguson, Phoebe",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

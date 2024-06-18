@@ -47,6 +47,14 @@
         "unittitle_ssm":["Cocheu family papers"],
         "unitid_ssm":["1977.141"],
         "abstract_ssm":["Included in the papers are two scrapbooks that include news clippings, poems, a marriage certificate, photographs, obituaries, prayers, programs, and correspondence, dated 1863 to 1959."],
+        "creator_ssm":["Cocheu, Catherine",
+          "Cocheu family",
+          "Cocheu, Frank S.",
+          "Cocheu, Theodore",
+          "Cocheu family",
+          "Cocheu, Catherine",
+          "Cocheu, Frank S.",
+          "Cocheu, Theodore"],
         "unitdate_normal_ssm":["1863/1959"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Navy"],
@@ -83,8 +91,8 @@
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, 1863-1959"],
         "language_ssm":["English"],
-        "_version_":1799256200892645376,
-        "timestamp":"2024-05-17T00:07:07.426Z"}]
+        "_version_":1801960790839787520,
+        "timestamp":"2024-06-15T20:35:25.394Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +100,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cocheu family",1,
+        "Cocheu, Catherine",1,
+        "Cocheu, Frank S.",1,
+        "Cocheu, Theodore",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

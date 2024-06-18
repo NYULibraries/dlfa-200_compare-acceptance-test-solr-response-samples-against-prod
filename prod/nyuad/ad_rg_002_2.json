@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -65,8 +65,8 @@
         "unitdate_end_ssm":["2023"],
         "unitdate_ssm":["Inclusive, 2014-Present"],
         "language_ssm":["English"],
-        "_version_":1794670794420256768,
-        "timestamp":"2024-03-27T09:24:03.042Z"},
+        "_version_":1801695821985480704,
+        "timestamp":"2024-06-12T22:23:51.404Z"},
       {
         "id":"ad_rg_002_2aspace_008a235c3b8b8f91ac0025a814a72174",
         "ead_ssi":"ad_rg_002_2",
@@ -88,8 +88,8 @@
         "unitdate_start_ssm":["2023"],
         "unitdate_end_ssm":["2023"],
         "unitdate_ssm":["2023 - "],
-        "_version_":1794670794602708992,
-        "timestamp":"2024-03-27T09:24:03.217Z"},
+        "_version_":1801695822157447168,
+        "timestamp":"2024-06-12T22:23:51.568Z"},
       {
         "id":"ad_rg_002_2aspace_04f7de349c9a472a8c2d16408a6287b9",
         "ead_ssi":"ad_rg_002_2",
@@ -111,8 +111,8 @@
         "unitdate_start_ssm":["2023"],
         "unitdate_end_ssm":["2023"],
         "unitdate_ssm":["2023 - "],
-        "_version_":1794670794525114368,
-        "timestamp":"2024-03-27T09:24:03.143Z"},
+        "_version_":1801695822093484032,
+        "timestamp":"2024-06-12T22:23:51.507Z"},
       {
         "id":"ad_rg_002_2aspace_130f5e9ffe0195ad8291689a651236ce",
         "ead_ssi":"ad_rg_002_2",
@@ -134,8 +134,8 @@
         "unitdate_start_ssm":["2019"],
         "unitdate_end_ssm":["2022"],
         "unitdate_ssm":["Inclusive, 2019-2022"],
-        "_version_":1794670794576494592,
-        "timestamp":"2024-03-27T09:24:03.192Z"},
+        "_version_":1801695822137524224,
+        "timestamp":"2024-06-12T22:23:51.549Z"},
       {
         "id":"ad_rg_002_2aspace_18c9125d258ba52053d91403d80660a8",
         "ead_ssi":"ad_rg_002_2",
@@ -157,8 +157,8 @@
         "unitdate_start_ssm":["2019"],
         "unitdate_end_ssm":["2020"],
         "unitdate_ssm":["Inclusive, Spring 2019-Spring 2020"],
-        "_version_":1794670794481074176,
-        "timestamp":"2024-03-27T09:24:03.101Z"},
+        "_version_":1801695822052589568,
+        "timestamp":"2024-06-12T22:23:51.468Z"},
       {
         "id":"ad_rg_002_2aspace_24c2462b3d05042fc4fed6a4b82a00ad",
         "ead_ssi":"ad_rg_002_2",
@@ -180,8 +180,8 @@
         "unitdate_start_ssm":["2020"],
         "unitdate_end_ssm":["2022"],
         "unitdate_ssm":["Inclusive, 2020-2022"],
-        "_version_":1794670794503094272,
-        "timestamp":"2024-03-27T09:24:03.122Z"},
+        "_version_":1801695822072512512,
+        "timestamp":"2024-06-12T22:23:51.487Z"},
       {
         "id":"ad_rg_002_2aspace_3d3255c36be79369ee48c0f0380e263e",
         "ead_ssi":"ad_rg_002_2",
@@ -203,8 +203,8 @@
         "unitdate_start_ssm":["2018"],
         "unitdate_end_ssm":["2018"],
         "unitdate_ssm":["2018 - Spring 2019"],
-        "_version_":1794670794461151232,
-        "timestamp":"2024-03-27T09:24:03.081Z"},
+        "_version_":1801695822032666624,
+        "timestamp":"2024-06-12T22:23:51.449Z"},
       {
         "id":"ad_rg_002_2aspace_66391e2d9968ccf02daae91763d9ae64",
         "ead_ssi":"ad_rg_002_2",
@@ -226,8 +226,8 @@
         "unitdate_start_ssm":["2018"],
         "unitdate_end_ssm":["2023"],
         "unitdate_ssm":["Inclusive, 2018 - 2023"],
-        "_version_":1794670794623680512,
-        "timestamp":"2024-03-27T09:24:03.237Z"},
+        "_version_":1801695822177370112,
+        "timestamp":"2024-06-12T22:23:51.587Z"},
       {
         "id":"ad_rg_002_2aspace_6bfde2622213e6d3adcffcf539bf84c9",
         "ead_ssi":"ad_rg_002_2",
@@ -245,8 +245,8 @@
         "unitdate_start_ssm":["2018"],
         "unitdate_end_ssm":["2023"],
         "unitdate_ssm":["Inclusive,  ; 2018-Ongoing"],
-        "_version_":1794670794441228288,
-        "timestamp":"2024-03-27T09:24:03.063Z"},
+        "_version_":1801695822007500800,
+        "timestamp":"2024-06-12T22:23:51.425Z"},
       {
         "id":"ad_rg_002_2aspace_9ef770ed1e7e9e9bc90f54f7f7810895",
         "ead_ssi":"ad_rg_002_2",
@@ -268,8 +268,8 @@
         "unitdate_start_ssm":["2018"],
         "unitdate_end_ssm":["2018"],
         "unitdate_ssm":["2018"],
-        "_version_":1794670794548183040,
-        "timestamp":"2024-03-27T09:24:03.165Z"}]
+        "_version_":1801695822116552704,
+        "timestamp":"2024-06-12T22:23:51.529Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

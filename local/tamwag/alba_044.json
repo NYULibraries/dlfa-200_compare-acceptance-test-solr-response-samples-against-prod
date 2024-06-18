@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Daniel Groden Papers"],
         "unitid_ssm":["ALBA.044"],
+        "creator_ssm":["Groden, Daniel Samuel",
+          "Groden, Daniel Samuel"],
         "unitdate_normal_ssm":["1930/1979"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Groden, Daniel Samuel"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1930s-1970s"],
         "language_ssm":["English"],
-        "_version_":1799333399065788416,
-        "timestamp":"2024-05-17T20:34:09.341Z"},
+        "_version_":1802110773708718080,
+        "timestamp":"2024-06-17T12:19:20.205Z"},
       {
         "id":"alba_044aspace_ab13761019dbb7c03c05313d08258201",
         "ead_ssi":"alba_044",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2"],
         "heading_ssm":["Unprocessed"],
-        "_version_":1799333399080468480,
-        "timestamp":"2024-05-17T20:34:09.354Z"}]
+        "_version_":1802110773734932480,
+        "timestamp":"2024-06-17T12:19:20.229Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Groden, Daniel Samuel",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

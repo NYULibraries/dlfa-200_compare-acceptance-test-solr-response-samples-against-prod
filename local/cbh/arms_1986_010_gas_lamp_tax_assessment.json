@@ -47,6 +47,8 @@
         "unittitle_ssm":["City of Brooklyn Collector of Gas Lamp Tax Assessment ledgers"],
         "unitid_ssm":["1986.010"],
         "abstract_ssm":["The collection contains ledgers of the Brooklyn, N.Y. Collector of Gas Lamp Taxes and Assessments for several streets in the Bushwick neightborhood of Brooklyn, N.Y. Ledger entries include ward block map page number, block number, property owner's name, and remarks on payments."],
+        "creator_ssm":["Brooklyn (New York, N.Y.). Collector of Taxes and Assessments",
+          "Brooklyn (New York, N.Y.). Collector of Taxes and Assessments"],
         "unitdate_normal_ssm":["1855/1856"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn (New York, N.Y.). Collector of Taxes and Assessments"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1856"],
         "unitdate_ssm":["Inclusive, 1855-1856"],
         "language_ssm":["English"],
-        "_version_":1799256468494483456,
-        "timestamp":"2024-05-17T00:11:22.631Z"}]
+        "_version_":1801963190444097536,
+        "timestamp":"2024-06-15T21:13:33.836Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn (New York, N.Y.). Collector of Taxes and Assessments",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

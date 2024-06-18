@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":10,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Robert Minor Photographs"],
         "unitid_ssm":["PHOTOS.233"],
         "abstract_ssm":["Robert Minor (1884-1952) was a cartoonist, journalist, and prominent member of the Communist Party of the United States of America. The collection contains two photographs. One photograph depicts Antonio Lombardo, and the other appears to be Robert Minor."],
+        "creator_ssm":["Minor, Robert, 1884-1952",
+          "Minor, Robert, 1884-1952"],
         "unitdate_normal_ssm":["1900/1952"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Communist Party of the United States of America"],
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1900"],
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, circa 1910s-1950s"],
-        "_version_":1775222933893939201,
-        "timestamp":"2023-08-25T17:28:37.95Z"},
+        "_version_":1801193506921775104,
+        "timestamp":"2024-06-07T09:19:46.429Z"},
       {
         "id":"photos_233aspace_ref11",
         "ead_ssi":"photos_233",
@@ -79,8 +81,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment A002"],
         "heading_ssm":["Photographs"],
-        "_version_":1775222933927493632,
-        "timestamp":"2023-08-25T17:28:37.982Z"}]
+        "_version_":1801193506946940928,
+        "timestamp":"2024-06-07T09:19:46.453Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Minor, Robert, 1884-1952",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

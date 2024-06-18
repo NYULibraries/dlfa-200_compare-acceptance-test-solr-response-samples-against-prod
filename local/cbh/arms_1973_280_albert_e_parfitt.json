@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Albert E. Parfitt diary and postcard"],
         "unitid_ssm":["1973.280"],
         "abstract_ssm":["Handwritten 1882 diary of Albert E. Parfitt and one postcard written by Parfitt in 1887."],
+        "creator_ssm":["Parfitt, Albert E.",
+          "Parfitt, Albert E."],
         "unitdate_normal_ssm":["1882/1887"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Grace Church (Brooklyn Heights, New York, N.Y.)",
@@ -80,8 +82,8 @@
         "unitdate_end_ssm":["1887"],
         "unitdate_ssm":["Inclusive, 1882-1887"],
         "language_ssm":["English"],
-        "_version_":1799256312602689536,
-        "timestamp":"2024-05-17T00:08:53.961Z"}]
+        "_version_":1801960171328503808,
+        "timestamp":"2024-06-15T20:25:34.583Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Parfitt, Albert E.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["John B. Cooper whaling journal"],
         "unitid_ssm":["BV Cooper, John B."],
         "abstract_ssm":["Journal kept 1833-1837 by John B. Cooper of Sag Harbor, New York, a crewmember on three whaling voyages to the Pacific, aboard the ships Franklin (1833-1834), Don Quixote (1835), and Daniel Webster (1835-1837), with calls to port in the Sandwich Islands, Tahiti, and Japan.\n\nTo request this item for research, and for fuller details about it, please read its catalog record, or write to reference@nyhistory.org."],
+        "creator_ssm":["Cooper, John B., active 1833-1837",
+          "Cooper, John B., active 1833-1837"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Cooper, John B., active 1833-1837"],
         "collection_ssm":["John B. Cooper whaling journal"],
@@ -58,8 +60,8 @@
         "heading_ssm":["John B. Cooper whaling journal"],
         "unitdate_ssm":["Inclusive, 1833-1837"],
         "language_ssm":["English"],
-        "_version_":1799315305672998912,
-        "timestamp":"2024-05-17T15:46:34.137Z"}]
+        "_version_":1802085214106681344,
+        "timestamp":"2024-06-17T05:33:04.668Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cooper, John B., active 1833-1837",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

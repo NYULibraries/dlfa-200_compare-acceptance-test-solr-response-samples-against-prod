@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":16,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Records of the Institute for the Study of the Ancient World (ISAW)"],
         "unitid_ssm":["RG.37.58"],
         "abstract_ssm":["The Institute for the Study of the Ancient World (ISAW) offers doctoral, postdoctoral, and visiting scholar programs that promote cross disciplinary approaches to the study of the ancient world. This collection consists of newspaper clippings, newsletters, press releases, posters, pamphlets, and publications accumulated during lectures, receptions, and public events hosted by ISAW from 2007 to 2018."],
+        "creator_ssm":["New York University. Institute for the Study of the Ancient World",
+          "Society for Classical Studies",
+          "New York University. Institute for the Study of the Ancient World",
+          "Society for Classical Studies"],
         "unitdate_normal_ssm":["2007/2022"],
         "corpname_ssm":["New York University Archives",
           "New York University. Institute for the Study of the Ancient World",
@@ -74,8 +78,8 @@
         "unitdate_start_ssm":["2007"],
         "unitdate_end_ssm":["2022"],
         "unitdate_ssm":["Inclusive, 2007-2022"],
-        "_version_":1775219607242539008,
-        "timestamp":"2023-08-25T16:35:45.408Z"},
+        "_version_":1800573713420124160,
+        "timestamp":"2024-05-31T13:08:25.285Z"},
       {
         "id":"rg_37_58aspace_2ab7687af7ac2ba67fba5b06997035f2",
         "ead_ssi":"rg_37_58",
@@ -93,8 +97,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Society for Classical Studies Archived Website"],
         "unitdate_ssm":["Inclusive, May 2017-June 2022"],
-        "_version_":1775219607383048192,
-        "timestamp":"2023-08-25T16:35:45.542Z"},
+        "_version_":1800573713476747264,
+        "timestamp":"2024-05-31T13:08:25.339Z"},
       {
         "id":"rg_37_58aspace_d46af1cc24c403cdd3fd2ad653cc1e98",
         "ead_ssi":"rg_37_58",
@@ -109,15 +113,13 @@
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1, Folder: 1-10",
-          "Folder: 1-10",
-          "Box: 2, Folder: 1-11",
-          "Folder: 1-11"],
+          "Box: 2, Folder: 1-11"],
         "heading_ssm":["Events"],
         "unitdate_start_ssm":["2007"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 2007-2012"],
-        "_version_":1775219607294967808,
-        "timestamp":"2023-08-25T16:35:45.458Z"},
+        "_version_":1800573713440047104,
+        "timestamp":"2024-05-31T13:08:25.304Z"},
       {
         "id":"rg_37_58aspace_f0488d7bba72ff4a7bd0acc55f8886b2",
         "ead_ssi":"rg_37_58",
@@ -132,14 +134,13 @@
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 3",
-          "Box: Shared University Archives 005, Folder: 6",
-          "Folder: 6"],
+          "Box: Shared University Archives 005, Folder: 6"],
         "heading_ssm":["Posters"],
         "unitdate_start_ssm":["2009"],
         "unitdate_end_ssm":["2018"],
         "unitdate_ssm":["Inclusive, 2009-2018"],
-        "_version_":1775219607340056576,
-        "timestamp":"2023-08-25T16:35:45.501Z"}]
+        "_version_":1800573713457872896,
+        "timestamp":"2024-05-31T13:08:25.321Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -148,7 +149,9 @@
         "archives",4],
       "dao_sim":[
         "Translation missing: en.ead_indexer.fields.dao",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Institute for the Study of the Ancient World",1,
+        "Society for Classical Studies",1],
       "date_range_sim":[
         "2001-2100",3,
         "undated & other",1],

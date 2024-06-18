@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Friedrich Wilhelm von Steuben papers"],
         "unitid_ssm":["MS 591"],
         "abstract_ssm":["The collection includes correspondence, orders, memoranda, petitions, indentures, and writings on military topics by Baron von Steuben during his tenure as an officer of the American army, as well as material relating to his estate and memorials."],
+        "creator_ssm":["Steuben, Friedrich Wilhelm Ludolf Gerhard Augustin, Baron von, 1730-1794",
+          "Steuben, Friedrich Wilhelm Ludolf Gerhard Augustin, Baron von, 1730-1794"],
         "corpname_ssm":["New-York Historical Society",
           "Society of the Cincinnati",
           "United States. Continental Army -- Cavalry.",
@@ -100,8 +102,8 @@
           "Returns (military reports)."],
         "heading_ssm":["Friedrich Wilhelm von Steuben papers"],
         "unitdate_ssm":["Inclusive, 1778-1851 (bulk 1779-1781)"],
-        "_version_":1799315408847634432,
-        "timestamp":"2024-05-17T15:48:12.532Z"},
+        "_version_":1802087086457618432,
+        "timestamp":"2024-06-17T06:02:50.282Z"},
       {
         "id":"ms591_friedrich_von_steubenaspace_ref13_ks6",
         "ead_ssi":"ms591_friedrich_von_steuben",
@@ -117,8 +119,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Correspondence (reel 1)"],
         "unitdate_ssm":["1778-1780"],
-        "_version_":1799315408887480320,
-        "timestamp":"2024-05-17T15:48:12.57Z"},
+        "_version_":1802087086479638528,
+        "timestamp":"2024-06-17T06:02:50.303Z"},
       {
         "id":"ms591_friedrich_von_steubenaspace_ref14_21u",
         "ead_ssi":"ms591_friedrich_von_steuben",
@@ -134,8 +136,8 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Correspondence (reel 2)"],
         "unitdate_ssm":["1781 January - March"],
-        "_version_":1799315408922083328,
-        "timestamp":"2024-05-17T15:48:12.603Z"},
+        "_version_":1802087086496415744,
+        "timestamp":"2024-06-17T06:02:50.319Z"},
       {
         "id":"ms591_friedrich_von_steubenaspace_ref15_ju5",
         "ead_ssi":"ms591_friedrich_von_steuben",
@@ -151,8 +153,8 @@
         "location_ssm":["Box: 3"],
         "heading_ssm":["Correspondence (reel 3)"],
         "unitdate_ssm":["1781 April 1 - 1789 April"],
-        "_version_":1799315408962977792,
-        "timestamp":"2024-05-17T15:48:12.642Z"},
+        "_version_":1802087086511095808,
+        "timestamp":"2024-06-17T06:02:50.333Z"},
       {
         "id":"ms591_friedrich_von_steubenaspace_ref16_khw",
         "ead_ssi":"ms591_friedrich_von_steuben",
@@ -168,8 +170,8 @@
         "location_ssm":["Box: 4"],
         "heading_ssm":["Army returns; Military formations and instructions (1778), memorandum (1778 August 7), Opinions on the operation of the Army, Returns of various kinds (1779-1782), Muster rolls (1782); \"Remarks on the Commerce of the United States with France from the occupancy of New Orleans and Louisiana if transferred to her from Spain (in French); Resolutions by Congress - Claims against the United States; accounts and plan of a farm; miscellaneous correspondence including Baron Steuben's will and testament, inventory of his property, freedom of the city, letters patent, and naturalization document; extracts from general orders; petitions, indentures, and certificates; \"The Great Future, Agricultural, Commercial and Political, of the Mississippi Valley...\" (1787-1790 in French); military maneuvers; Baron von Steuben's memorial; Tactics and maneuvers of the Prussians (in French); Steuben-Green correspondence (from photostats); \"Journal of Improvements on his Farm in Oneida county\" (in French); \"Regulations for the cavalry or corps legionaire [sic]\" (in French and English); \"Growth of the Western Territory, 1788\"; Letter book, 1780; \"Thoughts on a National Militia, 1784\" (in French and English) (reel 4)."],
         "unitdate_ssm":["1778-1851"],
-        "_version_":1799315408996532224,
-        "timestamp":"2024-05-17T15:48:12.673Z"}]
+        "_version_":1802087086528921600,
+        "timestamp":"2024-06-17T06:02:50.35Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -177,7 +179,8 @@
       "repository_sim":[
         "nyhs",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Steuben, Friedrich Wilhelm Ludolf Gerhard Augustin, Baron von, 1730-1794",1],
       "date_range_sim":[
         "undated & other",5],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Michael Claro Hurricane Sandy photographs"],
         "unitid_ssm":["2014.010"],
         "abstract_ssm":["The collection comprises 8 digital photographic images taken by Michael Claro documenting the after effects of Hurricane Sandy in October 2012 in and around Coney Island: rough surf, damaged buildings and roadways, and seawall destruction."],
+        "creator_ssm":["Claro, Michael",
+          "Claro, Michael"],
         "unitdate_normal_ssm":["2012/2012"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographs",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 2012"],
         "language_ssm":["English"],
-        "_version_":1799256198923419648,
-        "timestamp":"2024-05-17T00:07:05.548Z"}]
+        "_version_":1801964915744833536,
+        "timestamp":"2024-06-15T21:40:59.211Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Claro, Michael",1],
       "date_range_sim":[
         "2001-2100",1],
       "subject_sim":[

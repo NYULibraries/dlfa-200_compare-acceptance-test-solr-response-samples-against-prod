@@ -47,6 +47,8 @@
         "unittitle_ssm":["Dwight B. Demeritt, Jr. Downtown Brooklyn photographs and negatives"],
         "unitid_ssm":["V1990.015"],
         "abstract_ssm":["Images show abandoned buildings and houses, as well as a group of attached row houses being moved within Downtown Brooklyn."],
+        "creator_ssm":["Demeritt, Dwight B., Jr.",
+          "Demeritt, Dwight B., Jr."],
         "unitdate_normal_ssm":["1990/1990"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Naval Shipyard",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1990"],
         "language_ssm":["English"],
-        "_version_":1775223759304654848,
-        "timestamp":"2023-08-25T17:41:45.123Z"}]
+        "_version_":1800854030451212288,
+        "timestamp":"2024-06-03T15:23:56.438Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Demeritt, Dwight B., Jr.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

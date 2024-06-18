@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Yale Graduate Student Union Records"],
         "unitid_ssm":["TAM.233"],
+        "creator_ssm":["Yale Graduate Students Union",
+          "Yale Graduate Students Union"],
         "unitdate_normal_ssm":["1980/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Yale Graduate Students Union",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, circa 1988-1992"],
         "language_ssm":["English"],
-        "_version_":1799782410827595776,
-        "timestamp":"2024-05-22T19:31:00.326Z"}]
+        "_version_":1802171215402500096,
+        "timestamp":"2024-06-18T04:20:01.896Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Yale Graduate Students Union",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

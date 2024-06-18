@@ -45,9 +45,10 @@
       {
         "author_ssm":["Rachel Searcy"],
         "unittitle_ssm":["Records of the Rudin Center for Transportation Policy and Management"],
-        "unitid_ssm":["RG.33.6",
-          "/repositories/6/resources/3506"],
+        "unitid_ssm":["RG.33.6"],
         "abstract_ssm":["The Rudin Center for Transportation Policy and Management is a research institute based at the Robert F. Wagner Graduate School of Public Service at New York University. The Center conducts and disseminates research on infrastructure and transportation policy, as well as the connections between these areas and social and economic issues. The Records of the Rudin Center for Transportation Policy and Management consists of reports produced by faculty and research staff of the Rudin Center."],
+        "creator_ssm":["Rudin Center for Transportation Policy & Management",
+          "Rudin Center for Transportation Policy & Management"],
         "unitdate_normal_ssm":["2007/2016"],
         "corpname_ssm":["New York University Archives",
           "Rudin Center for Transportation Policy & Management",
@@ -67,15 +68,15 @@
         "unitdate_start_ssm":["2007"],
         "unitdate_end_ssm":["2016"],
         "unitdate_ssm":["Inclusive, 2007-2016"],
-        "_version_":1799248599129784320,
-        "timestamp":"2024-05-16T22:06:17.82Z"},
+        "_version_":1801952849204084736,
+        "timestamp":"2024-06-15T18:29:11.661Z"},
       {
         "id":"rg_33_6aspace_038a185719167474900ca8109d141719",
         "ead_ssi":"rg_33_6",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Records of the Rudin Center for Transportation Policy and Management"],
-        "collection_unitid_ssm":["RG.33.6/repositories/6/resources/3506"],
+        "collection_unitid_ssm":["RG.33.6"],
         "unittitle_ssm":["Reports"],
         "unitid_ssm":["/repositories/6/archival_objects/992155"],
         "unitdate_normal_ssm":["2007/2016"],
@@ -83,14 +84,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-4",
-          "Folder: 1-4"],
+        "location_ssm":["Box: 1, Folder: 1-4"],
         "heading_ssm":["Reports"],
         "unitdate_start_ssm":["2007"],
         "unitdate_end_ssm":["2016"],
         "unitdate_ssm":["Inclusive, 2007-2016"],
-        "_version_":1799248599155998720,
-        "timestamp":"2024-05-16T22:06:17.845Z"}]
+        "_version_":1801952849224007680,
+        "timestamp":"2024-06-15T18:29:11.679Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -98,7 +98,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rudin Center for Transportation Policy & Management",1],
       "date_range_sim":[
         "2001-2100",2],
       "subject_sim":[

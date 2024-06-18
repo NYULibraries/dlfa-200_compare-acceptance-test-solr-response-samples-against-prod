@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Marble Hill Nursery School collection"],
         "unitid_ssm":["MS 3227"],
         "abstract_ssm":["A small collection documenting the early history of the Marble Hill Nursery School, a parent-cooperative nursery school established in 1953 to serve families living in the Marble Hill Houses, a NYCHA development in Bronx Community District 8. The material here stems from Evelyn I. Lowell (1918-2016), first president of the school, who sought to parlay the expertise she gained during its founding into an educational television program for children."],
+        "creator_ssm":["Lowell, Evelyn I., 1918-2016",
+          "Lowell, Evelyn I., 1918-2016"],
         "corpname_ssm":["New-York Historical Society",
           "Marble Hill Nursery School (New York, N.Y.)"],
         "genreform_ssm":["Correspondence.",
@@ -70,8 +72,8 @@
           "Proposals."],
         "heading_ssm":["Marble Hill Nursery School collection"],
         "unitdate_ssm":["Inclusive, 1925-1965 (bulk, 1953-1956)"],
-        "_version_":1799330174075928576,
-        "timestamp":"2024-05-17T19:42:53.75Z"},
+        "_version_":1802086216508637184,
+        "timestamp":"2024-06-17T05:49:00.634Z"},
       {
         "id":"ms3227_marble_hill_nursery_schoolaspace_8227b9b1d4688ec2bf154e2d99f92dfd",
         "ead_ssi":"ms3227_marble_hill_nursery_school",
@@ -84,12 +86,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Offsite-Box: 1, Folder: 4"],
         "heading_ssm":["Marble Hill Nursery School 10th anniversary"],
         "unitdate_ssm":["Inclusive, 1965"],
-        "_version_":1799330174152474624,
-        "timestamp":"2024-05-17T19:42:53.824Z"},
+        "_version_":1802086216582037504,
+        "timestamp":"2024-06-17T05:49:00.704Z"},
       {
         "id":"ms3227_marble_hill_nursery_schoolaspace_8df82ce92b9a08f8d0cda3e44b8f3717",
         "ead_ssi":"ms3227_marble_hill_nursery_school",
@@ -102,12 +103,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Offsite-Box: 1, Folder: 3"],
         "heading_ssm":["\"Playing is Children's Work\""],
         "unitdate_ssm":["Inclusive, 1956"],
-        "_version_":1799330174130454528,
-        "timestamp":"2024-05-17T19:42:53.803Z"},
+        "_version_":1802086216562114560,
+        "timestamp":"2024-06-17T05:49:00.685Z"},
       {
         "id":"ms3227_marble_hill_nursery_schoolaspace_c627044dce4249eaf515ec3c7ed8dc12",
         "ead_ssi":"ms3227_marble_hill_nursery_school",
@@ -120,12 +120,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Offsite-Box: 1, Folder: 1"],
         "heading_ssm":["Marble Hill Nursery School foundational documentation"],
         "unitdate_ssm":["Inclusive, 1953-1956"],
-        "_version_":1799330174092705792,
-        "timestamp":"2024-05-17T19:42:53.767Z"},
+        "_version_":1802086216527511552,
+        "timestamp":"2024-06-17T05:49:00.652Z"},
       {
         "id":"ms3227_marble_hill_nursery_schoolaspace_f099ed63600b259fa902ab0fb9ad427d",
         "ead_ssi":"ms3227_marble_hill_nursery_school",
@@ -138,12 +137,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 5",
-          "Folder: 5"],
+        "location_ssm":["Offsite-Box: 1, Folder: 5"],
         "heading_ssm":["Print matter (6 items)"],
         "unitdate_ssm":["Inclusive, 1925-1954, undated"],
-        "_version_":1799330174171348992,
-        "timestamp":"2024-05-17T19:42:53.842Z"},
+        "_version_":1802086216596717568,
+        "timestamp":"2024-06-17T05:49:00.718Z"},
       {
         "id":"ms3227_marble_hill_nursery_schoolaspace_ff4c2001a354683fd8a69c65406a85e5",
         "ead_ssi":"ms3227_marble_hill_nursery_school",
@@ -156,12 +154,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Offsite-Box: 1, Folder: 2"],
         "heading_ssm":["Television program proposals"],
         "unitdate_ssm":["Inclusive, 1954"],
-        "_version_":1799330174110531584,
-        "timestamp":"2024-05-17T19:42:53.784Z"}]
+        "_version_":1802086216542191616,
+        "timestamp":"2024-06-17T05:49:00.666Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -169,7 +166,8 @@
       "repository_sim":[
         "nyhs",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lowell, Evelyn I., 1918-2016",1],
       "date_range_sim":[
         "undated & other",6],
       "subject_sim":[

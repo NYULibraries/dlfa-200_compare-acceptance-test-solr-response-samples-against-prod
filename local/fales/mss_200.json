@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Shirin Khaki"],
         "unittitle_ssm":["Shael Shapiro Papers"],
-        "unitid_ssm":["MSS.200",
-          "/repositories/3/resources/2455"],
+        "unitid_ssm":["MSS.200"],
         "abstract_ssm":["Shael Shapiro is an architect who was instrumental in the writing and passage of the so-called \"Loft Law\" that in 1971 allowed artists to legally live in downtown Manhattan lofts. The Shael Shapiro Papers date from 1954 to 2006 and contain architectural drawings and reproductions of numerous buildings throughout New York City and records documenting Shapiro's SoHo based architectural practice from the 1970s to the early 2000s. The bulk of the records are paper with some born-digital files.\n\nNOTE:This collection is closed for processing and conservation treatment through 2023."],
+        "creator_ssm":["Shapiro, Shael",
+          "Shapiro, Shael"],
         "unitdate_normal_ssm":["1954/2006"],
         "corpname_ssm":["Fales Library and Special Collections",
           "New York (N.Y.). Landmarks Preservation Commission",
@@ -73,8 +74,8 @@
         "unitdate_start_ssm":["1954"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["Inclusive, 1954-2006"],
-        "_version_":1799731023999664128,
-        "timestamp":"2024-05-22T05:54:14.028Z"}]
+        "_version_":1802059259950661632,
+        "timestamp":"2024-06-16T22:40:32.857Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +83,8 @@
       "repository_sim":[
         "fales",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Shapiro, Shael",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

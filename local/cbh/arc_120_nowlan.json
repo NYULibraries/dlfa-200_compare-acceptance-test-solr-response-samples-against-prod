@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Donald L. Nowlan Brooklyn collection"],
         "unitid_ssm":["ARC.120"],
         "abstract_ssm":["The Donald L. Nowlan Brooklyn collection, measuring .8 linear feet, consists of materials pertaining to Nowlan's high school and college years in Brooklyn, N.Y. and to Nowlan's effort to document Brooklyn through the creation or compilation of images of the borough. Though the collection contains materials dating from the late 19th century, the bulk of the collection spans the 1930s through the 1970s."],
+        "creator_ssm":["Nowlan, Donald L.",
+          "Nowlan, Donald L."],
         "unitdate_normal_ssm":["1930/1979"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Saint Saviour Elementary School (Brooklyn, New York, N.Y.)",
@@ -84,8 +86,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1930-1979"],
         "language_ssm":["English"],
-        "_version_":1799311716381622272,
-        "timestamp":"2024-05-17T14:49:31.122Z"},
+        "_version_":1801959086806269952,
+        "timestamp":"2024-06-15T20:08:20.302Z"},
       {
         "id":"arc_120_nowlanaspace_ref10_2qq",
         "ead_ssi":"arc_120_nowlan",
@@ -103,8 +105,8 @@
         "unitdate_start_ssm":["1875"],
         "unitdate_end_ssm":["1925"],
         "unitdate_ssm":["Inclusive, 1875-1925"],
-        "_version_":1799311716460265472,
-        "timestamp":"2024-05-17T14:49:31.197Z"},
+        "_version_":1801959086872330240,
+        "timestamp":"2024-06-15T20:08:20.365Z"},
       {
         "id":"arc_120_nowlanaspace_ref8_ep8",
         "ead_ssi":"arc_120_nowlan",
@@ -123,8 +125,8 @@
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["Inclusive, 1935-1948"],
         "language_ssm":["English"],
-        "_version_":1799311716410982400,
-        "timestamp":"2024-05-17T14:49:31.15Z"},
+        "_version_":1801959086829338624,
+        "timestamp":"2024-06-15T20:08:20.324Z"},
       {
         "id":"arc_120_nowlanaspace_ref9_atd",
         "ead_ssi":"arc_120_nowlan",
@@ -139,8 +141,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 2: Photographs and slides"],
         "unitdate_ssm":["circa 1960 to 1979"],
-        "_version_":1799311716439293952,
-        "timestamp":"2024-05-17T14:49:31.177Z"}]
+        "_version_":1801959086846115840,
+        "timestamp":"2024-06-15T20:08:20.34Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -148,7 +150,8 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nowlan, Donald L.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",3,

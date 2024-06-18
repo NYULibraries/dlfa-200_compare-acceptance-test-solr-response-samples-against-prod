@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Asian American Legal Defense and Education Fund Records"],
         "unitid_ssm":["TAM.321"],
         "abstract_ssm":["Founded in 1974, the Asian American Legal Defense and Education Fund (AALDEF) is a national organization that protects and promotes the civil rights of Asian Americans. By combining litigation, advocacy, education, and organizing, AALDEF works with Asian American communities across the country to secure human rights for all. The AALDEF focuses on critical issues affecting Asian Americans, including immigrant rights, civic participation and voting rights, economic justice for workers, language access to services, Census policy, affirmative action, youth rights and educational equity, housing and environmental justice, and the elimination of anti-Asian violence, police misconduct, and human trafficking. The Asian American Legal Defense Fund Records principally contains legal case files (many are closed), principally labor law cases, most involving restaurant and garment industry workers, but also including immigration cases. There are also labbor-related arbitration files, and subject files on the Chinatown Labor Fair, and on immigration, labor, and housing."],
+        "creator_ssm":["Asian American Legal Defense and Education Fund",
+          "Asian American Legal Defense and Education Fund"],
         "unitdate_normal_ssm":["1970/2005",
           "1980/2000"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -83,8 +85,8 @@
         "unitdate_end_ssm":["2005",
           "2000"],
         "unitdate_ssm":["Inclusive, 1970s-2000s, undated ; 1980-2000"],
-        "_version_":1775216059746353152,
-        "timestamp":"2023-08-25T15:39:22.24Z"},
+        "_version_":1801242834313936896,
+        "timestamp":"2024-06-07T22:23:48.695Z"},
       {
         "id":"tam_321aspace_ref11",
         "ead_ssi":"tam_321",
@@ -103,8 +105,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, 1990-1994"],
-        "_version_":1775216059799830528,
-        "timestamp":"2023-08-25T15:39:22.303Z"},
+        "_version_":1801242834329665536,
+        "timestamp":"2024-06-07T22:23:48.711Z"},
       {
         "id":"tam_321aspace_ref12",
         "ead_ssi":"tam_321",
@@ -123,8 +125,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, 1990-1994"],
-        "_version_":1775216059871133696,
-        "timestamp":"2023-08-25T15:39:22.346Z"},
+        "_version_":1801242834349588480,
+        "timestamp":"2024-06-07T22:23:48.73Z"},
       {
         "id":"tam_321aspace_ref13",
         "ead_ssi":"tam_321",
@@ -143,8 +145,8 @@
         "unitdate_start_ssm":["1995"],
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1995-2000"],
-        "_version_":1775216059908882432,
-        "timestamp":"2023-08-25T15:39:22.407Z"},
+        "_version_":1801242834363219968,
+        "timestamp":"2024-06-07T22:23:48.743Z"},
       {
         "id":"tam_321aspace_ref14",
         "ead_ssi":"tam_321",
@@ -163,8 +165,8 @@
         "unitdate_start_ssm":["2002"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 2002"],
-        "_version_":1775216059951874048,
-        "timestamp":"2023-08-25T15:39:22.448Z"},
+        "_version_":1801242834377900032,
+        "timestamp":"2024-06-07T22:23:48.757Z"},
       {
         "id":"tam_321aspace_ref15",
         "ead_ssi":"tam_321",
@@ -183,8 +185,8 @@
         "unitdate_start_ssm":["2000"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 2000-2001"],
-        "_version_":1775216059994865664,
-        "timestamp":"2023-08-25T15:39:22.489Z"},
+        "_version_":1801242834391531520,
+        "timestamp":"2024-06-07T22:23:48.769Z"},
       {
         "id":"tam_321aspace_ref16",
         "ead_ssi":"tam_321",
@@ -203,8 +205,8 @@
         "unitdate_start_ssm":["2002"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 2002"],
-        "_version_":1775216060054634496,
-        "timestamp":"2023-08-25T15:39:22.545Z"},
+        "_version_":1801242834404114432,
+        "timestamp":"2024-06-07T22:23:48.781Z"},
       {
         "id":"tam_321aspace_ref17",
         "ead_ssi":"tam_321",
@@ -223,8 +225,8 @@
         "unitdate_start_ssm":["1995"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1995, 2001-2003"],
-        "_version_":1775216060096577536,
-        "timestamp":"2023-08-25T15:39:22.586Z"},
+        "_version_":1801242834415648768,
+        "timestamp":"2024-06-07T22:23:48.793Z"},
       {
         "id":"tam_321aspace_ref18",
         "ead_ssi":"tam_321",
@@ -243,8 +245,8 @@
         "unitdate_start_ssm":["1993"],
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, 1993-1997"],
-        "_version_":1775216060137472000,
-        "timestamp":"2023-08-25T15:39:22.624Z"},
+        "_version_":1801242834429280256,
+        "timestamp":"2024-06-07T22:23:48.806Z"},
       {
         "id":"tam_321aspace_ref19",
         "ead_ssi":"tam_321",
@@ -263,8 +265,8 @@
         "unitdate_start_ssm":["1993"],
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, 1993-1997"],
-        "_version_":1775216060177317888,
-        "timestamp":"2023-08-25T15:39:22.663Z"},
+        "_version_":1801242834443960320,
+        "timestamp":"2024-06-07T22:23:48.82Z"},
       {
         "id":"tam_321aspace_ref20",
         "ead_ssi":"tam_321",
@@ -283,8 +285,8 @@
         "unitdate_start_ssm":["1993"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1993"],
-        "_version_":1775216060212969472,
-        "timestamp":"2023-08-25T15:39:22.697Z"},
+        "_version_":1801242834458640384,
+        "timestamp":"2024-06-07T22:23:48.834Z"},
       {
         "id":"tam_321aspace_ref21",
         "ead_ssi":"tam_321",
@@ -303,8 +305,8 @@
         "unitdate_start_ssm":["1993"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1993"],
-        "_version_":1775216060249669632,
-        "timestamp":"2023-08-25T15:39:22.732Z"},
+        "_version_":1801242834471223296,
+        "timestamp":"2024-06-07T22:23:48.846Z"},
       {
         "id":"tam_321aspace_ref22",
         "ead_ssi":"tam_321",
@@ -323,8 +325,8 @@
         "unitdate_start_ssm":["1994"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1994-1995"],
-        "_version_":1775216060288466944,
-        "timestamp":"2023-08-25T15:39:22.769Z"},
+        "_version_":1801242834485903360,
+        "timestamp":"2024-06-07T22:23:48.86Z"},
       {
         "id":"tam_321aspace_ref23",
         "ead_ssi":"tam_321",
@@ -343,8 +345,8 @@
         "unitdate_start_ssm":["1982"],
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1982-1983"],
-        "_version_":1775216060325167104,
-        "timestamp":"2023-08-25T15:39:22.804Z"},
+        "_version_":1801242834500583424,
+        "timestamp":"2024-06-07T22:23:48.874Z"},
       {
         "id":"tam_321aspace_ref24",
         "ead_ssi":"tam_321",
@@ -363,8 +365,8 @@
         "unitdate_start_ssm":["1985"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1985-2005"],
-        "_version_":1775216060365012992,
-        "timestamp":"2023-08-25T15:39:22.842Z"},
+        "_version_":1801242834515263488,
+        "timestamp":"2024-06-07T22:23:48.888Z"},
       {
         "id":"tam_321aspace_ref25",
         "ead_ssi":"tam_321",
@@ -383,8 +385,8 @@
         "unitdate_start_ssm":["1996"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1996-1999"],
-        "_version_":1775216060403810304,
-        "timestamp":"2023-08-25T15:39:22.879Z"},
+        "_version_":1801242834528894976,
+        "timestamp":"2024-06-07T22:23:48.901Z"},
       {
         "id":"tam_321aspace_ref26",
         "ead_ssi":"tam_321",
@@ -403,8 +405,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1987"],
         "unitdate_ssm":["Inclusive, 1970-1987"],
-        "_version_":1775216060441559040,
-        "timestamp":"2023-08-25T15:39:22.915Z"},
+        "_version_":1801242834541477888,
+        "timestamp":"2024-06-07T22:23:48.913Z"},
       {
         "id":"tam_321aspace_ref27",
         "ead_ssi":"tam_321",
@@ -423,8 +425,8 @@
         "unitdate_start_ssm":["2000"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 2000-2003"],
-        "_version_":1775216060480356352,
-        "timestamp":"2023-08-25T15:39:22.952Z"},
+        "_version_":1801242834555109376,
+        "timestamp":"2024-06-07T22:23:48.926Z"},
       {
         "id":"tam_321aspace_ref28",
         "ead_ssi":"tam_321",
@@ -443,8 +445,8 @@
         "unitdate_start_ssm":["1998"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 1998-2001"],
-        "_version_":1775216060524396544,
-        "timestamp":"2023-08-25T15:39:22.993Z"},
+        "_version_":1801242834567692288,
+        "timestamp":"2024-06-07T22:23:48.938Z"},
       {
         "id":"tam_321aspace_ref29",
         "ead_ssi":"tam_321",
@@ -463,8 +465,8 @@
         "unitdate_start_ssm":["1998"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1998-1999"],
-        "_version_":1775216060563193856,
-        "timestamp":"2023-08-25T15:39:23.031Z"},
+        "_version_":1801242834582372352,
+        "timestamp":"2024-06-07T22:23:48.952Z"},
       {
         "id":"tam_321aspace_ref30",
         "ead_ssi":"tam_321",
@@ -483,8 +485,8 @@
         "unitdate_start_ssm":["1998"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1998-1999"],
-        "_version_":1775216060605136896,
-        "timestamp":"2023-08-25T15:39:23.071Z"},
+        "_version_":1801242834593906688,
+        "timestamp":"2024-06-07T22:23:48.963Z"},
       {
         "id":"tam_321aspace_ref31",
         "ead_ssi":"tam_321",
@@ -503,8 +505,8 @@
         "unitdate_start_ssm":["1999"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1999-2002"],
-        "_version_":1775216060646031360,
-        "timestamp":"2023-08-25T15:39:23.109Z"},
+        "_version_":1801242834607538176,
+        "timestamp":"2024-06-07T22:23:48.976Z"},
       {
         "id":"tam_321aspace_ref34",
         "ead_ssi":"tam_321",
@@ -523,8 +525,8 @@
         "unitdate_start_ssm":["1993"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["Inclusive, 1993-2002"],
-        "_version_":1775216060685877248,
-        "timestamp":"2023-08-25T15:39:23.148Z"},
+        "_version_":1801242834620121088,
+        "timestamp":"2024-06-07T22:23:48.988Z"},
       {
         "id":"tam_321aspace_ref35",
         "ead_ssi":"tam_321",
@@ -543,8 +545,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1973-1993"],
-        "_version_":1775216060737257472,
-        "timestamp":"2023-08-25T15:39:23.189Z"},
+        "_version_":1801242834633752576,
+        "timestamp":"2024-06-07T22:23:49.001Z"},
       {
         "id":"tam_321aspace_ref36",
         "ead_ssi":"tam_321",
@@ -563,8 +565,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1998"],
         "unitdate_ssm":["Inclusive, 1980-1998"],
-        "_version_":1775216060784443392,
-        "timestamp":"2023-08-25T15:39:23.242Z"},
+        "_version_":1801242834648432640,
+        "timestamp":"2024-06-07T22:23:49.014Z"},
       {
         "id":"tam_321aspace_ref37",
         "ead_ssi":"tam_321",
@@ -583,8 +585,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1987-1992"],
-        "_version_":1775216060830580736,
-        "timestamp":"2023-08-25T15:39:23.286Z"},
+        "_version_":1801242834659966976,
+        "timestamp":"2024-06-07T22:23:49.026Z"},
       {
         "id":"tam_321aspace_ref38",
         "ead_ssi":"tam_321",
@@ -603,8 +605,8 @@
         "unitdate_start_ssm":["1978"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 1978-2001"],
-        "_version_":1775216060873572352,
-        "timestamp":"2023-08-25T15:39:23.326Z"},
+        "_version_":1801242834671501312,
+        "timestamp":"2024-06-07T22:23:49.037Z"},
       {
         "id":"tam_321aspace_ref39",
         "ead_ssi":"tam_321",
@@ -623,8 +625,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["September 2007-ongoing"],
-        "_version_":1775216060920758272,
-        "timestamp":"2023-08-25T15:39:23.371Z"}]
+        "_version_":1801242834685132800,
+        "timestamp":"2024-06-07T22:23:49.05Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -633,7 +635,8 @@
         "tamwag",28],
       "dao_sim":[
         "Translation missing: en.ead_indexer.fields.dao",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Asian American Legal Defense and Education Fund",1],
       "date_range_sim":[
         "1901-2000",25,
         "2001-2100",11,

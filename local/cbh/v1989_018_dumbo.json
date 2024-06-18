@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["DUMBO, Brooklyn waterfront photographs and slides"],
         "unitid_ssm":["V1989.018"],
         "abstract_ssm":["The collection includes many views of the Brooklyn Bridge, views of buildings along the Brooklyn waterfront located near the Brooklyn Bridge and the Manhattan Bridge, views of people at or near the Brooklyn waterfront, views of the Brooklyn waterfront looking across the East River from lower Manhattan, and views of the lower Manhattan cityscape looking across the East River from the Brooklyn waterfront."],
+        "creator_ssm":["Maraio, Joseph",
+          "Beirne, Elizabeth",
+          "Maraio, Joseph",
+          "Beirne, Elizabeth"],
         "unitdate_normal_ssm":["1965/1985"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Cityscapes",
@@ -79,8 +83,8 @@
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, circa 1975"],
         "language_ssm":["English"],
-        "_version_":1799311560099758080,
-        "timestamp":"2024-05-17T14:47:02.08Z"}]
+        "_version_":1802045277867081728,
+        "timestamp":"2024-06-16T18:58:18.503Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +92,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Beirne, Elizabeth",1,
+        "Maraio, Joseph",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

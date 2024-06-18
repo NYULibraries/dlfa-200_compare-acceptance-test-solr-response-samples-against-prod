@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Benjamin F. Thompson letter"],
         "unitid_ssm":["1974.247"],
         "abstract_ssm":["One letter, dated 1816, written by Benjamin F. Thompson in Setauket, Long Island to an unnamed individual regarding a business matter."],
+        "creator_ssm":["Thompson, Benjamin F. (Benjamin Franklin)",
+          "Thompson, Benjamin F. (Benjamin Franklin)"],
         "unitdate_normal_ssm":["1816/1816"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1816"],
         "unitdate_ssm":["Inclusive, 1816"],
         "language_ssm":["English"],
-        "_version_":1799311647301435392,
-        "timestamp":"2024-05-17T14:48:25.242Z"}]
+        "_version_":1801960502147940352,
+        "timestamp":"2024-06-15T20:30:50.077Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Thompson, Benjamin F. (Benjamin Franklin)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

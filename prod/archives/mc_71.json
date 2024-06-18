@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Frederick G. Nichols Manuscript"],
         "unitid_ssm":["MC.71"],
         "abstract_ssm":["Frederick Gregory Nichols (1878-1954) was a prominent business educator who sought to standardize, regulate, and promote business education in public schools. This collection contains a typescript copy of Frederick G. Nichols' memoirs related to his professional career and a memorandum regarding the manuscript's transfer to New York University Archives."],
+        "creator_ssm":["Nichols, Frederick G. (Frederick George), 1878-1954",
+          "Nichols, Frederick G. (Frederick George), 1878-1954"],
         "unitdate_normal_ssm":["1951/1980"],
         "corpname_ssm":["New York University Archives"],
         "genreform_ssm":["Manuscripts",
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1951"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, circa 1951, 1980"],
-        "_version_":1775226346374430720,
-        "timestamp":"2023-08-25T18:22:52.345Z"},
+        "_version_":1800525581987610624,
+        "timestamp":"2024-05-31T00:23:23.574Z"},
       {
         "id":"mc_71aspace_ref1",
         "ead_ssi":"mc_71",
@@ -82,13 +84,12 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Transmission of Manuscript Copy of the Memoirs of Frederick G. Nichols for Deposit in the New York University Archives"],
         "unitdate_ssm":["1980-02-11"],
         "language_ssm":["English"],
-        "_version_":1775226346409033728,
-        "timestamp":"2023-08-25T18:22:52.378Z"},
+        "_version_":1800525582011727872,
+        "timestamp":"2024-05-31T00:23:23.597Z"},
       {
         "id":"mc_71aspace_ref2",
         "ead_ssi":"mc_71",
@@ -102,15 +103,14 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2-5",
-          "Folder: 2-5"],
+        "location_ssm":["Box: 1, Folder: 2-5"],
         "heading_ssm":["Manuscript of Frederick G. Nichols' Memoirs, Business Education: An Early View"],
         "unitdate_start_ssm":["1951"],
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["circa 1951"],
         "language_ssm":["English"],
-        "_version_":1775226346443636736,
-        "timestamp":"2023-08-25T18:22:52.411Z"}]
+        "_version_":1800525582033747968,
+        "timestamp":"2024-05-31T00:23:23.618Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -118,7 +118,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nichols, Frederick G. (Frederick George), 1878-1954",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",1],

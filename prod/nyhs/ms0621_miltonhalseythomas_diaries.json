@@ -47,6 +47,8 @@
         "unittitle_ssm":["Milton Halsey Thomas diaries"],
         "unitid_ssm":["MS 0621"],
         "abstract_ssm":["This collection consists of the diaries of archivist and librarian Milton Halsey Thomas (1903-1977), covering the period 1915-1977. It also includes a 3-volume partial name index (1915-1971) and 20 volumes of travel journals (1963-1977), as well as a brief autobiography."],
+        "creator_ssm":["Thomas, Milton Halsey, 1903-1977",
+          "Thomas, Milton Halsey, 1903-1977"],
         "corpname_ssm":["New-York Historical Society",
           "Columbia University",
           "Princeton University"],
@@ -73,8 +75,8 @@
         "material_type_ssm":["Diaries."],
         "heading_ssm":["Milton Halsey Thomas diaries"],
         "unitdate_ssm":["Inclusive, 1915-1977"],
-        "_version_":1775220885904424960,
-        "timestamp":"2023-08-25T16:56:04.835Z"},
+        "_version_":1800969140431749120,
+        "timestamp":"2024-06-04T21:53:33.869Z"},
       {
         "id":"ms0621_miltonhalseythomas_diariesaspace_0a3c49106e94dfdda55cfcd52cea2a4a",
         "ead_ssi":"ms0621_miltonhalseythomas_diaries",
@@ -90,8 +92,8 @@
         "location_ssm":["Offsite-Box: 4"],
         "heading_ssm":["Diaries"],
         "unitdate_ssm":["Inclusive, 1965-1974"],
-        "_version_":1775220886121480192,
-        "timestamp":"2023-08-25T16:56:05.042Z"},
+        "_version_":1800969140527169536,
+        "timestamp":"2024-06-04T21:53:33.961Z"},
       {
         "id":"ms0621_miltonhalseythomas_diariesaspace_2871a1dfdd4951711ee14287267b999d",
         "ead_ssi":"ms0621_miltonhalseythomas_diaries",
@@ -107,8 +109,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Diaries"],
         "unitdate_ssm":["Inclusive, 1915-1938"],
-        "_version_":1775220885997748224,
-        "timestamp":"2023-08-25T16:56:04.924Z"},
+        "_version_":1800969140478935040,
+        "timestamp":"2024-06-04T21:53:33.915Z"},
       {
         "id":"ms0621_miltonhalseythomas_diariesaspace_297cef1ad258a2a8d46fbecc0235cff8",
         "ead_ssi":"ms0621_miltonhalseythomas_diaries",
@@ -124,8 +126,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Diaries"],
         "unitdate_ssm":["Inclusive, 1939-1957"],
-        "_version_":1775220886034448384,
-        "timestamp":"2023-08-25T16:56:04.959Z"},
+        "_version_":1800969140491517952,
+        "timestamp":"2024-06-04T21:53:33.927Z"},
       {
         "id":"ms0621_miltonhalseythomas_diariesaspace_4f3bc701dde2eb958cc6aee6753642f2",
         "ead_ssi":"ms0621_miltonhalseythomas_diaries",
@@ -141,8 +143,8 @@
         "location_ssm":["Offsite-Box: 5"],
         "heading_ssm":["Autobiography"],
         "unitdate_ssm":["Inclusive, 1925-1974"],
-        "_version_":1775220885951610880,
-        "timestamp":"2023-08-25T16:56:04.88Z"},
+        "_version_":1800969140455866368,
+        "timestamp":"2024-06-04T21:53:33.893Z"},
       {
         "id":"ms0621_miltonhalseythomas_diariesaspace_60e6c2b4bf03b4f611e54a2ae71667f8",
         "ead_ssi":"ms0621_miltonhalseythomas_diaries",
@@ -158,8 +160,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Diaries"],
         "unitdate_ssm":["Inclusive, 1958-1965"],
-        "_version_":1775220886080585728,
-        "timestamp":"2023-08-25T16:56:05.003Z"},
+        "_version_":1800969140506198016,
+        "timestamp":"2024-06-04T21:53:33.94Z"},
       {
         "id":"ms0621_miltonhalseythomas_diariesaspace_615cf1b4276fa5544e8e1776b9a67e94",
         "ead_ssi":"ms0621_miltonhalseythomas_diaries",
@@ -175,8 +177,8 @@
         "location_ssm":["Offsite-Box: 5"],
         "heading_ssm":["Name Indexes"],
         "unitdate_ssm":["Inclusive, 1915-1971"],
-        "_version_":1775220886207463424,
-        "timestamp":"2023-08-25T16:56:05.124Z"},
+        "_version_":1800969140569112576,
+        "timestamp":"2024-06-04T21:53:34.001Z"},
       {
         "id":"ms0621_miltonhalseythomas_diariesaspace_b35142af7165e17121480dcc04d9fb4d",
         "ead_ssi":"ms0621_miltonhalseythomas_diaries",
@@ -192,8 +194,8 @@
         "location_ssm":["Offsite-Box: 6"],
         "heading_ssm":["Travel Journals"],
         "unitdate_ssm":["Inclusive, 1968-1977"],
-        "_version_":1775220886277718016,
-        "timestamp":"2023-08-25T16:56:05.191Z"},
+        "_version_":1800969140604764160,
+        "timestamp":"2024-06-04T21:53:34.035Z"},
       {
         "id":"ms0621_miltonhalseythomas_diariesaspace_c3c2fd6baf638aa0c23ccf68bc7988ad",
         "ead_ssi":"ms0621_miltonhalseythomas_diaries",
@@ -209,8 +211,8 @@
         "location_ssm":["Offsite-Box: 5"],
         "heading_ssm":["Diaries"],
         "unitdate_ssm":["Inclusive, 1974-1977"],
-        "_version_":1775220886165520384,
-        "timestamp":"2023-08-25T16:56:05.084Z"},
+        "_version_":1800969140547092480,
+        "timestamp":"2024-06-04T21:53:33.98Z"},
       {
         "id":"ms0621_miltonhalseythomas_diariesaspace_d8f1c5a3ce2774b43fd62fc9fe0329f8",
         "ead_ssi":"ms0621_miltonhalseythomas_diaries",
@@ -226,8 +228,8 @@
         "location_ssm":["Offsite-Box: 5"],
         "heading_ssm":["Travel Journals"],
         "unitdate_ssm":["Inclusive, 1963-1967"],
-        "_version_":1775220886243115008,
-        "timestamp":"2023-08-25T16:56:05.158Z"}]
+        "_version_":1800969140586938368,
+        "timestamp":"2024-06-04T21:53:34.018Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -235,7 +237,8 @@
       "repository_sim":[
         "nyhs",10],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Thomas, Milton Halsey, 1903-1977",1],
       "date_range_sim":[
         "undated & other",10],
       "subject_sim":[

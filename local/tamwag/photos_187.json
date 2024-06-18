@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["Roger Keeran Photographs"],
         "unitid_ssm":["PHOTOS.187"],
         "abstract_ssm":["The Roger Keeran Photographs document a meeting and a picnic held by District Council 65 of the United Automobile Workers (UAW).  The dates and locations of both events are unknown."],
+        "creator_ssm":["Keeran, Roger",
+          "Keeran, Roger"],
         "unitdate_normal_ssm":["1983/1983"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Keeran, Roger"],
@@ -60,8 +62,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1983"],
-        "_version_":1799764596448296960,
-        "timestamp":"2024-05-22T14:47:51.21Z"},
+        "_version_":1802141966485422080,
+        "timestamp":"2024-06-17T20:35:07.955Z"},
       {
         "id":"photos_187aspace_ref1",
         "ead_ssi":"photos_187",
@@ -77,8 +79,8 @@
         "location_ssm":["Box: Shared Tamiment A002"],
         "heading_ssm":["United Auto Workers Meeting"],
         "unitdate_ssm":["undated"],
-        "_version_":1799764596465074176,
-        "timestamp":"2024-05-22T14:47:51.226Z"},
+        "_version_":1802141966509539328,
+        "timestamp":"2024-06-17T20:35:07.978Z"},
       {
         "id":"photos_187aspace_ref2",
         "ead_ssi":"photos_187",
@@ -94,8 +96,8 @@
         "location_ssm":["Box: Shared Tamiment A002"],
         "heading_ssm":["United Auto Workers Picnic"],
         "unitdate_ssm":["undated"],
-        "_version_":1799764596496531456,
-        "timestamp":"2024-05-22T14:47:51.256Z"},
+        "_version_":1802141966535753728,
+        "timestamp":"2024-06-17T20:35:08.003Z"},
       {
         "id":"photos_187aspace_ref3",
         "ead_ssi":"photos_187",
@@ -111,8 +113,8 @@
         "location_ssm":["Box: Shared Tamiment A002"],
         "heading_ssm":["United Auto Workers Meeting (negatives)"],
         "unitdate_ssm":["undated"],
-        "_version_":1799764596479754240,
-        "timestamp":"2024-05-22T14:47:51.24Z"}]
+        "_version_":1802141966525267968,
+        "timestamp":"2024-06-17T20:35:07.993Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -120,7 +122,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Keeran, Roger",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",3],

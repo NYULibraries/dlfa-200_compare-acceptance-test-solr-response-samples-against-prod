@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Dinanda Nooney At Home in Brooklyn photographs"],
         "unitid_ssm":["V1990.020"],
         "abstract_ssm":["The Dinanda Nooney At Home in Brooklyn photographs date from 1976 to 1985 (bulk dates: 1978 to 1979) and contain 223 items. Photographs in the collection depict Brooklyn residents from a variety of age, ethnic, and economic groups in and near their homes. The collection is composed of interior and exterior views of apartments and houses, park scenes, street scenes, and photographs of residents engaged in social and family events."],
+        "creator_ssm":["Nooney, Dinanda H.",
+          "Nooney, Dinanda H."],
         "unitdate_normal_ssm":["1976/1985",
           "1978/1979"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -94,8 +96,8 @@
           "1979"],
         "unitdate_ssm":["Inclusive, 1976-1985 ; 1978-1979"],
         "language_ssm":["English"],
-        "_version_":1799256164904468480,
-        "timestamp":"2024-05-17T00:06:33.105Z"}]
+        "_version_":1802045331847774208,
+        "timestamp":"2024-06-16T18:59:09.983Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -103,7 +105,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nooney, Dinanda H.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

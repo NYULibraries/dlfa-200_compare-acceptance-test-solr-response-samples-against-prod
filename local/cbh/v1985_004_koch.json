@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William Koch glass plate negatives"],
         "unitid_ssm":["V1985.004"],
         "abstract_ssm":["All negatives in the collection are the work of William \"Billy\" Koch and are presumably set in Brooklyn, N.Y. Images show houses, farms, and street scenes, as well as portraits of groups and individuals outdoors."],
+        "creator_ssm":["Koch, William",
+          "Koch, William"],
         "unitdate_normal_ssm":["1890/1925",
           "1890/1910"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -72,8 +74,8 @@
           "1910"],
         "unitdate_ssm":["Inclusive, 1890-1925 ; 1890-1910"],
         "language_ssm":["English"],
-        "_version_":1799256293393825792,
-        "timestamp":"2024-05-17T00:08:35.642Z"}]
+        "_version_":1802044984739758080,
+        "timestamp":"2024-06-16T18:53:38.955Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Koch, William",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

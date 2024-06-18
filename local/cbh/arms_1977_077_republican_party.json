@@ -47,6 +47,14 @@
         "unittitle_ssm":["Brooklyn Republican Party scrapbook"],
         "unitid_ssm":["1977.077"],
         "abstract_ssm":["The scrapbook dating from 1881 to 1883 includes bylaws, voter registries, reports, clippings, circulars, correspondence, and other election material from the First Ward Republican Association of Brooklyn, the Brooklyn Young Republican Club, and the Kings County Republican General Committee."],
+        "creator_ssm":["Republican Party (Kings County, N.Y.). General Committee",
+          "Brooklyn Young Republican Club",
+          "First Ward Republican Association of Brooklyn",
+          "Beecher, William Constantine",
+          "Republican Party (Kings County, N.Y.). General Committee",
+          "Brooklyn Young Republican Club",
+          "First Ward Republican Association of Brooklyn",
+          "Beecher, William Constantine"],
         "unitdate_normal_ssm":["1881/1883"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Republican Party (Kings County, N.Y.). General Committee",
@@ -87,8 +95,8 @@
         "unitdate_end_ssm":["1883"],
         "unitdate_ssm":["Inclusive, 1881-1883"],
         "language_ssm":["English"],
-        "_version_":1799312263564230656,
-        "timestamp":"2024-05-17T14:58:12.956Z"}]
+        "_version_":1801960649932144640,
+        "timestamp":"2024-06-15T20:33:11.015Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +104,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Beecher, William Constantine",1,
+        "Brooklyn Young Republican Club",1,
+        "First Ward Republican Association of Brooklyn",1,
+        "Republican Party (Kings County, N.Y.). General Committee",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

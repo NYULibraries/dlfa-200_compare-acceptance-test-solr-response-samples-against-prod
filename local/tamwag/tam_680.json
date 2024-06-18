@@ -47,6 +47,8 @@
         "unittitle_ssm":["Martin Popper Papers"],
         "unitid_ssm":["TAM.680"],
         "abstract_ssm":["This collection documents the life and career of American attorney Martin Popper (1910-1989), a participant in many left-wing causes during the mid- and late-20th century and an executive secretary of the National Lawyers Guild (NLG). In his legal practice Popper defended the \"Hollywood Ten\" during the entertainment industry blacklist, represented the family of slain civil rights activist Andrew Goodman, and interacted with many prominent American activists and progressive organizations. The bulk of the collection is comprised of documents related to Popper's involvement in the NLG, the Consular Law Society, and the Lawyers Committee on Nuclear Policy, and includes legal documents related to his indictment before the House Un-American Acitivities Committee (HUAC), policy statements in support of anti-nuclear proliferation, and amicus briefs filed on behalf of clients and colleagues."],
+        "creator_ssm":["Popper, Martin",
+          "Popper, Martin"],
         "unitdate_normal_ssm":["1930/2007",
           "1950/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -79,8 +81,8 @@
         "unitdate_end_ssm":["2007",
           "1989"],
         "unitdate_ssm":["Inclusive, 1930-2007 ; 1950-1989"],
-        "_version_":1799335290120175616,
-        "timestamp":"2024-05-17T21:04:12.791Z"},
+        "_version_":1802183988980219904,
+        "timestamp":"2024-06-18T07:43:03.728Z"},
       {
         "id":"tam_680aspace_69f6f62ddc1fe7bccc3fa8ef649821e1",
         "ead_ssi":"tam_680",
@@ -99,8 +101,8 @@
         "unitdate_start_ssm":["1943"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1943-1989"],
-        "_version_":1799335290229227520,
-        "timestamp":"2024-05-17T21:04:12.895Z"},
+        "_version_":1802183989059911680,
+        "timestamp":"2024-06-18T07:43:03.805Z"},
       {
         "id":"tam_680aspace_92e59af3f7c55cf6e06830a3c30e94f6",
         "ead_ssi":"tam_680",
@@ -116,12 +118,11 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 11, audiocassette: cuid36396",
-          "audiocassette: cuid36396"],
+        "location_ssm":["Box: 11, audiocassette: cuid36396"],
         "heading_ssm":["Martin Popper Memorial Service - Community Church, New York"],
         "unitdate_ssm":["February 25, 1989"],
-        "_version_":1799335290241810432,
-        "timestamp":"2024-05-17T21:04:12.907Z"},
+        "_version_":1802183989070397440,
+        "timestamp":"2024-06-18T07:43:03.815Z"},
       {
         "id":"tam_680aspace_ref10",
         "ead_ssi":"tam_680",
@@ -140,8 +141,8 @@
         "unitdate_start_ssm":["1930"],
         "unitdate_end_ssm":["2007"],
         "unitdate_ssm":["Inclusive, 1930-2007"],
-        "_version_":1799335290136952832,
-        "timestamp":"2024-05-17T21:04:12.807Z"},
+        "_version_":1802183988991754240,
+        "timestamp":"2024-06-18T07:43:03.74Z"},
       {
         "id":"tam_680aspace_ref13",
         "ead_ssi":"tam_680",
@@ -161,8 +162,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["2007"],
         "unitdate_ssm":["Inclusive, 1950-2007"],
-        "_version_":1799335290153730048,
-        "timestamp":"2024-05-17T21:04:12.823Z"},
+        "_version_":1802183989002240000,
+        "timestamp":"2024-06-18T07:43:03.75Z"},
       {
         "id":"tam_680aspace_ref14",
         "ead_ssi":"tam_680",
@@ -181,8 +182,8 @@
         "unitdate_start_ssm":["1945"],
         "unitdate_end_ssm":["1950"],
         "unitdate_ssm":["Inclusive, 1945-1950"],
-        "_version_":1799335290167361536,
-        "timestamp":"2024-05-17T21:04:12.836Z"},
+        "_version_":1802183989017968640,
+        "timestamp":"2024-06-18T07:43:03.765Z"},
       {
         "id":"tam_680aspace_ref15",
         "ead_ssi":"tam_680",
@@ -202,8 +203,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, 1960-1963"],
-        "_version_":1799335290186235904,
-        "timestamp":"2024-05-17T21:04:12.854Z"},
+        "_version_":1802183989028454400,
+        "timestamp":"2024-06-18T07:43:03.775Z"},
       {
         "id":"tam_680aspace_ref16",
         "ead_ssi":"tam_680",
@@ -222,8 +223,8 @@
         "unitdate_start_ssm":["1964"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1964-1975"],
-        "_version_":1799335290200915968,
-        "timestamp":"2024-05-17T21:04:12.868Z"},
+        "_version_":1802183989037891584,
+        "timestamp":"2024-06-18T07:43:03.783Z"},
       {
         "id":"tam_680aspace_ref18",
         "ead_ssi":"tam_680",
@@ -245,8 +246,8 @@
         "unitdate_end_ssm":["1964"],
         "unitdate_ssm":["Inclusive, 1941-1964"],
         "language_ssm":["English"],
-        "_version_":1799335290215596032,
-        "timestamp":"2024-05-17T21:04:12.882Z"}]
+        "_version_":1802183989048377344,
+        "timestamp":"2024-06-18T07:43:03.794Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -255,7 +256,8 @@
         "tamwag",9],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Popper, Martin",1],
       "date_range_sim":[
         "1901-2000",8,
         "2001-2100",3,

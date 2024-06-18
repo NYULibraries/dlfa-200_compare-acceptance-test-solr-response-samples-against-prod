@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,10 @@
       {
         "unittitle_ssm":["Edna and Lou Pardo Photographs"],
         "unitid_ssm":["ALBA.PHOTO.002"],
+        "creator_ssm":["Pardo, Lou.",
+          "Pardo, Edna.",
+          "Pardo, Lou.",
+          "Pardo, Edna."],
         "unitdate_normal_ssm":["1977/1977"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Pardo, Lou.",
@@ -60,8 +64,8 @@
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["1977"],
         "language_ssm":["English"],
-        "_version_":1799333742627520512,
-        "timestamp":"2024-05-17T20:39:36.987Z"},
+        "_version_":1802111902260658176,
+        "timestamp":"2024-06-17T12:37:16.476Z"},
       {
         "id":"alba_photo_002aspace_5a9a926556fdd65e433ba07a7c12117c",
         "ead_ssi":"alba_photo_002",
@@ -76,8 +80,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1799333742646394880,
-        "timestamp":"2024-05-17T20:39:37.005Z"}]
+        "_version_":1802111902280581120,
+        "timestamp":"2024-06-17T12:37:16.495Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +89,9 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Pardo, Edna.",1,
+        "Pardo, Lou.",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

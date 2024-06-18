@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Hiroki Kobayashi photographs on the Slave Theater from the collection of Dexter Wimberly"],
         "unitid_ssm":["2014.023"],
         "abstract_ssm":["This collection consists of fourteen 30 x 30 inch photographs of the interior of the Slave Theater. The Slave Theater was located at 1215 Fulton Street; it was closed when the NYC Department of Buildings condemned the building in early 2012. The Slave Theater (then the Regent Theater) was purchased by Judge John Phillips in 1982 who chose the name and had the interiors decorated with portraits of Malcolm X, Martin Luther King, Jr. and other prominent African American leaders to remind himself and his neighbors of their history. In the mid-1980's, following several racially motivated killings, the Reverend Al Sharpton began hosting weekly rallies and news conferences at the Slave Theater, making it a center for civil rights activities in New York City. The images were taken in 2010, at which point the theater had been unused for the past nine years. The images primarily depict artwork in the space, and the state of disrepair of the theater."],
+        "creator_ssm":["Kobayashi, Hiroki",
+          "Kobayashi, Hiroki"],
         "unitdate_normal_ssm":["2010/2010"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographs"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, 2010"],
         "language_ssm":["English"],
-        "_version_":1799312462773747712,
-        "timestamp":"2024-05-17T15:01:22.937Z"}]
+        "_version_":1801958280343322624,
+        "timestamp":"2024-06-15T19:55:31.199Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kobayashi, Hiroki",1],
       "date_range_sim":[
         "2001-2100",1],
       "subject_sim":[

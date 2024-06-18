@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Irish American Teachers Association of Chicago"],
         "unitid_ssm":["AIA.085"],
         "abstract_ssm":["The Irish American Teachers Association of Chicago was created in 1978 by Maureen Wade, Karen Crotty, and a small group of teachers in the Chicago area. Membership is open to educators of all levels interested in the promotion of Irish and Irish American culture through coursework, lectures, arts, music, and travel. The group works to support an accurate depiction of Irish and Irish American communities, as well as promote the professional, social, and cultural welfare of both teachers and students. This collection consists of 46 PDF files created by the Irish American Teachers Association of Chicago from 1979-2015. The files include photographs and administrative documents, such as event flyers, membership lists, and lists of book recommendations. The bulk of the collection consists of scanned pdfs of the organization's newsletter, Tir na n-Og. The newsletters include organizational information, like upcoming events, elections, and changes in leadership, as well as songs, poems, and announcements about Irish cultural activities in the area. Many newsletters include reflections from students who visited Ireland through exchange programs and information about schools named after Irish or Irish American people."],
+        "creator_ssm":["Irish American Teachers Association of Chicago",
+          "Irish American Teachers Association of Chicago"],
         "unitdate_normal_ssm":["1979/2015"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Irish American Teachers Association of Chicago"],
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 1979-2015"],
-        "_version_":1799747621502320640,
-        "timestamp":"2024-05-22T10:18:02.64Z"},
+        "_version_":1802110346811408384,
+        "timestamp":"2024-06-17T12:12:33.083Z"},
       {
         "id":"aia_085aspace_5e6abadd4f7a9fb69d3178b81666c6b9",
         "ead_ssi":"aia_085",
@@ -84,14 +86,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Electronic Records, E-records: TW_AIA_085_ER_2",
-          "E-records: TW_AIA_085_ER_2"],
+        "location_ssm":["Box: Electronic Records, E-records: TW_AIA_085_ER_2"],
         "heading_ssm":["Tir na n-Og Newsletters"],
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 1979-2015"],
-        "_version_":1799747621532729344,
-        "timestamp":"2024-05-22T10:18:02.668Z"},
+        "_version_":1802110346857545728,
+        "timestamp":"2024-06-17T12:12:33.128Z"},
       {
         "id":"aia_085aspace_acfc184cdb8644094fc8e9404e983f11",
         "ead_ssi":"aia_085",
@@ -107,14 +108,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Electronic Records, E-records: TW_AIA_085_ER_3",
-          "E-records: TW_AIA_085_ER_3"],
+        "location_ssm":["Box: Electronic Records, E-records: TW_AIA_085_ER_3"],
         "heading_ssm":["Photographs"],
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, circa 1979-2015"],
-        "_version_":1799747621551603712,
-        "timestamp":"2024-05-22T10:18:02.687Z"},
+        "_version_":1802110346887954432,
+        "timestamp":"2024-06-17T12:12:33.157Z"},
       {
         "id":"aia_085aspace_c4054dfb22b8d3532d0d7d562cd45de9",
         "ead_ssi":"aia_085",
@@ -130,14 +130,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Electronic Records, E-records: TW_AIA_085_ER_1",
-          "E-records: TW_AIA_085_ER_1"],
+        "location_ssm":["Box: Electronic Records, E-records: TW_AIA_085_ER_1"],
         "heading_ssm":["Administrative Documents"],
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 1984-2014"],
-        "_version_":1799747621518049280,
-        "timestamp":"2024-05-22T10:18:02.655Z"}]
+        "_version_":1802110346837622784,
+        "timestamp":"2024-06-17T12:12:33.109Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -146,7 +145,8 @@
         "tamwag",4],
       "dao_sim":[
         "Online Access",4],
-      "creator_sim":[],
+      "creator_sim":[
+        "Irish American Teachers Association of Chicago",1],
       "date_range_sim":[
         "1901-2000",4,
         "2001-2100",4],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":17,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -67,8 +67,8 @@
           "Daguerreotypes (photographs)"],
         "heading_ssm":["Jerry Spagnoli Photograph Collection"],
         "unitdate_ssm":["Inclusive, 1998-2000"],
-        "_version_":1799318558670323712,
-        "timestamp":"2024-05-17T16:38:16.437Z"},
+        "_version_":1802093393724047360,
+        "timestamp":"2024-06-17T07:43:05.36Z"},
       {
         "id":"pr157_jerry_spagnoliaspace_ref12_xom",
         "ead_ssi":"pr157_jerry_spagnoli",
@@ -82,12 +82,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: unknown container",
-          "Folder: unknown container"],
+        "location_ssm":["Box: 1, Folder: unknown container"],
         "heading_ssm":["\n      [Grand Central Station Rededication Ceremony]\n    "],
         "unitdate_ssm":["1998 Oct 1"],
-        "_version_":1799318558695489536,
-        "timestamp":"2024-05-17T16:38:16.461Z"},
+        "_version_":1802093393747116032,
+        "timestamp":"2024-06-17T07:43:05.382Z"},
       {
         "id":"pr157_jerry_spagnoliaspace_ref13_ged",
         "ead_ssi":"pr157_jerry_spagnoli",
@@ -101,12 +100,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: unknown container",
-          "Folder: unknown container"],
+        "location_ssm":["Box: 2, Folder: unknown container"],
         "heading_ssm":["\n      [Macy's Thanksgiving Day Parade]\n    "],
         "unitdate_ssm":["2000"],
-        "_version_":1799318558713315328,
-        "timestamp":"2024-05-17T16:38:16.478Z"},
+        "_version_":1802093393762844672,
+        "timestamp":"2024-06-17T07:43:05.397Z"},
       {
         "id":"pr157_jerry_spagnoliaspace_ref14_982",
         "ead_ssi":"pr157_jerry_spagnoli",
@@ -120,12 +118,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 3, Folder: unknown container",
-          "Folder: unknown container"],
+        "location_ssm":["Box: 3, Folder: unknown container"],
         "heading_ssm":["\n      [Aerial View from 52 West 26th Street with World Trade Center]\n    "],
         "unitdate_ssm":["1999"],
-        "_version_":1799318558734286848,
-        "timestamp":"2024-05-17T16:38:16.497Z"},
+        "_version_":1802093393780670464,
+        "timestamp":"2024-06-17T07:43:05.414Z"},
       {
         "id":"pr157_jerry_spagnoliaspace_ref16_c80",
         "ead_ssi":"pr157_jerry_spagnoli",
@@ -139,12 +136,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 3, Folder: unknown container",
-          "Folder: unknown container"],
+        "location_ssm":["Box: 3, Folder: unknown container"],
         "heading_ssm":["\n      [Aerial View from 52 West 26th Street with World Trade Center]\n    "],
         "unitdate_ssm":["1999"],
-        "_version_":1799318558755258368,
-        "timestamp":"2024-05-17T16:38:16.518Z"}]
+        "_version_":1802093393804787712,
+        "timestamp":"2024-06-17T07:43:05.437Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

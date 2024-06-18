@@ -47,6 +47,8 @@
         "unittitle_ssm":["Mary A. Titcomb scrapbooks"],
         "unitid_ssm":["ARC.080"],
         "abstract_ssm":["The Mary A. Titcomb scrapbooks consist of seven volumes of clippings, 1865-1881. The scrapbooks contain clippings of the weekly magazine series that were written by Titcomb."],
+        "creator_ssm":["Titcomb, Mary A.",
+          "Titcomb, Mary A."],
         "unitdate_normal_ssm":["1865/1881"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Scrapbooks"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1881"],
         "unitdate_ssm":["Inclusive, 1865-1881"],
         "language_ssm":["English"],
-        "_version_":1775221791654936576,
-        "timestamp":"2023-08-25T17:10:28.626Z"},
+        "_version_":1800610516925677568,
+        "timestamp":"2024-05-31T22:53:23.842Z"},
       {
         "id":"arc_080_titcombaspace_ref7_jnf",
         "ead_ssi":"arc_080_titcomb",
@@ -87,8 +89,8 @@
         "unitdate_end_ssm":["1870"],
         "unitdate_ssm":["Inclusive, 1867-1870"],
         "language_ssm":["English"],
-        "_version_":1775221791727288320,
-        "timestamp":"2023-08-25T17:10:28.695Z"},
+        "_version_":1800610516943503360,
+        "timestamp":"2024-05-31T22:53:23.86Z"},
       {
         "id":"arc_080_titcombaspace_ref8_jeu",
         "ead_ssi":"arc_080_titcomb",
@@ -107,8 +109,8 @@
         "unitdate_end_ssm":["1881"],
         "unitdate_ssm":["Inclusive, 1870-1881"],
         "language_ssm":["English"],
-        "_version_":1775221791772377088,
-        "timestamp":"2023-08-25T17:10:28.738Z"},
+        "_version_":1800610516966572032,
+        "timestamp":"2024-05-31T22:53:23.882Z"},
       {
         "id":"arc_080_titcombaspace_ref9_z4m",
         "ead_ssi":"arc_080_titcomb",
@@ -127,8 +129,8 @@
         "unitdate_end_ssm":["1880"],
         "unitdate_ssm":["Inclusive, 1865-1880"],
         "language_ssm":["English"],
-        "_version_":1775221791806980096,
-        "timestamp":"2023-08-25T17:10:28.771Z"}]
+        "_version_":1800610516981252096,
+        "timestamp":"2024-05-31T22:53:23.896Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -136,7 +138,8 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Titcomb, Mary A.",1],
       "date_range_sim":[
         "1801-1900",4],
       "subject_sim":[

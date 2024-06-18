@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Richard Hewlett French and Indian War orderly book"],
         "unitid_ssm":["1973.094"],
         "abstract_ssm":["The Richard Hewlett French and Indian War orderly book is a Photostat copy of the original manuscript. The manuscript, kept by Captain Richard Hewlett from May 13, 1758 to November 8, 1758, consists of 79 pages. In it, Hewlett records orders given to his troop and provides an account of army life during the campaign. The orderly book includes a list of those killed during the campaign of 1758."],
+        "creator_ssm":["Hewlett, Richard",
+          "Hewlett, Richard"],
         "unitdate_normal_ssm":["1758/1758"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Orderly books"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1758"],
         "unitdate_ssm":["Inclusive, 1758"],
         "language_ssm":["English"],
-        "_version_":1799311732085096448,
-        "timestamp":"2024-05-17T14:49:46.098Z"}]
+        "_version_":1801959928399659008,
+        "timestamp":"2024-06-15T20:21:42.908Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hewlett, Richard",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

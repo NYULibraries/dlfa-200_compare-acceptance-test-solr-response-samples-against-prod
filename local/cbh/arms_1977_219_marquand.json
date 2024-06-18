@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Frederick and Hetty Marquand scrapbook"],
         "unitid_ssm":["1977.219"],
         "abstract_ssm":["One scrapbook containing items dating from 1761 to 1882 collected by Frederick and Hetty Marquand, including correspondence, calling cards, event programs, certificates, photographs and engravings, clippings, drawings, and various other memorabilia generally relating to the political, social, cultural, and intellectual life of the northeastern region of the United States."],
+        "creator_ssm":["Marquand, Hetty",
+          "Marquand, Frederick",
+          "Marquand, Hetty",
+          "Marquand, Frederick"],
         "unitdate_normal_ssm":["1761/1882"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Visiting cards",
@@ -97,8 +101,8 @@
         "unitdate_end_ssm":["1882"],
         "unitdate_ssm":["Inclusive, 1761-1882"],
         "language_ssm":["English"],
-        "_version_":1799312464056156160,
-        "timestamp":"2024-05-17T15:01:24.159Z"}]
+        "_version_":1801960959861850112,
+        "timestamp":"2024-06-15T20:38:06.587Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -106,7 +110,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Marquand, Frederick",1,
+        "Marquand, Hetty",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

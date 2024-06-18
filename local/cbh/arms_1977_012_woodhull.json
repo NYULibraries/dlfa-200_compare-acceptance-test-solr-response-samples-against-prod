@@ -47,6 +47,8 @@
         "unittitle_ssm":["Woodhull Monument Association records"],
         "unitid_ssm":["1977.012"],
         "abstract_ssm":["This collection contains records of the Woodhull Monument Association, including minutes, a draft of \"An Appeal to the American People for the Martyrs of the Prison Ships,\" the constitution of the Revolutionary Martyrs Monumental Association, correspondence, and a contract between Brooklyn's Cypress Hills Cemetery and the Woodhull Monument Association."],
+        "creator_ssm":["Woodhull Monument Association",
+          "Woodhull Monument Association"],
         "unitdate_normal_ssm":["1848/1849"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Woodhull Monument Association",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1849"],
         "unitdate_ssm":["Inclusive, 1848-1849"],
         "language_ssm":["English"],
-        "_version_":1799256496548085760,
-        "timestamp":"2024-05-17T00:11:49.385Z"}]
+        "_version_":1801960548367073280,
+        "timestamp":"2024-06-15T20:31:34.155Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Woodhull Monument Association",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

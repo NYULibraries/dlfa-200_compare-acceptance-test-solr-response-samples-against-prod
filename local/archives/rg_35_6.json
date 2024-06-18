@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Kanbar Institute for Film and Television, Tisch School of the Arts"],
         "unitid_ssm":["RG.35.6"],
         "abstract_ssm":["The Records of the Kanbar Institute for Film and Television, Tisch School of the Arts, reveal the early history of the University Broadcast Lab, which served as a testbed for student-developed and -produced programs (a history contextualized by the Records of the Office of the Dean of the Tisch School of the Arts and the Records of the Office of Radio and Television). They also reflect the equipment available to and used by Kanbar Institute faculty, staff, and students in the 1980s."],
+        "creator_ssm":["Maurice Kanbar Institute of Film and Television",
+          "Maurice Kanbar Institute of Film and Television"],
         "unitdate_normal_ssm":["1971/1991"],
         "corpname_ssm":["New York University Archives",
           "Maurice Kanbar Institute of Film and Television",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1971"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1971-1991"],
-        "_version_":1799247646548819968,
-        "timestamp":"2024-05-16T21:51:09.368Z"},
+        "_version_":1801953223456587776,
+        "timestamp":"2024-06-15T18:35:08.576Z"},
       {
         "id":"rg_35_6aspace_0aba3658785163a03fbbf8aa028740a2",
         "ead_ssi":"rg_35_6",
@@ -83,14 +85,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["\"University Broadcast Lab\" Promotion Book, Part 1: The Programs"],
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1971"],
         "unitdate_ssm":["Inclusive, 1970-1971"],
-        "_version_":1799247646571888640,
-        "timestamp":"2024-05-16T21:51:09.39Z"},
+        "_version_":1801953223472316416,
+        "timestamp":"2024-06-15T18:35:08.591Z"},
       {
         "id":"rg_35_6aspace_1a4d4f4ee42ac7d34f20c868618f3c20",
         "ead_ssi":"rg_35_6",
@@ -104,14 +105,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3-4",
-          "Folder: 3-4"],
+        "location_ssm":["Box: 1, Folder: 3-4"],
         "heading_ssm":["Video Area Memos and History"],
         "unitdate_start_ssm":["1989"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1989-1991"],
-        "_version_":1799247646616977408,
-        "timestamp":"2024-05-16T21:51:09.433Z"},
+        "_version_":1801953223510065152,
+        "timestamp":"2024-06-15T18:35:08.627Z"},
       {
         "id":"rg_35_6aspace_b83128c0db6da3a3f83b83a0baaf50d6",
         "ead_ssi":"rg_35_6",
@@ -125,14 +125,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["\"University Broadcast Lab\" Promotion Book Part 2: Program Listings and Related School of the Arts Publicity"],
         "unitdate_start_ssm":["1971"],
         "unitdate_end_ssm":["1971"],
         "unitdate_ssm":["Inclusive, 1971"],
-        "_version_":1799247646593908736,
-        "timestamp":"2024-05-16T21:51:09.411Z"}]
+        "_version_":1801953223486996480,
+        "timestamp":"2024-06-15T18:35:08.605Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -140,7 +139,8 @@
       "repository_sim":[
         "archives",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Maurice Kanbar Institute of Film and Television",1],
       "date_range_sim":[
         "1901-2000",4],
       "subject_sim":[

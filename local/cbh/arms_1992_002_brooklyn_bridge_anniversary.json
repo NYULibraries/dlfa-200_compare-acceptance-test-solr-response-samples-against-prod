@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Bridge golden anniversary dinner seating list"],
         "unitid_ssm":["1992.002"],
         "abstract_ssm":["A printed, alphabetical list of attendees and their seat placements at a banquet at the the Grand Ball Room, Hotel St. George, Brooklyn, NY.  The event commemorated the 50th anniversary of the Brooklyn Bridge, which opened in 1883."],
+        "creator_ssm":["Hotel St. George (Brooklyn, New York, N.Y.)",
+          "Hotel St. George (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1933/1933"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Hotel St. George (Brooklyn, New York, N.Y.)",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1933"],
         "unitdate_ssm":["Inclusive, 1933"],
         "language_ssm":["English"],
-        "_version_":1799309973174353920,
-        "timestamp":"2024-05-17T14:21:48.67Z"}]
+        "_version_":1801963656613724160,
+        "timestamp":"2024-06-15T21:20:58.41Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hotel St. George (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

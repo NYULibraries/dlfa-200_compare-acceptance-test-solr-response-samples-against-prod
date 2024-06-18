@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":13,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Eugenie Fribourg family photographs and ephemera"],
         "unitid_ssm":["2011.002"],
         "abstract_ssm":["The Eugenie Fribourg family photographs and ephemera collection is comprised of materials relating to and documenting the family and professional life of Eugenie Merzbach Fribourg, a Jewish-American Brooklynite whose life spanned nearly the entire 20th century. Eugenie Fribourg became a doctor at a time when the medical profession was dominated by men, and she remained active in the field for more than 60 years. The collection provides a rich visual document of Jewish-American family life in the early-20th century, historical photographic materials in various formats, 1940s French wine and spirits, and a visual history of various neighborhoods in Brooklyn (New York, N.Y.)"],
+        "creator_ssm":["Fribourg family",
+          "Fribourg family"],
         "unitdate_normal_ssm":["1857/2007",
           "1890/1950"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -118,8 +120,8 @@
         "unitdate_end_ssm":["2007",
           "1950"],
         "unitdate_ssm":["Inclusive, 1857-2007 ; 1890-1950"],
-        "_version_":1799312250019774464,
-        "timestamp":"2024-05-17T14:58:00.039Z"},
+        "_version_":1801964123730214912,
+        "timestamp":"2024-06-15T21:28:23.887Z"},
       {
         "id":"arms_2011_002_fribourgaspace_ref10_wyh",
         "ead_ssi":"arms_2011_002_fribourg",
@@ -142,8 +144,8 @@
         "unitdate_start_ssm":["1890"],
         "unitdate_end_ssm":["2007"],
         "unitdate_ssm":["Inclusive, circa 1890-2007"],
-        "_version_":1799312250058571776,
-        "timestamp":"2024-05-17T14:58:00.076Z"},
+        "_version_":1801964123781595136,
+        "timestamp":"2024-06-15T21:28:23.936Z"},
       {
         "id":"arms_2011_002_fribourgaspace_ref12_dp8",
         "ead_ssi":"arms_2011_002_fribourg",
@@ -165,8 +167,8 @@
         "unitdate_start_ssm":["1880"],
         "unitdate_end_ssm":["1895"],
         "unitdate_ssm":["Inclusive, circa 1880-1895"],
-        "_version_":1799312250073251840,
-        "timestamp":"2024-05-17T14:58:00.09Z"},
+        "_version_":1801964123802566656,
+        "timestamp":"2024-06-15T21:28:23.956Z"},
       {
         "id":"arms_2011_002_fribourgaspace_ref13_f6n",
         "ead_ssi":"arms_2011_002_fribourg",
@@ -188,8 +190,8 @@
         "unitdate_start_ssm":["1870"],
         "unitdate_end_ssm":["1875"],
         "unitdate_ssm":["Inclusive, circa 1870-1875"],
-        "_version_":1799312250088980480,
-        "timestamp":"2024-05-17T14:58:00.105Z"},
+        "_version_":1801964123827732480,
+        "timestamp":"2024-06-15T21:28:23.98Z"},
       {
         "id":"arms_2011_002_fribourgaspace_ref14_9ql",
         "ead_ssi":"arms_2011_002_fribourg",
@@ -211,8 +213,8 @@
         "unitdate_start_ssm":["1875"],
         "unitdate_end_ssm":["1885"],
         "unitdate_ssm":["Inclusive, circa 1875-1885"],
-        "_version_":1799312250104709120,
-        "timestamp":"2024-05-17T14:58:00.12Z"},
+        "_version_":1801964123845558272,
+        "timestamp":"2024-06-15T21:28:23.997Z"},
       {
         "id":"arms_2011_002_fribourgaspace_ref15_vkp",
         "ead_ssi":"arms_2011_002_fribourg",
@@ -234,8 +236,8 @@
         "unitdate_start_ssm":["1906"],
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, 1906-1938"],
-        "_version_":1799312250121486336,
-        "timestamp":"2024-05-17T14:58:00.136Z"},
+        "_version_":1801964123868626944,
+        "timestamp":"2024-06-15T21:28:24.019Z"},
       {
         "id":"arms_2011_002_fribourgaspace_ref16_yry",
         "ead_ssi":"arms_2011_002_fribourg",
@@ -257,8 +259,8 @@
         "unitdate_start_ssm":["1897"],
         "unitdate_end_ssm":["1897"],
         "unitdate_ssm":["Inclusive, circa 1897"],
-        "_version_":1799312250136166400,
-        "timestamp":"2024-05-17T14:58:00.15Z"},
+        "_version_":1801964123889598464,
+        "timestamp":"2024-06-15T21:28:24.039Z"},
       {
         "id":"arms_2011_002_fribourgaspace_ref17_em7",
         "ead_ssi":"arms_2011_002_fribourg",
@@ -277,8 +279,8 @@
         "unitdate_start_ssm":["1928"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1928-2004"],
-        "_version_":1799312250149797888,
-        "timestamp":"2024-05-17T14:58:00.163Z"},
+        "_version_":1801964123910569984,
+        "timestamp":"2024-06-15T21:28:24.059Z"},
       {
         "id":"arms_2011_002_fribourgaspace_ref18_g9n",
         "ead_ssi":"arms_2011_002_fribourg",
@@ -298,8 +300,8 @@
         "unitdate_start_ssm":["1857"],
         "unitdate_end_ssm":["1923"],
         "unitdate_ssm":["Inclusive, 1857-1923"],
-        "_version_":1799312250164477952,
-        "timestamp":"2024-05-17T14:58:00.177Z"},
+        "_version_":1801964123932590080,
+        "timestamp":"2024-06-15T21:28:24.079Z"},
       {
         "id":"arms_2011_002_fribourgaspace_ref20_4j5",
         "ead_ssi":"arms_2011_002_fribourg",
@@ -318,8 +320,8 @@
         "unitdate_start_ssm":["1938"],
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, circa 1938-1952"],
-        "_version_":1799312250177060864,
-        "timestamp":"2024-05-17T14:58:00.189Z"},
+        "_version_":1801964123955658752,
+        "timestamp":"2024-06-15T21:28:24.102Z"},
       {
         "id":"arms_2011_002_fribourgaspace_ref41_hpt",
         "ead_ssi":"arms_2011_002_fribourg",
@@ -338,8 +340,8 @@
         "unitdate_start_ssm":["1895"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, circa 1895-1995"],
-        "_version_":1799312250189643776,
-        "timestamp":"2024-05-17T14:58:00.201Z"},
+        "_version_":1801964123973484544,
+        "timestamp":"2024-06-15T21:28:24.119Z"},
       {
         "id":"arms_2011_002_fribourgaspace_ref9_b5i",
         "ead_ssi":"arms_2011_002_fribourg",
@@ -354,8 +356,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 1: Photographs"],
         "unitdate_ssm":["circa 1885-2007"],
-        "_version_":1799312250040745984,
-        "timestamp":"2024-05-17T14:58:00.059Z"}]
+        "_version_":1801964123754332160,
+        "timestamp":"2024-06-15T21:28:23.91Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -363,7 +365,8 @@
       "repository_sim":[
         "cbh",12],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fribourg family",1],
       "date_range_sim":[
         "1801-1900",8,
         "1901-2000",6,

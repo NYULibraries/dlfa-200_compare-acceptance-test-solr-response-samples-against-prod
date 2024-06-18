@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":29,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Southampton, N.Y. survey transcription"],
         "unitid_ssm":["1977.621"],
         "abstract_ssm":["A handwritten transcription of a description of land divisions on Assups Neck, Southampton, Long Island dated August 14, 1691. The transcription was created on April 30, 1842 and is signed by the Southampton clerk."],
+        "creator_ssm":["Southampton (N.Y.)",
+          "Southampton (N.Y.)"],
         "unitdate_normal_ssm":["1691/1691"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Southampton (N.Y.)"],
@@ -64,8 +66,8 @@
         "unitdate_end_ssm":["1691"],
         "unitdate_ssm":["Inclusive, 1691"],
         "language_ssm":["English"],
-        "_version_":1799312283130658816,
-        "timestamp":"2024-05-17T14:58:31.615Z"}]
+        "_version_":1801962088499773440,
+        "timestamp":"2024-06-15T20:56:02.94Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Southampton (N.Y.)",1],
       "date_range_sim":[
         "1601-1700",1],
       "subject_sim":[],

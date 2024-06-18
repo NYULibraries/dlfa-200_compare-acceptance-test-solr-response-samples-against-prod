@@ -47,6 +47,12 @@
         "unittitle_ssm":["Michael C. Heenan collection"],
         "unitid_ssm":["1973.256"],
         "abstract_ssm":["This collection consists of a diary of Michael C. Heenan of Brooklyn, containing notations on his appointments as Messenger and Assistant Sergeant-at-Arms of the Kings County Board of Supervisors, as well as clippings on activities of Brooklyn 10th Ward Democratic organizations in which Heenan was active.  Also included are two U.S. Naval cloth insignias of the rank of Sergeant, circa 1945; two black-and-white photographs of a young boy (presumed to be Heenan) with a pony; and an account book, checkbooks, and a Labor Bureau notice belonging to Kathryn and Thomas McGee, whose relation to Heenan is not known."],
+        "creator_ssm":["Heenan, Michael C.",
+          "McGhee, Kathryn",
+          "McGhee, Thomas",
+          "Heenan, Michael C.",
+          "McGhee, Kathryn",
+          "McGhee, Thomas"],
         "unitdate_normal_ssm":["1878/1955"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Kings County (N.Y.). Board of Supervisors"],
@@ -78,8 +84,8 @@
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["Inclusive, circa 1888 to 1945"],
         "language_ssm":["English"],
-        "_version_":1799256314210156544,
-        "timestamp":"2024-05-17T00:08:55.494Z"}]
+        "_version_":1801960137740517376,
+        "timestamp":"2024-06-15T20:25:02.551Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +93,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Heenan, Michael C.",1,
+        "McGhee, Kathryn",1,
+        "McGhee, Thomas",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff."],
         "unittitle_ssm":["May Mandelbaum Edel Papers"],
         "unitid_ssm":["TAM.345"],
+        "creator_ssm":["Edel, May M. (May Mandelbaum), 1909-1964",
+          "Edel, May M. (May Mandelbaum), 1909-1964"],
         "unitdate_normal_ssm":["1929/1959"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "College Teachers Union of New York City",
@@ -91,8 +93,8 @@
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1929-1959"],
         "language_ssm":["English"],
-        "_version_":1799782710063923200,
-        "timestamp":"2024-05-22T19:35:45.7Z"}]
+        "_version_":1802176821146419200,
+        "timestamp":"2024-06-18T05:49:07.95Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -100,7 +102,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Edel, May M. (May Mandelbaum), 1909-1964",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

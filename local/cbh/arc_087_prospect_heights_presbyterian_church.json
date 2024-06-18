@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Prospect Heights Presbyterian Church records"],
         "unitid_ssm":["ARC.087"],
         "abstract_ssm":["This collection contains records of Prospect Heights Presbyterian Church and its various boards and organizations from 1890 to 1978. The records chronicle the church's membership, regular sermons, and activities of the church's groups. Document types include membership rolls, Sunday school rolls, financial ledgers, reports, programs, and minutes of subdivisions of Prospect Heights Presbyterian Church."],
+        "creator_ssm":["Prospect Heights Presbyterian Church (New York, N.Y.)",
+          "Prospect Heights Presbyterian Church (New York, N.Y.)"],
         "unitdate_normal_ssm":["1890/1978"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Prospect Heights Presbyterian Church (New York, N.Y.)",
@@ -90,8 +92,8 @@
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1890-1978"],
         "language_ssm":["English"],
-        "_version_":1799312399016132608,
-        "timestamp":"2024-05-17T15:00:22.133Z"},
+        "_version_":1801958943036014592,
+        "timestamp":"2024-06-15T20:06:03.192Z"},
       {
         "id":"arc_087_prospect_heights_presbyterian_churchaspace_ref10_eyp",
         "ead_ssi":"arc_087_prospect_heights_presbyterian_church",
@@ -110,8 +112,8 @@
         "unitdate_start_ssm":["1875"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, circa late 19th century-1960s"],
-        "_version_":1799312399149301760,
-        "timestamp":"2024-05-17T15:00:22.26Z"},
+        "_version_":1801958943248875520,
+        "timestamp":"2024-06-15T20:06:03.395Z"},
       {
         "id":"arc_087_prospect_heights_presbyterian_churchaspace_ref2_arr",
         "ead_ssi":"arc_087_prospect_heights_presbyterian_church",
@@ -129,8 +131,8 @@
         "unitdate_start_ssm":["1921"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1921-1969"],
-        "_version_":1799312399033958400,
-        "timestamp":"2024-05-17T15:00:22.15Z"},
+        "_version_":1801958943054888960,
+        "timestamp":"2024-06-15T20:06:03.21Z"},
       {
         "id":"arc_087_prospect_heights_presbyterian_churchaspace_ref3_oi8",
         "ead_ssi":"arc_087_prospect_heights_presbyterian_church",
@@ -148,8 +150,8 @@
         "unitdate_start_ssm":["1890"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, 1890-1972"],
-        "_version_":1799312399046541312,
-        "timestamp":"2024-05-17T15:00:22.162Z"},
+        "_version_":1801958943073763328,
+        "timestamp":"2024-06-15T20:06:03.228Z"},
       {
         "id":"arc_087_prospect_heights_presbyterian_churchaspace_ref4_lav",
         "ead_ssi":"arc_087_prospect_heights_presbyterian_church",
@@ -167,8 +169,8 @@
         "unitdate_start_ssm":["1905"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1905-1965"],
-        "_version_":1799312399061221376,
-        "timestamp":"2024-05-17T15:00:22.176Z"},
+        "_version_":1801958943114657792,
+        "timestamp":"2024-06-15T20:06:03.267Z"},
       {
         "id":"arc_087_prospect_heights_presbyterian_churchaspace_ref5_pzw",
         "ead_ssi":"arc_087_prospect_heights_presbyterian_church",
@@ -186,8 +188,8 @@
         "unitdate_start_ssm":["1891"],
         "unitdate_end_ssm":["1971"],
         "unitdate_ssm":["Inclusive, 1891-1971"],
-        "_version_":1799312399075901440,
-        "timestamp":"2024-05-17T15:00:22.189Z"},
+        "_version_":1801958943140872192,
+        "timestamp":"2024-06-15T20:06:03.292Z"},
       {
         "id":"arc_087_prospect_heights_presbyterian_churchaspace_ref6_auc",
         "ead_ssi":"arc_087_prospect_heights_presbyterian_church",
@@ -205,8 +207,8 @@
         "unitdate_start_ssm":["1907"],
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1907, 1932-1968"],
-        "_version_":1799312399088484352,
-        "timestamp":"2024-05-17T15:00:22.202Z"},
+        "_version_":1801958943160795136,
+        "timestamp":"2024-06-15T20:06:03.311Z"},
       {
         "id":"arc_087_prospect_heights_presbyterian_churchaspace_ref7_z75",
         "ead_ssi":"arc_087_prospect_heights_presbyterian_church",
@@ -224,8 +226,8 @@
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1908-1969"],
-        "_version_":1799312399104212992,
-        "timestamp":"2024-05-17T15:00:22.217Z"},
+        "_version_":1801958943178620928,
+        "timestamp":"2024-06-15T20:06:03.328Z"},
       {
         "id":"arc_087_prospect_heights_presbyterian_churchaspace_ref8_ayo",
         "ead_ssi":"arc_087_prospect_heights_presbyterian_church",
@@ -243,8 +245,8 @@
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1908-1965"],
-        "_version_":1799312399122038784,
-        "timestamp":"2024-05-17T15:00:22.234Z"},
+        "_version_":1801958943203786752,
+        "timestamp":"2024-06-15T20:06:03.352Z"},
       {
         "id":"arc_087_prospect_heights_presbyterian_churchaspace_ref9_uod",
         "ead_ssi":"arc_087_prospect_heights_presbyterian_church",
@@ -262,8 +264,8 @@
         "unitdate_start_ssm":["1906"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1906-1978"],
-        "_version_":1799312399135670272,
-        "timestamp":"2024-05-17T15:00:22.247Z"}]
+        "_version_":1801958943225806848,
+        "timestamp":"2024-06-15T20:06:03.373Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -271,7 +273,8 @@
       "repository_sim":[
         "cbh",10],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Prospect Heights Presbyterian Church (New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",4,
         "1901-2000",10],

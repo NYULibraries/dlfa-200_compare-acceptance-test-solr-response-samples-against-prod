@@ -47,6 +47,10 @@
         "unittitle_ssm":["William Smith and Leffert Haugewort deed"],
         "unitid_ssm":["1977.393"],
         "abstract_ssm":["One deed for land in the town of Hempstead in Queens County (later Nassau County), sold to William Smith by Leffert Haugewort. The deed is dated May 4, 1749."],
+        "creator_ssm":["Smith, William",
+          "Haugewort, Leffert",
+          "Smith, William",
+          "Haugewort, Leffert"],
         "unitdate_normal_ssm":["1749/1749"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Queens County (N.Y.)",
@@ -69,8 +73,8 @@
         "unitdate_end_ssm":["1749"],
         "unitdate_ssm":["1749"],
         "language_ssm":["English"],
-        "_version_":1799311430335332352,
-        "timestamp":"2024-05-17T14:44:58.327Z"}]
+        "_version_":1801961537775075328,
+        "timestamp":"2024-06-15T20:47:17.728Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +82,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Haugewort, Leffert",1,
+        "Smith, William",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

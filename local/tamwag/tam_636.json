@@ -46,6 +46,8 @@
         "author_ssm":["Erika Gottfried"],
         "unittitle_ssm":["Benjamin Doctorich Photographs and Blueprints of New York City Hall"],
         "unitid_ssm":["TAM.636"],
+        "creator_ssm":["Doctorich, Benjamin",
+          "Doctorich, Benjamin"],
         "unitdate_normal_ssm":["1954/1956"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Black-and-white photographs.",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1954"],
         "unitdate_end_ssm":["1956"],
         "unitdate_ssm":["Inclusive, 1954-1956"],
-        "_version_":1799791874812149760,
-        "timestamp":"2024-05-22T22:01:25.884Z"}]
+        "_version_":1802183799524556800,
+        "timestamp":"2024-06-18T07:40:03.05Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Doctorich, Benjamin",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

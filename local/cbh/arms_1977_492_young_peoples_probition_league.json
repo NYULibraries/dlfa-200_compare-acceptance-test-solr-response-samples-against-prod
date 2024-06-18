@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Young People's Prohibition League minutes"],
         "unitid_ssm":["1977.492"],
         "abstract_ssm":["Handwritten minutes from five meetings of the Brooklyn Young People's Prohibition League from January through May of 1909."],
+        "creator_ssm":["Brooklyn Young Peoples Prohibition League",
+          "Brooklyn Young Peoples Prohibition League"],
         "unitdate_normal_ssm":["1909/1909"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Young Peoples Prohibition League",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["1909"],
         "language_ssm":["English"],
-        "_version_":1799256205422493696,
-        "timestamp":"2024-05-17T00:07:11.746Z"}]
+        "_version_":1801961784110743552,
+        "timestamp":"2024-06-15T20:51:12.652Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Young Peoples Prohibition League",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

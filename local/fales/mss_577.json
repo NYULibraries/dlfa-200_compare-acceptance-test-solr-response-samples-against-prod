@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Marina Urbach Collection on C Space Gallery"],
         "unitid_ssm":["MSS.577"],
         "abstract_ssm":["Marina Urbach is New York City-based an artist and curator. This collection consists of materials collected by Urbach related to C Space gallery in New York City in the late 1970s. Materials include exhibition announcement cards and copies of a catalog for the 1976 \"Style and Process\" exhibition organized by Urbach. Of note is a exhibition announcement for the 1977 \"Memory\" exhibition at C Space organized by Marcia Tucker in cooperation with the New Museum."],
+        "creator_ssm":["Urbach, Marina",
+          "Urbach, Marina"],
         "unitdate_normal_ssm":["1976/2015"],
         "corpname_ssm":["Fales Library and Special Collections",
           "C Space (Gallery)",
@@ -71,8 +73,8 @@
         "unitdate_start_ssm":["1976"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 1976-2015"],
-        "_version_":1799745353664167936,
-        "timestamp":"2024-05-22T09:41:59.86Z"},
+        "_version_":1802081614701789184,
+        "timestamp":"2024-06-17T04:35:52.009Z"},
       {
         "id":"mss_577aspace_48ef2d94836e97005e1482a7dacbd8da",
         "ead_ssi":"mss_577",
@@ -86,14 +88,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-2",
-          "Folder: 1-2"],
+        "location_ssm":["Box: 1, Folder: 1-2"],
         "heading_ssm":["Exhibition Announcements"],
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["Inclusive, 1977-2015"],
-        "_version_":1799745353679896576,
-        "timestamp":"2024-05-22T09:41:59.876Z"},
+        "_version_":1802081614723809280,
+        "timestamp":"2024-06-17T04:35:52.03Z"},
       {
         "id":"mss_577aspace_4c29004533d982cf7a7cefa4ae8b27ef",
         "ead_ssi":"mss_577",
@@ -107,14 +108,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3-4",
-          "Folder: 3-4"],
+        "location_ssm":["Box: 1, Folder: 3-4"],
         "heading_ssm":["\"Style and Process\" Catalog"],
         "unitdate_start_ssm":["1976"],
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["1976"],
-        "_version_":1799745353697722368,
-        "timestamp":"2024-05-22T09:41:59.893Z"}]
+        "_version_":1802081614741635072,
+        "timestamp":"2024-06-17T04:35:52.047Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -122,7 +122,8 @@
       "repository_sim":[
         "fales",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Urbach, Marina",1],
       "date_range_sim":[
         "1901-2000",3,
         "2001-2100",2],

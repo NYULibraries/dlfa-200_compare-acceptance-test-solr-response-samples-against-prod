@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["American Red Cross, Brooklyn Chapter records"],
         "unitid_ssm":["1985.091"],
         "abstract_ssm":["The American Red Cross, Brooklyn Chapter collection consists of annual reports and newsletters spanning the years 1918 to 1958, with a gap during the years 1920 to 1937. On December 2, 1905, Mrs. Tunis G. Bergen brought together a group of Brooklyn residents at the Barnard Club House on Remsen Street to form New York City's first borough-based Red Cross organization. With an initial membership roster of 300, the Brooklyn Chapter of the American Red Cross embarked on its first major campaign to aid victims of the 1906 San Francisco earthquake, collecting over $100,000 and thousands of articles of clothing to contribute to the relief effort."],
+        "creator_ssm":["American Red Cross",
+          "Brooklyn Bureau of Charities",
+          "American Red Cross",
+          "Brooklyn Bureau of Charities"],
         "unitdate_normal_ssm":["1918/1958",
           "1940/1948"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -69,8 +73,8 @@
         "unitdate_end_ssm":["1958",
           "1948"],
         "unitdate_ssm":["Inclusive, 1918-1958 ; 1940-1948"],
-        "_version_":1799256218267549696,
-        "timestamp":"2024-05-17T00:07:23.996Z"}]
+        "_version_":1801963099397292032,
+        "timestamp":"2024-06-15T21:12:07.007Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +82,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "American Red Cross",1,
+        "Brooklyn Bureau of Charities",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

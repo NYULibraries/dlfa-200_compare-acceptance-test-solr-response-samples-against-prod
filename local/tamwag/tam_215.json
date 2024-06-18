@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sam Brandon Socialist Labor Party Papers"],
         "unitid_ssm":["TAM.215"],
         "abstract_ssm":["Sam Brandon joined the Socialist Labor Party (SLP) as a teenager, and became an organizer for its New York section and chair of its NY State Committee. Expelled in 1927, he helped to found the Socialist Labor Propaganda League, the Industrial Union League (IUL) in 1928, and in 1933 the Industrial Union Party (IUP), and remained its leader, an advocate of the ideas of SLP founder Daniel De Leon, and a critic of the SLP until his death. This collection consists of correspondence and typescripts (principally of Sam Brandon), documents, ephemera, clippings, and some proceedings of various De Leonite organizations. Notable are the files from the 1920s and 1930s which closely document his expulsion from and ongoing disagreements with the SLP, and the founding of the IUL and IUP. Much of the collection covers the years 1970-1984, and documents Brandon's leading activities in several short-lived De Leonite political groupings. Correspondents include Joseph Brandon, Louis Lazarus, Ralph Muncy, and Arnold Petersen."],
+        "creator_ssm":["Brandon, Sam",
+          "Brandon, Sam"],
         "unitdate_normal_ssm":["1900/1993"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Industrial Union Party (U.S.)",
@@ -72,8 +74,8 @@
         "unitdate_start_ssm":["1900"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1900-1993"],
-        "_version_":1799782356999995392,
-        "timestamp":"2024-05-22T19:30:08.992Z"},
+        "_version_":1802171180191318016,
+        "timestamp":"2024-06-18T04:19:28.316Z"},
       {
         "id":"tam_215aspace_1e8c217cfa66f5aebb362141e2f18860",
         "ead_ssi":"tam_215",
@@ -92,8 +94,8 @@
         "unitdate_start_ssm":["1928"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["Inclusive, 1928-1949, 1975-1992"],
-        "_version_":1799782357135261696,
-        "timestamp":"2024-05-22T19:30:09.121Z"},
+        "_version_":1802171180260524032,
+        "timestamp":"2024-06-18T04:19:28.382Z"},
       {
         "id":"tam_215aspace_2643dd0b0a3d5ad5280fadbd9eca5c48",
         "ead_ssi":"tam_215",
@@ -112,8 +114,8 @@
         "unitdate_start_ssm":["1921"],
         "unitdate_end_ssm":["1981"],
         "unitdate_ssm":["Inclusive, 1921-1940, 1969-1981"],
-        "_version_":1799782357120581632,
-        "timestamp":"2024-05-22T19:30:09.107Z"},
+        "_version_":1802171180253184000,
+        "timestamp":"2024-06-18T04:19:28.375Z"},
       {
         "id":"tam_215aspace_29d7550c7f773880ea63791f16f6788c",
         "ead_ssi":"tam_215",
@@ -132,8 +134,8 @@
         "unitdate_start_ssm":["1913"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1913-1954, 1967-1980"],
-        "_version_":1799782357162524672,
-        "timestamp":"2024-05-22T19:30:09.147Z"},
+        "_version_":1802171180277301248,
+        "timestamp":"2024-06-18T04:19:28.398Z"},
       {
         "id":"tam_215aspace_6a1eadc3d41c5eb29856644fa5172c4e",
         "ead_ssi":"tam_215",
@@ -152,8 +154,8 @@
         "unitdate_start_ssm":["1928"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1928-1930, 1965-1978"],
-        "_version_":1799782357078638592,
-        "timestamp":"2024-05-22T19:30:09.067Z"},
+        "_version_":1802171180229066752,
+        "timestamp":"2024-06-18T04:19:28.352Z"},
       {
         "id":"tam_215aspace_84f0970a3aa13623e5cbde50e0f11022",
         "ead_ssi":"tam_215",
@@ -172,8 +174,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["Inclusive, 1910-1947"],
-        "_version_":1799782357176156160,
-        "timestamp":"2024-05-22T19:30:09.16Z"},
+        "_version_":1802171180285689856,
+        "timestamp":"2024-06-18T04:19:28.406Z"},
       {
         "id":"tam_215aspace_877112cede96b70cba6972a7923b4277",
         "ead_ssi":"tam_215",
@@ -192,8 +194,8 @@
         "unitdate_start_ssm":["1938"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1938-1939, 1976-1984"],
-        "_version_":1799782357220196352,
-        "timestamp":"2024-05-22T19:30:09.202Z"},
+        "_version_":1802171180311904256,
+        "timestamp":"2024-06-18T04:19:28.431Z"},
       {
         "id":"tam_215aspace_9f864c884664e613ca06fa66c9d14e84",
         "ead_ssi":"tam_215",
@@ -212,8 +214,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1968-1989"],
-        "_version_":1799782357148893184,
-        "timestamp":"2024-05-22T19:30:09.134Z"},
+        "_version_":1802171180267864064,
+        "timestamp":"2024-06-18T04:19:28.389Z"},
       {
         "id":"tam_215aspace_a50f937d0faf4a7e46afcf4c943638ac",
         "ead_ssi":"tam_215",
@@ -232,8 +234,8 @@
         "unitdate_start_ssm":["1909"],
         "unitdate_end_ssm":["1981"],
         "unitdate_ssm":["Inclusive, 1909-1913, 1970-1981"],
-        "_version_":1799782357050327040,
-        "timestamp":"2024-05-22T19:30:09.04Z"},
+        "_version_":1802171180220678144,
+        "timestamp":"2024-06-18T04:19:28.344Z"},
       {
         "id":"tam_215aspace_ab18fbd91549d4b7943d56a09f0f9325",
         "ead_ssi":"tam_215",
@@ -252,8 +254,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, 1940-1972"],
-        "_version_":1799782357206564864,
-        "timestamp":"2024-05-22T19:30:09.189Z"},
+        "_version_":1802171180303515648,
+        "timestamp":"2024-06-18T04:19:28.423Z"},
       {
         "id":"tam_215aspace_b76843bff6087c60f6dccab99758abeb",
         "ead_ssi":"tam_215",
@@ -272,8 +274,8 @@
         "unitdate_start_ssm":["1934"],
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1934-1941, 1968-1988"],
-        "_version_":1799782357105901568,
-        "timestamp":"2024-05-22T19:30:09.093Z"},
+        "_version_":1802171180244795392,
+        "timestamp":"2024-06-18T04:19:28.367Z"},
       {
         "id":"tam_215aspace_b928b850431d352b26e26bfd6b413bee",
         "ead_ssi":"tam_215",
@@ -292,8 +294,8 @@
         "unitdate_start_ssm":["1974"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1974-1993"],
-        "_version_":1799782357015724032,
-        "timestamp":"2024-05-22T19:30:09.007Z"},
+        "_version_":1802171180200755200,
+        "timestamp":"2024-06-18T04:19:28.325Z"},
       {
         "id":"tam_215aspace_d9929f3aef0c1ae99ea16ead4d9ecc8b",
         "ead_ssi":"tam_215",
@@ -312,8 +314,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1910-1939, 1950-1993"],
-        "_version_":1799782357093318656,
-        "timestamp":"2024-05-22T19:30:09.08Z"},
+        "_version_":1802171180237455360,
+        "timestamp":"2024-06-18T04:19:28.36Z"},
       {
         "id":"tam_215aspace_f21be515b0bdbb8ad156d4702cd2222f",
         "ead_ssi":"tam_215",
@@ -332,8 +334,8 @@
         "unitdate_start_ssm":["1921"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1921-1954, 1970-1993"],
-        "_version_":1799782357193981952,
-        "timestamp":"2024-05-22T19:30:09.177Z"},
+        "_version_":1802171180296175616,
+        "timestamp":"2024-06-18T04:19:28.416Z"},
       {
         "id":"tam_215aspace_f8d13ee33389819d2916600a2c9a678b",
         "ead_ssi":"tam_215",
@@ -352,8 +354,8 @@
         "unitdate_start_ssm":["1915"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1915-1946, 1972-1993"],
-        "_version_":1799782357029355520,
-        "timestamp":"2024-05-22T19:30:09.02Z"}]
+        "_version_":1802171180208095232,
+        "timestamp":"2024-06-18T04:19:28.332Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -361,7 +363,8 @@
       "repository_sim":[
         "tamwag",15],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brandon, Sam",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",15],

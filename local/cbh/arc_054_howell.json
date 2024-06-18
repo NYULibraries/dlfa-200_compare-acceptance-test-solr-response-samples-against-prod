@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["George R. Howell papers"],
         "unitid_ssm":["ARC.054"],
         "abstract_ssm":["The George R. Howell papers include two items pertaining to Howell's work as an historian and genealogist. The first item is a small journal, dated 1876, containing Howell's handwritten notes on birth, marriage, and death records taken from the Southampton Town Clerk's Office, tombstone inscriptions, and family Bibles. The second item in the collection is a bound, handwritten speech delivered by Howell at the 225th anniversary of the Settlement of Southampton, Long Island, dated 1865. Also included in the back of the volume is an extract from the genealogies of the Howell and Rogers families of Southampton for the years 1625 to 1858."],
+        "creator_ssm":["Howell, George Rogers",
+          "Howell, George Rogers"],
         "unitdate_normal_ssm":["1615/1886"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Genealogies",
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1886"],
         "unitdate_ssm":["Inclusive, circa 1625 to 1876"],
         "language_ssm":["English"],
-        "_version_":1799256450887843840,
-        "timestamp":"2024-05-17T00:11:05.84Z"}]
+        "_version_":1801958823057948672,
+        "timestamp":"2024-06-15T20:04:08.772Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Howell, George Rogers",1],
       "date_range_sim":[
         "1601-1700",1,
         "1801-1900",1],

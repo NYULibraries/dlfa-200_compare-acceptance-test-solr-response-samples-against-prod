@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Warren K. Zerbe papers and photographs"],
         "unitid_ssm":["ARC.113"],
         "abstract_ssm":["The Warren K. Zerbe papers and photographs span the 1920s to 1978, though they primarily focus on Zerbe's childhood and his service in the United States Coast Guard during World War II. The collection includes photographs of Brooklyn landmarks taken by Zerbe, such as the Montauk Club, Litchfield Villa, and the Brooklyn Botanic Garden, as well as views from the top of the Williamsburgh Savings Bank tower."],
+        "creator_ssm":["Sewanhaka Central High School (Floral Park, N.Y.)",
+          "Floral Park-Bellerose School",
+          "Zerbe, Warren Kenneth",
+          "Sewanhaka Central High School (Floral Park, N.Y.)",
+          "Floral Park-Bellerose School",
+          "Zerbe, Warren Kenneth"],
         "unitdate_normal_ssm":["1913/1988"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Sewanhaka Central High School (Floral Park, N.Y.)",
@@ -86,8 +92,8 @@
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, circa 1923 to 1978"],
         "language_ssm":["English"],
-        "_version_":1799311646200430592,
-        "timestamp":"2024-05-17T14:48:24.192Z"},
+        "_version_":1801959061108817920,
+        "timestamp":"2024-06-15T20:07:55.795Z"},
       {
         "id":"arc_113_zerbeaspace_ref10_fba",
         "ead_ssi":"arc_113_zerbe",
@@ -105,8 +111,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, circa 1920s to 1978"],
-        "_version_":1799311646235033600,
-        "timestamp":"2024-05-17T14:48:24.225Z"},
+        "_version_":1801959061169635328,
+        "timestamp":"2024-06-15T20:07:55.853Z"},
       {
         "id":"arc_113_zerbeaspace_ref8_fxl",
         "ead_ssi":"arc_113_zerbe",
@@ -125,8 +131,8 @@
         "unitdate_end_ssm":["1946"],
         "unitdate_ssm":["Inclusive, 1937-1946"],
         "language_ssm":["English"],
-        "_version_":1799311646220353536,
-        "timestamp":"2024-05-17T14:48:24.211Z"}]
+        "_version_":1801959061143420928,
+        "timestamp":"2024-06-15T20:07:55.827Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -134,7 +140,10 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Floral Park-Bellerose School",1,
+        "Sewanhaka Central High School (Floral Park, N.Y.)",1,
+        "Zerbe, Warren Kenneth",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

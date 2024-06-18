@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sarah Streeter Lester papers"],
         "unitid_ssm":["1978.056"],
         "abstract_ssm":["The Sarah Streeter Lester papers contain a 1731 bond between Joris Rapalje and Hendrick Suydam; a deed between Benjamin Hildreth and Benjamin Birdsall, 1788; and a resolution honoring Peter Wyckoff from his employees, 1855."],
+        "creator_ssm":["Lester, Sarah Streeter",
+          "Lester, Sarah Streeter"],
         "unitdate_normal_ssm":["1731/1885"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Rapalje family",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1885"],
         "unitdate_ssm":["Inclusive, 1731-1885"],
         "language_ssm":["English"],
-        "_version_":1799256489160867840,
-        "timestamp":"2024-05-17T00:11:42.34Z"}]
+        "_version_":1801962348503629824,
+        "timestamp":"2024-06-15T21:00:10.899Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lester, Sarah Streeter",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

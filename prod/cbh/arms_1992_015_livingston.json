@@ -47,6 +47,8 @@
         "unittitle_ssm":["Livingston family letters"],
         "unitid_ssm":["1992.015"],
         "abstract_ssm":["This collection contains correspondence between members of the Livingston family in Brooklyn and Nova Scotia, Canada, from 1876 to 1893.  The bulk of the collection consists of letters to Andrew F. Livingston, a sewing machine dealer living in Brooklyn Heights, from his uncle, Alexander Livingston, and cousins Lauchlin and John Livingston, in Nova Scotia.  The correspondence is arranged by author and then in chronological order."],
+        "creator_ssm":["Livingston, Andrew F.",
+          "Livingston, Andrew F."],
         "unitdate_normal_ssm":["1876/1896"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Livingston family"],
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1896"],
         "unitdate_ssm":["Inclusive, 1876-1896"],
         "language_ssm":["English"],
-        "_version_":1775224484484087808,
-        "timestamp":"2023-08-25T17:53:16.708Z"}]
+        "_version_":1800789510606290944,
+        "timestamp":"2024-06-02T22:18:25.519Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Livingston, Andrew F.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

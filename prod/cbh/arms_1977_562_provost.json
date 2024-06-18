@@ -47,6 +47,8 @@
         "unittitle_ssm":["Andrew J. Provost letter"],
         "unitid_ssm":["1977.562"],
         "abstract_ssm":["One four-page manuscript written by Andrew J. Provost detailing the history of two oil paintings of Captain Pieter Praa and his daughter Christine, which Provost potentially donated to the Long Island Historical Society in 1898."],
+        "creator_ssm":["Provost, Andrew J.",
+          "Provost, Andrew J."],
         "unitdate_normal_ssm":["1898/1898"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island Historical Society"],
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1898"],
         "unitdate_ssm":["1898"],
         "language_ssm":["English"],
-        "_version_":1784661312346783744,
-        "timestamp":"2023-12-07T21:47:37.069Z"}]
+        "_version_":1800723134951718912,
+        "timestamp":"2024-06-02T04:43:24.761Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Provost, Andrew J.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

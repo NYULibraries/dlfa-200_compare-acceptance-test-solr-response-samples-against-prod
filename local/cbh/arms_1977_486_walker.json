@@ -47,6 +47,8 @@
         "unittitle_ssm":["L.M. Walker Civil War essay"],
         "unitid_ssm":["1977.486"],
         "abstract_ssm":["One typed copy of an essay written by L.M. Walker describing her experience of travelling with her husband, John H. Walker, an officer in the Union Army, during the Civil War."],
+        "creator_ssm":["Walker, L. M.",
+          "Walker, L. M."],
         "unitdate_normal_ssm":["1880/1880"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Essays"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1880"],
         "unitdate_ssm":["1880"],
         "language_ssm":["English"],
-        "_version_":1799311715354017792,
-        "timestamp":"2024-05-17T14:49:30.142Z"}]
+        "_version_":1801961779787464704,
+        "timestamp":"2024-06-15T20:51:08.529Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Walker, L. M.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[],

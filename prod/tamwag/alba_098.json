@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Abraham Skolnik Scrapbook"],
         "unitid_ssm":["ALBA.098"],
+        "creator_ssm":["Skolnik, Abraham",
+          "Skolnik, Abraham"],
         "unitdate_normal_ssm":["1930/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Skolnik, Abraham",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, circa 1930s-1990s"],
         "language_ssm":["English"],
-        "_version_":1775223188559495168,
-        "timestamp":"2023-08-25T17:32:40.818Z"},
+        "_version_":1801130828424544256,
+        "timestamp":"2024-06-06T16:43:31.556Z"},
       {
         "id":"alba_098aspace_65e0077b9417167a42502030514c76c3",
         "ead_ssi":"alba_098",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Scrapbook"],
-        "_version_":1775223188600389632,
-        "timestamp":"2023-08-25T17:32:40.857Z"}]
+        "_version_":1801130828440272896,
+        "timestamp":"2024-06-06T16:43:31.571Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Skolnik, Abraham",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

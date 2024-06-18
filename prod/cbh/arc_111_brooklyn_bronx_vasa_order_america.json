@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Brooklyn and Bronx lodges of the Vasa Order of America records"],
         "unitid_ssm":["ARC.111"],
         "abstract_ssm":["The records of the Brooklyn and Bronx lodges of the Vasa Order of America consist of documents and ephemera from a number of Brooklyn- and Bronx-based member lodges of the Vasa Order of America, the largest Swedish-American fraternal organization in the United States. The organization was named after the Vasa family of the Swedish royal line that founded the modern state of Sweden in the 16th century and established Lutheranism as the state religion under Gustav Vasa (1496-1560), the first King of Sweden, elected in 1523.  The bulk of the collection is comprised of minutes of lodge meetings, lodge membership records, yearly and twice-yearly financial reports from the individual lodges, and ephemera, covering the period 1906 to 1982, with the bulk of the material spanning the 1920s to the 1970s.  The collection also contains a limited amount of lodge correspondence and records from subsidiary Vasa organizations, and constitutions and bylaws. Earlier materials are in Swedish and then gradually switch to English around the mid-20th century, and provide a glimpse into the process of lodge and member assimilation.  Finally, the collection also includes a small amount of material from other Swedish-American organizations, especially Agne Lodge #101 of the Independent Order of Vikings, which shared a meeting house with the Vasa Order of America at 465 Dean Street in Brooklyn.  These non-Vasa materials have been given their own series within the collection."],
+        "creator_ssm":["Independent Order of Vikings",
+          "Vasa Order of America",
+          "Independent Order of Svithiod",
+          "Independent Order of Vikings",
+          "Vasa Order of America",
+          "Independent Order of Svithiod"],
         "unitdate_normal_ssm":["1906/1982"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Independent Order of Vikings",
@@ -83,8 +89,8 @@
         "unitdate_start_ssm":["1906"],
         "unitdate_end_ssm":["1982"],
         "unitdate_ssm":["Inclusive, 1906-1982"],
-        "_version_":1775215687501873152,
-        "timestamp":"2023-08-25T15:33:27.237Z"},
+        "_version_":1800615240636825600,
+        "timestamp":"2024-06-01T00:08:28.724Z"},
       {
         "id":"arc_111_brooklyn_bronx_vasa_order_americaaspace_ref10_9ad",
         "ead_ssi":"arc_111_brooklyn_bronx_vasa_order_america",
@@ -102,8 +108,8 @@
         "unitdate_start_ssm":["1906"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1906-1975"],
-        "_version_":1775215687682228225,
-        "timestamp":"2023-08-25T15:33:27.424Z"},
+        "_version_":1800615240713371648,
+        "timestamp":"2024-06-01T00:08:28.798Z"},
       {
         "id":"arc_111_brooklyn_bronx_vasa_order_americaaspace_ref11_i0a",
         "ead_ssi":"arc_111_brooklyn_bronx_vasa_order_america",
@@ -121,8 +127,8 @@
         "unitdate_start_ssm":["1907"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1907-1969"],
-        "_version_":1775215687726268416,
-        "timestamp":"2023-08-25T15:33:27.466Z"},
+        "_version_":1800615240729100288,
+        "timestamp":"2024-06-01T00:08:28.813Z"},
       {
         "id":"arc_111_brooklyn_bronx_vasa_order_americaaspace_ref12_pyo",
         "ead_ssi":"arc_111_brooklyn_bronx_vasa_order_america",
@@ -137,8 +143,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 6: Subsidiary organizations and activities"],
         "unitdate_ssm":["circa 1933-1980"],
-        "_version_":1775215687770308609,
-        "timestamp":"2023-08-25T15:33:27.508Z"},
+        "_version_":1800615240745877504,
+        "timestamp":"2024-06-01T00:08:28.829Z"},
       {
         "id":"arc_111_brooklyn_bronx_vasa_order_americaaspace_ref13_sfy",
         "ead_ssi":"arc_111_brooklyn_bronx_vasa_order_america",
@@ -156,8 +162,8 @@
         "unitdate_start_ssm":["1934"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1934-1973"],
-        "_version_":1775215687831126016,
-        "timestamp":"2023-08-25T15:33:27.566Z"},
+        "_version_":1800615240760557568,
+        "timestamp":"2024-06-01T00:08:28.843Z"},
       {
         "id":"arc_111_brooklyn_bronx_vasa_order_americaaspace_ref14_3kw",
         "ead_ssi":"arc_111_brooklyn_bronx_vasa_order_america",
@@ -175,8 +181,8 @@
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["Inclusive, 1908-1951"],
-        "_version_":1775215687880409088,
-        "timestamp":"2023-08-25T15:33:27.613Z"},
+        "_version_":1800615240778383360,
+        "timestamp":"2024-06-01T00:08:28.86Z"},
       {
         "id":"arc_111_brooklyn_bronx_vasa_order_americaaspace_ref15_2w7",
         "ead_ssi":"arc_111_brooklyn_bronx_vasa_order_america",
@@ -191,8 +197,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 9: Artifacts"],
         "unitdate_ssm":["1928"],
-        "_version_":1775215687916060672,
-        "timestamp":"2023-08-25T15:33:27.647Z"},
+        "_version_":1800615240797257728,
+        "timestamp":"2024-06-01T00:08:28.877Z"},
       {
         "id":"arc_111_brooklyn_bronx_vasa_order_americaaspace_ref7_wr1",
         "ead_ssi":"arc_111_brooklyn_bronx_vasa_order_america",
@@ -210,8 +216,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, 1920-1970"],
-        "_version_":1775215687551156224,
-        "timestamp":"2023-08-25T15:33:27.299Z"},
+        "_version_":1800615240655699968,
+        "timestamp":"2024-06-01T00:08:28.743Z"},
       {
         "id":"arc_111_brooklyn_bronx_vasa_order_americaaspace_ref8_3du",
         "ead_ssi":"arc_111_brooklyn_bronx_vasa_order_america",
@@ -229,8 +235,8 @@
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, 1929-1970"],
-        "_version_":1775215687600439296,
-        "timestamp":"2023-08-25T15:33:27.346Z"},
+        "_version_":1800615240673525760,
+        "timestamp":"2024-06-01T00:08:28.759Z"},
       {
         "id":"arc_111_brooklyn_bronx_vasa_order_americaaspace_ref9_h0m",
         "ead_ssi":"arc_111_brooklyn_bronx_vasa_order_america",
@@ -248,8 +254,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1920-1973"],
-        "_version_":1775215687640285184,
-        "timestamp":"2023-08-25T15:33:27.384Z"}]
+        "_version_":1800615240696594432,
+        "timestamp":"2024-06-01T00:08:28.782Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -257,7 +263,10 @@
       "repository_sim":[
         "cbh",10],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Independent Order of Svithiod",1,
+        "Independent Order of Vikings",1,
+        "Vasa Order of America",1],
       "date_range_sim":[
         "1901-2000",8,
         "undated & other",2],

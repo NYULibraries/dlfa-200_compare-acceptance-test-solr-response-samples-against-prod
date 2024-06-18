@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Dorothy Fennell Photographs"],
         "unitid_ssm":["PHOTOS.236"],
         "abstract_ssm":["Dorothy Fennel is a labor historian and founding Director of the Office of Special Projects for Unions at the Cornell School of Industrial and Labor Relations. Special Projects for Unions utilized grant funding to teach labor history to a diverse audience, as well as training union members and retirees how to design their own history projects.  The collection consists of black and white photographs, the majority of which document Union Square's Labor Day celebration in 1998, as well as a performance by New York City's Labor Chorus.  All photographs were taken by Jack Dumars, co-editor of New York Generator, the newletter of the Communications Workers of America, Local 1101."],
+        "creator_ssm":["Fennell, Dorothy",
+          "Dumars, Jack",
+          "Fennell, Dorothy",
+          "Dumars, Jack"],
         "unitdate_normal_ssm":["1990/2006",
           "1998/1998"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -78,8 +82,8 @@
         "unitdate_end_ssm":["2006",
           "1998"],
         "unitdate_ssm":["Inclusive, circa 1998 ; 1998"],
-        "_version_":1799776658213830656,
-        "timestamp":"2024-05-22T17:59:34.206Z"},
+        "_version_":1802166998191308800,
+        "timestamp":"2024-06-18T03:13:00.05Z"},
       {
         "id":"photos_236aspace_ref6",
         "ead_ssi":"photos_236",
@@ -93,14 +97,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment A005, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Tamiment A005, Folder: 1"],
         "heading_ssm":["Labor Day (Union Square)"],
         "unitdate_start_ssm":["1998"],
         "unitdate_end_ssm":["1998"],
         "unitdate_ssm":["Inclusive, Sep 1998"],
-        "_version_":1799776658230607872,
-        "timestamp":"2024-05-22T17:59:34.222Z"},
+        "_version_":1802166998203891712,
+        "timestamp":"2024-06-18T03:13:00.062Z"},
       {
         "id":"photos_236aspace_ref7",
         "ead_ssi":"photos_236",
@@ -114,14 +117,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment A005, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: Shared Tamiment A005, Folder: 2"],
         "heading_ssm":["New York City Labor Chorus (Includes Debra Bernhardt)"],
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799776658248433664,
-        "timestamp":"2024-05-22T17:59:34.239Z"}]
+        "_version_":1802166998212280320,
+        "timestamp":"2024-06-18T03:13:00.07Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -129,7 +131,9 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dumars, Jack",1,
+        "Fennell, Dorothy",1],
       "date_range_sim":[
         "1901-2000",3,
         "2001-2100",2],

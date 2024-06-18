@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lucy J. Chamberlain Diaries"],
         "unitid_ssm":["MC.21"],
         "abstract_ssm":["Lucy Jefferies Chamberlain received a Ph.D. from New York University (NYU) in 1932. In 1928 she became a lecturer in the Department of Sociology and Anthropology at NYU. Chamberlain assumed administrative duties as Chairman of the Department of Sociology and Anthropology from 1948 to 1958. The Lucy Jefferies Chamberlain Diaries document three different periods in her early life. The first two cover the periods March 1915 to July 1916 and August 1916 to February 1918 respectively. The third is an account of her first experience as a lone worker in a rural community, written while she served as executive secretary of the Lafayette County Chapter of the American Red Cross in Darlington, Wisconsin."],
+        "creator_ssm":["Chamberlain , Lucy J., 1893-1969",
+          "Chamberlain , Lucy J., 1893-1969"],
         "unitdate_normal_ssm":["1915/1922"],
         "corpname_ssm":["New York University Archives",
           "American National Red Cross"],
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1915"],
         "unitdate_end_ssm":["1922"],
         "unitdate_ssm":["Inclusive, 1915-1922"],
-        "_version_":1799254742245834752,
-        "timestamp":"2024-05-16T23:43:56.352Z"},
+        "_version_":1801949146250215424,
+        "timestamp":"2024-06-15T17:30:20.249Z"},
       {
         "id":"mc_21aspace_ref19",
         "ead_ssi":"mc_21",
@@ -79,12 +81,11 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Chamberlain Diaries: \"Book IX, Autobiography and Diary\""],
         "unitdate_ssm":["Inclusive, 1915-03-13-1916-07-31"],
-        "_version_":1799254742272049152,
-        "timestamp":"2024-05-16T23:43:56.377Z"},
+        "_version_":1801949146269089792,
+        "timestamp":"2024-06-15T17:30:20.267Z"},
       {
         "id":"mc_21aspace_ref20",
         "ead_ssi":"mc_21",
@@ -98,12 +99,11 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Chamberlain Diaries: \"Book IX, Autobiography and Diary\""],
         "unitdate_ssm":["Inclusive, 1916-08-01-1918-02-05"],
-        "_version_":1799254742293020672,
-        "timestamp":"2024-05-16T23:43:56.397Z"},
+        "_version_":1801949146292158464,
+        "timestamp":"2024-06-15T17:30:20.289Z"},
       {
         "id":"mc_21aspace_ref21",
         "ead_ssi":"mc_21",
@@ -117,12 +117,11 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["\"Diary of a Red Cross Executive Secretary: Her First Experiences as Lone Worker in a Rural Community,\" Lafayette County Chapter, American Red Cross, Darlington, Wisconsin"],
         "unitdate_ssm":["Inclusive, 1922-05-01-1922-09-02"],
-        "_version_":1799254742311895040,
-        "timestamp":"2024-05-16T23:43:56.415Z"}]
+        "_version_":1801949146309984256,
+        "timestamp":"2024-06-15T17:30:20.306Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -130,7 +129,8 @@
       "repository_sim":[
         "archives",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chamberlain , Lucy J., 1893-1969",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",3],

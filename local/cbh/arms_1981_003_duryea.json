@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["James V. Duryea land deeds"],
         "unitid_ssm":["1981.003"],
         "abstract_ssm":["Two deeds for land in Oyster Bay, Queens County, N.Y.  The first deed, dated 1837, is from Richard H. and Edward Pearsall to James V. Duryea, and the second deed, dated 1877, is from Duryea and his wife, Jane, to Phebe Amelia Van Cott."],
+        "creator_ssm":["Duryea, James V.",
+          "Duryea, James V."],
         "unitdate_normal_ssm":["1837/1877"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Queens County (N.Y.)",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1877"],
         "unitdate_ssm":["Inclusive, 1837, 1877"],
         "language_ssm":["English"],
-        "_version_":1799256217770524672,
-        "timestamp":"2024-05-17T00:07:23.522Z"}]
+        "_version_":1801962862978007040,
+        "timestamp":"2024-06-15T21:08:21.54Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Duryea, James V.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

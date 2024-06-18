@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Anders Overgaard Autobiographical Typescript"],
         "unitid_ssm":["TAM.130"],
         "abstract_ssm":["Anders (Andy) Overgaard (1895-1973) was born in Denmark, and emigrated to the United States around 1915. This collection consists of a draft autobiographical typescript describing the family background, travels and political activities of this Communist Party functionary and labor activist, and concludes with the author's deportation from the U.S. in 1950. In the early 1920s he was active in the left wing of the International Assonciation of Machinists and the Chicago Federation of Labor, along with Communist Party leader William Z. Foster."],
+        "creator_ssm":["Overgaard, Anders, 1895-1973",
+          "Overgaard, Anders, 1895-1973"],
         "unitdate_normal_ssm":["1950/1973"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Trade Union Educational League (U.S.)",
@@ -71,8 +73,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, circa 1950s-1973"],
-        "_version_":1799335389260939264,
-        "timestamp":"2024-05-17T21:05:47.339Z"},
+        "_version_":1802167750220578816,
+        "timestamp":"2024-06-18T03:24:57.241Z"},
       {
         "id":"tam_130aspace_350f3b6fbaaf126cdff27333cd4a76cd",
         "ead_ssi":"tam_130",
@@ -87,8 +89,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Typescript"],
-        "_version_":1799335389274570752,
-        "timestamp":"2024-05-17T21:05:47.352Z"}]
+        "_version_":1802167750231064576,
+        "timestamp":"2024-06-18T03:24:57.251Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +98,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Overgaard, Anders, 1895-1973",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

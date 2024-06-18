@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["New York University Archives Collection of University-Related Materials"],
         "unitid_ssm":["MC.332"],
         "abstract_ssm":["New York Universiy Archives serves as the final repository for the historical records of NYU. This collection consists of correspondence and ephemera collected by the New York University Archives. The collection contains an 1838 letter relating to financing for the construction of New York University's University Building, and the efforts of then-Attorney General Benjamin Franklin Butler to secure debt relief for the University in that matter. The collection also includes a framed promotional card for NYU Athletics (specifically, track and field) alongside an associated tobacco leather from Harvard, as well as a certificate issued by the New York Fire Department documenting their inspection of the University Heights' Sanitary Engineering Research Lab."],
+        "creator_ssm":["New York University Archives",
+          "Butler, Benjamin F., 1795-1858",
+          "New York University Archives",
+          "Butler, Benjamin F., 1795-1858"],
         "unitdate_normal_ssm":["1838/1965"],
         "corpname_ssm":["New York University Archives",
           "New York University Archives",
@@ -67,8 +71,8 @@
         "unitdate_start_ssm":["1838"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1838-1965"],
-        "_version_":1799248593798823936,
-        "timestamp":"2024-05-16T22:06:12.736Z"},
+        "_version_":1801950033547886592,
+        "timestamp":"2024-06-15T17:44:26.442Z"},
       {
         "id":"mc_332aspace_72a5d49d2968abbbc6c80b6ba084acce",
         "ead_ssi":"mc_332",
@@ -82,14 +86,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 059, Folder: 6",
-          "Folder: 6"],
+        "location_ssm":["Box: Shared University Archives 059, Folder: 6"],
         "heading_ssm":["NYU Athletics Promotional Card and Harvard Tobacco Leather"],
         "unitdate_start_ssm":["1907"],
         "unitdate_end_ssm":["1916"],
         "unitdate_ssm":["Inclusive, circa 1911"],
-        "_version_":1799248593862787072,
-        "timestamp":"2024-05-16T22:06:12.797Z"},
+        "_version_":1801950033618141184,
+        "timestamp":"2024-06-15T17:44:26.509Z"},
       {
         "id":"mc_332aspace_a2a3df9bb54f5b297dcb0dd0464d5773",
         "ead_ssi":"mc_332",
@@ -103,14 +106,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 059, Folder: 5",
-          "Folder: 5"],
+        "location_ssm":["Box: Shared University Archives 059, Folder: 5"],
         "heading_ssm":["New York Fire Department Inspection Certificate for Sanitary Engineering Research Lab (University Heights)"],
         "unitdate_start_ssm":["1965"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["1965"],
-        "_version_":1799248593842864128,
-        "timestamp":"2024-05-16T22:06:12.778Z"},
+        "_version_":1801950033590878208,
+        "timestamp":"2024-06-15T17:44:26.483Z"},
       {
         "id":"mc_332aspace_c39be509ee2a9026f043aa336836ee18",
         "ead_ssi":"mc_332",
@@ -124,14 +126,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 055, Folder: 6",
-          "Folder: 6"],
+        "location_ssm":["Box: Shared University Archives 055, Folder: 6"],
         "heading_ssm":["Benjamin Franklin Butler Letter"],
         "unitdate_start_ssm":["1838"],
         "unitdate_end_ssm":["1838"],
         "unitdate_ssm":["1838"],
-        "_version_":1799248593821892608,
-        "timestamp":"2024-05-16T22:06:12.758Z"}]
+        "_version_":1801950033569906688,
+        "timestamp":"2024-06-15T17:44:26.463Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -139,7 +140,9 @@
       "repository_sim":[
         "archives",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Butler, Benjamin F., 1795-1858",1,
+        "New York University Archives",1],
       "date_range_sim":[
         "1801-1900",2,
         "1901-2000",3],

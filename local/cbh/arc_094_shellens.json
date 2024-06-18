@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Michael Shellens family collection"],
         "unitid_ssm":["ARC.094"],
         "abstract_ssm":["The Michael Shellens family collection contains personal and business correspondence, business and financial records, books, photographs, and ephemera related to Michael Shellens (1854-1944) and his family. The materials date from 1865 to 1984 and are principally about Shellens's life and career as a mariner who advanced in rank to captain, afterward becoming a successful real estate businessman in Brooklyn."],
+        "creator_ssm":["Shellens, Michael",
+          "Shellens, Ruth M.",
+          "Shellens, Michael",
+          "Shellens, Ruth M."],
         "unitdate_normal_ssm":["1865/1984",
           "1880/1927"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -134,8 +138,8 @@
         "unitdate_end_ssm":["1984",
           "1927"],
         "unitdate_ssm":["Inclusive, 1865-1984 ; 1880-1927"],
-        "_version_":1799312233078980608,
-        "timestamp":"2024-05-17T14:57:43.883Z"},
+        "_version_":1801958970749878272,
+        "timestamp":"2024-06-15T20:06:29.622Z"},
       {
         "id":"arc_094_shellensaspace_ref13_8tb",
         "ead_ssi":"arc_094_shellens",
@@ -156,8 +160,8 @@
         "unitdate_end_ssm":["1984",
           "1927"],
         "unitdate_ssm":["Inclusive, 1873-1984 ; 1880-1927"],
-        "_version_":1799312233096806400,
-        "timestamp":"2024-05-17T14:57:43.9Z"},
+        "_version_":1801958970781335552,
+        "timestamp":"2024-06-15T20:06:29.652Z"},
       {
         "id":"arc_094_shellensaspace_ref14_xwv",
         "ead_ssi":"arc_094_shellens",
@@ -173,8 +177,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 2: Photographs"],
         "unitdate_ssm":["circa 1865-1970"],
-        "_version_":1799312233110437888,
-        "timestamp":"2024-05-17T14:57:43.912Z"}]
+        "_version_":1801958970800209920,
+        "timestamp":"2024-06-15T20:06:29.67Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -182,7 +186,9 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Shellens, Michael",1,
+        "Shellens, Ruth M.",1],
       "date_range_sim":[
         "1801-1900",2,
         "1901-2000",2,

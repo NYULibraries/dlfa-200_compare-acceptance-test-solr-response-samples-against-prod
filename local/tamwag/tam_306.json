@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Leo Isacson Papers"],
         "unitid_ssm":["TAM.306"],
         "abstract_ssm":["Leo Isacson (1910-1996) was an attorney and politician from Bronx, NY. In a 1948 special election he was elected to the seat for New York's 24th District of the United States House of Representatives as the American Labor Party candidate. The victory shocked the political establishment and commentators. In that November's general election, the mainstream political parties worked in a coalition to unseat him.\n\nThe collection chronicles Isacson's life, with particular emphasis the 1948 campaign and his subsequent service in Congress. Included are clippings, photographs, campaign materials, correspondence, and writings. There are four boxes of scrapbooks, comprised primarily of clippings, that document the campaign, Isacson's brief career in the House, and the analysis of Isacson's unexpected victory."],
+        "creator_ssm":["Isacson, Leo, 1910-1996",
+          "Isacson, Leo, 1910-1996"],
         "unitdate_normal_ssm":["1920/1996",
           "1945/1949"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1996",
           "1949"],
         "unitdate_ssm":["Inclusive, 1920-1996 ; 1945-1949"],
-        "_version_":1799782607959883776,
-        "timestamp":"2024-05-22T19:34:08.326Z"},
+        "_version_":1802171525444403200,
+        "timestamp":"2024-06-18T04:24:57.574Z"},
       {
         "id":"tam_306aspace_3d0b8f06962f89aa0c8bb8a62a4a9065",
         "ead_ssi":"tam_306",
@@ -85,11 +87,10 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment 142, Folder: 9",
-          "Folder: 9"],
+        "location_ssm":["Box: Shared Tamiment 142, Folder: 9"],
         "heading_ssm":["Oversize Materials"],
-        "_version_":1799782608381411328,
-        "timestamp":"2024-05-22T19:34:08.728Z"},
+        "_version_":1802171525662507008,
+        "timestamp":"2024-06-18T04:24:57.783Z"},
       {
         "id":"tam_306aspace_ref10",
         "ead_ssi":"tam_306",
@@ -107,8 +108,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Landscapes"],
-        "_version_":1799782608153870336,
-        "timestamp":"2024-05-22T19:34:08.511Z"},
+        "_version_":1802171525528289280,
+        "timestamp":"2024-06-18T04:24:57.654Z"},
       {
         "id":"tam_306aspace_ref11",
         "ead_ssi":"tam_306",
@@ -126,8 +127,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Miscellaneous (includes photos of campaigning)"],
-        "_version_":1799782608168550400,
-        "timestamp":"2024-05-22T19:34:08.525Z"},
+        "_version_":1802171525535629312,
+        "timestamp":"2024-06-18T04:24:57.662Z"},
       {
         "id":"tam_306aspace_ref12",
         "ead_ssi":"tam_306",
@@ -145,8 +146,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Portraits of Leo Isacson"],
-        "_version_":1799782608181133312,
-        "timestamp":"2024-05-22T19:34:08.537Z"},
+        "_version_":1802171525546115072,
+        "timestamp":"2024-06-18T04:24:57.672Z"},
       {
         "id":"tam_306aspace_ref13",
         "ead_ssi":"tam_306",
@@ -164,8 +165,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Strikes"],
-        "_version_":1799782608195813376,
-        "timestamp":"2024-05-22T19:34:08.551Z"},
+        "_version_":1802171525558697984,
+        "timestamp":"2024-06-18T04:24:57.684Z"},
       {
         "id":"tam_306aspace_ref14",
         "ead_ssi":"tam_306",
@@ -183,8 +184,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Events, unspecified"],
-        "_version_":1799782608114024448,
-        "timestamp":"2024-05-22T19:34:08.473Z"},
+        "_version_":1802171525499977728,
+        "timestamp":"2024-06-18T04:24:57.628Z"},
       {
         "id":"tam_306aspace_ref15",
         "ead_ssi":"tam_306",
@@ -202,8 +203,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Color Photo Album from Florida"],
-        "_version_":1799782608212590592,
-        "timestamp":"2024-05-22T19:34:08.567Z"},
+        "_version_":1802171525569183744,
+        "timestamp":"2024-06-18T04:24:57.694Z"},
       {
         "id":"tam_306aspace_ref16",
         "ead_ssi":"tam_306",
@@ -225,8 +226,8 @@
         "unitdate_start_ssm":["1935"],
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, 1935-1945"],
-        "_version_":1799782608227270656,
-        "timestamp":"2024-05-22T19:34:08.581Z"},
+        "_version_":1802171525578620928,
+        "timestamp":"2024-06-18T04:24:57.703Z"},
       {
         "id":"tam_306aspace_ref17",
         "ead_ssi":"tam_306",
@@ -248,8 +249,8 @@
         "unitdate_start_ssm":["1935"],
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, 1935-1945"],
-        "_version_":1799782608242999296,
-        "timestamp":"2024-05-22T19:34:08.596Z"},
+        "_version_":1802171525588058112,
+        "timestamp":"2024-06-18T04:24:57.712Z"},
       {
         "id":"tam_306aspace_ref18",
         "ead_ssi":"tam_306",
@@ -271,8 +272,8 @@
         "unitdate_start_ssm":["1935"],
         "unitdate_end_ssm":["1945"],
         "unitdate_ssm":["Inclusive, 1935-1945"],
-        "_version_":1799782608258727936,
-        "timestamp":"2024-05-22T19:34:08.611Z"},
+        "_version_":1802171525597495296,
+        "timestamp":"2024-06-18T04:24:57.721Z"},
       {
         "id":"tam_306aspace_ref19",
         "ead_ssi":"tam_306",
@@ -290,8 +291,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Miscellaneous, other than photos"],
-        "_version_":1799782608273408000,
-        "timestamp":"2024-05-22T19:34:08.625Z"},
+        "_version_":1802171525605883904,
+        "timestamp":"2024-06-18T04:24:57.729Z"},
       {
         "id":"tam_306aspace_ref20",
         "ead_ssi":"tam_306",
@@ -309,8 +310,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Postcards"],
-        "_version_":1799782608285990912,
-        "timestamp":"2024-05-22T19:34:08.637Z"},
+        "_version_":1802171525614272512,
+        "timestamp":"2024-06-18T04:24:57.737Z"},
       {
         "id":"tam_306aspace_ref21",
         "ead_ssi":"tam_306",
@@ -324,8 +325,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Papers"],
-        "_version_":1799782607972466688,
-        "timestamp":"2024-05-22T19:34:08.338Z"},
+        "_version_":1802171525451743232,
+        "timestamp":"2024-06-18T04:24:57.582Z"},
       {
         "id":"tam_306aspace_ref25",
         "ead_ssi":"tam_306",
@@ -347,8 +348,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1968"],
-        "_version_":1799782608302768128,
-        "timestamp":"2024-05-22T19:34:08.652Z"},
+        "_version_":1802171525624758272,
+        "timestamp":"2024-06-18T04:24:57.747Z"},
       {
         "id":"tam_306aspace_ref26",
         "ead_ssi":"tam_306",
@@ -366,8 +367,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 6"],
         "heading_ssm":["Canada Lee [phonograph record]"],
-        "_version_":1799782608319545344,
-        "timestamp":"2024-05-22T19:34:08.668Z"},
+        "_version_":1802171525634195456,
+        "timestamp":"2024-06-18T04:24:57.756Z"},
       {
         "id":"tam_306aspace_ref27",
         "ead_ssi":"tam_306",
@@ -385,8 +386,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 6"],
         "heading_ssm":["William S. Gailmor - English Record - Isaacson Campaitn [sic.] [phonograph record]"],
-        "_version_":1799782608361488384,
-        "timestamp":"2024-05-22T19:34:08.709Z"},
+        "_version_":1802171525654118400,
+        "timestamp":"2024-06-18T04:24:57.775Z"},
       {
         "id":"tam_306aspace_ref28",
         "ead_ssi":"tam_306",
@@ -404,8 +405,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 6"],
         "heading_ssm":["Johannes Steel - recording for Isaacson campaign [sic.] [phonograph record]"],
-        "_version_":1799782608339468288,
-        "timestamp":"2024-05-22T19:34:08.688Z"},
+        "_version_":1802171525643632640,
+        "timestamp":"2024-06-18T04:24:57.765Z"},
       {
         "id":"tam_306aspace_ref30",
         "ead_ssi":"tam_306",
@@ -426,8 +427,8 @@
           "Box: 4",
           "Box: 5"],
         "heading_ssm":["Political Scrapbooks"],
-        "_version_":1799782608042721280,
-        "timestamp":"2024-05-22T19:34:08.405Z"},
+        "_version_":1802171525460131840,
+        "timestamp":"2024-06-18T04:24:57.59Z"},
       {
         "id":"tam_306aspace_ref33",
         "ead_ssi":"tam_306",
@@ -449,8 +450,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1968"],
-        "_version_":1799782608084664320,
-        "timestamp":"2024-05-22T19:34:08.445Z"},
+        "_version_":1802171525482151936,
+        "timestamp":"2024-06-18T04:24:57.611Z"},
       {
         "id":"tam_306aspace_ref5",
         "ead_ssi":"tam_306",
@@ -464,8 +465,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Photographs and Nonprint Materials"],
-        "_version_":1799782608064741376,
-        "timestamp":"2024-05-22T19:34:08.426Z"},
+        "_version_":1802171525467471872,
+        "timestamp":"2024-06-18T04:24:57.597Z"},
       {
         "id":"tam_306aspace_ref7",
         "ead_ssi":"tam_306",
@@ -483,8 +484,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Demonstrations"],
-        "_version_":1799782608099344384,
-        "timestamp":"2024-05-22T19:34:08.459Z"},
+        "_version_":1802171525490540544,
+        "timestamp":"2024-06-18T04:24:57.619Z"},
       {
         "id":"tam_306aspace_ref8",
         "ead_ssi":"tam_306",
@@ -502,8 +503,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Friends / Family"],
-        "_version_":1799782608127655936,
-        "timestamp":"2024-05-22T19:34:08.486Z"},
+        "_version_":1802171525510463488,
+        "timestamp":"2024-06-18T04:24:57.638Z"},
       {
         "id":"tam_306aspace_ref9",
         "ead_ssi":"tam_306",
@@ -521,8 +522,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Isacson speaking"],
-        "_version_":1799782608139190272,
-        "timestamp":"2024-05-22T19:34:08.497Z"}]
+        "_version_":1802171525518852096,
+        "timestamp":"2024-06-18T04:24:57.646Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -530,7 +531,8 @@
       "repository_sim":[
         "tamwag",24],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Isacson, Leo, 1910-1996",1],
       "date_range_sim":[
         "1901-2000",6,
         "undated & other",18],

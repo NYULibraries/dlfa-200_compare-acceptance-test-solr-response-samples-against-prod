@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":29,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Benjamin F. Hart papers"],
         "unitid_ssm":["1977.086"],
         "abstract_ssm":["The Benjamin F. Hart papers span the period 1836 to 1843 and  consist of two documents: a certificate that certifies Benjamin F. Hart is a Master Mason of the St. Andrew's Lodge #7 of the Freemasons, dated 1838; and Hart's last will and testament, dated 1843."],
+        "creator_ssm":["Hart, Benjamin F.",
+          "Hart, Benjamin F."],
         "unitdate_normal_ssm":["1836/1843"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Freemasons. Grand Lodge of the State of New York"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1843"],
         "unitdate_ssm":["Inclusive, 1836-1843"],
         "language_ssm":["English"],
-        "_version_":1799256190569414656,
-        "timestamp":"2024-05-17T00:06:57.581Z"}]
+        "_version_":1801960674735161344,
+        "timestamp":"2024-06-15T20:33:34.669Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hart, Benjamin F.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

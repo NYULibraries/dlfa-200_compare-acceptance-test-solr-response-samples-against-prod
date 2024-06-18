@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -74,8 +74,8 @@
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive,  ; Circa 1910-1920"],
         "language_ssm":["English"],
-        "_version_":1799246637694976000,
-        "timestamp":"2024-05-16T21:35:07.25Z"},
+        "_version_":1801945334340911104,
+        "timestamp":"2024-06-15T16:29:44.929Z"},
       {
         "id":"ad_mc_030_ref173aspace_0195cbdaf201349ed59610b0c95b1afb",
         "ead_ssi":"ad_mc_030_ref173",
@@ -120,8 +120,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246637967605760,
-        "timestamp":"2024-05-16T21:35:07.51Z"},
+        "_version_":1801945334566354944,
+        "timestamp":"2024-06-15T16:29:45.144Z"},
       {
         "id":"ad_mc_030_ref173aspace_057a211fbb8815d9936599582b4e1bcb",
         "ead_ssi":"ad_mc_030_ref173",
@@ -149,8 +149,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246638236041216,
-        "timestamp":"2024-05-16T21:35:07.766Z"},
+        "_version_":1801945334876733440,
+        "timestamp":"2024-06-15T16:29:45.44Z"},
       {
         "id":"ad_mc_030_ref173aspace_217846c8cd407408d4a534f639ea4c61",
         "ead_ssi":"ad_mc_030_ref173",
@@ -209,8 +209,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246637861699584,
-        "timestamp":"2024-05-16T21:35:07.409Z"},
+        "_version_":1801945334436331520,
+        "timestamp":"2024-06-15T16:29:45.02Z"},
       {
         "id":"ad_mc_030_ref173aspace_350930e58fa25d46ea345b1f1f630f11",
         "ead_ssi":"ad_mc_030_ref173",
@@ -238,8 +238,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246638208778240,
-        "timestamp":"2024-05-16T21:35:07.74Z"},
+        "_version_":1801945334854713344,
+        "timestamp":"2024-06-15T16:29:45.419Z"},
       {
         "id":"ad_mc_030_ref173aspace_4fdb777f4802550bd71e310122186a67",
         "ead_ssi":"ad_mc_030_ref173",
@@ -276,8 +276,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246637988577280,
-        "timestamp":"2024-05-16T21:35:07.53Z"},
+        "_version_":1801945334599909376,
+        "timestamp":"2024-06-15T16:29:45.176Z"},
       {
         "id":"ad_mc_030_ref173aspace_67a4ff769d3a3d2018c44d04bf489642",
         "ead_ssi":"ad_mc_030_ref173",
@@ -321,8 +321,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1913-1920"],
-        "_version_":1799246637916225536,
-        "timestamp":"2024-05-16T21:35:07.461Z"},
+        "_version_":1801945334498197504,
+        "timestamp":"2024-06-15T16:29:45.079Z"},
       {
         "id":"ad_mc_030_ref173aspace_6dc1390e446fae256d371e07210f6f08",
         "ead_ssi":"ad_mc_030_ref173",
@@ -350,8 +350,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246637735870464,
-        "timestamp":"2024-05-16T21:35:07.288Z"},
+        "_version_":1801945334377611264,
+        "timestamp":"2024-06-15T16:29:44.964Z"},
       {
         "id":"ad_mc_030_ref173aspace_8327fe1821e048f5a0f9f6d088bbee75",
         "ead_ssi":"ad_mc_030_ref173",
@@ -412,8 +412,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246638157398016,
-        "timestamp":"2024-05-16T21:35:07.691Z"},
+        "_version_":1801945334799138816,
+        "timestamp":"2024-06-15T16:29:45.365Z"},
       {
         "id":"ad_mc_030_ref173aspace_83ad56887ded412780c40f7caeae3b2d",
         "ead_ssi":"ad_mc_030_ref173",
@@ -441,8 +441,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246638300004352,
-        "timestamp":"2024-05-16T21:35:07.827Z"},
+        "_version_":1801945334948036608,
+        "timestamp":"2024-06-15T16:29:45.508Z"},
       {
         "id":"ad_mc_030_ref173aspace_9e483c4470da9bf48fb5cf77c124f4c4",
         "ead_ssi":"ad_mc_030_ref173",
@@ -487,8 +487,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246637884768256,
-        "timestamp":"2024-05-16T21:35:07.43Z"},
+        "_version_":1801945334467788800,
+        "timestamp":"2024-06-15T16:29:45.05Z"},
       {
         "id":"ad_mc_030_ref173aspace_a891e3a057537a340bd7b077edb60658",
         "ead_ssi":"ad_mc_030_ref173",
@@ -516,8 +516,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246637794590720,
-        "timestamp":"2024-05-16T21:35:07.345Z"},
+        "_version_":1801945334402777088,
+        "timestamp":"2024-06-15T16:29:44.988Z"},
       {
         "id":"ad_mc_030_ref173aspace_bd14f47a966a650343945002b5c4090b",
         "ead_ssi":"ad_mc_030_ref173",
@@ -574,8 +574,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246638044151808,
-        "timestamp":"2024-05-16T21:35:07.583Z"},
+        "_version_":1801945334678552576,
+        "timestamp":"2024-06-15T16:29:45.25Z"},
       {
         "id":"ad_mc_030_ref173aspace_c22ffe0af32956328e5482d9945192f7",
         "ead_ssi":"ad_mc_030_ref173",
@@ -629,8 +629,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246638073511936,
-        "timestamp":"2024-05-16T21:35:07.61Z"},
+        "_version_":1801945334714204160,
+        "timestamp":"2024-06-15T16:29:45.285Z"},
       {
         "id":"ad_mc_030_ref173aspace_c28561c9bee62236874a7e4fa142be46",
         "ead_ssi":"ad_mc_030_ref173",
@@ -658,8 +658,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246638279032832,
-        "timestamp":"2024-05-16T21:35:07.807Z"},
+        "_version_":1801945334920773632,
+        "timestamp":"2024-06-15T16:29:45.482Z"},
       {
         "id":"ad_mc_030_ref173aspace_c8ec5fcc95b557c8f8d45fa4fbd82c93",
         "ead_ssi":"ad_mc_030_ref173",
@@ -699,8 +699,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246637941391360,
-        "timestamp":"2024-05-16T21:35:07.485Z"},
+        "_version_":1801945334531751936,
+        "timestamp":"2024-06-15T16:29:45.111Z"},
       {
         "id":"ad_mc_030_ref173aspace_d3e4c0e3d45843960bdcde65e9e235a1",
         "ead_ssi":"ad_mc_030_ref173",
@@ -738,8 +738,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246638094483456,
-        "timestamp":"2024-05-16T21:35:07.631Z"},
+        "_version_":1801945334739369984,
+        "timestamp":"2024-06-15T16:29:45.309Z"},
       {
         "id":"ad_mc_030_ref173aspace_e75f84279fe5326c6bd4268ea0562234",
         "ead_ssi":"ad_mc_030_ref173",
@@ -767,8 +767,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246638259109888,
-        "timestamp":"2024-05-16T21:35:07.788Z"},
+        "_version_":1801945334896656384,
+        "timestamp":"2024-06-15T16:29:45.459Z"},
       {
         "id":"ad_mc_030_ref173aspace_ea7d829aa11eecd85dd1b062bd0cdfff",
         "ead_ssi":"ad_mc_030_ref173",
@@ -818,8 +818,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246638125940736,
-        "timestamp":"2024-05-16T21:35:07.66Z"},
+        "_version_":1801945334766632960,
+        "timestamp":"2024-06-15T16:29:45.335Z"},
       {
         "id":"ad_mc_030_ref173aspace_ec917a36fd25a2d322a6aa8e2bb258d4",
         "ead_ssi":"ad_mc_030_ref173",
@@ -863,8 +863,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246638010597376,
-        "timestamp":"2024-05-16T21:35:07.551Z"},
+        "_version_":1801945334633463808,
+        "timestamp":"2024-06-15T16:29:45.208Z"},
       {
         "id":"ad_mc_030_ref173aspace_ffe4e51eaf2f41237eb4c8b1051d7556",
         "ead_ssi":"ad_mc_030_ref173",
@@ -918,8 +918,8 @@
         "unitdate_start_ssm":["1910"],
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["Inclusive, Circa 1910-1920"],
-        "_version_":1799246638187806720,
-        "timestamp":"2024-05-16T21:35:07.72Z"}]
+        "_version_":1801945334833741824,
+        "timestamp":"2024-06-15T16:29:45.399Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

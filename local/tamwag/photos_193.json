@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["Bette Lee Republican National Convention Photographs"],
         "unitid_ssm":["PHOTOS.193"],
         "abstract_ssm":["The Bette Lee Republican National Convention Photographs document protests against the 2004 Republican National Convention in New York City."],
+        "creator_ssm":["Lee, Bette",
+          "Lee, Bette"],
         "unitdate_normal_ssm":["2004/2004"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Lee, Bette",
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["2004"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, Aug 27, 2004-Sep 2, 2004"],
-        "_version_":1799764599807934464,
-        "timestamp":"2024-05-22T14:47:54.414Z"},
+        "_version_":1802141969416192000,
+        "timestamp":"2024-06-17T20:35:10.749Z"},
       {
         "id":"photos_193aspace_ref11",
         "ead_ssi":"photos_193",
@@ -84,8 +86,8 @@
         "unitdate_start_ssm":["2004"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, Aug 27, 2004-Sep 2, 2004"],
-        "_version_":1799764599826808832,
-        "timestamp":"2024-05-22T14:47:54.432Z"}]
+        "_version_":1802141969426677760,
+        "timestamp":"2024-06-17T20:35:10.76Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +95,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lee, Bette",1],
       "date_range_sim":[
         "2001-2100",2],
       "subject_sim":[

@@ -47,6 +47,12 @@
         "unittitle_ssm":["Church Charity Foundation of Long Island publications"],
         "unitid_ssm":["1985.113"],
         "abstract_ssm":["The Church Charity Foundation of Long Island was founded in 1851 and was a charitable organization collectively supported by Episcopal churches in Brooklyn.  Its first building opened in 1860, and in the ensuing decades the Foundation grew into a sprawling complex of shelters and medical facilities.  The Church Charity Foundation of Long Island publications span the period 1884 to 1951 and are mostly comprised of the Foundation's annual reports for the period 1884 to 1944.  Additional materials include newsletters and promotional publications."],
+        "creator_ssm":["St. John's Hospital (Brooklyn, New York, N.Y.). School of Nursing",
+          "St. John's Hospital (Brooklyn, New York, N.Y.)",
+          "Church Charity Foundation (Brooklyn, New York, N.Y.)",
+          "St. John's Hospital (Brooklyn, New York, N.Y.). School of Nursing",
+          "St. John's Hospital (Brooklyn, New York, N.Y.)",
+          "Church Charity Foundation (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1884/1951"],
         "corpname_ssm":["Brooklyn Historical Society",
           "St. John's Hospital (Brooklyn, New York, N.Y.). School of Nursing",
@@ -97,8 +103,8 @@
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["Inclusive, 1884-1951"],
         "language_ssm":["English"],
-        "_version_":1799311676846112768,
-        "timestamp":"2024-05-17T14:48:53.418Z"}]
+        "_version_":1801963148118327296,
+        "timestamp":"2024-06-15T21:12:53.471Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -106,7 +112,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Church Charity Foundation (Brooklyn, New York, N.Y.)",1,
+        "St. John's Hospital (Brooklyn, New York, N.Y.)",1,
+        "St. John's Hospital (Brooklyn, New York, N.Y.). School of Nursing",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Clark S. Marlor Brooklyn ephemera collection"],
         "unitid_ssm":["2001.006"],
         "abstract_ssm":["This collection consists of various ephemera relating to Brooklyn, donated to the Brooklyn Historical Society by Clark S. Marlor.  Items include programs, a calendar, greeting and note cards, and pages from issues of Harper's Weekly from the 1860s containing images and information of significance to Brooklyn history.  Also included are records of expenses for the funeral of Z.H. Zerbe."],
+        "creator_ssm":["Marlor, Clark S.",
+          "Marlor, Clark S."],
         "unitdate_normal_ssm":["1850/2011"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Printed ephemera"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["Inclusive, circa 1860 to 2001"],
         "language_ssm":["English"],
-        "_version_":1799312247461249024,
-        "timestamp":"2024-05-17T14:57:57.599Z"}]
+        "_version_":1801963846851624960,
+        "timestamp":"2024-06-15T21:23:59.835Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Marlor, Clark S.",1],
       "date_range_sim":[
         "1801-1900",1,
         "2001-2100",1],

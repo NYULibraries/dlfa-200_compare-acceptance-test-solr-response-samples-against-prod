@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Consolidated Edison Employees Mutual Aid Society Records"],
         "unitid_ssm":["WAG.134"],
         "abstract_ssm":["The Consolidated Edison Employees Mutual Aid Society was founded to provide insurance benefits, medical services, and recreational activities for gas and electrical workers in New York. The earliest of its predecessor organizations, the Gas Companies' Employees Mutual Aid Society of New York, was organized Feb 17, 1891. There were approximately two hundred members at the time of this voluntary organization's creation, and the initial goal was to promote socialization among workers and provide a burial fund. By the 1920s, the society ran a dispensary for medical care, provided dental care, and had expanded life insurance benefits. These services were supported by dues and social activities such as athletic events and dances. The Association of Employees of the New York Edison Company was founded in 1905, and the Employees of the United Electric Light and Power Company began in 1908. Each provided similar services to that of the gas companies' society. When the parent utility companies merged as ConEd from 1936-1937, the mutual aid societies followed suit.\n\nThe collection includes meeting minutes, reports, manuals, correspondence, filings with the State of New York, healthcare statistics, and an institutional history prepared for society's fiftieth anniversary. There are also albums containing brief biographical information and photographs of individuals who served on the Board of Managers and of gas company employees who served during the First World War. The records give insight into the the workings of another outlet for worker solidarity and cooperation that operated alongside the utility workers union."],
+        "creator_ssm":["Consolidated Edison Employees Mutual Aid Society",
+          "Consolidated Edison Employees Mutual Aid Society"],
         "unitdate_normal_ssm":["1893/1991",
           "1930/1991"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -70,8 +72,8 @@
           "1930"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1893-1991 ; 1930-1991"],
-        "_version_":1799802162218270720,
-        "timestamp":"2024-05-23T00:44:56.719Z"},
+        "_version_":1802195032877301760,
+        "timestamp":"2024-06-18T10:38:36.01Z"},
       {
         "id":"wag_134aspace_ref17",
         "ead_ssi":"wag_134",
@@ -90,8 +92,8 @@
         "unitdate_start_ssm":["1917"],
         "unitdate_end_ssm":["1936"],
         "unitdate_ssm":["Inclusive, 1917-1936"],
-        "_version_":1799802162302156800,
-        "timestamp":"2024-05-23T00:44:56.8Z"},
+        "_version_":1802195032926584832,
+        "timestamp":"2024-06-18T10:38:36.057Z"},
       {
         "id":"wag_134aspace_ref18",
         "ead_ssi":"wag_134",
@@ -110,8 +112,8 @@
         "unitdate_start_ssm":["1902"],
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, 1902-1929"],
-        "_version_":1799802162257068032,
-        "timestamp":"2024-05-23T00:44:56.757Z"},
+        "_version_":1802195032897224704,
+        "timestamp":"2024-06-18T10:38:36.029Z"},
       {
         "id":"wag_134aspace_ref19",
         "ead_ssi":"wag_134",
@@ -130,8 +132,8 @@
         "unitdate_start_ssm":["1934"],
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Inclusive, 1934-1937"],
-        "_version_":1799802162412257280,
-        "timestamp":"2024-05-23T00:44:56.905Z"},
+        "_version_":1802195032986353664,
+        "timestamp":"2024-06-18T10:38:36.114Z"},
       {
         "id":"wag_134aspace_ref20",
         "ead_ssi":"wag_134",
@@ -150,8 +152,8 @@
         "unitdate_start_ssm":["1914"],
         "unitdate_end_ssm":["1933"],
         "unitdate_ssm":["Inclusive, 1914-1933"],
-        "_version_":1799802162284331008,
-        "timestamp":"2024-05-23T00:44:56.783Z"},
+        "_version_":1802195032915050496,
+        "timestamp":"2024-06-18T10:38:36.046Z"},
       {
         "id":"wag_134aspace_ref21",
         "ead_ssi":"wag_134",
@@ -171,8 +173,8 @@
         "unitdate_start_ssm":["1933"],
         "unitdate_end_ssm":["1944"],
         "unitdate_ssm":["Inclusive, 1933-1944"],
-        "_version_":1799802162395480064,
-        "timestamp":"2024-05-23T00:44:56.889Z"},
+        "_version_":1802195032974819328,
+        "timestamp":"2024-06-18T10:38:36.103Z"},
       {
         "id":"wag_134aspace_ref22",
         "ead_ssi":"wag_134",
@@ -191,8 +193,8 @@
         "unitdate_start_ssm":["1928"],
         "unitdate_end_ssm":["1935"],
         "unitdate_ssm":["Inclusive, 1928-1935"],
-        "_version_":1799802162339905536,
-        "timestamp":"2024-05-23T00:44:56.836Z"},
+        "_version_":1802195032945459200,
+        "timestamp":"2024-06-18T10:38:36.075Z"},
       {
         "id":"wag_134aspace_ref23",
         "ead_ssi":"wag_134",
@@ -211,8 +213,8 @@
         "unitdate_start_ssm":["1941"],
         "unitdate_end_ssm":["1941"],
         "unitdate_ssm":["Inclusive, Feb 17, 1941"],
-        "_version_":1799802162450006016,
-        "timestamp":"2024-05-23T00:44:56.941Z"},
+        "_version_":1802195033008373760,
+        "timestamp":"2024-06-18T10:38:36.135Z"},
       {
         "id":"wag_134aspace_ref24",
         "ead_ssi":"wag_134",
@@ -231,8 +233,8 @@
         "unitdate_start_ssm":["1966"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, 1966-1974"],
-        "_version_":1799802162504531968,
-        "timestamp":"2024-05-23T00:44:56.993Z"},
+        "_version_":1802195033036685312,
+        "timestamp":"2024-06-18T10:38:36.162Z"},
       {
         "id":"wag_134aspace_ref25",
         "ead_ssi":"wag_134",
@@ -252,8 +254,8 @@
         "unitdate_start_ssm":["1932"],
         "unitdate_end_ssm":["1966"],
         "unitdate_ssm":["Inclusive, 1932-1966"],
-        "_version_":1799802162376605696,
-        "timestamp":"2024-05-23T00:44:56.871Z"},
+        "_version_":1802195032964333568,
+        "timestamp":"2024-06-18T10:38:36.093Z"},
       {
         "id":"wag_134aspace_ref26",
         "ead_ssi":"wag_134",
@@ -272,8 +274,8 @@
         "unitdate_start_ssm":["1931"],
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, 1931-1938"],
-        "_version_":1799802162355634176,
-        "timestamp":"2024-05-23T00:44:56.851Z"},
+        "_version_":1802195032953847808,
+        "timestamp":"2024-06-18T10:38:36.083Z"},
       {
         "id":"wag_134aspace_ref27",
         "ead_ssi":"wag_134",
@@ -292,8 +294,8 @@
         "unitdate_start_ssm":["1927"],
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, 1927-1938"],
-        "_version_":1799802162322079744,
-        "timestamp":"2024-05-23T00:44:56.819Z"},
+        "_version_":1802195032936022016,
+        "timestamp":"2024-06-18T10:38:36.066Z"},
       {
         "id":"wag_134aspace_ref28",
         "ead_ssi":"wag_134",
@@ -312,8 +314,8 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1936-1939"],
-        "_version_":1799802162429034496,
-        "timestamp":"2024-05-23T00:44:56.921Z"},
+        "_version_":1802195032996839424,
+        "timestamp":"2024-06-18T10:38:36.124Z"},
       {
         "id":"wag_134aspace_ref29",
         "ead_ssi":"wag_134",
@@ -332,8 +334,8 @@
         "unitdate_start_ssm":["1963"],
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, Mar 12, 1963"],
-        "_version_":1799802162486706176,
-        "timestamp":"2024-05-23T00:44:56.975Z"},
+        "_version_":1802195033027248128,
+        "timestamp":"2024-06-18T10:38:36.153Z"},
       {
         "id":"wag_134aspace_ref30",
         "ead_ssi":"wag_134",
@@ -352,8 +354,8 @@
         "unitdate_start_ssm":["1949"],
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, 1949"],
-        "_version_":1799802162469928960,
-        "timestamp":"2024-05-23T00:44:56.96Z"},
+        "_version_":1802195033017810944,
+        "timestamp":"2024-06-18T10:38:36.144Z"},
       {
         "id":"wag_134aspace_ref31",
         "ead_ssi":"wag_134",
@@ -372,8 +374,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1983-1991"],
-        "_version_":1799802162519212032,
-        "timestamp":"2024-05-23T00:44:57.007Z"},
+        "_version_":1802195033046122496,
+        "timestamp":"2024-06-18T10:38:36.171Z"},
       {
         "id":"wag_134aspace_ref33",
         "ead_ssi":"wag_134",
@@ -392,8 +394,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, Circa 1984"],
-        "_version_":1799802162534940672,
-        "timestamp":"2024-05-23T00:44:57.022Z"},
+        "_version_":1802195033056608256,
+        "timestamp":"2024-06-18T10:38:36.181Z"},
       {
         "id":"wag_134aspace_ref35",
         "ead_ssi":"wag_134",
@@ -409,8 +411,8 @@
         "location_ssm":["Box: 3"],
         "heading_ssm":["Photographs of World War I Veterans"],
         "unitdate_ssm":["undated"],
-        "_version_":1799802162552766464,
-        "timestamp":"2024-05-23T00:44:57.039Z"},
+        "_version_":1802195033067094016,
+        "timestamp":"2024-06-18T10:38:36.191Z"},
       {
         "id":"wag_134aspace_ref37",
         "ead_ssi":"wag_134",
@@ -429,8 +431,8 @@
         "unitdate_start_ssm":["1893"],
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, 1893-1963"],
-        "_version_":1799802162236096512,
-        "timestamp":"2024-05-23T00:44:56.737Z"}]
+        "_version_":1802195032888836096,
+        "timestamp":"2024-06-18T10:38:36.021Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -438,7 +440,8 @@
       "repository_sim":[
         "tamwag",19],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Consolidated Edison Employees Mutual Aid Society",1],
       "date_range_sim":[
         "1801-1900",2,
         "1901-2000",18,

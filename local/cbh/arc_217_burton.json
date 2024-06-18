@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,18 @@
         "unittitle_ssm":["Burton family papers and photographs"],
         "unitid_ssm":["ARC.217"],
         "abstract_ssm":["The Burton family papers and photographs date from 1870 to 1949 and measure 1.25 linear feet. The collection includes the papers of William W. Burton, his wife Virginia Baptista Burton, their son and daughter-in-law Percival Burton and Josie E. Newcombe Burton, and the Newcombe family."],
+        "creator_ssm":["Burton, Virginia Baptista",
+          "Burton family",
+          "Burton, Percival",
+          "Burton, William W.",
+          "Burton, Josie E. Newcomb",
+          "Newcombe family",
+          "Burton family",
+          "Newcombe family",
+          "Burton, Virginia Baptista",
+          "Burton, Percival",
+          "Burton, William W.",
+          "Burton, Josie E. Newcomb"],
         "unitdate_normal_ssm":["1861/1949"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Burton family",
@@ -100,8 +112,8 @@
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, 1861-1949"],
         "language_ssm":["English"],
-        "_version_":1799311574207299584,
-        "timestamp":"2024-05-17T14:47:15.534Z"}]
+        "_version_":1801959437295943680,
+        "timestamp":"2024-06-15T20:13:54.555Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -109,7 +121,13 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Burton family",1,
+        "Burton, Josie E. Newcomb",1,
+        "Burton, Percival",1,
+        "Burton, Virginia Baptista",1,
+        "Burton, William W.",1,
+        "Newcombe family",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

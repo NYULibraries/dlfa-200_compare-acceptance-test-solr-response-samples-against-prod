@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Abe Weisburd Slides and Scrapbook"],
         "unitid_ssm":["TAM.450"],
         "abstract_ssm":["Abe Weisburd (1907-1995) was a radical activist and journalist who wrote regularly for the National Guardian (aka Guardian), a leftist weekly newspaper (1948-1992).  This collection contains color slides and a scrapbook, which primarily date from the 1970s and early 1980s.  The slides incorporate both his private travel slides and his political travel slides spanning the years 1969-1984. The scrapbook contains writings by Weisburd, biographical notes, photos, and letters from friends and family."],
+        "creator_ssm":["Weisburd, Abe",
+          "Weisburd, Abe"],
         "unitdate_normal_ssm":["1969/1984"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "National Guardian"],
@@ -75,8 +77,8 @@
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1969-1984"],
-        "_version_":1799333932433408000,
-        "timestamp":"2024-05-17T20:42:38Z"},
+        "_version_":1802183110586007552,
+        "timestamp":"2024-06-18T07:29:06.027Z"},
       {
         "id":"tam_450aspace_498f84d8301d8146ed8335c83c6d715d",
         "ead_ssi":"tam_450",
@@ -95,8 +97,8 @@
         "unitdate_start_ssm":["1974"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1974-1978"],
-        "_version_":1799333932511002624,
-        "timestamp":"2024-05-17T20:42:38.074Z"},
+        "_version_":1802183110642630656,
+        "timestamp":"2024-06-18T07:29:06.081Z"},
       {
         "id":"tam_450aspace_ref4",
         "ead_ssi":"tam_450",
@@ -115,8 +117,8 @@
         "unitdate_start_ssm":["1977"],
         "unitdate_end_ssm":["1981"],
         "unitdate_ssm":["Inclusive, circa 1977-1981"],
-        "_version_":1799333932495273984,
-        "timestamp":"2024-05-17T20:42:38.059Z"},
+        "_version_":1802183110632144896,
+        "timestamp":"2024-06-18T07:29:06.071Z"},
       {
         "id":"tam_450aspace_ref7",
         "ead_ssi":"tam_450",
@@ -135,8 +137,8 @@
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1969-1983"],
-        "_version_":1799333932478496768,
-        "timestamp":"2024-05-17T20:42:38.043Z"},
+        "_version_":1802183110622707712,
+        "timestamp":"2024-06-18T07:29:06.062Z"},
       {
         "id":"tam_450aspace_ref8",
         "ead_ssi":"tam_450",
@@ -155,8 +157,8 @@
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1969-1984"],
-        "_version_":1799333932462768128,
-        "timestamp":"2024-05-17T20:42:38.028Z"},
+        "_version_":1802183110608027648,
+        "timestamp":"2024-06-18T07:29:06.048Z"},
       {
         "id":"tam_450aspace_ref9",
         "ead_ssi":"tam_450",
@@ -175,8 +177,8 @@
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1969-1984"],
-        "_version_":1799333932449136640,
-        "timestamp":"2024-05-17T20:42:38.015Z"}]
+        "_version_":1802183110597541888,
+        "timestamp":"2024-06-18T07:29:06.038Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -184,7 +186,8 @@
       "repository_sim":[
         "tamwag",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Weisburd, Abe",1],
       "date_range_sim":[
         "1901-2000",6],
       "subject_sim":[

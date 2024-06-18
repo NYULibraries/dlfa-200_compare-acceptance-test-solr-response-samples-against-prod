@@ -47,6 +47,10 @@
         "unittitle_ssm":["Viscount and Viscountess Halifax photographs of Jewish Hospital of Brooklyn"],
         "unitid_ssm":["V1974.017"],
         "abstract_ssm":["The collection contains black-and-white publicity-style photographs of Viscount and Viscountess Halifax during two visits to the Jewish Hospital of Brooklyn in 1943."],
+        "creator_ssm":["New York Times Company",
+          "Gordon, Larry",
+          "New York Times Company",
+          "Gordon, Larry"],
         "unitdate_normal_ssm":["1943/1943"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Times Company",
@@ -72,8 +76,8 @@
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["1943"],
         "language_ssm":["English"],
-        "_version_":1799311647079137280,
-        "timestamp":"2024-05-17T14:48:25.03Z"}]
+        "_version_":1802044768556941312,
+        "timestamp":"2024-06-16T18:50:12.787Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +85,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gordon, Larry",1,
+        "New York Times Company",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Meeker brothers land records collection"],
         "unitid_ssm":["ARC.061"],
         "abstract_ssm":["This collection contains land records dated 1757 to 1904 from the Brooklyn law office of Samuel M. and David E. Meeker. Items include mortgages, deeds, title abstracts, tax bills, wills and correspondence relating to Brooklyn property transactions. The collection also includes two images: a photograph of a winter scene in Prospect Park, circa 1890s, and a photograph of a painted portrait of Rev. Stephen Headley Meeker (1799-1876), Pastor of the Old Bushwick Reformed Church. Folders are arranged by street address and/or approximate location. Names associated with the listed properties are also included on the folders."],
+        "creator_ssm":["Meeker, David W.",
+          "Meeker, Samuel M.",
+          "Meeker, David W.",
+          "Meeker, Samuel M."],
         "unitdate_normal_ssm":["1757/1904"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Old Bushwick Reformed Church (Brooklyn, New York, N.Y.)"],
@@ -76,8 +80,8 @@
         "unitdate_end_ssm":["1904"],
         "unitdate_ssm":["Inclusive, 1757-1904"],
         "language_ssm":["English"],
-        "_version_":1799256468112801792,
-        "timestamp":"2024-05-17T00:11:22.267Z"}]
+        "_version_":1801958848341213184,
+        "timestamp":"2024-06-15T20:04:32.884Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +89,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Meeker, David W.",1,
+        "Meeker, Samuel M.",1],
       "date_range_sim":[
         "1701-1800",1,
         "1901-2000",1],

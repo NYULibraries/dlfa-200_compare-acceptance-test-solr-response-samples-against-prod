@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Alcyone Boat Club records"],
         "unitid_ssm":["1977.065"],
         "abstract_ssm":["This collection includes various records of the Alcyone Boat Club of Brooklyn, including the Club's constitution and bylaws, 1867; a log book recording miles rowed by members, 1878 to 1883; a history of the Club, circa 1875; and a membership list, 1859 to 1885.  Also include is a court notice for the hearing of Otto Kornewann v. the Steamship PLANTYN, 1885."],
+        "creator_ssm":["Alcyone Boat Club",
+          "Alcyone Boat Club"],
         "unitdate_normal_ssm":["1859/1885"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Alcyone Boat Club",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1885"],
         "unitdate_ssm":["Inclusive, 1859-1885"],
         "language_ssm":["English"],
-        "_version_":1799312398506524672,
-        "timestamp":"2024-05-17T15:00:21.647Z"}]
+        "_version_":1801960633063702528,
+        "timestamp":"2024-06-15T20:32:54.928Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Alcyone Boat Club",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York State Tax Act of 1781"],
         "unitid_ssm":["1977.618"],
         "abstract_ssm":["An act, dated November 20, 1781, for levying tax within the state by the New York State Legislature. The act was signed by Harmanus Smith."],
+        "creator_ssm":["New York (State). Legislature",
+          "New York (State). Legislature"],
         "unitdate_normal_ssm":["1781/1781"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Legislature"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1781"],
         "unitdate_ssm":["1781"],
         "language_ssm":["English"],
-        "_version_":1799311441454432256,
-        "timestamp":"2024-05-17T14:45:08.931Z"}]
+        "_version_":1801962084697636864,
+        "timestamp":"2024-06-15T20:55:59.314Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (State). Legislature",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Association for Improving the Condition of the Poor annual reports and publications"],
         "unitid_ssm":["ARC.179"],
         "abstract_ssm":["This collection primarily consists of the Brooklyn Association for Improving the Condition of the Poor's annual reports spanning the period 1846 to 1951, with various gaps. The reports include essential summary information on the Association, including lists of board and committee members; statements of the Association's principles and objectives; reports of boards of managers, treasurers, and departments; listings of contributors and solicitors; and directories of other charitable organizations in Brooklyn."],
+        "creator_ssm":["Brooklyn Association for Improving the Condition of the Poor",
+          "Brooklyn Association for Improving the Condition of the Poor"],
         "unitdate_normal_ssm":["1846/1951"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Association for Improving the Condition of the Poor",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["Inclusive, 1846-1951"],
         "language_ssm":["English"],
-        "_version_":1799311719090094080,
-        "timestamp":"2024-05-17T14:49:33.705Z"}]
+        "_version_":1801959305244573696,
+        "timestamp":"2024-06-15T20:11:48.621Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Association for Improving the Condition of the Poor",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Michael Gru register of legal cases and press clippings"],
         "unitid_ssm":["1992.030"],
         "abstract_ssm":["Two-volume register of Brooklyn lawyer Michael Gru's legal cases for the period 1875 to 1900, as well as a book of press clippings regarding cases in which Gru was involved."],
+        "creator_ssm":["Gru, Michael",
+          "Gru, Michael"],
         "unitdate_normal_ssm":["1875/1900"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Clippings (information artifacts)",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1900"],
         "unitdate_ssm":["Inclusive, 1875-1900"],
         "language_ssm":["English"],
-        "_version_":1775224465567776768,
-        "timestamp":"2023-08-25T17:52:58.668Z"}]
+        "_version_":1800791427612934144,
+        "timestamp":"2024-06-02T22:48:53.719Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gru, Michael",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

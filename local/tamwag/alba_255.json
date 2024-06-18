@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["John Yellin Papers"],
         "unitid_ssm":["ALBA.255"],
         "abstract_ssm":["The collection consists of printed ephemera, once part of a collage, from the Spanish Civil War, including membership booklets/cards, a photograph, postcards, and stamps of International Brigade volunteer John Yellin."],
+        "creator_ssm":["Yellin, John Harley, 1914-1972",
+          "Yellin, John Harley, 1914-1972"],
         "unitdate_normal_ssm":["1937/1972"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Yellin, Sue",
@@ -61,8 +63,8 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, circa 1930s-1970s"],
-        "_version_":1799335383405690880,
-        "timestamp":"2024-05-17T21:05:41.755Z"},
+        "_version_":1802111485455892480,
+        "timestamp":"2024-06-17T12:30:38.98Z"},
       {
         "id":"alba_255aspace_3fbe99db507edb4c1fc6329c6b3febb8",
         "ead_ssi":"alba_255",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799335383420370944,
-        "timestamp":"2024-05-17T21:05:41.769Z"}]
+        "_version_":1802111485488398336,
+        "timestamp":"2024-06-17T12:30:39.011Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Yellin, John Harley, 1914-1972",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

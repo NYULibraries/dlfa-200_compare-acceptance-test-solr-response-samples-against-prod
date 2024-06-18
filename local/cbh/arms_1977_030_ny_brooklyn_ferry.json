@@ -47,6 +47,8 @@
         "unittitle_ssm":["New-York and Brooklyn Steam Ferry Boat Company toll books"],
         "unitid_ssm":["1977.030"],
         "abstract_ssm":["This collection contains three toll books of the New-York and Brooklyn Steam Ferry Boat Company dating from 1825 to 1826, 1828 to 1829, and 1836 to 1837."],
+        "creator_ssm":["New-York and Brooklyn Steam Ferry Boat Company",
+          "New-York and Brooklyn Steam Ferry Boat Company"],
         "unitdate_normal_ssm":["1825/1837"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New-York and Brooklyn Steam Ferry Boat Company",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1837"],
         "unitdate_ssm":["Inclusive, 1825-1837"],
         "language_ssm":["English"],
-        "_version_":1799311436585893888,
-        "timestamp":"2024-05-17T14:45:04.288Z"}]
+        "_version_":1801960576946012160,
+        "timestamp":"2024-06-15T20:32:01.41Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New-York and Brooklyn Steam Ferry Boat Company",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

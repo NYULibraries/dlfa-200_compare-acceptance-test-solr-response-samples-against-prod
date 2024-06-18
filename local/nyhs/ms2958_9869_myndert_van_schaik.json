@@ -47,6 +47,8 @@
         "unittitle_ssm":["Myndert Van Schaick sales account"],
         "unitid_ssm":["AHMC - Van Schaick, Myndert"],
         "abstract_ssm":["One statement of auctioneer Myndert Van Schaick's sales for the period July 1 to September 30, 1827. The statement summarizes sales totals of specific dates during the period, broken out by value on which duties were paid on foreign goods at the rate of either 1 percent or 1-1/2 percent, or were domestic manufactures exempt from duties. Following the accounts is a certification by Van Schaick as to the accuracy of his figures, his compliance with auction regulations, and other related matters. Also signing as attestations as to the correctness of the accounts are Van Schaick's partners, John Hone, Isaac S. Hone, John Hone, Jr., and Henry Hone. The document was presented to and was signed in two places by New York City mayor William Paulding on October 20 and 27, 1827. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Myndert Van Schaick Sales Account"],
+        "creator_ssm":["Van Schaick, Myndert, 1782-1865 ",
+          "Van Schaick, Myndert, 1782-1865 "],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Van Schaick, Myndert, 1782-1865 "],
         "collection_ssm":["Myndert Van Schaick sales account"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Myndert Van Schaick sales account"],
         "unitdate_ssm":["Inclusive, 1827"],
-        "_version_":1799315998533222400,
-        "timestamp":"2024-05-17T15:57:34.9Z"}]
+        "_version_":1802083890313035776,
+        "timestamp":"2024-06-17T05:12:02.2Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Van Schaick, Myndert, 1782-1865 ",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

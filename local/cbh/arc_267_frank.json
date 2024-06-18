@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jerome Frank photographs of Brooklyn"],
         "unitid_ssm":["ARC.267"],
         "abstract_ssm":["The Jerome Frank photographs of Brooklyn consist of 54 photographs documenting areas of Brooklyn during the 1980s."],
+        "creator_ssm":["Frank, Jerome G.",
+          "Frank, Jerome G."],
         "unitdate_normal_ssm":["1983/1988"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Academy of Music"],
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["1988"],
         "unitdate_ssm":["Inclusive, 1983-1988"],
         "language_ssm":["English"],
-        "_version_":1799311452967796736,
-        "timestamp":"2024-05-17T14:45:19.911Z"}]
+        "_version_":1801959667785531392,
+        "timestamp":"2024-06-15T20:17:34.366Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Frank, Jerome G.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

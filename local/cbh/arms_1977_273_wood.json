@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Alice L. Wood collection"],
         "unitid_ssm":["1977.273"],
         "abstract_ssm":["This collection consists of various items dating from 1955 to 1968 and related to Alice L. Wood's role as publisher of the periodicals Bookniks and The Friendly World."],
+        "creator_ssm":["Wood, Alice L.",
+          "Wood, Alice L."],
         "unitdate_normal_ssm":["1955/1968"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Calendars",
@@ -79,8 +81,8 @@
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1955-1968"],
         "language_ssm":["English"],
-        "_version_":1799311486466654208,
-        "timestamp":"2024-05-17T14:45:51.858Z"},
+        "_version_":1801961225716760576,
+        "timestamp":"2024-06-15T20:42:20.126Z"},
       {
         "id":"arms_1977_273_woodaspace_267df3db0e4761246357f3d5b93169bd",
         "ead_ssi":"arms_1977_273_wood",
@@ -100,8 +102,8 @@
         "unitdate_start_ssm":["1964"],
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, circa 1964-1967"],
-        "_version_":1799311486657495040,
-        "timestamp":"2024-05-17T14:45:52.04Z"},
+        "_version_":1801961225865658368,
+        "timestamp":"2024-06-15T20:42:20.267Z"},
       {
         "id":"arms_1977_273_woodaspace_417f62df3324ea04619838e4027b4af3",
         "ead_ssi":"arms_1977_273_wood",
@@ -120,8 +122,8 @@
         "unitdate_start_ssm":["1963"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1963-1965"],
-        "_version_":1799311486552637440,
-        "timestamp":"2024-05-17T14:45:51.94Z"},
+        "_version_":1801961225799598080,
+        "timestamp":"2024-06-15T20:42:20.205Z"},
       {
         "id":"arms_1977_273_woodaspace_61c5065508943c1ea0cccf3af3764b56",
         "ead_ssi":"arms_1977_273_wood",
@@ -140,8 +142,8 @@
         "unitdate_start_ssm":["1962"],
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, 1962-1963"],
-        "_version_":1799311486526423040,
-        "timestamp":"2024-05-17T14:45:51.915Z"},
+        "_version_":1801961225768140800,
+        "timestamp":"2024-06-15T20:42:20.175Z"},
       {
         "id":"arms_1977_273_woodaspace_6475b2632e60873d8919f98e4df93ab1",
         "ead_ssi":"arms_1977_273_wood",
@@ -160,8 +162,8 @@
         "unitdate_start_ssm":["1955"],
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["1955"],
-        "_version_":1799311486500208640,
-        "timestamp":"2024-05-17T14:45:51.889Z"},
+        "_version_":1801961225747169280,
+        "timestamp":"2024-06-15T20:42:20.155Z"},
       {
         "id":"arms_1977_273_woodaspace_9f343309450638d99a9376ff5c27352d",
         "ead_ssi":"arms_1977_273_wood",
@@ -180,8 +182,8 @@
         "unitdate_start_ssm":["1964"],
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, 1964-1967"],
-        "_version_":1799311486581997568,
-        "timestamp":"2024-05-17T14:45:51.968Z"},
+        "_version_":1801961225821618176,
+        "timestamp":"2024-06-15T20:42:20.226Z"},
       {
         "id":"arms_1977_273_woodaspace_cff7ffa776217ff9de1bf5bc7ace3ca4",
         "ead_ssi":"arms_1977_273_wood",
@@ -200,8 +202,8 @@
         "unitdate_start_ssm":["1965"],
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, 1965-1967"],
-        "_version_":1799311486685806592,
-        "timestamp":"2024-05-17T14:45:52.067Z"},
+        "_version_":1801961225887678464,
+        "timestamp":"2024-06-15T20:42:20.289Z"},
       {
         "id":"arms_1977_273_woodaspace_e98175e9465579de902c2ee40968befe",
         "ead_ssi":"arms_1977_273_wood",
@@ -220,8 +222,8 @@
         "unitdate_start_ssm":["1964"],
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, circa 1964-1967"],
-        "_version_":1799311486622892032,
-        "timestamp":"2024-05-17T14:45:52.007Z"}]
+        "_version_":1801961225845735424,
+        "timestamp":"2024-06-15T20:42:20.249Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -229,7 +231,8 @@
       "repository_sim":[
         "cbh",8],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wood, Alice L.",1],
       "date_range_sim":[
         "1901-2000",8],
       "subject_sim":[

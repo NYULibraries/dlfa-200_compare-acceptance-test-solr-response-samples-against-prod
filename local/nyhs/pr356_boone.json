@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Kurt Boone photographs and pictorial works"],
         "unitid_ssm":["PR 356"],
         "abstract_ssm":["The collection includes ten photographic prints by Kurt Boone of subway performers, seven books or booklets of photographs (mostly by Boone) concerning messenger culture and street photography, and seven posters related to Boone's work and bicycling."],
+        "creator_ssm":["Boone, Kurt B.",
+          "Boone, Kurt B."],
         "corpname_ssm":["New-York Historical Society",
           "Empire State Building (New York, N.Y.) -- Pictorial works."],
         "genreform_ssm":["Color photographs.",
@@ -66,8 +68,8 @@
         "heading_ssm":["Kurt Boone photographs and pictorial works"],
         "unitdate_ssm":["Inclusive, 2012-2019"],
         "language_ssm":["English"],
-        "_version_":1799318160829054976,
-        "timestamp":"2024-05-17T16:31:57.026Z"},
+        "_version_":1802094334433034240,
+        "timestamp":"2024-06-17T07:58:02.49Z"},
       {
         "id":"pr356_booneaspace_07be6053b187497884051cd6190a043c",
         "ead_ssi":"pr356_boone",
@@ -86,8 +88,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Book: \"Brooklyn Cruise Terminal: Red Hook Criterium Portraits\""],
         "unitdate_ssm":["2018"],
-        "_version_":1799318161220173824,
-        "timestamp":"2024-05-17T16:31:57.399Z"},
+        "_version_":1802094334942642176,
+        "timestamp":"2024-06-17T07:58:02.976Z"},
       {
         "id":"pr356_booneaspace_1024246776036891d137cf1290748e2c",
         "ead_ssi":"pr356_boone",
@@ -102,8 +104,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I. Photographic Prints"],
         "unitdate_ssm":["Inclusive, 2014-2015, 2017"],
-        "_version_":1799318160848977920,
-        "timestamp":"2024-05-17T16:31:57.045Z"},
+        "_version_":1802094334452957184,
+        "timestamp":"2024-06-17T07:58:02.509Z"},
       {
         "id":"pr356_booneaspace_18fc0bb4fef518bf8d4c116bee667894",
         "ead_ssi":"pr356_boone",
@@ -122,8 +124,8 @@
         "location_ssm":["Folder: 2"],
         "heading_ssm":["\n      Larry Wright & Sonia Wright\n    "],
         "unitdate_ssm":["2015"],
-        "_version_":1799318160955932672,
-        "timestamp":"2024-05-17T16:31:57.147Z"},
+        "_version_":1802094334589272064,
+        "timestamp":"2024-06-17T07:58:02.639Z"},
       {
         "id":"pr356_booneaspace_2271be685f28512855585adbd7243589",
         "ead_ssi":"pr356_boone",
@@ -142,8 +144,8 @@
         "location_ssm":["Folder: 2"],
         "heading_ssm":["\n      Accordion Player\n    "],
         "unitdate_ssm":["2015"],
-        "_version_":1799318160870998016,
-        "timestamp":"2024-05-17T16:31:57.066Z"},
+        "_version_":1802094334477074432,
+        "timestamp":"2024-06-17T07:58:02.532Z"},
       {
         "id":"pr356_booneaspace_25122996cec23b1a2befe3c82871be86",
         "ead_ssi":"pr356_boone",
@@ -162,8 +164,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Poster for the Music in the Tunnels photo exhibition at Quimby's Bookstore in Brooklyn"],
         "unitdate_ssm":["2017"],
-        "_version_":1799318161089101824,
-        "timestamp":"2024-05-17T16:31:57.274Z"},
+        "_version_":1802094334757044224,
+        "timestamp":"2024-06-17T07:58:02.799Z"},
       {
         "id":"pr356_booneaspace_27c9e7560f770c2bae0a42bf30d3b324",
         "ead_ssi":"pr356_boone",
@@ -182,8 +184,8 @@
         "location_ssm":["Folder: 3"],
         "heading_ssm":["Poster for movie \"Premium Rush\""],
         "unitdate_ssm":["2012"],
-        "_version_":1799318161287282688,
-        "timestamp":"2024-05-17T16:31:57.463Z"},
+        "_version_":1802094335059034112,
+        "timestamp":"2024-06-17T07:58:03.087Z"},
       {
         "id":"pr356_booneaspace_2904e9df3cdd9b4ec6cbfb5c98632923",
         "ead_ssi":"pr356_boone",
@@ -202,8 +204,8 @@
         "location_ssm":["Folder: 3"],
         "heading_ssm":["Poster for panel discussion \"The Urban Playground\""],
         "unitdate_ssm":["2012"],
-        "_version_":1799318161328177152,
-        "timestamp":"2024-05-17T16:31:57.502Z"},
+        "_version_":1802094335106220032,
+        "timestamp":"2024-06-17T07:58:03.132Z"},
       {
         "id":"pr356_booneaspace_2ad492d8e227b68ca6f4ffb3c59f3315",
         "ead_ssi":"pr356_boone",
@@ -222,8 +224,8 @@
         "location_ssm":["Folder: 3"],
         "heading_ssm":["Poster: \"Urgent Document: Messenger Culture: A Photo Exhibition\" (see book above)"],
         "unitdate_ssm":["2018"],
-        "_version_":1799318161252679680,
-        "timestamp":"2024-05-17T16:31:57.43Z"},
+        "_version_":1802094334996119552,
+        "timestamp":"2024-06-17T07:58:03.027Z"},
       {
         "id":"pr356_booneaspace_2c8a10a05a914bc1929bec4466bb448e",
         "ead_ssi":"pr356_boone",
@@ -242,8 +244,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Book: \"NYC Street Portraiture\""],
         "unitdate_ssm":["2019"],
-        "_version_":1799318161128947712,
-        "timestamp":"2024-05-17T16:31:57.312Z"},
+        "_version_":1802094334809473024,
+        "timestamp":"2024-06-17T07:58:02.849Z"},
       {
         "id":"pr356_booneaspace_3bf8c456f03ac4b4e7a4a202b749dbb7",
         "ead_ssi":"pr356_boone",
@@ -262,8 +264,8 @@
         "location_ssm":["Folder: 2"],
         "heading_ssm":["\n      Rosa Teresa\n    "],
         "unitdate_ssm":["2015 May 20"],
-        "_version_":1799318161016750080,
-        "timestamp":"2024-05-17T16:31:57.205Z"},
+        "_version_":1802094334658478080,
+        "timestamp":"2024-06-17T07:58:02.704Z"},
       {
         "id":"pr356_booneaspace_46765062e224760e96b6dab0dcbbfb0a",
         "ead_ssi":"pr356_boone",
@@ -282,8 +284,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Jeff Masing (One Man Band)"],
         "unitdate_ssm":["2015 April 19"],
-        "_version_":1799318160934961152,
-        "timestamp":"2024-05-17T16:31:57.127Z"},
+        "_version_":1802094334563057664,
+        "timestamp":"2024-06-17T07:58:02.614Z"},
       {
         "id":"pr356_booneaspace_576159134c7046ad964524b0942b8be6",
         "ead_ssi":"pr356_boone",
@@ -302,8 +304,8 @@
         "location_ssm":["Folder: 3"],
         "heading_ssm":["Poster: \"18th Annual Bicycle Film Festival, New York\""],
         "unitdate_ssm":["2018"],
-        "_version_":1799318161344954368,
-        "timestamp":"2024-05-17T16:31:57.518Z"},
+        "_version_":1802094335133483008,
+        "timestamp":"2024-06-17T07:58:03.158Z"},
       {
         "id":"pr356_booneaspace_66f77c439db8d0169e34ffb0c69edef9",
         "ead_ssi":"pr356_boone",
@@ -322,8 +324,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Book: \"Messenger 841 Pro Pouch Book\""],
         "unitdate_ssm":["undated"],
-        "_version_":1799318161186619392,
-        "timestamp":"2024-05-17T16:31:57.367Z"},
+        "_version_":1802094334890213376,
+        "timestamp":"2024-06-17T07:58:02.926Z"},
       {
         "id":"pr356_booneaspace_66ffecb9051663d103e185c27f224662",
         "ead_ssi":"pr356_boone",
@@ -342,8 +344,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Book: \"Eye Level: Empire State Building\""],
         "unitdate_ssm":["undated"],
-        "_version_":1799318161204445184,
-        "timestamp":"2024-05-17T16:31:57.383Z"},
+        "_version_":1802094334914330624,
+        "timestamp":"2024-06-17T07:58:02.948Z"},
       {
         "id":"pr356_booneaspace_70f9afbce6bd41e29ac7f30271bb5afe",
         "ead_ssi":"pr356_boone",
@@ -362,8 +364,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Poster for the Music in the Tunnels photo exhibition at Quimby's Bookstore in Brooklyn."],
         "unitdate_ssm":["2017"],
-        "_version_":1799318161071276032,
-        "timestamp":"2024-05-17T16:31:57.257Z"},
+        "_version_":1802094334725586944,
+        "timestamp":"2024-06-17T07:58:02.769Z"},
       {
         "id":"pr356_booneaspace_7b38858903cf14bec8aa9bba4dcbbd10",
         "ead_ssi":"pr356_boone",
@@ -382,8 +384,8 @@
         "location_ssm":["Folder: 3"],
         "heading_ssm":["Poster for movie \"Line of Sight\" at Bicycle Film Festival"],
         "unitdate_ssm":["2012"],
-        "_version_":1799318161311399936,
-        "timestamp":"2024-05-17T16:31:57.486Z"},
+        "_version_":1802094335081054208,
+        "timestamp":"2024-06-17T07:58:03.108Z"},
       {
         "id":"pr356_booneaspace_8062f0c60c2dac69225f4ed21a6fdf3f",
         "ead_ssi":"pr356_boone",
@@ -402,8 +404,8 @@
         "location_ssm":["Folder: 2"],
         "heading_ssm":["\n      Ebony Hillbillies\n    "],
         "unitdate_ssm":["2015"],
-        "_version_":1799318160916086784,
-        "timestamp":"2024-05-17T16:31:57.109Z"},
+        "_version_":1802094334535794688,
+        "timestamp":"2024-06-17T07:58:02.588Z"},
       {
         "id":"pr356_booneaspace_8dcae8a4f7a16ef61a8e2b0765fcc79c",
         "ead_ssi":"pr356_boone",
@@ -422,8 +424,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Book: \"Urgent Document: Messenger Culture: Exhibition Catalog\" (see poster below)"],
         "unitdate_ssm":["2018"],
-        "_version_":1799318161170890752,
-        "timestamp":"2024-05-17T16:31:57.352Z"},
+        "_version_":1802094334867144704,
+        "timestamp":"2024-06-17T07:58:02.904Z"},
       {
         "id":"pr356_booneaspace_8f02e230dfb721742a05925463d6d006",
         "ead_ssi":"pr356_boone",
@@ -442,8 +444,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["The Silver Cowboy (Three Dancers in Paint)"],
         "unitdate_ssm":["2015 February 24"],
-        "_version_":1799318161035624448,
-        "timestamp":"2024-05-17T16:31:57.223Z"},
+        "_version_":1802094334680498176,
+        "timestamp":"2024-06-17T07:58:02.726Z"},
       {
         "id":"pr356_booneaspace_a0acab1b91c461914afb7a45339b924f",
         "ead_ssi":"pr356_boone",
@@ -458,8 +460,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series II. Other Pictorial Works"],
         "unitdate_ssm":["Inclusive, 2012-2019"],
-        "_version_":1799318161107976192,
-        "timestamp":"2024-05-17T16:31:57.292Z"},
+        "_version_":1802094334781161472,
+        "timestamp":"2024-06-17T07:58:02.822Z"},
       {
         "id":"pr356_booneaspace_b82b27aec3e0542b54804c342ae98c54",
         "ead_ssi":"pr356_boone",
@@ -478,8 +480,8 @@
         "location_ssm":["Folder: 2"],
         "heading_ssm":["\n      Alice Tan Ridley\n    "],
         "unitdate_ssm":["2015"],
-        "_version_":1799318160896163840,
-        "timestamp":"2024-05-17T16:31:57.09Z"},
+        "_version_":1802094334502240256,
+        "timestamp":"2024-06-17T07:58:02.556Z"},
       {
         "id":"pr356_booneaspace_c055d8d28ea8616cb66b2d841040da0e",
         "ead_ssi":"pr356_boone",
@@ -498,8 +500,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Periodical: \"G-Shock: Profiles\""],
         "unitdate_ssm":["2014"],
-        "_version_":1799318161236951040,
-        "timestamp":"2024-05-17T16:31:57.415Z"},
+        "_version_":1802094334969905152,
+        "timestamp":"2024-06-17T07:58:03.002Z"},
       {
         "id":"pr356_booneaspace_c18318e7777fb2491a8f0b0d95ca29ad",
         "ead_ssi":"pr356_boone",
@@ -518,8 +520,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["\n      Maxidekalu\n    "],
         "unitdate_ssm":["2014 June 9"],
-        "_version_":1799318160975855616,
-        "timestamp":"2024-05-17T16:31:57.166Z"},
+        "_version_":1802094334611292160,
+        "timestamp":"2024-06-17T07:58:02.66Z"},
       {
         "id":"pr356_booneaspace_cb983b17e7e12ca8f5cdd62043d24ef6",
         "ead_ssi":"pr356_boone",
@@ -538,8 +540,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Trumpet Player (Artist Name Unknown)"],
         "unitdate_ssm":["2015 April 11"],
-        "_version_":1799318161052401664,
-        "timestamp":"2024-05-17T16:31:57.239Z"},
+        "_version_":1802094334703566848,
+        "timestamp":"2024-06-17T07:58:02.748Z"},
       {
         "id":"pr356_booneaspace_cf3da64846e03e9256b81317ad74cf4b",
         "ead_ssi":"pr356_boone",
@@ -558,8 +560,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Book: \"The Culture of Messenger Bags\""],
         "unitdate_ssm":["2019"],
-        "_version_":1799318161150967808,
-        "timestamp":"2024-05-17T16:31:57.332Z"},
+        "_version_":1802094334838833152,
+        "timestamp":"2024-06-17T07:58:02.877Z"},
       {
         "id":"pr356_booneaspace_d456e40cf87a18af8944bc481599fb96",
         "ead_ssi":"pr356_boone",
@@ -578,8 +580,8 @@
         "location_ssm":["Folder: 3"],
         "heading_ssm":["Poster: \"Eye Level: Empire State Building\" (see book above)"],
         "unitdate_ssm":["undated"],
-        "_version_":1799318161271554048,
-        "timestamp":"2024-05-17T16:31:57.448Z"},
+        "_version_":1802094335028625408,
+        "timestamp":"2024-06-17T07:58:03.058Z"},
       {
         "id":"pr356_booneaspace_ecf51ac108efb8ec526b5639abbba1c9",
         "ead_ssi":"pr356_boone",
@@ -598,8 +600,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["\n      Mike Groisman\n    "],
         "unitdate_ssm":["2015 March 30"],
-        "_version_":1799318160999972864,
-        "timestamp":"2024-05-17T16:31:57.189Z"}]
+        "_version_":1802094334632263680,
+        "timestamp":"2024-06-17T07:58:02.68Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -607,7 +609,8 @@
       "repository_sim":[
         "nyhs",28],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Boone, Kurt B.",1],
       "date_range_sim":[
         "undated & other",28],
       "subject_sim":[

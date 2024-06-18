@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Billy Holden Collection of United Electrical Workers, Connecticut Files"],
         "unitid_ssm":["WAG.315"],
+        "creator_ssm":["Holden, Billy",
+          "Holden, Billy"],
         "unitdate_normal_ssm":["1940/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Holden, Billy",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1940s-1990s"],
         "language_ssm":["English"],
-        "_version_":1799805031990427648,
-        "timestamp":"2024-05-23T01:30:33.548Z"}]
+        "_version_":1802197195891408896,
+        "timestamp":"2024-06-18T11:12:58.821Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -70,7 +72,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Holden, Billy",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

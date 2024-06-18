@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn sheet music collection"],
         "unitid_ssm":["ARC.226"],
         "abstract_ssm":["The Brooklyn sheet music collection contains several pieces of sheet music published in Brooklyn and, to a lesser extent, New York City, by various composers, arrangers, and lyricists during the period circa 1830 to 1930."],
+        "creator_ssm":["Vanderveer, Catharine",
+          "Vanderveer, Catharine"],
         "unitdate_normal_ssm":["1820/1940"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Volumes (documents by form)",
@@ -74,8 +76,8 @@
         "unitdate_start_ssm":["1820"],
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, circa 1830 to 1930"],
-        "_version_":1799311422591598592,
-        "timestamp":"2024-05-17T14:44:50.941Z"}]
+        "_version_":1801959471549775872,
+        "timestamp":"2024-06-15T20:14:27.222Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Vanderveer, Catharine",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

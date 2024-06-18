@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles Keller Workshop of Graphic Art Papers"],
         "unitid_ssm":["TAM.445"],
         "abstract_ssm":["Charles Keller (1914-2006) was a painter and graphic artist who was a leading figure in the Workshop of Graphic Art.The collection includes internal papers, by-laws, correspondence, and prospectus of the Workshop of Graphic Art as well as many graphically adorned leaflets and fliers on a range of issues including peace, the Henry Wallace presidential campaign of 1948, China, and the Mundt-Nixon bill. Some of the prominent artists associated with this collection include Rockwell Kent, Jacob Lawrence, Ad Reinhardt, and Antonio Frasconi."],
+        "creator_ssm":["Workshop of Graphic Art (New York, N.Y.)",
+          "Workshop of Graphic Art (New York, N.Y.)"],
         "unitdate_normal_ssm":["1940/1959"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Workshop of Graphic Art (New York, N.Y.)",
@@ -82,8 +84,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, circa 1940s-1950s"],
-        "_version_":1799334110300209152,
-        "timestamp":"2024-05-17T20:45:27.627Z"},
+        "_version_":1802183098486489088,
+        "timestamp":"2024-06-18T07:28:54.488Z"},
       {
         "id":"tam_445aspace_33c9c0b6e742baa9e34f450de265609f",
         "ead_ssi":"tam_445",
@@ -96,11 +98,10 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: MSXOS 003, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: MSXOS 003, Folder: 1"],
         "heading_ssm":["Charles Keller original art"],
-        "_version_":1799334110349492224,
-        "timestamp":"2024-05-17T20:45:27.674Z"},
+        "_version_":1802183098845102080,
+        "timestamp":"2024-06-18T07:28:54.83Z"},
       {
         "id":"tam_445aspace_51ed5ba6721e43cb59ed1ccc1743f8f8",
         "ead_ssi":"tam_445",
@@ -113,11 +114,10 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-21",
-          "Folder: 1-21"],
+        "location_ssm":["Box: 1, Folder: 1-21"],
         "heading_ssm":["Graphics, original art, correspondence, office records"],
-        "_version_":1799334110319083520,
-        "timestamp":"2024-05-17T20:45:27.645Z"},
+        "_version_":1802183098503266304,
+        "timestamp":"2024-06-18T07:28:54.504Z"},
       {
         "id":"tam_445aspace_f77732ed8f1344de1a112c6bc2a05aa4",
         "ead_ssi":"tam_445",
@@ -130,11 +130,10 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 1-5",
-          "Folder: 1-5"],
+        "location_ssm":["Box: 2, Folder: 1-5"],
         "heading_ssm":["Original art, prints, graphics"],
-        "_version_":1799334110334812160,
-        "timestamp":"2024-05-17T20:45:27.66Z"}]
+        "_version_":1802183098828324864,
+        "timestamp":"2024-06-18T07:28:54.814Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -142,7 +141,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Workshop of Graphic Art (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",3],

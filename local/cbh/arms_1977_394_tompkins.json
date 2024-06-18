@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Alexander C. Tompkins military appointment and certificate"],
         "unitid_ssm":["1977.394"],
         "abstract_ssm":["This collection includes a document appointing Alexander C. Tompkins as a Private in the Westchester County-based 17th Regiment of the New York State Militia, dated 1864, and a certificate recognizing Tompkins as a contributor to the erection of the Washington Monument in Washington, D.C., circa 1880."],
+        "creator_ssm":["Tompkins, Alexander C.",
+          "Tompkins, Alexander C."],
         "unitdate_normal_ssm":["1864/1864"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Militia. Regiment, 17th"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1864"],
         "unitdate_ssm":["1864"],
         "language_ssm":["English"],
-        "_version_":1799256293734612992,
-        "timestamp":"2024-05-17T00:08:35.966Z"}]
+        "_version_":1801961543181533184,
+        "timestamp":"2024-06-15T20:47:22.884Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tompkins, Alexander C.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

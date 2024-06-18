@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Rachel Searcy"],
         "unittitle_ssm":["Records of La Maison Française"],
-        "unitid_ssm":["RG.37.2",
-          "/repositories/6/resources/3484"],
+        "unitid_ssm":["RG.37.2"],
         "abstract_ssm":["La Maison Française is an academic center devoted to programming that encourages cultural exchange with French-speaking communities. It is part of a network grouped with the Center for French Civilization and Culture that promotes academic and cultural activity of New York University's four major spheres of French Studies: La Maison Française, the Institute of French Studies, NYU-Paris, and the Department of French Literature, Thought and Culture. La Maison Française was founded in 1957, and its programming to promote cultural exchange with French-speaking populations includes lectures, performances, exhibitions, symposia, festivals, and podcasts. The Records of La Maison Française (dated 1962-1963) consist of two scrapbooks documenting the 1962 and 1963 Carnaval de Paris, a gala benefitting the center. Scrapbooks include photographic prints and newspaper clippings of the events."],
+        "creator_ssm":["New York University. La Maison Française",
+          "New York University. La Maison Française"],
         "unitdate_normal_ssm":["1962/1963"],
         "corpname_ssm":["New York University Archives",
           "New York University. La Maison Française",
@@ -67,15 +68,15 @@
         "unitdate_start_ssm":["1962"],
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, 1962-1963"],
-        "_version_":1784656894230528000,
-        "timestamp":"2023-12-07T20:37:23.625Z"},
+        "_version_":1800572464815669248,
+        "timestamp":"2024-05-31T12:48:34.523Z"},
       {
         "id":"rg_37_2aspace_0f5bba8a0064ae4c7c843816fe871879",
         "ead_ssi":"rg_37_2",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Records of La Maison Française"],
-        "collection_unitid_ssm":["RG.37.2/repositories/6/resources/3484"],
+        "collection_unitid_ssm":["RG.37.2"],
         "unittitle_ssm":["Carnaval de Paris Scrapbook"],
         "unitid_ssm":["/repositories/6/archival_objects/988867"],
         "unitdate_normal_ssm":["1963-05-21/1963-05-21"],
@@ -86,15 +87,15 @@
         "location_ssm":["Box: 2"],
         "heading_ssm":["Carnaval de Paris Scrapbook"],
         "unitdate_ssm":["1963-05-21"],
-        "_version_":1784656894285053952,
-        "timestamp":"2023-12-07T20:37:23.677Z"},
+        "_version_":1800572464840835072,
+        "timestamp":"2024-05-31T12:48:34.547Z"},
       {
         "id":"rg_37_2aspace_a370065b0bc20a8731fb4122a789b9bc",
         "ead_ssi":"rg_37_2",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Records of La Maison Française"],
-        "collection_unitid_ssm":["RG.37.2/repositories/6/resources/3484"],
+        "collection_unitid_ssm":["RG.37.2"],
         "unittitle_ssm":["Carnaval de Paris Scrapbook"],
         "unitid_ssm":["/repositories/6/archival_objects/988866"],
         "unitdate_normal_ssm":["1962-05-23/1962-05-23"],
@@ -105,8 +106,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Carnaval de Paris Scrapbook"],
         "unitdate_ssm":["1962-05-23"],
-        "_version_":1784656894256742400,
-        "timestamp":"2023-12-07T20:37:23.65Z"}]
+        "_version_":1800572464829300736,
+        "timestamp":"2024-05-31T12:48:34.536Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -114,7 +115,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. La Maison Française",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",2],

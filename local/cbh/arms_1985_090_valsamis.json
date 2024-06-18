@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ariadne Valsamis notes on Montauk history"],
         "unitid_ssm":["1985.090"],
         "abstract_ssm":["The collection contains 26 pages of handwritten notes taken while Ariadne Valsamis was a volunteer performing research for the Brooklyn Historical Society's archives staff. Topics covered include: the Montauk Indians of Long Island, Lion Gardiner, Wyandanch, and Arthur W. Benson. Benson was taken to court by the Montauks in an attempt to retain their tribal lands that Benson purchased in 1885."],
+        "creator_ssm":["Valsamis, Ariadne",
+          "Valsamis, Ariadne"],
         "unitdate_normal_ssm":["1970/1990"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Notes"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, circa 1980"],
         "language_ssm":["English"],
-        "_version_":1799311436733743104,
-        "timestamp":"2024-05-17T14:45:04.429Z"}]
+        "_version_":1801963095954817024,
+        "timestamp":"2024-06-15T21:12:03.724Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Valsamis, Ariadne",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

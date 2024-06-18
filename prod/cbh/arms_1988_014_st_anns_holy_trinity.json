@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Robert Vadheim collection on the renovation of St. Ann and the Holy Trinity Church"],
         "unitid_ssm":["1988.014"],
         "abstract_ssm":["Letters, clippings, publications, and documents regarding the renovation of the St. Ann and the Holy Trinity Church in Brooklyn Heights, collected by Dr. Robert Vadheim."],
+        "creator_ssm":["Vadheim, Robert",
+          "Vadheim, Robert"],
         "unitdate_normal_ssm":["1978/1982"],
         "corpname_ssm":["Brooklyn Historical Society",
           "St. Ann and the Holy Trinity (Brooklyn, New York, N.Y.)"],
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1982"],
         "unitdate_ssm":["Inclusive, 1978-1982"],
         "language_ssm":["English"],
-        "_version_":1775224598726443008,
-        "timestamp":"2023-08-25T17:55:05.658Z"}]
+        "_version_":1800779445054734336,
+        "timestamp":"2024-06-02T19:38:26.261Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Vadheim, Robert",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

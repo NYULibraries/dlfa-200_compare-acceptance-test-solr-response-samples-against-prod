@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Newtown record extracts"],
         "unitid_ssm":["1977.303"],
         "abstract_ssm":["The collection consists of newspaper clippings from an unidentified newspaper featuring record extracts from the town of Newtown, Long Island, dated 1734 to 1759. The extracts consist almost entirely of indentures, and include references to African-Americans."],
+        "creator_ssm":["Newtown, Long Island",
+          "Newtown, Long Island"],
         "unitdate_normal_ssm":["1734/1759"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Clippings (information artifacts)",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1759"],
         "unitdate_ssm":["Inclusive, 1734-1759"],
         "language_ssm":["English"],
-        "_version_":1783294432028655616,
-        "timestamp":"2023-11-22T19:41:38.416Z"}]
+        "_version_":1800701505005682688,
+        "timestamp":"2024-06-01T22:59:36.838Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Newtown, Long Island",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["Comprehensive Employment Training Act (CETA) Artists Organization Records"],
         "unitid_ssm":["WAG.133"],
         "abstract_ssm":["Established in 1973, the Comprehensive Employment Training Act (CETA) was designed to provide short-term positions for unemployed artists. In New York, the program was funded by the New York City Department of Employment under the CETA Title VI.  The CETA Artists Organization was composed of CETA artists in New York City who fought for job security, the continuation and expansion of CETA artist projects, and workers rights.  This collection contains newspaper articles, correspondence, papers from the Department of Cultural Affairs, position papers, speeches, posters and flyers, papers from the Cultural Council Foundation, and papers from the Department of Employment."],
+        "creator_ssm":["Comprehensive Employment Training Act Artists Organization",
+          "Comprehensive Employment Training Act Artists Organization"],
         "unitdate_normal_ssm":["1973/1986"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Comprehensive Employment Training Act Artists Organization"],
@@ -61,8 +63,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, circa 1970s-1980s"],
-        "_version_":1799802158498971648,
-        "timestamp":"2024-05-23T00:44:53.173Z"},
+        "_version_":1802195030771761152,
+        "timestamp":"2024-06-18T10:38:34.002Z"},
       {
         "id":"wag_133aspace_96270eff8baf4b6ed4b9238cb40ef591",
         "ead_ssi":"wag_133",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed"],
-        "_version_":1799802158518894592,
-        "timestamp":"2024-05-23T00:44:53.192Z"}]
+        "_version_":1802195030780149760,
+        "timestamp":"2024-06-18T10:38:34.01Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Comprehensive Employment Training Act Artists Organization",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

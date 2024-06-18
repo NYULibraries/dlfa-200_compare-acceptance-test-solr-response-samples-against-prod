@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Albert Osborn family papers"],
         "unitid_ssm":["1977.563"],
         "abstract_ssm":["This collection consists of documents dated 1849-1892: correspondence between Albert Osborn and his daughter, Anna; a legal agreement between Albert Osborn and Samuel Smith; various financial notes; and the last will and testament of Adeline Osborn."],
+        "creator_ssm":["Osborn, Adeline",
+          "Osborn, Anna Maria",
+          "Osborn, Albert",
+          "Osborn family",
+          "Osborn family",
+          "Osborn, Adeline",
+          "Osborn, Anna Maria",
+          "Osborn, Albert"],
         "unitdate_normal_ssm":["1849/1892"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Osborn family",
@@ -83,8 +91,8 @@
         "unitdate_end_ssm":["1892"],
         "unitdate_ssm":["Inclusive, 1849-1892"],
         "language_ssm":["English"],
-        "_version_":1799312356132519936,
-        "timestamp":"2024-05-17T14:59:41.236Z"}]
+        "_version_":1801961961637806080,
+        "timestamp":"2024-06-15T20:54:01.955Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +100,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Osborn family",1,
+        "Osborn, Adeline",1,
+        "Osborn, Albert",1,
+        "Osborn, Anna Maria",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

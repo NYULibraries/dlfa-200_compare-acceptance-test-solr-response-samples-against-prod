@@ -47,6 +47,10 @@
         "unittitle_ssm":["Wladimir B. Krzyzanowski memorial collection"],
         "unitid_ssm":["1973.250"],
         "abstract_ssm":["This collection contains a small assortment of items spanning 1933 to 1961 and celebrating the life and military career of Wladimir Krzyzanowski, and concerning Krzyzanowski's burial at Green-Wood Cemetery and subsequent transfer to Arlington National Cemetery."],
+        "creator_ssm":["American Legion. Frank J. Dombrowski Post No. 965 (Brooklyn, New York, N.Y.)",
+          "National General Krzyzanowski Memorial Committee",
+          "American Legion. Frank J. Dombrowski Post No. 965 (Brooklyn, New York, N.Y.)",
+          "National General Krzyzanowski Memorial Committee"],
         "unitdate_normal_ssm":["1933/1961"],
         "corpname_ssm":["Brooklyn Historical Society",
           "American Legion. Frank J. Dombrowski Post No. 965 (Brooklyn, New York, N.Y.)",
@@ -82,8 +86,8 @@
         "unitdate_end_ssm":["1961"],
         "unitdate_ssm":["Inclusive, 1933-1961"],
         "language_ssm":["English"],
-        "_version_":1799256493981171712,
-        "timestamp":"2024-05-17T00:11:46.937Z"}]
+        "_version_":1801960125698670592,
+        "timestamp":"2024-06-15T20:24:51.067Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +95,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "American Legion. Frank J. Dombrowski Post No. 965 (Brooklyn, New York, N.Y.)",1,
+        "National General Krzyzanowski Memorial Committee",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

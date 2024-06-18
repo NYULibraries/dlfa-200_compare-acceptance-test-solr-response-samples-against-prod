@@ -47,6 +47,10 @@
         "unittitle_ssm":["Ezra Stiles diary extracts on the Battle of Long Island"],
         "unitid_ssm":["1973.291"],
         "abstract_ssm":["Ezra Stiles (1727-1795) diary extracts on the Battle of Long Island, transcribed by Franklin B. Dexter in 1868."],
+        "creator_ssm":["Stiles, Ezra",
+          "Dexter, Franklin B.",
+          "Stiles, Ezra",
+          "Dexter, Franklin B."],
         "unitdate_normal_ssm":["1776/1776"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Diaries"],
@@ -68,8 +72,8 @@
         "unitdate_end_ssm":["1776"],
         "unitdate_ssm":["Inclusive, 1776"],
         "language_ssm":["English"],
-        "_version_":1799256301555941376,
-        "timestamp":"2024-05-17T00:08:43.426Z"}]
+        "_version_":1801960185918390272,
+        "timestamp":"2024-06-15T20:25:48.497Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +81,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dexter, Franklin B.",1,
+        "Stiles, Ezra",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

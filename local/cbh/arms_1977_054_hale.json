@@ -47,6 +47,8 @@
         "unittitle_ssm":["Nathan Hale letter"],
         "unitid_ssm":["1977.054"],
         "abstract_ssm":["One typescript copy of a letter written by Nathan Hale to his brother, Enoch Hale, on August 20, 1776, thought to be the last letter written by Nathan Hale before his execution by the British."],
+        "creator_ssm":["Hale, Nathan",
+          "Hale, Nathan"],
         "unitdate_normal_ssm":["1766/1910"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, circa 1776-1900"],
         "language_ssm":["English"],
-        "_version_":1799312463326347264,
-        "timestamp":"2024-05-17T15:01:23.464Z"}]
+        "_version_":1801960611883515904,
+        "timestamp":"2024-06-15T20:32:34.729Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hale, Nathan",1],
       "date_range_sim":[
         "1701-1800",1,
         "1901-2000",1],

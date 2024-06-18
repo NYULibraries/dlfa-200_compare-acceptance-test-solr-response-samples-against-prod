@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Fons Iannelli photographs"],
         "unitid_ssm":["PR 416"],
         "abstract_ssm":["The collection includes 82 black and white photographs by photojournalist Fons Iannelli (1917-1988).  Most of these photographs (41) are of women in labor, holding newborn children, and what appear to be related photographs of couples at work, at home, and shopping in the period leading up to the childbirths. The other photographs are of the Rutland Dress Company, people window shopping, Lincoln Center lobby, a street near Pennsylvania Station in Midtown Manhattan, and various other views."],
+        "creator_ssm":["Iannelli, Fons",
+          "Iannelli, Fons"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Black-and-white photographs."],
         "geogname_ssm":["New York (N.Y.) -- Photographs."],
@@ -62,8 +64,8 @@
         "material_type_ssm":["Black-and-white photographs."],
         "heading_ssm":["Fons Iannelli photographs"],
         "unitdate_ssm":["Inclusive, 1947-1970s?"],
-        "_version_":1799319232899448832,
-        "timestamp":"2024-05-17T16:48:59.432Z"},
+        "_version_":1802094656006127616,
+        "timestamp":"2024-06-17T08:03:09.166Z"},
       {
         "id":"pr416_fons_iannelliaspace_ab63c0099981a8034911d844107af0fd",
         "ead_ssi":"pr416_fons_iannelli",
@@ -78,8 +80,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Fons Iannelli photographs (82)"],
-        "_version_":1799319232914128896,
-        "timestamp":"2024-05-17T16:48:59.446Z"}]
+        "_version_":1802094656023953408,
+        "timestamp":"2024-06-17T08:03:09.183Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Iannelli, Fons",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

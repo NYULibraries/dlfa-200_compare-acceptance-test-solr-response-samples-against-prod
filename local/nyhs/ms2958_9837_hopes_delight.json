@@ -47,6 +47,8 @@
         "unittitle_ssm":["Hopes Delight (Brig) log book"],
         "unitid_ssm":["AHMC - Hopes Delight (Brig)"],
         "abstract_ssm":["Logbook of the brig Hopes Delight kept by Jonathan Chase on two voyages: New York to St. Croix and back (April-May 1825); and New York to Madeira to Oporto and back to New York (June-November 1825). Most entries pertain to the weather and routine shipkeeping. The last few entries reveal that upon arrival back in New York from Oporto, the mate and crew deserted the ship, leaving Chase alone to get the cargo unloaded and decks cleaned. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Hopes Delight (Brig) Log Book"],
+        "creator_ssm":["Chase, Jonathan",
+          "Chase, Jonathan"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Chase, Jonathan"],
         "collection_ssm":["Hopes Delight (Brig) log book"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Hopes Delight (Brig) log book"],
         "unitdate_ssm":["Inclusive, 1825"],
-        "_version_":1799324792407457792,
-        "timestamp":"2024-05-17T18:17:21.392Z"}]
+        "_version_":1802083778875621376,
+        "timestamp":"2024-06-17T05:10:15.926Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chase, Jonathan",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Leon Louis Dolice etchings"],
         "unitid_ssm":["PR 444"],
         "abstract_ssm":["The collection holds 6 etchings of New York City buildings and interior spaces by Leon Louis Dolice."],
+        "creator_ssm":["Dolice, Leon Louis, 1892-1960",
+          "Dolice, Leon Louis, 1892-1960"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Etchings (prints)"],
         "geogname_ssm":["New York (N.Y.) -- Pictorial works."],
@@ -60,8 +62,8 @@
         "material_type_ssm":["Etchings (prints)"],
         "heading_ssm":["Leon Louis Dolice etchings"],
         "unitdate_ssm":["Inclusive, 1922, undated"],
-        "_version_":1799318587465269248,
-        "timestamp":"2024-05-17T16:38:43.897Z"},
+        "_version_":1802094803389775872,
+        "timestamp":"2024-06-17T08:05:29.722Z"},
       {
         "id":"pr444_leon_louis_dolceaspace_08fc9a0bde4e3cd80f50a9993ba70625",
         "ead_ssi":"pr444_leon_louis_dolce",
@@ -77,8 +79,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["The Little Church Around the Corner"],
         "unitdate_ssm":["undated"],
-        "_version_":1799318587508260864,
-        "timestamp":"2024-05-17T16:38:43.939Z"},
+        "_version_":1802094803457933312,
+        "timestamp":"2024-06-17T08:05:29.787Z"},
       {
         "id":"pr444_leon_louis_dolceaspace_7a36e926c263ce27e8b8907a2849f701",
         "ead_ssi":"pr444_leon_louis_dolce",
@@ -94,8 +96,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Oxford Book shop NYC"],
         "unitdate_ssm":["1922"],
-        "_version_":1799318587522940928,
-        "timestamp":"2024-05-17T16:38:43.953Z"},
+        "_version_":1802094803481001984,
+        "timestamp":"2024-06-17T08:05:29.809Z"},
       {
         "id":"pr444_leon_louis_dolceaspace_ae3cfc82552acea9e59c92644fc9c1dd",
         "ead_ssi":"pr444_leon_louis_dolce",
@@ -111,8 +113,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["The East River N.Y."],
         "unitdate_ssm":["undated"],
-        "_version_":1799318587494629376,
-        "timestamp":"2024-05-17T16:38:43.926Z"},
+        "_version_":1802094803443253248,
+        "timestamp":"2024-06-17T08:05:29.773Z"},
       {
         "id":"pr444_leon_louis_dolceaspace_b4d6539c0caaa7b4f725b08412e36067",
         "ead_ssi":"pr444_leon_louis_dolce",
@@ -128,8 +130,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["China-town NYC / [on verso, untitled work depicting interior display cases]"],
         "unitdate_ssm":["1922"],
-        "_version_":1799318587536572416,
-        "timestamp":"2024-05-17T16:38:43.965Z"},
+        "_version_":1802094803499876352,
+        "timestamp":"2024-06-17T08:05:29.827Z"},
       {
         "id":"pr444_leon_louis_dolceaspace_b74ae2b9aa3c58cd215e41ed3fdf452b",
         "ead_ssi":"pr444_leon_louis_dolce",
@@ -145,8 +147,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Chrysler Building"],
         "unitdate_ssm":["undated"],
-        "_version_":1799318587479949312,
-        "timestamp":"2024-05-17T16:38:43.912Z"}]
+        "_version_":1802094803419136000,
+        "timestamp":"2024-06-17T08:05:29.75Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -154,7 +156,8 @@
       "repository_sim":[
         "nyhs",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dolice, Leon Louis, 1892-1960",1],
       "date_range_sim":[
         "undated & other",6],
       "subject_sim":[],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Teun Voeten photographs"],
         "unitid_ssm":["PR 426"],
         "abstract_ssm":["The collection holds 22 black-and-white photographs taken by photojournalist Teun Voeten in 1994-95, and used for his 1996 publication \"Tunnelmensen\" (in the original Dutch) or \"Tunnel People\" in the English translation. These photographs document the lives of a community of people who resided at the time in the Amtrak railroad tunnels under Riverside Park in upper Manhattan."],
+        "creator_ssm":["Voeten, Teun",
+          "Voeten, Teun"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Black-and-white photographs.",
           "Social documentary photography."],
@@ -63,8 +65,8 @@
           "Social documentary photography."],
         "heading_ssm":["Teun Voeten photographs"],
         "unitdate_ssm":["Inclusive, 1994-1995"],
-        "_version_":1799324606066065408,
-        "timestamp":"2024-05-17T18:14:23.682Z"},
+        "_version_":1802094707015155712,
+        "timestamp":"2024-06-17T08:03:57.812Z"},
       {
         "id":"pr426_teun_voetenaspace_da3a94c2bcfa73f4928bd9b8303b459d",
         "ead_ssi":"pr426_teun_voeten",
@@ -80,8 +82,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Teun Voeten \"Tunnel People\" photographs"],
         "unitdate_ssm":["Inclusive, 1994-1995"],
-        "_version_":1799324606091231232,
-        "timestamp":"2024-05-17T18:14:23.707Z"}]
+        "_version_":1802094707036127232,
+        "timestamp":"2024-06-17T08:03:57.831Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Voeten, Teun",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

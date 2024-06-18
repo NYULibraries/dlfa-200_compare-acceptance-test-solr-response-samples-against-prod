@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Limbert family collection"],
         "unitid_ssm":["ARC.055"],
         "abstract_ssm":["The Limbert family collection contains three autograph albums bearing handwritten inscriptions. One album, belonging to Anna Cristina Thorer, contains entries from friends for the years 1886 and 1889. The other two albums belong to Anna's daughter, Christina Limbert. Of these, one contains entries from family members and friends for the period January 1907 to May 1908, and the other bears the inscription \"To Crissie, from Aunt Agnes, September 30th, 1907\" and contains entries from friends and classmates spanning the period November 1908 to January 1909."],
+        "creator_ssm":["Limbert, Christina",
+          "Thorer, Anna Cristina",
+          "Limbert, Christina",
+          "Thorer, Anna Cristina"],
         "unitdate_normal_ssm":["1886/1909"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Limbert family"],
@@ -72,8 +76,8 @@
         "unitdate_start_ssm":["1886"],
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["Inclusive, 1886-1909"],
-        "_version_":1799311684368596992,
-        "timestamp":"2024-05-17T14:49:00.592Z"}]
+        "_version_":1801958826511958016,
+        "timestamp":"2024-06-15T20:04:12.066Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +85,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Limbert, Christina",1,
+        "Thorer, Anna Cristina",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

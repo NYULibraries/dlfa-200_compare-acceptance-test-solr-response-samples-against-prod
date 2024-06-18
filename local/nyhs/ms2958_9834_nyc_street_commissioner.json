@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Receipts for sale of property for unpaid assessments"],
         "unitid_ssm":["AHMC - New York City Street Commissioner"],
         "abstract_ssm":["Two receipts issued by the Street Commissioner's Office of New York City for property sold at public auction in satisfaction of unpaid assessments. A receipt dated June 26, 1843, is for the address 131 Forty-second Street, owned by O. Holmes and R. Stebbins, and sold to George A. Hoyt; subsequent assignments recorded on the back of the certificate are dated 1845 and 1848. A second receipt dated April 22, 1853, is for the address 16 Sixteenth Street, owned by Martin Hill, and sold to the Corporation of New York; a subsequent assignment in 1853 is recorded on the back of the certificate. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Receipts for sale of property for unpaid assessments"],
+        "creator_ssm":["New York (N.Y.). Street Commissioner's Office",
+          "New York (N.Y.). Street Commissioner's Office"],
         "corpname_ssm":["New-York Historical Society",
           "New York (N.Y.). Street Commissioner's Office"],
         "collection_ssm":["Receipts for sale of property for unpaid assessments"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Receipts for sale of property for unpaid assessments"],
         "unitdate_ssm":["Inclusive, 1843-1853"],
         "language_ssm":["English"],
-        "_version_":1799325476912627712,
-        "timestamp":"2024-05-17T18:28:14.187Z"}]
+        "_version_":1802083767088578560,
+        "timestamp":"2024-06-17T05:10:04.684Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (N.Y.). Street Commissioner's Office",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

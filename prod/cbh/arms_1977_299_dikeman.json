@@ -47,6 +47,8 @@
         "unittitle_ssm":["Josiah Dikeman papers"],
         "unitid_ssm":["1977.299"],
         "abstract_ssm":["Account books and receipts dated from 1790 to 1819 and pertaining to the affairs of Josiah Dikeman, a Brooklyn tailor."],
+        "creator_ssm":["Dikeman, Josiah",
+          "Dikeman, Josiah"],
         "unitdate_normal_ssm":["1790/1819"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Financial records",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1819"],
         "unitdate_ssm":["Inclusive, 1790-1819"],
         "language_ssm":["English"],
-        "_version_":1783294114244067328,
-        "timestamp":"2023-11-22T19:36:35.353Z"}]
+        "_version_":1800701504938573824,
+        "timestamp":"2024-06-01T22:59:36.773Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dikeman, Josiah",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

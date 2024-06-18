@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":10,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Fred B. Renwick Papers"],
         "unitid_ssm":["MC.268"],
         "abstract_ssm":["The Fred B. Renwick Papers contain materials related to the career of Fred Blackwell Renwick, a faculty member of New York University's Leonard N. Stern Business School from 1965 to 2001. Collection materials date between 1966 and 2015 and include some biographical materials, files related to Renwick's research and writings, his coursework, some coursework of other Stern professors of finance, as well as one file of student work."],
+        "creator_ssm":["Renwick, Fred B. (Fred Blackwell), 1930-2014",
+          "Renwick, Fred B. (Fred Blackwell), 1930-2014"],
         "unitdate_normal_ssm":["1966/2015",
           "1982/2001"],
         "corpname_ssm":["New York University Archives",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["2015",
           "2001"],
         "unitdate_ssm":["Inclusive, 1966-2015 ; 1982-2001"],
-        "_version_":1799247640842469376,
-        "timestamp":"2024-05-16T21:51:03.925Z"},
+        "_version_":1801949504429096960,
+        "timestamp":"2024-06-15T17:36:01.835Z"},
       {
         "id":"mc_268aspace_b9dbb9fbae0e5f825a02eb28ab10255b",
         "ead_ssi":"mc_268",
@@ -90,8 +92,8 @@
         "unitdate_start_ssm":["1966"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 1966-2001"],
-        "_version_":1799247640887558144,
-        "timestamp":"2024-05-16T21:51:03.969Z"},
+        "_version_":1801949504464748544,
+        "timestamp":"2024-06-15T17:36:01.869Z"},
       {
         "id":"mc_268aspace_cca1ccfad2d89a4137a1011a672c6abd",
         "ead_ssi":"mc_268",
@@ -112,8 +114,8 @@
         "unitdate_start_ssm":["1988"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 1988-2001"],
-        "_version_":1799247640905383936,
-        "timestamp":"2024-05-16T21:51:03.986Z"},
+        "_version_":1801949504488865792,
+        "timestamp":"2024-06-15T17:36:01.892Z"},
       {
         "id":"mc_268aspace_fbf95f5582a548b6a49e433127337f78",
         "ead_ssi":"mc_268",
@@ -132,8 +134,8 @@
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 1969-2001"],
-        "_version_":1799247640869732352,
-        "timestamp":"2024-05-16T21:51:03.952Z"}]
+        "_version_":1801949504449019904,
+        "timestamp":"2024-06-15T17:36:01.854Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -141,7 +143,8 @@
       "repository_sim":[
         "archives",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Renwick, Fred B. (Fred Blackwell), 1930-2014",1],
       "date_range_sim":[
         "1901-2000",4,
         "2001-2100",4],

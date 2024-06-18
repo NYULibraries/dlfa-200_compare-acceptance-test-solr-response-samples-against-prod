@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Isaac Gasnick Papers"],
         "unitid_ssm":["WAG.338"],
         "abstract_ssm":["The Isaac Gasnick Papers contain papers related to Gasnick's involvement with the American Labor Party (ALP). Isaac Walter Gasnick was the Membership Director and electoral delegate for the ALP's 8th Assembly District in the late 1940s and early 1950s. The collection includes an assortment of American Labor Party correspondence, delegate certificates, and primary petitions related to local New York State elections between 1949 and 1953. Additionally, the collection contains Gasnick's personal account books, deposit slips between 1938 and 1959. Also included in the collection are several small photographs of Gasnick."],
+        "creator_ssm":["Gasnick, Isaac Walter",
+          "Gasnick, Isaac Walter"],
         "unitdate_normal_ssm":["1939/1959"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "American Labor Party"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1939"],
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, 1939-1959"],
-        "_version_":1799805121509457920,
-        "timestamp":"2024-05-23T01:31:58.92Z"}]
+        "_version_":1802197254589644800,
+        "timestamp":"2024-06-18T11:13:54.8Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gasnick, Isaac Walter",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

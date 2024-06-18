@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>Subway Therapy</em> collection"],
         "unitid_ssm":["MS 3025"],
         "abstract_ssm":["The collection includes about 5,600 of the approximately 20,000 sticky notes from artist Matthew \"Levee\" Chavez's work Subway Therapy. The work was initiated by Chavez on 9 November 2016 and it ended on 16 December 2016. The work consisted of notes posted by individuals to the wall of the New York City subway station at Sixth Avenue and 14th Street, expressing their emotions in response to the U.S. presidential election held on 8 November 2016, won by Donald J. Trump."],
+        "creator_ssm":["Chavez, Matthew",
+          "Chavez, Matthew"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Chavez, Matthew",
           "Chavez, Matthew"],
@@ -62,8 +64,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Subway Therapy collection"],
         "unitdate_ssm":["Inclusive, 2016"],
-        "_version_":1799318710068969472,
-        "timestamp":"2024-05-17T16:40:40.822Z"}]
+        "_version_":1802084977885577216,
+        "timestamp":"2024-06-17T05:29:19.391Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -71,7 +73,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chavez, Matthew",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[

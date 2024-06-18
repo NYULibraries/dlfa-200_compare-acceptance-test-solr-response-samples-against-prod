@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the International Sunshine Society, Department of the Blind"],
         "unitid_ssm":["MS 3055"],
         "abstract_ssm":["A small collection of records from the International Sunshine Society, Department of the Blind. The International Sunshine Society, a charity incorporated in 1900 \"to bring the sunshine of happiness to the greatest possible number of hearts,\" extended its work to the care and education of the sightless through its homes for \"blind babies\" (i.e., minors) at Dyker Heights, Brooklyn, and Summit, New Jersey, among other locations. Monthly meeting minutes for 1917 include reports on activities and progress at the homes; four items--including two in Braille--were written by Lillian Butler (born ca. 1903), a resident of the Dyker Heights home. Includes minutes of the International Sunshine Society's annual conventions for 1926–1928."],
+        "creator_ssm":["International Sunshine Society. Department of the Blind",
+          "International Sunshine Society. Department of the Blind"],
         "corpname_ssm":["New-York Historical Society",
           "International Sunshine Society. Department of the Blind",
           "International Sunshine Society. Department of the Blind"],
@@ -74,8 +76,8 @@
         "heading_ssm":["Records of the International Sunshine Society, Department of the Blind"],
         "unitdate_ssm":["Inclusive, 1917, 1926-1928"],
         "language_ssm":["English"],
-        "_version_":1775220774418776064,
-        "timestamp":"2023-08-25T16:54:18.514Z"},
+        "_version_":1800998398280597504,
+        "timestamp":"2024-06-05T05:38:36.329Z"},
       {
         "id":"ms3055_sunshineaspace_ref10_roe",
         "ead_ssi":"ms3055_sunshine",
@@ -88,12 +90,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1 (of 1), Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1 (of 1), Folder: 1"],
         "heading_ssm":["Minutes. International Sunshine Society. Department of the Blind."],
         "unitdate_ssm":["1917 January-June"],
-        "_version_":1775220774454427648,
-        "timestamp":"2023-08-25T16:54:18.548Z"},
+        "_version_":1800998398296326144,
+        "timestamp":"2024-06-05T05:38:36.344Z"},
       {
         "id":"ms3055_sunshineaspace_ref11_wk4",
         "ead_ssi":"ms3055_sunshine",
@@ -106,12 +107,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1 (of 1), Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1 (of 1), Folder: 2"],
         "heading_ssm":["Minutes. International Sunshine Society. Department of the Blind."],
         "unitdate_ssm":["1917 July-December"],
-        "_version_":1775220774492176384,
-        "timestamp":"2023-08-25T16:54:18.584Z"},
+        "_version_":1800998398312054784,
+        "timestamp":"2024-06-05T05:38:36.359Z"},
       {
         "id":"ms3055_sunshineaspace_ref12_p6y",
         "ead_ssi":"ms3055_sunshine",
@@ -124,12 +124,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1 (of 1), Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1 (of 1), Folder: 3"],
         "heading_ssm":["Minutes. International Sunshine Society. Annual convention, [30th] (Batavia, N.Y.)."],
         "unitdate_ssm":["1926 May 17-24"],
-        "_version_":1775220774528876544,
-        "timestamp":"2023-08-25T16:54:18.619Z"},
+        "_version_":1800998398335123456,
+        "timestamp":"2024-06-05T05:38:36.381Z"},
       {
         "id":"ms3055_sunshineaspace_ref13_fap",
         "ead_ssi":"ms3055_sunshine",
@@ -142,12 +141,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1 (of 1), Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 1 (of 1), Folder: 4"],
         "heading_ssm":["Minutes. International Sunshine Society. Annual convention, 31st (Waukesha, Wis.)."],
         "unitdate_ssm":["1927 May 17-20"],
-        "_version_":1775220774582353921,
-        "timestamp":"2023-08-25T16:54:18.67Z"},
+        "_version_":1800998398352949248,
+        "timestamp":"2024-06-05T05:38:36.398Z"},
       {
         "id":"ms3055_sunshineaspace_ref14_tlc",
         "ead_ssi":"ms3055_sunshine",
@@ -162,8 +160,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1 (of 1)"],
         "heading_ssm":["[binders]"],
-        "_version_":1775220774677774336,
-        "timestamp":"2023-08-25T16:54:18.761Z"},
+        "_version_":1800998398384406528,
+        "timestamp":"2024-06-05T05:38:36.428Z"},
       {
         "id":"ms3055_sunshineaspace_ref16_d8p",
         "ead_ssi":"ms3055_sunshine",
@@ -176,12 +174,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1 (of 1), Folder: 5",
-          "Folder: 5"],
+        "location_ssm":["Box: 1 (of 1), Folder: 5"],
         "heading_ssm":["Minutes. International Sunshine Society. Annual convention, 32nd (Kansas City, Mo.)."],
         "unitdate_ssm":["1928 May 15-18"],
-        "_version_":1775220774629539840,
-        "timestamp":"2023-08-25T16:54:18.715Z"}]
+        "_version_":1800998398370775040,
+        "timestamp":"2024-06-05T05:38:36.415Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -189,7 +186,8 @@
       "repository_sim":[
         "nyhs",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "International Sunshine Society. Department of the Blind",1],
       "date_range_sim":[
         "undated & other",7],
       "subject_sim":[

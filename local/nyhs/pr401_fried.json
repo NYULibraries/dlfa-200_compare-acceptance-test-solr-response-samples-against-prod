@@ -47,6 +47,8 @@
         "unittitle_ssm":["Louis H. Fried photographs"],
         "unitid_ssm":["PR 401"],
         "abstract_ssm":["This collection consists of 47 black and white photographs of New York City.  The photographs were taken by amateur photographer Louis H. Fried between 1930 and 1939."],
+        "creator_ssm":["Fried, Louis H.",
+          "Fried, Louis H."],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Black-and-white photographs."],
         "geogname_ssm":["Central Park (New York, N.Y.)  -- Photographs."],
@@ -64,8 +66,8 @@
         "heading_ssm":["Louis H. Fried photographs"],
         "unitdate_ssm":["Inclusive, 1930-1939"],
         "language_ssm":["English"],
-        "_version_":1799331169352810496,
-        "timestamp":"2024-05-17T19:58:42.921Z"},
+        "_version_":1802094585538674688,
+        "timestamp":"2024-06-17T08:02:01.963Z"},
       {
         "id":"pr401_friedaspace_a2d368a0d5dab0a1ca9b98d66b43fc2a",
         "ead_ssi":"pr401_fried",
@@ -81,8 +83,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Photographs"],
         "unitdate_ssm":["Inclusive, 1930-1939"],
-        "_version_":1799331169376927744,
-        "timestamp":"2024-05-17T19:58:42.944Z"}]
+        "_version_":1802094585557549056,
+        "timestamp":"2024-06-17T08:02:01.981Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +92,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fried, Louis H.",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

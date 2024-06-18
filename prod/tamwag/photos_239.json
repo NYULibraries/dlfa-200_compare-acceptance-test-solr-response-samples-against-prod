@@ -47,6 +47,8 @@
         "unittitle_ssm":["Marion Nestle Higley Hill Camp Photographs"],
         "unitid_ssm":["PHOTOS.239"],
         "abstract_ssm":["This collection contains Marion Nestle's photographs of Higley Hill Camp in Vermont, taken in 1946-1948."],
+        "creator_ssm":["Nestle, Marion",
+          "Nestle, Marion"],
         "unitdate_normal_ssm":["1946/1948"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Higley Hill Camp (Wilmington, Vt.)"],
@@ -73,8 +75,8 @@
         "unitdate_start_ssm":["1946"],
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["Inclusive, 1946-1948"],
-        "_version_":1775222930892914688,
-        "timestamp":"2023-08-25T17:28:35.087Z"},
+        "_version_":1801190941477830656,
+        "timestamp":"2024-06-07T08:38:59.83Z"},
       {
         "id":"photos_239aspace_ref15",
         "ead_ssi":"photos_239",
@@ -93,8 +95,8 @@
         "unitdate_start_ssm":["1946"],
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["Inclusive, 1946-1948"],
-        "_version_":1775222930936954880,
-        "timestamp":"2023-08-25T17:28:35.13Z"}]
+        "_version_":1801190941499850752,
+        "timestamp":"2024-06-07T08:38:59.852Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -102,7 +104,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nestle, Marion",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

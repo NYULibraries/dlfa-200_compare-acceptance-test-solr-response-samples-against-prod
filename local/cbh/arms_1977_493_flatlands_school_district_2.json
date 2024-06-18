@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Garrit S.K. Remsen accounts and collection records for Flatlands School District No.2"],
         "unitid_ssm":["1977.493"],
         "abstract_ssm":["Handwritten financial accounts and collection records for School District No. 2 in the town of Flatlands in Brooklyn, dated 1894-1895 and recorded by Collector Garrit S.K. Remsen."],
+        "creator_ssm":["Remsen, Garrit S. K.",
+          "Remsen, Garrit S. K."],
         "unitdate_normal_ssm":["1894/1895"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Flatlands School District No. 2 (Flatlands, New York, N.Y.)"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1895"],
         "unitdate_ssm":["Inclusive, 1894-1895"],
         "language_ssm":["English"],
-        "_version_":1799256291096395776,
-        "timestamp":"2024-05-17T00:08:33.451Z"}]
+        "_version_":1801961788610183168,
+        "timestamp":"2024-06-15T20:51:16.942Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Remsen, Garrit S. K.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

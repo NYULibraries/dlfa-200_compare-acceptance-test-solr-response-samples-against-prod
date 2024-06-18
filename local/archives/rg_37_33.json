@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Records of the King Juan Carlos I of Spain Center"],
         "unitid_ssm":["RG.37.33"],
         "abstract_ssm":["The King Juan Carlos I of Spain Center promotes research and teaching on Spain and the Spanish-speaking world at New York University. The Records of the King Juan Carlos I of Spain Center contains a 2011 publication, Centelles in_edit_¡oh!, related to a photography exhibition of Spanish journalist Agustí Centelles Ossó. This exhibition was jointly sponsored by the Spanish Ministry of Culture and the King Juan Carlos I of Spain Center at NYU."],
+        "creator_ssm":["New York University. King Juan Carlos I of Spain Center",
+          "Centelles, Agustí, 1909-1985",
+          "New York University. King Juan Carlos I of Spain Center",
+          "Centelles, Agustí, 1909-1985"],
         "unitdate_normal_ssm":["2011/2011"],
         "corpname_ssm":["New York University Archives",
           "New York University. King Juan Carlos I of Spain Center"],
@@ -64,8 +68,8 @@
         "unitdate_start_ssm":["2011"],
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["2011"],
-        "_version_":1799247905065795584,
-        "timestamp":"2024-05-16T21:55:15.909Z"},
+        "_version_":1801953256874704896,
+        "timestamp":"2024-06-15T18:35:40.446Z"},
       {
         "id":"rg_37_33aspace_f951a930ec39465d435e8b44ff06422d",
         "ead_ssi":"rg_37_33",
@@ -79,15 +83,14 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 055, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared University Archives 055, Folder: 1"],
         "heading_ssm":["Exhibition Catalog -- Centelles in_edit_¡oh!"],
         "unitdate_start_ssm":["2011"],
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["2011"],
         "language_ssm":["Spanish; Castilian"],
-        "_version_":1799247905094107136,
-        "timestamp":"2024-05-16T21:55:15.936Z"}]
+        "_version_":1801953256893579264,
+        "timestamp":"2024-06-15T18:35:40.464Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +98,9 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Centelles, Agustí, 1909-1985",1,
+        "New York University. King Juan Carlos I of Spain Center",1],
       "date_range_sim":[
         "2001-2100",2],
       "subject_sim":[

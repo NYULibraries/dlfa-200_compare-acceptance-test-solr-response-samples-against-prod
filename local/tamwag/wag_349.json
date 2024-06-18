@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Carey McWilliams Papers"],
         "unitid_ssm":["WAG.349"],
         "abstract_ssm":["The Carey McWilliams Papers contain correspondence, press releases, and other documents relating to the civil rights of teachers in New York, New York.  A lawyer, author, and editor, McWilliams advocated for the civil rights of working class Americans. He was the editor of The Nation from 1955 to 1975."],
+        "creator_ssm":["McWilliams, Carey, 1905-1980",
+          "McWilliams, Carey, 1905-1980"],
         "unitdate_normal_ssm":["1947/1955"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["McWilliams, Carey, 1905-1980"],
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["Inclusive, 1947-1955"],
-        "_version_":1799333937209671680,
-        "timestamp":"2024-05-17T20:42:42.555Z"},
+        "_version_":1802197537789050880,
+        "timestamp":"2024-06-18T11:18:24.88Z"},
       {
         "id":"wag_349aspace_99dc7d6abb091b6ae4cef5317341fe5c",
         "ead_ssi":"wag_349",
@@ -78,14 +80,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3-4",
-          "Folder: 3-4"],
+        "location_ssm":["Box: 1, Folder: 3-4"],
         "heading_ssm":["Press releases"],
         "unitdate_start_ssm":["1951"],
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["Inclusive, 1951-1955"],
-        "_version_":1799333937268391936,
-        "timestamp":"2024-05-17T20:42:42.611Z"},
+        "_version_":1802197537808973824,
+        "timestamp":"2024-06-18T11:18:24.899Z"},
       {
         "id":"wag_349aspace_ae1ceb156656028977a316b1f083d082",
         "ead_ssi":"wag_349",
@@ -99,14 +100,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 5",
-          "Folder: 5"],
+        "location_ssm":["Box: 1, Folder: 5"],
         "heading_ssm":["Statements and legal documents"],
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["1954"],
         "unitdate_ssm":["Inclusive, 1947-1954"],
-        "_version_":1799333937287266304,
-        "timestamp":"2024-05-17T20:42:42.629Z"},
+        "_version_":1802197537822605312,
+        "timestamp":"2024-06-18T11:18:24.912Z"},
       {
         "id":"wag_349aspace_d12564fdfc3db41d8292b6dcbf5da1f2",
         "ead_ssi":"wag_349",
@@ -120,14 +120,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 6-11",
-          "Folder: 6-11"],
+        "location_ssm":["Box: 1, Folder: 6-11"],
         "heading_ssm":["Clippings"],
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["Inclusive, Undated"],
-        "_version_":1799333937305092096,
-        "timestamp":"2024-05-17T20:42:42.646Z"},
+        "_version_":1802197537835188224,
+        "timestamp":"2024-06-18T11:18:24.924Z"},
       {
         "id":"wag_349aspace_eb4332dfdbff2994444a52c63e6d0039",
         "ead_ssi":"wag_349",
@@ -141,14 +140,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-2",
-          "Folder: 1-2"],
+        "location_ssm":["Box: 1, Folder: 1-2"],
         "heading_ssm":["Correspondence"],
         "unitdate_start_ssm":["1952"],
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["Inclusive, 1952-1955"],
-        "_version_":1799333937251614720,
-        "timestamp":"2024-05-17T20:42:42.595Z"}]
+        "_version_":1802197537799536640,
+        "timestamp":"2024-06-18T11:18:24.89Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -156,7 +154,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "McWilliams, Carey, 1905-1980",1],
       "date_range_sim":[
         "1901-2000",5],
       "subject_sim":[

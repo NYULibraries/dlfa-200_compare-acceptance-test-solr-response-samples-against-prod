@@ -47,6 +47,8 @@
         "unittitle_ssm":["Henry Townsend Oyster Bay land deed"],
         "unitid_ssm":["1974.050"],
         "abstract_ssm":["Original land deed, dated 1661, granting land in Oyster Bay, Long Island to Henry Townsend, signed by 18 Oyster Bay inhabitants."],
+        "creator_ssm":["Townsend, Henry",
+          "Townsend, Henry"],
         "unitdate_normal_ssm":["1661/1661"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Oyster Bay (N.Y.)"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1661"],
         "unitdate_ssm":["Inclusive, 1661"],
         "language_ssm":["English"],
-        "_version_":1799311710292541440,
-        "timestamp":"2024-05-17T14:49:25.315Z"}]
+        "_version_":1801960293176180736,
+        "timestamp":"2024-06-15T20:27:30.786Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Townsend, Henry",1],
       "date_range_sim":[
         "1601-1700",1],
       "subject_sim":[

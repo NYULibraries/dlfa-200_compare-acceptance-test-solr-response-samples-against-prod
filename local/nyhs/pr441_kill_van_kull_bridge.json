@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -66,8 +66,8 @@
           "Photograph albums."],
         "heading_ssm":["Kill Van Kull Bridge construction photographs"],
         "unitdate_ssm":["Inclusive, 1929-1931"],
-        "_version_":1799331170017607680,
-        "timestamp":"2024-05-17T19:58:43.555Z"},
+        "_version_":1802094789978488832,
+        "timestamp":"2024-06-17T08:05:16.932Z"},
       {
         "id":"pr441_kill_van_kull_bridgeaspace_0cb6956e91d5af7a5da5b38a3aa1a9f6",
         "ead_ssi":"pr441_kill_van_kull_bridge",
@@ -83,8 +83,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Kill Van Kull Bridge (Bayonne Bridge) construction photograph album"],
         "unitdate_ssm":["Inclusive, 1929-1931"],
-        "_version_":1799331170045919232,
-        "timestamp":"2024-05-17T19:58:43.582Z"}]
+        "_version_":1802094790005751808,
+        "timestamp":"2024-06-17T08:05:16.958Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

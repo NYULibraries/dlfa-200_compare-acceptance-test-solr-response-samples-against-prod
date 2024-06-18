@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Dan Kurzman Papers"],
         "unitid_ssm":["ALBA.063"],
+        "creator_ssm":["Kurzman, Dan",
+          "Kurzman, Dan"],
         "unitdate_normal_ssm":["1979/1979"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Kurzman, Dan"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["1979"],
         "language_ssm":["English"],
-        "_version_":1799747830486663168,
-        "timestamp":"2024-05-22T10:21:21.943Z"}]
+        "_version_":1802110850827288576,
+        "timestamp":"2024-06-17T12:20:33.751Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kurzman, Dan",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

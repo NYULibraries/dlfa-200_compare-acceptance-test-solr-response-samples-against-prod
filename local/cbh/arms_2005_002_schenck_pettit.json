@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Schenck and Pettit families collection"],
         "unitid_ssm":["2005.002"],
         "abstract_ssm":["The Schenck and Pettit familes collection spans the period 1821 to 1904 and measures 0.2 linear feet. The collection consists of miscellaneous materials pertaining to these to families, including a piece of cross-stitch embroidery crafted by Letty H. Pettit, a receipt from John R. Hull and Co. to Clinton Pettit for headstones for Letty and Jane Pettit, legal and probate inventory documents pertaining to members of the Pettit and Schenck families, photographs of Pettit family burial plots at Trinity Church in Hewlett, Long Island, and two journals, authors unknown."],
+        "creator_ssm":["Schenck family",
+          "Pettit family",
+          "Schenck family",
+          "Pettit family"],
         "unitdate_normal_ssm":["1816/1904"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Schenck family",
@@ -79,8 +83,8 @@
         "unitdate_end_ssm":["1904"],
         "unitdate_ssm":["Inclusive, 1816-1904"],
         "language_ssm":["English"],
-        "_version_":1799256165657346048,
-        "timestamp":"2024-05-17T00:06:33.822Z"}]
+        "_version_":1801963898010599424,
+        "timestamp":"2024-06-15T21:24:48.624Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +92,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Pettit family",1,
+        "Schenck family",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

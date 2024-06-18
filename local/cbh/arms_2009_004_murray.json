@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":16,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["James and Karla Murray Counter Culture exhibition photographs"],
         "unitid_ssm":["2009.004"],
         "abstract_ssm":["The collection comprises 41 color photographic prints, taken between the late 1990s and 2008. There are 25 11\" x 14\" prints and 16 panoramic photographs of various sizes. The photographs depict storefronts in Brooklyn. The photographs were part of an exhibition at Brooklyn Historical Society in 2008 titled Counter Culture: The Disappearing Face of Brooklyn's Storefronts."],
+        "creator_ssm":["Murray, Karla L. ",
+          "Murray, James T. ",
+          "Murray, Karla L. ",
+          "Murray, James T. "],
         "unitdate_normal_ssm":["1990/2008"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Digital Photographs",
@@ -96,8 +100,8 @@
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 1990-2008"],
         "language_ssm":["English"],
-        "_version_":1799311732247625728,
-        "timestamp":"2024-05-17T14:49:46.253Z"}]
+        "_version_":1801964077069631488,
+        "timestamp":"2024-06-15T21:27:39.388Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -105,7 +109,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Murray, James T. ",1,
+        "Murray, Karla L. ",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Hook family World War I letter and clippings"],
         "unitid_ssm":["1978.104"],
         "abstract_ssm":["This collection contains a letter from Mary A. Hook to her mother, Katherine E. Hook, describing the grave of her brother, Alfred J. Hook, and the cemetery for the American soldiers killed in Bony (Aisne), France during World War I."],
+        "creator_ssm":["Hook, Mary A.",
+          "Hook, Mary A."],
         "unitdate_normal_ssm":["1920/1920"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Hook family"],
@@ -77,8 +79,8 @@
         "unitdate_end_ssm":["1920"],
         "unitdate_ssm":["1920"],
         "language_ssm":["English"],
-        "_version_":1799311647429361664,
-        "timestamp":"2024-05-17T14:48:25.364Z"}]
+        "_version_":1801962454730670080,
+        "timestamp":"2024-06-15T21:01:52.204Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hook, Mary A.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

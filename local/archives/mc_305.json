@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York University Archives Collection of The Military Violet"],
         "unitid_ssm":["MC.305"],
         "abstract_ssm":["The collection consists of issues of The Military Violet, published by the NYU Student's Army Training Corp, dating from October to December 1918."],
+        "creator_ssm":["New York University. Student Army Training Corps",
+          "New York University. Student Army Training Corps"],
         "unitdate_normal_ssm":["1918/1918"],
         "corpname_ssm":["New York University Archives",
           "New York University. Student Army Training Corps"],
@@ -62,8 +64,8 @@
         "unitdate_start_ssm":["1918"],
         "unitdate_end_ssm":["1918"],
         "unitdate_ssm":["1918"],
-        "_version_":1799256018788548608,
-        "timestamp":"2024-05-17T00:04:13.758Z"},
+        "_version_":1801949640065548288,
+        "timestamp":"2024-06-15T17:38:11.188Z"},
       {
         "id":"mc_305aspace_42569fe2fdb9403e0b56f6a8be849f58",
         "ead_ssi":"mc_305",
@@ -77,14 +79,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 004, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: Shared University Archives 004, Folder: 3"],
         "heading_ssm":["The Military Violet"],
         "unitdate_start_ssm":["1918"],
         "unitdate_end_ssm":["1918"],
         "unitdate_ssm":["1918"],
-        "_version_":1799256018822103040,
-        "timestamp":"2024-05-17T00:04:13.79Z"},
+        "_version_":1801949640109588480,
+        "timestamp":"2024-06-15T17:38:11.23Z"},
       {
         "id":"mc_305aspace_577bc8b480bbd3e7cdedcf168789fb4e",
         "ead_ssi":"mc_305",
@@ -103,8 +104,8 @@
         "unitdate_start_ssm":["1918"],
         "unitdate_end_ssm":["1918"],
         "unitdate_ssm":["1918"],
-        "_version_":1799256018807422976,
-        "timestamp":"2024-05-17T00:04:13.776Z"}]
+        "_version_":1801949640083374080,
+        "timestamp":"2024-06-15T17:38:11.205Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -112,7 +113,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Student Army Training Corps",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

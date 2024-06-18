@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Saint Ambrose School Reunion recording"],
         "unitid_ssm":["2008.007"],
         "abstract_ssm":["Collection consists of one DVD recording of the Saint Ambrose School student and faculty reunion, held at the New York LaGuardia Airport Marriott hotel, in Queens, New York, on June 23, 2007."],
+        "creator_ssm":["Saint Ambrose School Reunion Committee",
+          "Saint Ambrose School Reunion Committee"],
         "unitdate_normal_ssm":["2007/2007"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Saint Ambrose School Reunion Committee",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["2007"],
         "unitdate_ssm":["Inclusive, 2007"],
         "language_ssm":["English"],
-        "_version_":1799312229103828992,
-        "timestamp":"2024-05-17T14:57:40.092Z"}]
+        "_version_":1801964026778877952,
+        "timestamp":"2024-06-15T21:26:51.427Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Saint Ambrose School Reunion Committee",1],
       "date_range_sim":[
         "2001-2100",1],
       "subject_sim":[

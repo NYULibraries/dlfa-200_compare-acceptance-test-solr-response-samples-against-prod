@@ -47,6 +47,10 @@
         "unittitle_ssm":["Daniel Harris Manuscripts"],
         "unitid_ssm":["TAM.405"],
         "abstract_ssm":["Daniel Harris (born Daniel Horwitz), 1903-1987, came to the United States illegally through Cuba after a series of stratagems to escape Russian Lithuania in 1923. He worked as a Communist Party of the United States of America organizer briefly in Harlem while he lived in a Lower East Side rooming house and looked for construction work. This collection contains a clippings notebook of Harris's novella \"Going East,\" typescript copies of two unpublished novellas (\"The Blue-Eyed Boy\" and \"The Comeback\"), a full-length unpublished novel, \"A Testimony for Sweeney\" and a typescript for \"Kitty: A Story.\" The collection also includes an annotated essay guide to the collection written by his daughter Laura Hapke."],
+        "creator_ssm":["Horowitz, Daniel, 1904-1987",
+          "Harris, Daniel, 1904-1987",
+          "Horowitz, Daniel, 1904-1987",
+          "Harris, Daniel, 1904-1987"],
         "unitdate_normal_ssm":["1934/2007",
           "1934/1947"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
@@ -69,8 +73,8 @@
           "1947"],
         "unitdate_ssm":["Inclusive, 1934-1947; 2007 ; 1934-1947"],
         "language_ssm":["English"],
-        "_version_":1799782893091815424,
-        "timestamp":"2024-05-22T19:38:40.249Z"}]
+        "_version_":1802176956608806912,
+        "timestamp":"2024-06-18T05:51:17.137Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +82,9 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Harris, Daniel, 1904-1987",1,
+        "Horowitz, Daniel, 1904-1987",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

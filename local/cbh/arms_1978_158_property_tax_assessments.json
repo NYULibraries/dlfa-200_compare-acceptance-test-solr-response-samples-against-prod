@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["City of Brooklyn property tax assessments"],
         "unitid_ssm":["1978.158"],
         "abstract_ssm":["Nine volumes containing property tax assessments for Wards 1 through 9 in the City of Brooklyn for the year 1841.  Each volume number corresponds to the number of the ward in which it was used to record assessments.  In each volume, assessments are organized by street name.  For each street name, the volumes list the names of property owners on that street, descriptions and values of the properties, and amount taxed.  Volume 6, containing property assessments for Ward 6, also includes assessments for the year 1840."],
+        "creator_ssm":["Brooklyn (New York, N.Y.)",
+          "Brooklyn (New York, N.Y.)"],
         "unitdate_normal_ssm":["1841/1841"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn (New York, N.Y.)"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1841"],
         "unitdate_ssm":["Inclusive, 1841"],
         "language_ssm":["English"],
-        "_version_":1799256450564882432,
-        "timestamp":"2024-05-17T00:11:05.532Z"}]
+        "_version_":1801962609447010304,
+        "timestamp":"2024-06-15T21:04:19.754Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn (New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

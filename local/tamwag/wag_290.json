@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["American Federation of State, County, and Municipal Employees (AFSCME), Local 1306 Records"],
         "unitid_ssm":["WAG.290"],
+        "creator_ssm":["AFSCME. Local 1306 (American Museum of Natural History) (New York, N.Y.)",
+          "AFSCME. Local 1306 (American Museum of Natural History) (New York, N.Y.)"],
         "unitdate_normal_ssm":["1980/2010"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "AFSCME. Local 1306 (American Museum of Natural History) (New York, N.Y.)",
@@ -62,8 +64,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, circa 1980s-2000s"],
-        "_version_":1799804919823204352,
-        "timestamp":"2024-05-23T01:28:46.577Z"}]
+        "_version_":1802197120256573440,
+        "timestamp":"2024-06-18T11:11:46.69Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -71,7 +73,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "AFSCME. Local 1306 (American Museum of Natural History) (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

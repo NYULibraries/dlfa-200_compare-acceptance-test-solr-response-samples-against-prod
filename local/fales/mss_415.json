@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Fortnight Archive"],
         "unitid_ssm":["MSS.415"],
         "abstract_ssm":["The Fortnight Journal was an online journal made up on videos, writings, music, podcasts, and images created by the subjects of Fortnight, as well as short documentaries and biographies on members of the Millennial generation (people born from 1978-1990). The website was active from 2010-2012 and produced 4 editions from 14 contributors."],
+        "creator_ssm":["Fourteen Foundation Inc.",
+          "Fourteen Foundation Inc."],
         "unitdate_normal_ssm":["2010/2015",
           "2010/2023"],
         "corpname_ssm":["Fales Library and Special Collections",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["2015",
           "2023"],
         "unitdate_ssm":["Inclusive, 2010-2023 ; 2010-2015"],
-        "_version_":1799740561154899968,
-        "timestamp":"2024-05-22T08:25:49.368Z"},
+        "_version_":1802072424309587968,
+        "timestamp":"2024-06-17T02:09:47.368Z"},
       {
         "id":"mss_415aspace_6e20f33da9d58387c90ac23a68a04c80",
         "ead_ssi":"mss_415",
@@ -87,8 +89,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["March 2015"],
-        "_version_":1799740561168531456,
-        "timestamp":"2024-05-22T08:25:49.381Z"}]
+        "_version_":1802072424326365184,
+        "timestamp":"2024-06-17T02:09:47.384Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,7 +99,8 @@
         "fales",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fourteen Foundation Inc.",1],
       "date_range_sim":[
         "2001-2100",1,
         "undated & other",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Virginia Nelson Speiden Carper Collection on New York University Summer School"],
         "unitid_ssm":["MC.264"],
         "abstract_ssm":["Virginia Nelson Speiden Carper (1908-2005) was from Manassas, Virginia and the daughter of architect Albert Speiden. In 1931 she attended New York University Summer School to study music education. This collection consists of materials collected by Virginia Nelson Speiden Carper documenting her attendance at NYU in the summer of 1931. Materials in this collection include correspondence regarding classes and accommodations, a lecture outline for a class on music education, a map of New York City, a copy of The Summer School News, a program for \"Philadelphia in Music: Past and Present,\" Pullman Company passenger car fare checks, receipts, and newspaper clippings. The collection also includes documents from Hotel Judson, which hosted summer school students."],
+        "creator_ssm":["Carper, Virginia Nelson Speiden",
+          "Carper, Virginia Nelson Speiden"],
         "unitdate_normal_ssm":["1931/1931"],
         "corpname_ssm":["New York University Archives",
           "New York University. Summer School"],
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1931"],
         "unitdate_end_ssm":["1931"],
         "unitdate_ssm":["1931"],
-        "_version_":1799255770036961280,
-        "timestamp":"2024-05-17T00:00:16.53Z"}]
+        "_version_":1801949495484743680,
+        "timestamp":"2024-06-15T17:35:53.305Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "archives",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Carper, Virginia Nelson Speiden",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

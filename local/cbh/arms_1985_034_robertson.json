@@ -47,6 +47,8 @@
         "unittitle_ssm":["Purcell Robertson papers"],
         "unitid_ssm":["1985.034"],
         "abstract_ssm":["This collection contains handwritten copies of Purcell Robertson's manuscripts, Profiles of the Early Settlers of Brookhaven, circa 1655-1680 and Profiles of the Early Freeholders of Hempstead, 1647. Both of these towns are located on Long Island, N.Y. The manuscripts were written in 1982 and 1983."],
+        "creator_ssm":["Robertson, Purcell B.",
+          "Robertson, Purcell B."],
         "unitdate_normal_ssm":["1647/1680"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Biographies"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1680"],
         "unitdate_ssm":["Inclusive, 1647-1680"],
         "language_ssm":["English"],
-        "_version_":1799312247293476864,
-        "timestamp":"2024-05-17T14:57:57.439Z"}]
+        "_version_":1801962980695343104,
+        "timestamp":"2024-06-15T21:10:13.803Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Robertson, Purcell B.",1],
       "date_range_sim":[
         "1601-1700",1],
       "subject_sim":[],

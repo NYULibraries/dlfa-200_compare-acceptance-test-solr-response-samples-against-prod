@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["U.S. Labor Against the War Records"],
         "unitid_ssm":["WAG.332"],
         "abstract_ssm":["U.S. Labor Against the War (USLAW) was founded on October 25th, 2003 in Chicago at the National Assembly for Peace conference in response to the United States's invasion of Iraq in 2003. The organization's mission is twofold: demilitarizing U.S. foreign policy and organizing for a new economy. This collection contains notes, newsclippings, proposals, contracts, speeches, and multi-media items (photographs, videos, audio recordings) pertaining to the early days of USLAW, delegations to Iraq, Iraq labor solidarity, and AFL-CIO response to the Iraq War."],
+        "creator_ssm":["U.S. Labor Against the War",
+          "U.S. Labor Against the War"],
         "unitdate_normal_ssm":["2003/2017"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "U.S. Labor Against the War"],
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 2003-2017"],
-        "_version_":1775218255433039872,
-        "timestamp":"2023-08-25T16:14:16.222Z"},
+        "_version_":1801346008891785216,
+        "timestamp":"2024-06-09T01:43:43.64Z"},
       {
         "id":"wag_332aspace_59201afcb38240c09aed81bf545418d7",
         "ead_ssi":"wag_332",
@@ -90,8 +92,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 2003-2017"],
-        "_version_":1775218255615492096,
-        "timestamp":"2023-08-25T16:14:16.396Z"},
+        "_version_":1801346008962039808,
+        "timestamp":"2024-06-09T01:43:43.708Z"},
       {
         "id":"wag_332aspace_5c79e3c8500843fc9898b4c2354fc6c1",
         "ead_ssi":"wag_332",
@@ -110,8 +112,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 2003-2004"],
-        "_version_":1775218255578791936,
-        "timestamp":"2023-08-25T16:14:16.361Z"},
+        "_version_":1801346008947359744,
+        "timestamp":"2024-06-09T01:43:43.694Z"},
       {
         "id":"wag_332aspace_95a3b555575bf360dfa66efb3c58c2d7",
         "ead_ssi":"wag_332",
@@ -130,8 +132,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1775218255535800320,
-        "timestamp":"2023-08-25T16:14:16.32Z"},
+        "_version_":1801346008934776832,
+        "timestamp":"2024-06-09T01:43:43.682Z"},
       {
         "id":"wag_332aspace_9d47e56a8f2c69523ac466031a7e3921",
         "ead_ssi":"wag_332",
@@ -150,8 +152,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, 2003-2014"],
-        "_version_":1775218255466594304,
-        "timestamp":"2023-08-25T16:14:16.254Z"},
+        "_version_":1801346008908562432,
+        "timestamp":"2024-06-09T01:43:43.657Z"},
       {
         "id":"wag_332aspace_c7243166bd7dfd8f01eea7f4519a6158",
         "ead_ssi":"wag_332",
@@ -166,8 +168,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment 019"],
         "heading_ssm":["Buttons"],
-        "_version_":1775218255653240832,
-        "timestamp":"2023-08-25T16:14:16.431Z"},
+        "_version_":1801346008976719872,
+        "timestamp":"2024-06-09T01:43:43.722Z"},
       {
         "id":"wag_332aspace_f1995c7aeddc14c14b8d210f81045438",
         "ead_ssi":"wag_332",
@@ -186,8 +188,8 @@
         "unitdate_start_ssm":["2003"],
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 2003-2004"],
-        "_version_":1775218255499100160,
-        "timestamp":"2023-08-25T16:14:16.285Z"}]
+        "_version_":1801346008921145344,
+        "timestamp":"2024-06-09T01:43:43.669Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -195,7 +197,8 @@
       "repository_sim":[
         "tamwag",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "U.S. Labor Against the War",1],
       "date_range_sim":[
         "2001-2100",6,
         "undated & other",1],

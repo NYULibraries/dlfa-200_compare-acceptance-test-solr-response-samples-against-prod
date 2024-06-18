@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Agnes Elizabeth Brundage diaries"],
         "unitid_ssm":["ARC.108"],
         "abstract_ssm":["This collection contains two diaries, dated 1863 to 1865, as well as five pages of handwritten transcriptions of diary highlights. Also included are calling cards for Agnes Elizabeth Brundage and Mrs. Frank S. Winchester, Brundage's married name. Volume one of the diary covers 1863 to 1864, wherein Brundage discusses living in New York City, the Morrisania neighborhood of the Bronx, and a vacation to Northport, Long Island. Volume two, from 1864 to 1865, discusses vacations on Long Island and visiting a fair, possibly the Brooklyn and Long Island Fair in Aid of the U.S. Sanitary Commission of 1864."],
+        "creator_ssm":["Brundage, Agnes Elizabeth",
+          "Brundage, Agnes Elizabeth"],
         "unitdate_normal_ssm":["1863/1865"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Diaries",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["Inclusive, 1863-1865"],
         "language_ssm":["English"],
-        "_version_":1799256320994443264,
-        "timestamp":"2024-05-17T00:09:01.964Z"}]
+        "_version_":1801959020761710592,
+        "timestamp":"2024-06-15T20:07:17.317Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brundage, Agnes Elizabeth",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

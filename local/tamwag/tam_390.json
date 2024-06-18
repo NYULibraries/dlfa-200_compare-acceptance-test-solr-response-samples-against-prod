@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Helen Sobell Autobiographical Typescript \"Double Exposure\""],
         "unitid_ssm":["TAM.390"],
         "abstract_ssm":["This collection contains an incomplete typescript by Helen Sobell titled \"Double Exposure\". Helen Sobell was the wife of convicted atomic spy Morton Sobell. This collection consists of an incomplete autobiographical typescript, missing perhaps half of its listed 602 pp., with all but two of the twenty-four chapters incomplete, possibly including the last chapter, and thus with numerous gaps in the page numberings. The typescript summarizes the trial and conviction of Morton Sobell, subsequent appeals and political activities on his behalf, and her own role in these activities."],
+        "creator_ssm":["Sobell, Helen",
+          "Sobell, Helen"],
         "unitdate_normal_ssm":["1940/1989"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Sobell, Helen",
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, circa 1940s-1980s"],
-        "_version_":1799782862295138304,
-        "timestamp":"2024-05-22T19:38:10.879Z"}]
+        "_version_":1802176934148308992,
+        "timestamp":"2024-06-18T05:50:55.717Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sobell, Helen",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

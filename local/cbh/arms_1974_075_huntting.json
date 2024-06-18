@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Nathaniel and Jonathan Huntting papers"],
         "unitid_ssm":["1974.075"],
         "abstract_ssm":["The collection contains sermons, journals, correspondence, account books,  notes, and essays. Items pertaining to Nathaniel Huntting include his sermons from the Presbyterian Church in East Hampton, Long Island, N.Y., a diary of church business, and notes and essays on philosophical, theological, and civic issues."],
+        "creator_ssm":["Huntting, Jonathan",
+          "Huntting, Nathaniel",
+          "Huntting, Jonathan",
+          "Huntting, Nathaniel"],
         "unitdate_normal_ssm":["1658/1849",
           "1695/1744"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -87,8 +91,8 @@
           "1744"],
         "unitdate_ssm":["Inclusive, 1658-1849 ; 1695-1744"],
         "language_ssm":["English"],
-        "_version_":1799311557976391680,
-        "timestamp":"2024-05-17T14:47:00.055Z"}]
+        "_version_":1801960313719881728,
+        "timestamp":"2024-06-15T20:27:50.378Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +100,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Huntting, Jonathan",1,
+        "Huntting, Nathaniel",1],
       "date_range_sim":[
         "1601-1700",1,
         "1701-1800",1,

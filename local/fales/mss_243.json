@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Richard Leck Papers"],
         "unitid_ssm":["MSS.243"],
         "abstract_ssm":["Richard Leck (1933-2008), a poet and Army veteran, attended journalism school at New York University from 1953-1955. He was a well-known habitant of the East Village and a regular in the Greenwich Village coffeehouse scene in the 1960s. Leck was known for working odd jobs, preferring the low-key lifestyle, and began writing poetry later in life. His first chapbook, \"Memory Hair,\" was published in 2008. This collection reflects his writing during the decade before his death between 1994 and 2008. Materials include typed and hand-written poems, and chapbooks."],
+        "creator_ssm":["Leck, Richard, 1933-2008",
+          "Leck, Richard, 1933-2008"],
         "unitdate_normal_ssm":["1994/2008",
           "2007/2008"],
         "corpname_ssm":["Fales Library and Special Collections"],
@@ -69,8 +71,8 @@
           "2007"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 1994-2008 ; 2007-2008"],
-        "_version_":1799734923324555264,
-        "timestamp":"2024-05-22T06:56:12.714Z"},
+        "_version_":1802064745232072704,
+        "timestamp":"2024-06-17T00:07:44.029Z"},
       {
         "id":"mss_243aspace_c5fe01176ce4ac473fb6313b0bd494c6",
         "ead_ssi":"mss_243",
@@ -84,14 +86,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3-9",
-          "Folder: 3-9"],
+        "location_ssm":["Box: 1, Folder: 3-9"],
         "heading_ssm":["Poems"],
         "unitdate_start_ssm":["1994"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, 1994-2008, undated"],
-        "_version_":1799734923379081216,
-        "timestamp":"2024-05-22T06:56:12.766Z"},
+        "_version_":1802064745309667328,
+        "timestamp":"2024-06-17T00:07:44.103Z"},
       {
         "id":"mss_243aspace_ca0e71458307dd72e5785df9a2b32e94",
         "ead_ssi":"mss_243",
@@ -105,14 +106,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Memory Hair: Poems by Richard Leck"],
         "unitdate_start_ssm":["2008"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["2008"],
-        "_version_":1799734923341332480,
-        "timestamp":"2024-05-22T06:56:12.73Z"},
+        "_version_":1802064745256189952,
+        "timestamp":"2024-06-17T00:07:44.052Z"},
       {
         "id":"mss_243aspace_ecdd2f08b860740841e79db7512ace95",
         "ead_ssi":"mss_243",
@@ -126,14 +126,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Richard Leck Poetry"],
         "unitdate_start_ssm":["2008"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["circa 2008"],
-        "_version_":1799734923356012544,
-        "timestamp":"2024-05-22T06:56:12.744Z"}]
+        "_version_":1802064745279258624,
+        "timestamp":"2024-06-17T00:07:44.074Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -141,7 +140,8 @@
       "repository_sim":[
         "fales",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Leck, Richard, 1933-2008",1],
       "date_range_sim":[
         "1901-2000",2,
         "2001-2100",4],

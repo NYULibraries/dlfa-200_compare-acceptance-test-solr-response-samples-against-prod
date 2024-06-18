@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["James W. Silleck checks"],
         "unitid_ssm":[" AHMC - Silleck, James W."],
         "abstract_ssm":["About 23 checks, signed by James W. Silleck, and drawn on his account at National Broadway Bank, 237 Broadway. Primary payees include the Department of Public Works, Emigrant Industrial Savings Bank, and the Receiver of Taxes, and there are several other checks to individuals and firms or businesses. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: James W. Silleck checks"],
+        "creator_ssm":["Silleck, James W., active 1890s",
+          "Silleck, James W., active 1890s"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Silleck, James W., active 1890s"],
         "collection_ssm":["James W. Silleck checks"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["James W. Silleck checks"],
         "unitdate_ssm":["Inclusive, 1893-1896"],
-        "_version_":1799315993896419328,
-        "timestamp":"2024-05-17T15:57:30.478Z"}]
+        "_version_":1802083879597637632,
+        "timestamp":"2024-06-17T05:11:51.982Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Silleck, James W., active 1890s",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

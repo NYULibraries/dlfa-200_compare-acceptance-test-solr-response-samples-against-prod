@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":19,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Brooklyn Institute of Arts and Sciences records"],
         "unitid_ssm":["ARC.011"],
         "abstract_ssm":["The Brooklyn Institute of Arts and Sciences evolved from the Brooklyn Apprentices' Library Association formed in 1823, largely through the efforts of Augustus Graham.  In 1825 the Marquis de Lafayette laid the cornerstone of a new building on Washington Street -- a memorable occasion for a young witness named Walt Whitman.  The Library was renamed the Brooklyn Institute in 1843 and remained essentially the same until about 1888 when a greatly expanded program into many branches of science and art was initiated.  Approximately 85% of the collection consists of publications, hard and softbound (including programs and exhibition catalogs), and the remainder correspondence and financial records.  Very few of the materials pre-date the 1890 fire and consolidation; a few of the items surviving include an 1843 exhibition catalog and the 1857 Apprentice's Library catalog, as well as several music programs."],
+        "creator_ssm":["Brooklyn Institute of Arts and Sciences",
+          "Brooklyn Children's Museum",
+          "Brooklyn Museum",
+          "Brooklyn Botanic Garden",
+          "Brooklyn Academy of Music",
+          "Brooklyn Institute of Arts and Sciences",
+          "Brooklyn Children's Museum",
+          "Brooklyn Museum",
+          "Brooklyn Botanic Garden",
+          "Brooklyn Academy of Music"],
         "unitdate_normal_ssm":["1843/1979"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Institute of Arts and Sciences",
@@ -67,8 +77,8 @@
         "unitdate_start_ssm":["1843"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1843-1979"],
-        "_version_":1799256321042677760,
-        "timestamp":"2024-05-17T00:09:02.01Z"},
+        "_version_":1801958647625940992,
+        "timestamp":"2024-06-15T20:01:21.467Z"},
       {
         "id":"arc_011_brooklyn_institute_arts_sciencesaspace_ref11_ii0",
         "ead_ssi":"arc_011_brooklyn_institute_arts_sciences",
@@ -92,8 +102,8 @@
         "unitdate_start_ssm":["1860"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1860-1979"],
-        "_version_":1799256321087766528,
-        "timestamp":"2024-05-17T00:09:02.053Z"},
+        "_version_":1801958647675224064,
+        "timestamp":"2024-06-15T20:01:21.514Z"},
       {
         "id":"arc_011_brooklyn_institute_arts_sciencesaspace_ref13_l1o",
         "ead_ssi":"arc_011_brooklyn_institute_arts_sciences",
@@ -114,8 +124,8 @@
         "unitdate_start_ssm":["1843"],
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1843-1976"],
-        "_version_":1799256321104543744,
-        "timestamp":"2024-05-17T00:09:02.069Z"},
+        "_version_":1801958647703535616,
+        "timestamp":"2024-06-15T20:01:21.541Z"},
       {
         "id":"arc_011_brooklyn_institute_arts_sciencesaspace_ref15_5vw",
         "ead_ssi":"arc_011_brooklyn_institute_arts_sciences",
@@ -134,8 +144,8 @@
         "unitdate_start_ssm":["1912"],
         "unitdate_end_ssm":["1921"],
         "unitdate_ssm":["Inclusive, 1912-1921"],
-        "_version_":1799256321118175232,
-        "timestamp":"2024-05-17T00:09:02.082Z"},
+        "_version_":1801958647724507136,
+        "timestamp":"2024-06-15T20:01:21.561Z"},
       {
         "id":"arc_011_brooklyn_institute_arts_sciencesaspace_ref9_lye",
         "ead_ssi":"arc_011_brooklyn_institute_arts_sciences",
@@ -158,8 +168,8 @@
         "unitdate_start_ssm":["1857"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1857-1973"],
-        "_version_":1799256321070989312,
-        "timestamp":"2024-05-17T00:09:02.037Z"}]
+        "_version_":1801958647650058240,
+        "timestamp":"2024-06-15T20:01:21.49Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -167,7 +177,12 @@
       "repository_sim":[
         "cbh",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Academy of Music",1,
+        "Brooklyn Botanic Garden",1,
+        "Brooklyn Children's Museum",1,
+        "Brooklyn Institute of Arts and Sciences",1,
+        "Brooklyn Museum",1],
       "date_range_sim":[
         "1801-1900",4,
         "1901-2000",5],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Robert Burnet, Jr. commission"],
         "unitid_ssm":["1978.070"],
         "abstract_ssm":["This collection contains a 1783 Congressional order commissioning Robert Burnet as a 2nd Lieutenant in the New York Regiment of Artillery."],
+        "creator_ssm":["United States. Congress",
+          "United States. Congress"],
         "unitdate_normal_ssm":["1783/1783"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Congress"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1783"],
         "unitdate_ssm":["1783"],
         "language_ssm":["English"],
-        "_version_":1799311500417957888,
-        "timestamp":"2024-05-17T14:46:05.163Z"}]
+        "_version_":1801962384972054528,
+        "timestamp":"2024-06-15T21:00:45.678Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. Congress",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

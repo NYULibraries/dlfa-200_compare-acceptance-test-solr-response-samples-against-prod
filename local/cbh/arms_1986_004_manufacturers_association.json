@@ -47,6 +47,8 @@
         "unittitle_ssm":["Manufacturers' Association of New York annual banquet programs"],
         "unitid_ssm":["1986.004"],
         "abstract_ssm":["This collection contains two items from the Manufacturers' Association of New York: a program for the Association's 15th annual banquet held at the Union League Club in Brooklyn, dated 1908. The program includes a seating chart and a list of diners. Also included is a program for the 16th annual banquet held at the Brooklyn Academy of Music, 1909."],
+        "creator_ssm":["Manufacturers' Association of New York",
+          "Manufacturers' Association of New York"],
         "unitdate_normal_ssm":["1908/1909"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Manufacturers' Association of New York",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["Inclusive, 1908-1909"],
         "language_ssm":["English"],
-        "_version_":1799256201154789376,
-        "timestamp":"2024-05-17T00:07:07.676Z"}]
+        "_version_":1801963180009717760,
+        "timestamp":"2024-06-15T21:13:23.885Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Manufacturers' Association of New York",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

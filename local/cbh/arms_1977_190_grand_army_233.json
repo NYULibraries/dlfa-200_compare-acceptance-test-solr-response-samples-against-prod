@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Grand Army of the Republic, Department of New York, Brooklyn City Post No. 233 minute book"],
         "unitid_ssm":["1977.190"],
         "abstract_ssm":["One book containing minutes of meetings of the GAR Brooklyn City Post No. 233 for the period 1909 to 1911.  Clippings related to the Post are also included."],
+        "creator_ssm":["Grand Army of the Republic. Brooklyn City Post No. 233 (Brooklyn, New York, N.Y.)",
+          "Grand Army of the Republic. Brooklyn City Post No. 233 (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1909/1911"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Grand Army of the Republic. Brooklyn City Post No. 233 (Brooklyn, New York, N.Y.)",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1911"],
         "unitdate_ssm":["Inclusive, 1909-1911"],
         "language_ssm":["English"],
-        "_version_":1799256202228531200,
-        "timestamp":"2024-05-17T00:07:08.7Z"}]
+        "_version_":1801960895931219968,
+        "timestamp":"2024-06-15T20:37:05.618Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Grand Army of the Republic. Brooklyn City Post No. 233 (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

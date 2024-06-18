@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Back to the City collection"],
         "unitid_ssm":["1991.036"],
         "abstract_ssm":["The Back to the City collection spans the period 1974 to 1983 and is mostly comprised of materials relating to Back to the City's annual national conferences held during the period 1974 to 1978 in the cities of New York, N.Y.; St. Paul, MN; Washington, D.C.; San Antonio, TX; and Hartford, CT; as well as the 1983 annual conference held in Brooklyn, N.Y. Materials relating to each of the above conferences largely focus on urban renewal and restoration efforts in the city in which the conference was held, with the most extensively documented conferences being those in Manhattan and Brooklyn."],
+        "creator_ssm":["Brownstone Revival Committee",
+          "Back to the City, Inc",
+          "Brownstone Revival Committee",
+          "Back to the City, Inc"],
         "unitdate_normal_ssm":["1974/1983"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brownstone Revival Committee",
@@ -95,8 +99,8 @@
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1974-1983"],
         "language_ssm":["English"],
-        "_version_":1799311682914222080,
-        "timestamp":"2024-05-17T14:48:59.205Z"}]
+        "_version_":1801963624099479552,
+        "timestamp":"2024-06-15T21:20:27.402Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -104,7 +108,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Back to the City, Inc",1,
+        "Brownstone Revival Committee",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Hennenlotter collection of Flatbush, Flatlands, and Gravesend genealogical records"],
         "unitid_ssm":["2015.017"],
         "abstract_ssm":["The collection consists of seven boxes of index cards, each containing genealogical information on families from the former towns of Flatbush, Flatlands, and Gravesend, in Kings County, New York. Those towns now comprise the Brooklyn neighborhoods of Flatbush, East Flatbush, Flatlands, Midwood, Gravesend, and Sheepshead Bay, among others. The genealogical records were assembled in the late 19th and early 20th centuries by Theodore B. Hennenlotter from public and private records. It includes information dating back to the late 17th century."],
+        "creator_ssm":["Hennenlotter, Theodore B.",
+          "Hennenlotter, Theodore B."],
         "unitdate_normal_ssm":["1890/1940"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Emans family",
@@ -147,8 +149,8 @@
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, circa 1895-1935"],
         "language_ssm":["English"],
-        "_version_":1799311641070796800,
-        "timestamp":"2024-05-17T14:48:19.3Z"},
+        "_version_":1801966979293118464,
+        "timestamp":"2024-06-15T22:13:47.164Z"},
       {
         "id":"arms_2015_017_hennenlotteraspace_ref11_4u7",
         "ead_ssi":"arms_2015_017_hennenlotter",
@@ -163,8 +165,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1 of 7"],
         "heading_ssm":["Abbott - Coleman"],
-        "_version_":1799311641088622592,
-        "timestamp":"2024-05-17T14:48:19.317Z"},
+        "_version_":1801966979325624320,
+        "timestamp":"2024-06-15T22:13:47.195Z"},
       {
         "id":"arms_2015_017_hennenlotteraspace_ref12_rz1",
         "ead_ssi":"arms_2015_017_hennenlotter",
@@ -179,8 +181,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 2 of 7"],
         "heading_ssm":["Coleman - Gautier"],
-        "_version_":1799311641102254080,
-        "timestamp":"2024-05-17T14:48:19.33Z"},
+        "_version_":1801966979351838720,
+        "timestamp":"2024-06-15T22:13:47.22Z"},
       {
         "id":"arms_2015_017_hennenlotteraspace_ref13_3uo",
         "ead_ssi":"arms_2015_017_hennenlotter",
@@ -195,8 +197,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 3 of 7"],
         "heading_ssm":["Gaylor - Lott"],
-        "_version_":1799311641115885568,
-        "timestamp":"2024-05-17T14:48:19.343Z"},
+        "_version_":1801966979372810240,
+        "timestamp":"2024-06-15T22:13:47.24Z"},
       {
         "id":"arms_2015_017_hennenlotteraspace_ref14_29t",
         "ead_ssi":"arms_2015_017_hennenlotter",
@@ -211,8 +213,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 4 of 7"],
         "heading_ssm":["Lott - Remsen"],
-        "_version_":1799311641133711360,
-        "timestamp":"2024-05-17T14:48:19.36Z"},
+        "_version_":1801966979390636032,
+        "timestamp":"2024-06-15T22:13:47.257Z"},
       {
         "id":"arms_2015_017_hennenlotteraspace_ref15_tcj",
         "ead_ssi":"arms_2015_017_hennenlotter",
@@ -227,8 +229,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 5 of 7"],
         "heading_ssm":["Remsen - Suydam"],
-        "_version_":1799311641151537152,
-        "timestamp":"2024-05-17T14:48:19.377Z"},
+        "_version_":1801966979408461824,
+        "timestamp":"2024-06-15T22:13:47.274Z"},
       {
         "id":"arms_2015_017_hennenlotteraspace_ref16_jhz",
         "ead_ssi":"arms_2015_017_hennenlotter",
@@ -243,8 +245,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 6 of 7"],
         "heading_ssm":["Suydam - Voorhees"],
-        "_version_":1799311641167265792,
-        "timestamp":"2024-05-17T14:48:19.392Z"},
+        "_version_":1801966979426287616,
+        "timestamp":"2024-06-15T22:13:47.291Z"},
       {
         "id":"arms_2015_017_hennenlotteraspace_ref17_tbn",
         "ead_ssi":"arms_2015_017_hennenlotter",
@@ -259,8 +261,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 7 of 7"],
         "heading_ssm":["Voorhees - Zurick"],
-        "_version_":1799311641181945856,
-        "timestamp":"2024-05-17T14:48:19.406Z"}]
+        "_version_":1801966979445161984,
+        "timestamp":"2024-06-15T22:13:47.309Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -268,7 +270,8 @@
       "repository_sim":[
         "cbh",8],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hennenlotter, Theodore B.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Williamsburgh City Fire Insurance Company policy to Theodore F. Jackson"],
         "unitid_ssm":["1978.090"],
         "abstract_ssm":["Fire insurance policy issued to Theodore F. Jackson from the Williamsburgh City Fire Insurance Company, dated May 1, 1899.  The policy was for a theater at 778-774 Driggs Avenue, between Third and Smith Streets.  Theodore F. Jackson (1830-1913) was a prominent lawyer in the Brooklyn neighborhood of Williamsburg."],
+        "creator_ssm":["Williamsburgh City Fire Insurance Company",
+          "Williamsburgh City Fire Insurance Company"],
         "unitdate_normal_ssm":["1898/1898"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Williamsburgh City Fire Insurance Company",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1898"],
         "unitdate_ssm":["Inclusive, 1898"],
         "language_ssm":["English"],
-        "_version_":1799311732814905344,
-        "timestamp":"2024-05-17T14:49:46.794Z"}]
+        "_version_":1801962421693186048,
+        "timestamp":"2024-06-15T21:01:20.698Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Williamsburgh City Fire Insurance Company",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

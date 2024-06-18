@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John S. Thorne and John Haslett papers"],
         "unitid_ssm":["1977.126"],
         "abstract_ssm":["This collection includes various papers of Dr. John S. Thorne and Dr. John Haslett spanning the period 1822 to 1882, including correspondence, notes, commissions and appointments, certificates, and admission tickets to classes and lectures at the University of the State of New York College of Physicians and Surgeons and the New York Eye Infirmary."],
+        "creator_ssm":["Thorne, John S.",
+          "Thorne, John S."],
         "unitdate_normal_ssm":["1822/1882"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Commissions (permissions)",
@@ -73,8 +75,8 @@
         "unitdate_end_ssm":["1882"],
         "unitdate_ssm":["Inclusive, 1822-1882"],
         "language_ssm":["English"],
-        "_version_":1799256218046300160,
-        "timestamp":"2024-05-17T00:07:23.785Z"}]
+        "_version_":1801960760985780224,
+        "timestamp":"2024-06-15T20:34:56.923Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -82,7 +84,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Thorne, John S.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

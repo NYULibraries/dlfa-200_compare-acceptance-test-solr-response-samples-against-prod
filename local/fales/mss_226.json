@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["David C. Bohnett Collection of Winsor McCay Drawings"],
         "unitid_ssm":["MSS.226"],
         "abstract_ssm":["Winsor McCay (1867-1934) was a cartoonist, animator, and performer credited with significant influence in the development of American comic strips and motion picture animation.  McCay first gained attention with two comic strips, Dream of the Rarebit Fiend, which began publication in the New York Evening Telegram in 1904, and Little Nemo in Slumberland, first published in the New York Herald in 1905. In 1911 McCay began introducing animated films into his vaudeville act, beginning with Little Nemo and in the following year, How a Mosquito Operates.  In 1914 McCay introduced Gertie the Dinosaur, which would become his most well known animated work.  It is widely considered the preeminent animated work before the development of the Disney studio.  This collection consists of two original production animation drawings of Gertie the Dinosaur from 1914."],
+        "creator_ssm":["McCay, Winsor",
+          "McCay, Winsor"],
         "unitdate_normal_ssm":["1914/1914"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "persname_ssm":["McCay, Winsor",
@@ -80,8 +82,8 @@
         "unitdate_start_ssm":["1914"],
         "unitdate_end_ssm":["1914"],
         "unitdate_ssm":["1914"],
-        "_version_":1799734557912596480,
-        "timestamp":"2024-05-22T06:50:24.229Z"},
+        "_version_":1802064330062036992,
+        "timestamp":"2024-06-17T00:01:08.092Z"},
       {
         "id":"mss_226aspace_ref1",
         "ead_ssi":"mss_226",
@@ -99,8 +101,8 @@
         "unitdate_start_ssm":["1914"],
         "unitdate_end_ssm":["1914"],
         "unitdate_ssm":["Inclusive, 1914"],
-        "_version_":1799734557930422272,
-        "timestamp":"2024-05-22T06:50:24.247Z"},
+        "_version_":1802064330084057088,
+        "timestamp":"2024-06-17T00:01:08.113Z"},
       {
         "id":"mss_226aspace_ref3",
         "ead_ssi":"mss_226",
@@ -117,14 +119,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Gertie the Dinosaur and Mammoth"],
         "unitdate_start_ssm":["1914"],
         "unitdate_end_ssm":["1914"],
         "unitdate_ssm":["Inclusive, 1914"],
-        "_version_":1799734557947199488,
-        "timestamp":"2024-05-22T06:50:24.263Z"},
+        "_version_":1802064330101882880,
+        "timestamp":"2024-06-17T00:01:08.13Z"},
       {
         "id":"mss_226aspace_ref5",
         "ead_ssi":"mss_226",
@@ -141,14 +142,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Gertie the Dinosaur and Winsor McCay"],
         "unitdate_start_ssm":["1914"],
         "unitdate_end_ssm":["1914"],
         "unitdate_ssm":["Inclusive, 1914"],
-        "_version_":1799734557971316736,
-        "timestamp":"2024-05-22T06:50:24.285Z"}]
+        "_version_":1802064330126000128,
+        "timestamp":"2024-06-17T00:01:08.153Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -156,7 +156,8 @@
       "repository_sim":[
         "fales",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "McCay, Winsor",1],
       "date_range_sim":[
         "1901-2000",4],
       "subject_sim":[

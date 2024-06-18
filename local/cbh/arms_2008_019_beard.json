@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["William Beard land documents"],
         "unitid_ssm":["2008.019"],
         "abstract_ssm":["This collection contains 18 property deeds, leases, indentures, assignments, bonds, etc. spanning from 1845 to 1888 and relating to land owned by William Beard. Documents in the collection pertain to land located in Brooklyn, New Jersey, Suffolk County, N.Y., and Michigan. William Beard and his son, William H. Beard were waterfront developers who lived and worked in Brooklyn."],
+        "creator_ssm":["Beard, William H.",
+          "Beard, William",
+          "Beard, William H.",
+          "Beard, William"],
         "unitdate_normal_ssm":["1845/1888"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Leases",
@@ -76,8 +80,8 @@
         "unitdate_end_ssm":["1888"],
         "unitdate_ssm":["Inclusive, 1845-1888"],
         "language_ssm":["English"],
-        "_version_":1799256293180964864,
-        "timestamp":"2024-05-17T00:08:35.439Z"}]
+        "_version_":1801964041760931840,
+        "timestamp":"2024-06-15T21:27:05.715Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +89,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Beard, William",1,
+        "Beard, William H.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

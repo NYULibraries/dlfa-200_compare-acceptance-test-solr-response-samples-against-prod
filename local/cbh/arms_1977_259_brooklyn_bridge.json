@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Bridge construction records"],
         "unitid_ssm":["1977.259"],
         "abstract_ssm":["This collection consists of notes, letters, engineering computations, reports, specifications, inventories, and technical newspaper clippings, dated 1873 to 1879, all relating to the construction of the Brooklyn Bridge.  Also included are notes to Washington Roebling, as well as some items in his hand."],
+        "creator_ssm":["Roebling, Washington Augustus",
+          "Roebling, Washington Augustus"],
         "unitdate_normal_ssm":["1873/1879"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence",
@@ -80,8 +82,8 @@
         "unitdate_end_ssm":["1879"],
         "unitdate_ssm":["Inclusive, 1873-1879"],
         "language_ssm":["English"],
-        "_version_":1799312397501988864,
-        "timestamp":"2024-05-17T15:00:20.689Z"}]
+        "_version_":1801961201874239488,
+        "timestamp":"2024-06-15T20:41:57.388Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Roebling, Washington Augustus",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

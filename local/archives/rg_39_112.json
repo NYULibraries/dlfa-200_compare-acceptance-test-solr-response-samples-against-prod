@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Coalition for Student Rights"],
         "unitid_ssm":["RG.39.112"],
         "abstract_ssm":["The Coalition for Student Rights at New York University (NYU) was formed in 1981 to seek greater student participation in institutional decision making at NYU. This collection consists of organization materials, including newsletters, a bill of rights, and student surveys."],
+        "creator_ssm":["New York University. Coalition for Student Rights",
+          "New York University. Coalition for Student Rights"],
         "unitdate_normal_ssm":["1981/1984"],
         "corpname_ssm":["New York University Archives",
           "New York University. Coalition for Student Rights",
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1981-1984"],
-        "_version_":1799252213953986560,
-        "timestamp":"2024-05-16T23:03:45.185Z"},
+        "_version_":1801953644122210304,
+        "timestamp":"2024-06-15T18:41:49.754Z"},
       {
         "id":"rg_39_112aspace_ad782659f6c070a7ea7f0e0d87eafc0d",
         "ead_ssi":"rg_39_112",
@@ -80,14 +82,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-6",
-          "Folder: 1-6"],
+        "location_ssm":["Box: 1, Folder: 1-6"],
         "heading_ssm":["RESTRICTED files, plus: Student Bill of Rights, newsletters, flyers, student survey forms"],
         "unitdate_start_ssm":["1981"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1981-1984"],
-        "_version_":1799252213977055232,
-        "timestamp":"2024-05-16T23:03:45.207Z"}]
+        "_version_":1801953644141084672,
+        "timestamp":"2024-06-15T18:41:49.772Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +96,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Coalition for Student Rights",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[],

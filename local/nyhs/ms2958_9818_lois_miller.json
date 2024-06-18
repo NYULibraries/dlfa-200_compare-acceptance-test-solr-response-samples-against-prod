@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Letter to Lois Miller"],
         "unitid_ssm":["AHMC - Miller, Lois"],
         "abstract_ssm":["One undated letter, and associated envelope postmarked June 16, 1941, to Lois Miller at Cohoes, New York. The letter is signed only with initials \"AJA\" or \"AJH\" on Hotel Piccadilly, New York City, stationery, where the writer seems to be convalescing. The writer expresses appreciation to Miller for being good to him or her, as the writer seems to be suffering from a serious health condition. The writer asks Miller to destroy letters and any other evidence of \"shortcomings\" if things do not end as expected for the writer. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Letter to Lois Miller."],
+        "creator_ssm":["Miller, Lois (Cohoes, New York)",
+          "Miller, Lois (Cohoes, New York)"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Miller, Lois (Cohoes, New York)"],
         "collection_ssm":["Letter to Lois Miller"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Letter to Lois Miller"],
         "unitdate_ssm":["1941"],
         "language_ssm":["English"],
-        "_version_":1799316861183066112,
-        "timestamp":"2024-05-17T16:11:17.587Z"}]
+        "_version_":1802083704582963200,
+        "timestamp":"2024-06-17T05:09:05.075Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Miller, Lois (Cohoes, New York)",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

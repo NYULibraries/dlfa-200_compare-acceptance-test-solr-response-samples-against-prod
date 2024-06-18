@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Thomas Cavanagh certificate of exemption from the Civil War draft"],
         "unitid_ssm":["1977.543"],
         "abstract_ssm":["One 1863 certificate stating that Thomas Cavanagh of Brooklyn, N.Y. is exempt from the Civil War draft."],
+        "creator_ssm":["New York (State). Board of Enrollment. 2nd District",
+          "New York (State). Board of Enrollment. 2nd District"],
         "unitdate_normal_ssm":["1863/1863"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Board of Enrollment. 2nd District"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1863"],
         "unitdate_ssm":["1863"],
         "language_ssm":["English"],
-        "_version_":1799256328749711360,
-        "timestamp":"2024-05-17T00:09:09.36Z"}]
+        "_version_":1801961914467614720,
+        "timestamp":"2024-06-15T20:53:16.97Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (State). Board of Enrollment. 2nd District",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

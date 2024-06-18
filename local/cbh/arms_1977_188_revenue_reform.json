@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Revenue Reform Club scrapbook"],
         "unitid_ssm":["1977.188"],
         "abstract_ssm":["One bound scrapbook containing various ephemeral items dating from 1884 to 1887 and relating to the Brooklyn Revenue Reform Club, including clippings from numerous Brooklyn and New York City newspapers, dinner invitations and menus, event announcements and admission tickets, membership applications, circulars, and leaflets."],
+        "creator_ssm":["Brooklyn Revenue Reform Club",
+          "Brooklyn Revenue Reform Club"],
         "unitdate_normal_ssm":["1884/1887"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Revenue Reform Club",
@@ -81,8 +83,8 @@
         "unitdate_end_ssm":["1887"],
         "unitdate_ssm":["Inclusive, 1884-1887"],
         "language_ssm":["English"],
-        "_version_":1799312277110784000,
-        "timestamp":"2024-05-17T14:58:25.875Z"}]
+        "_version_":1801960888833409024,
+        "timestamp":"2024-06-15T20:36:58.849Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +92,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Revenue Reform Club",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

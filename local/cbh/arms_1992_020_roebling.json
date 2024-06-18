@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Washington A. Roebling family letters"],
         "unitid_ssm":["1992.020"],
         "abstract_ssm":["Two bound volumes, together titled, containing typescipt copies of letters of the Roebling family, particularly those of Washington A. Roebling. The letters were compiled circa 1955 by Clarence E. Case, executor of the will of Washington Roebling's son, John A. Roebling II. The letters span the period 1821 to 1927, with the majority dating from 1861 to 1868 and 1900 to 1926, and mostly detail Washington Roebling's experiences in the American Civil War and family matters and relationships, especially those with his father, John A. Roebling, and his wife, Emily."],
+        "creator_ssm":["Roebling, Washington Augustus",
+          "Roebling, Washington Augustus"],
         "unitdate_normal_ssm":["1810/1965"],
         "corpname_ssm":["Brooklyn Historical Society",
           "John A. Roebling's Sons Company"],
@@ -82,8 +84,8 @@
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, circa 1820 to 1955"],
         "language_ssm":["English"],
-        "_version_":1799312275249561600,
-        "timestamp":"2024-05-17T14:58:24.099Z"}]
+        "_version_":1801963691280695296,
+        "timestamp":"2024-06-15T21:21:31.471Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Roebling, Washington Augustus",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

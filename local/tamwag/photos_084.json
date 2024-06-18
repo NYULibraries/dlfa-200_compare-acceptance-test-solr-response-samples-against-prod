@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry, Local 638 Photographs"],
         "unitid_ssm":["PHOTOS.084"],
         "abstract_ssm":["Steamfitters' Local 638 is a subsidiary of the United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry of the United States and Canada that is headquartered in Long Island City, New York. This collection consists of photographic negatives and prints of classes and staff members at the Steamfitters' Local 638 Industry Training Center in Long Island City. Photographs were taken by Werner Ulrich, the center's Director of Education."],
+        "creator_ssm":["United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry. Local 638",
+          "United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry. Local 638"],
         "unitdate_normal_ssm":["1929/1998"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry. Local 638",
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["1998"],
         "unitdate_ssm":["Inclusive, 1929-1998"],
-        "_version_":1799333937610227712,
-        "timestamp":"2024-05-17T20:42:42.937Z"},
+        "_version_":1802141834221191168,
+        "timestamp":"2024-06-17T20:33:01.818Z"},
       {
         "id":"photos_084aspace_15a656faf34d52158b2e0b53ee55d23a",
         "ead_ssi":"photos_084",
@@ -86,8 +88,8 @@
         "unitdate_start_ssm":["1929"],
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["1929"],
-        "_version_":1799333937681530880,
-        "timestamp":"2024-05-17T20:42:43.005Z"},
+        "_version_":1802141834276765696,
+        "timestamp":"2024-06-17T20:33:01.871Z"},
       {
         "id":"photos_084aspace_970ff14523fab7dd0159cbdf029b6b62",
         "ead_ssi":"photos_084",
@@ -104,8 +106,8 @@
         "location_ssm":["Box: Shared Tamiment 015"],
         "heading_ssm":["Video on Women in Construction, \"Best Talk,\" Channel 11"],
         "unitdate_ssm":["1991-01-25"],
-        "_version_":1799333937660559360,
-        "timestamp":"2024-05-17T20:42:42.984Z"},
+        "_version_":1802141834259988480,
+        "timestamp":"2024-06-17T20:33:01.855Z"},
       {
         "id":"photos_084aspace_b2ce408745dd00cd0fa665d8a9000979",
         "ead_ssi":"photos_084",
@@ -121,8 +123,8 @@
         "location_ssm":["Box: Shared Tamiment 015"],
         "heading_ssm":["Video: \"Going Up,\" a film by Gary Pollard, Maiden Lane Kinetics"],
         "unitdate_ssm":["undated"],
-        "_version_":1799333937643782144,
-        "timestamp":"2024-05-17T20:42:42.969Z"},
+        "_version_":1802141834249502720,
+        "timestamp":"2024-06-17T20:33:01.845Z"},
       {
         "id":"photos_084aspace_ref1",
         "ead_ssi":"photos_084",
@@ -136,14 +138,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Tamiment A006, Folder: 1-2",
-          "Folder: 1-2"],
+        "location_ssm":["Box: Shared Tamiment A006, Folder: 1-2"],
         "heading_ssm":["Classes and Staff at Steamfitters' Industry Training Center"],
         "unitdate_start_ssm":["1998"],
         "unitdate_end_ssm":["1998"],
         "unitdate_ssm":["Inclusive, May 1998"],
-        "_version_":1799333937631199232,
-        "timestamp":"2024-05-17T20:42:42.957Z"}]
+        "_version_":1802141834235871232,
+        "timestamp":"2024-06-17T20:33:01.832Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -151,7 +152,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry. Local 638",1],
       "date_range_sim":[
         "1901-2000",3,
         "undated & other",2],

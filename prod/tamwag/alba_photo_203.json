@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":22,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment Staff"],
         "unittitle_ssm":["Eric Muller Slides"],
         "unitid_ssm":["ALBA.PHOTO.203"],
+        "creator_ssm":["Muller, Eric",
+          "Muller, Eric"],
         "unitdate_normal_ssm":["1937/1940"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Muller, Norman E.",
@@ -62,8 +64,8 @@
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, circa 1937-1940"],
         "language_ssm":["English"],
-        "_version_":1775223021203619840,
-        "timestamp":"2023-08-25T17:30:01.215Z"},
+        "_version_":1801159144990834688,
+        "timestamp":"2024-06-07T00:13:36.338Z"},
       {
         "id":"alba_photo_203aspace_fa5205b1d9e0a36378949c9943cea378",
         "ead_ssi":"alba_photo_203",
@@ -78,8 +80,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Materials"],
-        "_version_":1775223021247660032,
-        "timestamp":"2023-08-25T17:30:01.257Z"}]
+        "_version_":1801159145005514752,
+        "timestamp":"2024-06-07T00:13:36.352Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Muller, Eric",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

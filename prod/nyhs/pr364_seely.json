@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Alice and Leonard Seely Christmas card scrapbook"],
         "unitid_ssm":["PR 364"],
         "abstract_ssm":["Scrapbook album containing exemplars of the commercially-produced Christmas cards sent by Alice and Leonard Seely of Brooklyn, New York, and St. Petersburg, Florida, between 1934 and 1993."],
+        "creator_ssm":["Seely, Alice E., 1909-1999",
+          "Seely, Leonard J., 1904-1978",
+          "Seely, Alice E., 1909-1999",
+          "Seely, Leonard J., 1904-1978"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Ephemera.",
           "Christmas cards.",
@@ -68,8 +72,8 @@
         "heading_ssm":["Alice and Leonard Seely Christmas card scrapbook"],
         "unitdate_ssm":["Inclusive, 1934-1993"],
         "language_ssm":["English"],
-        "_version_":1775223310494203904,
-        "timestamp":"2023-08-25T17:34:37.104Z"},
+        "_version_":1801067606304620544,
+        "timestamp":"2024-06-05T23:58:38.244Z"},
       {
         "id":"pr364_seelyaspace_ref10_df6",
         "ead_ssi":"pr364_seely",
@@ -82,12 +86,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Volume: 1",
-          "Volume: 1"],
+        "location_ssm":["Box: 1, Volume: 1"],
         "heading_ssm":["Christmas cards (album)"],
         "unitdate_ssm":["1934-1975"],
-        "_version_":1775223310540341248,
-        "timestamp":"2023-08-25T17:34:37.147Z"},
+        "_version_":1801067606349709312,
+        "timestamp":"2024-06-05T23:58:38.287Z"},
       {
         "id":"pr364_seelyaspace_ref11_i98",
         "ead_ssi":"pr364_seely",
@@ -100,12 +103,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Christmas cards (loose)"],
         "unitdate_ssm":["1976-1993"],
-        "_version_":1775223310577041408,
-        "timestamp":"2023-08-25T17:34:37.182Z"}]
+        "_version_":1801067606370680832,
+        "timestamp":"2024-06-05T23:58:38.307Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -113,7 +115,9 @@
       "repository_sim":[
         "nyhs",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Seely, Alice E., 1909-1999",1,
+        "Seely, Leonard J., 1904-1978",1],
       "date_range_sim":[
         "undated & other",3],
       "subject_sim":[

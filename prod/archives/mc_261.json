@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["David Jaffin Papers"],
         "unitid_ssm":["MC.261"],
         "abstract_ssm":["Dr. David Jaffin (1937- ) is a New York-born author and pastor. Jaffin earned his Ph.D. from New York University and later moved to Germany to study theology at Tuebingen University. He became a pastor in the Lutheran Church and served as a minister in Wuettemberg for 20 years. Jaffin writes sermons, religious texts, and German prose, as well as poetry in English. This collection consists of original poetry produced by Dr. David Jaffin in the early 21st century, including both notebooks and published works."],
+        "creator_ssm":["Jaffin, David, 1937-",
+          "Jaffin, David, 1937-"],
         "unitdate_normal_ssm":["2000/2021"],
         "corpname_ssm":["New York University Archives"],
         "persname_ssm":["Jaffin, David, 1937-"],
@@ -62,8 +64,8 @@
         "unitdate_start_ssm":["2000"],
         "unitdate_end_ssm":["2021"],
         "unitdate_ssm":["Inclusive, circa 2000-2021"],
-        "_version_":1775222138921287680,
-        "timestamp":"2023-08-25T17:15:59.805Z"},
+        "_version_":1800544453882019840,
+        "timestamp":"2024-05-31T05:23:21.215Z"},
       {
         "id":"mc_261aspace_0b9359cab735a3619c913fca718bb794",
         "ead_ssi":"mc_261",
@@ -82,8 +84,8 @@
         "unitdate_start_ssm":["2000"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, circa 2000-2017"],
-        "_version_":1775222138973716480,
-        "timestamp":"2023-08-25T17:15:59.854Z"},
+        "_version_":1800544453904039936,
+        "timestamp":"2024-05-31T05:23:21.236Z"},
       {
         "id":"mc_261aspace_0e4bba63eb787cb3e12109ff04df1dbc",
         "ead_ssi":"mc_261",
@@ -97,14 +99,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 6, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 6, Folder: 2"],
         "heading_ssm":["Published Poetry -- October: Cyprus Poems"],
         "unitdate_start_ssm":["2021"],
         "unitdate_end_ssm":["2021"],
         "unitdate_ssm":["2021"],
-        "_version_":1775222139293532160,
-        "timestamp":"2023-08-25T17:16:00.16Z"},
+        "_version_":1800544454029869056,
+        "timestamp":"2024-05-31T05:23:21.356Z"},
       {
         "id":"mc_261aspace_35f7986c9c8d70bc1e69693e85a2bdfa",
         "ead_ssi":"mc_261",
@@ -118,14 +119,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 6, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 6, Folder: 1"],
         "heading_ssm":["Published Poetry -- Two-Timed"],
         "unitdate_start_ssm":["2020"],
         "unitdate_end_ssm":["2020"],
         "unitdate_ssm":["2020"],
-        "_version_":1775222139256832000,
-        "timestamp":"2023-08-25T17:16:00.125Z"},
+        "_version_":1800544454014140416,
+        "timestamp":"2024-05-31T05:23:21.341Z"},
       {
         "id":"mc_261aspace_55bf797f3097e42cf379b1d5982b76df",
         "ead_ssi":"mc_261",
@@ -139,14 +139,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 055, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: Shared University Archives 055, Folder: 3"],
         "heading_ssm":["Published Poetry -- Kaleidoscope"],
         "unitdate_start_ssm":["2019"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["2019"],
-        "_version_":1775222139219083264,
-        "timestamp":"2023-08-25T17:16:00.089Z"},
+        "_version_":1800544453999460352,
+        "timestamp":"2024-05-31T05:23:21.327Z"},
       {
         "id":"mc_261aspace_834e77b96e0e5588a8af394e67bac8da",
         "ead_ssi":"mc_261",
@@ -165,8 +164,8 @@
         "unitdate_start_ssm":["2019"],
         "unitdate_end_ssm":["2021"],
         "unitdate_ssm":["Inclusive, 2019-2021"],
-        "_version_":1775222139093254144,
-        "timestamp":"2023-08-25T17:15:59.969Z"},
+        "_version_":1800544453955420160,
+        "timestamp":"2024-05-31T05:23:21.285Z"},
       {
         "id":"mc_261aspace_8cbaf6bc86f3fe8de29e4ab83c80530f",
         "ead_ssi":"mc_261",
@@ -185,8 +184,8 @@
         "unitdate_start_ssm":["2000"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, circa 2000-2017"],
-        "_version_":1775222139052359680,
-        "timestamp":"2023-08-25T17:15:59.93Z"},
+        "_version_":1800544453940740096,
+        "timestamp":"2024-05-31T05:23:21.271Z"},
       {
         "id":"mc_261aspace_8d2622ad60376a93d91ef8ac563a78b2",
         "ead_ssi":"mc_261",
@@ -206,8 +205,8 @@
         "unitdate_start_ssm":["2000"],
         "unitdate_end_ssm":["2018"],
         "unitdate_ssm":["Inclusive, circa 2000-2017"],
-        "_version_":1775222139177140224,
-        "timestamp":"2023-08-25T17:16:00.049Z"},
+        "_version_":1800544453985828864,
+        "timestamp":"2024-05-31T05:23:21.314Z"},
       {
         "id":"mc_261aspace_cfaa0be0c1d6ec3fba0246b4f93a007e",
         "ead_ssi":"mc_261",
@@ -226,8 +225,8 @@
         "unitdate_start_ssm":["2019"],
         "unitdate_end_ssm":["2021"],
         "unitdate_ssm":["Inclusive, 2019-2021"],
-        "_version_":1775222139135197184,
-        "timestamp":"2023-08-25T17:16:00.008Z"},
+        "_version_":1800544453971148800,
+        "timestamp":"2024-05-31T05:23:21.3Z"},
       {
         "id":"mc_261aspace_ee62dbf54514edbe337e777e238a11f9",
         "ead_ssi":"mc_261",
@@ -246,8 +245,8 @@
         "unitdate_start_ssm":["2000"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, circa 2000-2017"],
-        "_version_":1775222139013562368,
-        "timestamp":"2023-08-25T17:15:59.893Z"}]
+        "_version_":1800544453919768576,
+        "timestamp":"2024-05-31T05:23:21.251Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -255,7 +254,8 @@
       "repository_sim":[
         "archives",10],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Jaffin, David, 1937-",1],
       "date_range_sim":[
         "1901-2000",5,
         "2001-2100",10],

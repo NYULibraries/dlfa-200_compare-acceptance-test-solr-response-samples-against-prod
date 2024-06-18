@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Bronx Teen Resource and Referral Network Records"],
         "unitid_ssm":["TAM.581"],
         "abstract_ssm":["The Bronx Teen Resource and Referral Network, formerly the Bronx Teen Pregnancy Network, was established in 1983. The Network functioned as a self-selected coalition of organizations, institutions, individuals. This collection includes materials related to the Network's activities and programs that provided education, support, and guidance to teenagers in the Bronx, particularly on the topics of pregnancy and sexually-transmitted diseases. There is also a substantial amount of material pertaining to fundraising."],
+        "creator_ssm":["Bronx Teen Resource and Referral Network",
+          "Bronx Teen Resource and Referral Network"],
         "unitdate_normal_ssm":["1983/1996"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Bronx Teen Resource and Referral Network",
@@ -77,8 +79,8 @@
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, 1983-1996"],
         "language_ssm":["English"],
-        "_version_":1775217538655846400,
-        "timestamp":"2023-08-25T16:02:52.649Z"},
+        "_version_":1801271138871934976,
+        "timestamp":"2024-06-08T05:53:42.026Z"},
       {
         "id":"tam_581aspace_ref10",
         "ead_ssi":"tam_581",
@@ -100,8 +102,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, late 1980s-early 1990s"],
-        "_version_":1775217538950496256,
-        "timestamp":"2023-08-25T16:02:52.931Z"},
+        "_version_":1801271138973646848,
+        "timestamp":"2024-06-08T05:53:42.123Z"},
       {
         "id":"tam_581aspace_ref11",
         "ead_ssi":"tam_581",
@@ -123,8 +125,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, late 1980s-early 1990s"],
-        "_version_":1775217539011313664,
-        "timestamp":"2023-08-25T16:02:52.989Z"},
+        "_version_":1801271138988326912,
+        "timestamp":"2024-06-08T05:53:42.137Z"},
       {
         "id":"tam_581aspace_ref12",
         "ead_ssi":"tam_581",
@@ -146,8 +148,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, early 1990s"],
-        "_version_":1775217539074228224,
-        "timestamp":"2023-08-25T16:02:53.049Z"},
+        "_version_":1801271139001958400,
+        "timestamp":"2024-06-08T05:53:42.15Z"},
       {
         "id":"tam_581aspace_ref13",
         "ead_ssi":"tam_581",
@@ -169,8 +171,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, late 1980s-early 1990s"],
-        "_version_":1775217539128754176,
-        "timestamp":"2023-08-25T16:02:53.101Z"},
+        "_version_":1801271139017687040,
+        "timestamp":"2024-06-08T05:53:42.165Z"},
       {
         "id":"tam_581aspace_ref14",
         "ead_ssi":"tam_581",
@@ -192,8 +194,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, late 1980s-early 1990s"],
-        "_version_":1775217539182231552,
-        "timestamp":"2023-08-25T16:02:53.152Z"},
+        "_version_":1801271139035512832,
+        "timestamp":"2024-06-08T05:53:42.182Z"},
       {
         "id":"tam_581aspace_ref15",
         "ead_ssi":"tam_581",
@@ -215,8 +217,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1987-1989"],
-        "_version_":1775217539221028864,
-        "timestamp":"2023-08-25T16:02:53.189Z"},
+        "_version_":1801271139049144320,
+        "timestamp":"2024-06-08T05:53:42.195Z"},
       {
         "id":"tam_581aspace_ref16",
         "ead_ssi":"tam_581",
@@ -238,8 +240,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, mid 1980s-1990"],
-        "_version_":1775217539256680448,
-        "timestamp":"2023-08-25T16:02:53.223Z"},
+        "_version_":1801271139064872960,
+        "timestamp":"2024-06-08T05:53:42.21Z"},
       {
         "id":"tam_581aspace_ref17",
         "ead_ssi":"tam_581",
@@ -261,8 +263,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, late 1980s-1994"],
-        "_version_":1775217539300720640,
-        "timestamp":"2023-08-25T16:02:53.265Z"},
+        "_version_":1801271139084795904,
+        "timestamp":"2024-06-08T05:53:42.229Z"},
       {
         "id":"tam_581aspace_ref18",
         "ead_ssi":"tam_581",
@@ -284,8 +286,8 @@
         "unitdate_start_ssm":["1983"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, mid 1980s-1990"],
-        "_version_":1775217539341615104,
-        "timestamp":"2023-08-25T16:02:53.303Z"},
+        "_version_":1801271139100524544,
+        "timestamp":"2024-06-08T05:53:42.244Z"},
       {
         "id":"tam_581aspace_ref19",
         "ead_ssi":"tam_581",
@@ -307,8 +309,8 @@
         "unitdate_start_ssm":["1988"],
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, 1988-1994"],
-        "_version_":1775217539378315264,
-        "timestamp":"2023-08-25T16:02:53.339Z"},
+        "_version_":1801271139116253184,
+        "timestamp":"2024-06-08T05:53:42.259Z"},
       {
         "id":"tam_581aspace_ref20",
         "ead_ssi":"tam_581",
@@ -330,8 +332,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, late 1980s-mid 1990s"],
-        "_version_":1775217539412918272,
-        "timestamp":"2023-08-25T16:02:53.372Z"},
+        "_version_":1801271139130933248,
+        "timestamp":"2024-06-08T05:53:42.273Z"},
       {
         "id":"tam_581aspace_ref21",
         "ead_ssi":"tam_581",
@@ -353,8 +355,8 @@
         "unitdate_start_ssm":["1988"],
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, 1988-1994"],
-        "_version_":1775217539449618432,
-        "timestamp":"2023-08-25T16:02:53.407Z"},
+        "_version_":1801271139145613312,
+        "timestamp":"2024-06-08T05:53:42.287Z"},
       {
         "id":"tam_581aspace_ref22",
         "ead_ssi":"tam_581",
@@ -376,8 +378,8 @@
         "unitdate_start_ssm":["1986"],
         "unitdate_end_ssm":["1994"],
         "unitdate_ssm":["Inclusive, 1986-1994"],
-        "_version_":1775217539494707200,
-        "timestamp":"2023-08-25T16:02:53.45Z"},
+        "_version_":1801271139160293376,
+        "timestamp":"2024-06-08T05:53:42.301Z"},
       {
         "id":"tam_581aspace_ref23",
         "ead_ssi":"tam_581",
@@ -399,8 +401,8 @@
         "unitdate_start_ssm":["1990"],
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, early-mid 1990s"],
-        "_version_":1775217539533504512,
-        "timestamp":"2023-08-25T16:02:53.487Z"},
+        "_version_":1801271139179167744,
+        "timestamp":"2024-06-08T05:53:42.319Z"},
       {
         "id":"tam_581aspace_ref4",
         "ead_ssi":"tam_581",
@@ -414,8 +416,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Inventory"],
-        "_version_":1775217538696740864,
-        "timestamp":"2023-08-25T16:02:52.689Z"},
+        "_version_":1801271138885566464,
+        "timestamp":"2024-06-08T05:53:42.038Z"},
       {
         "id":"tam_581aspace_ref5",
         "ead_ssi":"tam_581",
@@ -437,8 +439,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, early 1980s-early 1990s"],
-        "_version_":1775217538741829632,
-        "timestamp":"2023-08-25T16:02:52.732Z"},
+        "_version_":1801271138901295104,
+        "timestamp":"2024-06-08T05:53:42.054Z"},
       {
         "id":"tam_581aspace_ref6",
         "ead_ssi":"tam_581",
@@ -460,8 +462,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, late 1980s-early 1990s"],
-        "_version_":1775217538785869824,
-        "timestamp":"2023-08-25T16:02:52.774Z"},
+        "_version_":1801271138915975168,
+        "timestamp":"2024-06-08T05:53:42.068Z"},
       {
         "id":"tam_581aspace_ref7",
         "ead_ssi":"tam_581",
@@ -483,8 +485,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, late 1980s-early 1990s"],
-        "_version_":1775217538826764288,
-        "timestamp":"2023-08-25T16:02:52.813Z"},
+        "_version_":1801271138929606656,
+        "timestamp":"2024-06-08T05:53:42.081Z"},
       {
         "id":"tam_581aspace_ref8",
         "ead_ssi":"tam_581",
@@ -506,8 +508,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, late 1980s-early 1990s"],
-        "_version_":1775217538868707328,
-        "timestamp":"2023-08-25T16:02:52.853Z"},
+        "_version_":1801271138944286720,
+        "timestamp":"2024-06-08T05:53:42.095Z"},
       {
         "id":"tam_581aspace_ref9",
         "ead_ssi":"tam_581",
@@ -529,8 +531,8 @@
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, late 1980s-mid 1990s"],
-        "_version_":1775217538911698944,
-        "timestamp":"2023-08-25T16:02:52.894Z"}]
+        "_version_":1801271138957918208,
+        "timestamp":"2024-06-08T05:53:42.108Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -538,7 +540,8 @@
       "repository_sim":[
         "tamwag",21],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bronx Teen Resource and Referral Network",1],
       "date_range_sim":[
         "1901-2000",20,
         "undated & other",1],

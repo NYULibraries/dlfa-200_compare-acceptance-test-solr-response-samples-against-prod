@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Kenneth Silverman Papers"],
         "unitid_ssm":["MSS.505"],
         "abstract_ssm":["Kenneth Eugene Silverman (1936-2017) was a Lithuanian-American magician, biographer and New York University professor who specialized in Colonial American literature. Silverman was the co-director of NYU's American Civilization department and writer of several biographies such as Edgar A. Poe: Mournful and Never-Ending Remembrance. The Kenneth Silverman Papers mainly consists of photocopies of Silverman's research findings, detailed notes and annotations on notecards for his 1991 biography, Edgar A Poe: Mournful and Never-Ending Remembrance."],
+        "creator_ssm":["Silverman, Kenneth",
+          "Silverman, Kenneth"],
         "unitdate_normal_ssm":["1800/1989"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "persname_ssm":["Silverman, Kenneth",
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1800"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1800s-1890s, circa 1980s"],
-        "_version_":1799741492498006016,
-        "timestamp":"2024-05-22T08:40:37.566Z"},
+        "_version_":1802073909288239104,
+        "timestamp":"2024-06-17T02:33:23.554Z"},
       {
         "id":"mss_505aspace_1792ccad464955db6079ce491220e21e",
         "ead_ssi":"mss_505",
@@ -85,8 +87,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, Circa 1980s"],
-        "_version_":1799741492546240512,
-        "timestamp":"2024-05-22T08:40:37.612Z"},
+        "_version_":1802073909378416640,
+        "timestamp":"2024-06-17T02:33:23.64Z"},
       {
         "id":"mss_505aspace_2863de8b40cb43b98f0a062c44d665da",
         "ead_ssi":"mss_505",
@@ -112,8 +114,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, Circa 1980s"],
-        "_version_":1799741492561969152,
-        "timestamp":"2024-05-22T08:40:37.627Z"},
+        "_version_":1802073909414068224,
+        "timestamp":"2024-06-17T02:33:23.674Z"},
       {
         "id":"mss_505aspace_479d4fa3d4520d2db0ef68fbafd9de2d",
         "ead_ssi":"mss_505",
@@ -131,8 +133,8 @@
         "unitdate_start_ssm":["1800"],
         "unitdate_end_ssm":["1899"],
         "unitdate_ssm":["Inclusive, Early 1800s - late 1890s"],
-        "_version_":1799741492511637504,
-        "timestamp":"2024-05-22T08:40:37.579Z"},
+        "_version_":1802073909318647808,
+        "timestamp":"2024-06-17T02:33:23.582Z"},
       {
         "id":"mss_505aspace_9d60ad36863012b9a426910d640c457c",
         "ead_ssi":"mss_505",
@@ -150,15 +152,13 @@
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1, Folder: 1-33",
-          "Folder: 1-33",
-          "Box: 2, Folder: 1-40",
-          "Folder: 1-40"],
+          "Box: 2, Folder: 1-40"],
         "heading_ssm":["Journal of research citations and photocopies of research files"],
         "unitdate_start_ssm":["1800"],
         "unitdate_end_ssm":["1899"],
         "unitdate_ssm":["Inclusive, 1800-1890s"],
-        "_version_":1799741492528414720,
-        "timestamp":"2024-05-22T08:40:37.595Z"}]
+        "_version_":1802073909346959360,
+        "timestamp":"2024-06-17T02:33:23.61Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -166,7 +166,8 @@
       "repository_sim":[
         "fales",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Silverman, Kenneth",1],
       "date_range_sim":[
         "1701-1800",3,
         "1801-1900",2,

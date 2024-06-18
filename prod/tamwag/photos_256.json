@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Nicole Greenhouse"],
         "unittitle_ssm":["Service Employees International Union, Local 32BJ Photographs and Archived Websites"],
-        "unitid_ssm":["PHOTOS.256",
-          "/repositories/2/resources/611"],
+        "unitid_ssm":["PHOTOS.256"],
         "abstract_ssm":["This collection contains photographs and websites of the Service Employees International Union, Local 32BJ. The collection contains mostly black and white photographs from the late 1930s and 1940s of strikes and group portraits of union leaders."],
+        "creator_ssm":["Service Employees International Union. Local 32B-32J (New York, N.Y.)",
+          "Service Employees International Union. Local 32B-32J (New York, N.Y.)"],
         "unitdate_normal_ssm":["1938/2023"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Service Employees International Union. Local 32B-32J (New York, N.Y.)",
@@ -68,15 +69,15 @@
         "unitdate_start_ssm":["1938"],
         "unitdate_end_ssm":["2023"],
         "unitdate_ssm":["Inclusive, 1938-1945, 2009-ongoing"],
-        "_version_":1790848441837944832,
-        "timestamp":"2024-02-14T04:49:23.557Z"},
+        "_version_":1801191872583958528,
+        "timestamp":"2024-06-07T08:53:47.803Z"},
       {
         "id":"photos_256aspace_6e08ebbc926d2ece4a9da149d59e3edc",
         "ead_ssi":"photos_256",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Service Employees International Union, Local 32BJ Photographs and Archived Websites"],
-        "collection_unitid_ssm":["PHOTOS.256/repositories/2/resources/611"],
+        "collection_unitid_ssm":["PHOTOS.256"],
         "unittitle_ssm":["Building Service Employees International Union 9th General Convention group photograph"],
         "unitid_ssm":["/repositories/2/archival_objects/799084"],
         "unitdate_normal_ssm":["1945-10-22/1945-10-22"],
@@ -87,15 +88,15 @@
         "location_ssm":["Flat-File-Folder: 1"],
         "heading_ssm":["Building Service Employees International Union 9th General Convention group photograph"],
         "unitdate_ssm":["1945-10-22"],
-        "_version_":1790848441878839296,
-        "timestamp":"2024-02-14T04:49:23.596Z"},
+        "_version_":1801191872627998720,
+        "timestamp":"2024-06-07T08:53:47.845Z"},
       {
         "id":"photos_256aspace_ref12",
         "ead_ssi":"photos_256",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Service Employees International Union, Local 32BJ Photographs and Archived Websites"],
-        "collection_unitid_ssm":["PHOTOS.256/repositories/2/resources/611"],
+        "collection_unitid_ssm":["PHOTOS.256"],
         "unittitle_ssm":["Archived Websites"],
         "unitid_ssm":["/repositories/2/archival_objects/152477"],
         "unitdate_normal_ssm":["2009-08-08/2009-08-08"],
@@ -113,8 +114,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["August 2009-ongoing"],
-        "_version_":1790848441862062080,
-        "timestamp":"2024-02-14T04:49:23.579Z"}]
+        "_version_":1801191872608075776,
+        "timestamp":"2024-06-07T08:53:47.826Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -123,7 +124,8 @@
         "tamwag",3],
       "dao_sim":[
         "Translation missing: en.ead_indexer.fields.dao",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Service Employees International Union. Local 32B-32J (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Craft family deed"],
         "unitid_ssm":["1977.498"],
         "abstract_ssm":["An 1828 deed between Esther and Mary Craft, releasing their claims from the estate of their father, James Craft, to their brother Isaac Craft."],
+        "creator_ssm":["Craft, Mary",
+          "Craft, Isaac",
+          "Craft, Esther",
+          "Craft family",
+          "Craft family",
+          "Craft, Mary",
+          "Craft, Isaac",
+          "Craft, Esther"],
         "unitdate_normal_ssm":["1828/1828"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Craft family",
@@ -76,8 +84,8 @@
         "unitdate_end_ssm":["1828"],
         "unitdate_ssm":["1828"],
         "language_ssm":["English"],
-        "_version_":1799256473670254592,
-        "timestamp":"2024-05-17T00:11:27.567Z"}]
+        "_version_":1801961803704434688,
+        "timestamp":"2024-06-15T20:51:31.338Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +93,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Craft family",1,
+        "Craft, Esther",1,
+        "Craft, Isaac",1,
+        "Craft, Mary",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

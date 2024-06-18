@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":19,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Neil Sih Typescript \"Five Years of the Left Opposition in China\""],
         "unitid_ssm":["TAM.303"],
         "abstract_ssm":["Consists of an unpublished typescript titled \"Five Years of the Left Opposition in China: An Attempt to Explain Its Failure to Make Progress,\" by Neil Sih, a Chinese Communist who became active in the (Trotskyist) Left Opposition in China."],
+        "creator_ssm":["Sih, Niel",
+          "Sih, Niel"],
         "unitdate_normal_ssm":["1934/1934"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Chinese Left Opposition",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1934"],
         "unitdate_ssm":["Inclusive, 1934"],
         "language_ssm":["English"],
-        "_version_":1799782605345783808,
-        "timestamp":"2024-05-22T19:34:05.833Z"},
+        "_version_":1802171523655532544,
+        "timestamp":"2024-06-18T04:24:55.869Z"},
       {
         "id":"tam_303aspace_ref13",
         "ead_ssi":"tam_303",
@@ -87,8 +89,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I: Manuscript"],
         "language_ssm":["English"],
-        "_version_":1799782605358366720,
-        "timestamp":"2024-05-22T19:34:05.845Z"},
+        "_version_":1802171523662872576,
+        "timestamp":"2024-06-18T04:24:55.876Z"},
       {
         "id":"tam_303aspace_ref14",
         "ead_ssi":"tam_303",
@@ -106,14 +108,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Five Years of the Left Opposition in China: An Attempt to Explain Its Failure to Make Progress(User photocopy)"],
         "unitdate_start_ssm":["1934"],
         "unitdate_end_ssm":["1934"],
         "unitdate_ssm":["Inclusive, 1934"],
-        "_version_":1799782605373046784,
-        "timestamp":"2024-05-22T19:34:05.859Z"},
+        "_version_":1802171523672309760,
+        "timestamp":"2024-06-18T04:24:55.885Z"},
       {
         "id":"tam_303aspace_ref15",
         "ead_ssi":"tam_303",
@@ -131,14 +132,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Five Years of the Left Opposition in China: An Attempt to Explain Its Failure to Make Progress(Original carbon copy)"],
         "unitdate_start_ssm":["1934"],
         "unitdate_end_ssm":["1934"],
         "unitdate_ssm":["Inclusive, 1934"],
-        "_version_":1799782605394018304,
-        "timestamp":"2024-05-22T19:34:05.879Z"}]
+        "_version_":1802171523685941248,
+        "timestamp":"2024-06-18T04:24:55.898Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -146,7 +146,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sih, Niel",1],
       "date_range_sim":[
         "1901-2000",3,
         "undated & other",1],

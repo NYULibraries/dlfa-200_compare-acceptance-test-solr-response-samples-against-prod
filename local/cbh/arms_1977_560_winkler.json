@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sylvester Winkler papers"],
         "unitid_ssm":["1977.560"],
         "abstract_ssm":["This collection spans 1854 to 1870 and consists of a mortgage for Sylvester Winkler's bakery on Pacific Street in Brooklyn and various receipts and licenses for Winkler's business."],
+        "creator_ssm":["Winkler, Sylvester",
+          "Winkler, Sylvester"],
         "unitdate_normal_ssm":["1854/1870"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Licenses",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1870"],
         "unitdate_ssm":["Inclusive, 1854-1870"],
         "language_ssm":["English"],
-        "_version_":1799311497869918208,
-        "timestamp":"2024-05-17T14:46:02.733Z"}]
+        "_version_":1801961952703938560,
+        "timestamp":"2024-06-15T20:53:53.434Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Winkler, Sylvester",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

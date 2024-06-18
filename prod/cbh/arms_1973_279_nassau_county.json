@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Minutes regarding the formation of Nassau County, Long Island"],
         "unitid_ssm":["1973.279"],
         "abstract_ssm":["Photocopies of minutes of a meeting held in the village of Mineola on January 22, 1898 by citizens from Hempstead, North Hempstead, and Oyster Bay to discuss the formation of Nassau County as an alternative to annexation to Greater New York City or Kings, Suffolk, or Queens Counties.  The minutes were recorded by secretary Archer B. Wallace."],
+        "creator_ssm":["Wallace, Archer B.",
+          "Wallace, Archer B."],
         "unitdate_normal_ssm":["1848/1848"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Minutes"],
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1848"],
         "unitdate_ssm":["Inclusive, 1848"],
         "language_ssm":["English"],
-        "_version_":1775226300921806848,
-        "timestamp":"2023-08-25T18:22:08.998Z"}]
+        "_version_":1800659906298118144,
+        "timestamp":"2024-06-01T11:58:25.219Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wallace, Archer B.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

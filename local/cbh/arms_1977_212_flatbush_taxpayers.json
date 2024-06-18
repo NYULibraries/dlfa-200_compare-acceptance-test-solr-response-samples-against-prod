@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Flatbush Taxpayers' Association records"],
         "unitid_ssm":["1977.212"],
         "abstract_ssm":["The Flatbush Taxpayers' Association records span the dates 1896 to 1914 and is primarily comprised of scrapbooks, two minutes books, and one membership roll book."],
+        "creator_ssm":["Flatbush Taxpayers' Association (New York, N.Y.)",
+          "Flatbush Taxpayers' Association (New York, N.Y.)"],
         "unitdate_normal_ssm":["1896/1914"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Flatbush Taxpayers' Association (New York, N.Y.)",
@@ -81,8 +83,8 @@
         "unitdate_end_ssm":["1914"],
         "unitdate_ssm":["Inclusive, 1896-1914"],
         "language_ssm":["English"],
-        "_version_":1799256205034520576,
-        "timestamp":"2024-05-17T00:07:11.376Z"}]
+        "_version_":1801960949037400064,
+        "timestamp":"2024-06-15T20:37:56.264Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +92,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Flatbush Taxpayers' Association (New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

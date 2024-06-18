@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edward Johnston photographs"],
         "unitid_ssm":["2018.004"],
         "abstract_ssm":["Edward Johnston was a resident of Brooklyn at least in the 1950s and 1990s. He was a member of the 77th Reconnaissance Company of the 77th Infantry Division, and served during World War II. He later became involved in the St. Stanislaus Memorial Post 1771 of the American Legion in Greenpoint. This collection include three folders of photographs, including images of Edward Johnston as a young man in military uniform, unidentified photographs of family members, and photographs from St. Stanislaus Memorial Post 1771 of the American Legion in Greenpoint."],
+        "creator_ssm":["Johnston, Edward",
+          "Johnston, Edward"],
         "unitdate_normal_ssm":["1951/1999"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Greenpoint (New York, N.Y.)"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1951-1999"],
         "language_ssm":["English"],
-        "_version_":1799312404543176704,
-        "timestamp":"2024-05-17T15:00:27.404Z"}]
+        "_version_":1801958442762502144,
+        "timestamp":"2024-06-15T19:58:06.094Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Johnston, Edward",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

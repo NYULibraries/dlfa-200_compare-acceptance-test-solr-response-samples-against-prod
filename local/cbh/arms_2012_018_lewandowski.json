@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":32,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Matthew Lewandowski jewelry dies and papers"],
         "unitid_ssm":["2012.018"],
         "abstract_ssm":["Collection consists of steel dies (also called hubs) used for the stamping of hollow-form earrings and other jewelry. The dies were designed and manufactured by Matthew Lewandowski, owner of the Matthew Tool and Die company. In addition to the dies, the collection contains papers related to Lewandowski's business, and digital files consisting of photographs, audio recordings, and video recordings."],
+        "creator_ssm":["Ganzglass, Marc",
+          "Lewandowski, Matthew",
+          "Matthew Tool & Dye",
+          "Matthew Tool & Dye",
+          "Ganzglass, Marc",
+          "Lewandowski, Matthew"],
         "unitdate_normal_ssm":["1975/2012"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Matthew Tool & Dye",
@@ -93,8 +99,8 @@
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 1975-2012"],
         "language_ssm":["English"],
-        "_version_":1799312407416274944,
-        "timestamp":"2024-05-17T15:00:30.144Z"},
+        "_version_":1801964166782648320,
+        "timestamp":"2024-06-15T21:29:04.945Z"},
       {
         "id":"arms_2012_018_lewandowskiaspace_ref12_3kt",
         "ead_ssi":"arms_2012_018_lewandowski",
@@ -113,8 +119,8 @@
         "unitdate_start_ssm":["2011"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 2011-2012"],
-        "_version_":1799312407474995200,
-        "timestamp":"2024-05-17T15:00:30.2Z"},
+        "_version_":1801964166859194368,
+        "timestamp":"2024-06-15T21:29:05.018Z"},
       {
         "id":"arms_2012_018_lewandowskiaspace_ref7_x16",
         "ead_ssi":"arms_2012_018_lewandowski",
@@ -133,8 +139,8 @@
         "unitdate_start_ssm":["1975"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 1975-2012"],
-        "_version_":1799312407435149312,
-        "timestamp":"2024-05-17T15:00:30.162Z"},
+        "_version_":1801964166803619840,
+        "timestamp":"2024-06-15T21:29:04.965Z"},
       {
         "id":"arms_2012_018_lewandowskiaspace_ref9_tjw",
         "ead_ssi":"arms_2012_018_lewandowski",
@@ -175,8 +181,8 @@
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1980s-2000s"],
-        "_version_":1799312407460315136,
-        "timestamp":"2024-05-17T15:00:30.186Z"}]
+        "_version_":1801964166841368576,
+        "timestamp":"2024-06-15T21:29:05.001Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -184,7 +190,10 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ganzglass, Marc",1,
+        "Lewandowski, Matthew",1,
+        "Matthew Tool & Dye",1],
       "date_range_sim":[
         "1901-2000",3,
         "2001-2100",3],

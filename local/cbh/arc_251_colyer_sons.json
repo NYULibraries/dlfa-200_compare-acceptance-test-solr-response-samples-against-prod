@@ -47,6 +47,10 @@
         "unittitle_ssm":["Joseph H. Colyer &amp; Son business records and papers"],
         "unitid_ssm":["ARC.251"],
         "abstract_ssm":["The collection contains business records and personal papers relating to Joseph H. Colyer, dating from 1867 to 1930. It includes three oversize ledgers of Joseph H. Colyer & Son tracking the materials, supplies, and financial transactions involved in the firm's contracts with various clients in Brooklyn and New York City.  The ledgers cover contracts that were active during the period 1893 to 1907. The collection also includes an assortment of other business records and personal papers relating to Colyer and his business."],
+        "creator_ssm":["Joseph H. Colyer & Son (Brooklyn, New York, N.Y.)",
+          "Colyer, Joseph A.",
+          "Joseph H. Colyer & Son (Brooklyn, New York, N.Y.)",
+          "Colyer, Joseph A."],
         "unitdate_normal_ssm":["1867/1930",
           "1886/1907"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -104,8 +108,8 @@
           "1907"],
         "unitdate_ssm":["Inclusive, 1867-1930 ; 1886-1907"],
         "language_ssm":["English"],
-        "_version_":1799311561732390912,
-        "timestamp":"2024-05-17T14:47:03.637Z"}]
+        "_version_":1801959589188468736,
+        "timestamp":"2024-06-15T20:16:19.41Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -113,7 +117,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Colyer, Joseph A.",1,
+        "Joseph H. Colyer & Son (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Mary A. Titcomb scrapbooks"],
         "unitid_ssm":["ARC.080"],
         "abstract_ssm":["The Mary A. Titcomb scrapbooks consist of seven volumes of clippings, 1865-1881. The scrapbooks contain clippings of the weekly magazine series that were written by Titcomb."],
+        "creator_ssm":["Titcomb, Mary A.",
+          "Titcomb, Mary A."],
         "unitdate_normal_ssm":["1865/1881"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Scrapbooks"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1881"],
         "unitdate_ssm":["Inclusive, 1865-1881"],
         "language_ssm":["English"],
-        "_version_":1799256179929513984,
-        "timestamp":"2024-05-17T00:06:47.434Z"},
+        "_version_":1801958917841879040,
+        "timestamp":"2024-06-15T20:05:39.165Z"},
       {
         "id":"arc_080_titcombaspace_ref7_jnf",
         "ead_ssi":"arc_080_titcomb",
@@ -87,8 +89,8 @@
         "unitdate_end_ssm":["1870"],
         "unitdate_ssm":["Inclusive, 1867-1870"],
         "language_ssm":["English"],
-        "_version_":1799256179945242624,
-        "timestamp":"2024-05-17T00:06:47.449Z"},
+        "_version_":1801958917861801984,
+        "timestamp":"2024-06-15T20:05:39.184Z"},
       {
         "id":"arc_080_titcombaspace_ref8_jeu",
         "ead_ssi":"arc_080_titcomb",
@@ -107,8 +109,8 @@
         "unitdate_end_ssm":["1881"],
         "unitdate_ssm":["Inclusive, 1870-1881"],
         "language_ssm":["English"],
-        "_version_":1799256179965165568,
-        "timestamp":"2024-05-17T00:06:47.468Z"},
+        "_version_":1801958917885919232,
+        "timestamp":"2024-06-15T20:05:39.207Z"},
       {
         "id":"arc_080_titcombaspace_ref9_z4m",
         "ead_ssi":"arc_080_titcomb",
@@ -127,8 +129,8 @@
         "unitdate_end_ssm":["1880"],
         "unitdate_ssm":["Inclusive, 1865-1880"],
         "language_ssm":["English"],
-        "_version_":1799256179982991360,
-        "timestamp":"2024-05-17T00:06:47.485Z"}]
+        "_version_":1801958917910036480,
+        "timestamp":"2024-06-15T20:05:39.23Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -136,7 +138,8 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Titcomb, Mary A.",1],
       "date_range_sim":[
         "1801-1900",4],
       "subject_sim":[

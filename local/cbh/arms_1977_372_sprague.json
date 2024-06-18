@@ -47,6 +47,12 @@
         "unittitle_ssm":["George Sprague deed and title search"],
         "unitid_ssm":["1977.372"],
         "abstract_ssm":["Deed and title search (1875) for land transferred between George and Isabella Sprague and Herman Nickerson, all of Huntington, Long Island."],
+        "creator_ssm":["Sprague, George",
+          "Nickerson, Herman",
+          "Sprague, Isabella",
+          "Sprague, George",
+          "Nickerson, Herman",
+          "Sprague, Isabella"],
         "unitdate_normal_ssm":["1832/1875"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Huntington (N.Y.)"],
@@ -71,8 +77,8 @@
         "unitdate_end_ssm":["1875"],
         "unitdate_ssm":["Inclusive, 1832-1875"],
         "language_ssm":["English"],
-        "_version_":1799256217092096000,
-        "timestamp":"2024-05-17T00:07:22.875Z"}]
+        "_version_":1801961473842348032,
+        "timestamp":"2024-06-15T20:46:16.757Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +86,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nickerson, Herman",1,
+        "Sprague, George",1,
+        "Sprague, Isabella",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -47,6 +47,10 @@
         "unittitle_ssm":["William Mott inventory of goods and chattels"],
         "unitid_ssm":["1977.485"],
         "abstract_ssm":["Inventory of the goods and chattels of the deceased William Mott, merchant, conducted by Isaac Wright and Isaac Doty on January 14, 1796."],
+        "creator_ssm":["Wright, Isaac",
+          "Doty, Isaac",
+          "Wright, Isaac",
+          "Doty, Isaac"],
         "unitdate_normal_ssm":["1796/1796"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Inventories"],
@@ -68,8 +72,8 @@
         "unitdate_end_ssm":["1796"],
         "unitdate_ssm":["1796"],
         "language_ssm":["English"],
-        "_version_":1799309921132478464,
-        "timestamp":"2024-05-17T14:20:59.039Z"}]
+        "_version_":1801961775216721920,
+        "timestamp":"2024-06-15T20:51:04.17Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +81,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Doty, Isaac",1,
+        "Wright, Isaac",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

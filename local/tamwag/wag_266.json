@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":22,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Commercial Telegraphers Union Notes and Correspondence on Negotiations with Western Union"],
         "unitid_ssm":["WAG.266"],
+        "creator_ssm":["Commercial Telegraphers' Union of America",
+          "Commercial Telegraphers' Union of America"],
         "unitdate_normal_ssm":["1946/1949"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Commercial Telegraphers' Union of America"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, 1946-1949"],
         "language_ssm":["English"],
-        "_version_":1799803885340065792,
-        "timestamp":"2024-05-23T01:12:20.017Z"}]
+        "_version_":1802196435451510784,
+        "timestamp":"2024-06-18T11:00:53.609Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Commercial Telegraphers' Union of America",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

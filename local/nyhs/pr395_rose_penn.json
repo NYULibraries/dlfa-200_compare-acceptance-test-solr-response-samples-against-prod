@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["The last days of Penn Station : a portfolio of twenty-two photogravures"],
         "unitid_ssm":["PR 395"],
         "abstract_ssm":["\"The bound portfolio with removable pages was published by Palm Press, Inc., in the Fall of 2005. The photogravures were printed by Jon Goodman on Somerset papers under the direct supervision of Aaron Rose and the Publisher. Each plate has been signed recto and numbered verso. The binding was designed by Jim DiMarcantonio and the Publisher and crafted by DiMarcantonio at The Hope Bindery, Pawtucket, Rhode Island. The text has been set and hand printed on Rives paper by Jon Kristensen at Firefly Press in Somerville, Massachusetts.\"\n\n\"Published in a total edition of sixty-six sets comprised of twenty-two signed photogravures and text in removable binding. Sixteen portfolios are reserved to the Artist, Printer, and Publisher.\" N-YHS copy is number \"AP IX.\"\n\nThe photographs were among those taken by Aaron Rose from 1963-1966 over the course of the demolition of Penn Station in New York. The photographs do not document the demolition process, which was not Rose's intent, but capture impressions and select details of the building at various points during its destruction. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: The last days of Penn Station"],
+        "creator_ssm":["Rose, Aaron",
+          "Rose, Aaron"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Rose, Aaron"],
         "collection_ssm":["The last days of Penn Station : a portfolio of twenty-two photogravures"],
@@ -58,8 +60,8 @@
         "heading_ssm":["The last days of Penn Station : a portfolio of twenty-two photogravures"],
         "unitdate_ssm":["2005"],
         "language_ssm":["English"],
-        "_version_":1799324370608324608,
-        "timestamp":"2024-05-17T18:10:39.133Z"}]
+        "_version_":1802094559369363456,
+        "timestamp":"2024-06-17T08:01:37.006Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rose, Aaron",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

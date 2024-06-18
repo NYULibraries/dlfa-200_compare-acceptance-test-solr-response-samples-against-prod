@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sonnenberg Mansion interior photographs, 19 Gramercy Park South"],
         "unitid_ssm":["PR 465"],
         "abstract_ssm":["A photograph album containing one exterior and twenty-seven interior photographs of the Sonnenberg Mansion at 19 Gramercy Park South, Manhattan."],
+        "creator_ssm":["Tucker, Steven",
+          "Tucker, Steven"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Color photographs."],
         "geogname_ssm":["Gramercy Park (New York, N.Y.) -- Buildings, structures, etc."],
@@ -67,8 +69,8 @@
         "material_type_ssm":["Color photographs."],
         "heading_ssm":["Sonnenberg Mansion interior photographs, 19 Gramercy Park South"],
         "unitdate_ssm":["Inclusive, circa 1978"],
-        "_version_":1797402548812906496,
-        "timestamp":"2024-04-26T13:04:07.046Z"},
+        "_version_":1801081756100591616,
+        "timestamp":"2024-06-06T03:43:32.54Z"},
       {
         "id":"pr465_sonnenbergaspace_798edba18ba07dd92488d30687781685",
         "ead_ssi":"pr465_sonnenberg",
@@ -84,8 +86,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Sonnenberg Mansion interior photographs"],
         "unitdate_ssm":["Inclusive, circa 1978"],
-        "_version_":1797402548827586560,
-        "timestamp":"2024-04-26T13:04:07.06Z"}]
+        "_version_":1801081756115271680,
+        "timestamp":"2024-06-06T03:43:32.555Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +95,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tucker, Steven",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Robert Hall Notebook"],
         "unitid_ssm":["MC.62"],
         "abstract_ssm":["Robert William Hall was a professor of analytical chemistry at New York University from 1888-1904.  Hall also served as treasurer of NYU's Athletic Association, founding member and Chairman of the University's Summer School Program (1895 to 1904), Reader of Chemistry for the College Entrance Examination Board (circa 1902 to 1903), and as a member of the Chemical Club. His collection consists of seven notebook pages of lecture notes for his course on quantitative chemical analysis. Hall's notes contain no date; however, he likely composed them between 1896 and 1904 (an assumption based on Hall's using the new name for the institution--New York University--as opposed to the University of the City of New York)."],
+        "creator_ssm":["Hall, Robert William, b. 1853",
+          "Hall, Robert William, b. 1853"],
         "unitdate_normal_ssm":["1896/1904"],
         "corpname_ssm":["New York University Archives",
           "University of the City of New York. School of Analytical and Practical Chemistry",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1896"],
         "unitdate_end_ssm":["1904"],
         "unitdate_ssm":["Inclusive, circa 1896-1904"],
-        "_version_":1799248754910429184,
-        "timestamp":"2024-05-16T22:08:46.384Z"},
+        "_version_":1801950541515849728,
+        "timestamp":"2024-06-15T17:52:30.878Z"},
       {
         "id":"mc_62aspace_ref11",
         "ead_ssi":"mc_62",
@@ -82,13 +84,12 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 008, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: Shared University Archives 008, Folder: 4"],
         "heading_ssm":["Notes on Quantitative Chemical Analysis"],
         "unitdate_ssm":["circa 1894-1904"],
         "language_ssm":["English"],
-        "_version_":1799248754937692160,
-        "timestamp":"2024-05-16T22:08:46.41Z"}]
+        "_version_":1801950541531578368,
+        "timestamp":"2024-06-15T17:52:30.893Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +97,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hall, Robert William, b. 1853",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

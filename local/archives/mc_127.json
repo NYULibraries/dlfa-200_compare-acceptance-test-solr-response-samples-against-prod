@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Jennifer E. Neal"],
         "unittitle_ssm":["Howard Cann Collection"],
-        "unitid_ssm":["MC.127",
-          "/repositories/6/resources/3024"],
+        "unitid_ssm":["MC.127"],
         "abstract_ssm":["Howard Cann coached basketball for thirty-five years at New York University, from 1923-1958."],
+        "creator_ssm":["Cann, Howard",
+          "Cann, Howard"],
         "unitdate_normal_ssm":["1915/1991"],
         "corpname_ssm":["New York University Archives"],
         "genreform_ssm":["Certificates.",
@@ -67,15 +68,15 @@
         "unitdate_start_ssm":["1915"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1915-1991"],
-        "_version_":1799248808995979264,
-        "timestamp":"2024-05-16T22:09:37.964Z"},
+        "_version_":1801945838867447808,
+        "timestamp":"2024-06-15T16:37:46.083Z"},
       {
         "id":"mc_127aspace_136364d18f13f8646aec333eddedd168",
         "ead_ssi":"mc_127",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Howard Cann Collection"],
-        "collection_unitid_ssm":["MC.127/repositories/6/resources/3024"],
+        "collection_unitid_ssm":["MC.127"],
         "unittitle_ssm":["American flag"],
         "unitid_ssm":["/repositories/6/archival_objects/843669"],
         "ref_ssi":"aspace_136364d18f13f8646aec333eddedd168",
@@ -86,15 +87,15 @@
           "Box: 3"],
         "heading_ssm":["American flag"],
         "unitdate_ssm":["undated"],
-        "_version_":1799248809013805056,
-        "timestamp":"2024-05-16T22:09:37.98Z"},
+        "_version_":1801945838884225024,
+        "timestamp":"2024-06-15T16:37:46.099Z"},
       {
         "id":"mc_127aspace_9b8fe706651cbf7251888c285c7ec501",
         "ead_ssi":"mc_127",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Howard Cann Collection"],
-        "collection_unitid_ssm":["MC.127/repositories/6/resources/3024"],
+        "collection_unitid_ssm":["MC.127"],
         "unittitle_ssm":["Framed Photo of Julius Silver Institute of Bio-Medical Engineering Sciences, Technio City, Haifa"],
         "unitid_ssm":["/repositories/6/archival_objects/849909"],
         "ref_ssi":"aspace_9b8fe706651cbf7251888c285c7ec501",
@@ -104,8 +105,8 @@
         "location_ssm":["Flat-File-Folder: 4 Right"],
         "heading_ssm":["Framed Photo of Julius Silver Institute of Bio-Medical Engineering Sciences, Technio City, Haifa"],
         "unitdate_ssm":["undated"],
-        "_version_":1799248809030582272,
-        "timestamp":"2024-05-16T22:09:37.997Z"}]
+        "_version_":1801945838899953664,
+        "timestamp":"2024-06-15T16:37:46.113Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -113,7 +114,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cann, Howard",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",2],

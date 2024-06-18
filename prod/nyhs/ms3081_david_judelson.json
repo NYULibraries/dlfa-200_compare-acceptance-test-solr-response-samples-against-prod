@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["David N. Judelson papers on Gulf and Western Industries"],
         "unitid_ssm":["MS 3081"],
         "abstract_ssm":["The collection includes records of David N. (Jim) Judelson compiled during his tenure in senior leadership positions at Gulf and Western Industries from the late 1950s to his resignation in 1983. Records include Gulf + Western Board and shareholder meeting materials, financial reports, policy manuals, and other documents, primarily from the 1970s to 1983. Documents more specifically related to Judelson's company connections include his correspondence files, speeches and interviews, securities transaction records, and various subject matters, including the company's 1980 initiative to develop a zinc chloride battery to power electric vehicles."],
+        "creator_ssm":["Judelson, David N., 1928-2018",
+          "Judelson, David N., 1928-2018"],
         "corpname_ssm":["New-York Historical Society",
           "Gulf & Western Industries -- History."],
         "genreform_ssm":["Business letters.",
@@ -69,8 +71,8 @@
           "Minutes (administrative records)"],
         "heading_ssm":["David N. Judelson papers on Gulf and Western Industries"],
         "unitdate_ssm":["Inclusive, 1957-1992 (bulk 1960s-1983)"],
-        "_version_":1775216987673198592,
-        "timestamp":"2023-08-25T15:54:07.192Z"},
+        "_version_":1801002168543608832,
+        "timestamp":"2024-06-05T06:38:31.932Z"},
       {
         "id":"ms3081_david_judelsonaspace_089d39ddb0846d7b56ba27aca1c4d505",
         "ead_ssi":"ms3081_david_judelson",
@@ -86,8 +88,8 @@
         "location_ssm":["Offsite-Box: 13"],
         "heading_ssm":["Correspondence binders (box 4 of 4)"],
         "unitdate_ssm":["Inclusive, 1982-1983"],
-        "_version_":1775216988299198464,
-        "timestamp":"2023-08-25T15:54:07.789Z"},
+        "_version_":1801002168821481472,
+        "timestamp":"2024-06-05T06:38:32.197Z"},
       {
         "id":"ms3081_david_judelsonaspace_0c36c5b3ac648da9a4de978618ff0160",
         "ead_ssi":"ms3081_david_judelson",
@@ -103,8 +105,8 @@
         "location_ssm":["Offsite-Box: 17"],
         "heading_ssm":["Judelson resignation files"],
         "unitdate_ssm":["Inclusive, 1983"],
-        "_version_":1775216988647325696,
-        "timestamp":"2023-08-25T15:54:08.121Z"},
+        "_version_":1801002168979816448,
+        "timestamp":"2024-06-05T06:38:32.348Z"},
       {
         "id":"ms3081_david_judelsonaspace_1234429d90c5c06af03fb9947af82851",
         "ead_ssi":"ms3081_david_judelson",
@@ -120,8 +122,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Gulf + Western securities, compensation plans, etc. (box 1 of 2)"],
         "unitdate_ssm":["Inclusive, 1960s-1982"],
-        "_version_":1775216987711995904,
-        "timestamp":"2023-08-25T15:54:07.229Z"},
+        "_version_":1801002168572968960,
+        "timestamp":"2024-06-05T06:38:31.96Z"},
       {
         "id":"ms3081_david_judelsonaspace_2ce821895cc573b4c64dfc50ca18bc8f",
         "ead_ssi":"ms3081_david_judelson",
@@ -137,8 +139,8 @@
         "location_ssm":["Offsite-Box: 11"],
         "heading_ssm":["Correspondence binders (box 2 of 4)"],
         "unitdate_ssm":["Inclusive, 1974-1977"],
-        "_version_":1775216988224749568,
-        "timestamp":"2023-08-25T15:54:07.718Z"},
+        "_version_":1801002168790024192,
+        "timestamp":"2024-06-05T06:38:32.167Z"},
       {
         "id":"ms3081_david_judelsonaspace_4993bdfc4921fb07678abae83c4a0328",
         "ead_ssi":"ms3081_david_judelson",
@@ -154,8 +156,8 @@
         "location_ssm":["Offsite-Box: 15"],
         "heading_ssm":["Gulf + Western Board of Directors minutes, reports, agendas (box 2 of 2)"],
         "unitdate_ssm":["Inclusive, 1979-1983"],
-        "_version_":1775216988542468096,
-        "timestamp":"2023-08-25T15:54:08.021Z"},
+        "_version_":1801002168921096192,
+        "timestamp":"2024-06-05T06:38:32.292Z"},
       {
         "id":"ms3081_david_judelsonaspace_4f1d70134a457d644052b691cecaade2",
         "ead_ssi":"ms3081_david_judelson",
@@ -171,8 +173,8 @@
         "location_ssm":["Offsite-Box: 17"],
         "heading_ssm":["SEC investigation files"],
         "unitdate_ssm":["Inclusive, 1977-1981"],
-        "_version_":1775216988613771264,
-        "timestamp":"2023-08-25T15:54:08.089Z"},
+        "_version_":1801002168961990656,
+        "timestamp":"2024-06-05T06:38:32.331Z"},
       {
         "id":"ms3081_david_judelsonaspace_506303ffe94253c743348ec887cf40d8",
         "ead_ssi":"ms3081_david_judelson",
@@ -188,8 +190,8 @@
         "location_ssm":["Offsite-Box: 9"],
         "heading_ssm":["Judelson securities transactions"],
         "unitdate_ssm":["Inclusive, 1957-1968"],
-        "_version_":1775216988104163328,
-        "timestamp":"2023-08-25T15:54:07.603Z"},
+        "_version_":1801002168754372608,
+        "timestamp":"2024-06-05T06:38:32.133Z"},
       {
         "id":"ms3081_david_judelsonaspace_5b9a5d339c284f374e95c60cdea6beb0",
         "ead_ssi":"ms3081_david_judelson",
@@ -205,8 +207,8 @@
         "location_ssm":["Offsite-Box: 10"],
         "heading_ssm":["Gulf + Western Corporate Policy Manual"],
         "unitdate_ssm":["Inclusive, 1977"],
-        "_version_":1775216988345335808,
-        "timestamp":"2023-08-25T15:54:07.833Z"},
+        "_version_":1801002168836161536,
+        "timestamp":"2024-06-05T06:38:32.211Z"},
       {
         "id":"ms3081_david_judelsonaspace_5d5d29357abec11c9835b419c9eb082e",
         "ead_ssi":"ms3081_david_judelson",
@@ -222,8 +224,8 @@
         "location_ssm":["Offsite-Box: 17"],
         "heading_ssm":["Annual reports"],
         "unitdate_ssm":["Inclusive, 1959, 1968-1992"],
-        "_version_":1775216988682977280,
-        "timestamp":"2023-08-25T15:54:08.155Z"},
+        "_version_":1801002169009176576,
+        "timestamp":"2024-06-05T06:38:32.376Z"},
       {
         "id":"ms3081_david_judelsonaspace_5e8d29e4abc50d492a62520420d67e41",
         "ead_ssi":"ms3081_david_judelson",
@@ -239,8 +241,8 @@
         "location_ssm":["Offsite-Box: 12"],
         "heading_ssm":["Correspondence binders (box 3 of 4)"],
         "unitdate_ssm":["Inclusive, 1978-1980"],
-        "_version_":1775216988260401152,
-        "timestamp":"2023-08-25T15:54:07.752Z"},
+        "_version_":1801002168807849984,
+        "timestamp":"2024-06-05T06:38:32.184Z"},
       {
         "id":"ms3081_david_judelsonaspace_6f17a8e1f713813101151e652eb5ceb8",
         "ead_ssi":"ms3081_david_judelson",
@@ -256,8 +258,8 @@
         "location_ssm":["Offsite-Box: 18"],
         "heading_ssm":["Gulf + Western annual shareholder meeting files"],
         "unitdate_ssm":["Inclusive, 1968-1981"],
-        "_version_":1775216988578119680,
-        "timestamp":"2023-08-25T15:54:08.055Z"},
+        "_version_":1801002168939970560,
+        "timestamp":"2024-06-05T06:38:32.31Z"},
       {
         "id":"ms3081_david_judelsonaspace_7fe182229239f8f4e95a9ee5de20ec15",
         "ead_ssi":"ms3081_david_judelson",
@@ -273,8 +275,8 @@
         "location_ssm":["Offsite-Box: 16"],
         "heading_ssm":["Gulf + Western Board of Directors minutes, reports, agendas (box 1 of 2)"],
         "unitdate_ssm":["Inclusive, 1974-1978"],
-        "_version_":1775216988505767936,
-        "timestamp":"2023-08-25T15:54:07.986Z"},
+        "_version_":1801002168900124672,
+        "timestamp":"2024-06-05T06:38:32.272Z"},
       {
         "id":"ms3081_david_judelsonaspace_82d3c6b33bfe4a780d55045abd06e916",
         "ead_ssi":"ms3081_david_judelson",
@@ -290,8 +292,8 @@
         "location_ssm":["Offsite-Box: 8"],
         "heading_ssm":["Judelson speeches, remarks, interviews"],
         "unitdate_ssm":["Inclusive, 1967-1982"],
-        "_version_":1775216988018180096,
-        "timestamp":"2023-08-25T15:54:07.521Z"},
+        "_version_":1801002168721866752,
+        "timestamp":"2024-06-05T06:38:32.102Z"},
       {
         "id":"ms3081_david_judelsonaspace_8726b8ced06fdb2352bbf163b0344c05",
         "ead_ssi":"ms3081_david_judelson",
@@ -307,8 +309,8 @@
         "location_ssm":["Offsite-Box: 4"],
         "heading_ssm":["Subject files (box 2 of 4). Be-D"],
         "unitdate_ssm":["Inclusive, 1970s-1983"],
-        "_version_":1775216987830484992,
-        "timestamp":"2023-08-25T15:54:07.342Z"},
+        "_version_":1801002168628543488,
+        "timestamp":"2024-06-05T06:38:32.013Z"},
       {
         "id":"ms3081_david_judelsonaspace_8c56309a680d141d44c50a875f15fa57",
         "ead_ssi":"ms3081_david_judelson",
@@ -324,8 +326,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Gulf + Western securities, compensation plans, etc. (box 2 of 2)"],
         "unitdate_ssm":["Inclusive, 1960s-1982"],
-        "_version_":1775216987761278976,
-        "timestamp":"2023-08-25T15:54:07.276Z"},
+        "_version_":1801002168597086208,
+        "timestamp":"2024-06-05T06:38:31.983Z"},
       {
         "id":"ms3081_david_judelsonaspace_abe05629a7c41fa8a79cb732bb0f3b92",
         "ead_ssi":"ms3081_david_judelson",
@@ -341,8 +343,8 @@
         "location_ssm":["Offsite-Box: 13"],
         "heading_ssm":["Gulf + Western Employee Relations Update Manual"],
         "unitdate_ssm":["Inclusive, 1982"],
-        "_version_":1775216988418736129,
-        "timestamp":"2023-08-25T15:54:07.903Z"},
+        "_version_":1801002168852938752,
+        "timestamp":"2024-06-05T06:38:32.227Z"},
       {
         "id":"ms3081_david_judelsonaspace_b627eef6313159b3d13fae639789baf0",
         "ead_ssi":"ms3081_david_judelson",
@@ -358,8 +360,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Subject files (box 1 of 4). A-Ba"],
         "unitdate_ssm":["Inclusive, 1970s-1983"],
-        "_version_":1775216987794833408,
-        "timestamp":"2023-08-25T15:54:07.308Z"},
+        "_version_":1801002168610717696,
+        "timestamp":"2024-06-05T06:38:31.996Z"},
       {
         "id":"ms3081_david_judelsonaspace_c04d8153712bee1ddc2702219681b881",
         "ead_ssi":"ms3081_david_judelson",
@@ -375,8 +377,8 @@
         "location_ssm":["Offsite-Box: 6"],
         "heading_ssm":["Gulf + Western financial data"],
         "unitdate_ssm":["Inclusive, circa 1976-1983"],
-        "_version_":1775216987941634048,
-        "timestamp":"2023-08-25T15:54:07.448Z"},
+        "_version_":1801002168691458048,
+        "timestamp":"2024-06-05T06:38:32.073Z"},
       {
         "id":"ms3081_david_judelsonaspace_cae4eb023e5f34b0271357edbe356376",
         "ead_ssi":"ms3081_david_judelson",
@@ -392,8 +394,8 @@
         "location_ssm":["Offsite-Box: 14"],
         "heading_ssm":["Judelson appointment books"],
         "unitdate_ssm":["Inclusive, 1969-1983"],
-        "_version_":1775216988457533440,
-        "timestamp":"2023-08-25T15:54:07.94Z"},
+        "_version_":1801002168870764544,
+        "timestamp":"2024-06-05T06:38:32.244Z"},
       {
         "id":"ms3081_david_judelsonaspace_cfa21597ad987e3ad2c35172a8d6b9e6",
         "ead_ssi":"ms3081_david_judelson",
@@ -409,8 +411,8 @@
         "location_ssm":["Offsite-Box: 9"],
         "heading_ssm":["Judelson business expenses"],
         "unitdate_ssm":["Inclusive, 1969-1983"],
-        "_version_":1775216988055928832,
-        "timestamp":"2023-08-25T15:54:07.556Z"},
+        "_version_":1801002168738643968,
+        "timestamp":"2024-06-05T06:38:32.118Z"},
       {
         "id":"ms3081_david_judelsonaspace_e41598d1a7a63d2afd7511f6ba7001d0",
         "ead_ssi":"ms3081_david_judelson",
@@ -426,8 +428,8 @@
         "location_ssm":["Offsite-Box: 7"],
         "heading_ssm":["Gulf + Western business plans, financial data, etc."],
         "unitdate_ssm":["Inclusive, 1969-1983"],
-        "_version_":1775216987980431360,
-        "timestamp":"2023-08-25T15:54:07.485Z"},
+        "_version_":1801002168708235264,
+        "timestamp":"2024-06-05T06:38:32.089Z"},
       {
         "id":"ms3081_david_judelsonaspace_eb9fe14380a6e6a68bbb84d4c4c7bca7",
         "ead_ssi":"ms3081_david_judelson",
@@ -443,8 +445,8 @@
         "location_ssm":["Offsite-Box: 6"],
         "heading_ssm":["Subject files (box 4 of 4). S-Z"],
         "unitdate_ssm":["Inclusive, 1970s-1983"],
-        "_version_":1775216987907031040,
-        "timestamp":"2023-08-25T15:54:07.415Z"},
+        "_version_":1801002168656855040,
+        "timestamp":"2024-06-05T06:38:32.04Z"},
       {
         "id":"ms3081_david_judelsonaspace_f96ab5a1be640ac3729d6790e5d4587f",
         "ead_ssi":"ms3081_david_judelson",
@@ -460,8 +462,8 @@
         "location_ssm":["Offsite-Box: 10"],
         "heading_ssm":["Correspondence binders (box 1 of 4)"],
         "unitdate_ssm":["Inclusive, 1968-1973"],
-        "_version_":1775216988182806529,
-        "timestamp":"2023-08-25T15:54:07.678Z"},
+        "_version_":1801002168770101248,
+        "timestamp":"2024-06-05T06:38:32.148Z"},
       {
         "id":"ms3081_david_judelsonaspace_ffdc88e721396398d686e0aa6886f34b",
         "ead_ssi":"ms3081_david_judelson",
@@ -477,8 +479,8 @@
         "location_ssm":["Offsite-Box: 5"],
         "heading_ssm":["Subject files (box 3 of 4). E-S"],
         "unitdate_ssm":["Inclusive, 1970s-1983"],
-        "_version_":1775216987868233728,
-        "timestamp":"2023-08-25T15:54:07.378Z"}]
+        "_version_":1801002168641126400,
+        "timestamp":"2024-06-05T06:38:32.025Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -486,7 +488,8 @@
       "repository_sim":[
         "nyhs",25],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Judelson, David N., 1928-2018",1],
       "date_range_sim":[
         "undated & other",25],
       "subject_sim":[

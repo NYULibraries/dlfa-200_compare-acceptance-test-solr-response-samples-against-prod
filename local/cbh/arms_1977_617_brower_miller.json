@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brower v. Miller court decision"],
         "unitid_ssm":["1977.617"],
         "abstract_ssm":["A decision issued in the case of case of Abraham Brower v. Charles Miller, tried in New York State Criminal Court in New York City, regarding the enticement of an indentured servant from the original master."],
+        "creator_ssm":["New York (State). Criminal Court (New York, N.Y.)",
+          "New York (State). Criminal Court (New York, N.Y.)"],
         "unitdate_normal_ssm":["1811/1811"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Criminal Court (New York, N.Y.)"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1811"],
         "unitdate_ssm":["1811"],
         "language_ssm":["English"],
-        "_version_":1799311482445365248,
-        "timestamp":"2024-05-17T14:45:48.023Z"}]
+        "_version_":1801962080779108352,
+        "timestamp":"2024-06-15T20:55:55.577Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (State). Criminal Court (New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

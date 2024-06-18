@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Max Schwartz Papers"],
         "unitid_ssm":["ALBA.273"],
+        "creator_ssm":["Schwartz, Max, 1913-1938",
+          "Schwartz, Max, 1913-1938"],
         "unitdate_normal_ssm":["1937/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Schwartz, Max, 1913-1938",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive, 1937-1939"],
         "language_ssm":["English"],
-        "_version_":1775223093988425728,
-        "timestamp":"2023-08-25T17:31:10.628Z"},
+        "_version_":1801146561558740992,
+        "timestamp":"2024-06-06T20:53:35.842Z"},
       {
         "id":"alba_273aspace_ef225da686964f8dce2ce1935b644dd5",
         "ead_ssi":"alba_273",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1775223094048194560,
-        "timestamp":"2023-08-25T17:31:10.685Z"}]
+        "_version_":1801146561572372480,
+        "timestamp":"2024-06-06T20:53:35.855Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Schwartz, Max, 1913-1938",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

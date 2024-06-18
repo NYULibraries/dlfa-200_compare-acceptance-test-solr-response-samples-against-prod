@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ryerson family papers and photographs"],
         "unitid_ssm":["ARC.095"],
         "abstract_ssm":["The Ryerson family papers and photographs contain deeds, wills, invoices, receipts, account books, architectural records, tax records, genealogical notes, minutes, and photographs relating to the Ryerson family of Brooklyn. The collection spans the 18th and 19th centuries with the bulk of the collection from the 19th century. John and Jacob Ryerson inherited family farmland in Wallabout. The brothers also owned farmland in Flatlands on New Lots Road near Kings Highway. Also, a Ryerson family homestead was located on what is now the Parade Grounds in Prospect Park. Variations of the Ryerson family name include Adriance, Martense, Ryers, and Ryerse."],
+        "creator_ssm":["Ryerson family",
+          "Ryerson family"],
         "unitdate_normal_ssm":["1700/1930"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Ryerson family",
@@ -84,8 +86,8 @@
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["Inclusive, 1700 to circa 1920"],
         "language_ssm":["English"],
-        "_version_":1799311706089848832,
-        "timestamp":"2024-05-17T14:49:21.307Z"},
+        "_version_":1801958974504828928,
+        "timestamp":"2024-06-15T20:06:33.203Z"},
       {
         "id":"arc_095_ryersonaspace_ref11_ew7",
         "ead_ssi":"arc_095_ryerson",
@@ -101,8 +103,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 2: Ryerson family photographs"],
         "unitdate_ssm":["circa 1900 to 1920s"],
-        "_version_":1799311706120257536,
-        "timestamp":"2024-05-17T14:49:21.335Z"},
+        "_version_":1801958974615977984,
+        "timestamp":"2024-06-15T20:06:33.309Z"},
       {
         "id":"arc_095_ryersonaspace_ref7_ogz",
         "ead_ssi":"arc_095_ryerson",
@@ -118,8 +120,8 @@
         "heading_ssm":["Series 1: Ryerson family papers"],
         "unitdate_ssm":["1700 to circa 1920"],
         "language_ssm":["English"],
-        "_version_":1799311706105577472,
-        "timestamp":"2024-05-17T14:49:21.322Z"}]
+        "_version_":1801958974583472128,
+        "timestamp":"2024-06-15T20:06:33.277Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -127,7 +129,8 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ryerson family",1],
       "date_range_sim":[
         "1601-1700",1,
         "1901-2000",1,

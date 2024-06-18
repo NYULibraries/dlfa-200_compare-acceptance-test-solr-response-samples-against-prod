@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":23,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Marvin Markman Papers"],
         "unitid_ssm":["TAM.318"],
+        "creator_ssm":["Markman, Marvin, d. 2002",
+          "Markman, Marvin, d. 2002"],
         "unitdate_normal_ssm":["1960/1969"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Advance (Organization : United States)",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, circa 1960s"],
         "language_ssm":["English"],
-        "_version_":1799782654020681728,
-        "timestamp":"2024-05-22T19:34:52.253Z"}]
+        "_version_":1802171559687749632,
+        "timestamp":"2024-06-18T04:25:30.232Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Markman, Marvin, d. 2002",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

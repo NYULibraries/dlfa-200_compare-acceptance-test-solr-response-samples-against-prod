@@ -45,9 +45,12 @@
       {
         "author_ssm":["Nicole Greenhouse"],
         "unittitle_ssm":["Records of the School of Global Public Health"],
-        "unitid_ssm":["RG.53",
-          "/repositories/6/resources/3361"],
+        "unitid_ssm":["RG.53"],
         "abstract_ssm":["The School of Global Public Health was established in 2015. In 2017, the I AM GPH podcast was started. The collection contains the website and audio recordings of the podcast."],
+        "creator_ssm":["New York University. College of Global Public Health",
+          "New York University. School of Global Public Health",
+          "New York University. College of Global Public Health",
+          "New York University. School of Global Public Health"],
         "unitdate_normal_ssm":["2018-07-26/2018-07-26"],
         "corpname_ssm":["New York University Archives",
           "New York University. College of Global Public Health",
@@ -63,15 +66,15 @@
         "material_type_ssm":["Podcasts"],
         "heading_ssm":["Records of the School of Global Public Health"],
         "unitdate_ssm":["July 2018-ongoing"],
-        "_version_":1799255525264719872,
-        "timestamp":"2024-05-16T23:56:23.097Z"},
+        "_version_":1801955225330778112,
+        "timestamp":"2024-06-15T19:06:57.711Z"},
       {
         "id":"rg_53aspace_b4784b6e5efb43c295069b446c7a74a0",
         "ead_ssi":"rg_53",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Records of the School of Global Public Health"],
-        "collection_unitid_ssm":["RG.53/repositories/6/resources/3361"],
+        "collection_unitid_ssm":["RG.53"],
         "unittitle_ssm":["Archived Websites"],
         "unitid_ssm":["/repositories/6/archival_objects/931684"],
         "unitdate_normal_ssm":["2018-07/2018-07"],
@@ -87,8 +90,8 @@
         "format_ssm":["Archival Object"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["July 2018-ongoing"],
-        "_version_":1799255525284642816,
-        "timestamp":"2024-05-16T23:56:23.116Z"}]
+        "_version_":1801955225347555328,
+        "timestamp":"2024-06-15T19:06:57.727Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,7 +100,9 @@
         "archives",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. College of Global Public Health",1,
+        "New York University. School of Global Public Health",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

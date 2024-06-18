@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":17,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Joseph Bendich Collection"],
         "unitid_ssm":["MSS.534"],
         "abstract_ssm":["Joseph Bendich (1917-2005) was a amateur videographer and machinist who manufactured parts for lunar landing modules. This collection consists of film equipment and other items collected by Bendich for private film viewings. Materials include a Super 8mm movie projector, a Super 8mm movie light, a Keystone Super 8mm camera, a camera case, a photo lamp, a Revere film splicer, and splice tape instructions. The collection also includes three Super 8mm pornographic films: Jocks and Socks (Golden Girls), Sex Ed Tutor (Diamond Collection), and Reluctant Virgin Pt II (San Francisco Series). The artifacts in this collection are emblematic of the types of film equipment used by many Super 8mm auteurs of the late 20th century, including Nelson Sullivan, Chris Kraus, and David Wojnarowicz. This collection documents the ways in which pornography - particularly stag film - was circulated and watched during this time period."],
+        "creator_ssm":["Bendich, Joseph",
+          "Bendich, Joseph"],
         "unitdate_normal_ssm":["1940/2005",
           "1970/1999"],
         "corpname_ssm":["Fales Library and Special Collections"],
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["2005",
           "1999"],
         "unitdate_ssm":["Inclusive, circa 1940-2005 ; 1970-1999"],
-        "_version_":1799744601613926400,
-        "timestamp":"2024-05-22T09:30:02.649Z"},
+        "_version_":1802080610245672960,
+        "timestamp":"2024-06-17T04:19:54.085Z"},
       {
         "id":"mss_534aspace_151735e400ee1674fadc510c77ebe594",
         "ead_ssi":"mss_534",
@@ -92,8 +94,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1960-1979"],
-        "_version_":1799744601749192704,
-        "timestamp":"2024-05-22T09:30:02.779Z"},
+        "_version_":1802080610643083264,
+        "timestamp":"2024-06-17T04:19:54.464Z"},
       {
         "id":"mss_534aspace_1bec4b0b3183f6e1a6bdb68a73d4a737",
         "ead_ssi":"mss_534",
@@ -112,8 +114,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1970-1979"],
-        "_version_":1799744601641189376,
-        "timestamp":"2024-05-22T09:30:02.676Z"},
+        "_version_":1802080610401910784,
+        "timestamp":"2024-06-17T04:19:54.234Z"},
       {
         "id":"mss_534aspace_2114b079a503f06e818b32ffab8bc3aa",
         "ead_ssi":"mss_534",
@@ -132,8 +134,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1960-1979"],
-        "_version_":1799744601765969920,
-        "timestamp":"2024-05-22T09:30:02.795Z"},
+        "_version_":1802080610668249088,
+        "timestamp":"2024-06-17T04:19:54.488Z"},
       {
         "id":"mss_534aspace_26135c0d07da37d73c9867a98e51fd15",
         "ead_ssi":"mss_534",
@@ -152,8 +154,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, circa 1940s"],
-        "_version_":1799744601781698560,
-        "timestamp":"2024-05-22T09:30:02.81Z"},
+        "_version_":1802080610711240704,
+        "timestamp":"2024-06-17T04:19:54.529Z"},
       {
         "id":"mss_534aspace_5b465e0ec77f5b883b174bce54d1ab0e",
         "ead_ssi":"mss_534",
@@ -172,8 +174,8 @@
         "unitdate_start_ssm":["1965"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1965-1979"],
-        "_version_":1799744601671598080,
-        "timestamp":"2024-05-22T09:30:02.705Z"},
+        "_version_":1802080610467971072,
+        "timestamp":"2024-06-17T04:19:54.297Z"},
       {
         "id":"mss_534aspace_62c5d368bbe3e51e74efb2c4a41feaeb",
         "ead_ssi":"mss_534",
@@ -192,8 +194,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1970-1979"],
-        "_version_":1799744601627557888,
-        "timestamp":"2024-05-22T09:30:02.663Z"},
+        "_version_":1802080610283421696,
+        "timestamp":"2024-06-17T04:19:54.12Z"},
       {
         "id":"mss_534aspace_748856a2e18c7ee205ed2ba279fd5e6f",
         "ead_ssi":"mss_534",
@@ -212,8 +214,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1960-1979"],
-        "_version_":1799744601657966592,
-        "timestamp":"2024-05-22T09:30:02.692Z"},
+        "_version_":1802080610437562368,
+        "timestamp":"2024-06-17T04:19:54.268Z"},
       {
         "id":"mss_534aspace_b289941ed5cb633267dbb74ddc1ffcda",
         "ead_ssi":"mss_534",
@@ -232,8 +234,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1960-1979"],
-        "_version_":1799744601697812480,
-        "timestamp":"2024-05-22T09:30:02.73Z"},
+        "_version_":1802080610543468544,
+        "timestamp":"2024-06-17T04:19:54.369Z"},
       {
         "id":"mss_534aspace_ce2cd22fbee0cc20200c737b30ecd4d2",
         "ead_ssi":"mss_534",
@@ -252,8 +254,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1960-1979"],
-        "_version_":1799744601684180992,
-        "timestamp":"2024-05-22T09:30:02.717Z"},
+        "_version_":1802080610510962688,
+        "timestamp":"2024-06-17T04:19:54.338Z"},
       {
         "id":"mss_534aspace_d903f2b346c8a3e5feab46b866764ca2",
         "ead_ssi":"mss_534",
@@ -272,8 +274,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1960-1979"],
-        "_version_":1799744601724026880,
-        "timestamp":"2024-05-22T09:30:02.755Z"},
+        "_version_":1802080610586460160,
+        "timestamp":"2024-06-17T04:19:54.41Z"},
       {
         "id":"mss_534aspace_d95b8ff6323af53b813b55dd3628a69d",
         "ead_ssi":"mss_534",
@@ -292,8 +294,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1960-1979"],
-        "_version_":1799744601736609792,
-        "timestamp":"2024-05-22T09:30:02.767Z"},
+        "_version_":1802080610617917440,
+        "timestamp":"2024-06-17T04:19:54.44Z"},
       {
         "id":"mss_534aspace_e37b0ea1087414c91ea45a2afcaf4c69",
         "ead_ssi":"mss_534",
@@ -312,8 +314,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1960-1979"],
-        "_version_":1799744601710395392,
-        "timestamp":"2024-05-22T09:30:02.742Z"}]
+        "_version_":1802080610564440064,
+        "timestamp":"2024-06-17T04:19:54.389Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -321,7 +323,8 @@
       "repository_sim":[
         "fales",13],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bendich, Joseph",1],
       "date_range_sim":[
         "1901-2000",13,
         "2001-2100",1],

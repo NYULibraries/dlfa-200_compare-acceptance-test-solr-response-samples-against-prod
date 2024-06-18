@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":20,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Anders Goldfarb photographs of Coney Island"],
         "unitid_ssm":["V1992.048"],
         "abstract_ssm":["The Anders Goldfarb photographs of Coney Island contain 68 black and white prints of the area in the year 1984."],
+        "creator_ssm":["Goldfarb, Anders, 1954-",
+          "Goldfarb, Anders, 1954-"],
         "unitdate_normal_ssm":["1984/1984",
           "1984/1984"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -77,8 +79,8 @@
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1984 ; 1984"],
         "language_ssm":["English"],
-        "_version_":1775223569754619904,
-        "timestamp":"2023-08-25T17:38:44.354Z"}]
+        "_version_":1800863436465242112,
+        "timestamp":"2024-06-03T17:53:26.712Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Goldfarb, Anders, 1954-",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

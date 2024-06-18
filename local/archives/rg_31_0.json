@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the College of/School of Architecture and Allied Science"],
         "unitid_ssm":["RG.31.0"],
         "abstract_ssm":["This collection contains a 1940 report: Report on Investigations Concerning the Future Development of the School of Architecture and Allied Arts by a Committee of Faculty of the School."],
+        "creator_ssm":["New York University",
+          "New York University"],
         "unitdate_normal_ssm":["1940-11-12/1940-11-12"],
         "corpname_ssm":["New York University Archives",
           "New York University"],
@@ -62,8 +64,8 @@
         "material_type_ssm":["Reports."],
         "heading_ssm":["Records of the College of/School of Architecture and Allied Science"],
         "unitdate_ssm":["November 12, 1940"],
-        "_version_":1799248513461125120,
-        "timestamp":"2024-05-16T22:04:56.12Z"},
+        "_version_":1801952842412457984,
+        "timestamp":"2024-06-15T18:29:05.184Z"},
       {
         "id":"rg_31_0aspace_f1b0d25ad88d99177eb7576e6ebd2d39",
         "ead_ssi":"rg_31_0",
@@ -77,12 +79,11 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 059, Folder: 10",
-          "Folder: 10"],
+        "location_ssm":["Box: Shared University Archives 059, Folder: 10"],
         "heading_ssm":["\n      Report on Investigations Concerning the Future Development of the School of Architecture and Allied Arts by a Committee of Faculty of the School\n    "],
         "unitdate_ssm":["November 12, 1940"],
-        "_version_":1799248513481048064,
-        "timestamp":"2024-05-16T22:04:56.139Z"}]
+        "_version_":1801952842437623808,
+        "timestamp":"2024-06-15T18:29:05.208Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +91,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

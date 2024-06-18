@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -64,8 +64,8 @@
         "unitdate_start_ssm":["1832"],
         "unitdate_end_ssm":["1832"],
         "unitdate_ssm":["circa 1832"],
-        "_version_":1775226306704703488,
-        "timestamp":"2023-08-25T18:22:14.513Z"},
+        "_version_":1800552948489519104,
+        "timestamp":"2024-05-31T07:38:22.304Z"},
       {
         "id":"mc_363aspace_d98794a25404e246379ce1b41bda62f7",
         "ead_ssi":"mc_363",
@@ -79,14 +79,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Notebook"],
         "unitdate_start_ssm":["1832"],
         "unitdate_end_ssm":["1832"],
         "unitdate_ssm":["circa 1832"],
-        "_version_":1775226306749792256,
-        "timestamp":"2023-08-25T18:22:14.556Z"}]
+        "_version_":1800552948508393472,
+        "timestamp":"2024-05-31T07:38:22.322Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

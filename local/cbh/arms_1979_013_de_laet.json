@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Joannes de Laet excerpt"],
         "unitid_ssm":["1979.013"],
         "abstract_ssm":["Photocopies of a transcription and translation by Arthur J. Weise of an excerpt from Joannes de Laet's 1625 History of the New World describing the Long Island area. The copies are accompanied by a 1952 typed letter sent to a Mr. Merritt, apparently from someone at the New-York Historical Society."],
+        "creator_ssm":["Laet, Joannes de",
+          "Weise, Arthur James, 1838-1921",
+          "Laet, Joannes de",
+          "Weise, Arthur James, 1838-1921"],
         "unitdate_normal_ssm":["1952/1952"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Manuscripts (document genre)"],
@@ -67,8 +71,8 @@
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["circa 1952 photocopies of a 1906 transcription and translation of a 1625 text."],
         "language_ssm":["English"],
-        "_version_":1799256315661385728,
-        "timestamp":"2024-05-17T00:08:56.878Z"}]
+        "_version_":1801962739553271808,
+        "timestamp":"2024-06-15T21:06:23.833Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +80,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Laet, Joannes de",1,
+        "Weise, Arthur James, 1838-1921",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

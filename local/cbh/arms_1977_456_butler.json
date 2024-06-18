@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Butler receipt book"],
         "unitid_ssm":["1977.456"],
         "abstract_ssm":["A receipt book of goods received from John Butler as payment for rental of a tract of land granted by Lewis Morris in Oyster Bay, Long Island in 1656."],
+        "creator_ssm":["Butler, John",
+          "Butler, John"],
         "unitdate_normal_ssm":["1760/1764"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Receipts (financial records)"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1764"],
         "unitdate_ssm":["Inclusive, 1760-1764"],
         "language_ssm":["English"],
-        "_version_":1799256310510780416,
-        "timestamp":"2024-05-17T00:08:51.966Z"}]
+        "_version_":1801961714407702528,
+        "timestamp":"2024-06-15T20:50:06.178Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Butler, John",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[],

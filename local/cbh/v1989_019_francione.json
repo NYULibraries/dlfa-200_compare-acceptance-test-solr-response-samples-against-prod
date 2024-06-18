@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Don Francione photographs"],
         "unitid_ssm":["V1989.019"],
         "abstract_ssm":["The photographs document social and cultural events in Brooklyn and New York City and include informal group portraits of local and national celebrities such as Merv Griffin, Jimmy Durante, Mayor John Lindsay, Senator William Conklin, middleweight boxer Vito Antuofermo, and Eddie Fisher, among others."],
+        "creator_ssm":["Francione, Don",
+          "Francione, Don"],
         "unitdate_normal_ssm":["1955/1999"],
         "corpname_ssm":["Brooklyn Historical Society",
           "46th Street Theatre (Brooklyn, New York, N.Y.)",
@@ -85,8 +87,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, circa 1965 to 1989"],
         "language_ssm":["English"],
-        "_version_":1799312355874570240,
-        "timestamp":"2024-05-17T14:59:40.99Z"}]
+        "_version_":1802045281829650432,
+        "timestamp":"2024-06-16T18:58:22.282Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +96,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Francione, Don",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

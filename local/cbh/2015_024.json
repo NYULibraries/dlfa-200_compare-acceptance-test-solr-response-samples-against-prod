@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":24,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Elizabeth Payne drawings of Fort Greene Park"],
         "unitid_ssm":["2015.024"],
         "abstract_ssm":["The collection consists of twenty three works on paper in pen and ink by the artist Elizabeth Payne from her Fort Greene (Autumn) 1985 series."],
+        "creator_ssm":["Payne, Elizabeth",
+          "Payne, Elizabeth"],
         "unitdate_normal_ssm":["1985/1985"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Drawings (visual works)"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1985"],
         "unitdate_ssm":["Inclusive, 1985"],
         "language_ssm":["English"],
-        "_version_":1799312300964839424,
-        "timestamp":"2024-05-17T14:58:48.624Z"}]
+        "_version_":1801958292806696960,
+        "timestamp":"2024-06-15T19:55:43.085Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Payne, Elizabeth",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Law Alumni of Color Association (LACA) Records"],
         "unitid_ssm":["RG.40.22.1"],
         "abstract_ssm":["The Law Alumni of Color Association (LACA), formerly Black and Latino Law Alumni Association (BLLAA) and Black and Latino Law Alumni Association (BLLAA), supports and promotes the professional development and advancement of students, faculty, and alumni of color of the New York University School of Law. The LACA Records contain files accumulated by the LACA Board President during 2001 to 2003 including correspondence, Board meeting agendas, LACA member directories, and notes. Planning files include material related to the LACA annual dinner, mentor program, and scholarship. These records also contain photographs from the 2002 BLAPA spring dinner."],
+        "creator_ssm":["New York University. School of Law",
+          "New York University. School of Law"],
         "unitdate_normal_ssm":["2001/2003"],
         "corpname_ssm":["New York University Archives",
           "New York University. School of Law",
@@ -71,8 +73,8 @@
         "unitdate_start_ssm":["2001"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 2001-2003"],
-        "_version_":1799252192809451520,
-        "timestamp":"2024-05-16T23:03:25.02Z"},
+        "_version_":1801954717540024320,
+        "timestamp":"2024-06-15T18:58:53.445Z"},
       {
         "id":"rg_40_22_1aspace_13616b0bb1e71a12cf4bb1407b77bb26",
         "ead_ssi":"rg_40_22_1",
@@ -87,15 +89,13 @@
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1, Folder: 1-7",
-          "Folder: 1-7",
-          "Box: 2, Folder: 1",
-          "Folder: 1"],
+          "Box: 2, Folder: 1"],
         "heading_ssm":["Board Correspondence, Meeting Agendas, Member Directories, and Event Files"],
         "unitdate_start_ssm":["2001"],
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 2001-2003"],
-        "_version_":1799252192824131584,
-        "timestamp":"2024-05-16T23:03:25.034Z"},
+        "_version_":1801954717559947264,
+        "timestamp":"2024-06-15T18:58:53.464Z"},
       {
         "id":"rg_40_22_1aspace_953e012621f4ef2236d92bf0d2e12ffe",
         "ead_ssi":"rg_40_22_1",
@@ -109,14 +109,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 2, Folder: 2"],
         "heading_ssm":["BLAPA Spring Dinner Photographs"],
         "unitdate_start_ssm":["2002"],
         "unitdate_end_ssm":["2002"],
         "unitdate_ssm":["2002"],
-        "_version_":1799252192837763072,
-        "timestamp":"2024-05-16T23:03:25.047Z"}]
+        "_version_":1801954717575675904,
+        "timestamp":"2024-06-15T18:58:53.478Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -124,7 +123,8 @@
       "repository_sim":[
         "archives",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. School of Law",1],
       "date_range_sim":[
         "2001-2100",3],
       "subject_sim":[

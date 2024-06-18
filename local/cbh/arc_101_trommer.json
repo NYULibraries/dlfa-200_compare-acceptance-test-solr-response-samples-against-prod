@@ -47,6 +47,8 @@
         "unittitle_ssm":["Marie Trommer collection"],
         "unitid_ssm":["ARC.101"],
         "abstract_ssm":["The Marie Trommer collection touches upon various aspects of Marie Trommer's life from her childhood through her adult life. Included are three typewritten autobiographical essays by Trommer, circa 1920-1959; a chapbook titled that includes contributions by Trommer, circa 1959; several catalogs of art exhibitions in New York City that featured Trommer's artwork, 1932-1933; the naturalization certificates of Trommer's parents, 1947; one of Trommer's school notebooks from P.S. 63, 1907-1908; a credit book from a grocery store located at 36 Hinsdale St., Brooklyn, 1906; 19 black and white photographs, most of which are portraits of Marie Trommer, 1909-1946; and an album of landscape painting reproductions depicting views of Brooklyn and Long Island in the 19th century, 1959. The paintings in this album were not done by Marie Trommer."],
+        "creator_ssm":["Trommer, Marie",
+          "Trommer, Marie"],
         "unitdate_normal_ssm":["1906/1959"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Photographs",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1959"],
         "unitdate_ssm":["Inclusive, 1906-1959"],
         "language_ssm":["English"],
-        "_version_":1799256292708057088,
-        "timestamp":"2024-05-17T00:08:34.988Z"}]
+        "_version_":1801958993309990912,
+        "timestamp":"2024-06-15T20:06:51.137Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Trommer, Marie",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -73,8 +73,8 @@
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1969-2009"],
         "language_ssm":["English"],
-        "_version_":1799311560209858560,
-        "timestamp":"2024-05-17T14:47:02.185Z"},
+        "_version_":1802043821794525184,
+        "timestamp":"2024-06-16T18:35:09.884Z"},
       {
         "id":"bcms_0033aspace_ref10",
         "ead_ssi":"bcms_0033",
@@ -93,8 +93,8 @@
         "unitdate_start_ssm":["2008"],
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["2008"],
-        "_version_":1799311560370290688,
-        "timestamp":"2024-05-17T14:47:02.338Z"},
+        "_version_":1802043821879459840,
+        "timestamp":"2024-06-16T18:35:09.965Z"},
       {
         "id":"bcms_0033aspace_ref2",
         "ead_ssi":"bcms_0033",
@@ -113,8 +113,8 @@
         "unitdate_start_ssm":["2009"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["2009"],
-        "_version_":1799311560344076288,
-        "timestamp":"2024-05-17T14:47:02.313Z"},
+        "_version_":1802043821863731200,
+        "timestamp":"2024-06-16T18:35:09.95Z"},
       {
         "id":"bcms_0033aspace_ref4",
         "ead_ssi":"bcms_0033",
@@ -133,8 +133,8 @@
         "unitdate_start_ssm":["2009"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["2009"],
-        "_version_":1799311560248655872,
-        "timestamp":"2024-05-17T14:47:02.222Z"},
+        "_version_":1802043821811302400,
+        "timestamp":"2024-06-16T18:35:09.9Z"},
       {
         "id":"bcms_0033aspace_ref6",
         "ead_ssi":"bcms_0033",
@@ -153,8 +153,8 @@
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["1969"],
-        "_version_":1799311560312619008,
-        "timestamp":"2024-05-17T14:47:02.283Z"},
+        "_version_":1802043821846953984,
+        "timestamp":"2024-06-16T18:35:09.934Z"},
       {
         "id":"bcms_0033aspace_ref8",
         "ead_ssi":"bcms_0033",
@@ -173,8 +173,8 @@
         "unitdate_start_ssm":["2006"],
         "unitdate_end_ssm":["2006"],
         "unitdate_ssm":["2006"],
-        "_version_":1799311560280113152,
-        "timestamp":"2024-05-17T14:47:02.252Z"}]
+        "_version_":1802043821824933888,
+        "timestamp":"2024-06-16T18:35:09.913Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

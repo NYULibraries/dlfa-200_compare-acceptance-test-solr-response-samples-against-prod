@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":20,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York Transfer Company Records"],
         "unitid_ssm":["MSS.507"],
         "abstract_ssm":["The New York Transfer Company provided services for the transfer and transportation of baggage within New York. This collection contains company minutes ledgers, financial ledgers, and one stock ledger. The ledgers document company meeting minutes, reports, customer and vendor accounts, financial information, and stock information. The ledgers date from 1853 to 1931."],
+        "creator_ssm":["New York Transfer Company",
+          "New York Transfer Company"],
         "unitdate_normal_ssm":["1853/1931"],
         "corpname_ssm":["Fales Library and Special Collections",
           "New York Transfer Company"],
@@ -62,8 +64,8 @@
         "unitdate_start_ssm":["1853"],
         "unitdate_end_ssm":["1931"],
         "unitdate_ssm":["Inclusive, 1853-1931"],
-        "_version_":1775220898622603264,
-        "timestamp":"2023-08-25T16:56:16.963Z"},
+        "_version_":1800929069194280960,
+        "timestamp":"2024-06-04T11:16:38.96Z"},
       {
         "id":"mss_507aspace_022e3886bc566d3f8ab8ccbdfb222835",
         "ead_ssi":"mss_507",
@@ -82,8 +84,8 @@
         "unitdate_start_ssm":["1915"],
         "unitdate_end_ssm":["1931"],
         "unitdate_ssm":["Inclusive, 1915-1931"],
-        "_version_":1775220899049373696,
-        "timestamp":"2023-08-25T16:56:17.371Z"},
+        "_version_":1800929069385121792,
+        "timestamp":"2024-06-04T11:16:39.142Z"},
       {
         "id":"mss_507aspace_112debe82694afa1fb39f11f8a356420",
         "ead_ssi":"mss_507",
@@ -102,8 +104,8 @@
         "unitdate_start_ssm":["1916"],
         "unitdate_end_ssm":["1921"],
         "unitdate_ssm":["Inclusive, 1916-1921"],
-        "_version_":1775220899260137472,
-        "timestamp":"2023-08-25T16:56:17.572Z"},
+        "_version_":1800929069523533824,
+        "timestamp":"2024-06-04T11:16:39.274Z"},
       {
         "id":"mss_507aspace_22de1e130d9f358aef4c655561fe5336",
         "ead_ssi":"mss_507",
@@ -122,8 +124,8 @@
         "unitdate_start_ssm":["1880"],
         "unitdate_end_ssm":["1921"],
         "unitdate_ssm":["Inclusive, 1880-1921"],
-        "_version_":1775220899219243008,
-        "timestamp":"2023-08-25T16:56:17.533Z"},
+        "_version_":1800929069493125120,
+        "timestamp":"2024-06-04T11:16:39.244Z"},
       {
         "id":"mss_507aspace_509023c14debc1f276e1fe2d6ace304c",
         "ead_ssi":"mss_507",
@@ -142,8 +144,8 @@
         "unitdate_start_ssm":["1871"],
         "unitdate_end_ssm":["1874"],
         "unitdate_ssm":["Inclusive, 1871-1874"],
-        "_version_":1775220898713829376,
-        "timestamp":"2023-08-25T16:56:17.051Z"},
+        "_version_":1800929069236224000,
+        "timestamp":"2024-06-04T11:16:39Z"},
       {
         "id":"mss_507aspace_5192b3ea487d605532731ff17a44eb92",
         "ead_ssi":"mss_507",
@@ -162,8 +164,8 @@
         "unitdate_start_ssm":["1870"],
         "unitdate_end_ssm":["1873"],
         "unitdate_ssm":["Inclusive, 1870-1873"],
-        "_version_":1775220898679226368,
-        "timestamp":"2023-08-25T16:56:17.018Z"},
+        "_version_":1800929069220495360,
+        "timestamp":"2024-06-04T11:16:38.985Z"},
       {
         "id":"mss_507aspace_6403b36240b190aa88e178cc3a2e45c2",
         "ead_ssi":"mss_507",
@@ -182,8 +184,8 @@
         "unitdate_start_ssm":["1889"],
         "unitdate_end_ssm":["1895"],
         "unitdate_ssm":["Inclusive, 1889-1895"],
-        "_version_":1775220898864824320,
-        "timestamp":"2023-08-25T16:56:17.195Z"},
+        "_version_":1800929069320110080,
+        "timestamp":"2024-06-04T11:16:39.08Z"},
       {
         "id":"mss_507aspace_6841a1e6b04326dc0481eaaaa785d31d",
         "ead_ssi":"mss_507",
@@ -202,8 +204,8 @@
         "unitdate_start_ssm":["1902"],
         "unitdate_end_ssm":["1907"],
         "unitdate_ssm":["Inclusive, 1902-1907"],
-        "_version_":1775220898955001856,
-        "timestamp":"2023-08-25T16:56:17.281Z"},
+        "_version_":1800929069350518784,
+        "timestamp":"2024-06-04T11:16:39.109Z"},
       {
         "id":"mss_507aspace_8ff14e670209815bef98d0e5a1f0eb99",
         "ead_ssi":"mss_507",
@@ -222,8 +224,8 @@
         "unitdate_start_ssm":["1896"],
         "unitdate_end_ssm":["1902"],
         "unitdate_ssm":["Inclusive, 1896-1902"],
-        "_version_":1775220898912010240,
-        "timestamp":"2023-08-25T16:56:17.24Z"},
+        "_version_":1800929069335838720,
+        "timestamp":"2024-06-04T11:16:39.095Z"},
       {
         "id":"mss_507aspace_939af8c0fd3917818219db1727a4b4a7",
         "ead_ssi":"mss_507",
@@ -242,8 +244,8 @@
         "unitdate_start_ssm":["1878"],
         "unitdate_end_ssm":["1896"],
         "unitdate_ssm":["Inclusive, 1878-1896"],
-        "_version_":1775220899162619904,
-        "timestamp":"2023-08-25T16:56:17.479Z"},
+        "_version_":1800929069456424960,
+        "timestamp":"2024-06-04T11:16:39.21Z"},
       {
         "id":"mss_507aspace_9422cdcc412872f9c2cf0a903b6182e5",
         "ead_ssi":"mss_507",
@@ -262,8 +264,8 @@
         "unitdate_start_ssm":["1908"],
         "unitdate_end_ssm":["1917"],
         "unitdate_ssm":["Inclusive, 1908-1917"],
-        "_version_":1775220898995896320,
-        "timestamp":"2023-08-25T16:56:17.32Z"},
+        "_version_":1800929069369393152,
+        "timestamp":"2024-06-04T11:16:39.127Z"},
       {
         "id":"mss_507aspace_aa4c52e6b429f3cee68f191504efc889",
         "ead_ssi":"mss_507",
@@ -282,8 +284,8 @@
         "unitdate_start_ssm":["1876"],
         "unitdate_end_ssm":["1888"],
         "unitdate_ssm":["Inclusive, 1876-1888"],
-        "_version_":1775220898799812608,
-        "timestamp":"2023-08-25T16:56:17.133Z"},
+        "_version_":1800929069290749952,
+        "timestamp":"2024-06-04T11:16:39.052Z"},
       {
         "id":"mss_507aspace_b7055d91e933fef7e3fda927cff17df8",
         "ead_ssi":"mss_507",
@@ -302,8 +304,8 @@
         "unitdate_start_ssm":["1870"],
         "unitdate_end_ssm":["1918"],
         "unitdate_ssm":["Inclusive, 1870-1918"],
-        "_version_":1775220899298934785,
-        "timestamp":"2023-08-25T16:56:17.609Z"},
+        "_version_":1800929069539262464,
+        "timestamp":"2024-06-04T11:16:39.289Z"},
       {
         "id":"mss_507aspace_c36bea965ccbcd2e29acf322b5341554",
         "ead_ssi":"mss_507",
@@ -322,8 +324,8 @@
         "unitdate_start_ssm":["1853"],
         "unitdate_end_ssm":["1867"],
         "unitdate_ssm":["Inclusive, 1853-1867"],
-        "_version_":1775220899107045376,
-        "timestamp":"2023-08-25T16:56:17.426Z"},
+        "_version_":1800929069403996160,
+        "timestamp":"2024-06-04T11:16:39.16Z"},
       {
         "id":"mss_507aspace_cd32ace13ef4712ec49808a0fa9ac51e",
         "ead_ssi":"mss_507",
@@ -342,8 +344,8 @@
         "unitdate_start_ssm":["1873"],
         "unitdate_end_ssm":["1874"],
         "unitdate_ssm":["Inclusive, 1873-1874"],
-        "_version_":1775220898754723840,
-        "timestamp":"2023-08-25T16:56:17.09Z"}]
+        "_version_":1800929069259292672,
+        "timestamp":"2024-06-04T11:16:39.022Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -351,7 +353,8 @@
       "repository_sim":[
         "fales",15],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York Transfer Company",1],
       "date_range_sim":[
         "1801-1900",11,
         "1901-2000",8],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":16,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Faculty Against the Sexton Plan Collection"],
         "unitid_ssm":["MC.270"],
         "abstract_ssm":["The Faculty Against the Sexton Plan (FASP) is a group of NYU professors who organized a broad-based resistance to the NYU 2031 building development project (also known as the Sexton Plan), which they felt did not benefit faculty or students. This collection contains the 2015 book  The Art of the Gouge: How NYU Squeezes Billions From Its Students and Where That Money Goes, a collective effort composed by 18 members of FASP."],
+        "creator_ssm":["New York University. Faculty Against the Sexton Plan.",
+          "New York University. Faculty Against the Sexton Plan."],
         "unitdate_normal_ssm":["2015/2015"],
         "corpname_ssm":["New York University Archives",
           "New York University. Faculty Against the Sexton Plan.",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["2015"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["2015"],
-        "_version_":1799255770088341504,
-        "timestamp":"2024-05-17T00:00:16.579Z"},
+        "_version_":1801949520286711808,
+        "timestamp":"2024-06-15T17:36:16.958Z"},
       {
         "id":"mc_270aspace_9f132844a84f06f372ed093abc705b81",
         "ead_ssi":"mc_270",
@@ -83,14 +85,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["\n       The Art of the Gouge: How NYU Squeezes Billions From Its Students and Where That Money Goes.\n    "],
         "unitdate_start_ssm":["2015"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["2015"],
-        "_version_":1799255770109313024,
-        "timestamp":"2024-05-17T00:00:16.599Z"}]
+        "_version_":1801949520310829056,
+        "timestamp":"2024-06-15T17:36:16.981Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -98,7 +99,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Faculty Against the Sexton Plan.",1],
       "date_range_sim":[
         "2001-2100",2],
       "subject_sim":[

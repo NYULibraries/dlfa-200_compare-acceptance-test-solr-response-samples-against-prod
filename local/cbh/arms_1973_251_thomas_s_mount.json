@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Thomas S. Mount correspondence"],
         "unitid_ssm":["1973.251"],
         "abstract_ssm":["Correspondence addressed to Thomas S. Mount in Brooklyn and Stony Brook, N.Y. during the period 1871 to 1890.  Letters are mostly from publishers of various Long Island newspapers, including the Long Island Reporter, the Long Islander, the Port Jefferson Times and Leader, the Sag Harbor Express, and the South Side Signal, regarding business and financial matters and the publication of advertisements and articles submitted by Mount.  Various receipts reflecting Mount's dealings with the newspapers are also included."],
+        "creator_ssm":["Mount, Thomas S.",
+          "Mount, Thomas S."],
         "unitdate_normal_ssm":["1876/1890"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1890"],
         "unitdate_ssm":["Inclusive, 1876-1890"],
         "language_ssm":["English"],
-        "_version_":1799312258706178048,
-        "timestamp":"2024-05-17T14:58:08.323Z"}]
+        "_version_":1801960128532971520,
+        "timestamp":"2024-06-15T20:24:53.77Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Mount, Thomas S.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

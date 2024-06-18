@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Amelia and Grace Martin household accounting book"],
         "unitid_ssm":["1991.018"],
         "abstract_ssm":["A household account book entitled, Housewife's Red Book: A Simple System of Keeping Household Accounts  by M.C. Gallagher and printed at 227 Monroe Street, Brooklyn, NY.  This particular account book was kept by Amelia and Grace Martin, sisters who lived at 295 Stratford Road, Brooklyn.  The book consists of an introduction and instructions, with 65 weekly tables for entering purchases."],
+        "creator_ssm":["Martin, Grace",
+          "Martin, Amelia",
+          "Gallagher, M. C.",
+          "Martin, Grace",
+          "Martin, Amelia",
+          "Gallagher, M. C."],
         "unitdate_normal_ssm":["1908/1908"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Account books"],
@@ -70,8 +76,8 @@
         "unitdate_end_ssm":["1908"],
         "unitdate_ssm":["Inclusive, 1908"],
         "language_ssm":["English"],
-        "_version_":1799312462468612096,
-        "timestamp":"2024-05-17T15:01:22.646Z"}]
+        "_version_":1801963592749154304,
+        "timestamp":"2024-06-15T21:19:57.504Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +85,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gallagher, M. C.",1,
+        "Martin, Amelia",1,
+        "Martin, Grace",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

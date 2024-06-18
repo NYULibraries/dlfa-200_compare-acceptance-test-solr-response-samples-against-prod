@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Billie Jean King autographed ticket to Grass Courts Championships and related documents"],
         "unitid_ssm":["AHMC - King, Billie Jean"],
         "abstract_ssm":["4 items related to the Virginia Slims Grass Courts [Tennis] Championships held August 21-27, 1972, at the Newport Casino, Rhode Island, to benefit the National Lawn Tennis Hall of Fame. Items are: two tickets to the August 22 matches, one of which is autographed by Billie Jean King, attached to a backing board with King's photograph; the event program; and the schedule of matches for August 22.\n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Billie Jean King autographed ticket to Grass Courts Championships and related documents."],
+        "creator_ssm":["King, Billie Jean",
+          "King, Billie Jean"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["King, Billie Jean"],
         "collection_ssm":["Billie Jean King autographed ticket to Grass Courts Championships and related documents"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Billie Jean King autographed ticket to Grass Courts Championships and related documents"],
         "unitdate_ssm":["Inclusive, 1972"],
-        "_version_":1799324384887832576,
-        "timestamp":"2024-05-17T18:10:52.751Z"}]
+        "_version_":1802083821620822016,
+        "timestamp":"2024-06-17T05:10:56.691Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "King, Billie Jean",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

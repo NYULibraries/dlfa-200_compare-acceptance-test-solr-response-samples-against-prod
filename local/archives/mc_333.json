@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles Fogelman Collection on the Undergraduate Athletic Association"],
         "unitid_ssm":["MC.333"],
         "abstract_ssm":["This collection includes materials collected and used by Charles Fogelman (1966 graduate of NYU) during his tenure as an officer of the Undergraduate Athletic Organization at NYU. Materials include a felt banner, a commemorative beret, an NYU songbook used by the organist at Madison Square Garden during NYU basketball games, and a recording of the NYU Glee Club. The Undergraduate Athletic Organization was organized in the early 1960s by students at the University Heights campus to support athletic teams, primarily the men's basketball team (which at that time competed in NCAA Division I). Members of the organization assisted with ticket sales at athletic games and distributed pins and other materials to attendees during games. The banner that comprises part of the collection was taken to games and was at the final game played at MSG."],
+        "creator_ssm":["Fogelman, Charles",
+          "Fogelman, Charles"],
         "unitdate_normal_ssm":["1937/1969"],
         "corpname_ssm":["New York University Archives",
           "New York University. Glee Club",
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, 1933-circa 1960s"],
-        "_version_":1799248599214718976,
-        "timestamp":"2024-05-16T22:06:17.901Z"},
+        "_version_":1801950037280817152,
+        "timestamp":"2024-06-15T17:44:30.002Z"},
       {
         "id":"mc_333aspace_210c3b42f6e0b1dfd650abae33304c53",
         "ead_ssi":"mc_333",
@@ -79,14 +81,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 149, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared University Archives 149, Folder: 1"],
         "heading_ssm":["NYU Song Book"],
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["1937"],
-        "_version_":1799248599236739072,
-        "timestamp":"2024-05-16T22:06:17.922Z"},
+        "_version_":1801950037305982976,
+        "timestamp":"2024-06-15T17:44:30.026Z"},
       {
         "id":"mc_333aspace_8ad8271f08a65e12b7f4af84339b9937",
         "ead_ssi":"mc_333",
@@ -105,8 +106,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, circa 1960s"],
-        "_version_":1799248599293362176,
-        "timestamp":"2024-05-16T22:06:17.976Z"},
+        "_version_":1801950037391966208,
+        "timestamp":"2024-06-15T17:44:30.107Z"},
       {
         "id":"mc_333aspace_c3551999e0c44c2a5c95fddf444e6aaa",
         "ead_ssi":"mc_333",
@@ -125,8 +126,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, circa 1960s"],
-        "_version_":1799248599274487808,
-        "timestamp":"2024-05-16T22:06:17.958Z"},
+        "_version_":1801950037368897536,
+        "timestamp":"2024-06-15T17:44:30.086Z"},
       {
         "id":"mc_333aspace_dd5c293fb933f0f742b4102f49d88727",
         "ead_ssi":"mc_333",
@@ -140,14 +141,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 079, Sound_Disc--Vinyl: 333.0001",
-          "Sound_Disc--Vinyl: 333.0001"],
+        "location_ssm":["Box: Shared University Archives 079, Sound_Disc--Vinyl: 333.0001"],
         "heading_ssm":["Songs of NYU Glee Club Vinyl Recording"],
         "unitdate_start_ssm":["1957"],
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, after 1957"],
-        "_version_":1799248599256662016,
-        "timestamp":"2024-05-16T22:06:17.941Z"}]
+        "_version_":1801950037335343104,
+        "timestamp":"2024-06-15T17:44:30.054Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -155,7 +155,8 @@
       "repository_sim":[
         "archives",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fogelman, Charles",1],
       "date_range_sim":[
         "1901-2000",5],
       "subject_sim":[

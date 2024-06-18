@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":30,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Maggie Schreiner"],
         "unittitle_ssm":["Textile Workers Union of America Scrapbooks"],
         "unitid_ssm":["WAG.249"],
+        "creator_ssm":["Textile Workers Union of America",
+          "Textile Workers Union of America"],
         "unitdate_normal_ssm":["1948/1962"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Textile Workers Union of America"],
@@ -60,8 +62,8 @@
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1948-1962"],
         "language_ssm":["English"],
-        "_version_":1799803390206672896,
-        "timestamp":"2024-05-23T01:04:27.821Z"}]
+        "_version_":1802196106630660096,
+        "timestamp":"2024-06-18T10:55:40.021Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -69,7 +71,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Textile Workers Union of America",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

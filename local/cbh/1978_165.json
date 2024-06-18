@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Common Council register"],
         "unitid_ssm":["1978.165"],
         "abstract_ssm":["This collection consists of one volume, a register, listing changes in Brooklyn street names."],
+        "creator_ssm":["Brooklyn (New York, N.Y.). Common Council",
+          "Brooklyn (New York, N.Y.). Common Council"],
         "unitdate_normal_ssm":["1894/1901"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn (New York, N.Y.). Common Council"],
@@ -62,8 +64,8 @@
         "unitdate_end_ssm":["1901"],
         "unitdate_ssm":["Inclusive, 1894-1901"],
         "language_ssm":["English"],
-        "_version_":1799311716321853440,
-        "timestamp":"2024-05-17T14:49:31.065Z"}]
+        "_version_":1801957970588729344,
+        "timestamp":"2024-06-15T19:50:35.794Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -71,7 +73,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn (New York, N.Y.). Common Council",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

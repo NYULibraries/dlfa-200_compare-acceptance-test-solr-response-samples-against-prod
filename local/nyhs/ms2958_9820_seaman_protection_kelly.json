@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Seaman's protection certificate and receipt for one share in club boat \"Nautilus\""],
         "unitid_ssm":["AHMC - Seamen's Protection, Kelly"],
         "abstract_ssm":["Two unrelated documents. A seaman's protection certificate issued in 1862 by Schuyler Cobb, the Collector of the District of Penobscot, Maine, to Michael Kelly, who was born in New York City about 1838. In the certificate, the collector describes Kelly's identifying physical charactistics and certifies that Kelly is an American citizen. An 1840 receipt from John R. Bleecker of New York for ten dollars paid by William Shermin(?) for one share in the club boat \"Nautilus.\" \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat:Seaman's protection certificate and receipt for one share in club boat \"Nautilus\""],
+        "creator_ssm":["United States. Department of the Treasury. District of Penobscot",
+          "United States. Department of the Treasury. District of Penobscot"],
         "corpname_ssm":["New-York Historical Society",
           "United States. Department of the Treasury. District of Penobscot"],
         "collection_ssm":["Seaman's protection certificate and receipt for one share in club boat \"Nautilus\""],
@@ -58,8 +60,8 @@
         "heading_ssm":["Seaman's protection certificate and receipt for one share in club boat \"Nautilus\""],
         "unitdate_ssm":["Inclusive, 1840, 1862"],
         "language_ssm":["English"],
-        "_version_":1799322283072815104,
-        "timestamp":"2024-05-17T17:37:28.303Z"}]
+        "_version_":1802083711955501056,
+        "timestamp":"2024-06-17T05:09:12.106Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. Department of the Treasury. District of Penobscot",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

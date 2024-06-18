@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Alysa Hornick Collection of Clubbing Ephemera"],
         "unitid_ssm":["MSS.489"],
         "abstract_ssm":["Alysa Hornick is a bibliographer and library professional based in New York City. Hornick was a minor figure in the goth club scene, primarily between 1999 and 2002, including stints as a go-go dancer and model. This collection consists of flyers, postcards, and other ephemera documenting the nightclubbing scene in New York City during the mid- and late-1990s and early 2000s, with particular emphasis on the club Mother and its events, such as Jackie 60. The ephemera in this collection mainly advertises parties, concerts, and other events at the underground-performance oriented clubs, as well as \"goth\" clubs, documenting the weekly themes and the larger social context of club culture in New York City. Figures such as Chi Chi Valenti, Johnny Dynell, dancer and choreographer Richard Move, and fashion designer Kitty Boots are prominently featured in the materials."],
+        "creator_ssm":["Hornick, Alysa, 1981-",
+          "Hornick, Alysa, 1981-"],
         "unitdate_normal_ssm":["1995/2001"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Fliers (printed matter)"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1995"],
         "unitdate_end_ssm":["2001"],
         "unitdate_ssm":["Inclusive, 1995-2001"],
-        "_version_":1799741332951924736,
-        "timestamp":"2024-05-22T08:38:05.411Z"}]
+        "_version_":1802073633511702528,
+        "timestamp":"2024-06-17T02:29:00.553Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "fales",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hornick, Alysa, 1981-",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

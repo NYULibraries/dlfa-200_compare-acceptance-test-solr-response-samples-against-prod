@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":10,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Rope Makers' Benevolent Society of Brooklyn record book"],
         "unitid_ssm":["1973.221"],
         "abstract_ssm":["This collection consists of one record book containing the printed articles of incorporation and rules and regulations of the Rope Makers' Benevolent Society of Brooklyn, as well as a handwritten roll of members.  Also included are a photographic negative and print of a cloth emblem of the Society."],
+        "creator_ssm":["Rope Makers' Benevolent Society of Brooklyn",
+          "Rope Makers' Benevolent Society of Brooklyn"],
         "unitdate_normal_ssm":["1824/1862"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Rope Makers' Benevolent Society of Brooklyn"],
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1862"],
         "unitdate_ssm":["Inclusive, 1824-1862"],
         "language_ssm":["English"],
-        "_version_":1799311571473661952,
-        "timestamp":"2024-05-17T14:47:12.927Z"}]
+        "_version_":1801960095872974848,
+        "timestamp":"2024-06-15T20:24:22.623Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rope Makers' Benevolent Society of Brooklyn",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

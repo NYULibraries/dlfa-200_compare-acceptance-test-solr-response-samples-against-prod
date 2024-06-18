@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Alfred F. Rilton cartoon drawings"],
         "unitid_ssm":["PR 448"],
         "abstract_ssm":["The collection holds 45 original pencil and wash on paper cartoon drawings by Alfred F. Rilton, created for Irving Trust Company of New York. The cartoons relate to marketing campaigns for thrift account openings, sales incentive campaigns, graphics for employee bowling league events, and depictions, possibly for employee newsletters, of humorous commentary on company matters."],
+        "creator_ssm":["Rilton, Alfred F.",
+          "Rilton, Alfred F."],
         "corpname_ssm":["New-York Historical Society",
           "Irving Trust Company"],
         "genreform_ssm":["Drawings (visual works)"],
@@ -65,8 +67,8 @@
         "material_type_ssm":["Drawings (visual works)"],
         "heading_ssm":["Alfred F. Rilton cartoon drawings"],
         "unitdate_ssm":["Inclusive, 1930s-circa 1965?"],
-        "_version_":1799319242388013056,
-        "timestamp":"2024-05-17T16:49:08.481Z"},
+        "_version_":1802094818523873280,
+        "timestamp":"2024-06-17T08:05:44.155Z"},
       {
         "id":"pr448_alfred_riltonaspace_ef26d005e8907b31eb22f7b8540d98a5",
         "ead_ssi":"pr448_alfred_rilton",
@@ -82,8 +84,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Alfred F. Rilton cartoon drawings"],
         "unitdate_ssm":["Inclusive, 1930s-circa 1965?"],
-        "_version_":1799319242401644544,
-        "timestamp":"2024-05-17T16:49:08.494Z"}]
+        "_version_":1802094818543796224,
+        "timestamp":"2024-06-17T08:05:44.174Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rilton, Alfred F.",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

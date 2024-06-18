@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Aaron Heller Collection"],
         "unitid_ssm":["MC.256"],
         "abstract_ssm":["This collection documents the graduation and career of David Aaron, or Aaron David, Heller. Materials include a diploma and various certificates."],
+        "creator_ssm":["Heller, Aaron David",
+          "Heller, Aaron David"],
         "unitdate_normal_ssm":["1911/1966"],
         "corpname_ssm":["New York University Archives"],
         "genreform_ssm":["Diplomas.",
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1911"],
         "unitdate_end_ssm":["1966"],
         "unitdate_ssm":["Inclusive, 1911-1966"],
-        "_version_":1799248521959833600,
-        "timestamp":"2024-05-16T22:05:04.225Z"},
+        "_version_":1801949466787315712,
+        "timestamp":"2024-06-15T17:35:25.937Z"},
       {
         "id":"mc_256aspace_8e2b72a289faf7247d77eef012d63f5b",
         "ead_ssi":"mc_256",
@@ -87,8 +89,8 @@
         "unitdate_start_ssm":["1911"],
         "unitdate_end_ssm":["1966"],
         "unitdate_ssm":["Inclusive, 1911-1966"],
-        "_version_":1799248521980805120,
-        "timestamp":"2024-05-16T22:05:04.244Z"}]
+        "_version_":1801949466805141504,
+        "timestamp":"2024-06-15T17:35:25.954Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -96,7 +98,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Heller, Aaron David",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[],

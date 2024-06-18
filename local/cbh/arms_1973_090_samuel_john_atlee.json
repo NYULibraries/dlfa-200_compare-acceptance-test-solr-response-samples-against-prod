@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Samuel John Atlee journal on the Battle of Long Island"],
         "unitid_ssm":["1973.090"],
         "abstract_ssm":["Samuel John Atlee's journal on the Battle of Long Island consists of a single bound volume containing one full handwritten journal entry by Atlee and a handwritten excerpt from the same entry, both dated August 27, 1776."],
+        "creator_ssm":["Atlee, Samuel John",
+          "Atlee, Samuel John"],
         "unitdate_normal_ssm":["1776/1776"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Old Stone House (Brooklyn, New York, N.Y.)",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1776"],
         "unitdate_ssm":["Inclusive, 1776"],
         "language_ssm":["English"],
-        "_version_":1799256199152009216,
-        "timestamp":"2024-05-17T00:07:05.766Z"}]
+        "_version_":1801959925287485440,
+        "timestamp":"2024-06-15T20:21:39.94Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Atlee, Samuel John",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

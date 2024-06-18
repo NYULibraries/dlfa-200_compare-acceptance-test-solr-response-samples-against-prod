@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Newark Community Union Project Oral History Transcripts"],
         "unitid_ssm":["TAM.131"],
         "abstract_ssm":["The collection contsists of transcripts of oral interviews with Carol Glassman and Jill Hamberg conducted in the spring of 1965. Carol Glassman and Jill Hamberg were members of the Newark Community Union Project, an initiative that grew out of the Students for a Democratic Society's (SDS) Economic Research and Action Project (ERAP)."],
+        "creator_ssm":["Glassman, Carol",
+          "Hamberg, Jill",
+          "Goldstein, Bernard",
+          "Glassman, Carol",
+          "Hamberg, Jill",
+          "Goldstein, Bernard"],
         "unitdate_normal_ssm":["1965/1965"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Newark Community Union Project (N.J.)"],
@@ -69,8 +75,8 @@
         "unitdate_start_ssm":["1965"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["1965"],
-        "_version_":1799334946402205696,
-        "timestamp":"2024-05-17T20:58:44.996Z"},
+        "_version_":1802167752358625280,
+        "timestamp":"2024-06-18T03:24:59.28Z"},
       {
         "id":"tam_131aspace_ref11",
         "ead_ssi":"tam_131",
@@ -84,14 +90,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-6",
-          "Folder: 1-6"],
+        "location_ssm":["Box: 1, Folder: 1-6"],
         "heading_ssm":["Carol Glassman"],
         "unitdate_start_ssm":["1965"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, May 1965 - Jul 1965"],
-        "_version_":1799334946427371520,
-        "timestamp":"2024-05-17T20:58:45.02Z"},
+        "_version_":1802167752376451072,
+        "timestamp":"2024-06-18T03:24:59.296Z"},
       {
         "id":"tam_131aspace_ref12",
         "ead_ssi":"tam_131",
@@ -105,14 +110,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 7-17",
-          "Folder: 7-17"],
+        "location_ssm":["Box: 1, Folder: 7-17"],
         "heading_ssm":["Jill Hamberg"],
         "unitdate_start_ssm":["1965"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, Feb 1965 - Apr 1965"],
-        "_version_":1799334946454634496,
-        "timestamp":"2024-05-17T20:58:45.046Z"}]
+        "_version_":1802167752385888256,
+        "timestamp":"2024-06-18T03:24:59.306Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -120,7 +124,10 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Glassman, Carol",1,
+        "Goldstein, Bernard",1,
+        "Hamberg, Jill",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

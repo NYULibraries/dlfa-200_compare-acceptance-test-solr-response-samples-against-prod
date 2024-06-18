@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Subversive Activities Control Board Collection"],
         "unitid_ssm":["ALBA.002"],
         "abstract_ssm":["The United States Subversive Activities Control Board (SACB) was created in 1950 in conjunction with enactment of the Internal Security Act of 1950. This act, known as the McCarran Act after its author Senator Pat McCarran, did not outlaw the Communist Party but sought to secure its control through regulation. The Collection was assembled from various sources and contains transcripts of testimony of witnesses for the Veterans of the Abraham Lincoln Brigade (VALB) before the SACB from the 1950s to 1970s. It also contains a summary of the case by VALB member and attorney Benjamin Goldring, briefs, a trial transcript and correspondence between VALB and their attorneys, Leonard Boudin, Victor Rabinowitz and David Reinas well as correspondence and research about the SACB from Jaqueline Yost."],
+        "creator_ssm":["Tamiment Library",
+          "Tamiment Library"],
         "unitdate_normal_ssm":["1939/1974"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Tamiment Library",
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1939"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, 1939-1974"],
-        "_version_":1799747703212605440,
-        "timestamp":"2024-05-22T10:19:20.565Z"}]
+        "_version_":1802110519689084928,
+        "timestamp":"2024-06-17T12:15:17.952Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tamiment Library",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

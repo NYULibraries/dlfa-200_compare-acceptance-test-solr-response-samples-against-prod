@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Willis L. Bott photograph collection"],
         "unitid_ssm":["PR 468"],
         "abstract_ssm":["A collection of 96 silver gelatin photographs taken by Willis L. Bott between 1944 and 1958 that document both rural scenery and urban infrastructure in New York counties including Dutchess, Rockland, Putnam, Westchester, and the Bronx."],
+        "creator_ssm":["Bott, Willis L., 1908-1978",
+          "Bott, Willis L., 1908-1978"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Gelatin silver prints.",
           "Black-and-white photographs."],
@@ -76,8 +78,8 @@
           "Black-and-white photographs."],
         "heading_ssm":["Willis L. Bott photograph collection"],
         "unitdate_ssm":["Inclusive, 1944-1958"],
-        "_version_":1799330352974528512,
-        "timestamp":"2024-05-17T19:45:44.361Z"},
+        "_version_":1802094879596085248,
+        "timestamp":"2024-06-17T08:06:42.398Z"},
       {
         "id":"pr468_willis_bottaspace_386a012264f1abb69aecb8e817657b8e",
         "ead_ssi":"pr468_willis_bott",
@@ -90,12 +92,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Offsite-Box: 1, Folder: 2"],
         "heading_ssm":["Folder 2: Westchester and the Bronx"],
         "unitdate_ssm":["Inclusive, 1956-1958"],
-        "_version_":1799330353017520128,
-        "timestamp":"2024-05-17T19:45:44.403Z"},
+        "_version_":1802094879635931136,
+        "timestamp":"2024-06-17T08:06:42.436Z"},
       {
         "id":"pr468_willis_bottaspace_9b6b822f379321d6bd047ca7e0f18ddc",
         "ead_ssi":"pr468_willis_bott",
@@ -108,12 +109,11 @@
         "repository_ssi":"nyhs",
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Offsite-Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Offsite-Box: 1, Folder: 1"],
         "heading_ssm":["Folder 1: Dutchess, Rockland, and Putnam Counties"],
         "unitdate_ssm":["Inclusive, 1944-1955"],
-        "_version_":1799330352997597184,
-        "timestamp":"2024-05-17T19:45:44.384Z"}]
+        "_version_":1802094879620202496,
+        "timestamp":"2024-06-17T08:06:42.421Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -121,7 +121,8 @@
       "repository_sim":[
         "nyhs",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bott, Willis L., 1908-1978",1],
       "date_range_sim":[
         "undated & other",3],
       "subject_sim":[

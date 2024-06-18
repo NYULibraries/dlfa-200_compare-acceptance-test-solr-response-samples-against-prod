@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Holmes Condict Jackson Laboratory Manual"],
         "unitid_ssm":["MC.85"],
         "abstract_ssm":["Holmes Condict Jackson (1875-1927) was a professor of physiology and director of the laboratory of physiology at University and Bellevue Medical College, New York University. He was the author of Manual of Physiological Chemistry and Laboratory Exercises in Physiology. The Holmes Condict Jackson Laboratory Manual consists of Laboratory Exercises in Physiology, 1917, published by New York University Press. The manual was intended for medical students and contains diagrams and instructions on the apparatuses used for various experiments, instructions on how to write reports, and instructions for the experiments themselves."],
+        "creator_ssm":["Jackson, Holmes Condict, 1875-",
+          "Jackson, Holmes Condict, 1875-"],
         "unitdate_normal_ssm":["1917/1917"],
         "corpname_ssm":["New York University Archives"],
         "genreform_ssm":["Handbooks."],
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1917"],
         "unitdate_end_ssm":["1917"],
         "unitdate_ssm":["1917"],
-        "_version_":1799254743205281792,
-        "timestamp":"2024-05-16T23:43:57.267Z"},
+        "_version_":1801950654426513408,
+        "timestamp":"2024-06-15T17:54:18.558Z"},
       {
         "id":"mc_85aspace_fd51c9009c8c2313160c566047d44cd2",
         "ead_ssi":"mc_85",
@@ -79,14 +81,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 031, Folder: 8",
-          "Folder: 8"],
+        "location_ssm":["Box: Shared University Archives 031, Folder: 8"],
         "heading_ssm":["\n      Laboratory Exercises in Physiology\n    "],
         "unitdate_start_ssm":["1917"],
         "unitdate_end_ssm":["1917"],
         "unitdate_ssm":["1917"],
-        "_version_":1799254743229399040,
-        "timestamp":"2024-05-16T23:43:57.29Z"}]
+        "_version_":1801950654449582080,
+        "timestamp":"2024-06-15T17:54:18.58Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +95,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Jackson, Holmes Condict, 1875-",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Silas B. Dutcher family papers"],
         "unitid_ssm":["1977.282"],
         "abstract_ssm":["The Silas B. Dutcher family papers span the period circa 1820 to 1930 and are housed in seven full manuscript boxes, one half-manuscript box, and two oversize boxes measuring 6.34 linear feet.  The collection is composed primarily of Dutcher's business and political correspondence during the period 1861 to 1908.  Dutcher occupied various political appointments in New York City and Brooklyn during this period, including Supervisor of Internal Revenue, Pension Agent, Appraiser of the Port of New York, and New York Supervisor of Public Works.  During the same period, Dutcher also worked in mercantile and financial positions, such as director of Metropolitan Life Insurance and president of both Union Dime Savings and the Hamilton Trust Company.  Additional items in the collection include family correspondence, newspaper clippings, ephemera, family and political scrapbooks, and various certificates awarded to Dutcher throughout his illustrious career."],
+        "creator_ssm":["Dutcher, Silas Belden",
+          "Dutcher family",
+          "Dutcher, Edith",
+          "Dutcher, Rebecca J. (Rebecca Jacobs)",
+          "Dutcher family",
+          "Dutcher, Silas Belden",
+          "Dutcher, Edith",
+          "Dutcher, Rebecca J. (Rebecca Jacobs)"],
         "unitdate_normal_ssm":["1810/1940"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Pension Bureau",
@@ -114,8 +122,8 @@
         "unitdate_start_ssm":["1810"],
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["Inclusive, circa 1820-1930"],
-        "_version_":1775216432729030656,
-        "timestamp":"2023-08-25T15:45:17.945Z"},
+        "_version_":1800699857345708032,
+        "timestamp":"2024-06-01T22:33:25.506Z"},
       {
         "id":"arms_1977_282_dutcheraspace_ref10_8sz",
         "ead_ssi":"arms_1977_282_dutcher",
@@ -130,8 +138,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 2: Family papers"],
         "unitdate_ssm":["1889, 1909"],
-        "_version_":1775216432801382401,
-        "timestamp":"2023-08-25T15:45:18.025Z"},
+        "_version_":1800699857375068160,
+        "timestamp":"2024-06-01T22:33:25.535Z"},
       {
         "id":"arms_1977_282_dutcheraspace_ref12_btl",
         "ead_ssi":"arms_1977_282_dutcher",
@@ -146,8 +154,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 4: Scrapbooks"],
         "unitdate_ssm":["circa 1820-1930"],
-        "_version_":1775216432910434304,
-        "timestamp":"2023-08-25T15:45:18.129Z"},
+        "_version_":1800699857399185408,
+        "timestamp":"2024-06-01T22:33:25.557Z"},
       {
         "id":"arms_1977_282_dutcheraspace_ref13_bq8",
         "ead_ssi":"arms_1977_282_dutcher",
@@ -165,8 +173,8 @@
         "unitdate_start_ssm":["1858"],
         "unitdate_end_ssm":["1913"],
         "unitdate_ssm":["Inclusive, 1858-1913"],
-        "_version_":1775216432870588416,
-        "timestamp":"2023-08-25T15:45:18.091Z"},
+        "_version_":1800699857386602496,
+        "timestamp":"2024-06-01T22:33:25.546Z"},
       {
         "id":"arms_1977_282_dutcheraspace_ref14_1yq",
         "ead_ssi":"arms_1977_282_dutcher",
@@ -184,8 +192,8 @@
         "unitdate_start_ssm":["1864"],
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["Inclusive, 1864-1909"],
-        "_version_":1775216432946085888,
-        "timestamp":"2023-08-25T15:45:18.163Z"},
+        "_version_":1800699857422254080,
+        "timestamp":"2024-06-01T22:33:25.58Z"},
       {
         "id":"arms_1977_282_dutcheraspace_ref9_4ef",
         "ead_ssi":"arms_1977_282_dutcher",
@@ -203,8 +211,8 @@
         "unitdate_start_ssm":["1861"],
         "unitdate_end_ssm":["1908"],
         "unitdate_ssm":["Inclusive, 1861-1908"],
-        "_version_":1775216432768876544,
-        "timestamp":"2023-08-25T15:45:17.994Z"}]
+        "_version_":1800699857362485248,
+        "timestamp":"2024-06-01T22:33:25.523Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -212,7 +220,11 @@
       "repository_sim":[
         "cbh",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dutcher family",1,
+        "Dutcher, Edith",1,
+        "Dutcher, Rebecca J. (Rebecca Jacobs)",1,
+        "Dutcher, Silas Belden",1],
       "date_range_sim":[
         "1801-1900",4,
         "1901-2000",4,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jordan Center for the Advanced Study of Russia Records"],
         "unitid_ssm":["RG.37.62"],
         "abstract_ssm":["The Jordan Center for the Advanced Study of Russia was established in 2011  thanks to a generous gift from the family of NYU alumni Boris and Elizabeth Jordan. The blog includes information on events sponsored by the Center, as well as scholarship from contributors across the University. The blog represents the Center's efforts to integrate Russian Studies more thoroughly into the new media landscape."],
+        "creator_ssm":["New York University. Jordan Center for the Advanced Study of Russia",
+          "New York University. Jordan Center for the Advanced Study of Russia"],
         "unitdate_normal_ssm":["2014-03-31/2014-03-31"],
         "corpname_ssm":["New York University Archives",
           "New York University. Jordan Center for the Advanced Study of Russia"],
@@ -65,8 +67,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Jordan Center for the Advanced Study of Russia Records"],
         "unitdate_ssm":["March 2014-ongoing"],
-        "_version_":1799254514454233088,
-        "timestamp":"2024-05-16T23:40:19.113Z"},
+        "_version_":1801953460872019968,
+        "timestamp":"2024-06-15T18:38:54.993Z"},
       {
         "id":"rg_37_62aspace_5a52bd72e99a2331dcb3f046675981af",
         "ead_ssi":"rg_37_62",
@@ -84,8 +86,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Jordan Center Blog"],
         "unitdate_ssm":["March 2022-ongoing"],
-        "_version_":1799254514526584832,
-        "timestamp":"2024-05-16T23:40:19.182Z"},
+        "_version_":1801953460961148928,
+        "timestamp":"2024-06-15T18:38:55.078Z"},
       {
         "id":"rg_37_62aspace_789477018944b9a1e4fb37566d16c3e5",
         "ead_ssi":"rg_37_62",
@@ -103,8 +105,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["All the Russias' Blog"],
         "unitdate_ssm":["Inclusive, March 2014-March 2022"],
-        "_version_":1799254514476253184,
-        "timestamp":"2024-05-16T23:40:19.134Z"},
+        "_version_":1801953460897185792,
+        "timestamp":"2024-06-15T18:38:55.017Z"},
       {
         "id":"rg_37_62aspace_7dcdca5dfe1245cfc139f713bdc63e06",
         "ead_ssi":"rg_37_62",
@@ -122,8 +124,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Event Recaps"],
         "unitdate_ssm":["Inclusive, March-September 2015"],
-        "_version_":1799254514509807616,
-        "timestamp":"2024-05-16T23:40:19.166Z"},
+        "_version_":1801953460937031680,
+        "timestamp":"2024-06-15T18:38:55.055Z"},
       {
         "id":"rg_37_62aspace_fa35b3f8912a25677deecf19fe0cb03f",
         "ead_ssi":"rg_37_62",
@@ -141,8 +143,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["News"],
         "unitdate_ssm":["Inclusive, March-September 2015"],
-        "_version_":1799254514494078976,
-        "timestamp":"2024-05-16T23:40:19.151Z"}]
+        "_version_":1801953460920254464,
+        "timestamp":"2024-06-15T18:38:55.039Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -151,7 +153,8 @@
         "archives",5],
       "dao_sim":[
         "Online Access",5],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Jordan Center for the Advanced Study of Russia",1],
       "date_range_sim":[
         "undated & other",5],
       "subject_sim":[

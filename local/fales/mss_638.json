@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Rachel Searcy"],
         "unittitle_ssm":["Dorothy Donnell Steers Collection of Coleman Dowell Letters"],
-        "unitid_ssm":["MSS.638",
-          "/repositories/3/resources/3496"],
+        "unitid_ssm":["MSS.638"],
         "abstract_ssm":["Dorothy Donnell Steers (1925-2016) was a friend of Coleman Dowell from Simpson County High School in Franklin, Kentucky. This collection consists of seven letters from writer Coleman Dowell to Steers. In the letters, Dowell discusses his recent writings, asks for Steers' opinion on his works, shares updates on his family, and expresses his hopes for a reunion with his high school friends."],
+        "creator_ssm":["Steers, Dorothy Donnell",
+          "Steers, Dorothy Donnell"],
         "unitdate_normal_ssm":["1968/1976"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Correspondence."],
@@ -68,15 +69,15 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1968-1976"],
-        "_version_":1799745502475976704,
-        "timestamp":"2024-05-22T09:44:21.779Z"},
+        "_version_":1802081764076683264,
+        "timestamp":"2024-06-17T04:38:14.464Z"},
       {
         "id":"mss_638aspace_6ec1fed03e72bfd7d3b19d6a6c2469bf",
         "ead_ssi":"mss_638",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Dorothy Donnell Steers Collection of Coleman Dowell Letters"],
-        "collection_unitid_ssm":["MSS.638/repositories/3/resources/3496"],
+        "collection_unitid_ssm":["MSS.638"],
         "unittitle_ssm":["Letters"],
         "unitid_ssm":["/repositories/3/archival_objects/989459"],
         "unitdate_normal_ssm":["1968/1976"],
@@ -84,14 +85,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared Fales 108, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: Shared Fales 108, Folder: 1"],
         "heading_ssm":["Letters"],
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1968-1976"],
-        "_version_":1799745502493802496,
-        "timestamp":"2024-05-22T09:44:21.795Z"}]
+        "_version_":1802081764114432000,
+        "timestamp":"2024-06-17T04:38:14.5Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -99,7 +99,8 @@
       "repository_sim":[
         "fales",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Steers, Dorothy Donnell",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

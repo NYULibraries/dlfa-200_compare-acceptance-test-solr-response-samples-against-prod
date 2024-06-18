@@ -46,6 +46,8 @@
         "author_ssm":["Valerie Paley"],
         "unittitle_ssm":["Henry Van Solingen receipt books"],
         "unitid_ssm":["MS 2606"],
+        "creator_ssm":["Van Solingen, Henry",
+          "Van Solingen, Henry"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Receipts (financial records)",
           "Clippings (information artifacts)"],
@@ -64,8 +66,8 @@
           "Clippings (information artifacts)"],
         "heading_ssm":["Henry Van Solingen receipt books"],
         "unitdate_ssm":["Inclusive, 1789-1836"],
-        "_version_":1799323772915810304,
-        "timestamp":"2024-05-17T18:01:09.129Z"},
+        "_version_":1802083287867326464,
+        "timestamp":"2024-06-17T05:02:27.664Z"},
       {
         "id":"ms2606_henry_van_solingenaspace_ref10_jwv",
         "ead_ssi":"ms2606_henry_van_solingen",
@@ -81,8 +83,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Clippings"],
         "unitdate_ssm":["1789-1836"],
-        "_version_":1799323772971384832,
-        "timestamp":"2024-05-17T18:01:09.182Z"},
+        "_version_":1802083287951212544,
+        "timestamp":"2024-06-17T05:02:27.744Z"},
       {
         "id":"ms2606_henry_van_solingenaspace_ref7_y9r",
         "ead_ssi":"ms2606_henry_van_solingen",
@@ -98,8 +100,8 @@
         "location_ssm":["Volume: 1"],
         "heading_ssm":["Receipt book"],
         "unitdate_ssm":["1789-1804"],
-        "_version_":1799323772929441792,
-        "timestamp":"2024-05-17T18:01:09.142Z"},
+        "_version_":1802083287887249408,
+        "timestamp":"2024-06-17T05:02:27.683Z"},
       {
         "id":"ms2606_henry_van_solingenaspace_ref8_ldw",
         "ead_ssi":"ms2606_henry_van_solingen",
@@ -115,8 +117,8 @@
         "location_ssm":["Volume: 2"],
         "heading_ssm":["Receipt book"],
         "unitdate_ssm":["1804-1836"],
-        "_version_":1799323772942024704,
-        "timestamp":"2024-05-17T18:01:09.154Z"},
+        "_version_":1802083287904026624,
+        "timestamp":"2024-06-17T05:02:27.699Z"},
       {
         "id":"ms2606_henry_van_solingenaspace_ref9_dvs",
         "ead_ssi":"ms2606_henry_van_solingen",
@@ -132,8 +134,8 @@
         "location_ssm":["Volume: 3"],
         "heading_ssm":["Receipt book"],
         "unitdate_ssm":["1811-1832"],
-        "_version_":1799323772956704768,
-        "timestamp":"2024-05-17T18:01:09.168Z"}]
+        "_version_":1802083287920803840,
+        "timestamp":"2024-06-17T05:02:27.715Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -141,7 +143,8 @@
       "repository_sim":[
         "nyhs",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Van Solingen, Henry",1],
       "date_range_sim":[
         "undated & other",5],
       "subject_sim":[

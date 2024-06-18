@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Reunion of Old Timers Records"],
         "unitid_ssm":["TAM.283"],
         "abstract_ssm":["The Reunion of Old Timers was founded in 1941 by veteran members of the labor struggle. The Reunion was established to honor distinguished individuals involved in the labor and socialist movements and to provide financial aid to members and institutions in need. In 1998 the organization changed its name to Reunion for Tomorrow. This partially processed collection consists of minutes, correspondence, dinner programs, financial records, membership lists and communications with the membership. Of particular interest to researchers is the network of friendships among labor and socialist activists revealed in these papers."],
+        "creator_ssm":["Reunion of Old Timers",
+          "Reunion of Old Timers"],
         "unitdate_normal_ssm":["1947/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Reunion of Old Timers",
@@ -70,8 +72,8 @@
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1947-1989"],
-        "_version_":1799333617320591360,
-        "timestamp":"2024-05-17T20:37:37.485Z"}]
+        "_version_":1802171359158075392,
+        "timestamp":"2024-06-18T04:22:18.992Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Reunion of Old Timers",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

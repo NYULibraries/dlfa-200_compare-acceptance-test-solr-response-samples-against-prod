@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>Glimpses of the New Coney Island</em> viewbook"],
         "unitid_ssm":["V1986.026"],
         "abstract_ssm":["The viewbook contains 34 pages, with page size measuring 7 x 9, and includes images of attractions, buildings, and structures at Coney Island, group portraits of performers at Coney Island, street scenes of Surf Avenue, beach views, images of hotels at or near Coney Island, and views of Luna Park, Steeplechase Park, and Dreamland, among others."],
+        "creator_ssm":["Isaac H. Blanchard Co",
+          "Isaac H. Blanchard Co"],
         "unitdate_normal_ssm":["1904/1904"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Isaac H. Blanchard Co",
@@ -79,8 +81,8 @@
         "unitdate_end_ssm":["1904"],
         "unitdate_ssm":["Inclusive, 1904"],
         "language_ssm":["English"],
-        "_version_":1799256298114514944,
-        "timestamp":"2024-05-17T00:08:40.144Z"}]
+        "_version_":1802045046525001728,
+        "timestamp":"2024-06-16T18:54:37.877Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Isaac H. Blanchard Co",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

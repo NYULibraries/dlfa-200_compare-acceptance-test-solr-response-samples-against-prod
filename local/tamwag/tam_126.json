@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["New York University Clerical Workers Organizing Campaign Records"],
         "unitid_ssm":["TAM.126"],
         "abstract_ssm":["United Automobile Workers, District 65 and the Office and Professional Employees International Union, Local 153 led an unsuccessful clerical workers organizing campaign at New York University, beginning in the fall of 1969 and continuing through 1971. The collection includes printed ephemera produced by the organizing campaign and student supporters, statements and press releases by the university, picket duty material, and NLRB and SLRB documents."],
+        "creator_ssm":["Office and Professional Employees International Union. Local 153 (New York, N.Y.)",
+          "International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. District 65",
+          "Office and Professional Employees International Union. Local 153 (New York, N.Y.)",
+          "International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. District 65"],
         "unitdate_normal_ssm":["1969/1971"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Office and Professional Employees International Union. Local 153 (New York, N.Y.)",
@@ -73,8 +77,8 @@
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1971"],
         "unitdate_ssm":["Inclusive, 1969-1971"],
-        "_version_":1799777380110172160,
-        "timestamp":"2024-05-22T18:11:02.66Z"},
+        "_version_":1802167735954702336,
+        "timestamp":"2024-06-18T03:24:43.635Z"},
       {
         "id":"tam_126aspace_050d78c1621b82d54aee42590be3aecd",
         "ead_ssi":"tam_126",
@@ -89,8 +93,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Records"],
-        "_version_":1799777380122755072,
-        "timestamp":"2024-05-22T18:11:02.672Z"}]
+        "_version_":1802167735963090944,
+        "timestamp":"2024-06-18T03:24:43.644Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -98,7 +102,9 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "International Union, United Automobile, Aerospace, and Agricultural Implement Workers of America. District 65",1,
+        "Office and Professional Employees International Union. Local 153 (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Dan La Botz Papers"],
         "unitid_ssm":["TAM.678"],
         "abstract_ssm":["Dan La Botz (1945-) is a labor and civil rights activist, academic, and author. He was the Socialist Party of Ohio's 2010 candidate for the U.S. Senate. He is also a co-founder of the socialist organization Solidarity, and has taught History and Latin American Studies at Miami University, the Univeristy of Cincinnati, and Northern Kentucky University. This collection contains material relating to La Botz's activism, organizing, writing, and teaching from the 1980s until 2014. The materials include correspondence, a campaign diary, handwritten notes, campaign literature, photographs documenting protests, and published and unpublished poetry and academic manuscripts."],
+        "creator_ssm":["La Botz, Dan",
+          "La Botz, Dan"],
         "unitdate_normal_ssm":["1929/2014",
           "1980/2014"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -67,8 +69,8 @@
           "1980"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["Inclusive, circa 1929-2014 ; 1980-2014"],
-        "_version_":1799333597604216832,
-        "timestamp":"2024-05-17T20:37:18.682Z"}]
+        "_version_":1802183983225634816,
+        "timestamp":"2024-06-18T07:42:58.241Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "La Botz, Dan",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

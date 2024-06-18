@@ -47,6 +47,8 @@
         "unittitle_ssm":["Kings County census of 1786"],
         "unitid_ssm":["1981.012"],
         "abstract_ssm":["The Kings County Census of 1786 consists of a single handwritten document and provides population figures within the different towns that comprised Kings County at this time, including Brooklyn, Flatbush, New Lots, Gravesend, Flatlands, and Bushwick. The census includes the number of families in each town, the number of males and females under age 16, the number of males and females between the ages of 16 and age 60, the number of males over age 60, and the numbers of enslaved African American men and women.  The census information was compiled by Peter Vandervoort, Sheriff."],
+        "creator_ssm":["Kings County (N.Y.)",
+          "Kings County (N.Y.)"],
         "unitdate_normal_ssm":["1786/1786"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Kings County (N.Y.)"],
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1786"],
         "unitdate_ssm":["Inclusive, 1786"],
         "language_ssm":["English"],
-        "_version_":1799312462980317184,
-        "timestamp":"2024-05-17T15:01:23.134Z"}]
+        "_version_":1801962885542313984,
+        "timestamp":"2024-06-15T21:08:43.059Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kings County (N.Y.)",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

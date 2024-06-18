@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Howard \"Stretch\" Johnson Papers"],
         "unitid_ssm":["TAM.166"],
         "abstract_ssm":["Howard \"Stretch\" Johnson (1915-2000) was a tap dancer and social activist. This collection includes biographical clippings, correspondence and materials from the African-American Lecture Series."],
+        "creator_ssm":["Johnson, Howard \"Stretch\"",
+          "Johnson, Howard \"Stretch\""],
         "unitdate_normal_ssm":["1946/1993"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Johnson, Howard \"Stretch\"",
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1946"],
         "unitdate_end_ssm":["1993"],
         "unitdate_ssm":["Inclusive, 1946-1993"],
-        "_version_":1799781066332962816,
-        "timestamp":"2024-05-22T19:09:38.116Z"},
+        "_version_":1802170288987701248,
+        "timestamp":"2024-06-18T04:05:18.398Z"},
       {
         "id":"tam_166aspace_e107178f7ba7a318034709559def9239",
         "ead_ssi":"tam_166",
@@ -80,8 +82,8 @@
         "location_ssm":["Box: 2",
           "Box: 3"],
         "heading_ssm":["Papers"],
-        "_version_":1799781066345545728,
-        "timestamp":"2024-05-22T19:09:38.128Z"}]
+        "_version_":1802170288996089856,
+        "timestamp":"2024-06-18T04:05:18.406Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +91,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Johnson, Howard \"Stretch\"",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

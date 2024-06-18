@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Daniel M.C. Hopping collection of Long Island Historical Society photographs and slides"],
         "unitid_ssm":["V1988.052"],
         "abstract_ssm":["Included in the collection are four black-and-white photographic prints documenting activities related to the Century Ball, a dinner that was held at the Brooklyn Savings Bank in Brooklyn Heights in commemoration of the 100th anniversary of the establishment of the Long Island Historical Society."],
+        "creator_ssm":["Hopping, D. M. C.",
+          "Hopping, D. M. C."],
         "unitdate_normal_ssm":["1963/1965"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Long Island Historical Society",
@@ -79,8 +81,8 @@
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1963-1965"],
         "language_ssm":["English"],
-        "_version_":1799256301653458944,
-        "timestamp":"2024-05-17T00:08:43.519Z"}]
+        "_version_":1802045252204232704,
+        "timestamp":"2024-06-16T18:57:54.029Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -88,7 +90,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hopping, D. M. C.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

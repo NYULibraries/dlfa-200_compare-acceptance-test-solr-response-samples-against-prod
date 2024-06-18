@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Matson family papers"],
         "unitid_ssm":["ARC.320"],
         "abstract_ssm":["This collection is dated 1853-1963 and documents the Matson, Netterville, and Glover families in documents, letters, and an account book."],
+        "creator_ssm":["Matson family",
+          "Matson, Nathaniel",
+          "Matson family",
+          "Matson, Nathaniel"],
         "unitdate_normal_ssm":["1853/1963"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Matson family",
@@ -80,8 +84,8 @@
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, 1853-1963"],
         "language_ssm":["English"],
-        "_version_":1799311718794395648,
-        "timestamp":"2024-05-17T14:49:33.423Z"},
+        "_version_":1801959906243248128,
+        "timestamp":"2024-06-15T20:21:21.778Z"},
       {
         "id":"arc_320aspace_4a92fbd480563dc66ee938e2f7e1b9e7",
         "ead_ssi":"arc_320",
@@ -96,14 +100,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: A0076, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: A0076, Folder: 3"],
         "heading_ssm":["Nathaniel Matson account book"],
         "unitdate_start_ssm":["1868"],
         "unitdate_end_ssm":["1874"],
         "unitdate_ssm":["Inclusive, 1868-1874"],
-        "_version_":1799311718847873024,
-        "timestamp":"2024-05-17T14:49:33.474Z"},
+        "_version_":1801959906305114112,
+        "timestamp":"2024-06-15T20:21:21.837Z"},
       {
         "id":"arc_320aspace_c2cceaa5c0d1c7eb1b4634ddd59f61dc",
         "ead_ssi":"arc_320",
@@ -118,14 +121,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: A0076, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: A0076, Folder: 2"],
         "heading_ssm":["Nathaniel Matson letters"],
         "unitdate_start_ssm":["1864"],
         "unitdate_end_ssm":["1873"],
         "unitdate_ssm":["Inclusive, 1864-1873"],
-        "_version_":1799311718833192960,
-        "timestamp":"2024-05-17T14:49:33.46Z"},
+        "_version_":1801959906282045440,
+        "timestamp":"2024-06-15T20:21:21.815Z"},
       {
         "id":"arc_320aspace_f7e87822c663eea7e19f716a410ec9c3",
         "ead_ssi":"arc_320",
@@ -140,14 +142,13 @@
         "repository_ssi":"cbh",
         "repository_ssm":["cbh"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: A0076, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: A0076, Folder: 1"],
         "heading_ssm":["Matson and Netterville families and Frederick Glover documents"],
         "unitdate_start_ssm":["1853"],
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, 1853-1963"],
-        "_version_":1799311718812221440,
-        "timestamp":"2024-05-17T14:49:33.44Z"}]
+        "_version_":1801959906261073920,
+        "timestamp":"2024-06-15T20:21:21.795Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -155,7 +156,9 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Matson family",1,
+        "Matson, Nathaniel",1],
       "date_range_sim":[
         "1801-1900",4,
         "1901-2000",2],

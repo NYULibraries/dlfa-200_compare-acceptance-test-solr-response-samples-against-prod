@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Hancock letter"],
         "unitid_ssm":["1977.095"],
         "abstract_ssm":["Handwritten letter from John Hancock to the Constitutional Convention of New York, dated June 17, 1776."],
+        "creator_ssm":["Hancock, John",
+          "Hancock, John"],
         "unitdate_normal_ssm":["1776/1776"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Constitutional Convention (1776)"],
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1776"],
         "unitdate_ssm":["1776"],
         "language_ssm":["English"],
-        "_version_":1799311497926541312,
-        "timestamp":"2024-05-17T14:46:02.787Z"}]
+        "_version_":1801960687551905792,
+        "timestamp":"2024-06-15T20:33:46.892Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hancock, John",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Collection of Research Files on Anarchism"],
         "unitid_ssm":["TAM.428"],
+        "creator_ssm":["Nash, Mary",
+          "Nash, Mary"],
         "unitdate_normal_ssm":["1970/1979"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Nash, Mary",
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, circa 1970s"],
         "language_ssm":["English"],
-        "_version_":1799791044023287808,
-        "timestamp":"2024-05-22T21:48:13.583Z"}]
+        "_version_":1802183028136476672,
+        "timestamp":"2024-06-18T07:27:47.396Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Nash, Mary",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

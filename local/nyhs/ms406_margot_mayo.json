@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":15,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Margot Mayo notes on the history of dance"],
         "unitid_ssm":["MS 406"],
         "abstract_ssm":["The collection includes research notes compiled circa 1950s by Margot Mayo (1910-1974), mostly concerning the history of dance, dancers, and dancing instruction in New York City and the nation from 1730-1900."],
+        "creator_ssm":["Mayo, Margot, 1910-1974",
+          "Mayo, Margot, 1910-1974"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Research notes."],
         "geogname_ssm":["New York (N.Y.)"],
@@ -64,8 +66,8 @@
         "material_type_ssm":["Research notes."],
         "heading_ssm":["Margot Mayo notes on the history of dance"],
         "unitdate_ssm":["Inclusive, circa 1950s"],
-        "_version_":1799316038436782080,
-        "timestamp":"2024-05-17T15:58:12.954Z"},
+        "_version_":1802086624710885376,
+        "timestamp":"2024-06-17T05:55:29.926Z"},
       {
         "id":"ms406_margot_mayoaspace_12abdf57b5ae7a006cf98ac8993575fb",
         "ead_ssi":"ms406_margot_mayo",
@@ -81,8 +83,8 @@
         "location_ssm":["Offsite-Box: 3"],
         "heading_ssm":["Index Card Boxes 3,4,6,8,9"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799316038578339840,
-        "timestamp":"2024-05-17T15:58:13.09Z"},
+        "_version_":1802086624762265600,
+        "timestamp":"2024-06-17T05:55:29.975Z"},
       {
         "id":"ms406_margot_mayoaspace_c462ffb88f897bbc496f35ff40550537",
         "ead_ssi":"ms406_margot_mayo",
@@ -98,8 +100,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["Manuscript and notes"],
         "unitdate_ssm":["Inclusive, 1950s"],
-        "_version_":1799316038486065152,
-        "timestamp":"2024-05-17T15:58:13.002Z"},
+        "_version_":1802086624727662592,
+        "timestamp":"2024-06-17T05:55:29.942Z"},
       {
         "id":"ms406_margot_mayoaspace_d4f45cead29dea2b6735cf6807651a98",
         "ead_ssi":"ms406_margot_mayo",
@@ -115,8 +117,8 @@
         "location_ssm":["Offsite-Box: 2"],
         "heading_ssm":["Index Card Boxes 1,2,5,7"],
         "unitdate_ssm":["Inclusive, undated"],
-        "_version_":1799316038533251072,
-        "timestamp":"2024-05-17T15:58:13.047Z"}]
+        "_version_":1802086624745488384,
+        "timestamp":"2024-06-17T05:55:29.959Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -124,7 +126,8 @@
       "repository_sim":[
         "nyhs",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Mayo, Margot, 1910-1974",1],
       "date_range_sim":[
         "undated & other",4],
       "subject_sim":[

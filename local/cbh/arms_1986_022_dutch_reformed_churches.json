@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,22 @@
         "unittitle_ssm":["Dutch Reformed churches of Brooklyn collection"],
         "unitid_ssm":["1986.022"],
         "abstract_ssm":["The Dutch Reformed churches of Brooklyn collection spans the period 1856 to 1971 and documents the activities of various Reformed churches in Brooklyn. Materials include clippings, yearbooks, rule books, bulletins, programs, reports, and histories."],
+        "creator_ssm":["Lee Avenue Reformed Dutch Church (Brooklyn, New York, N.Y.)",
+          "New Lots Reformed Church (Brooklyn, New York, N.Y.)",
+          "Protestant Dutch Reformed Church of Flatlands (New York, N.Y.)",
+          "Gravesend Reformed Church (Brooklyn, New York, N.Y.). Chapel",
+          "Gravesend Reformed Church (Brooklyn, New York, N.Y.)",
+          "Flatbush Dutch Reformed Church (Flatbush, New York, N.Y.)",
+          "Reformed Church in America. Particular Synod of New York",
+          "Reformed Church in America. Classis of Brooklyn (N.Y.)",
+          "Lee Avenue Reformed Dutch Church (Brooklyn, New York, N.Y.)",
+          "New Lots Reformed Church (Brooklyn, New York, N.Y.)",
+          "Protestant Dutch Reformed Church of Flatlands (New York, N.Y.)",
+          "Gravesend Reformed Church (Brooklyn, New York, N.Y.). Chapel",
+          "Gravesend Reformed Church (Brooklyn, New York, N.Y.)",
+          "Flatbush Dutch Reformed Church (Flatbush, New York, N.Y.)",
+          "Reformed Church in America. Particular Synod of New York",
+          "Reformed Church in America. Classis of Brooklyn (N.Y.)"],
         "unitdate_normal_ssm":["1856/1971"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Lee Avenue Reformed Dutch Church (Brooklyn, New York, N.Y.)",
@@ -109,8 +125,8 @@
         "unitdate_end_ssm":["1971"],
         "unitdate_ssm":["Inclusive, 1856-1971"],
         "language_ssm":["English"],
-        "_version_":1799311503019474944,
-        "timestamp":"2024-05-17T14:46:07.644Z"}]
+        "_version_":1801963234284011520,
+        "timestamp":"2024-06-15T21:14:15.645Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -118,7 +134,15 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Flatbush Dutch Reformed Church (Flatbush, New York, N.Y.)",1,
+        "Gravesend Reformed Church (Brooklyn, New York, N.Y.)",1,
+        "Gravesend Reformed Church (Brooklyn, New York, N.Y.). Chapel",1,
+        "Lee Avenue Reformed Dutch Church (Brooklyn, New York, N.Y.)",1,
+        "New Lots Reformed Church (Brooklyn, New York, N.Y.)",1,
+        "Protestant Dutch Reformed Church of Flatlands (New York, N.Y.)",1,
+        "Reformed Church in America. Classis of Brooklyn (N.Y.)",1,
+        "Reformed Church in America. Particular Synod of New York",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

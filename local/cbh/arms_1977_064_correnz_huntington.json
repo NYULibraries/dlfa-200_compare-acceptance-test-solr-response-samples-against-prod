@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Letter from A.M. Correnz to Daniel Huntington"],
         "unitid_ssm":["1977.064"],
         "abstract_ssm":["One 1844 letter from A.M. Correnz in New York City to Daniel Huntington in Paris, France, informing Huntington that his paintings had arrived in Brooklyn and had been inspected at the home of Huntington's mother-in-law, Mrs. Richards."],
+        "creator_ssm":["Correnz, A. M.",
+          "Correnz, A. M."],
         "unitdate_normal_ssm":["1844/1844"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1844"],
         "unitdate_ssm":["1844"],
         "language_ssm":["English"],
-        "_version_":1799256164586749952,
-        "timestamp":"2024-05-17T00:06:32.801Z"}]
+        "_version_":1801960629682044928,
+        "timestamp":"2024-06-15T20:32:51.703Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Correnz, A. M.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

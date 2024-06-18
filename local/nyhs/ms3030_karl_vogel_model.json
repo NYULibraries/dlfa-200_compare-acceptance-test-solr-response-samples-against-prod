@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Karl Vogel papers "],
         "unitid_ssm":["MS 3030"],
         "abstract_ssm":["The collection includes drawings, photographs, notes, and correspondence related to Karl Vogel's construction in 1927 of a one-eighth inch to the foot scale model of the U.S. Frigate Constitution. The correspondence primarily includes letters, many with drawings, from Lieutenant-Colonel William F. Spicer of the Navy."],
+        "creator_ssm":["Vogel, Karl, M.D.",
+          "Vogel, Karl, M.D."],
         "corpname_ssm":["New-York Historical Society",
           "Constitution (Frigate)"],
         "genreform_ssm":["Correspondence.",
@@ -70,8 +72,8 @@
         "heading_ssm":["Karl Vogel papers "],
         "unitdate_ssm":["Inclusive, 1924-1930"],
         "language_ssm":["English"],
-        "_version_":1799329991315423232,
-        "timestamp":"2024-05-17T19:39:59.457Z"},
+        "_version_":1802084998279331840,
+        "timestamp":"2024-06-17T05:29:38.84Z"},
       {
         "id":"ms3030_karl_vogel_modelaspace_2070585a9d6a7f6c7ba9b16baf80bc40",
         "ead_ssi":"ms3030_karl_vogel_model",
@@ -86,8 +88,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Karl Vogel papers relating to his construction of a model of the U.S. Frigate Constitution"],
-        "_version_":1799329991336394752,
-        "timestamp":"2024-05-17T19:39:59.476Z"}]
+        "_version_":1802084998295060480,
+        "timestamp":"2024-06-17T05:29:38.855Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +97,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Vogel, Karl, M.D.",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

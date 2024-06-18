@@ -47,6 +47,8 @@
         "unittitle_ssm":["Christ Episcopal Church of North Hempstead ledger"],
         "unitid_ssm":["1973.111"],
         "abstract_ssm":["One ledger of the Episcopal Church of North Hempstead spanning the period 1802 to 1834."],
+        "creator_ssm":["Christ Episcopal Church (North Hempstead, N.Y.)",
+          "Christ Episcopal Church (North Hempstead, N.Y.)"],
         "unitdate_normal_ssm":["1802/1834"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Christ Episcopal Church (North Hempstead, N.Y.)",
@@ -75,8 +77,8 @@
         "unitdate_end_ssm":["1834"],
         "unitdate_ssm":["Inclusive, 1802-1834"],
         "language_ssm":["English"],
-        "_version_":1775226519365353472,
-        "timestamp":"2023-08-25T18:25:37.322Z"}]
+        "_version_":1800648580683268096,
+        "timestamp":"2024-06-01T08:58:24.271Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Christ Episcopal Church (North Hempstead, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

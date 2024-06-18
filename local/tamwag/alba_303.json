@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jacob Kramer Papers"],
         "unitid_ssm":["ALBA.303"],
         "abstract_ssm":["The Jacob Kramer Papers consist of clippings, correspondence, newsletters, pamphlets and original writings related to Jacob Kramer's military service in the Abraham Lincoln Brigades and the US Merchant Marines and his political activism as a member of the communist party, a labor organizer, and a member of the Gray Panther Party."],
+        "creator_ssm":["Kramer, Jacob, 1912-1992",
+          "Kramer, Jacob, 1912-1992"],
         "unitdate_normal_ssm":["1936/2009"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Clippings files.",
@@ -73,8 +75,8 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1936-2009"],
-        "_version_":1799748170511548416,
-        "timestamp":"2024-05-22T10:26:46.216Z"},
+        "_version_":1802111684185161728,
+        "timestamp":"2024-06-17T12:33:48.503Z"},
       {
         "id":"alba_303aspace_7fe60356daf530f7f618796fb75325bf",
         "ead_ssi":"alba_303",
@@ -88,14 +90,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 1-9",
-          "Folder: 1-9"],
+        "location_ssm":["Box: 2, Folder: 1-9"],
         "heading_ssm":["Political Organizing and Biographical Materials "],
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive,  ; 1936-2009"],
-        "_version_":1799748170546151424,
-        "timestamp":"2024-05-22T10:26:46.249Z"},
+        "_version_":1802111684233396224,
+        "timestamp":"2024-06-17T12:33:48.549Z"},
       {
         "id":"alba_303aspace_a937a54c436173c717d98d4eb6b247a7",
         "ead_ssi":"alba_303",
@@ -109,14 +110,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1-8",
-          "Folder: 1-8"],
+        "location_ssm":["Box: 1, Folder: 1-8"],
         "heading_ssm":["Veterans' Correspondence and Newsletters"],
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive,  ; 1936-2009"],
-        "_version_":1799748170529374208,
-        "timestamp":"2024-05-22T10:26:46.233Z"}]
+        "_version_":1802111684213473280,
+        "timestamp":"2024-06-17T12:33:48.53Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -124,7 +124,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kramer, Jacob, 1912-1992",1],
       "date_range_sim":[
         "1901-2000",3,
         "2001-2100",3],

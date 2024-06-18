@@ -47,6 +47,8 @@
         "unittitle_ssm":["Keeler Brothers magazine prospectus"],
         "unitid_ssm":["1979.011"],
         "abstract_ssm":["A one-page printed 1876 prospectus for publication of the periodical \"Once-a-Week\" to \"aid in the promotion of the welfare and growth of the Village of Roslyn, Long Island, New York.\" The prospectus is attributed to the Keeler Brothers."],
+        "creator_ssm":["Keeler Brothers",
+          "Keeler Brothers"],
         "unitdate_normal_ssm":["1876/1876"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Keeler Brothers"],
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1876"],
         "unitdate_ssm":["1876"],
         "language_ssm":["English"],
-        "_version_":1799256307368198144,
-        "timestamp":"2024-05-17T00:08:48.969Z"}]
+        "_version_":1801962729719726080,
+        "timestamp":"2024-06-15T21:06:14.455Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Keeler Brothers",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

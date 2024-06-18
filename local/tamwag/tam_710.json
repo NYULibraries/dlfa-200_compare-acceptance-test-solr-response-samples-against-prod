@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["David McMullen Papers"],
         "unitid_ssm":["TAM.710"],
         "abstract_ssm":["David Lee McMullen is a writer, historian, and professor at the University of South Florida in St. Petersburg. The David Lee McMullen Papers consist of McMullen's research files that pertain to three of his major writings: his doctoral thesis The Elusive Ellen: Reconstructing the Life of Ellen Dawson and the World Around Her, his first biography Strike! The Radical Insurrections of Ellen Dawson, and his unfinished biography of Albert Weisbord and Vera Buch Weisbord. McMullen's research files consist of correspondence, transcriptions of letters and interviews, photographs, maps, newspaper clippings, FBI reports, notes, timelines, and drafts. Also included in the collection is a bound final draft of McMullen's doctoral thesis."],
+        "creator_ssm":["McMullen, David Lee",
+          "McMullen, David Lee"],
         "unitdate_normal_ssm":["1920/2013",
           "2003/2013"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -70,8 +72,8 @@
           "2003"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["Inclusive, 1920-2013 ; 2003-2013"],
-        "_version_":1799792001176043520,
-        "timestamp":"2024-05-22T22:03:26.395Z"}]
+        "_version_":1802184346892763136,
+        "timestamp":"2024-06-18T07:48:45.061Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "McMullen, David Lee",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

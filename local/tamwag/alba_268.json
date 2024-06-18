@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Bernard Entin Papers"],
         "unitid_ssm":["ALBA.268"],
+        "creator_ssm":["Entin, Bernard, d. 1937",
+          "Entin, Bernard, d. 1937"],
         "unitdate_normal_ssm":["1937/1939"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Entin, Bernard, d. 1937",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["Inclusive,  ; 1937-1939"],
         "language_ssm":["English"],
-        "_version_":1799334950125699072,
-        "timestamp":"2024-05-17T20:58:48.547Z"},
+        "_version_":1802111546357186560,
+        "timestamp":"2024-06-17T12:31:37.06Z"},
       {
         "id":"alba_268aspace_d34d4a1ad28bc902f06496ab1bb545b2",
         "ead_ssi":"alba_268",
@@ -77,8 +79,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799334950139330560,
-        "timestamp":"2024-05-17T20:58:48.56Z"}]
+        "_version_":1802111546378158080,
+        "timestamp":"2024-06-17T12:31:37.08Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Entin, Bernard, d. 1937",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

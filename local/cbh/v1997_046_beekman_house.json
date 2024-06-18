@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Beekman House lithographs"],
         "unitid_ssm":["V1997.046"],
         "abstract_ssm":["2 lithographs of the interior of the Beekman House, by Sarony, Major & Knapp, 1860. Published in D.T. Valentine's Manual, 1861."],
+        "creator_ssm":["Sarony, Major & Knapp Lith",
+          "Sarony, Major & Knapp Lith"],
         "unitdate_normal_ssm":["1861/1861"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Sarony, Major & Knapp Lith"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1861"],
         "unitdate_ssm":["Inclusive, 1861"],
         "language_ssm":["English"],
-        "_version_":1799309976259264512,
-        "timestamp":"2024-05-17T14:21:51.612Z"}]
+        "_version_":1802045612109070336,
+        "timestamp":"2024-06-16T19:03:37.261Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sarony, Major & Knapp Lith",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Matthews family papers"],
         "unitid_ssm":["1977.428"],
         "abstract_ssm":["This collection contains various materials from the period 1840-1910 pertaining to the Matthews family of Brooklyn, N.Y.,including  Azel D. Matthews of the dry goods store A.D. Matthews & Sons."],
+        "creator_ssm":["Matthews, A. D. (Azel Dennis)",
+          "Matthews family",
+          "Matthews, Gardiner D.",
+          "Matthews, James",
+          "Matthews family",
+          "Matthews, A. D. (Azel Dennis)",
+          "Matthews, Gardiner D.",
+          "Matthews, James"],
         "unitdate_normal_ssm":["1840/1910"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Matthews family",
@@ -93,8 +101,8 @@
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, 1840-1910"],
         "language_ssm":["English"],
-        "_version_":1799311477776056320,
-        "timestamp":"2024-05-17T14:45:43.57Z"},
+        "_version_":1801961650379554816,
+        "timestamp":"2024-06-15T20:49:05.116Z"},
       {
         "id":"arms_1977_428_matthewsaspace_26161b296912f8a73c7dc0c0c54742d4",
         "ead_ssi":"arms_1977_428_matthews",
@@ -113,8 +121,8 @@
         "unitdate_start_ssm":["1894"],
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["Inclusive, 1894, 1905, 1909"],
-        "_version_":1799311477836873728,
-        "timestamp":"2024-05-17T14:45:43.628Z"},
+        "_version_":1801961650431983616,
+        "timestamp":"2024-06-15T20:49:05.166Z"},
       {
         "id":"arms_1977_428_matthewsaspace_ca9f9985f6a7cacdf845cef506ea3a3f",
         "ead_ssi":"arms_1977_428_matthews",
@@ -133,8 +141,8 @@
         "unitdate_start_ssm":["1840"],
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, 1840-1910"],
-        "_version_":1799311477811707904,
-        "timestamp":"2024-05-17T14:45:43.604Z"}]
+        "_version_":1801961650405769216,
+        "timestamp":"2024-06-15T20:49:05.14Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -142,7 +150,11 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Matthews family",1,
+        "Matthews, A. D. (Azel Dennis)",1,
+        "Matthews, Gardiner D.",1,
+        "Matthews, James",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",3],

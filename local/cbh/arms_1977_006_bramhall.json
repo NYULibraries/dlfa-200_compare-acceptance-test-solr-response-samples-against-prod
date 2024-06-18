@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Frank J. Bramhall Civil War collection"],
         "unitid_ssm":["1977.006"],
         "abstract_ssm":["This collection contains materials relating to Brooklyn's military and public contributions to the Union cause during the American Civil War that were compiled in preparation for publication of a work documenting these efforts."],
+        "creator_ssm":["Bramhall, Frank J.",
+          "Bramhall, Frank J."],
         "unitdate_normal_ssm":["1860/1867"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn and Long Island Fair in Aid of the United States Sanitary Commission. (1864)",
@@ -94,8 +96,8 @@
         "unitdate_end_ssm":["1867"],
         "unitdate_ssm":["Inclusive, 1860-1867"],
         "language_ssm":["English"],
-        "_version_":1799256217701318656,
-        "timestamp":"2024-05-17T00:07:23.456Z"}]
+        "_version_":1801960545180450816,
+        "timestamp":"2024-06-15T20:31:31.116Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -103,7 +105,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bramhall, Frank J.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

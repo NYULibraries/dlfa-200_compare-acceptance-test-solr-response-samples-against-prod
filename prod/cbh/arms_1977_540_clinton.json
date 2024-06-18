@@ -47,6 +47,8 @@
         "unittitle_ssm":["James Clinton brigade return"],
         "unitid_ssm":["1977.540"],
         "abstract_ssm":["Return of the brigade commanded by Brigadier General James Clinton at White Plains, N.Y. during the Revolutionary War. The return is dated July 18, 1778."],
+        "creator_ssm":["Clinton, James",
+          "Clinton, James"],
         "unitdate_normal_ssm":["1778/1778"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Military records",
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1778"],
         "unitdate_ssm":["1778"],
         "language_ssm":["English"],
-        "_version_":1784570388247740416,
-        "timestamp":"2023-12-06T21:42:25.091Z"}]
+        "_version_":1800721247639699456,
+        "timestamp":"2024-06-02T04:13:24.881Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Clinton, James",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

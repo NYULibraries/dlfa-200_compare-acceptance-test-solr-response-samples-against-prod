@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Mary Agnes Brady papers"],
         "unitid_ssm":["MC.186"],
         "abstract_ssm":["This collection comprises the personal papers of Mary Agnes Brady, graduate student in the School of Education, Health, Nursing, and the Arts Professions (now the Steinhardt School of Culture, Education and Human Development).  This collections contains class notes, papers, and assignments relating to theater history, theory, and performance."],
+        "creator_ssm":["Brady, Mary Agnes",
+          "Brady, Mary Agnes"],
         "unitdate_normal_ssm":["1939/1939"],
         "corpname_ssm":["New York University Archives",
           "New York University. School of Education, Health, Nursing, and Arts Professions"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1939"],
         "unitdate_ssm":["1939"],
         "language_ssm":["English"],
-        "_version_":1799253031077806080,
-        "timestamp":"2024-05-16T23:16:44.455Z"},
+        "_version_":1801948868064051200,
+        "timestamp":"2024-06-15T17:25:54.95Z"},
       {
         "id":"mc_186aspace_ref17",
         "ead_ssi":"mc_186",
@@ -84,8 +86,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I"],
         "language_ssm":["English"],
-        "_version_":1799253031092486144,
-        "timestamp":"2024-05-16T23:16:44.469Z"},
+        "_version_":1801948868079779840,
+        "timestamp":"2024-06-15T17:25:54.965Z"},
       {
         "id":"mc_186aspace_ref5",
         "ead_ssi":"mc_186",
@@ -101,13 +103,12 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 2, Folder: 1"],
         "heading_ssm":["Class Notes"],
         "unitdate_ssm":["1939"],
         "language_ssm":["English"],
-        "_version_":1799253031131283456,
-        "timestamp":"2024-05-16T23:16:44.506Z"},
+        "_version_":1801948868113334272,
+        "timestamp":"2024-06-15T17:25:54.997Z"},
       {
         "id":"mc_186aspace_ref6",
         "ead_ssi":"mc_186",
@@ -123,13 +124,12 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 2, Folder: 2"],
         "heading_ssm":["Term Paper"],
         "unitdate_ssm":["1939"],
         "language_ssm":["English"],
-        "_version_":1799253031147012096,
-        "timestamp":"2024-05-16T23:16:44.521Z"},
+        "_version_":1801948868136402944,
+        "timestamp":"2024-06-15T17:25:55.019Z"},
       {
         "id":"mc_186aspace_ref7",
         "ead_ssi":"mc_186",
@@ -145,13 +145,12 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 2, Folder: 3"],
         "heading_ssm":["Play Production"],
         "unitdate_ssm":["1939"],
         "language_ssm":["English"],
-        "_version_":1799253031165886464,
-        "timestamp":"2024-05-16T23:16:44.539Z"},
+        "_version_":1801948868153180160,
+        "timestamp":"2024-06-15T17:25:55.035Z"},
       {
         "id":"mc_186aspace_ref8",
         "ead_ssi":"mc_186",
@@ -171,8 +170,8 @@
         "heading_ssm":["Costumes Scrapbook"],
         "unitdate_ssm":["1939"],
         "language_ssm":["English"],
-        "_version_":1799253031111360512,
-        "timestamp":"2024-05-16T23:16:44.487Z"}]
+        "_version_":1801948868094459904,
+        "timestamp":"2024-06-15T17:25:54.979Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -180,7 +179,8 @@
       "repository_sim":[
         "archives",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brady, Mary Agnes",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",5],

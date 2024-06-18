@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Cora Weiss Newspapers and Research Materials on the Vietnam War"],
         "unitid_ssm":["TAM.660"],
         "abstract_ssm":["This collection consists of an assortment of newspapers and research materials compiled by Cora Weiss during her involvement in the anti-Vietnam War movement. Cora Weiss is an American political activist who was a leader in the anti-Vietnam War movement and organized several anti-war demonstrations, including the November 15, 1969 in Washington, DC protest, which is considered to be one of the largest anti-war protests held in the United States. This collection primarily consists of issues of English-language newspapers critical of United States involvement in Vietnam, including South Viet Nam Struggle,Vietnam Courier, Viet Nam: News & Report, News From Vietnam, and Vietnam Report. It also contains several documents related to the legality of U.S. intervention in Vietnam and a report on acts of violence committed by Vietnamese right-wing groups in the United States."],
+        "creator_ssm":["Weiss, Cora",
+          "Weiss, Cora"],
         "unitdate_normal_ssm":["1971/1984"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "geogname_ssm":["Vietnam."],
@@ -63,8 +65,8 @@
         "unitdate_start_ssm":["1971"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1971-1984"],
-        "_version_":1775218326059876352,
-        "timestamp":"2023-08-25T16:15:23.577Z"},
+        "_version_":1801280892385099776,
+        "timestamp":"2024-06-08T08:28:43.701Z"},
       {
         "id":"tam_660aspace_ref10",
         "ead_ssi":"tam_660",
@@ -83,8 +85,8 @@
         "unitdate_start_ssm":["1984"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, July 27,1984"],
-        "_version_":1775218326303145984,
-        "timestamp":"2023-08-25T16:15:23.808Z"},
+        "_version_":1801280892478423040,
+        "timestamp":"2024-06-08T08:28:43.79Z"},
       {
         "id":"tam_660aspace_ref11",
         "ead_ssi":"tam_660",
@@ -103,8 +105,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1970-1973"],
-        "_version_":1775218326180462592,
-        "timestamp":"2023-08-25T16:15:23.692Z"},
+        "_version_":1801280892437528576,
+        "timestamp":"2024-06-08T08:28:43.751Z"},
       {
         "id":"tam_660aspace_ref6",
         "ead_ssi":"tam_660",
@@ -125,8 +127,8 @@
         "unitdate_start_ssm":["1971"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, June, 1971-1974"],
-        "_version_":1775218326101819392,
-        "timestamp":"2023-08-25T16:15:23.617Z"},
+        "_version_":1801280892400828416,
+        "timestamp":"2024-06-08T08:28:43.716Z"},
       {
         "id":"tam_660aspace_ref7",
         "ead_ssi":"tam_660",
@@ -145,8 +147,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, 1970-1974"],
-        "_version_":1775218326141665280,
-        "timestamp":"2023-08-25T16:15:23.655Z"},
+        "_version_":1801280892421799936,
+        "timestamp":"2024-06-08T08:28:43.736Z"},
       {
         "id":"tam_660aspace_ref8",
         "ead_ssi":"tam_660",
@@ -165,8 +167,8 @@
         "unitdate_start_ssm":["1972"],
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1972-1973"],
-        "_version_":1775218326221357056,
-        "timestamp":"2023-08-25T16:15:23.731Z"},
+        "_version_":1801280892453257216,
+        "timestamp":"2024-06-08T08:28:43.766Z"},
       {
         "id":"tam_660aspace_ref9",
         "ead_ssi":"tam_660",
@@ -185,8 +187,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1970"],
         "unitdate_ssm":["Inclusive, 1970, undated"],
-        "_version_":1775218326265397248,
-        "timestamp":"2023-08-25T16:15:23.773Z"}]
+        "_version_":1801280892464791552,
+        "timestamp":"2024-06-08T08:28:43.777Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -194,7 +196,8 @@
       "repository_sim":[
         "tamwag",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Weiss, Cora",1],
       "date_range_sim":[
         "1901-2000",7],
       "subject_sim":[

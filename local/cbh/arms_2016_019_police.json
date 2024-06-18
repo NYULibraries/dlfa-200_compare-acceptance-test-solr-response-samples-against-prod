@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn police ledgers"],
         "unitid_ssm":["2016.019"],
         "abstract_ssm":["The collection comprises two disbound late-nineteenth-century Brooklyn police precinct ledgers containing handwritten daily entries recording routine activities such as roll calls as well as occasional reports of criminal incidents and accidents."],
+        "creator_ssm":["Terry, Charles H.",
+          "Terry, Charles H."],
         "unitdate_normal_ssm":["1868/1898"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Logs (records)"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1898"],
         "unitdate_ssm":["Inclusive, 1868-1898"],
         "language_ssm":["English"],
-        "_version_":1799309975934205952,
-        "timestamp":"2024-05-17T14:21:51.302Z"}]
+        "_version_":1801967035423391744,
+        "timestamp":"2024-06-15T22:14:40.694Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Terry, Charles H.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

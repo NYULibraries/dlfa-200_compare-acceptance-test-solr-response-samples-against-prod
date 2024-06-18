@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Camp Midvale/Nature Friends of America: FOIA Files"],
         "unitid_ssm":["TAM.089"],
+        "creator_ssm":["United States. Federal Bureau of Investigation",
+          "United States. Federal Bureau of Investigation"],
         "unitdate_normal_ssm":["1920/1969"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United States. Federal Bureau of Investigation",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1969"],
         "unitdate_ssm":["Inclusive, circa 1920-1960s"],
         "language_ssm":["English"],
-        "_version_":1799777182467227648,
-        "timestamp":"2024-05-22T18:07:54.173Z"},
+        "_version_":1802167530649812992,
+        "timestamp":"2024-06-18T03:21:27.842Z"},
       {
         "id":"tam_089aspace_8bc81937388af260ade84d5b9ca91505",
         "ead_ssi":"tam_089",
@@ -86,8 +88,8 @@
           "Box: 3",
           "Box: 4"],
         "heading_ssm":["FOIA Files"],
-        "_version_":1799777182484004864,
-        "timestamp":"2024-05-22T18:07:54.189Z"}]
+        "_version_":1802167530659250176,
+        "timestamp":"2024-06-18T03:21:27.851Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +97,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. Federal Bureau of Investigation",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Queens County Treasurer's Office land auction bills of sale"],
         "unitid_ssm":["1977.569"],
         "abstract_ssm":["Bills of sale for plots of land in the town of Jamaica, Queens County sold by the Queens County Treasurer's Office at public auction in 1875."],
+        "creator_ssm":["Bergen, George",
+          "Queens County (N.Y.). Treasurer's Office",
+          "Queens County (N.Y.). Treasurer's Office",
+          "Bergen, George"],
         "unitdate_normal_ssm":["1875/1875"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Queens County (N.Y.). Treasurer's Office"],
@@ -69,8 +73,8 @@
         "unitdate_end_ssm":["1875"],
         "unitdate_ssm":["1875"],
         "language_ssm":["English"],
-        "_version_":1799256190981505024,
-        "timestamp":"2024-05-17T00:06:57.974Z"}]
+        "_version_":1801961965336133632,
+        "timestamp":"2024-06-15T20:54:05.482Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +82,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bergen, George",1,
+        "Queens County (N.Y.). Treasurer's Office",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

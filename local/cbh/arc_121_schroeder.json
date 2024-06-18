@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William Schroeder, Sr. scrapbook collection"],
         "unitid_ssm":["ARC.121"],
         "abstract_ssm":["This collection consists of three scrapbooks compiled by Dr. William Schroeder, Sr., circa 1900 to 1904. The earliest scrapbook, titled \"Mayors of Brooklyn,\" circa 1900, contains portraits, drawings, biographical information, news clippings, and photographs of mayors of the city of Brooklyn, with information on two Williamsburgh mayors also included. The second, titled \"Parks of Brooklyn, N.Y.,\" 1902, contains maps and prints of Brooklyn parks, particulary Prospect Park, by a number of photographers and printing companies. Lastly, \"U.S. Navy Yard Brooklyn,\" dated 1904, contains news clippings showing different areas of the Navy Yard and the launch of the battleship."],
+        "creator_ssm":["Schroeder, William",
+          "Schroeder, William"],
         "unitdate_normal_ssm":["1900/1904"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York Naval Shipyard",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1904"],
         "unitdate_ssm":["Inclusive, 1900-1904"],
         "language_ssm":["English"],
-        "_version_":1799311682792587264,
-        "timestamp":"2024-05-17T14:48:59.089Z"}]
+        "_version_":1801959090609455104,
+        "timestamp":"2024-06-15T20:08:23.929Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Schroeder, William",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

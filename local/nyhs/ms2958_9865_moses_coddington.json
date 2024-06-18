@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":17,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["James Smith and Job Wright releases to Moses Coddington"],
         "unitid_ssm":["AHMC - Coddington, Moses"],
         "abstract_ssm":["Two releases to Moses Coddington in connection with a real estate transaction for property on Duane Street in Manhattan. Both releases relate to claims against John Wilson and Clarinda Purdy of New York. One release by attorney James Smith and the other by milkman Job Wright. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: James Smith and Job Wright releases to Moses Coddington"],
+        "creator_ssm":["Smith, James, active 1827 (attorney)",
+          "Smith, James, active 1827 (attorney)"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Smith, James, active 1827 (attorney)"],
         "collection_ssm":["James Smith and Job Wright releases to Moses Coddington"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["James Smith and Job Wright releases to Moses Coddington"],
         "unitdate_ssm":["Inclusive, 1827"],
-        "_version_":1799324369792532480,
-        "timestamp":"2024-05-17T18:10:38.355Z"}]
+        "_version_":1802083871997558784,
+        "timestamp":"2024-06-17T05:11:44.734Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Smith, James, active 1827 (attorney)",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

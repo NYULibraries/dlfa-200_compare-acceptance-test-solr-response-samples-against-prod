@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>Aerial Views of Brooklyn and Long Island</em> photograph album"],
         "unitid_ssm":["V1986.004"],
         "abstract_ssm":["The album contains 68 black-and-white prints of aerial views from the Bay Ridge neighborhood of Brooklyn to Patchogue, N.Y., including several neighborhoods in Brooklyn as well as Queens, Nassau County, and Suffolk County on Long Island."],
+        "creator_ssm":["Airmap Corporation of America",
+          "Airmap Corporation of America"],
         "unitdate_normal_ssm":["1918/1938"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Airmap Corporation of America"],
@@ -82,8 +84,8 @@
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, circa 1928"],
         "language_ssm":["English"],
-        "_version_":1799311719028228096,
-        "timestamp":"2024-05-17T14:49:33.646Z"}]
+        "_version_":1802044995798040576,
+        "timestamp":"2024-06-16T18:53:49.5Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Airmap Corporation of America",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

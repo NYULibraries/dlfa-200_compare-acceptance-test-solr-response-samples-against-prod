@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Lewis Mumford letter to Staughton Lynd, with reprints of Mumford articles"],
         "unitid_ssm":["AHMC - Mumford, Lewis-Lynd"],
         "abstract_ssm":["Autograph letter signed by Mumford Lewis, written to Staughton Lynd. 2 page letter, dated Amenia, New York, 6 April 1958. Mumford responds to a letter from Lynd, noting that he is writing a new book \"The Successor to the Culture of Cities.\" Consequently, Mumford declines to engage in a discussion proposed by Lynd, but refers him to his thoughts as published in \"City Development\" and \"From the Ground Up,\" which deals specifically with New York. Mumford offers a two sentence critique of city planners and sociologists, saying they are \"trained to deal with observed actualities (past) not with potentialities & possibilities (future) which may nullify, counteract, or transcend these actualities. Since their 'facts' deal with the past their proposals usually do no more than to confirm and continues the past, giving support, by clarification and technical improvement, to an obsolete pattern.\" In a postscript, Mumford suggests that Lynd's neighbor, Clarence Stein, the \"dean of American planners\" might help with Lynd's inquiry. In the letter, Mumford says that he will separately send three papers to Lynd; the folder as received by New-York Historical includes two reprints of articles by Mumford, but it is unknown if these reprints were two of the three items sent. The reprints are of \"Planning for the phases of life\" (1949) and \"For older people: not segregation but integration\" (1956). \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Lewis Mumford letter to Staughton Lynd, with reprints of Mumford articles."],
+        "creator_ssm":["Mumford, Lewis, 1895-1990",
+          "Mumford, Lewis, 1895-1990"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Mumford, Lewis, 1895-1990"],
         "collection_ssm":["Lewis Mumford letter to Staughton Lynd, with reprints of Mumford articles"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Lewis Mumford letter to Staughton Lynd, with reprints of Mumford articles"],
         "unitdate_ssm":["Inclusive, 1949, 1956, 1958"],
-        "_version_":1799324438309634048,
-        "timestamp":"2024-05-17T18:11:43.698Z"}]
+        "_version_":1802083856768040960,
+        "timestamp":"2024-06-17T05:11:30.21Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Mumford, Lewis, 1895-1990",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

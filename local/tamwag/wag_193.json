@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Federation of Shorthand Reporters Records"],
         "unitid_ssm":["WAG.193"],
         "abstract_ssm":["The Federation of Shorthand Reporters consists of members who do stenographic reporting for law firms in New York City. The Federation of Shorthand Reporters Records date from 1968 to 1986 and contain contracts, correspondence, clippings, and legal filings that document the union's strikes, resolved grievances, arbitration, association with District Council 1707, and general membership."],
+        "creator_ssm":["Federation of Shorthand Reporters",
+          "Federation of Shorthand Reporters"],
         "unitdate_normal_ssm":["1968/1986"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Federation of Shorthand Reporters"],
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1968-1986"],
-        "_version_":1799802454165946368,
-        "timestamp":"2024-05-23T00:49:35.143Z"},
+        "_version_":1802195470357889024,
+        "timestamp":"2024-06-18T10:45:33.224Z"},
       {
         "id":"wag_193aspace_28215344d5a80c4b93fd29653526da5f",
         "ead_ssi":"wag_193",
@@ -86,8 +88,8 @@
         "unitdate_start_ssm":["1968"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1968-1986"],
-        "_version_":1799802454187966464,
-        "timestamp":"2024-05-23T00:49:35.163Z"}]
+        "_version_":1802195470368374784,
+        "timestamp":"2024-06-18T10:45:33.234Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -95,7 +97,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Federation of Shorthand Reporters",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

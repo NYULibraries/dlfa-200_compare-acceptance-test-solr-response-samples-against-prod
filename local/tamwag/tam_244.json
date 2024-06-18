@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Revolutionary Workers Headquarters Records"],
         "unitid_ssm":["TAM.244"],
+        "creator_ssm":["Revolutionary Workers Headquarters of the RCP",
+          "Revolutionary Workers Headquarters of the RCP"],
         "unitdate_normal_ssm":["1976/1980"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Revolutionary Workers Headquarters of the RCP",
@@ -75,8 +77,8 @@
         "unitdate_start_ssm":["1976"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1976-1980"],
-        "_version_":1799345015681449984,
-        "timestamp":"2024-05-17T23:38:47.809Z"}]
+        "_version_":1802171243027234816,
+        "timestamp":"2024-06-18T04:20:28.241Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Revolutionary Workers Headquarters of the RCP",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Decker family papers"],
         "unitid_ssm":["1977.246"],
         "abstract_ssm":["The Decker family papers span the period 1815 to 1932 (bulk dates from 1815 to 1895) and consists of correspondence spanning the years 1815 to 1878; two scrapbooks (dated 1870 and 1895); an autograph book compiled by Josie Ray Decker, 1884 to 1893; certificates awarded to Dr. Ray; a cookbook published by the Huntington Methodist Episcopal Church, 1899; Dr. Ray's handwritten medical notebook (containing entries regarding the treatment of various diseases and medical conditions; instructions on the preparation of drugs and remedies and dosage are included); genealogical notes; and two family genealogies (Wood family record, printed, with marginal notes; handwritten Ray family record)."],
+        "creator_ssm":["Ray, Joseph Hardy",
+          "Decker, Josie Ray",
+          "Decker, Louie Ray",
+          "Decker family",
+          "Wood, Joseph",
+          "Decker family",
+          "Ray, Joseph Hardy",
+          "Decker, Josie Ray",
+          "Decker, Louie Ray",
+          "Wood, Joseph"],
         "unitdate_normal_ssm":["1815/1932",
           "1815/1895"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -94,8 +104,8 @@
           "1895"],
         "unitdate_ssm":["Inclusive, 1815-1932 ; 1815-1895"],
         "language_ssm":["English"],
-        "_version_":1799312277166358528,
-        "timestamp":"2024-05-17T14:58:25.928Z"}]
+        "_version_":1801961013244854272,
+        "timestamp":"2024-06-15T20:38:57.496Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -103,7 +113,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Decker family",1,
+        "Decker, Josie Ray",1,
+        "Decker, Louie Ray",1,
+        "Ray, Joseph Hardy",1,
+        "Wood, Joseph",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

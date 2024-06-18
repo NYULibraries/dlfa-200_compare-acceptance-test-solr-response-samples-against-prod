@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Emans family papers"],
         "unitid_ssm":["ARC.239"],
         "abstract_ssm":["This collection includes various papers relating to the Emans family of Gravesend throughout the period 1748 to 1881."],
+        "creator_ssm":["Emans family",
+          "Emmans family",
+          "Emmons family",
+          "Emmens family",
+          "Emans family",
+          "Emmans family",
+          "Emmons family",
+          "Emmens family"],
         "unitdate_normal_ssm":["1748/1881"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Emans family",
@@ -83,8 +91,8 @@
         "unitdate_end_ssm":["1881"],
         "unitdate_ssm":["Inclusive, 1748-1881"],
         "language_ssm":["English"],
-        "_version_":1799256200938782720,
-        "timestamp":"2024-05-17T00:07:07.47Z"}]
+        "_version_":1801959533635960832,
+        "timestamp":"2024-06-15T20:15:26.432Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -92,7 +100,11 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Emans family",1,
+        "Emmans family",1,
+        "Emmens family",1,
+        "Emmons family",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

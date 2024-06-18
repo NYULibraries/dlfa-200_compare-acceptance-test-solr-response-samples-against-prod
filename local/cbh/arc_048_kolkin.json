@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Alfred and Lucille Kolkin papers"],
         "unitid_ssm":["ARC.048"],
         "abstract_ssm":["Alfred \"Al\" Kolkin and Lucille \"Lucy\" Gewirtz both grew up in the Brooklyn Jewish community of Bensonhust.  They were married in 1943.  Al Kolkin worked as a Navy radio technician during World War II, while Lucy worked as a ship fitter at the Brooklyn Navy Yard.  The Alfred and Lucille Kolkin papers span 1942 to 1965 and contain correspondence between Al and Lucy Kolkin during Al's Navy training and active service in the Pacific in World War II.  The collection also includes handwritten training notes by Lucy Kolkin and official Navy publications from her employment at the Brooklyn Navy Yard as a ship fitter, along with employment records, identification badges, union membership materials, and miscellaneous personal papers."],
+        "creator_ssm":["Kolkin, Alfred",
+          "Kolkin, Lucille Gewirtz",
+          "Kolkin, Alfred",
+          "Kolkin, Lucille Gewirtz"],
         "unitdate_normal_ssm":["1942/1965",
           "1944/1946"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -111,8 +115,8 @@
           "1946"],
         "unitdate_ssm":["Inclusive, 1942-1965 ; 1944-1946"],
         "language_ssm":["English"],
-        "_version_":1799256189201022976,
-        "timestamp":"2024-05-17T00:06:56.276Z"}]
+        "_version_":1801958795801264128,
+        "timestamp":"2024-06-15T20:03:42.777Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -120,7 +124,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kolkin, Alfred",1,
+        "Kolkin, Lucille Gewirtz",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

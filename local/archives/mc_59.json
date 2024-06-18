@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Edward Wegmann Notebook"],
         "unitid_ssm":["MC.59"],
         "abstract_ssm":["Edward Wegmann was a special lecturer in the School of Engineering of the University of the City of New York (now New York University). This collection consists of a lecture he delivered to engineering students in 1893."],
+        "creator_ssm":["Wegmann, Edward, 1850-1935",
+          "Wegmann, Edward, 1850-1935"],
         "unitdate_normal_ssm":["1893/1893"],
         "corpname_ssm":["New York University Archives",
           "New York University -- Faculty",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1893"],
         "unitdate_end_ssm":["1893"],
         "unitdate_ssm":["1893"],
-        "_version_":1799248521890627584,
-        "timestamp":"2024-05-16T22:05:04.158Z"},
+        "_version_":1801950527929450496,
+        "timestamp":"2024-06-15T17:52:17.921Z"},
       {
         "id":"mc_59aspace_ref10",
         "ead_ssi":"mc_59",
@@ -83,15 +85,14 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 009, Folder: 8",
-          "Folder: 8"],
+        "location_ssm":["Box: Shared University Archives 009, Folder: 8"],
         "heading_ssm":["Edward J. Wegmann, Jr. Notebook"],
         "unitdate_start_ssm":["1893"],
         "unitdate_end_ssm":["1893"],
         "unitdate_ssm":["Inclusive, 1893"],
         "language_ssm":["English"],
-        "_version_":1799248521910550528,
-        "timestamp":"2024-05-16T22:05:04.178Z"}]
+        "_version_":1801950527945179136,
+        "timestamp":"2024-06-15T17:52:17.936Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -99,7 +100,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wegmann, Edward, 1850-1935",1],
       "date_range_sim":[
         "1801-1900",2],
       "subject_sim":[

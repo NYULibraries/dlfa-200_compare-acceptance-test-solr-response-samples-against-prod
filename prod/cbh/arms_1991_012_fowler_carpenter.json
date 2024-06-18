@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":17,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["James and Rachel Fowler and Silas Carpenter correspondence"],
         "unitid_ssm":["1991.012"],
         "abstract_ssm":["This collection includes 9 letters written by James and Rachel Fowler of Kings County, N.Y. to Silas Carpenter, dated 1789-1806. The letters primarily concern personal and family matters."],
+        "creator_ssm":["Fowler, James",
+          "Carpenter, Silas",
+          "Fowler, Rachel",
+          "Fowler, James",
+          "Carpenter, Silas",
+          "Fowler, Rachel"],
         "unitdate_normal_ssm":["1789/1806"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -67,8 +73,8 @@
         "unitdate_end_ssm":["1806"],
         "unitdate_ssm":["Inclusive, 1789-1806"],
         "language_ssm":["English"],
-        "_version_":1775225538432991232,
-        "timestamp":"2023-08-25T18:10:01.832Z"}]
+        "_version_":1800784790880780288,
+        "timestamp":"2024-06-02T21:03:24.438Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +82,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Carpenter, Silas",1,
+        "Fowler, James",1,
+        "Fowler, Rachel",1],
       "date_range_sim":[
         "1701-1800",1,
         "1801-1900",1],

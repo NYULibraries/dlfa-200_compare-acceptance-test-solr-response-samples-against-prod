@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":15,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Abraham &amp; Straus collection"],
         "unitid_ssm":["ARC.223"],
         "abstract_ssm":["This collection includes various materials relating to Abraham & Straus throughout the period 1865 to 1995.  The majority of the items date from 1964 and 1965 and were compiled by Abraham & Straus employee Juli Daves in preparation for the store's centennial celebration. Abraham & Straus was a major department store founded in Brooklyn by Abraham Abraham and Joseph Wechsler in 1865. By 1965, Abraham & Straus had become the third largest department store in the United States, with several branches in and surrounding the New York City area in addition to its flagship location at Fulton and Hoyt Streets. The store became part of Macy's department stores in 1995."],
+        "creator_ssm":["Daves, Juli",
+          "Wechsler & Abraham",
+          "Wechsler & Abraham",
+          "Daves, Juli"],
         "unitdate_normal_ssm":["1865/1995",
           "1964/1965"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -92,8 +96,8 @@
           "1965"],
         "unitdate_ssm":["Inclusive, 1865-1995 ; 1964-1965"],
         "language_ssm":["English"],
-        "_version_":1799312274288017408,
-        "timestamp":"2024-05-17T14:58:23.183Z"}]
+        "_version_":1801959459271999488,
+        "timestamp":"2024-06-15T20:14:15.513Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -101,7 +105,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Daves, Juli",1,
+        "Wechsler & Abraham",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

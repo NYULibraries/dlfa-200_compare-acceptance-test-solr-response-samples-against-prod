@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["George R. Brinkerhoff deed"],
         "unitid_ssm":["1977.517"],
         "abstract_ssm":["One 1859 deed for land in Newtown, Queens County owned by George R. and Sarah Ann Brinkerhoff and sold to James Wallace."],
+        "creator_ssm":["Brinkerhoff, George R.",
+          "Wallace, James",
+          "Brinkerhoff, Sarah Ann",
+          "Brinkerhoff, George R.",
+          "Wallace, James",
+          "Brinkerhoff, Sarah Ann"],
         "unitdate_normal_ssm":["1859/1859"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "persname_ssm":["Brinkerhoff, George R.",
@@ -70,8 +76,8 @@
         "unitdate_end_ssm":["1859"],
         "unitdate_ssm":["1859"],
         "language_ssm":["English"],
-        "_version_":1799256300638437376,
-        "timestamp":"2024-05-17T00:08:42.551Z"}]
+        "_version_":1801961859877699584,
+        "timestamp":"2024-06-15T20:52:24.909Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +85,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brinkerhoff, George R.",1,
+        "Brinkerhoff, Sarah Ann",1,
+        "Wallace, James",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

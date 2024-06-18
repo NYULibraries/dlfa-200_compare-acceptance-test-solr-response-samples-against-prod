@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Center for Multicultural Education and Programs Records"],
         "unitid_ssm":["RG.12.10"],
         "abstract_ssm":["This collection contains the archived website for the Center for Multicultural Education and Programs (CMEP). CMEP provides programming and education that support studens of color and other students from marginalized and underrepresented backgrounds."],
+        "creator_ssm":["New York University. Center for Multicultural Education and Programs",
+          "New York University. Center for Multicultural Education and Programs"],
         "unitdate_normal_ssm":["2019-06-19/2019-07-30"],
         "corpname_ssm":["New York University Archives",
           "New York University. Center for Multicultural Education and Programs"],
@@ -64,8 +66,8 @@
         "material_type_ssm":["Web sites."],
         "heading_ssm":["Center for Multicultural Education and Programs Records"],
         "unitdate_ssm":["Inclusive, 2019"],
-        "_version_":1799248981014872064,
-        "timestamp":"2024-05-16T22:12:22.014Z"},
+        "_version_":1801951419538866176,
+        "timestamp":"2024-06-15T18:06:28.226Z"},
       {
         "id":"rg_12_10aspace_a83925c9a10ebf2a382eec4413cebd8a",
         "ead_ssi":"rg_12_10",
@@ -83,8 +85,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["Inclusive, 2019"],
-        "_version_":1799248981033746432,
-        "timestamp":"2024-05-16T22:12:22.032Z"}]
+        "_version_":1801951419560886272,
+        "timestamp":"2024-06-15T18:06:28.247Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +95,8 @@
         "archives",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Center for Multicultural Education and Programs",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

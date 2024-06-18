@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Frank J. Donner Papers on the House Committee on Un-American Activities"],
         "unitid_ssm":["TAM.456"],
+        "creator_ssm":["Donner, Frank J.",
+          "Donner, Frank J."],
         "unitdate_normal_ssm":["1958/1966"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United States. Congress. House. Committee on Un-American Activities"],
@@ -63,8 +65,8 @@
         "unitdate_end_ssm":["1966"],
         "unitdate_ssm":["Inclusive, circa 1958-1966"],
         "language_ssm":["English"],
-        "_version_":1799791120214917120,
-        "timestamp":"2024-05-22T21:49:26.244Z"}]
+        "_version_":1802183125948694528,
+        "timestamp":"2024-06-18T07:29:20.678Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -72,7 +74,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Donner, Frank J.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

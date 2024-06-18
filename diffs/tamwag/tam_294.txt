@@ -1,0 +1,51 @@
+<   "response":{"numFound":0,"start":0,"docs":[]
+>   "response":{"numFound":1,"start":0,"docs":[
+>       {
+>         "author_ssm":["Rachel Schimke, 2014"],
+>         "unittitle_ssm":["Annie Chamberlin Papers"],
+>         "unitid_ssm":["TAM.294"],
+>         "abstract_ssm":["Annie Chamberlin is a women's rights activist who lives in New York City. The collection primarily documents her interest in and activism on behalf of women in the workplace, particularly office workers. The majority of the collection is comprised of subject files containing interview transcripts, reports, newsletters, notes, and other materials produced by Chamberlin or various women's rights groups, primarily dating from the 1970s. These materials pertain to affirmative action and discrimination in the workplace, especially as applied to women's compensation and working conditions."],
+>         "creator_ssm":["Chamberlin, Annie",
+>           "Chamberlin, Annie"],
+>         "unitdate_normal_ssm":["1968/1980"],
+>         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
+>           "Barnard College"],
+>         "persname_ssm":["Chamberlin, Annie",
+>           "Chamberlin, Annie"],
+>         "subject_ssm":["Women's rights -- New York (State) -- New York.",
+>           "Women -- Employment -- United States.",
+>           "Universities and Colleges -- Employees -- Labor unions."],
+>         "collection_ssm":["Annie Chamberlin Papers"],
+>         "id":"tam_294",
+>         "ead_ssi":"tam_294",
+>         "repository_ssi":"tamwag",
+>         "repository_ssm":["tamwag"],
+>         "format_ssm":["Archival Collection"],
+>         "heading_ssm":["Annie Chamberlin Papers"],
+>         "unitdate_start_ssm":["1968"],
+>         "unitdate_end_ssm":["1980"],
+>         "unitdate_ssm":["Inclusive, 1968-1980"],
+<       "repository_sim":[],
+>       "repository_sim":[
+>         "tamwag",1],
+<       "creator_sim":[],
+<       "date_range_sim":[],
+<       "subject_sim":[],
+<       "name_sim":[],
+>       "creator_sim":[
+>         "Chamberlin, Annie",1],
+>       "date_range_sim":[
+>         "1901-2000",1],
+>       "subject_sim":[
+>         "Universities and Colleges -- Employees -- Labor unions.",1,
+>         "Women -- Employment -- United States.",1,
+>         "Women's rights -- New York (State) -- New York.",1],
+>       "name_sim":[
+>         "Barnard College",1,
+>         "Chamberlin, Annie",1],
+<       "collection_sim":[],
+<       "format_sim":[]},
+>       "collection_sim":[
+>         "Annie Chamberlin Papers",1],
+>       "format_sim":[
+>         "Archival Collection",1]},

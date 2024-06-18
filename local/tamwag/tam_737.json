@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Adolf Gundersen Oral History Interview of Murray Bookchin"],
         "unitid_ssm":["TAM.737"],
         "abstract_ssm":["The Adolf Gundersen Oral History Interview of Murray Bookchin consists of a 10-audio cassette interview with political theorist Murray Bookchin by political scientist Adolf G. Gundersen. The interview was conducted over a period of five days from August 22-26 1995. In the interview Bookchin discusses events of his life, his books and the development of his political theory. Murray Bookchin (1921-2006) was a social theorist and political philosopher who is most well-known for his theories on ecology and his role in founding the social ecology movement."],
+        "creator_ssm":["Gundersen, Adolf G., 1958-",
+          "Bookchin, Murray, 1921-2006",
+          "Gundersen, Adolf G., 1958-",
+          "Bookchin, Murray, 1921-2006"],
         "unitdate_normal_ssm":["1995/1995"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Gundersen, Adolf G., 1958-",
@@ -71,8 +75,8 @@
         "unitdate_start_ssm":["1995"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["1995 August 22-25"],
-        "_version_":1799334141069623296,
-        "timestamp":"2024-05-17T20:45:56.971Z"},
+        "_version_":1802184428562153472,
+        "timestamp":"2024-06-18T07:50:02.947Z"},
       {
         "id":"tam_737aspace_445eccaee1313447eefe3877fd3e0abb",
         "ead_ssi":"tam_737",
@@ -86,14 +90,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 2, Cassette: 1-10",
-          "Cassette: 1-10"],
+        "location_ssm":["Box: 2, Cassette: 1-10"],
         "heading_ssm":["Murray Bookchin Oral History: Audio Tapes"],
         "unitdate_start_ssm":["1995"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["1995 August 22-26"],
-        "_version_":1799334141122052096,
-        "timestamp":"2024-05-17T20:45:57.021Z"},
+        "_version_":1802184428570542080,
+        "timestamp":"2024-06-18T07:50:02.955Z"},
       {
         "id":"tam_737aspace_8a0aaf79373677e8a154382017a84833",
         "ead_ssi":"tam_737",
@@ -112,8 +115,8 @@
         "unitdate_start_ssm":["1995"],
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["1995 August 22-25"],
-        "_version_":1799334141138829312,
-        "timestamp":"2024-05-17T20:45:57.037Z"}]
+        "_version_":1802184428577882112,
+        "timestamp":"2024-06-18T07:50:02.962Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -121,7 +124,9 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bookchin, Murray, 1921-2006",1,
+        "Gundersen, Adolf G., 1958-",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

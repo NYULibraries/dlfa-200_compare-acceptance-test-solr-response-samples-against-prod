@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John Harlan Papers"],
         "unitid_ssm":["MC.220"],
         "abstract_ssm":["John B. Harlan was a technology specialist who established SAA's Archives & Archivists (A&A) listserv in 1989 with his mother, Donna Harlan, a librarian. In 1979 he attended the White House Conference on Library and Information Services. This collection includes a photograph and invitations from the conference, commemorative Library of Congress stamps, and inscribed publications related to libraries and archives."],
+        "creator_ssm":["Harlan, John B.",
+          "Harlan, John B."],
         "unitdate_normal_ssm":["1979/2001",
           "1979/1992"],
         "corpname_ssm":["New York University Archives",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["2001",
           "1992"],
         "unitdate_ssm":["Inclusive, 1979-2001 ; 1979-1992"],
-        "_version_":1799251491497705472,
-        "timestamp":"2024-05-16T22:52:16.197Z"},
+        "_version_":1801949202319671296,
+        "timestamp":"2024-06-15T17:31:13.721Z"},
       {
         "id":"mc_220aspace_053372b00c9637f9868852e6f683826b",
         "ead_ssi":"mc_220",
@@ -82,14 +84,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["White House Conference on Library and Information Services"],
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["1979"],
-        "_version_":1799251491559571456,
-        "timestamp":"2024-05-16T22:52:16.256Z"},
+        "_version_":1801949202377342976,
+        "timestamp":"2024-06-15T17:31:13.775Z"},
       {
         "id":"mc_220aspace_3966fb04cb7cf4204541b371a2b2789f",
         "ead_ssi":"mc_220",
@@ -103,14 +104,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Library of Congress commemorative stamps"],
         "unitdate_start_ssm":["1982"],
         "unitdate_end_ssm":["1984"],
         "unitdate_ssm":["Inclusive, 1982-1984"],
-        "_version_":1799251491541745664,
-        "timestamp":"2024-05-16T22:52:16.239Z"},
+        "_version_":1801949202355322880,
+        "timestamp":"2024-06-15T17:31:13.755Z"},
       {
         "id":"mc_220aspace_6e8759ff5ff3ea5535b0af688d8a8fae",
         "ead_ssi":"mc_220",
@@ -124,14 +124,13 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Item: 1-5",
-          "Item: 1-5"],
+        "location_ssm":["Box: 1, Item: 1-5"],
         "heading_ssm":["Publications"],
         "unitdate_start_ssm":["1987"],
         "unitdate_end_ssm":["2005"],
         "unitdate_ssm":["Inclusive, 1987-2005"],
-        "_version_":1799251491524968448,
-        "timestamp":"2024-05-16T22:52:16.223Z"}]
+        "_version_":1801949202337497088,
+        "timestamp":"2024-06-15T17:31:13.738Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -139,7 +138,8 @@
       "repository_sim":[
         "archives",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Harlan, John B.",1],
       "date_range_sim":[
         "1901-2000",4,
         "2001-2100",2],

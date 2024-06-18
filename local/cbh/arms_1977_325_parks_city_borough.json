@@ -47,6 +47,12 @@
         "unittitle_ssm":["Department of Parks, City and Borough of Brooklyn records"],
         "unitid_ssm":["1977.325"],
         "abstract_ssm":["The Department of Parks, City and Borough of Brooklyn records span the years 1856 to 1945 (bulk dates 1885 to 1910). Materials relating to Prospect Park, Eastern Parkway, Ocean Parkway, Coney Island, Forest Park, Shore Road, Bedford Avenue, Ocean Avenue, and Washington Avenue, among others, are included in the collection."],
+        "creator_ssm":["Brooklyn (New York, N.Y.). Park Commissioners",
+          "Brooklyn (New York, N.Y.). Dept. of Parks",
+          "New York (N.Y.). Dept. of Parks",
+          "Brooklyn (New York, N.Y.). Park Commissioners",
+          "Brooklyn (New York, N.Y.). Dept. of Parks",
+          "New York (N.Y.). Dept. of Parks"],
         "unitdate_normal_ssm":["1856/1945",
           "1885/1910"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -120,8 +126,8 @@
           "1910"],
         "unitdate_ssm":["Inclusive, 1856-1945 ; 1885-1910"],
         "language_ssm":["English"],
-        "_version_":1799311483518058496,
-        "timestamp":"2024-05-17T14:45:49.046Z"},
+        "_version_":1801961356449021952,
+        "timestamp":"2024-06-15T20:44:24.801Z"},
       {
         "id":"arms_1977_325_parks_city_boroughaspace_ref10_p7h",
         "ead_ssi":"arms_1977_325_parks_city_borough",
@@ -137,8 +143,8 @@
         "heading_ssm":["Series 1: Correspondence"],
         "unitdate_ssm":["circa 1860 to 1917"],
         "language_ssm":["English"],
-        "_version_":1799311483537981440,
-        "timestamp":"2024-05-17T14:45:49.065Z"},
+        "_version_":1801961356475236352,
+        "timestamp":"2024-06-15T20:44:24.826Z"},
       {
         "id":"arms_1977_325_parks_city_boroughaspace_ref11_u9q",
         "ead_ssi":"arms_1977_325_parks_city_borough",
@@ -157,8 +163,8 @@
         "unitdate_end_ssm":["1912"],
         "unitdate_ssm":["Inclusive, 1879-1912"],
         "language_ssm":["English"],
-        "_version_":1799311483557904384,
-        "timestamp":"2024-05-17T14:45:49.084Z"},
+        "_version_":1801961356522422272,
+        "timestamp":"2024-06-15T20:44:24.872Z"},
       {
         "id":"arms_1977_325_parks_city_boroughaspace_ref12_5lg",
         "ead_ssi":"arms_1977_325_parks_city_borough",
@@ -180,8 +186,8 @@
           "1910"],
         "unitdate_ssm":["Inclusive, 1856-1945 ; 1870-1910"],
         "language_ssm":["English"],
-        "_version_":1799311483577827328,
-        "timestamp":"2024-05-17T14:45:49.102Z"},
+        "_version_":1801961356546539520,
+        "timestamp":"2024-06-15T20:44:24.895Z"},
       {
         "id":"arms_1977_325_parks_city_boroughaspace_ref13_9hn",
         "ead_ssi":"arms_1977_325_parks_city_borough",
@@ -197,8 +203,8 @@
         "heading_ssm":["Series 4: Legal"],
         "unitdate_ssm":["circa 1850 to 1921"],
         "language_ssm":["English"],
-        "_version_":1799311483594604544,
-        "timestamp":"2024-05-17T14:45:49.119Z"},
+        "_version_":1801961356584288256,
+        "timestamp":"2024-06-15T20:44:24.931Z"},
       {
         "id":"arms_1977_325_parks_city_boroughaspace_ref14_tig",
         "ead_ssi":"arms_1977_325_parks_city_borough",
@@ -217,8 +223,8 @@
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["Inclusive, 1873-1909"],
         "language_ssm":["English"],
-        "_version_":1799311483612430336,
-        "timestamp":"2024-05-17T14:45:49.136Z"},
+        "_version_":1801961356608405504,
+        "timestamp":"2024-06-15T20:44:24.954Z"},
       {
         "id":"arms_1977_325_parks_city_boroughaspace_ref15_lc5",
         "ead_ssi":"arms_1977_325_parks_city_borough",
@@ -234,8 +240,8 @@
         "heading_ssm":["Series 6: Maps and drawings"],
         "unitdate_ssm":["circa 1880 to circa 1910"],
         "language_ssm":["English"],
-        "_version_":1799311483637596160,
-        "timestamp":"2024-05-17T14:45:49.159Z"},
+        "_version_":1801961356628328448,
+        "timestamp":"2024-06-15T20:44:24.973Z"},
       {
         "id":"arms_1977_325_parks_city_boroughaspace_ref16_uiu",
         "ead_ssi":"arms_1977_325_parks_city_borough",
@@ -254,8 +260,8 @@
         "unitdate_end_ssm":["1893"],
         "unitdate_ssm":["Inclusive, 1883-1893"],
         "language_ssm":["English"],
-        "_version_":1799311483661713408,
-        "timestamp":"2024-05-17T14:45:49.182Z"}]
+        "_version_":1801961356654542848,
+        "timestamp":"2024-06-15T20:44:24.998Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -263,7 +269,10 @@
       "repository_sim":[
         "cbh",8],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn (New York, N.Y.). Dept. of Parks",1,
+        "Brooklyn (New York, N.Y.). Park Commissioners",1,
+        "New York (N.Y.). Dept. of Parks",1],
       "date_range_sim":[
         "1801-1900",5,
         "1901-2000",4,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":12,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Robert Doty deeds"],
         "unitid_ssm":["ARC.221"],
         "abstract_ssm":["Three land deeds, dated 1803 and 1805, between Robert Doty, an African American of Jericho in the town of Oyster Bay, Queens County, and George and Jeremiah Tappin, also of Oyster Bay."],
+        "creator_ssm":["Tappin, Jeremiah",
+          "Doty, Robert",
+          "Tappin, George",
+          "Tappin, Jeremiah",
+          "Doty, Robert",
+          "Tappin, George"],
         "unitdate_normal_ssm":["1803/1805"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Oyster Bay (N.Y.)",
@@ -72,8 +78,8 @@
         "unitdate_end_ssm":["1805"],
         "unitdate_ssm":["Inclusive, 1803-1805"],
         "language_ssm":["English"],
-        "_version_":1799256190614503424,
-        "timestamp":"2024-05-17T00:06:57.624Z"}]
+        "_version_":1801959451299676160,
+        "timestamp":"2024-06-15T20:14:07.91Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +87,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Doty, Robert",1,
+        "Tappin, George",1,
+        "Tappin, Jeremiah",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

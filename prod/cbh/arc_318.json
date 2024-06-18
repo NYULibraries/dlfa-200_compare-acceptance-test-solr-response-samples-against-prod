@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -78,8 +78,8 @@
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["Inclusive, 1940-2019"],
         "language_ssm":["English"],
-        "_version_":1795145800926363648,
-        "timestamp":"2024-04-01T15:14:04.547Z"},
+        "_version_":1800645458489507840,
+        "timestamp":"2024-06-01T08:08:46.715Z"},
       {
         "id":"arc_318aspace_6255ed8b04469deae9344c1c203aa8bf",
         "ead_ssi":"arc_318",
@@ -102,8 +102,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["2014"],
-        "_version_":1795145800989278208,
-        "timestamp":"2024-04-01T15:14:04.608Z"},
+        "_version_":1800645458571296768,
+        "timestamp":"2024-06-01T08:08:46.793Z"},
       {
         "id":"arc_318aspace_731f1cf501f6cffa288f76f3d05493c8",
         "ead_ssi":"arc_318",
@@ -128,8 +128,8 @@
         "unitdate_start_ssm":["2019"],
         "unitdate_end_ssm":["2019"],
         "unitdate_ssm":["2019"],
-        "_version_":1795145801001861120,
-        "timestamp":"2024-04-01T15:14:04.62Z"},
+        "_version_":1800645458587025408,
+        "timestamp":"2024-06-01T08:08:46.808Z"},
       {
         "id":"arc_318aspace_8afedf2993e565feb2761d436fd53739",
         "ead_ssi":"arc_318",
@@ -156,8 +156,8 @@
         "unitdate_start_ssm":["1940"],
         "unitdate_end_ssm":["1940"],
         "unitdate_ssm":["1940"],
-        "_version_":1795145800943140864,
-        "timestamp":"2024-04-01T15:14:04.564Z"},
+        "_version_":1800645458510479360,
+        "timestamp":"2024-06-01T08:08:46.734Z"},
       {
         "id":"arc_318aspace_92154731eaf2d02e97a64139a6389b3c",
         "ead_ssi":"arc_318",
@@ -182,8 +182,8 @@
         "unitdate_start_ssm":["2007"],
         "unitdate_end_ssm":["2018"],
         "unitdate_ssm":["Inclusive, 2007-2018"],
-        "_version_":1795145800957820928,
-        "timestamp":"2024-04-01T15:14:04.578Z"},
+        "_version_":1800645458527256576,
+        "timestamp":"2024-06-01T08:08:46.751Z"},
       {
         "id":"arc_318aspace_f360a7dde56fb91029367ff781ad4ee4",
         "ead_ssi":"arc_318",
@@ -213,8 +213,8 @@
         "unitdate_start_ssm":["2009"],
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["Inclusive, 2009-2011"],
-        "_version_":1795145800974598144,
-        "timestamp":"2024-04-01T15:14:04.594Z"}]
+        "_version_":1800645458553470976,
+        "timestamp":"2024-06-01T08:08:46.776Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

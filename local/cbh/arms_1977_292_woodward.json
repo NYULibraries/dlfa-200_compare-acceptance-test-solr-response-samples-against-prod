@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["May B. Woodward scrapbook"],
         "unitid_ssm":["1977.292"],
         "abstract_ssm":["One scrapbook spanning from 1884 to 1896 compiled by May B. Woodward and containing programs and other ephemera from various Brooklyn social organizations, sports and recreational clubs, charities, and theatrical productions."],
+        "creator_ssm":["Woodward, Mary Blackburne",
+          "Woodward, Mary Blackburne"],
         "unitdate_normal_ssm":["1884/1896",
           "1886/1887"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -82,8 +84,8 @@
           "1887"],
         "unitdate_ssm":["Inclusive, 1884-1896 ; 1886-1887"],
         "language_ssm":["English"],
-        "_version_":1799256458547691520,
-        "timestamp":"2024-05-17T00:11:13.145Z"}]
+        "_version_":1801961264046407680,
+        "timestamp":"2024-06-15T20:42:56.68Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Woodward, Mary Blackburne",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -47,6 +47,10 @@
         "unittitle_ssm":["Ira Unschuld collection of Print Club of New York presentation prints"],
         "unitid_ssm":["PR 388"],
         "abstract_ssm":["The Print Club of New York annually commissions an artist to create a print for presentation to each of its 200 members. This collection holds ten of these prints."],
+        "creator_ssm":["Print Club of New York",
+          "Unschuld, Ira L.",
+          "Print Club of New York",
+          "Unschuld, Ira L."],
         "corpname_ssm":["New-York Historical Society",
           "Print Club of New York"],
         "genreform_ssm":["Prints (visual works)."],
@@ -72,8 +76,8 @@
         "heading_ssm":["Ira Unschuld collection of Print Club of New York presentation prints"],
         "unitdate_ssm":["Inclusive, 1994-2015"],
         "language_ssm":["English"],
-        "_version_":1799324405630763008,
-        "timestamp":"2024-05-17T18:11:12.532Z"},
+        "_version_":1802094521976094720,
+        "timestamp":"2024-06-17T08:01:01.345Z"},
       {
         "id":"pr388_unschuld_print_clubaspace_abe0501fd254c695231a03a25cac086c",
         "ead_ssi":"pr388_unschuld_print_club",
@@ -89,8 +93,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Teskey, Donald. Untitled. "],
         "unitdate_ssm":["2015"],
-        "_version_":1799324405766029312,
-        "timestamp":"2024-05-17T18:11:12.662Z"},
+        "_version_":1802094522213072896,
+        "timestamp":"2024-06-17T08:01:01.571Z"},
       {
         "id":"pr388_unschuld_print_clubaspace_cca915cf4a0cadc6322e3890109d5033",
         "ead_ssi":"pr388_unschuld_print_club",
@@ -106,8 +110,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Ringgold, Faith. Here Comes Moses"],
         "unitdate_ssm":["2014"],
-        "_version_":1799324405752397824,
-        "timestamp":"2024-05-17T18:11:12.649Z"},
+        "_version_":1802094522193149952,
+        "timestamp":"2024-06-17T08:01:01.552Z"},
       {
         "id":"pr388_unschuld_print_clubaspace_ea7c68a6beb28e54a16bcfd2e54ecee2",
         "ead_ssi":"pr388_unschuld_print_club",
@@ -123,8 +127,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Flack, Audrey. Un Bouchée d'Amour"],
         "unitdate_ssm":["2013"],
-        "_version_":1799324405741912064,
-        "timestamp":"2024-05-17T18:11:12.639Z"},
+        "_version_":1802094522172178432,
+        "timestamp":"2024-06-17T08:01:01.532Z"},
       {
         "id":"pr388_unschuld_print_clubaspace_eaa6baf1eee3630bc1fc09316966f208",
         "ead_ssi":"pr388_unschuld_print_club",
@@ -140,8 +144,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Booker, Chakaia. Untitled."],
         "unitdate_ssm":["2011"],
-        "_version_":1799324405730377728,
-        "timestamp":"2024-05-17T18:11:12.628Z"},
+        "_version_":1802094522151206912,
+        "timestamp":"2024-06-17T08:01:01.512Z"},
       {
         "id":"pr388_unschuld_print_clubaspace_ref506_4tc",
         "ead_ssi":"pr388_unschuld_print_club",
@@ -157,8 +161,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Katz, Alex. Jessica"],
         "unitdate_ssm":["1994"],
-        "_version_":1799324405645443072,
-        "timestamp":"2024-05-17T18:11:12.547Z"},
+        "_version_":1802094522005454848,
+        "timestamp":"2024-06-17T08:01:01.373Z"},
       {
         "id":"pr388_unschuld_print_clubaspace_ref508_o3q",
         "ead_ssi":"pr388_unschuld_print_club",
@@ -174,8 +178,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Jenkins, Paul. At Stroke of Twelve"],
         "unitdate_ssm":["1999"],
-        "_version_":1799324405658025984,
-        "timestamp":"2024-05-17T18:11:12.559Z"},
+        "_version_":1802094522030620672,
+        "timestamp":"2024-06-17T08:01:01.397Z"},
       {
         "id":"pr388_unschuld_print_clubaspace_ref509_2fm",
         "ead_ssi":"pr388_unschuld_print_club",
@@ -191,8 +195,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Walker, John. Diagonal Hollyhocks"],
         "unitdate_ssm":["2003"],
-        "_version_":1799324405670608896,
-        "timestamp":"2024-05-17T18:11:12.571Z"},
+        "_version_":1802094522054737920,
+        "timestamp":"2024-06-17T08:01:01.42Z"},
       {
         "id":"pr388_unschuld_print_clubaspace_ref511_7xn",
         "ead_ssi":"pr388_unschuld_print_club",
@@ -208,8 +212,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Snyder, Joan. Oasis"],
         "unitdate_ssm":["2006"],
-        "_version_":1799324405683191808,
-        "timestamp":"2024-05-17T18:11:12.583Z"},
+        "_version_":1802094522086195200,
+        "timestamp":"2024-06-17T08:01:01.45Z"},
       {
         "id":"pr388_unschuld_print_clubaspace_ref513_o43",
         "ead_ssi":"pr388_unschuld_print_club",
@@ -225,8 +229,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["McPherson, Craig. New York Water Tunnel"],
         "unitdate_ssm":["2009"],
-        "_version_":1799324405713600512,
-        "timestamp":"2024-05-17T18:11:12.612Z"},
+        "_version_":1802094522130235392,
+        "timestamp":"2024-06-17T08:01:01.492Z"},
       {
         "id":"pr388_unschuld_print_clubaspace_ref515_8uv",
         "ead_ssi":"pr388_unschuld_print_club",
@@ -242,8 +246,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Segalman, Richard. Coney Island"],
         "unitdate_ssm":["2008"],
-        "_version_":1799324405697871872,
-        "timestamp":"2024-05-17T18:11:12.597Z"}]
+        "_version_":1802094522108215296,
+        "timestamp":"2024-06-17T08:01:01.471Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -251,7 +255,9 @@
       "repository_sim":[
         "nyhs",11],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Print Club of New York",1,
+        "Unschuld, Ira L.",1],
       "date_range_sim":[
         "undated & other",11],
       "subject_sim":[

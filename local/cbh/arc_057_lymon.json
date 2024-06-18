@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Terry Lymon papers"],
         "unitid_ssm":["ARC.057"],
         "abstract_ssm":["The collection documents the archaeological excavation of a parcel of land on which Cadman Plaza was subsequently built, carried out by amateur archaeologist Terry Lymon and a team of assistants in the summer of 1965. Materials in folder 1 consist of Mr. Lymon's field notes from the excavation, including carefully detailed diagrams of the dig site itself, drawings and descriptions of the structures and artifacts uncovered during the excavation, and a typewritten document that summarizes the contents of the collection and provides a brief biographical sketch of Mr. Lymon."],
+        "creator_ssm":["Lymon, Terry",
+          "Kopper, J.S. (John S.)",
+          "Lymon, Terry",
+          "Kopper, J.S. (John S.)"],
         "unitdate_normal_ssm":["1965/1966"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Biographies",
@@ -71,8 +75,8 @@
         "unitdate_start_ssm":["1965"],
         "unitdate_end_ssm":["1966"],
         "unitdate_ssm":["Inclusive, 1965-1966"],
-        "_version_":1799312263447838720,
-        "timestamp":"2024-05-17T14:58:12.844Z"},
+        "_version_":1801958833551048704,
+        "timestamp":"2024-06-15T20:04:18.779Z"},
       {
         "id":"arc_057_lymonaspace_ref8_v5m",
         "ead_ssi":"arc_057_lymon",
@@ -90,8 +94,8 @@
         "unitdate_start_ssm":["1965"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1965"],
-        "_version_":1799312263480344576,
-        "timestamp":"2024-05-17T14:58:12.876Z"},
+        "_version_":1801958833572020224,
+        "timestamp":"2024-06-15T20:04:18.799Z"},
       {
         "id":"arc_057_lymonaspace_ref9_al4",
         "ead_ssi":"arc_057_lymon",
@@ -110,8 +114,8 @@
         "unitdate_start_ssm":["1965"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1965"],
-        "_version_":1799312263510753280,
-        "timestamp":"2024-05-17T14:58:12.905Z"}]
+        "_version_":1801958833587748864,
+        "timestamp":"2024-06-15T20:04:18.814Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -119,7 +123,9 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kopper, J.S. (John S.)",1,
+        "Lymon, Terry",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

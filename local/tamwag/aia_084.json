@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":51,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles Fanning Collection of Audio Recordings"],
         "unitid_ssm":["AIA.084"],
         "abstract_ssm":["Charles Fanning (1942-) is a retired professor of Irish Studies. He earned his A.B. in English literature from Harvard University (1964) and his M.A. (1968) and Ph.D. (1972) from the University of Pennsylvania. Fanning taught at Bridgewater State College for 20 years and later at Southern Illinois University at Carbondale, where he formed an Irish Studies program. The Charles Fanning Collection of Audio Recordings consists of recordings on optical discs of Irish traditional musical performances between 1957-1980. The collection includes recordings of James T. Farrell between 1957 and 1979, and performances by Eleanor Kane Neary (piano), Jimmy Neary (fiddle), Johnny McGreevy (fiddle), and Eileen Neary (vocal) at the Neary household in Chicago in 1980."],
+        "creator_ssm":["Fanning, Charles",
+          "Fanning, Charles"],
         "unitdate_normal_ssm":["1957/1980"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Fanning, Charles",
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1957"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["Inclusive, 1957-1980"],
-        "_version_":1799747619035021312,
-        "timestamp":"2024-05-22T10:18:00.287Z"},
+        "_version_":1802110342936920064,
+        "timestamp":"2024-06-17T12:12:29.389Z"},
       {
         "id":"aia_084aspace_3e0ead19750f7fb9a6784920fb3c8a56",
         "ead_ssi":"aia_084",
@@ -85,14 +87,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Electronic Records, E-records: TW_AIA_084_ER_1",
-          "E-records: TW_AIA_084_ER_1"],
+        "location_ssm":["Box: Electronic Records, E-records: TW_AIA_084_ER_1"],
         "heading_ssm":["Neary House Tape"],
         "unitdate_start_ssm":["1980"],
         "unitdate_end_ssm":["1980"],
         "unitdate_ssm":["1980"],
-        "_version_":1799747619050749952,
-        "timestamp":"2024-05-22T10:18:00.302Z"},
+        "_version_":1802110342957891584,
+        "timestamp":"2024-06-17T12:12:29.409Z"},
       {
         "id":"aia_084aspace_a1523c73c06537a789bc6496f23c4a18",
         "ead_ssi":"aia_084",
@@ -108,14 +109,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Electronic Records, E-records: TW_AIA_084_ER_2",
-          "E-records: TW_AIA_084_ER_2"],
+        "location_ssm":["Box: Electronic Records, E-records: TW_AIA_084_ER_2"],
         "heading_ssm":["James T. Farrell Recordings"],
         "unitdate_start_ssm":["1957"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1957-1979"],
-        "_version_":1799747619064381440,
-        "timestamp":"2024-05-22T10:18:00.315Z"}]
+        "_version_":1802110342980960256,
+        "timestamp":"2024-06-17T12:12:29.431Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -124,7 +124,8 @@
         "tamwag",3],
       "dao_sim":[
         "Online Access",3],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fanning, Charles",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

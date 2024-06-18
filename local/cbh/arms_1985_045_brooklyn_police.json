@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn police logbook"],
         "unitid_ssm":["1985.045"],
         "abstract_ssm":["A logbook of arrests by police officers in Brooklyn, dated 1860 to 1863 and measuring 0.25 linear feet. The logbook records individuals who were arrested and booked by the Brooklyn Police. Each entry includes the name of the individual arrested, the date on which the arrest and booking took place, the time at which the person was booked, and the offense for which the person was arrested. The specific precinct to which this logbook belonged is not specified."],
+        "creator_ssm":["New York (N.Y.). Police Department",
+          "New York (N.Y.). Police Department"],
         "unitdate_normal_ssm":["1860/1863"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (N.Y.). Police Department",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1863"],
         "unitdate_ssm":["Inclusive, 1860-1863"],
         "language_ssm":["English"],
-        "_version_":1799256294220103680,
-        "timestamp":"2024-05-17T00:08:36.43Z"}]
+        "_version_":1801963008958660608,
+        "timestamp":"2024-06-15T21:10:40.757Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (N.Y.). Police Department",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

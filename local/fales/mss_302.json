@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Allison Wolfe Riot Grrrl Collection"],
         "unitid_ssm":["MSS.302"],
         "abstract_ssm":["Allison Wolfe (b. 1969), a songwriter and arts journalist, co-founded the third wave feminist punk movement, Riot Grrrl, and the feminist punk fanzine, \"Girl Germs.\" She sang in several bands throughout the 1990s and 2000s including Bratmobile and Cold Cold Hearts, and organized Ladyfest, a non-profit feminist music festival, in 1999. Materials in this collection include two dresses, three \"performance slips,\" and one pair of shoes."],
+        "creator_ssm":["Wolfe, Allison",
+          "Wolfe, Allison"],
         "unitdate_normal_ssm":["1992/1992"],
         "corpname_ssm":["Fales Library and Special Collections",
           "Bratmobile (Musical group)"],
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["circa 1992"],
-        "_version_":1799736820017135616,
-        "timestamp":"2024-05-22T07:26:21.541Z"},
+        "_version_":1802067375117303808,
+        "timestamp":"2024-06-17T00:49:32.083Z"},
       {
         "id":"mss_302aspace_0db1faabeaf15c9cbcc6d7a6eddaa578",
         "ead_ssi":"mss_302",
@@ -84,8 +86,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["circa 1992"],
-        "_version_":1799736820042301440,
-        "timestamp":"2024-05-22T07:26:21.565Z"},
+        "_version_":1802067375161344000,
+        "timestamp":"2024-06-17T00:49:32.125Z"},
       {
         "id":"mss_302aspace_6db06e7cb76d73cc6289de6060bde1b9",
         "ead_ssi":"mss_302",
@@ -104,8 +106,8 @@
         "unitdate_start_ssm":["1992"],
         "unitdate_end_ssm":["1992"],
         "unitdate_ssm":["circa 1992"],
-        "_version_":1799736820029718528,
-        "timestamp":"2024-05-22T07:26:21.553Z"}]
+        "_version_":1802067375139323904,
+        "timestamp":"2024-06-17T00:49:32.104Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -113,7 +115,8 @@
       "repository_sim":[
         "fales",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wolfe, Allison",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

@@ -47,6 +47,14 @@
         "unittitle_ssm":["Independent Civic Association of Sheepshead Bay and Brooklyn Civic Council records"],
         "unitid_ssm":["1978.125"],
         "abstract_ssm":["The Independent Civic Association of Sheepshead Bay and the Brooklyn Civic Council records include minutes, correspondence, reports, clippings, scrapbooks, graphic materials, and additional ephemera reflecting the activities of both organizations, as well as the history and development of the Brooklyn neighborhoods of Sheepshead Bay and Marine Park.  The materials were donated by Joseph B. Milgram, who was an officer of the Independent Civic Association of Sheepshead Bay and the Brooklyn Civic Council.  Materials date from 1925 to 1975, with some undated items."],
+        "creator_ssm":["New York City Housing Authority",
+          "Brooklyn Civic Council (New York, N.Y.)",
+          "Independent Civic Association of Sheepshead Bay, Inc. (Brooklyn, New York, N.Y.)",
+          "Milgram, Joseph B.",
+          "New York City Housing Authority",
+          "Brooklyn Civic Council (New York, N.Y.)",
+          "Independent Civic Association of Sheepshead Bay, Inc. (Brooklyn, New York, N.Y.)",
+          "Milgram, Joseph B."],
         "unitdate_normal_ssm":["1924/1975",
           "1924/1960"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -111,8 +119,8 @@
           "1960"],
         "unitdate_ssm":["Inclusive, 1924-1975 ; 1924-1960"],
         "language_ssm":["English"],
-        "_version_":1799256289624195072,
-        "timestamp":"2024-05-17T00:08:32.047Z"},
+        "_version_":1801962517072707584,
+        "timestamp":"2024-06-15T21:02:51.658Z"},
       {
         "id":"arms_1978_125_independent_civic_association_sheepshead_bayaspace_ref12_igb",
         "ead_ssi":"arms_1978_125_independent_civic_association_sheepshead_bay",
@@ -130,8 +138,8 @@
         "unitdate_start_ssm":["1925"],
         "unitdate_end_ssm":["1948"],
         "unitdate_ssm":["Inclusive, 1925-1948"],
-        "_version_":1799256289638875136,
-        "timestamp":"2024-05-17T00:08:32.061Z"},
+        "_version_":1801962517097873408,
+        "timestamp":"2024-06-15T21:02:51.683Z"},
       {
         "id":"arms_1978_125_independent_civic_association_sheepshead_bayaspace_ref13_n1w",
         "ead_ssi":"arms_1978_125_independent_civic_association_sheepshead_bay",
@@ -149,8 +157,8 @@
         "unitdate_start_ssm":["1924"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, 1924-1972"],
-        "_version_":1799256289652506624,
-        "timestamp":"2024-05-17T00:08:32.074Z"},
+        "_version_":1801962517138767872,
+        "timestamp":"2024-06-15T21:02:51.722Z"},
       {
         "id":"arms_1978_125_independent_civic_association_sheepshead_bayaspace_ref14_xxl",
         "ead_ssi":"arms_1978_125_independent_civic_association_sheepshead_bay",
@@ -168,8 +176,8 @@
         "unitdate_start_ssm":["1926"],
         "unitdate_end_ssm":["1936"],
         "unitdate_ssm":["Inclusive, 1926-1936"],
-        "_version_":1799256289666138112,
-        "timestamp":"2024-05-17T00:08:32.087Z"},
+        "_version_":1801962517246771200,
+        "timestamp":"2024-06-15T21:02:51.825Z"},
       {
         "id":"arms_1978_125_independent_civic_association_sheepshead_bayaspace_ref15_lpb",
         "ead_ssi":"arms_1978_125_independent_civic_association_sheepshead_bay",
@@ -187,8 +195,8 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1975"],
         "unitdate_ssm":["Inclusive, 1936-1975"],
-        "_version_":1799256289679769600,
-        "timestamp":"2024-05-17T00:08:32.1Z"},
+        "_version_":1801962517287665664,
+        "timestamp":"2024-06-15T21:02:51.864Z"},
       {
         "id":"arms_1978_125_independent_civic_association_sheepshead_bayaspace_ref22_htn",
         "ead_ssi":"arms_1978_125_independent_civic_association_sheepshead_bay",
@@ -203,8 +211,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 5: Graphic materials"],
         "unitdate_ssm":["circa 1930-1940"],
-        "_version_":1799256289693401088,
-        "timestamp":"2024-05-17T00:08:32.113Z"}]
+        "_version_":1801962517322268672,
+        "timestamp":"2024-06-15T21:02:51.897Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -212,7 +220,11 @@
       "repository_sim":[
         "cbh",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Civic Council (New York, N.Y.)",1,
+        "Independent Civic Association of Sheepshead Bay, Inc. (Brooklyn, New York, N.Y.)",1,
+        "Milgram, Joseph B.",1,
+        "New York City Housing Authority",1],
       "date_range_sim":[
         "1901-2000",5,
         "undated & other",1],

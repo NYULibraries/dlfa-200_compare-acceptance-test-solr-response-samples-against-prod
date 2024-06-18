@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Society of Samoset, Inc. records"],
         "unitid_ssm":["1993.004"],
         "abstract_ssm":["This collection contains the Society of Samoset, Inc., a social club for young men founded in the Bedford-Stuyvesant neighborhood of Brooklyn in 1912. The collection includes the club's constitution and bylaws, a handwritten essay about the Samoset Baseball Club of 1912-1919, a 60th anniversary program containing a typewritten history of the Society, and a description of the club's initiation rituals."],
+        "creator_ssm":["Society of Samoset, Inc.",
+          "Society of Samoset, Inc."],
         "unitdate_normal_ssm":["1912/1972"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Society of Samoset, Inc.",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, 1912-1972"],
         "language_ssm":["English"],
-        "_version_":1799311562441228288,
-        "timestamp":"2024-05-17T14:47:04.313Z"}]
+        "_version_":1801963722930913280,
+        "timestamp":"2024-06-15T21:22:01.655Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Society of Samoset, Inc.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

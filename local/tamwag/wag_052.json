@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Hyman Levine Papers"],
         "unitid_ssm":["WAG.052"],
+        "creator_ssm":["Levine, Hyman",
+          "Levine, Hyman"],
         "unitdate_normal_ssm":["1916/1979"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Levine, Hyman",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1916-1979"],
         "language_ssm":["English"],
-        "_version_":1799799889190715392,
-        "timestamp":"2024-05-23T00:08:48.992Z"},
+        "_version_":1802192294807339008,
+        "timestamp":"2024-06-18T09:55:04.783Z"},
       {
         "id":"wag_052aspace_ref3",
         "ead_ssi":"wag_052",
@@ -76,12 +78,11 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1, CD: 1-2",
-          "CD: 1-2",
           "Box: 1"],
         "heading_ssm":["Local 28 Meeting"],
         "unitdate_ssm":["undated"],
-        "_version_":1799799889206444032,
-        "timestamp":"2024-05-23T00:08:49.007Z"}]
+        "_version_":1802192294815727616,
+        "timestamp":"2024-06-18T09:55:04.791Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +90,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Levine, Hyman",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

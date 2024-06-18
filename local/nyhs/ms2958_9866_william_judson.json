@@ -47,6 +47,8 @@
         "unittitle_ssm":["Indenture between William Judson and The Michigan Southern Rail Road Company"],
         "unitid_ssm":["AHMC - Judson, William"],
         "abstract_ssm":["Lease for a four year term by William Judson to the Michigan Southern Rail Road Company of the south half of the first floor of the building at 195 and 197 Broadway, at the intersection with Dey Street, in New York. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Indenture between William Judson and The Michigan Southern Rail Road Company"],
+        "creator_ssm":["Judson, William, active 1854",
+          "Judson, William, active 1854"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Judson, William, active 1854"],
         "collection_ssm":["Indenture between William Judson and The Michigan Southern Rail Road Company"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Indenture between William Judson and The Michigan Southern Rail Road Company"],
         "unitdate_ssm":["1854"],
-        "_version_":1799318550051028992,
-        "timestamp":"2024-05-17T16:38:08.217Z"}]
+        "_version_":1802083875939155968,
+        "timestamp":"2024-06-17T05:11:48.493Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Judson, William, active 1854",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

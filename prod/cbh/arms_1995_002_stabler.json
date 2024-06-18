@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Louisa Merritt Field Stabler family papers"],
         "unitid_ssm":["1995.002"],
         "abstract_ssm":["Louisa Merritt Field Stabler (1826-1914) lived with her husband and children in Brooklyn Heights at 135 Willow Street.  The Stablers' children included a daughter, Louise Merritt (1868-1954), and a son, Edward.  Louise Merritt Stabler was a member of the first graduating class of Barnard College in 1893.  She later became active in the suffrage movement, and was married to zoologist George Howard Parker (1864-1955), a professor at Harvard College.  The Louisa Merritt Field Stabler family papers chiefly consist of personal correspondence from Louisa Merritt Field Stabler to her daughter, Louise Merritt Stabler Parker.  Some correspondence is also between various members of the Stabler and Parker families.  The collection also includes notebooks, a copy of Louisa Merritt Field Stabler's will, various newspaper clippings, and ephemera."],
+        "creator_ssm":["Stabler, Louisa M. (Louisa Merritt)",
+          "Stabler, Louisa M. (Louisa Merritt)"],
         "unitdate_normal_ssm":["1818/1954"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Barnard College"],
@@ -86,8 +88,8 @@
         "unitdate_end_ssm":["1954"],
         "unitdate_ssm":["Inclusive, 1818-1954"],
         "language_ssm":["English"],
-        "_version_":1775219400428748800,
-        "timestamp":"2023-08-25T16:32:28.175Z"},
+        "_version_":1800794552158650368,
+        "timestamp":"2024-06-02T23:38:33.518Z"},
       {
         "id":"arms_1995_002_stableraspace_ref11_jhl",
         "ead_ssi":"arms_1995_002_stabler",
@@ -105,8 +107,8 @@
         "unitdate_start_ssm":["1833"],
         "unitdate_end_ssm":["1914"],
         "unitdate_ssm":["Inclusive, 1833-1914"],
-        "_version_":1775219400519974912,
-        "timestamp":"2023-08-25T16:32:28.262Z"},
+        "_version_":1800794552191156224,
+        "timestamp":"2024-06-02T23:38:33.549Z"},
       {
         "id":"arms_1995_002_stableraspace_ref12_qh8",
         "ead_ssi":"arms_1995_002_stabler",
@@ -124,8 +126,8 @@
         "unitdate_start_ssm":["1818"],
         "unitdate_end_ssm":["1954"],
         "unitdate_ssm":["Inclusive, 1818-1954"],
-        "_version_":1775219400564015104,
-        "timestamp":"2023-08-25T16:32:28.304Z"},
+        "_version_":1800794552214224896,
+        "timestamp":"2024-06-02T23:38:33.571Z"},
       {
         "id":"arms_1995_002_stableraspace_ref9_lvn",
         "ead_ssi":"arms_1995_002_stabler",
@@ -143,8 +145,8 @@
         "unitdate_start_ssm":["1886"],
         "unitdate_end_ssm":["1914"],
         "unitdate_ssm":["Inclusive, 1886-1914"],
-        "_version_":1775219400472788992,
-        "timestamp":"2023-08-25T16:32:28.217Z"}]
+        "_version_":1800794552177524736,
+        "timestamp":"2024-06-02T23:38:33.536Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -152,7 +154,8 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stabler, Louisa M. (Louisa Merritt)",1],
       "date_range_sim":[
         "1801-1900",4,
         "1901-2000",4],

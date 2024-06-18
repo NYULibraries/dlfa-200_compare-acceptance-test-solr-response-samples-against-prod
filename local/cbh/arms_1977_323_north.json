@@ -47,6 +47,10 @@
         "unittitle_ssm":["Edgerton G. North papers"],
         "unitid_ssm":["1977.323"],
         "abstract_ssm":["The Edgerton G. North papers contain various records compiled by Edgerton G. North (1900–1967) during his service as President of the Long Island Historical Society (later the Brooklyn Historical Society) from 1957 to 1965. The records document activities within the Long Island Historical Society and Mr. North's participation in six other civic organizations in Brooklyn between 1920 and 1962."],
+        "creator_ssm":["North, Edgerton G.",
+          "Long Island Historical Society",
+          "Long Island Historical Society",
+          "North, Edgerton G."],
         "unitdate_normal_ssm":["1920/1962",
           "1952/1962"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -77,8 +81,8 @@
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1920-1962 ; 1952-1962"],
         "language_ssm":["English"],
-        "_version_":1799256190447779840,
-        "timestamp":"2024-05-17T00:06:57.465Z"},
+        "_version_":1801961351259619328,
+        "timestamp":"2024-06-15T20:44:19.853Z"},
       {
         "id":"arms_1977_323_northaspace_ref6_2kt",
         "ead_ssi":"arms_1977_323_north",
@@ -99,8 +103,8 @@
         "unitdate_end_ssm":["1961",
           "1960"],
         "unitdate_ssm":["Inclusive, 1920-1961 ; 1957-1960"],
-        "_version_":1799256190469799936,
-        "timestamp":"2024-05-17T00:06:57.486Z"},
+        "_version_":1801961351285833728,
+        "timestamp":"2024-06-15T20:44:19.878Z"},
       {
         "id":"arms_1977_323_northaspace_ref8_sov",
         "ead_ssi":"arms_1977_323_north",
@@ -118,8 +122,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["Inclusive, 1950-1962"],
-        "_version_":1799256190483431424,
-        "timestamp":"2024-05-17T00:06:57.499Z"}]
+        "_version_":1801961351314145280,
+        "timestamp":"2024-06-15T20:44:19.905Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -127,7 +131,9 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Long Island Historical Society",1,
+        "North, Edgerton G.",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Arthur Blum Student Lab  Book"],
         "unitid_ssm":["MC.338"],
         "abstract_ssm":["Arthur A. Blum was a student at New York University's College of Dentistry in the 1920s. This collection consists of his 1922 physiology lab notebook and health publications from the same period."],
+        "creator_ssm":["Blum, Arthur A.",
+          "Blum, Arthur A."],
         "unitdate_normal_ssm":["1901/1924"],
         "corpname_ssm":["New York University Archives",
           "New York University. College of Dentistry"],
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1901"],
         "unitdate_end_ssm":["1924"],
         "unitdate_ssm":["Inclusive, 1901-1924"],
-        "_version_":1799256000188907520,
-        "timestamp":"2024-05-17T00:03:56.02Z"},
+        "_version_":1801950136617664512,
+        "timestamp":"2024-06-15T17:46:04.737Z"},
       {
         "id":"mc_338aspace_681fa2545ceb203117742217d386f72d",
         "ead_ssi":"mc_338",
@@ -85,8 +87,8 @@
         "unitdate_start_ssm":["1901"],
         "unitdate_end_ssm":["1924"],
         "unitdate_ssm":["Inclusive, 1901-1924"],
-        "_version_":1799256000208830464,
-        "timestamp":"2024-05-17T00:03:56.039Z"}]
+        "_version_":1801950136639684608,
+        "timestamp":"2024-06-15T17:46:04.758Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +96,8 @@
       "repository_sim":[
         "archives",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Blum, Arthur A.",1],
       "date_range_sim":[
         "1901-2000",2],
       "subject_sim":[

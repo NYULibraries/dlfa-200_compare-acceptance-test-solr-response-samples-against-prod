@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Sophie-Louise Ullman Teachers Union Documentary Film Project"],
         "unitid_ssm":["VIDEOS.013"],
+        "creator_ssm":["Ullman, Sophie-Louise",
+          "Ullman, Sophie-Louise"],
         "unitdate_normal_ssm":["1997/1997"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Teachers' Union of the City of New York"],
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1997"],
         "unitdate_ssm":["Inclusive, 1997"],
         "language_ssm":["English"],
-        "_version_":1799792539196194816,
-        "timestamp":"2024-05-22T22:11:59.491Z"}]
+        "_version_":1802184791832920064,
+        "timestamp":"2024-06-18T07:55:49.389Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ullman, Sophie-Louise",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

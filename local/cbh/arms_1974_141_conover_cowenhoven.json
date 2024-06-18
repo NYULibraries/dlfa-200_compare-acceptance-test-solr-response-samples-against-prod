@@ -47,6 +47,8 @@
         "unittitle_ssm":["Conover and Cowenhoven family papers"],
         "unitid_ssm":["1974.141"],
         "abstract_ssm":["The Conover and Cowenhoven family papers consist of documents relating to Peter Cowenhoven, Jacob Conover, and Jacob Cowenhoven from the early 1800s."],
+        "creator_ssm":["Cowenhoven family",
+          "Cowenhoven family"],
         "unitdate_normal_ssm":["1801/1836"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Cowenhoven family",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1836"],
         "unitdate_ssm":["Inclusive, 1801-1836"],
         "language_ssm":["English"],
-        "_version_":1799309976557060096,
-        "timestamp":"2024-05-17T14:21:51.896Z"}]
+        "_version_":1801960364931284992,
+        "timestamp":"2024-06-15T20:28:39.217Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cowenhoven family",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

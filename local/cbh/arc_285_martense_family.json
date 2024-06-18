@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":14,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Martense family papers"],
         "unitid_ssm":["ARC.285"],
         "abstract_ssm":["The Martense family papers include deeds, indentures, wills, estate administration documents, promissory notes, bills of sale for enslaved African-Americans, correspondence, and photographs and other images. The bulk of the documents date from the 1700s to circa 1876. The images date from circa 1870 to circa 1944. Deeds and other land transaction documents dating from the 1700s comprise the largest portion of the collection. The Martense family lived in Flatbush, now part of the New York City borough of Brooklyn, and most of the collection concerns that area. Correspondence in the collection dates from 1837-1839 and includes several letters sent to Gerrit Martense at Rutgers College in New Brunswick, N.J., by his family in Flatbush. Subjects of the letters include domestic and local matters. The letters, and other documents in the collection, also refer to dealings concerning one Juan Scorsur, an Italian immigrant to New York attempting to acquire real estate in Brooklyn while residing for an extended time in Cuba. In addition to multiple generations of Martenses, among the surnames found in the collection are Cornell, Hegeman, Lefferts, Remsen, Suydam, Terhune, Van Brunt, Van der Bilt, Van der Veer, and Waldron. The bulk of the collection is in English, but there are several documents in Dutch and one in Spanish. BHS has transcriptions and English translations of documents originally written in Dutch. The photographs and other images, to the extent they are identified, are principally of members of the Wilbur family, into which a Martense married."],
+        "creator_ssm":["Martense family",
+          "Martense family"],
         "unitdate_normal_ssm":["1675/1954",
           "1722/1876"],
         "corpname_ssm":["Brooklyn Historical Society"],
@@ -89,8 +91,8 @@
         "unitdate_end_ssm":["1954",
           "1876"],
         "unitdate_ssm":["Inclusive, 1675-circa 1944 ; 1722-1876"],
-        "_version_":1799312263634485248,
-        "timestamp":"2024-05-17T14:58:13.022Z"}]
+        "_version_":1801959759409053696,
+        "timestamp":"2024-06-15T20:19:01.745Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -98,7 +100,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Martense family",1],
       "date_range_sim":[
         "1601-1700",1,
         "1701-1800",1,

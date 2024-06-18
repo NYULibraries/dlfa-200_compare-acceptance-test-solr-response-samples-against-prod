@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -66,8 +66,8 @@
         "material_type_ssm":["Black-and-white photographs."],
         "heading_ssm":["High Bridge construction photographs"],
         "unitdate_ssm":["1928"],
-        "_version_":1799317296359931904,
-        "timestamp":"2024-05-17T16:18:12.604Z"},
+        "_version_":1802094875377664000,
+        "timestamp":"2024-06-17T08:06:38.375Z"},
       {
         "id":"pr467_high_bridgeaspace_3df622e2a719ad791223414889ce6e0a",
         "ead_ssi":"pr467_high_bridge",
@@ -83,8 +83,8 @@
         "location_ssm":["Offsite-Box: 1"],
         "heading_ssm":["High Bridge construction photographs"],
         "unitdate_ssm":["1928"],
-        "_version_":1799317296384049152,
-        "timestamp":"2024-05-17T16:18:12.627Z"}]
+        "_version_":1802094875403878400,
+        "timestamp":"2024-06-17T08:06:38.4Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

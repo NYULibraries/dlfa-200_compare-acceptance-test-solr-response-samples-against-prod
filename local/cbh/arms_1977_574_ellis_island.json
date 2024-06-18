@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Manuscript and typescript histories of Ellis Island, N.Y."],
         "unitid_ssm":["1977.574"],
         "abstract_ssm":["Two brief histories of Ellis Island, one typewritten by the Immigration and Naturalization Service of the United States Department of Justice, dated 1947, and the other handwritten by a descendant of Samuel Ellis, dated 1951."],
+        "creator_ssm":["United States. Immigration and Naturalization Service",
+          "United States. Immigration and Naturalization Service"],
         "unitdate_normal_ssm":["1947/1951"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Immigration and Naturalization Service"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1951"],
         "unitdate_ssm":["Inclusive, 1947, 1951"],
         "language_ssm":["English"],
-        "_version_":1799312377138642944,
-        "timestamp":"2024-05-17T15:00:01.269Z"}]
+        "_version_":1801961980258418688,
+        "timestamp":"2024-06-15T20:54:19.713Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "United States. Immigration and Naturalization Service",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

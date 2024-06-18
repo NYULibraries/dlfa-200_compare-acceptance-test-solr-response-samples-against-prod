@@ -47,6 +47,10 @@
         "unittitle_ssm":["Ferguson family papers"],
         "unitid_ssm":["1985.053"],
         "abstract_ssm":["The Ferguson family papers document the commercial development of Coney Island during the 19th century through the buying, selling and leasing of real estate in the area. Thomas Ferguson (1845-1903) was a businessman and real estate investor who lived in Gravesend, N.Y.  with his wife, Lizzie Ferguson. He was a member of the Town of Gravesend Board of Trustees of the Common Lands and was one of the town's largest landowners. John Phillips, who is represented in the papers, was Thomas Ferguson's uncle and business associate. The Fergusons' relationship to Robert B. Hill and Elizabeth F. Hart, whose papers are also included in the collection, is unclear, though they are presumed to be family members."],
+        "creator_ssm":["Ferguson, Thomas",
+          "Gravesend (New York, N.Y.). Board of Trustees of Common Lands",
+          "Gravesend (New York, N.Y.). Board of Trustees of Common Lands",
+          "Ferguson, Thomas"],
         "unitdate_normal_ssm":["1863/1957"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Gravesend (New York, N.Y.). Board of Trustees of Common Lands"],
@@ -89,8 +93,8 @@
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["Inclusive, 1863-1957"],
         "language_ssm":["English"],
-        "_version_":1799311564934742016,
-        "timestamp":"2024-05-17T14:47:06.691Z"},
+        "_version_":1801963022436007936,
+        "timestamp":"2024-06-15T21:10:53.61Z"},
       {
         "id":"arms_1985_053_fergusonaspace_ref11_ls4",
         "ead_ssi":"arms_1985_053_ferguson",
@@ -108,8 +112,8 @@
         "unitdate_start_ssm":["1863"],
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["Inclusive, 1863-1957"],
-        "_version_":1799311564978782208,
-        "timestamp":"2024-05-17T14:47:06.733Z"},
+        "_version_":1801963022473756672,
+        "timestamp":"2024-06-15T21:10:53.647Z"},
       {
         "id":"arms_1985_053_fergusonaspace_ref8_qtr",
         "ead_ssi":"arms_1985_053_ferguson",
@@ -127,8 +131,8 @@
         "unitdate_start_ssm":["1862"],
         "unitdate_end_ssm":["1910"],
         "unitdate_ssm":["Inclusive, 1862-1910"],
-        "_version_":1799311564959907840,
-        "timestamp":"2024-05-17T14:47:06.715Z"}]
+        "_version_":1801963022455930880,
+        "timestamp":"2024-06-15T21:10:53.63Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -136,7 +140,9 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ferguson, Thomas",1,
+        "Gravesend (New York, N.Y.). Board of Trustees of Common Lands",1],
       "date_range_sim":[
         "1801-1900",3,
         "1901-2000",3],

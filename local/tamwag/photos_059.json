@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Beverly Bozeman Fuller Tamiment Playhouse Photographs"],
         "unitid_ssm":["PHOTOS.059"],
         "abstract_ssm":["Eighteen black and white photographs, almost entirely production photographs of performances at the Tamiment Playhouse--a prominent incubator of and a major creative outlet for theater, dance, film, and television in the mid-twentieth century. The Playhouse was part of Camp Tamiment, a summer resort for socialists and their families that opened in 1921."],
+        "creator_ssm":["Fuller, Beverly Bozeman",
+          "Fuller, Beverly Bozeman"],
         "unitdate_normal_ssm":["1954/1957"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Tamiment Playhouse -- Pictorial works"],
@@ -102,8 +104,8 @@
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["Inclusive, 1954-1957"],
         "language_ssm":["English"],
-        "_version_":1799764350745968640,
-        "timestamp":"2024-05-22T14:43:56.89Z"},
+        "_version_":1802141787905589248,
+        "timestamp":"2024-06-17T20:32:17.647Z"},
       {
         "id":"photos_059aspace_ref13",
         "ead_ssi":"photos_059",
@@ -117,8 +119,8 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Container list"],
-        "_version_":1799764350759600128,
-        "timestamp":"2024-05-22T14:43:56.903Z"},
+        "_version_":1802141787918172160,
+        "timestamp":"2024-06-17T20:32:17.66Z"},
       {
         "id":"photos_059aspace_ref14",
         "ead_ssi":"photos_059",
@@ -140,8 +142,8 @@
         "unitdate_start_ssm":["1954"],
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["Inclusive, 1954-1957 , undated"],
-        "_version_":1799764350778474496,
-        "timestamp":"2024-05-22T14:43:56.921Z"}]
+        "_version_":1802141787942289408,
+        "timestamp":"2024-06-17T20:32:17.683Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -149,7 +151,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fuller, Beverly Bozeman",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",1],

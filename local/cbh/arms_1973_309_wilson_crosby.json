@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Wilson Crosby park construction notebook"],
         "unitid_ssm":["1973.309"],
         "abstract_ssm":["One bound book used by engineer Wilson Crosby in planning inlet basins, manholes, and walls for the construction of a park in Brooklyn referred to by Crosby as \"Brooklyn Park.\""],
+        "creator_ssm":["Crosby, Wilson",
+          "Crosby, Wilson"],
         "unitdate_normal_ssm":["1868/1876"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Notebooks"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1876"],
         "unitdate_ssm":["Inclusive, 1868-1876"],
         "language_ssm":["English"],
-        "_version_":1799312377238257664,
-        "timestamp":"2024-05-17T15:00:01.364Z"}]
+        "_version_":1801960226132328448,
+        "timestamp":"2024-06-15T20:26:26.848Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Crosby, Wilson",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

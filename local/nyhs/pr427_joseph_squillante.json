@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":18,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Joseph Squillante photographs"],
         "unitid_ssm":["PR 427"],
         "abstract_ssm":["The collection holds eight photographs taken by Joseph Squillante. These photographs appeared in New-York Historical Society's 2019 exhibition \"Hudson Rising,\" which reflected \"on how human activity has impacted the river and, in turn, how the river environment has shaped industrial development, commerce, tourism, and environmental awareness.\""],
+        "creator_ssm":["Squillante, Joseph, 1949-",
+          "Squillante, Joseph, 1949-"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Photographs."],
         "geogname_ssm":["Hudson River (N.Y. and N.J.)"],
@@ -61,8 +63,8 @@
         "material_type_ssm":["Photographs."],
         "heading_ssm":["Joseph Squillante photographs"],
         "unitdate_ssm":["Inclusive, 1993-2015"],
-        "_version_":1799331087755771904,
-        "timestamp":"2024-05-17T19:57:25.104Z"},
+        "_version_":1802094710775349248,
+        "timestamp":"2024-06-17T08:04:01.398Z"},
       {
         "id":"pr427_joseph_squillanteaspace_4328b74c705da9cf4f96633f49a3c652",
         "ead_ssi":"pr427_joseph_squillante",
@@ -78,8 +80,8 @@
         "location_ssm":["Folder: FF-1"],
         "heading_ssm":["Photographs from the \"Hudson Rising\" exhibition (2019)"],
         "unitdate_ssm":["Inclusive, 1993-2015"],
-        "_version_":1799331087777792000,
-        "timestamp":"2024-05-17T19:57:25.125Z"}]
+        "_version_":1802094710795272192,
+        "timestamp":"2024-06-17T08:04:01.416Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Squillante, Joseph, 1949-",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":20,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Anthony Jansen (Janszoon) Van Salee deed"],
         "unitid_ssm":["2019.013"],
         "abstract_ssm":["One deed documenting Anthony Jansen (Janszoon) Van Salee's purchase of 100 morgens of land near Coney Island, which was appoved by Director-General Kieft. Anthony Jansen (Janszoon) Van Salee (1607 – 1667), also called Anthony from Salee, Vaes, or Fez, was the first known person of Muslim origin in the Americas."],
+        "creator_ssm":["Stuyvesant, Peter",
+          "Stuyvesant, Peter"],
         "unitdate_normal_ssm":["1643/1643"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Coney Island (New York, N.Y.)"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1643"],
         "unitdate_ssm":["1643"],
         "language_ssm":["Dutch; Flemish"],
-        "_version_":1799312247194910720,
-        "timestamp":"2024-05-17T14:57:57.345Z"}]
+        "_version_":1801958488048402432,
+        "timestamp":"2024-06-15T19:58:49.282Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stuyvesant, Peter",1],
       "date_range_sim":[
         "1601-1700",1],
       "subject_sim":[

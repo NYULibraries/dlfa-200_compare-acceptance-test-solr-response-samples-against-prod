@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["J.W. Huntting copy of records of the First Church of Christ, Southold, Long Island"],
         "unitid_ssm":["1973.182"],
         "abstract_ssm":["One bound volume containing a handwritten copy of the records of the First Church of Christ in Southold, Long Island, for the period 1694 to 1853.  The copy was created by J.W. Huntting in 1858."],
+        "creator_ssm":["Huntting, J. W.",
+          "Huntting, J. W."],
         "unitdate_normal_ssm":["1694/1853"],
         "corpname_ssm":["Brooklyn Historical Society",
           "First Church of Christ (Southold, N.Y.)"],
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1853"],
         "unitdate_ssm":["Inclusive, 1694-1853"],
         "language_ssm":["English"],
-        "_version_":1799256312084692992,
-        "timestamp":"2024-05-17T00:08:53.467Z"}]
+        "_version_":1801960042267672576,
+        "timestamp":"2024-06-15T20:23:31.501Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Huntting, J. W.",1],
       "date_range_sim":[
         "1601-1700",1,
         "1801-1900",1],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Brooklyn Bicentennial Commission medals"],
         "unitid_ssm":["2011.024"],
         "abstract_ssm":["Two medals issued to commemorate the 1976 United States bicentennial. Both medals were designed by Alfred Görig, and produced by the Brooklyn Bicentennial Commission in 1976. One medal depicts the Battle of Long Island (also known as the Battle of Brooklyn), while the other honors the Wallabout Bay prison ship martyrs."],
+        "creator_ssm":["Brooklyn Bicentennial Commission (New York, N.Y.)",
+          "Görig, Alfred",
+          "Brooklyn Bicentennial Commission (New York, N.Y.)",
+          "Görig, Alfred"],
         "unitdate_normal_ssm":["1976/1976"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Bicentennial Commission (New York, N.Y.)",
@@ -77,8 +81,8 @@
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1976"],
         "language_ssm":["English"],
-        "_version_":1799312251002290176,
-        "timestamp":"2024-05-17T14:58:00.976Z"}]
+        "_version_":1801964143819882496,
+        "timestamp":"2024-06-15T21:28:43.046Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +90,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Bicentennial Commission (New York, N.Y.)",1,
+        "Görig, Alfred",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

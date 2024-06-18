@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John F. Kennedy assassination teletypes"],
         "unitid_ssm":["AHMC - Kennedy Assassination Teletypes"],
         "abstract_ssm":["The collection primarily includes about 85 teletype print-outs (also referred to as telexes) headed as bulletins or urgent that were received at the Newark Evening News on November 22, 1963, regarding the assassination of U.S. President John F. Kennedy on that day in Dallas, Texas. Sources include the Associated Press (The AP) and United Press International (UPI) among others. The collection also includes a few of the sheets of ink paper used to print the teletypes and a few preliminary Evening News articles, including one written by staff correspondent William May.\n \nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: John F. Kennedy assassination teletypes"],
+        "creator_ssm":["Newark Evening News (Newark, N.J.)",
+          "Newark Evening News (Newark, N.J.)"],
         "corpname_ssm":["New-York Historical Society",
           "Newark Evening News (Newark, N.J.)"],
         "collection_ssm":["John F. Kennedy assassination teletypes"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["John F. Kennedy assassination teletypes"],
         "unitdate_ssm":["Inclusive, 1963 November 22"],
-        "_version_":1799318537181855744,
-        "timestamp":"2024-05-17T16:37:55.943Z"}]
+        "_version_":1802083814546079744,
+        "timestamp":"2024-06-17T05:10:49.944Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Newark Evening News (Newark, N.J.)",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

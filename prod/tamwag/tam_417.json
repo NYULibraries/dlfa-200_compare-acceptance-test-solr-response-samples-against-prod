@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["National Security Archive Petition on Julius and Ethel Rosenbergs' Grand Jury"],
         "unitid_ssm":["TAM.417"],
+        "creator_ssm":["National Security Archive (U.S.)",
+          "National Security Archive (U.S.)"],
         "unitdate_normal_ssm":["2008/2008"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "National Security Archive (U.S.)"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["2008, undated"],
         "language_ssm":["English"],
-        "_version_":1775222655986696192,
-        "timestamp":"2023-08-25T17:24:12.917Z"}]
+        "_version_":1801253092927209472,
+        "timestamp":"2024-06-08T01:06:52.072Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "National Security Archive (U.S.)",1],
       "date_range_sim":[
         "2001-2100",1],
       "subject_sim":[

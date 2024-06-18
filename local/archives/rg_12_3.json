@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Office of Admissions"],
         "unitid_ssm":["RG.12.3"],
         "abstract_ssm":["This collection contains websites related to undergraduate admissions to attract new students to the university and help adjust them to NYU life."],
+        "creator_ssm":["New York University",
+          "New York University"],
         "unitdate_normal_ssm":["2013/2013"],
         "corpname_ssm":["New York University Archives",
           "New York University"],
@@ -61,8 +63,8 @@
         "unitdate_start_ssm":["2013"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["2013-ongoing"],
-        "_version_":1799253004741771264,
-        "timestamp":"2024-05-16T23:16:19.339Z"},
+        "_version_":1801951454613733376,
+        "timestamp":"2024-06-15T18:07:01.676Z"},
       {
         "id":"rg_12_3aspace_e948be3562d3f839f6a8553fe789fbb2",
         "ead_ssi":"rg_12_3",
@@ -80,8 +82,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["October 2013-ongoing"],
-        "_version_":1799253004763791360,
-        "timestamp":"2024-05-16T23:16:19.359Z"}]
+        "_version_":1801951454635753472,
+        "timestamp":"2024-06-15T18:07:01.697Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +92,8 @@
         "archives",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University",1],
       "date_range_sim":[
         "2001-2100",1,
         "undated & other",1],

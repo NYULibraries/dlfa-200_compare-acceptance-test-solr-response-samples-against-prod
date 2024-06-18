@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,8 +45,7 @@
       {
         "author_ssm":["Rachel Searcy"],
         "unittitle_ssm":["Printing Blocks for <em>What is Mathematics</em>"],
-        "unitid_ssm":["MC.389",
-          "/repositories/6/resources/3469"],
+        "unitid_ssm":["MC.389"],
         "abstract_ssm":["Richard Courant (1988-1972) was a mathematician and one of the founders of the Courant Institute of Mathematical Sciences at New York University. In 1941, Courant and Hebert Robbins published What is Mathematics?, an introductory book for students and the wider public. The content of the book was largely based on Courant's course materials. This collection consists of 10 printing blocks from the book What is Mathematics: An Elementary Approach to Ideas and Methods, as well as one copy of the book."],
         "unitdate_normal_ssm":["1936/1946"],
         "corpname_ssm":["New York University Archives",
@@ -67,15 +66,15 @@
         "unitdate_start_ssm":["1936"],
         "unitdate_end_ssm":["1946"],
         "unitdate_ssm":["Inclusive, circa 1941"],
-        "_version_":1799253398083600384,
-        "timestamp":"2024-05-16T23:22:34.459Z"},
+        "_version_":1801950291296256000,
+        "timestamp":"2024-06-15T17:48:32.25Z"},
       {
         "id":"mc_389aspace_65d2b6412a6961f9ca7bd95e443decab",
         "ead_ssi":"mc_389",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Printing Blocks for What is Mathematics"],
-        "collection_unitid_ssm":["MC.389/repositories/6/resources/3469"],
+        "collection_unitid_ssm":["MC.389"],
         "unittitle_ssm":["Printing Blocks and Copy of Book"],
         "unitid_ssm":["/repositories/6/archival_objects/981214"],
         "unitdate_normal_ssm":["1941/1941"],
@@ -88,8 +87,8 @@
         "unitdate_start_ssm":["1941"],
         "unitdate_end_ssm":["1941"],
         "unitdate_ssm":["circa 1941"],
-        "_version_":1799253398102474752,
-        "timestamp":"2024-05-16T23:22:34.477Z"}]
+        "_version_":1801950291320373248,
+        "timestamp":"2024-06-15T17:48:32.273Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

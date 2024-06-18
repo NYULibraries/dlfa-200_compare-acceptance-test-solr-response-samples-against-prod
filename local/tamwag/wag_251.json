@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,8 +45,9 @@
       {
         "author_ssm":["Tamiment Staff"],
         "unittitle_ssm":["International Alliance of Theatrical Stage Employees, Local 52 Records"],
-        "unitid_ssm":["WAG.251",
-          "/repositories/2/resources/1503"],
+        "unitid_ssm":["WAG.251"],
+        "creator_ssm":["International Alliance of Theatrical Stage Employees and Moving Picture Machine Operators of the United States and Canada. Local 52 (New York, N.Y.)",
+          "International Alliance of Theatrical Stage Employees and Moving Picture Machine Operators of the United States and Canada. Local 52 (New York, N.Y.)"],
         "unitdate_normal_ssm":["1966/1990"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "International Alliance of Theatrical Stage Employees and Moving Picture Machine Operators of the United States and Canada. Local 52 (New York, N.Y.)"],
@@ -63,15 +64,15 @@
         "unitdate_start_ssm":["1966"],
         "unitdate_end_ssm":["1990"],
         "unitdate_ssm":["Inclusive, 1966-1990"],
-        "_version_":1799803412506738688,
-        "timestamp":"2024-05-23T01:04:49.088Z"},
+        "_version_":1802196119834329088,
+        "timestamp":"2024-06-18T10:55:52.613Z"},
       {
         "id":"wag_251aspace_ref3",
         "ead_ssi":"wag_251",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["International Alliance of Theatrical Stage Employees, Local 52 Records"],
-        "collection_unitid_ssm":["WAG.251/repositories/2/resources/1503"],
+        "collection_unitid_ssm":["WAG.251"],
         "unittitle_ssm":["Archived Website"],
         "unitid_ssm":["/repositories/2/archival_objects/360612"],
         "dao_ssm":["International Alliance of Theatrical and Stage Employees, Local 52"],
@@ -81,8 +82,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["Feb 8, 2009-ongoing"],
-        "_version_":1799803412519321600,
-        "timestamp":"2024-05-23T01:04:49.1Z"}]
+        "_version_":1802196119843766272,
+        "timestamp":"2024-06-18T10:55:52.622Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +92,8 @@
         "tamwag",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "International Alliance of Theatrical Stage Employees and Moving Picture Machine Operators of the United States and Canada. Local 52 (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",1],

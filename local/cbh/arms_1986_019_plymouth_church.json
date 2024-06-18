@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Plymouth Church publications and ephemera"],
         "unitid_ssm":["1986.019"],
         "abstract_ssm":["Brooklyn's Plymouth Church was founded in the Congregational tradition in 1847 in the neighborhood of Brooklyn Heights.  Its first pastor, the charismatic orator Henry Ward Beecher (1813-1887), quickly catapulted the Church to a position of national prominence, where it remained throughout the 19th century.  Plymouth Church united with the Church of the Pilgrims in 1934 to form the Plymouth Church of the Pilgrims.  The Plymouth Church publications and ephemera span the period 1850 to 1963 and document the Church's administration and activities before and after its consolidation with the Church of the Pilgrims.  Items include annual reports, manuals, membership lists, pamphlets, periodicals, minutes, programs, brochures, circulars, and clippings."],
+        "creator_ssm":["Church of the Pilgrims (Brooklyn, New York, N.Y.)",
+          "Plymouth Church of the Pilgrims (Brooklyn, New York, N.Y.)",
+          "Abbott, Lyman",
+          "Plymouth Church (Brooklyn, New York, N.Y.)",
+          "Clinton Avenue Congregational Church (Brooklyn, New York, N.Y.)",
+          "Church of the Pilgrims (Brooklyn, New York, N.Y.)",
+          "Plymouth Church of the Pilgrims (Brooklyn, New York, N.Y.)",
+          "Plymouth Church (Brooklyn, New York, N.Y.)",
+          "Clinton Avenue Congregational Church (Brooklyn, New York, N.Y.)",
+          "Abbott, Lyman"],
         "unitdate_normal_ssm":["1850/1963"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Church of the Pilgrims (Brooklyn, New York, N.Y.)",
@@ -97,8 +107,8 @@
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, 1850-1963"],
         "language_ssm":["English"],
-        "_version_":1799311477930196992,
-        "timestamp":"2024-05-17T14:45:43.716Z"}]
+        "_version_":1801963219790594048,
+        "timestamp":"2024-06-15T21:14:01.822Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -106,7 +116,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Abbott, Lyman",1,
+        "Church of the Pilgrims (Brooklyn, New York, N.Y.)",1,
+        "Clinton Avenue Congregational Church (Brooklyn, New York, N.Y.)",1,
+        "Plymouth Church (Brooklyn, New York, N.Y.)",1,
+        "Plymouth Church of the Pilgrims (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

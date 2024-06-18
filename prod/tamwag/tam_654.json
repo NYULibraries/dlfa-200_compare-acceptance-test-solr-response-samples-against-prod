@@ -47,6 +47,10 @@
         "unittitle_ssm":["Connie Kopelov and Phyllis Siegel Marriage Equality Papers"],
         "unitid_ssm":["TAM.654"],
         "abstract_ssm":["Connie Kopelov (1926- ), a pioneer in both labor and women's education and history, held positions in various labor and labor-related organizations including the Amalgamated Clothing Workers of America, later the Amalgamated Clothing and Textile Workers Union, the Workers Defense League and the New York Labor History Association. In 2011, she and her partner, Phyllis Siegel (1934- ), became the first same sex couple to be legally married in New York City's Borough of  Manhattan.  The collection consists of documents and newspaper clippings related to their marriage and wedding."],
+        "creator_ssm":["Kopelov, Connie",
+          "Siegel, Phyllis",
+          "Kopelov, Connie",
+          "Siegel, Phyllis"],
         "unitdate_normal_ssm":["2011/2012"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Kopelov, Connie",
@@ -62,8 +66,8 @@
         "unitdate_start_ssm":["2011"],
         "unitdate_end_ssm":["2012"],
         "unitdate_ssm":["Inclusive, 2011-2012"],
-        "_version_":1775219860513488896,
-        "timestamp":"2023-08-25T16:39:46.946Z"}]
+        "_version_":1801280257219624960,
+        "timestamp":"2024-06-08T08:18:37.96Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -71,7 +75,9 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kopelov, Connie",1,
+        "Siegel, Phyllis",1],
       "date_range_sim":[
         "2001-2100",1],
       "subject_sim":[

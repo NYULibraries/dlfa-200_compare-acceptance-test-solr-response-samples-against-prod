@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Harold Melnick Papers"],
         "unitid_ssm":["WAG.079"],
+        "creator_ssm":["Melnick, Harold",
+          "Melnick, Harold"],
         "unitdate_normal_ssm":["1961/1991"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Melnick, Harold"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, circa 1970s-1980s"],
         "language_ssm":["English"],
-        "_version_":1799800016910417920,
-        "timestamp":"2024-05-23T00:10:50.795Z"}]
+        "_version_":1802192374227533824,
+        "timestamp":"2024-06-18T09:56:20.524Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -68,7 +70,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Melnick, Harold",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

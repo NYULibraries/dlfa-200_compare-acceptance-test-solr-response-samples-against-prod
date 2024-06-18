@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,14 @@
         "unittitle_ssm":["Storm and Kolyer families papers and photographs"],
         "unitid_ssm":["ARC.083"],
         "abstract_ssm":["The Storm and Kolyer families papers and photographs span the years 1835 to 1918. Included in the collection are genealogical notes, land indentures, a bond, a marriage certificate, a jury duty summons, a wedding invitation, a church dismission for David Storms, correspondence pertaining to genealogy, a receipt for the purchase of fabric, a Kings County Supreme Court announcement for the auctioning of land in the Town of New Lots in Brooklyn, a baptism certificate, news clippings of obituaries relating to the Storm and Kolyer families, and photographs."],
+        "creator_ssm":["Storm, David",
+          "Kolyer family",
+          "Storm family",
+          "Kolyer, Melva",
+          "Kolyer family",
+          "Storm family",
+          "Storm, David",
+          "Kolyer, Melva"],
         "unitdate_normal_ssm":["1835/1918"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Kolyer family",
@@ -97,8 +105,8 @@
         "unitdate_end_ssm":["1918"],
         "unitdate_ssm":["Inclusive, 1835-1918"],
         "language_ssm":["English"],
-        "_version_":1799312229270552576,
-        "timestamp":"2024-05-17T14:57:40.251Z"},
+        "_version_":1801958928293036032,
+        "timestamp":"2024-06-15T20:05:49.132Z"},
       {
         "id":"arc_083_storm_kolyeraspace_ref1_36w",
         "ead_ssi":"arc_083_storm_kolyer",
@@ -117,8 +125,8 @@
         "unitdate_end_ssm":["1918"],
         "unitdate_ssm":["Inclusive, 1835-1918"],
         "language_ssm":["English"],
-        "_version_":1799312229289426944,
-        "timestamp":"2024-05-17T14:57:40.269Z"},
+        "_version_":1801958928317153280,
+        "timestamp":"2024-06-15T20:05:49.155Z"},
       {
         "id":"arc_083_storm_kolyeraspace_ref3_k6g",
         "ead_ssi":"arc_083_storm_kolyer",
@@ -134,8 +142,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series 2: Storm and Kolyer families photographs"],
         "unitdate_ssm":["circa 1850s to 1900"],
-        "_version_":1799312229305155584,
-        "timestamp":"2024-05-17T14:57:40.284Z"}]
+        "_version_":1801958928334979072,
+        "timestamp":"2024-06-15T20:05:49.172Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -143,7 +151,11 @@
       "repository_sim":[
         "cbh",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kolyer family",1,
+        "Kolyer, Melva",1,
+        "Storm family",1,
+        "Storm, David",1],
       "date_range_sim":[
         "1801-1900",2,
         "1901-2000",2,

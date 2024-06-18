@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["J.R. and Orrin Dayton papers"],
         "unitid_ssm":["ARC.240"],
         "abstract_ssm":["This collection consists of receipts of J.R. and Orrin Dayton for various financial transactions relating to personal and business matters.  J.R.'s business receipts are for his company, Dayton & Waldo, Cotton Brokers."],
+        "creator_ssm":["Dayton, J. R.",
+          "Dayton, Orrin",
+          "Dayton, J. R.",
+          "Dayton, Orrin"],
         "unitdate_normal_ssm":["1867/1902"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Dayton & Waldo (New York, N.Y.)"],
@@ -77,8 +81,8 @@
         "unitdate_end_ssm":["1902"],
         "unitdate_ssm":["Inclusive, 1867-1902"],
         "language_ssm":["English"],
-        "_version_":1799311428602036224,
-        "timestamp":"2024-05-17T14:44:56.673Z"}]
+        "_version_":1801959537588043776,
+        "timestamp":"2024-06-15T20:15:30.201Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +90,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Dayton, J. R.",1,
+        "Dayton, Orrin",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

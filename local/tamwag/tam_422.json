@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":18,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "author_ssm":["Tamiment staff"],
         "unittitle_ssm":["Tuli Kupferberg Radical Humor Collection"],
         "unitid_ssm":["TAM.422"],
+        "creator_ssm":["Kupferberg, Tuli",
+          "Kupferberg, Tuli"],
         "unitdate_normal_ssm":["1920/2010"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Fugs (Musical group)"],
@@ -77,8 +79,8 @@
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, circa 1920s-2000s"],
         "language_ssm":["English"],
-        "_version_":1799791027655016448,
-        "timestamp":"2024-05-22T21:47:57.973Z"}]
+        "_version_":1802183013611601920,
+        "timestamp":"2024-06-18T07:27:33.545Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kupferberg, Tuli",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1],

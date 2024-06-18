@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":17,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Social Revolution and Socialist Review Periodicals"],
         "unitid_ssm":["TAM.659"],
         "abstract_ssm":["Socialist Revolution (changed to Socialist Review) was a left wing periodical established in San Francisco in 1970 as a voice for socialist discourse. The magazine addressed issues surrounding feminism, gender and sexuality, international affairs, social justice, political and economic systems, cultural theory, and postmodern critical theory. The collection is comprised of thirty-two issues of Socialist Revolution from March 1970 through February 1980, not inclusive. Prevelant themes covered by the collection center on issues of socialist discourse, including feminism, Chicano politics, the anti-nucelear movement, Marxism, and Eurocommunism."],
+        "creator_ssm":["Socialist Review",
+          "Socialist Review"],
         "unitdate_normal_ssm":["1970/1981"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Socialist Review"],
@@ -76,8 +78,8 @@
         "unitdate_start_ssm":["1970"],
         "unitdate_end_ssm":["1981"],
         "unitdate_ssm":["Inclusive, 1970-1981"],
-        "_version_":1799791903040864256,
-        "timestamp":"2024-05-22T22:01:52.806Z"}]
+        "_version_":1802183934902009856,
+        "timestamp":"2024-06-18T07:42:12.156Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Socialist Review",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

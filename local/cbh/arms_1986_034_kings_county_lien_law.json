@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Kings County lien law"],
         "unitid_ssm":["1986.034"],
         "abstract_ssm":["A booklet containing a Kings County lien law passed on June 8, 1853. The law permitted building contractors to place a lien on the owner's building an/or materials or land on which the contractors worked."],
+        "creator_ssm":["Kings County (N.Y.)",
+          "Kings County (N.Y.)"],
         "unitdate_normal_ssm":["1853/1853"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Kings County (N.Y.)"],
@@ -65,8 +67,8 @@
         "unitdate_end_ssm":["1853"],
         "unitdate_ssm":["Inclusive, 1853"],
         "language_ssm":["English"],
-        "_version_":1799256330403315712,
-        "timestamp":"2024-05-17T00:09:10.937Z"}]
+        "_version_":1801963274444472320,
+        "timestamp":"2024-06-15T21:14:53.945Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -74,7 +76,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kings County (N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

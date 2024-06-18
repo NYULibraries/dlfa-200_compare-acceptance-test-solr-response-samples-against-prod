@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Louis Sherry Archive"],
         "unitid_ssm":["MSS.266"],
         "abstract_ssm":["Louis Sherry was a noted \"society caterer\" in New York City during the late nineteenth and early twentieth century. This collection is comprised of ledgers recording the menus for the dinners and events Sherry or Louis Sherry, Inc. catered between 1891 and 1930."],
+        "creator_ssm":["Sherry, Louis",
+          "Sherry, Louis"],
         "unitdate_normal_ssm":["1891/1930"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Ledgers (account books)"],
@@ -68,8 +70,8 @@
         "unitdate_start_ssm":["1891"],
         "unitdate_end_ssm":["1930"],
         "unitdate_ssm":["Inclusive, 1891-1930"],
-        "_version_":1799735138630762496,
-        "timestamp":"2024-05-22T06:59:38.046Z"},
+        "_version_":1802064990185717760,
+        "timestamp":"2024-06-17T00:11:37.635Z"},
       {
         "id":"mss_266aspace_ref1",
         "ead_ssi":"mss_266",
@@ -88,8 +90,8 @@
         "location_ssm":["album: 1"],
         "heading_ssm":["Ledger "],
         "unitdate_ssm":["1891"],
-        "_version_":1799735138716745728,
-        "timestamp":"2024-05-22T06:59:38.128Z"},
+        "_version_":1802064990220320768,
+        "timestamp":"2024-06-17T00:11:37.668Z"},
       {
         "id":"mss_266aspace_ref15",
         "ead_ssi":"mss_266",
@@ -103,8 +105,8 @@
         "repository_ssm":["fales"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I: Ledgers"],
-        "_version_":1799735138684239872,
-        "timestamp":"2024-05-22T06:59:38.097Z"},
+        "_version_":1802064990202494976,
+        "timestamp":"2024-06-17T00:11:37.651Z"},
       {
         "id":"mss_266aspace_ref2",
         "ead_ssi":"mss_266",
@@ -123,8 +125,8 @@
         "location_ssm":["album: 2"],
         "heading_ssm":["Ledger "],
         "unitdate_ssm":["1898 - 99"],
-        "_version_":1799735138742960128,
-        "timestamp":"2024-05-22T06:59:38.153Z"},
+        "_version_":1802064990242340864,
+        "timestamp":"2024-06-17T00:11:37.688Z"},
       {
         "id":"mss_266aspace_ref5",
         "ead_ssi":"mss_266",
@@ -143,8 +145,8 @@
         "location_ssm":["album: 3"],
         "heading_ssm":["Ledger "],
         "unitdate_ssm":["1904"],
-        "_version_":1799735138782806016,
-        "timestamp":"2024-05-22T06:59:38.191Z"},
+        "_version_":1802064990267506688,
+        "timestamp":"2024-06-17T00:11:37.712Z"},
       {
         "id":"mss_266aspace_ref6",
         "ead_ssi":"mss_266",
@@ -163,8 +165,8 @@
         "location_ssm":["album: 4"],
         "heading_ssm":["Ledger "],
         "unitdate_ssm":["1911-12"],
-        "_version_":1799735138816360448,
-        "timestamp":"2024-05-22T06:59:38.222Z"},
+        "_version_":1802064990313644032,
+        "timestamp":"2024-06-17T00:11:37.757Z"},
       {
         "id":"mss_266aspace_ref7",
         "ead_ssi":"mss_266",
@@ -183,8 +185,8 @@
         "location_ssm":["album: 5"],
         "heading_ssm":["Ledger "],
         "unitdate_ssm":["1929-30"],
-        "_version_":1799735138849914880,
-        "timestamp":"2024-05-22T06:59:38.255Z"}]
+        "_version_":1802064990345101312,
+        "timestamp":"2024-06-17T00:11:37.787Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -192,7 +194,8 @@
       "repository_sim":[
         "fales",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sherry, Louis",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

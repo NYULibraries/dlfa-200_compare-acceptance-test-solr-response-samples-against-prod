@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Jarrod Anderson Drawings"],
         "unitid_ssm":["MSS.474"],
         "abstract_ssm":["Jarrod Anderson is an artist/illustrator. He graduated from Ringling School of Art and Design in 2003. Anderson was the illustrator for The Weaklings (2008), written by Dennis Cooper. He has also exhibited his artwork in various galleries. Anderson's collection consists of nine very fine line graphite drawings, with a similar look to etching. Works were executed in 2006, 2007, and some undated. Subjects consist of human figures, everyday objects, and vignettes."],
+        "creator_ssm":["Anderson, Jarrod",
+          "Anderson, Jarrod"],
         "unitdate_normal_ssm":["2006/2007"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Drawings",
@@ -66,8 +68,8 @@
         "unitdate_start_ssm":["2006"],
         "unitdate_end_ssm":["2007"],
         "unitdate_ssm":["Inclusive, 2006-2007"],
-        "_version_":1799740855837261824,
-        "timestamp":"2024-05-22T08:30:30.398Z"}]
+        "_version_":1802072907758698496,
+        "timestamp":"2024-06-17T02:17:28.421Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "fales",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Anderson, Jarrod",1],
       "date_range_sim":[
         "2001-2100",1],
       "subject_sim":[

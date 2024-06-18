@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":2,
+    "QTime":14,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Rotary Club of Brooklyn publications"],
         "unitid_ssm":["ARC.143"],
         "abstract_ssm":["The Rotary Club of Brooklyn publications span the years 1919 to 1977 and measure 1.04 linear feet. The publications detail activities of the club, members, officers, and the club's financial data. Items in the collection include the club's newsletter, treasurer's reports and budgets, officer and committee lists, annual yearbooks, and member rosters. The collection also contains a directory for all Long Island Rotary Clubs, listing the officers and contact information of each district club, and , a monthly newsletter for all Rotary Clubs on Long Island."],
+        "creator_ssm":["Rotary Club of Brooklyn (Brooklyn, New York, N.Y.)",
+          "Rotary Club of Brooklyn (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1919/1977"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Rotary Club of Brooklyn (Brooklyn, New York, N.Y.)",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1919-1977"],
         "language_ssm":["English"],
-        "_version_":1799256180386693120,
-        "timestamp":"2024-05-17T00:06:47.87Z"}]
+        "_version_":1801959177788063744,
+        "timestamp":"2024-06-15T20:09:47.069Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rotary Club of Brooklyn (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":23,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Norma Aronson Papers"],
         "unitid_ssm":["WAG.220"],
         "abstract_ssm":["Norma Aronson served as president of United Office and Professional Workers of America (UOPWA), Local 16 (Greater New York Branch). Established in 1929, UOPWA organized white-collar workers and was particularly active during the World War II era, but was eventually merged with two other unions in 1950 to form the Distributive, Processing, and Office Workers of America (DPOWA). Aronson continued her union leadership as president of Local 14 of the DPOWA (part of District 65, New York and New Jersey). The collection contains materials related to the UOPWA and DPOWA and various labor and political issues and events."],
+        "creator_ssm":["Aronson, Norma",
+          "Aronson, Norma"],
         "unitdate_normal_ssm":["1942/1984",
           "1942/1959"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1984",
           "1959"],
         "unitdate_ssm":["Inclusive, 1942-1984 ; 1942-1959"],
-        "_version_":1799802565882281984,
-        "timestamp":"2024-05-23T00:51:21.684Z"}]
+        "_version_":1802195608382996480,
+        "timestamp":"2024-06-18T10:47:44.855Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Aronson, Norma",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

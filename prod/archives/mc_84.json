@@ -63,8 +63,8 @@
         "unitdate_start_ssm":["1944"],
         "unitdate_end_ssm":["1944"],
         "unitdate_ssm":["1944"],
-        "_version_":1775226370647916544,
-        "timestamp":"2023-08-25T18:23:15.494Z"},
+        "_version_":1800527466872176640,
+        "timestamp":"2024-05-31T00:53:21.14Z"},
       {
         "id":"mc_84aspace_7e5d7245f89a84bd8716a52c463fc4e5",
         "ead_ssi":"mc_84",
@@ -77,12 +77,11 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 031, Folder: 7",
-          "Folder: 7"],
+        "location_ssm":["Box: Shared University Archives 031, Folder: 7"],
         "heading_ssm":["Alumni and students in World War II (undergraduates in services)"],
         "unitdate_ssm":["undated"],
-        "_version_":1775226370721316864,
-        "timestamp":"2023-08-25T18:23:15.563Z"},
+        "_version_":1800527466908876800,
+        "timestamp":"2024-05-31T00:53:21.175Z"},
       {
         "id":"mc_84aspace_d51cfe3ab66bc4cbcbd0b789f656dd4c",
         "ead_ssi":"mc_84",
@@ -96,12 +95,11 @@
         "repository_ssi":"archives",
         "repository_ssm":["archives"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: Shared University Archives 031, Folder: 6",
-          "Folder: 6"],
+        "location_ssm":["Box: Shared University Archives 031, Folder: 6"],
         "heading_ssm":["Alumni and students in World War II"],
         "unitdate_ssm":["1944-08"],
-        "_version_":1775226370685665280,
-        "timestamp":"2023-08-25T18:23:15.53Z"}]
+        "_version_":1800527466886856704,
+        "timestamp":"2024-05-31T00:53:21.153Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

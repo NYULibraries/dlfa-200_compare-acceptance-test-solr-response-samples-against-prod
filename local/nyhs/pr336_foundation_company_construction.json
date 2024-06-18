@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Foundation Company construction photographs"],
         "unitid_ssm":["PR 336"],
         "abstract_ssm":["Five mounted photographs documenting building construction projects of the Foundation Company, headquartered at 115 Broadway, New York, N.Y."],
+        "creator_ssm":["Chicago Architectural Photo Company",
+          "Chicago Architectural Photo Company"],
         "corpname_ssm":["New-York Historical Society",
           "Chicago Architectural Photo Company",
           "Foundation Company",
@@ -61,8 +63,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Foundation Company construction photographs"],
         "unitdate_ssm":["Inclusive, 1906–1911"],
-        "_version_":1799330349963018240,
-        "timestamp":"2024-05-17T19:45:41.49Z"},
+        "_version_":1802094233561071616,
+        "timestamp":"2024-06-17T07:56:26.291Z"},
       {
         "id":"pr336_foundation_company_constructionaspace_ref11_he1",
         "ead_ssi":"pr336_foundation_company_construction",
@@ -78,8 +80,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Trinity Building (111 Broadway, New York, N.Y.)"],
         "unitdate_ssm":["1906 August 11"],
-        "_version_":1799330349986086912,
-        "timestamp":"2024-05-17T19:45:41.512Z"},
+        "_version_":1802094233582043136,
+        "timestamp":"2024-06-17T07:56:26.311Z"},
       {
         "id":"pr336_foundation_company_constructionaspace_ref12_2hq",
         "ead_ssi":"pr336_foundation_company_construction",
@@ -95,8 +97,8 @@
         "location_ssm":["Folder: 2"],
         "heading_ssm":["unidentified"],
         "unitdate_ssm":["1909 January 9"],
-        "_version_":1799330350000766976,
-        "timestamp":"2024-05-17T19:45:41.526Z"},
+        "_version_":1802094233598820352,
+        "timestamp":"2024-06-17T07:56:26.327Z"},
       {
         "id":"pr336_foundation_company_constructionaspace_ref14_5g9",
         "ead_ssi":"pr336_foundation_company_construction",
@@ -112,8 +114,8 @@
         "location_ssm":["Folder: 3"],
         "heading_ssm":["unidentified"],
         "unitdate_ssm":["[1909]"],
-        "_version_":1799330350021738496,
-        "timestamp":"2024-05-17T19:45:41.546Z"},
+        "_version_":1802094233613500416,
+        "timestamp":"2024-06-17T07:56:26.341Z"},
       {
         "id":"pr336_foundation_company_constructionaspace_ref15_wob",
         "ead_ssi":"pr336_foundation_company_construction",
@@ -129,8 +131,8 @@
         "location_ssm":["Folder: 4"],
         "heading_ssm":["Woolworth Building (233 Broadway, New York, N.Y.) engine room"],
         "unitdate_ssm":["1911 May 6"],
-        "_version_":1799330350039564288,
-        "timestamp":"2024-05-17T19:45:41.563Z"},
+        "_version_":1802094233637617664,
+        "timestamp":"2024-06-17T07:56:26.364Z"},
       {
         "id":"pr336_foundation_company_constructionaspace_ref17_wxo",
         "ead_ssi":"pr336_foundation_company_construction",
@@ -146,8 +148,8 @@
         "location_ssm":["Folder: 5"],
         "heading_ssm":["unidentified"],
         "unitdate_ssm":["undated"],
-        "_version_":1799330350059487232,
-        "timestamp":"2024-05-17T19:45:41.581Z"}]
+        "_version_":1802094233655443456,
+        "timestamp":"2024-06-17T07:56:26.381Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -155,7 +157,8 @@
       "repository_sim":[
         "nyhs",6],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chicago Architectural Photo Company",1],
       "date_range_sim":[
         "undated & other",6],
       "subject_sim":[],

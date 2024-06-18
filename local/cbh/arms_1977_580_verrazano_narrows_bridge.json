@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York State Assembly act regarding the naming of the Verrazano-Narrows Bridge"],
         "unitid_ssm":["1977.580"],
         "abstract_ssm":["Photocopy of an act issued by the State of New York in Assembly to amend the highway law to provide that the Narrows Bridge be designated and known as the Verrazano-Narrows Bridge. Dated February 8, 1960."],
+        "creator_ssm":["New York (State). Legislature. Assembly",
+          "New York (State). Legislature. Assembly"],
         "unitdate_normal_ssm":["1960/1960"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Legislature. Assembly"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1960"],
         "unitdate_ssm":["1960"],
         "language_ssm":["English"],
-        "_version_":1799311513965559808,
-        "timestamp":"2024-05-17T14:46:18.083Z"}]
+        "_version_":1801961996132810752,
+        "timestamp":"2024-06-15T20:54:34.852Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (State). Legislature. Assembly",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York and Brooklyn Cab Company prospectus"],
         "unitid_ssm":["1986.011"],
         "abstract_ssm":["A prospectus for the New York and Brooklyn Cab Company proposing expansion of operations into Brooklyn and utilize the same leasing method used in New York, dated 1885. Included in the prospectus is a description of the carriages used by the company. The New York and Brooklyn Cab Company began operating in Manhattan in 1884 and claimed a profit in its first year of business."],
+        "creator_ssm":["New York and Brooklyn Cab Company",
+          "New York and Brooklyn Cab Company"],
         "unitdate_normal_ssm":["1885/1885"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York and Brooklyn Cab Company"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1885"],
         "unitdate_ssm":["Inclusive, 1885"],
         "language_ssm":["English"],
-        "_version_":1799256280116756480,
-        "timestamp":"2024-05-17T00:08:22.98Z"}]
+        "_version_":1801963194052247552,
+        "timestamp":"2024-06-15T21:13:37.277Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York and Brooklyn Cab Company",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

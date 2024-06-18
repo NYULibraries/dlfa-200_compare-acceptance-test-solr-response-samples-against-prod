@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["BQE Magazine collection"],
         "unitid_ssm":["ARC.180"],
         "abstract_ssm":["This collection contains several monthly issues of from the years 1988 and 1989, occurring in chronological order and housed in one manuscript box. 1988 issues are from January, May, July/August, October, and November, while 1989 issues are from February, March, July/August, September, and October. Issues dating from July/August 1989 forward feature the title on their cover pages."],
+        "creator_ssm":["BQE Magazine (New York, N.Y.)",
+          "BQE Magazine (New York, N.Y.)"],
         "unitdate_normal_ssm":["1988/1989"],
         "corpname_ssm":["Brooklyn Historical Society",
           "BQE Magazine (New York, N.Y.)"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1988-1989"],
         "language_ssm":["English"],
-        "_version_":1799256202565124096,
-        "timestamp":"2024-05-17T00:07:09.021Z"}]
+        "_version_":1801959308147032064,
+        "timestamp":"2024-06-15T20:11:51.389Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "BQE Magazine (New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Hilda Bell Roberts Papers"],
         "unitid_ssm":["ALBA.197"],
         "abstract_ssm":["Hilda Bell Roberts was born Hilda Bell in Philadelphia in 1915. A trained nurse, Bell went to Spain in 1937 where she worked in several hospitals and a mobile unit. She returned to the States in December 1938. The collection consists of (a portion of?) a scrapbook compiled in a Murcia hospital and a short story based on an incident from her experience in Spain."],
+        "creator_ssm":["Roberts, Hilda Bell",
+          "Roberts, Hilda Bell"],
         "unitdate_normal_ssm":["1937/1952"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Spain. Ejército Popular de la República. Abraham Lincoln Battalion",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, 1937; 1952"],
         "language_ssm":["English"],
-        "_version_":1799748006207029248,
-        "timestamp":"2024-05-22T10:24:09.523Z"},
+        "_version_":1802111293465821184,
+        "timestamp":"2024-06-17T12:27:35.884Z"},
       {
         "id":"alba_197aspace_ref14",
         "ead_ssi":"alba_197",
@@ -92,8 +94,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I: Spanish Civil War Materials"],
         "language_ssm":["English"],
-        "_version_":1799748006220660736,
-        "timestamp":"2024-05-22T10:24:09.536Z"},
+        "_version_":1802111293486792704,
+        "timestamp":"2024-06-17T12:27:35.903Z"},
       {
         "id":"alba_197aspace_ref15",
         "ead_ssi":"alba_197",
@@ -110,14 +112,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Scrapbook: \"Cada Activista un Heroes; Cada Soldado un Activista\""],
         "unitdate_start_ssm":["1937"],
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Inclusive, [1937]"],
-        "_version_":1799748006255263744,
-        "timestamp":"2024-05-22T10:24:09.569Z"},
+        "_version_":1802111293527687168,
+        "timestamp":"2024-06-17T12:27:35.943Z"},
       {
         "id":"alba_197aspace_ref16",
         "ead_ssi":"alba_197",
@@ -134,14 +135,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["\"Brightest Room\" (photocopy of a typescript of a Spanish Civil War short story, headed \"Hilda Bell Kirk, English 111, August 16, 1952)"],
         "unitdate_start_ssm":["1952"],
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, 1952"],
-        "_version_":1799748006235340800,
-        "timestamp":"2024-05-22T10:24:09.55Z"}]
+        "_version_":1802111293503569920,
+        "timestamp":"2024-06-17T12:27:35.919Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -149,7 +149,8 @@
       "repository_sim":[
         "tamwag",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Roberts, Hilda Bell",1],
       "date_range_sim":[
         "1901-2000",3,
         "undated & other",1],

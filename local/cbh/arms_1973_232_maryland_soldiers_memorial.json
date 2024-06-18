@@ -47,6 +47,8 @@
         "unittitle_ssm":["Battle of Long Island, Maryland soldiers memorial collection"],
         "unitid_ssm":["1973.232"],
         "abstract_ssm":["This collection consists of material spanning the period 1869 to 1957 and relating to the commemoration of the 250 Maryland soldiers who were killed defending the retreat of the Continental Army during the Battle of Long Island."],
+        "creator_ssm":["Wildhack, Henry, Jr.",
+          "Wildhack, Henry, Jr."],
         "unitdate_normal_ssm":["1869/1957"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Continental Army. Maryland Regiment, 1st (1777-1780)"],
@@ -70,8 +72,8 @@
         "unitdate_end_ssm":["1957"],
         "unitdate_ssm":["Inclusive, 1869-1957"],
         "language_ssm":["English"],
-        "_version_":1799256290214543360,
-        "timestamp":"2024-05-17T00:08:32.61Z"}]
+        "_version_":1801960116647362560,
+        "timestamp":"2024-06-15T20:24:42.435Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +81,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wildhack, Henry, Jr.",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

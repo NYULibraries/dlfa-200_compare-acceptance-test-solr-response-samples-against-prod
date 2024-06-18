@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":11,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Robert Gruenwald Papers"],
         "unitid_ssm":["TAM.687"],
         "abstract_ssm":["The Robert Gruenwald Papers (dates 1953-1986) consist of flyers, bulletins, periodicals, and pamphlets related to Gruenwald's involvement in labor organizing and leftist politics. Robert Gruenwald was a labor organizer and activist in leftist student politics in New York City in the 1970s and 1980s. The bulk of the collection relates to his membership in the American Postal Workers Union and the New York Metro Area Postal Workers' Union, and consists of flyers, bulletins, newspaper clippings, and mailings about union elections. The collection also contains copies periodicals inlcuding issues of The American Postal Worker (1974-1986), Union Mail (1978-1985), The Worker for the New York-New Jersey Area (1973-1978), Revolution (Revolutionary Union, 1973), and The Red Papers (1969-1972). Pamphlets relate to a variety of topics on workers and civil rights, student activism, China, the Vietnam War, and organizations on the political left."],
+        "creator_ssm":["Gruenwald, Robert",
+          "Gruenwald, Robert"],
         "unitdate_normal_ssm":["1953/1986"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Revolutionary Communist Party, USA",
@@ -65,8 +67,8 @@
         "unitdate_start_ssm":["1953"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1953-1986"],
-        "_version_":1775219842085814272,
-        "timestamp":"2023-08-25T16:39:29.371Z"},
+        "_version_":1801284351093112832,
+        "timestamp":"2024-06-08T09:23:42.182Z"},
       {
         "id":"tam_687aspace_ref12",
         "ead_ssi":"tam_687",
@@ -85,8 +87,8 @@
         "unitdate_start_ssm":["1978"],
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1978-1986"],
-        "_version_":1775219842124611584,
-        "timestamp":"2023-08-25T16:39:29.409Z"},
+        "_version_":1801284351129812992,
+        "timestamp":"2024-06-08T09:23:42.217Z"},
       {
         "id":"tam_687aspace_ref13",
         "ead_ssi":"tam_687",
@@ -105,8 +107,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1973-1978"],
-        "_version_":1775219842161311744,
-        "timestamp":"2023-08-25T16:39:29.444Z"},
+        "_version_":1801284351161270272,
+        "timestamp":"2024-06-08T09:23:42.247Z"},
       {
         "id":"tam_687aspace_ref14",
         "ead_ssi":"tam_687",
@@ -125,8 +127,8 @@
         "unitdate_start_ssm":["1973"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1973-1977"],
-        "_version_":1775219842196963328,
-        "timestamp":"2023-08-25T16:39:29.478Z"},
+        "_version_":1801284351182241792,
+        "timestamp":"2024-06-08T09:23:42.267Z"},
       {
         "id":"tam_687aspace_ref15",
         "ead_ssi":"tam_687",
@@ -146,8 +148,8 @@
         "unitdate_start_ssm":["1969"],
         "unitdate_end_ssm":["1974"],
         "unitdate_ssm":["Inclusive, 1969-1974"],
-        "_version_":1775219842241003520,
-        "timestamp":"2023-08-25T16:39:29.519Z"},
+        "_version_":1801284351207407616,
+        "timestamp":"2024-06-08T09:23:42.291Z"},
       {
         "id":"tam_687aspace_ref16",
         "ead_ssi":"tam_687",
@@ -166,8 +168,8 @@
         "unitdate_start_ssm":["1953"],
         "unitdate_end_ssm":["1978"],
         "unitdate_ssm":["Inclusive, 1953-1978"],
-        "_version_":1775219842280849408,
-        "timestamp":"2023-08-25T16:39:29.558Z"},
+        "_version_":1801284351238864896,
+        "timestamp":"2024-06-08T09:23:42.321Z"},
       {
         "id":"tam_687aspace_ref17",
         "ead_ssi":"tam_687",
@@ -186,8 +188,8 @@
         "unitdate_start_ssm":["1976"],
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["1976"],
-        "_version_":1775219842324889600,
-        "timestamp":"2023-08-25T16:39:29.6Z"}]
+        "_version_":1801284351259836416,
+        "timestamp":"2024-06-08T09:23:42.341Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -195,7 +197,8 @@
       "repository_sim":[
         "tamwag",7],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gruenwald, Robert",1],
       "date_range_sim":[
         "1901-2000",7],
       "subject_sim":[

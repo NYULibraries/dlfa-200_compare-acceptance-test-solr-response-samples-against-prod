@@ -47,6 +47,8 @@
         "unittitle_ssm":["H. Randolph Lever papers"],
         "unitid_ssm":["1974.102"],
         "abstract_ssm":["H. Randolph Lever papers, dated 1963. The papers consist of Lever's last will and testament, as well as a newspaper clipping announcing the marriage of John Howard Lever to Mary Eliza Backus. H. Randolph Lever was a wealthy resident of Brooklyn who bequeathed multiple items from his estate to the Brooklyn Institute of Arts and Sciences, and the Long Island Historical Society (later the Brooklyn Historical Society)."],
+        "creator_ssm":["Lever, H. Randolph",
+          "Lever, H. Randolph"],
         "unitdate_normal_ssm":["1963/1963"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Institute of Arts and Sciences",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, 1963"],
         "language_ssm":["English"],
-        "_version_":1799311558145212416,
-        "timestamp":"2024-05-17T14:47:00.216Z"}]
+        "_version_":1801960316670574592,
+        "timestamp":"2024-06-15T20:27:53.192Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lever, H. Randolph",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

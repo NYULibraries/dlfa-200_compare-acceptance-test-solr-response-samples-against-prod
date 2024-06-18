@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Benson Lossing letter to Robert C. Winthrop"],
         "unitid_ssm":["AHMC - Lossing, Benson - Winthrop"],
         "abstract_ssm":["One autograph letter signed (ALS) by historian Benson J. Lossing to Robert C. Winthrop. One leaf, writing on one side. Lossing writes from The Ridge at Dover Plains, NY. Lossing opens by saying he has asked H.J. Johnson, publisher of Lossing's \"Our Country,\" to send \"the lacking numbers beyond 40\" to Winthrop. Lossing then thanks Winthrop for sending him a copy of Winthrop's \"Memoir of Henry Clay.\" Lossing notes that he had been unaware thar Clay was a communicant of the Protestant Episcopal Church in America, as was Lossing. The date of the letter is unclear. It appears to be 1889, but that may be related to use of a stylized \"9\"; 1880 seems more likely as the year of the exchange of the referenced books. "],
+        "creator_ssm":["Lossing, Benson John, 1813-1891",
+          "Lossing, Benson John, 1813-1891"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Lossing, Benson John, 1813-1891"],
         "collection_ssm":["Benson Lossing letter to Robert C. Winthrop"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Benson Lossing letter to Robert C. Winthrop"],
         "unitdate_ssm":["Inclusive, 1880[?] December 20"],
-        "_version_":1799323395500802048,
-        "timestamp":"2024-05-17T17:55:09.198Z"}]
+        "_version_":1802083897974980608,
+        "timestamp":"2024-06-17T05:12:09.508Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Lossing, Benson John, 1813-1891",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

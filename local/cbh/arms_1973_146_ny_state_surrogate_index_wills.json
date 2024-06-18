@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York State Surrogate's Office index of wills"],
         "unitid_ssm":["1973.146"],
         "abstract_ssm":["One volume, dating from circa 1786, containing an index of New York State residents whose wills are held at the New York Surrogate's Office in Albany.  Wills proven within the period 1665 to 1786 are covered by the index.  The volume also includes an alphabetical list of individuals whose wills have been proven within British lines during the Revolutionary War, and an alphabetical list of individuals whose wills have been proven under the new American Constitution from 1778 to 1786.  The inside cover of the volume contains a mailing label indicating that it had been sent from the Surrogate's Office to the County Clerk in Jamaica, Queens County."],
+        "creator_ssm":["New York (State). Surrogate's Office",
+          "New York (State). Surrogate's Office"],
         "unitdate_normal_ssm":["1665/1786"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). Surrogate's Office",
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1786"],
         "unitdate_ssm":["Inclusive, 1665-1786"],
         "language_ssm":["English"],
-        "_version_":1799256469374238720,
-        "timestamp":"2024-05-17T00:11:23.47Z"}]
+        "_version_":1801959999254036480,
+        "timestamp":"2024-06-15T20:22:50.479Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (State). Surrogate's Office",1],
       "date_range_sim":[
         "1601-1700",1,
         "1701-1800",1],

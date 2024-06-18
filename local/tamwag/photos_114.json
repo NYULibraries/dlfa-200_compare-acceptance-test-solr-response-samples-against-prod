@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Nicole Greenhouse"],
         "unittitle_ssm":["John L. Spivak Photographs"],
-        "unitid_ssm":["PHOTOS.114",
-          "/repositories/2/resources/577"],
+        "unitid_ssm":["PHOTOS.114"],
         "abstract_ssm":["John Louis Spivak (1897-1981) was a writer, journalist, and communist, mostly active in the 1920s and 1930s. This collection contains four photographs of Spivak."],
+        "creator_ssm":["Spivak, John L. (John Louis), 1897-1981",
+          "Spivak, John L. (John Louis), 1897-1981"],
         "unitdate_normal_ssm":["1897/1981"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Photographs."],
@@ -65,15 +66,15 @@
         "unitdate_start_ssm":["1897"],
         "unitdate_end_ssm":["1981"],
         "unitdate_ssm":["Inclusive, 1897-1981"],
-        "_version_":1799764510210260992,
-        "timestamp":"2024-05-22T14:46:28.967Z"},
+        "_version_":1802141890312667136,
+        "timestamp":"2024-06-17T20:33:55.311Z"},
       {
         "id":"photos_114aspace_ref15",
         "ead_ssi":"photos_114",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["John L. Spivak Photographs"],
-        "collection_unitid_ssm":["PHOTOS.114/repositories/2/resources/577"],
+        "collection_unitid_ssm":["PHOTOS.114"],
         "unittitle_ssm":["Photographs"],
         "unitid_ssm":["/repositories/2/archival_objects/110502"],
         "ref_ssi":"aspace_ref15",
@@ -84,8 +85,8 @@
           "Flat-File-Folder: 2"],
         "heading_ssm":["Photographs"],
         "unitdate_ssm":["undated"],
-        "_version_":1799764510227038208,
-        "timestamp":"2024-05-22T14:46:28.983Z"}]
+        "_version_":1802141890331541504,
+        "timestamp":"2024-06-17T20:33:55.329Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +94,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Spivak, John L. (John Louis), 1897-1981",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1,

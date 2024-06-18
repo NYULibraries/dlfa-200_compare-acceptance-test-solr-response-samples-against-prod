@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Certification of oath of allegiance taken by Rem Van Pelt"],
         "unitid_ssm":["AHMC - Axtell, William Certification"],
         "abstract_ssm":["Certification by William Axtell that Rem Van Pelt of Kings County, New York, took an oath of allegiance to King George III. Signed at New Utrecht. The certification includes the wording of the loyalty oath taken. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Certification of oath of allegiance taken by Rem Van Pelt"],
+        "creator_ssm":["Axtell, William, 1720-1795",
+          "Axtell, William, 1720-1795"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Axtell, William, 1720-1795"],
         "collection_ssm":["Certification of oath of allegiance taken by Rem Van Pelt"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Certification of oath of allegiance taken by Rem Van Pelt"],
         "unitdate_ssm":["1776 October"],
-        "_version_":1799315815394181120,
-        "timestamp":"2024-05-17T15:54:40.245Z"}]
+        "_version_":1802083818023157760,
+        "timestamp":"2024-06-17T05:10:53.26Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Axtell, William, 1720-1795",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

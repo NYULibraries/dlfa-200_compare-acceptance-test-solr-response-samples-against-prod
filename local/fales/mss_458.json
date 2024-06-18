@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["David Gurin Collection on Jack Smith"],
         "unitid_ssm":["MSS.458"],
         "abstract_ssm":["The David Gurin Collection on Jack Smith contains materials about or created by New York-based actor, experimental filmmaker, photographer, and performance artist Jack Smith (1932-1989). These materials were assembled by his friend David Gurin in the early 1960s and following his death in 1989. Materials include correspondence, clippings, promotional ephemera, and photographs. The collection is of particular importance to researchers interested in the development of Smith's most notable film Flaming Creatures."],
+        "creator_ssm":["Gurin, David",
+          "Smith, Jack, 1932-1989",
+          "Gurin, David",
+          "Smith, Jack, 1932-1989"],
         "unitdate_normal_ssm":["1961/1991"],
         "corpname_ssm":["Fales Library and Special Collections"],
         "genreform_ssm":["Color photographs.",
@@ -76,8 +80,8 @@
         "unitdate_start_ssm":["1961"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1961-1991"],
-        "_version_":1799740806678970368,
-        "timestamp":"2024-05-22T08:29:43.517Z"},
+        "_version_":1802072814459551744,
+        "timestamp":"2024-06-17T02:15:59.444Z"},
       {
         "id":"mss_458aspace_383c7cb4f81e8f0f572e4ea9fc0b9e01",
         "ead_ssi":"mss_458",
@@ -91,14 +95,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 1, Folder: 4"],
         "heading_ssm":["Photographs and Slides"],
         "unitdate_start_ssm":["1961"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, circa 1961-1962, 1965"],
-        "_version_":1799740806740836352,
-        "timestamp":"2024-05-22T08:29:43.577Z"},
+        "_version_":1802072814562312192,
+        "timestamp":"2024-06-17T02:15:59.542Z"},
       {
         "id":"mss_458aspace_6ac3bf47f039982a2dd49cf49a0e9ac1",
         "ead_ssi":"mss_458",
@@ -112,14 +115,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Letters"],
         "unitdate_start_ssm":["1962"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, circa 1962-1965"],
-        "_version_":1799740806693650432,
-        "timestamp":"2024-05-22T08:29:43.532Z"},
+        "_version_":1802072814481571840,
+        "timestamp":"2024-06-17T02:15:59.465Z"},
       {
         "id":"mss_458aspace_75ee63036204e68d0a395ff7a4082936",
         "ead_ssi":"mss_458",
@@ -133,14 +135,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Clippings"],
         "unitdate_start_ssm":["1963"],
         "unitdate_end_ssm":["1991"],
         "unitdate_ssm":["Inclusive, 1963-1964, 1972, 1989-1991, undated"],
-        "_version_":1799740806727204864,
-        "timestamp":"2024-05-22T08:29:43.563Z"},
+        "_version_":1802072814540292096,
+        "timestamp":"2024-06-17T02:15:59.521Z"},
       {
         "id":"mss_458aspace_c5ef7097d3ff5c7633dc204c1514dc76",
         "ead_ssi":"mss_458",
@@ -154,14 +155,13 @@
         "repository_ssi":"fales",
         "repository_ssm":["fales"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Ephemera and Memorial Invitation"],
         "unitdate_start_ssm":["1963"],
         "unitdate_end_ssm":["1989"],
         "unitdate_ssm":["Inclusive, 1963-1965, 1974-1977, 1989, undated"],
-        "_version_":1799740806707281920,
-        "timestamp":"2024-05-22T08:29:43.545Z"}]
+        "_version_":1802072814506737664,
+        "timestamp":"2024-06-17T02:15:59.489Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -169,7 +169,9 @@
       "repository_sim":[
         "fales",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Gurin, David",1,
+        "Smith, Jack, 1932-1989",1],
       "date_range_sim":[
         "1901-2000",5],
       "subject_sim":[

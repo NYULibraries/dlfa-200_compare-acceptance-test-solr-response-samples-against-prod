@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["William M. Flanagan World War I photographs"],
         "unitid_ssm":["PR 346"],
         "abstract_ssm":["A small collection of black-and-white photographs documenting the military service of Corporal William M. Flanagan with Company F, 102nd Supply Train, 27th Infantry Division, U.S. National Guard, during World War I."],
+        "creator_ssm":["Flanagan, William M., 1896-",
+          "Flanagan, William M., 1896-"],
         "corpname_ssm":["New-York Historical Society",
           "United States. Army"],
         "genreform_ssm":["Photographs.",
@@ -65,8 +67,8 @@
         "heading_ssm":["William M. Flanagan World War I photographs"],
         "unitdate_ssm":["Inclusive, 1917-1919"],
         "language_ssm":["English"],
-        "_version_":1801483497307635712,
-        "timestamp":"2024-06-10T14:09:02.812Z"},
+        "_version_":1801064460269387776,
+        "timestamp":"2024-06-05T23:08:37.951Z"},
       {
         "id":"pr346_flanaganaspace_ref21_qmo",
         "ead_ssi":"pr346_flanagan",
@@ -82,8 +84,8 @@
         "location_ssm":["Folder: 1 of 1"],
         "heading_ssm":["William M. Flanagan World War I photographs, etc."],
         "unitdate_ssm":["1917-1919"],
-        "_version_":1801483497323364352,
-        "timestamp":"2024-06-10T14:09:02.827Z"}]
+        "_version_":1801064460291407872,
+        "timestamp":"2024-06-05T23:08:37.972Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Flanagan, William M., 1896-",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Sonia Sotomayor and Lois M. Ziegler correspondence"],
         "unitid_ssm":["AHMC - Sotomayor-Ziegler"],
         "abstract_ssm":["An exchange of letters between Supreme Court Justice Sonia Sotomayor and Lois M. Ziegler in her capacity as Chair of the Scholarship Committee of the Finch College Alumnae Association Foundation Trust. In her letter to Sotomayor of June 12, 2013, Ziegler summarizes the scholarships that her foundation offers to young women in New York City and raises the possibility of Sotomayor addressing the scholarship recipients and donors some time. In her letter to Ziegler of June 19, 2013, Sotomayor regretfully declines, noting the impossibility of accepting the many invitations she receives; she sends along a message for the students with advice regarding perseverance and strength of character in facing adversity. Sotomayor's response is on Supreme Court letterhead and the related envelope is included. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Sonia Sotomayor and Lois M. Ziegler correspondence"],
+        "creator_ssm":["Sotomayor, Sonia, 1954-",
+          "Sotomayor, Sonia, 1954-"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Sotomayor, Sonia, 1954-"],
         "collection_ssm":["Sonia Sotomayor and Lois M. Ziegler correspondence"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Sonia Sotomayor and Lois M. Ziegler correspondence"],
         "unitdate_ssm":["Inclusive, 2013 June"],
         "language_ssm":["English"],
-        "_version_":1799317296289677312,
-        "timestamp":"2024-05-17T16:18:12.537Z"}]
+        "_version_":1802083807206047744,
+        "timestamp":"2024-06-17T05:10:42.944Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Sotomayor, Sonia, 1954-",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

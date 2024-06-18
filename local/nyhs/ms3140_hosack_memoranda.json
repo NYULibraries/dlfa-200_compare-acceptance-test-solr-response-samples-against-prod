@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["David Hosack \"private memoranda\""],
         "unitid_ssm":["BV Hosack, David, memoranda"],
         "abstract_ssm":["\"Private memoranda\" or memoir of the ancestry, life, education, and work of physician and botanist David Hosack (1769–1835). For further details about this item, and to request it for research, please read its catalog record, or write to reference@nyhistory.org."],
+        "creator_ssm":["Hosack, David, 1769-1835",
+          "Hosack, David, 1769-1835"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Hosack, David, 1769-1835"],
         "collection_ssm":["David Hosack \"private memoranda\""],
@@ -58,8 +60,8 @@
         "heading_ssm":["David Hosack \"private memoranda\""],
         "unitdate_ssm":["Inclusive, [1833]"],
         "language_ssm":["English"],
-        "_version_":1799324345797967872,
-        "timestamp":"2024-05-17T18:10:15.472Z"}]
+        "_version_":1802085492625244160,
+        "timestamp":"2024-06-17T05:37:30.285Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hosack, David, 1769-1835",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

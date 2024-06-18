@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn Chess Club visitor's book"],
         "unitid_ssm":["1973.301"],
         "abstract_ssm":["Visitor's book for the Brooklyn Chess Club, dated 1886 to 1928.  The book consists of a single hardbound volume with handwritten entries that record the first and last names of visitors to the club, as well as each visitor's hometown or address."],
+        "creator_ssm":["Brooklyn Chess Club",
+          "Brooklyn Chess Club"],
         "unitdate_normal_ssm":["1886/1928"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Chess Club",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1928"],
         "unitdate_ssm":["Inclusive, 1886-1928"],
         "language_ssm":["English"],
-        "_version_":1799311452904882176,
-        "timestamp":"2024-05-17T14:45:19.851Z"}]
+        "_version_":1801960211552927744,
+        "timestamp":"2024-06-15T20:26:12.944Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Chess Club",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

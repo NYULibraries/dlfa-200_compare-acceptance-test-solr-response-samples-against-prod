@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Andrew Jackson memorial parade collection"],
         "unitid_ssm":["1977.304"],
         "abstract_ssm":["The collection consists of materials that pertain to the planning of a Memorial Parade for United States President Andrew Jackson in Brooklyn in June of 1845."],
+        "creator_ssm":["Brooklyn (New York, N.Y.). Common Council",
+          "Brooklyn (New York, N.Y.). Common Council"],
         "unitdate_normal_ssm":["1845/1845"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn (New York, N.Y.). Common Council"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1845"],
         "unitdate_ssm":["1845"],
         "language_ssm":["English"],
-        "_version_":1799311485843800064,
-        "timestamp":"2024-05-17T14:45:51.264Z"}]
+        "_version_":1801961288911290368,
+        "timestamp":"2024-06-15T20:43:20.393Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn (New York, N.Y.). Common Council",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

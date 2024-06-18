@@ -47,6 +47,8 @@
         "unittitle_ssm":["Kings County Commission for Collecting Evidence of Fraud and Outrages affidavit book"],
         "unitid_ssm":["1977.019"],
         "abstract_ssm":["One bound volume of handwritten affidavits of election fraud in the Kings County election of 1871, compiled by the Kings County Committee for the Collecting of Evidence of Frauds and Outrages."],
+        "creator_ssm":["Kings County (N.Y.). Committee for Collecting Evidence of Frauds and Outrages",
+          "Kings County (N.Y.). Committee for Collecting Evidence of Frauds and Outrages"],
         "unitdate_normal_ssm":["1871/1871"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Kings County (N.Y.). Committee for Collecting Evidence of Frauds and Outrages"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1871"],
         "unitdate_ssm":["1871"],
         "language_ssm":["English"],
-        "_version_":1799311687510130688,
-        "timestamp":"2024-05-17T14:49:03.588Z"}]
+        "_version_":1801960560977248256,
+        "timestamp":"2024-06-15T20:31:46.181Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kings County (N.Y.). Committee for Collecting Evidence of Frauds and Outrages",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

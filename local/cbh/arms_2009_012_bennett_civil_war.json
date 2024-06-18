@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,20 @@
         "unittitle_ssm":["Bennett family collection of Civil War correspondence and other material"],
         "unitid_ssm":["2009.012"],
         "abstract_ssm":["This collection contains twenty-nine letters written by members of the Bennett, Tandy, and Van Winkle families between the years of 1832-1909.  Twenty-two of the letters are written to or by soldiers while they served in the American Civil War.  The content of the letters relates to the lives of Union soldiers regarding naval battles, camp life, and family matters.  Other topics include the secession of the South, Lincoln's candidacy, and family businesses.  Some letters refer to New York's 84th Regiment from Brooklyn, also known as the 14th Militia. Most of the letters were written to or by Winant Bennett while he served for the Union during the Civil War.  Several of the letters are on various forms of letterhead and some envelopes are included. Transcriptions of the letters, though incomplete at points, are available. Also included in the collection is a United States Treasury form, a certificate of membership to the Order of American Firemen for Abram Van Winkle Tandy, and a picture postcard of a bungalow at Laurel, Long Island."],
+        "creator_ssm":["Tandy, Abram Van Winkle",
+          "Tandy family",
+          "Van Winkle, Frank",
+          "Bennett, Harman",
+          "Bennett family",
+          "Bennett, Winant",
+          "Tandy, Catharine M. Bennett",
+          "Tandy family",
+          "Bennett family",
+          "Tandy, Abram Van Winkle",
+          "Van Winkle, Frank",
+          "Bennett, Harman",
+          "Bennett, Winant",
+          "Tandy, Catharine M. Bennett"],
         "unitdate_normal_ssm":["1832/1909"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. Army. New York Infantry Regiment, 84th (1861-1864)"],
@@ -90,8 +104,8 @@
         "unitdate_start_ssm":["1832"],
         "unitdate_end_ssm":["1909"],
         "unitdate_ssm":["Inclusive, 1832-1909"],
-        "_version_":1799311706539687936,
-        "timestamp":"2024-05-17T14:49:21.736Z"}]
+        "_version_":1801964105098067968,
+        "timestamp":"2024-06-15T21:28:06.117Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -99,7 +113,14 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bennett family",1,
+        "Bennett, Harman",1,
+        "Bennett, Winant",1,
+        "Tandy family",1,
+        "Tandy, Abram Van Winkle",1,
+        "Tandy, Catharine M. Bennett",1,
+        "Van Winkle, Frank",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

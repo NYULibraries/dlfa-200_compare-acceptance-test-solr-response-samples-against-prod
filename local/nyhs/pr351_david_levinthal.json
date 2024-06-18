@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":17,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["David Levinthal photographs"],
         "unitid_ssm":["PR 351"],
         "abstract_ssm":["The collection includes 45 color Polaroids taken by photographer David Levinthal of his toy constructions. The collection includes images from four of Levinthal's series: \"Baseball,\" \"Hockey,\" \"Coney Island,\" and \"Wild West.\""],
+        "creator_ssm":["Levinthal, David",
+          "Levinthal, David"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Photographs."],
         "geogname_ssm":["Coney Island (New York, N.Y.)"],
@@ -64,8 +66,8 @@
         "heading_ssm":["David Levinthal photographs"],
         "unitdate_ssm":["Inclusive, 1994-2007"],
         "language_ssm":["English"],
-        "_version_":1799325433285574656,
-        "timestamp":"2024-05-17T18:27:32.581Z"},
+        "_version_":1802094304312688640,
+        "timestamp":"2024-06-17T07:57:33.765Z"},
       {
         "id":"pr351_david_levinthalaspace_ref10_t8i",
         "ead_ssi":"pr351_david_levinthal",
@@ -81,8 +83,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Baseball (23 photographs)"],
         "unitdate_ssm":["1998, 2003-2004"],
-        "_version_":1799325433327517696,
-        "timestamp":"2024-05-17T18:27:32.621Z"},
+        "_version_":1802094304330514432,
+        "timestamp":"2024-06-17T07:57:33.782Z"},
       {
         "id":"pr351_david_levinthalaspace_ref11_j29",
         "ead_ssi":"pr351_david_levinthal",
@@ -98,8 +100,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Hockey (11 photographs)"],
         "unitdate_ssm":["2007"],
-        "_version_":1799325433362120704,
-        "timestamp":"2024-05-17T18:27:32.654Z"},
+        "_version_":1802094304345194496,
+        "timestamp":"2024-06-17T07:57:33.796Z"},
       {
         "id":"pr351_david_levinthalaspace_ref12_m0l",
         "ead_ssi":"pr351_david_levinthal",
@@ -115,8 +117,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Coney Island (6 photographs)"],
         "unitdate_ssm":["2007"],
-        "_version_":1799325433405112320,
-        "timestamp":"2024-05-17T18:27:32.695Z"},
+        "_version_":1802094304360923136,
+        "timestamp":"2024-06-17T07:57:33.811Z"},
       {
         "id":"pr351_david_levinthalaspace_ref13_2ea",
         "ead_ssi":"pr351_david_levinthal",
@@ -132,8 +134,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["Wild West (5 photographs)"],
         "unitdate_ssm":["1994, 1998"],
-        "_version_":1799325433446006784,
-        "timestamp":"2024-05-17T18:27:32.734Z"}]
+        "_version_":1802094304389234688,
+        "timestamp":"2024-06-17T07:57:33.838Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -141,7 +143,8 @@
       "repository_sim":[
         "nyhs",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Levinthal, David",1],
       "date_range_sim":[
         "undated & other",5],
       "subject_sim":[

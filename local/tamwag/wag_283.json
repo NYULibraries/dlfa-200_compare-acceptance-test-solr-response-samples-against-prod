@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Charles Salk (Salkowitz) FBI Files and Correspondence"],
         "unitid_ssm":["WAG.283"],
         "abstract_ssm":["Charles Salk (Salkowitz) was an officer on the New York City Metro Area Postal Workers Union (APWU). This collection contains FBI files on Salk and his correspondence with the FBI and U.S. Representative Lester Wolff concerning those records."],
+        "creator_ssm":["Salk, Charles",
+          "Salk, Charles"],
         "unitdate_normal_ssm":["1948/1979"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "United States. Federal Bureau of Investigation"],
@@ -62,8 +64,8 @@
         "unitdate_start_ssm":["1948"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1948-1979"],
-        "_version_":1799804902334005248,
-        "timestamp":"2024-05-23T01:28:29.897Z"},
+        "_version_":1802197107263668224,
+        "timestamp":"2024-06-18T11:11:34.299Z"},
       {
         "id":"wag_283aspace_ref10",
         "ead_ssi":"wag_283",
@@ -77,14 +79,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 2",
-          "Folder: 2"],
+        "location_ssm":["Box: 1, Folder: 2"],
         "heading_ssm":["Correspondence: Post Office"],
         "unitdate_start_ssm":["1955"],
         "unitdate_end_ssm":["1956"],
         "unitdate_ssm":["Inclusive, 1955-1956"],
-        "_version_":1799804902361268224,
-        "timestamp":"2024-05-23T01:28:29.924Z"},
+        "_version_":1802197107281494016,
+        "timestamp":"2024-06-18T11:11:34.316Z"},
       {
         "id":"wag_283aspace_ref11",
         "ead_ssi":"wag_283",
@@ -98,14 +99,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 3",
-          "Folder: 3"],
+        "location_ssm":["Box: 1, Folder: 3"],
         "heading_ssm":["Correspondence: U.S. Representative Lester Wolff"],
         "unitdate_start_ssm":["1979"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1979"],
-        "_version_":1799804902375948288,
-        "timestamp":"2024-05-23T01:28:29.938Z"},
+        "_version_":1802197107289882624,
+        "timestamp":"2024-06-18T11:11:34.324Z"},
       {
         "id":"wag_283aspace_ref12",
         "ead_ssi":"wag_283",
@@ -119,14 +119,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 4",
-          "Folder: 4"],
+        "location_ssm":["Box: 1, Folder: 4"],
         "heading_ssm":["FBI File on Charles Salkowitz"],
         "unitdate_start_ssm":["1948"],
         "unitdate_end_ssm":["1954"],
         "unitdate_ssm":["Inclusive, 1948-1954"],
-        "_version_":1799804902393774080,
-        "timestamp":"2024-05-23T01:28:29.955Z"},
+        "_version_":1802197107302465536,
+        "timestamp":"2024-06-18T11:11:34.336Z"},
       {
         "id":"wag_283aspace_ref9",
         "ead_ssi":"wag_283",
@@ -140,14 +139,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 1, Folder: 1",
-          "Folder: 1"],
+        "location_ssm":["Box: 1, Folder: 1"],
         "heading_ssm":["Correspondence: Federal Bureau of Investigation"],
         "unitdate_start_ssm":["1978"],
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1978-1979"],
-        "_version_":1799804902348685312,
-        "timestamp":"2024-05-23T01:28:29.912Z"}]
+        "_version_":1802197107273105408,
+        "timestamp":"2024-06-18T11:11:34.308Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -155,7 +153,8 @@
       "repository_sim":[
         "tamwag",5],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Salk, Charles",1],
       "date_range_sim":[
         "1901-2000",5],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,16 @@
         "unittitle_ssm":["Brooklyn charitable organizations for working women collection"],
         "unitid_ssm":["1985.109"],
         "abstract_ssm":["The Brooklyn charitable organizations for working women collection consists of publications documenting women's organizations established in the mid-to-late 19th century, organized and headed by women to aid single working women, working widows and their children, and destitute and disabled women. The collection is mainly comprised of annual reports issued by the organizations. The annual reports are of particular interest as they can include financial information; officer, board, and committee lists; membership lists; year-end reports; and club histories."],
+        "creator_ssm":["Working Women's Vacation Society (Brooklyn, New York, N.Y.)",
+          "Brooklyn Female Employment Society",
+          "Woman's Work Exchange and Employment Society (Brooklyn, New York, N.Y.)",
+          "Woman's Work Exchange and Decorative Art Society (Brooklyn, New York, N.Y.)",
+          "Brooklyn Business Women's Union (Brooklyn, New York, N.Y.)",
+          "Working Women's Vacation Society (Brooklyn, New York, N.Y.)",
+          "Brooklyn Female Employment Society",
+          "Woman's Work Exchange and Employment Society (Brooklyn, New York, N.Y.)",
+          "Woman's Work Exchange and Decorative Art Society (Brooklyn, New York, N.Y.)",
+          "Brooklyn Business Women's Union (Brooklyn, New York, N.Y.)"],
         "unitdate_normal_ssm":["1855/1933"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Working Women's Vacation Society (Brooklyn, New York, N.Y.)",
@@ -82,8 +92,8 @@
         "unitdate_end_ssm":["1933"],
         "unitdate_ssm":["Inclusive, 1855-1933"],
         "language_ssm":["English"],
-        "_version_":1799256506807353344,
-        "timestamp":"2024-05-17T00:11:59.169Z"}]
+        "_version_":1801963141136908288,
+        "timestamp":"2024-06-15T21:12:46.813Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +101,12 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Business Women's Union (Brooklyn, New York, N.Y.)",1,
+        "Brooklyn Female Employment Society",1,
+        "Woman's Work Exchange and Decorative Art Society (Brooklyn, New York, N.Y.)",1,
+        "Woman's Work Exchange and Employment Society (Brooklyn, New York, N.Y.)",1,
+        "Working Women's Vacation Society (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

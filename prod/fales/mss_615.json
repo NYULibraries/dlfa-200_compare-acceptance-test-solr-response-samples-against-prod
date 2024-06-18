@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["New York Feminist Art Institute Archived Websites"],
         "unitid_ssm":["MSS.615"],
         "abstract_ssm":["The New York Feminist Art Institute (NYFAI) was founded 1979 by to create an environment for the training of women in the arts. NYFAI was active as a school from 1979-1990, and the Ceres Gallery exhibited their work. In 1993, the organization ceased operations, but a website was developed documenting the NYFAI oral history project, activities of former members of NYFAI, and events related to feminism and art in New York City."],
+        "creator_ssm":["New York Feminist Art Institute/Women's Center for Learning",
+          "New York Feminist Art Institute/Women's Center for Learning"],
         "unitdate_normal_ssm":["2010-01/2022-01"],
         "corpname_ssm":["Fales Library and Special Collections",
           "New York Feminist Art Institute/Women's Center for Learning",
@@ -71,8 +73,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["New York Feminist Art Institute Archived Websites"],
         "unitdate_ssm":["Inclusive, January 2010-January 2022"],
-        "_version_":1775217882033029120,
-        "timestamp":"2023-08-25T16:08:20.12Z"},
+        "_version_":1800939580735619072,
+        "timestamp":"2024-06-04T14:03:43.546Z"},
       {
         "id":"mss_615aspace_086e56532b9ce1c2d73d3c7c2f60a31c",
         "ead_ssi":"mss_615",
@@ -90,8 +92,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Nancy Azara"],
         "unitdate_ssm":["Inclusive, January 2010-May 2017"],
-        "_version_":1775217882180878336,
-        "timestamp":"2023-08-25T16:08:20.261Z"},
+        "_version_":1800939580789096448,
+        "timestamp":"2024-06-04T14:03:43.598Z"},
       {
         "id":"mss_615aspace_208584f0f5a6ef0a11da1c4cde0649c3",
         "ead_ssi":"mss_615",
@@ -109,8 +111,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["New York Feminist Art Institute"],
         "unitdate_ssm":["Inclusive, January 2010-May 2017"],
-        "_version_":1775217882083360768,
-        "timestamp":"2023-08-25T16:08:20.167Z"},
+        "_version_":1800939580758687744,
+        "timestamp":"2024-06-04T14:03:43.569Z"},
       {
         "id":"mss_615aspace_3d979e8192cfe956615f6586909456ce",
         "ead_ssi":"mss_615",
@@ -128,8 +130,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Judy Chicago"],
         "unitdate_ssm":["Inclusive, January 2010-May 2017"],
-        "_version_":1775217882142081025,
-        "timestamp":"2023-08-25T16:08:20.224Z"},
+        "_version_":1800939580776513536,
+        "timestamp":"2024-06-04T14:03:43.586Z"},
       {
         "id":"mss_615aspace_92ab93d74c1ebe2234eda76a58d0e0be",
         "ead_ssi":"mss_615",
@@ -147,8 +149,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Louise Fishman"],
         "unitdate_ssm":["Inclusive, January 2010-May 2017"],
-        "_version_":1775217882422050816,
-        "timestamp":"2023-08-25T16:08:20.491Z"},
+        "_version_":1800939580880322560,
+        "timestamp":"2024-06-04T14:03:43.685Z"},
       {
         "id":"mss_615aspace_9d6ee0d14deaa86557da57dddbd19087",
         "ead_ssi":"mss_615",
@@ -166,8 +168,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Arlene Raven"],
         "unitdate_ssm":["Inclusive, January 2010-May 2017"],
-        "_version_":1775217882454556672,
-        "timestamp":"2023-08-25T16:08:20.522Z"},
+        "_version_":1800939580893954048,
+        "timestamp":"2024-06-04T14:03:43.698Z"},
       {
         "id":"mss_615aspace_ad488151e8a413d7c6f2356f6da5165a",
         "ead_ssi":"mss_615",
@@ -185,8 +187,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Feminist Art Base"],
         "unitdate_ssm":["Inclusive, May 2017"],
-        "_version_":1775217882290978816,
-        "timestamp":"2023-08-25T16:08:20.366Z"},
+        "_version_":1800939580831039488,
+        "timestamp":"2024-06-04T14:03:43.638Z"},
       {
         "id":"mss_615aspace_b72d08069d6ea8152d3fc3734ccbb91c",
         "ead_ssi":"mss_615",
@@ -204,8 +206,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Faith Ringgold"],
         "unitdate_ssm":["Inclusive, January 2010-January 2022"],
-        "_version_":1775217882255327232,
-        "timestamp":"2023-08-25T16:08:20.332Z"},
+        "_version_":1800939580818456576,
+        "timestamp":"2024-06-04T14:03:43.626Z"},
       {
         "id":"mss_615aspace_b9649484459819b575b2dc1db8d583e0",
         "ead_ssi":"mss_615",
@@ -223,8 +225,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Phyllis Rosser"],
         "unitdate_ssm":["Inclusive, January 2010-May 2017"],
-        "_version_":1775217882348650496,
-        "timestamp":"2023-08-25T16:08:20.421Z"},
+        "_version_":1800939580845719552,
+        "timestamp":"2024-06-04T14:03:43.652Z"},
       {
         "id":"mss_615aspace_be2ce0ca966a06526a3eb6bbc80e9490",
         "ead_ssi":"mss_615",
@@ -242,8 +244,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Joan Roth"],
         "unitdate_ssm":["Inclusive, January 2010-May 2017"],
-        "_version_":1775217882389544960,
-        "timestamp":"2023-08-25T16:08:20.46Z"},
+        "_version_":1800939580864593920,
+        "timestamp":"2024-06-04T14:03:43.67Z"},
       {
         "id":"mss_615aspace_d4def9dc07f215dc6007850476be35eb",
         "ead_ssi":"mss_615",
@@ -261,8 +263,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Darla Bjork"],
         "unitdate_ssm":["Inclusive, January 2010-May 2017"],
-        "_version_":1775217882218627072,
-        "timestamp":"2023-08-25T16:08:20.297Z"},
+        "_version_":1800939580805873664,
+        "timestamp":"2024-06-04T14:03:43.614Z"},
       {
         "id":"mss_615aspace_d9a0e2eae3802b3102bba52c16e4d819",
         "ead_ssi":"mss_615",
@@ -280,8 +282,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Kate Millet"],
         "unitdate_ssm":["Inclusive, January 2010-July 2011"],
-        "_version_":1775217882489159680,
-        "timestamp":"2023-08-25T16:08:20.555Z"}]
+        "_version_":1800939580907585536,
+        "timestamp":"2024-06-04T14:03:43.711Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -290,7 +292,8 @@
         "fales",12],
       "dao_sim":[
         "Translation missing: en.ead_indexer.fields.dao",12],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York Feminist Art Institute/Women's Center for Learning",1],
       "date_range_sim":[
         "undated & other",12],
       "subject_sim":[

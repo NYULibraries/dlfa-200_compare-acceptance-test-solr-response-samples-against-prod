@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Newbold Morris 1962 storm response papers"],
         "unitid_ssm":["1978.001"],
         "abstract_ssm":["The Newbold Morris 1962 storm response papers document New York City and State official response to a severe late winter storm in 1962 that caused considerable damage to property along the Long Island shorefront."],
+        "creator_ssm":["Morris, Newbold",
+          "Morris, Newbold"],
         "unitdate_normal_ssm":["1962/1962"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Legislative acts",
@@ -76,8 +78,8 @@
         "unitdate_end_ssm":["1962"],
         "unitdate_ssm":["1962"],
         "language_ssm":["English"],
-        "_version_":1799312398318829568,
-        "timestamp":"2024-05-17T15:00:21.468Z"}]
+        "_version_":1801962201515294720,
+        "timestamp":"2024-06-15T20:57:50.719Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -85,7 +87,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Morris, Newbold",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":9,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Dancers of the Northern Pueblos collection"],
         "unitid_ssm":["PR 442"],
         "abstract_ssm":["The collection holds two documents by photographer David Michael Kennedy. The principal document is Kennedy's portfolio of eight palladium prints, \"Dancers of the Northern Pueblos.\" The second document is a promotional booklet written by Kennedy, circa 2011, for his two American Indian dance portfolios, titled \"Dance Portfolios by David Michael Kennedy: Eight Northern Pueblos and the Lakota.\""],
+        "creator_ssm":["Kennedy, David Michael (photographer)",
+          "Cloud Eagle, 1961-2011",
+          "Kennedy, David Michael (photographer)",
+          "Cloud Eagle, 1961-2011"],
         "corpname_ssm":["New-York Historical Society"],
         "genreform_ssm":["Palladium prints.",
           "Portfolios (groups of works)"],
@@ -64,8 +68,8 @@
           "Portfolios (groups of works)"],
         "heading_ssm":["Dancers of the Northern Pueblos collection"],
         "unitdate_ssm":["Inclusive, 1994, 2011"],
-        "_version_":1799323397841223680,
-        "timestamp":"2024-05-17T17:55:11.43Z"},
+        "_version_":1802094794367827968,
+        "timestamp":"2024-06-17T08:05:21.118Z"},
       {
         "id":"pr442_dancers_pueblosaspace_876240ae95994a8b966ec54909709337",
         "ead_ssi":"pr442_dancers_pueblos",
@@ -81,8 +85,8 @@
         "location_ssm":["Box: 1"],
         "heading_ssm":["\"Dancers of the Northern Pueblos\" portfolio and related booklet"],
         "unitdate_ssm":["Inclusive, 1994, 2011"],
-        "_version_":1799323397861146624,
-        "timestamp":"2024-05-17T17:55:11.449Z"}]
+        "_version_":1802094794387750912,
+        "timestamp":"2024-06-17T08:05:21.137Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -90,7 +94,9 @@
       "repository_sim":[
         "nyhs",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Cloud Eagle, 1961-2011",1,
+        "Kennedy, David Michael (photographer)",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

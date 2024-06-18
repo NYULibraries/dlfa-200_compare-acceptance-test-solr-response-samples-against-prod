@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Marilyn Albert Papers on Local 1199"],
         "unitid_ssm":["TAM.558"],
         "abstract_ssm":["Marilyn Albert, RN, was, from 1974-2003, a member, shop steward, and staff organizer in Local 1199, which represents hospital and health care workers in New York City. She was an active participant in the Save Our Union Movement in Local 1199 during the 1980s that challenged the administration of president Doris Turner. The Save Our Union movement was composed of progressive union activists, including Communists, who held that the Turner administration had abandoned the radical politics, militant stance on labor issues, and inter-racial/ethnic solidarity that many felt had often been in evidence under the leadership of Local 1199's founding president, Leon Davis, and that Turner's administration had also stifled dissent within the union. After the 1989 election of Dennis Rivera as president of Local 1199, Albert became a staff organizer. This unprocessed collection documents the struggle within Local 1199 (then part of the RWDSU, e.g., the Retail, Wholesale and Department Store Union), and Albert's role therein, as well as subsequent activity through the years in which 1199 first became the National Union of Hospital and Nursing Home Employees, Local 1199 Drug & Hospital Union (New York, N.Y.), and in 1998, Service Employees International Union. Local 1199 (New York, N.Y.). The collection contains correspondence, memorandums, reports, circulars, and other various internal documents; fliers, leaflets, clippings, pamphlets and other printed ephemera. There is also one audiocassette, containing a 1984 interview conducted by Dennis Rivera with David White, an 1199 officer who charged that fraud had altered the outcome of the Local's 1984 elections."],
+        "creator_ssm":["Albert, Marilyn",
+          "Albert, Marilyn"],
         "unitdate_normal_ssm":["1980/2000"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Retail, Wholesale, and Department Store Union. Local 1199 Drug, Hospital, and Health Care Employees Union (New York, N.Y.)",
@@ -85,8 +87,8 @@
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, circa 1980-2000"],
         "language_ssm":["English"],
-        "_version_":1799791483034796032,
-        "timestamp":"2024-05-22T21:55:12.257Z"},
+        "_version_":1802183492503601152,
+        "timestamp":"2024-06-18T07:35:10.252Z"},
       {
         "id":"tam_558aspace_8c279e9a5ec96b4df819c13dca091fd9",
         "ead_ssi":"tam_558",
@@ -101,8 +103,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: Shared Tamiment 023"],
         "heading_ssm":["Parade Banner"],
-        "_version_":1799791483048427520,
-        "timestamp":"2024-05-22T21:55:12.27Z"},
+        "_version_":1802183492514086912,
+        "timestamp":"2024-06-18T07:35:10.262Z"},
       {
         "id":"tam_558aspace_9110cd43a0d2a3fcb00949be8da464c3",
         "ead_ssi":"tam_558",
@@ -119,8 +121,8 @@
           "Box: 2",
           "Box: 3"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1799791483062059008,
-        "timestamp":"2024-05-22T21:55:12.283Z"}]
+        "_version_":1802183492523524096,
+        "timestamp":"2024-06-18T07:35:10.271Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -128,7 +130,8 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Albert, Marilyn",1],
       "date_range_sim":[
         "1901-2000",1,
         "undated & other",2],

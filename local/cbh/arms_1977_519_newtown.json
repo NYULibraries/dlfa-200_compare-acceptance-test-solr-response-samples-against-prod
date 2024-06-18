@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":2,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Newtown, Queens County public road bond"],
         "unitid_ssm":["1977.519"],
         "abstract_ssm":["The collection consists of an 1869 bond issued by the Town of Newtown in Queens County for the construction and maintenance of a public road.  The bond is dated December 1, 1869."],
+        "creator_ssm":["Newtown (Queens County, N.Y.)",
+          "Newtown (Queens County, N.Y.)"],
         "unitdate_normal_ssm":["1869/1869"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Newtown (Queens County, N.Y.)"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1869"],
         "unitdate_ssm":["1869"],
         "language_ssm":["English"],
-        "_version_":1799256506250559488,
-        "timestamp":"2024-05-17T00:11:58.638Z"}]
+        "_version_":1801961869212123136,
+        "timestamp":"2024-06-15T20:52:33.811Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Newtown (Queens County, N.Y.)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

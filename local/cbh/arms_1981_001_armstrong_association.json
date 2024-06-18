@@ -47,6 +47,10 @@
         "unittitle_ssm":["Brooklyn Armstrong Association and Brooklyn Hampton Association records"],
         "unitid_ssm":["1981.001"],
         "abstract_ssm":["The Brooklyn Armstrong Association was formed in 1906, renamed the Brooklyn Hampton Association in 1920, and disbanded in 1943. The Association was formed principally as a vehicle for Brooklynites to support the Hampton Normal and Agricultural Institute and to engage with matters of African-American \"uplift.\" The collection includes material from throughout the life of the organization, including: a scrapbook of clippings about events and meetings, solicitations, meeting invitations, announcements, reports, membership lists, Hampton Institute publications, and the like; some annual reports; minute books for the Executive Committee and Annual meetings; and correspondence, mostly from 1943 concerning the final days of the organization."],
+        "creator_ssm":["Brooklyn Hampton Association (Brooklyn, New York, N.Y.)",
+          "Brooklyn Armstrong Association",
+          "Brooklyn Hampton Association (Brooklyn, New York, N.Y.)",
+          "Brooklyn Armstrong Association"],
         "unitdate_normal_ssm":["1906/1943"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Hampton Association (Brooklyn, New York, N.Y.)",
@@ -80,8 +84,8 @@
         "unitdate_start_ssm":["1906"],
         "unitdate_end_ssm":["1943"],
         "unitdate_ssm":["Inclusive, 1906-1943"],
-        "_version_":1799312377829654528,
-        "timestamp":"2024-05-17T15:00:01.927Z"}]
+        "_version_":1801962852847714304,
+        "timestamp":"2024-06-15T21:08:11.878Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +93,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn Armstrong Association",1,
+        "Brooklyn Hampton Association (Brooklyn, New York, N.Y.)",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

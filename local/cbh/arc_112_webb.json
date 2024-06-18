@@ -47,6 +47,14 @@
         "unittitle_ssm":["Gregory B. Webb collection"],
         "unitid_ssm":["ARC.112"],
         "abstract_ssm":["Gregory Burkitt Webb (1878-1948) was an architect who lived in Brooklyn, N.Y. with his wife, Clarine Matson Webb.  After spending the early part of his career designing banks, theaters, and hotels in various South American cities, Webb became an established designer of mausoleums and abbeys in and around the New York City area, including Cypress Hills Abbey and Memorial Abbey at Brooklyn's Cypress Hills Cemetery, Ferncliff Mausoleum at Ferncliff Cemetery in Hartsdale, N.Y., and Holy Cross Cloister at Brooklyn's Cemetery of the Holy Cross.  In addition to his professional accomplishments, Webb was also a collector of political cartoons.  The Gregory B. Webb collection spans the period 1898 to 1967 and contains materials documenting Webb's architectural career and the various projects on which he worked.  These items include blueprints, floor plans, and other technical drawings; photographs and engravings; correspondence; agreements; news clippings; brochures; programs; and advertisements.  The collection also contains a substantial assortment of political cartoons portraying, and often criticizing, the Spanish-American War, President Theodore Roosevelt, and President Franklin Delano Roosevelt's New Deal politics.  Personal items of Webb's wife, Clarine Matson Webb, and Clarine's friend, the artist Isabel Hawxhurst Hall, are also included in the collection."],
+        "creator_ssm":["Kirby, Henry P.",
+          "Hall, Isabel Hawxhurst",
+          "Webb, Clarine Matson",
+          "Webb, Gregory B. (Gregory Burkitt)",
+          "Kirby, Henry P.",
+          "Hall, Isabel Hawxhurst",
+          "Webb, Clarine Matson",
+          "Webb, Gregory B. (Gregory Burkitt)"],
         "unitdate_normal_ssm":["1898/1967"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Adelphi Academy (Brooklyn, New York, N.Y.)",
@@ -151,8 +159,8 @@
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, 1898-1967"],
         "language_ssm":["English"],
-        "_version_":1799311441787879424,
-        "timestamp":"2024-05-17T14:45:09.249Z"},
+        "_version_":1801959057570922496,
+        "timestamp":"2024-06-15T20:07:52.421Z"},
       {
         "id":"arc_112_webbaspace_ref11_z50",
         "ead_ssi":"arc_112_webb",
@@ -170,8 +178,8 @@
         "unitdate_start_ssm":["1922"],
         "unitdate_end_ssm":["1967"],
         "unitdate_ssm":["Inclusive, 1922-1967"],
-        "_version_":1799311441814093824,
-        "timestamp":"2024-05-17T14:45:09.274Z"},
+        "_version_":1801959057599234048,
+        "timestamp":"2024-06-15T20:07:52.448Z"},
       {
         "id":"arc_112_webbaspace_ref13_hjs",
         "ead_ssi":"arc_112_webb",
@@ -189,8 +197,8 @@
         "unitdate_start_ssm":["1898"],
         "unitdate_end_ssm":["1938"],
         "unitdate_ssm":["Inclusive, 1898-1938"],
-        "_version_":1799311441846599680,
-        "timestamp":"2024-05-17T14:45:09.305Z"},
+        "_version_":1801959057636982784,
+        "timestamp":"2024-06-15T20:07:52.484Z"},
       {
         "id":"arc_112_webbaspace_ref18_hx7",
         "ead_ssi":"arc_112_webb",
@@ -208,8 +216,8 @@
         "unitdate_start_ssm":["1909"],
         "unitdate_end_ssm":["1963"],
         "unitdate_ssm":["Inclusive, 1909-1963"],
-        "_version_":1799311441830871040,
-        "timestamp":"2024-05-17T14:45:09.29Z"}]
+        "_version_":1801959057619156992,
+        "timestamp":"2024-06-15T20:07:52.466Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -217,7 +225,11 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hall, Isabel Hawxhurst",1,
+        "Kirby, Henry P.",1,
+        "Webb, Clarine Matson",1,
+        "Webb, Gregory B. (Gregory Burkitt)",1],
       "date_range_sim":[
         "1801-1900",2,
         "1901-2000",4],

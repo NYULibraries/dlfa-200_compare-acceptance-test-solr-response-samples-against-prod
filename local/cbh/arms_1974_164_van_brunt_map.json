@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":7,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Rutgert Van Brunt survey map of Brooklyn lot at ferry"],
         "unitid_ssm":["1974.164"],
         "abstract_ssm":["The collection includes one document, a hand drawn map of a lot at the ferry in Brooklyn, New York, surveyed by Rutgert Van Brunt for the town trustees, March 27, 1716. It is not known which Rutgert Van Brunt created the map. The map had been owned by historian and genealogist Teunis G. Bergen (1806-1881)."],
+        "creator_ssm":["Van Brunt family",
+          "Bergen, Teunis G.",
+          "Van Brunt family",
+          "Bergen, Teunis G."],
         "unitdate_normal_ssm":["1716/1716"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Van Brunt family"],
@@ -66,8 +70,8 @@
         "unitdate_start_ssm":["1716"],
         "unitdate_end_ssm":["1716"],
         "unitdate_ssm":["Inclusive, 1716"],
-        "_version_":1799256170794319872,
-        "timestamp":"2024-05-17T00:06:38.721Z"}]
+        "_version_":1801960401973280768,
+        "timestamp":"2024-06-15T20:29:14.543Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +79,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bergen, Teunis G.",1,
+        "Van Brunt family",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[],

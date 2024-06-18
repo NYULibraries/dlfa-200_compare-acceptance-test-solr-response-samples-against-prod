@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Kranjec family papers"],
         "unitid_ssm":["ARC.034"],
         "abstract_ssm":["This collection contains letters, photographs, school work and memorabilia from the Kranjec family dating from 1968 to 1972. Letters from Richard Kranjec to his wife Catherine and daughter Ann, both living in Canada at the time, provide a personal perspective on the New York City teachers' strike of 1968 and the struggle it caused for educators. Ann Kranjec Fortescue's elementary school work and memorabilia includes writing assignments that discuss her optimistic feelings about living in Brooklyn and attending New York City public schools during the early 1970s. Photographs in the collection show Midwood High School, where Richard Kranjec taught, and I.S. 293, where Catherine Kranjec worked as a librarian."],
+        "creator_ssm":["Fortescue, Ann Kranjec",
+          "Kranjec, Richard",
+          "Fortescue, Ann Kranjec",
+          "Kranjec, Richard"],
         "unitdate_normal_ssm":["1964/1976"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (N.Y.). Board of Education",
@@ -74,8 +78,8 @@
         "unitdate_end_ssm":["1976"],
         "unitdate_ssm":["Inclusive, 1964-1976"],
         "language_ssm":["English"],
-        "_version_":1799256312973885440,
-        "timestamp":"2024-05-17T00:08:54.315Z"}]
+        "_version_":1801958739638484992,
+        "timestamp":"2024-06-15T20:02:49.217Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +87,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Fortescue, Ann Kranjec",1,
+        "Kranjec, Richard",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

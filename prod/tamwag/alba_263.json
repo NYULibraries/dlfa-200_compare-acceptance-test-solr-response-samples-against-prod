@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["New Hampshire Volunteers in the SCW: Joshua Chamberlain Research Files"],
         "unitid_ssm":["ALBA.263"],
+        "creator_ssm":["Chamberlain, Joshua",
+          "Chamberlain, Joshua"],
         "unitdate_normal_ssm":["1937/2008"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Chamberlain, Joshua"],
@@ -59,8 +61,8 @@
         "unitdate_end_ssm":["2008"],
         "unitdate_ssm":["Inclusive, circa 1930s-2000s"],
         "language_ssm":["English"],
-        "_version_":1775223124966506496,
-        "timestamp":"2023-08-25T17:31:40.171Z"},
+        "_version_":1801145298915950592,
+        "timestamp":"2024-06-06T20:33:31.692Z"},
       {
         "id":"alba_263aspace_3b1484177fd84fb176bba2f610da3964",
         "ead_ssi":"alba_263",
@@ -75,8 +77,8 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1"],
         "heading_ssm":["Unprocessed Records"],
-        "_version_":1775223125012643840,
-        "timestamp":"2023-08-25T17:31:40.215Z"}]
+        "_version_":1801145298929582080,
+        "timestamp":"2024-06-06T20:33:31.705Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -84,7 +86,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Chamberlain, Joshua",1],
       "date_range_sim":[
         "1901-2000",1,
         "2001-2100",1,

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":6,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Louis Lazarus and Louise Heinze Research Files: Karl Marx and Friedrich Engels on America"],
         "unitid_ssm":["TAM.112"],
         "abstract_ssm":["The collection consists of photocopies and photostats of published materials, written by Marx and Engels, relating to the United States. The material, which dates from 1846 to 1898, was collected by Louis Lazarus in 1963. Much of it was originally published in England. Also included are Lazarus's research notes, the research notes of Louise Heinze."],
+        "creator_ssm":["Lazarus, Louis",
+          "Heinze, Louise",
+          "Lazarus, Louis",
+          "Heinze, Louise"],
         "unitdate_normal_ssm":["1846/1898"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Articles.",
@@ -80,8 +84,8 @@
         "unitdate_start_ssm":["1846"],
         "unitdate_end_ssm":["1898"],
         "unitdate_ssm":["Inclusive, 1846-1898"],
-        "_version_":1775222875470430208,
-        "timestamp":"2023-08-25T17:27:42.233Z"}]
+        "_version_":1801212940938903552,
+        "timestamp":"2024-06-07T14:28:40.152Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -89,7 +93,9 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Heinze, Louise",1,
+        "Lazarus, Louis",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

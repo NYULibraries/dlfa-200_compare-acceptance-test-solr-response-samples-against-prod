@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Titus Bennett letter"],
         "unitid_ssm":["1974.216"],
         "abstract_ssm":["A letter written by Titus Bennett to his wife Sarah in Huntington, Long Island regarding a planned voyage by ship, dated July 18, 1772. The Bennetts resided in Huntington, Long Island."],
+        "creator_ssm":["Bennett, Titus",
+          "Bennett, Titus"],
         "unitdate_normal_ssm":["1772/1772"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Correspondence"],
@@ -66,8 +68,8 @@
         "unitdate_end_ssm":["1772"],
         "unitdate_ssm":["1772"],
         "language_ssm":["English"],
-        "_version_":1799312455539621888,
-        "timestamp":"2024-05-17T15:01:16.038Z"}]
+        "_version_":1801960453305270272,
+        "timestamp":"2024-06-15T20:30:03.497Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -75,7 +77,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bennett, Titus",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[],

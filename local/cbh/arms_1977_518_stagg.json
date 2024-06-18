@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["John Stagg, Jr. military letter"],
         "unitid_ssm":["1977.518"],
         "abstract_ssm":["Unaddressed 1792 letter from John Stagg, Jr. to an unidentified military officer requesting that he and his troops prepare for detachment to Trenton, N.J. before moving on to headquarters in Pittsburgh, PA."],
+        "creator_ssm":["Stagg, John, Jr.",
+          "United States. War Department",
+          "United States. War Department",
+          "Stagg, John, Jr."],
         "unitdate_normal_ssm":["1792/1792"],
         "corpname_ssm":["Brooklyn Historical Society",
           "United States. War Department"],
@@ -70,8 +74,8 @@
         "unitdate_end_ssm":["1792"],
         "unitdate_ssm":["1792"],
         "language_ssm":["English"],
-        "_version_":1799309972151992320,
-        "timestamp":"2024-05-17T14:21:47.695Z"}]
+        "_version_":1801961864727363584,
+        "timestamp":"2024-06-15T20:52:29.534Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +83,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Stagg, John, Jr.",1,
+        "United States. War Department",1],
       "date_range_sim":[
         "1701-1800",1],
       "subject_sim":[

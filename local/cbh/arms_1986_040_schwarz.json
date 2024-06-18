@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Gerard J. Schwarz papers"],
         "unitid_ssm":["1986.040"],
         "abstract_ssm":["The Gerard J. Schwarz papers consist of school records and certificates of Gerard J. Schwarz and Eva Rohman (Schwarz's mother). Schwarz attended P.S. 137, William J. Morrison High School, Boys High, Brooklyn Evening Technical High School, and war training courses at Pratt Institute during World War II. Rohman attended Central Evening High School for Women. The papers span the period 1909 to 1949 and measure 0.08 linear feet."],
+        "creator_ssm":["Schwarz, Gerard J.",
+          "Schwarz, Gerard J."],
         "unitdate_normal_ssm":["1909/1949"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Certificates",
@@ -71,8 +73,8 @@
         "unitdate_end_ssm":["1949"],
         "unitdate_ssm":["Inclusive, 1909-1949"],
         "language_ssm":["English"],
-        "_version_":1799256205271498752,
-        "timestamp":"2024-05-17T00:07:11.602Z"}]
+        "_version_":1801963298786115584,
+        "timestamp":"2024-06-15T21:15:17.159Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -80,7 +82,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Schwarz, Gerard J.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

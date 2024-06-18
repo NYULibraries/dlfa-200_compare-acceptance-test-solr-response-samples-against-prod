@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":13,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of New York University Libraries, Tamiment Library &amp; Robert F. Wagner Labor Archives"],
         "unitid_ssm":["RG.38.7"],
         "abstract_ssm":["Digital exhibits created to highlight New York University Archives and the Robert F. Wagner Labor Archive's holdings."],
+        "creator_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
+          "Tamiment Library and Robert F. Wagner Labor Archives"],
         "unitdate_normal_ssm":["2019-11/2019-11"],
         "corpname_ssm":["New York University Archives",
           "Tamiment Library and Robert F. Wagner Labor Archives",
@@ -61,8 +63,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Records of New York University Libraries, Tamiment Library & Robert F. Wagner Labor Archives"],
         "unitdate_ssm":["Inclusive, November 2019"],
-        "_version_":1799254499682942976,
-        "timestamp":"2024-05-16T23:40:05.026Z"},
+        "_version_":1801953633178222592,
+        "timestamp":"2024-06-15T18:41:39.317Z"},
       {
         "id":"rg_38_7aspace_72c87c0af4347bc02fb19f325ae79b30",
         "ead_ssi":"rg_38_7",
@@ -81,8 +83,8 @@
         "format_ssm":["Archival Series"],
         "heading_ssm":["Archived Websites"],
         "unitdate_ssm":["Inclusive, November 2019"],
-        "_version_":1799254499718594560,
-        "timestamp":"2024-05-16T23:40:05.059Z"}]
+        "_version_":1801953633198145536,
+        "timestamp":"2024-06-15T18:41:39.336Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -91,7 +93,8 @@
         "archives",2],
       "dao_sim":[
         "Online Access",2],
-      "creator_sim":[],
+      "creator_sim":[
+        "Tamiment Library and Robert F. Wagner Labor Archives",1],
       "date_range_sim":[
         "undated & other",2],
       "subject_sim":[

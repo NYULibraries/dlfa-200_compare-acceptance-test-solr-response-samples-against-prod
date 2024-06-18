@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Brooklyn headstone inscriptions"],
         "unitid_ssm":["1973.125"],
         "abstract_ssm":["The Brooklyn headstone inscripctions consist of a single bound volume containing handwritten transcriptions of headstone inscriptions from cemeteries in the Brooklyn area, recorded by Teunis G. Bergen, circa 1864. Included in the volume are inscriptions from the Vechte Burying Ground and the Schenk Burying Ground; cemeteries in the Brooklyn neighborhoods of Bushwick and Bedford-Stuyvesant; and cemeteries in the towns of New Utrecht, Flatlands, New Lots, Gravesend, and Flatbush, which were all annexed by the City of Brooklyn in the 1880s and 1890s. The transcriptions are organized according to cemetery and list the name of the deceased, the date of death, and in some instances, the date of birth and/or age of the deceased at the time of death. The inscriptions date from the 17th century through the mid-19th century."],
+        "creator_ssm":["Bergen, Teunis G.",
+          "Bergen, Teunis G."],
         "unitdate_normal_ssm":["1854/1874"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "geogname_ssm":["Flatbush (New York, N.Y.)",
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1874"],
         "unitdate_ssm":["Inclusive, circa 1864"],
         "language_ssm":["English"],
-        "_version_":1799256458708123648,
-        "timestamp":"2024-05-17T00:11:13.298Z"}]
+        "_version_":1801959975081213952,
+        "timestamp":"2024-06-15T20:22:27.427Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Bergen, Teunis G.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Kvedaras family photographs"],
         "unitid_ssm":["2023.044"],
         "abstract_ssm":["The Kvedaras family photographs contain seven black and white prints of the Kvedaras family of 379 South 3rd Street in Williamsburg from the years 1939-1950."],
+        "creator_ssm":["Kvedaras family",
+          "Kvedaras family"],
         "unitdate_normal_ssm":["1939/1950"],
         "corpname_ssm":["Center for Brooklyn History"],
         "famname_ssm":["Kvedaras family",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1950"],
         "unitdate_ssm":["Inclusive, 1939-1950"],
         "language_ssm":["English"],
-        "_version_":1799311645843914752,
-        "timestamp":"2024-05-17T14:48:23.852Z"}]
+        "_version_":1801958512116367360,
+        "timestamp":"2024-06-15T19:59:12.234Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Kvedaras family",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

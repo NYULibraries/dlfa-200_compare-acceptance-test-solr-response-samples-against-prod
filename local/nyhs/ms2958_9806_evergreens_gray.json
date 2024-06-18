@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Evergreens Cemetery lot deed to Frank and Lizzie Gray, and other documents"],
         "unitid_ssm":["AHMC - Evergreens Cemetery"],
         "abstract_ssm":["Four documents: 1) a duplicate of the indenture (deed number 4596) for lot number 158 in the Lake View section of The Evergreens (Evergreens Cemetery) in Kings and Queens counties, New York, to Frank Gray and his wife, Lizzie (or Elizabeth). The original deed was dated 18 April 1881; this notarized duplicate dates from 22 March 1929. 2) The envelope from The Evergreens Cemetery that held the deed. 3) An envelope from the Walter B. Cooke funeral home in the Bronx, New York, labeled as holding a deed to Emma Hayes for Evergreens lot 158 in the Lake View section; the envelope is dated 6 December 1944, but the referenced deed is not with the papers. The envelope held the following document only. 4) A receipted invoice dated 13 May 1900 (stamped and signed as paid on 31 May 1900) from Oscar A. Boch, undertaker and embalmer in Greenpoint, Brooklyn, to Mrs. Emma Hayes for funeral expenses of Alonzo E. Hayes. These charges included removal from hospital, embalming, a coffin, top board, a hearse and coach to Cedar Grove cemetery, and a new grave.  For more information and to request this item, see the catalog record, or write to manuscripts@nyhistory.org."],
+        "creator_ssm":["Evergreens Cemetery (New York, N.Y.)",
+          "Evergreens Cemetery (New York, N.Y.)"],
         "corpname_ssm":["New-York Historical Society",
           "Evergreens Cemetery (New York, N.Y.)"],
         "collection_ssm":["Evergreens Cemetery lot deed to Frank and Lizzie Gray, and other documents"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Evergreens Cemetery lot deed to Frank and Lizzie Gray, and other documents"],
         "unitdate_ssm":["Inclusive, 1881, 1900, 1929, 1944"],
         "language_ssm":["English"],
-        "_version_":1799330744072404992,
-        "timestamp":"2024-05-17T19:51:57.342Z"}]
+        "_version_":1802083669347663872,
+        "timestamp":"2024-06-17T05:08:31.472Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Evergreens Cemetery (New York, N.Y.)",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

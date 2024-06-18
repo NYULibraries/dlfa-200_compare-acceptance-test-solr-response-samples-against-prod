@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,6 +45,8 @@
       {
         "unittitle_ssm":["Bernard Abramofsky Papers"],
         "unitid_ssm":["ALBA.259"],
+        "creator_ssm":["Abramofsky, Bernard",
+          "Abramofsky, Bernard"],
         "unitdate_normal_ssm":["1937/1937"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Katz, Ruth",
@@ -61,8 +63,8 @@
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["1937"],
         "language_ssm":["English"],
-        "_version_":1799748107426070528,
-        "timestamp":"2024-05-22T10:25:46.053Z"}]
+        "_version_":1802111501919584256,
+        "timestamp":"2024-06-17T12:30:54.681Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -70,7 +72,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Abramofsky, Bernard",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

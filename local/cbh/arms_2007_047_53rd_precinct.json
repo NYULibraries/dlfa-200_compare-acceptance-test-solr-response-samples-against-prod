@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["53rd Precinct police group photograph"],
         "unitid_ssm":["2007.047"],
         "abstract_ssm":["Group photograph of policemen and others at the 53rd Precinct Police Station in Far Rockaway, Queens, New York. The photograph was taken by commercial photographer M. Siebel around 1925. The photograph was owned by George Roethel, who is pictured as the fourth policeman from the right in the photograph."],
+        "creator_ssm":["Siebel, M.",
+          "Siebel, M."],
         "unitdate_normal_ssm":["1924/1929"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (N.Y.). Police Department"],
@@ -72,8 +74,8 @@
         "unitdate_end_ssm":["1929"],
         "unitdate_ssm":["Inclusive, circa 1925"],
         "language_ssm":["English"],
-        "_version_":1799312356344332288,
-        "timestamp":"2024-05-17T14:59:41.437Z"}]
+        "_version_":1801964014323892224,
+        "timestamp":"2024-06-15T21:26:39.549Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -81,7 +83,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Siebel, M.",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Letter from J.H. Johnston to H.C. Weeks"],
         "unitid_ssm":["AHMC - Johnston, J.H."],
         "abstract_ssm":["Johnston, a member of the firm J.H. Johnston & [H.M.] Robinson, watchmakers and jewelers, at 150 Bowery, New York City, wrote to Weeks to state that he had decided to accept an offer that Edwin Byles of Dorr had made for the purchase of a portion of Johnston's land in an unidentified location. Johnston asked Weeks if he would like to conclude the sale for a $50 commission. Johnston also wrote that he offered to sell to his brother in Chicago other parts of his land, and that Weeks might get inquiries from the brother. Finally, Johnston asked Weeks to determine the taxes on various of his other properties. None of the locations of the properties are identified. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Letter from J.H. Johnston to H.C. Weeks"],
+        "creator_ssm":["Johnston, J. H., active 1871 (Watchmaker)",
+          "Johnston, J. H., active 1871 (Watchmaker)"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Johnston, J. H., active 1871 (Watchmaker)"],
         "collection_ssm":["Letter from J.H. Johnston to H.C. Weeks"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Letter from J.H. Johnston to H.C. Weeks"],
         "unitdate_ssm":["1871"],
         "language_ssm":["English"],
-        "_version_":1799323019322064896,
-        "timestamp":"2024-05-17T17:49:10.446Z"}]
+        "_version_":1802083791059025920,
+        "timestamp":"2024-06-17T05:10:27.545Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Johnston, J. H., active 1871 (Watchmaker)",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

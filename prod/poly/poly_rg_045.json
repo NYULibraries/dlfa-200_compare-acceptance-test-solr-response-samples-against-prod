@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -58,8 +58,8 @@
         "unitdate_start_ssm":["2011"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 2011-2017"],
-        "_version_":1775223257863028736,
-        "timestamp":"2023-08-25T17:33:46.911Z"},
+        "_version_":1801104403793444864,
+        "timestamp":"2024-06-06T09:43:31.063Z"},
       {
         "id":"poly_rg_045aspace_25b0ce4238e238c5a2d3234fa078ba47",
         "ead_ssi":"poly_rg_045",
@@ -81,8 +81,8 @@
         "unitdate_start_ssm":["2016"],
         "unitdate_end_ssm":["2016"],
         "unitdate_ssm":["2016"],
-        "_version_":1775223258196475904,
-        "timestamp":"2023-08-25T17:33:47.229Z"},
+        "_version_":1801104403893059584,
+        "timestamp":"2024-06-06T09:43:31.159Z"},
       {
         "id":"poly_rg_045aspace_353ad5b465612a749510ab38044102f9",
         "ead_ssi":"poly_rg_045",
@@ -104,8 +104,8 @@
         "unitdate_start_ssm":["2014"],
         "unitdate_end_ssm":["2014"],
         "unitdate_ssm":["2014"],
-        "_version_":1775223258063306752,
-        "timestamp":"2023-08-25T17:33:47.102Z"},
+        "_version_":1801104403846922240,
+        "timestamp":"2024-06-06T09:43:31.115Z"},
       {
         "id":"poly_rg_045aspace_5cade0395d901ffb4f4249f2d7f241d4",
         "ead_ssi":"poly_rg_045",
@@ -127,8 +127,8 @@
         "unitdate_start_ssm":["2016"],
         "unitdate_end_ssm":["2016"],
         "unitdate_ssm":["2016"],
-        "_version_":1775223258159775744,
-        "timestamp":"2023-08-25T17:33:47.194Z"},
+        "_version_":1801104403879428096,
+        "timestamp":"2024-06-06T09:43:31.146Z"},
       {
         "id":"poly_rg_045aspace_8d7bd1d61d81d23ac5cc0e1da4b37182",
         "ead_ssi":"poly_rg_045",
@@ -150,8 +150,8 @@
         "unitdate_start_ssm":["2017"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["2017"],
-        "_version_":1775223258242613248,
-        "timestamp":"2023-08-25T17:33:47.273Z"},
+        "_version_":1801104403906691072,
+        "timestamp":"2024-06-06T09:43:31.172Z"},
       {
         "id":"poly_rg_045aspace_a624d6cda40dd653bf477b75fe805977",
         "ead_ssi":"poly_rg_045",
@@ -173,8 +173,8 @@
         "unitdate_start_ssm":["2013"],
         "unitdate_end_ssm":["2013"],
         "unitdate_ssm":["2013"],
-        "_version_":1775223258006683648,
-        "timestamp":"2023-08-25T17:33:47.048Z"},
+        "_version_":1801104403832242176,
+        "timestamp":"2024-06-06T09:43:31.1Z"},
       {
         "id":"poly_rg_045aspace_d0f3e546c29e0723edbd6c7fda473fc6",
         "ead_ssi":"poly_rg_045",
@@ -196,8 +196,8 @@
         "unitdate_start_ssm":["2011"],
         "unitdate_end_ssm":["2011"],
         "unitdate_ssm":["2011"],
-        "_version_":1775223257959497728,
-        "timestamp":"2023-08-25T17:33:47.003Z"},
+        "_version_":1801104403818610688,
+        "timestamp":"2024-06-06T09:43:31.088Z"},
       {
         "id":"poly_rg_045aspace_d1efa85cf0845370d3748a5737eb78d9",
         "ead_ssi":"poly_rg_045",
@@ -215,8 +215,8 @@
         "unitdate_start_ssm":["2011"],
         "unitdate_end_ssm":["2017"],
         "unitdate_ssm":["Inclusive, 2011-2017"],
-        "_version_":1775223257904971776,
-        "timestamp":"2023-08-25T17:33:46.951Z"},
+        "_version_":1801104403804979200,
+        "timestamp":"2024-06-06T09:43:31.075Z"},
       {
         "id":"poly_rg_045aspace_e3c32131018d076df1501af4dcc6a00f",
         "ead_ssi":"poly_rg_045",
@@ -238,8 +238,8 @@
         "unitdate_start_ssm":["2015"],
         "unitdate_end_ssm":["2015"],
         "unitdate_ssm":["2015"],
-        "_version_":1775223258116784128,
-        "timestamp":"2023-08-25T17:33:47.152Z"}]
+        "_version_":1801104403866845184,
+        "timestamp":"2024-06-06T09:43:31.134Z"}]
   },
   "facet_counts":{
     "facet_queries":{},

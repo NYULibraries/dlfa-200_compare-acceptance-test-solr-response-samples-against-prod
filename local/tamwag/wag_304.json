@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -46,6 +46,8 @@
         "unittitle_ssm":["Josie Simon Papers"],
         "unitid_ssm":["WAG.304"],
         "abstract_ssm":["The Josie Simon Papers contain materials documenting the activities of Union Locals of the International Ladies' Garment Workers' Union (ILGWU) in New York City during the 1950s and 1960s. The ILGWU once represented over 80,000 union members employed in more than 2,000 shops in the eight-state New York Metropolitan dress market. Materials include records concerning the rank-and-file groups in the Italian Dress and Waistmakers' Union (Local 89) and the Dressmaker's Union (Local 22) of the ILGWU."],
+        "creator_ssm":["Simon, Josie",
+          "Simon, Josie"],
         "unitdate_normal_ssm":["1950/1965"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "persname_ssm":["Simon, Josie",
@@ -61,8 +63,8 @@
         "unitdate_start_ssm":["1950"],
         "unitdate_end_ssm":["1965"],
         "unitdate_ssm":["Inclusive, 1950-1965"],
-        "_version_":1799805014950019072,
-        "timestamp":"2024-05-23T01:30:17.297Z"}]
+        "_version_":1802197185015578624,
+        "timestamp":"2024-06-18T11:12:48.449Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -70,7 +72,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Simon, Josie",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[],

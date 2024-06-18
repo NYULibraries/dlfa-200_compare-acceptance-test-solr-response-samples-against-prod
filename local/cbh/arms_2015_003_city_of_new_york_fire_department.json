@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["City of New York Fire Department 31st Battalion fire record journal"],
         "unitid_ssm":["2015.003"],
         "abstract_ssm":["This collection is made up of a single journal containing 262 handwritten entries, logging fires and other alarms reported to the 31st Battalion of the City of New York Fire Department from 1898 to 1902. Most entries were logged by Fire Chief James R. Kellock, with some entries signed as Acting Chiefs by other members of the 31st Battalion. This volume offers a look into the alarm response of the 31st Battalion of the City of New York Fire department, with detailed accounts of actions by the firefighters, response time, chiefs in command, property values and damage, as well as tenants of the buildings where the alarm originated."],
+        "creator_ssm":["New York (N.Y.). Fire Dept",
+          "New York (N.Y.). Fire Dept"],
         "unitdate_normal_ssm":["1898/1902"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (N.Y.). Fire Dept",
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["1902"],
         "unitdate_ssm":["Inclusive, 1898-1902"],
         "language_ssm":["English"],
-        "_version_":1799311715415883776,
-        "timestamp":"2024-05-17T14:49:30.201Z"}]
+        "_version_":1801966967594156032,
+        "timestamp":"2024-06-15T22:13:36.007Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (N.Y.). Fire Dept",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

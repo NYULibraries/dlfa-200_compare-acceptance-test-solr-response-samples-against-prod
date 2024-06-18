@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Kathy Hayes collection of Norman Rosten and Richard Rosenblum literature"],
         "unitid_ssm":["2014.008"],
         "abstract_ssm":["The collection is composed of Brooklyn-related literature which was collected by Kathy Hayes. Included in the collection are four children's book by Richard Rosenblum and four books by Norman Rosten. Additionally, the collection includes four manuscripts by Rosten, as well as his obituary (New York Newsday)."],
+        "creator_ssm":["Rosten, Norman",
+          "Rosenblum, Richard",
+          "Rosten, Norman",
+          "Rosenblum, Richard"],
         "unitdate_normal_ssm":["1968/1995"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn Dodgers (Baseball team)"],
@@ -84,8 +88,8 @@
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1968-1995"],
         "language_ssm":["English"],
-        "_version_":1799312455376044032,
-        "timestamp":"2024-05-17T15:01:15.882Z"}]
+        "_version_":1801964912054894592,
+        "timestamp":"2024-06-15T21:40:55.692Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -93,7 +97,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rosenblum, Richard",1,
+        "Rosten, Norman",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Calvin E. Pratt papers"],
         "unitid_ssm":["1977.287"],
         "abstract_ssm":["This collection consists of papers spanning 1852 to 1896 and documenting the personal life and military and law careers of Calvin E. Pratt of Brooklyn."],
+        "creator_ssm":["Pratt, Calvin E.",
+          "Pratt, Calvin E."],
         "unitdate_normal_ssm":["1852/1896",
           "1861/1886"],
         "corpname_ssm":["Brooklyn Historical Society",
@@ -85,8 +87,8 @@
           "1886"],
         "unitdate_ssm":["Inclusive, 1852-1896 ; 1861-1886"],
         "language_ssm":["English"],
-        "_version_":1799312354291220480,
-        "timestamp":"2024-05-17T14:59:39.48Z"}]
+        "_version_":1801961256132804608,
+        "timestamp":"2024-06-15T20:42:49.133Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -94,7 +96,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Pratt, Calvin E.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

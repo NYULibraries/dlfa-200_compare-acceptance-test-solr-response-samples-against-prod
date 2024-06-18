@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Ferdinand C. Ruehrmund invoices"],
         "unitid_ssm":["AHMC - Ruehrmund, Ferdinand"],
         "abstract_ssm":["Seven invoices from dealers directed to Ferdinand C. Ruehrmund for gloves, hats, collars, umbrellas, and other such goods he purchased. Ruehrmund (1825-1884) was an immigrant from Germany, who owned a store from 1858-1863 in Caledonia, Ohio, and from 1867-1879 in Marion, Ohio. Dealers represented are George Chapman & Co.; Bartlett Beery & Co.; William J. Peake & Co.; Daniel Hoffman & Co.; Lewis, Titus & Cooke (with a transmittal letter allowing a credit); Ives, Murphy & Gore; and Clark Brothers & Co. All dealers are from New York City. The Chapman invoice dates from 1859 and is directed to Ruehrmund in Caledonia; the others date from his time in business in Marion. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Ferdinand C. Ruehrmund invoices"],
+        "creator_ssm":["Ruehrmund, Ferdinand, C., 1825-1884",
+          "Ruehrmund, Ferdinand, C., 1825-1884"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Ruehrmund, Ferdinand, C., 1825-1884"],
         "collection_ssm":["Ferdinand C. Ruehrmund invoices"],
@@ -58,8 +60,8 @@
         "heading_ssm":["Ferdinand C. Ruehrmund invoices"],
         "unitdate_ssm":["Inclusive, 1859, 1867-1874"],
         "language_ssm":["English"],
-        "_version_":1799325475975200768,
-        "timestamp":"2024-05-17T18:28:13.293Z"}]
+        "_version_":1802083696088449024,
+        "timestamp":"2024-06-17T05:08:56.974Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -67,7 +69,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Ruehrmund, Ferdinand, C., 1825-1884",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

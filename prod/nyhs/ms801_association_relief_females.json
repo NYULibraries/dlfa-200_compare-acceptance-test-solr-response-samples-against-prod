@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":23,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Records of the Association for the Relief of Respectable, Aged and Indigent Females in New York City"],
         "unitid_ssm":["MS 801"],
         "abstract_ssm":["Eight volumes of records including pensioners' rolls, 1813-1832, 1840-1860; meeting minutes, 1814-1817; Advisory Committee minutes, 1867-1882; journal of visits, 1839-1843; expenditures, 1814; receipts, 1849-1862; accounts for extra fuel, 1844-1862; and death register, 1838-1875."],
+        "creator_ssm":["Association for the Relief of Respectable Aged Indigent Females",
+          "Association for the Relief of Respectable Aged Indigent Females"],
         "corpname_ssm":["New-York Historical Society",
           "Association for the Relief of Respectable Aged Indigent Females",
           "Association for the Relief of Respectable Aged Indigent Females"],
@@ -72,8 +74,8 @@
           "Minutes (administrative records)"],
         "heading_ssm":["Records of the Association for the Relief of Respectable, Aged and Indigent Females in New York City"],
         "unitdate_ssm":["Inclusive, 1813-1882"],
-        "_version_":1775219123681230848,
-        "timestamp":"2023-08-25T16:28:04.248Z"},
+        "_version_":1800973857110097920,
+        "timestamp":"2024-06-04T23:08:32.044Z"},
       {
         "id":"ms801_association_relief_femalesaspace_ref13_s8p",
         "ead_ssi":"ms801_association_relief_females",
@@ -87,8 +89,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series I: Expenditures, Receipts, and Meeting Minutes"],
-        "_version_":1775219123717931008,
-        "timestamp":"2023-08-25T16:28:04.283Z"},
+        "_version_":1800973857123729408,
+        "timestamp":"2024-06-04T23:08:32.058Z"},
       {
         "id":"ms801_association_relief_femalesaspace_ref14_fp3",
         "ead_ssi":"ms801_association_relief_females",
@@ -107,8 +109,8 @@
         "location_ssm":["Folder: 1"],
         "heading_ssm":["Expenditures (1814 February-April) and meeting minutes (1814 April-1817 February) [labeled vol. 2]"],
         "unitdate_ssm":["1814-1817"],
-        "_version_":1775219123756728320,
-        "timestamp":"2023-08-25T16:28:04.32Z"},
+        "_version_":1800973857144700928,
+        "timestamp":"2024-06-04T23:08:32.078Z"},
       {
         "id":"ms801_association_relief_femalesaspace_ref15_39w",
         "ead_ssi":"ms801_association_relief_females",
@@ -127,8 +129,8 @@
         "location_ssm":["Folder: 2"],
         "heading_ssm":["Receipts (1849 June-1862 November 28) and accounts for extra fuel (1844 November-1858 February) [labeled vol. 6]"],
         "unitdate_ssm":["1844-1862"],
-        "_version_":1775219123792379904,
-        "timestamp":"2023-08-25T16:28:04.354Z"},
+        "_version_":1800973857160429568,
+        "timestamp":"2024-06-04T23:08:32.092Z"},
       {
         "id":"ms801_association_relief_femalesaspace_ref16_yxt",
         "ead_ssi":"ms801_association_relief_females",
@@ -147,8 +149,8 @@
         "location_ssm":["Folder: 3"],
         "heading_ssm":["Advisory committee meeting minutes [labeled vol. 7]"],
         "unitdate_ssm":["1867 December 27-1870 June 20"],
-        "_version_":1775219123829080064,
-        "timestamp":"2023-08-25T16:28:04.389Z"},
+        "_version_":1800973857174061056,
+        "timestamp":"2024-06-04T23:08:32.106Z"},
       {
         "id":"ms801_association_relief_femalesaspace_ref17_kwc",
         "ead_ssi":"ms801_association_relief_females",
@@ -167,8 +169,8 @@
         "location_ssm":["Folder: 4"],
         "heading_ssm":["Advisory committee meeting minutes [labeled vol. 8]"],
         "unitdate_ssm":["1870 September-1882 September"],
-        "_version_":1775219123879411712,
-        "timestamp":"2023-08-25T16:28:04.437Z"},
+        "_version_":1800973857191886848,
+        "timestamp":"2024-06-04T23:08:32.122Z"},
       {
         "id":"ms801_association_relief_femalesaspace_ref19_5im",
         "ead_ssi":"ms801_association_relief_females",
@@ -182,8 +184,8 @@
         "repository_ssm":["nyhs"],
         "format_ssm":["Archival Series"],
         "heading_ssm":["Series II: Pensioner and Asylum Records"],
-        "_version_":1775219123923451904,
-        "timestamp":"2023-08-25T16:28:04.479Z"},
+        "_version_":1800973857211809792,
+        "timestamp":"2024-06-04T23:08:32.142Z"},
       {
         "id":"ms801_association_relief_femalesaspace_ref20_55o",
         "ead_ssi":"ms801_association_relief_females",
@@ -202,8 +204,8 @@
         "location_ssm":["Folder: 5"],
         "heading_ssm":["Pensioners' roll [labeled vol. 1]"],
         "unitdate_ssm":["1813-1832"],
-        "_version_":1775219123970637824,
-        "timestamp":"2023-08-25T16:28:04.524Z"},
+        "_version_":1800973857226489856,
+        "timestamp":"2024-06-04T23:08:32.156Z"},
       {
         "id":"ms801_association_relief_femalesaspace_ref21_w8m",
         "ead_ssi":"ms801_association_relief_females",
@@ -222,8 +224,8 @@
         "location_ssm":["Folder: 7"],
         "heading_ssm":["Death register [labeled vol. 3]"],
         "unitdate_ssm":["1838 October-1875 September"],
-        "_version_":1775219124044038144,
-        "timestamp":"2023-08-25T16:28:04.594Z"},
+        "_version_":1800973857264238592,
+        "timestamp":"2024-06-04T23:08:32.192Z"},
       {
         "id":"ms801_association_relief_femalesaspace_ref22_cxj",
         "ead_ssi":"ms801_association_relief_females",
@@ -242,8 +244,8 @@
         "location_ssm":["Folder: 8"],
         "heading_ssm":["Weekly Visiting Committee's Book [labeled vol. 4]"],
         "unitdate_ssm":["1839 January-1843 July"],
-        "_version_":1775219124079689728,
-        "timestamp":"2023-08-25T16:28:04.628Z"},
+        "_version_":1800973857279967232,
+        "timestamp":"2024-06-04T23:08:32.207Z"},
       {
         "id":"ms801_association_relief_femalesaspace_ref23_9z1",
         "ead_ssi":"ms801_association_relief_females",
@@ -262,8 +264,8 @@
         "location_ssm":["Folder: 6"],
         "heading_ssm":["Pensioners' roll [labeled vol. 5]"],
         "unitdate_ssm":["1840-1860"],
-        "_version_":1775219124006289408,
-        "timestamp":"2023-08-25T16:28:04.558Z"}]
+        "_version_":1800973857248509952,
+        "timestamp":"2024-06-04T23:08:32.176Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -271,7 +273,8 @@
       "repository_sim":[
         "nyhs",11],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Association for the Relief of Respectable Aged Indigent Females",1],
       "date_range_sim":[
         "undated & other",11],
       "subject_sim":[

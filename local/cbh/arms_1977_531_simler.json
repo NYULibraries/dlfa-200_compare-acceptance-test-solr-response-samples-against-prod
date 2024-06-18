@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":11,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Charles Simler Civil War discharge papers"],
         "unitid_ssm":["1977.531"],
         "abstract_ssm":["This collection contains two Civil War discharges issued to Charles Simler (or Simbler) from the 56th Regiment of the New York State National Guard in 1863 and 1865 and three tintype photographs of members of the Simler family."],
+        "creator_ssm":["New York (State). National Guard. Regiment, 56th",
+          "Simler, Charles",
+          "New York (State). National Guard. Regiment, 56th",
+          "Simler, Charles"],
         "unitdate_normal_ssm":["1863/1865"],
         "corpname_ssm":["Brooklyn Historical Society",
           "New York (State). National Guard. Regiment, 56th",
@@ -70,8 +74,8 @@
         "unitdate_end_ssm":["1865"],
         "unitdate_ssm":["Inclusive, 1863-1865"],
         "language_ssm":["English"],
-        "_version_":1799256496875241472,
-        "timestamp":"2024-05-17T00:11:49.697Z"}]
+        "_version_":1801961894169280512,
+        "timestamp":"2024-06-15T20:52:57.612Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -79,7 +83,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York (State). National Guard. Regiment, 56th",1,
+        "Simler, Charles",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

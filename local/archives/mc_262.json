@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":9,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Dennis Wrong Papers"],
         "unitid_ssm":["MC.262"],
         "abstract_ssm":["Dennis Wrong (1923- ) is a Canadian sociologist and emeritus professor of sociology in the New York University Department of Sociology. As a professor Wrong taught at the University of Nevada at Reno, the University of Toronto, The New School, Brown University, and Rutgers, The State University of New Jersey, but spent the bulk of his academic career at NYU. This collection consists of materials created and collected by  Wrong in the course of his personal and professional life, including personal correspondence, outlines for original writings, conference notes, autobiographical essays (including one later published in Authors and Their Lives), and his Ph.D. dissertation from Columbia University. Frequent correspondents include Norman Podhoretz, Irving Howe, Alfred Kazin, David Riesman, Hannah Arendt, and Caroline Purcell, former chair of the NYU Department of Sociology. The collection also contains books and academic journals written or collected by Wrong, many of which have been annotated. The materials document the teaching of sociology at NYU, the department's separation from anthropology, and the larger discussions in the discipline concerning quantitative reasoning and analysis."],
+        "creator_ssm":["Wrong, Dennis H. (Dennis Hume), 1923-2018",
+          "Wrong, Dennis H. (Dennis Hume), 1923-2018"],
         "unitdate_normal_ssm":["1947/2009"],
         "corpname_ssm":["New York University Archives",
           "New York University. Department of Sociology"],
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1947"],
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1947-2009"],
-        "_version_":1799255035037614080,
-        "timestamp":"2024-05-16T23:48:35.58Z"},
+        "_version_":1801949492118814720,
+        "timestamp":"2024-06-15T17:35:50.095Z"},
       {
         "id":"mc_262aspace_ref13",
         "ead_ssi":"mc_262",
@@ -90,8 +92,8 @@
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, circa 1950-2004"],
         "language_ssm":["English"],
-        "_version_":1799255035059634176,
-        "timestamp":"2024-05-16T23:48:35.6Z"},
+        "_version_":1801949492139786240,
+        "timestamp":"2024-06-15T17:35:50.115Z"},
       {
         "id":"mc_262aspace_ref14",
         "ead_ssi":"mc_262",
@@ -111,8 +113,8 @@
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, circa 1950-2004"],
         "language_ssm":["English"],
-        "_version_":1799255035078508544,
-        "timestamp":"2024-05-16T23:48:35.618Z"},
+        "_version_":1801949492158660608,
+        "timestamp":"2024-06-15T17:35:50.132Z"},
       {
         "id":"mc_262aspace_ref15",
         "ead_ssi":"mc_262",
@@ -133,8 +135,8 @@
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, circa 1950-2004"],
         "language_ssm":["English"],
-        "_version_":1799255035097382912,
-        "timestamp":"2024-05-16T23:48:35.637Z"},
+        "_version_":1801949492179632128,
+        "timestamp":"2024-06-15T17:35:50.153Z"},
       {
         "id":"mc_262aspace_ref17",
         "ead_ssi":"mc_262",
@@ -154,8 +156,8 @@
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, circa 1950-2004"],
         "language_ssm":["English"],
-        "_version_":1799255035117305856,
-        "timestamp":"2024-05-16T23:48:35.656Z"},
+        "_version_":1801949492195360768,
+        "timestamp":"2024-06-15T17:35:50.168Z"},
       {
         "id":"mc_262aspace_ref18",
         "ead_ssi":"mc_262",
@@ -175,8 +177,8 @@
         "unitdate_end_ssm":["2003"],
         "unitdate_ssm":["Inclusive, 1971-2003"],
         "language_ssm":["English"],
-        "_version_":1799255035134083072,
-        "timestamp":"2024-05-16T23:48:35.672Z"},
+        "_version_":1801949492215283712,
+        "timestamp":"2024-06-15T17:35:50.187Z"},
       {
         "id":"mc_262aspace_ref19",
         "ead_ssi":"mc_262",
@@ -196,8 +198,8 @@
         "unitdate_end_ssm":["2009"],
         "unitdate_ssm":["Inclusive, 1959-2009"],
         "language_ssm":["English"],
-        "_version_":1799255035151908864,
-        "timestamp":"2024-05-16T23:48:35.689Z"},
+        "_version_":1801949492232060928,
+        "timestamp":"2024-06-15T17:35:50.202Z"},
       {
         "id":"mc_262aspace_ref20",
         "ead_ssi":"mc_262",
@@ -218,8 +220,8 @@
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, 1950-2004"],
         "language_ssm":["English"],
-        "_version_":1799255035172880384,
-        "timestamp":"2024-05-16T23:48:35.709Z"},
+        "_version_":1801949492249886720,
+        "timestamp":"2024-06-15T17:35:50.22Z"},
       {
         "id":"mc_262aspace_ref22",
         "ead_ssi":"mc_262",
@@ -239,8 +241,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1964-1999"],
         "language_ssm":["English"],
-        "_version_":1799255035191754752,
-        "timestamp":"2024-05-16T23:48:35.727Z"},
+        "_version_":1801949492268761088,
+        "timestamp":"2024-06-15T17:35:50.238Z"},
       {
         "id":"mc_262aspace_ref23",
         "ead_ssi":"mc_262",
@@ -260,8 +262,8 @@
         "unitdate_end_ssm":["2000"],
         "unitdate_ssm":["Inclusive, 1959-2000"],
         "language_ssm":["English"],
-        "_version_":1799255035209580544,
-        "timestamp":"2024-05-16T23:48:35.744Z"},
+        "_version_":1801949492284489728,
+        "timestamp":"2024-06-15T17:35:50.253Z"},
       {
         "id":"mc_262aspace_ref24",
         "ead_ssi":"mc_262",
@@ -281,8 +283,8 @@
         "unitdate_end_ssm":["1995"],
         "unitdate_ssm":["Inclusive, 1966-1995"],
         "language_ssm":["English"],
-        "_version_":1799255035230552064,
-        "timestamp":"2024-05-16T23:48:35.764Z"},
+        "_version_":1801949492304412672,
+        "timestamp":"2024-06-15T17:35:50.272Z"},
       {
         "id":"mc_262aspace_ref25",
         "ead_ssi":"mc_262",
@@ -302,8 +304,8 @@
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, circa 1950-2004"],
         "language_ssm":["English"],
-        "_version_":1799255035250475008,
-        "timestamp":"2024-05-16T23:48:35.783Z"},
+        "_version_":1801949492323287040,
+        "timestamp":"2024-06-15T17:35:50.29Z"},
       {
         "id":"mc_262aspace_ref26",
         "ead_ssi":"mc_262",
@@ -323,8 +325,8 @@
         "unitdate_end_ssm":["1996"],
         "unitdate_ssm":["Inclusive, 1947-1996"],
         "language_ssm":["English"],
-        "_version_":1799255035271446528,
-        "timestamp":"2024-05-16T23:48:35.803Z"},
+        "_version_":1801949492345307136,
+        "timestamp":"2024-06-15T17:35:50.311Z"},
       {
         "id":"mc_262aspace_ref27",
         "ead_ssi":"mc_262",
@@ -344,8 +346,8 @@
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, circa 1950-2004"],
         "language_ssm":["English"],
-        "_version_":1799255035288223744,
-        "timestamp":"2024-05-16T23:48:35.819Z"},
+        "_version_":1801949492362084352,
+        "timestamp":"2024-06-15T17:35:50.327Z"},
       {
         "id":"mc_262aspace_ref28",
         "ead_ssi":"mc_262",
@@ -365,8 +367,8 @@
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, circa 1950-2004"],
         "language_ssm":["English"],
-        "_version_":1799255035308146688,
-        "timestamp":"2024-05-16T23:48:35.838Z"},
+        "_version_":1801949492378861568,
+        "timestamp":"2024-06-15T17:35:50.343Z"},
       {
         "id":"mc_262aspace_ref29",
         "ead_ssi":"mc_262",
@@ -386,8 +388,8 @@
         "unitdate_end_ssm":["2004"],
         "unitdate_ssm":["Inclusive, circa 1950-2004"],
         "language_ssm":["English"],
-        "_version_":1799255035325972480,
-        "timestamp":"2024-05-16T23:48:35.855Z"}]
+        "_version_":1801949492395638784,
+        "timestamp":"2024-06-15T17:35:50.358Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -395,7 +397,8 @@
       "repository_sim":[
         "archives",16],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wrong, Dennis H. (Dennis Hume), 1923-2018",1],
       "date_range_sim":[
         "1901-2000",16,
         "2001-2100",12],

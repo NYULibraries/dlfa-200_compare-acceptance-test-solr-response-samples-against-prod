@@ -47,6 +47,8 @@
         "unittitle_ssm":["Alice Plumb papers"],
         "unitid_ssm":["1988.002"],
         "abstract_ssm":["Alice Plumb was a Brooklyn resident who was both a member and officer of various Brooklyn-based women's societies and clubs. The Alice Plumb papers span the years 1892 to 1968 and measure 1.46 linear feet. This collection documents the activities of three Brooklyn-based women's clubs: the Woman's Missionary Society of the First Reformed Church; the Ex-Presidents' Club; and the Prospect Club. Document types represented in the collection include minutes, reports, annual reports, membership lists, financial records, constitutions and bylaws, printed materials (event programs, historical pamphlets, etc.), and ephemera."],
+        "creator_ssm":["Plumb, Alice",
+          "Plumb, Alice"],
         "unitdate_normal_ssm":["1892/1968"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Ex-Presidents' Club (Brooklyn, New York, N.Y.)",
@@ -91,8 +93,8 @@
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1892-1968"],
         "language_ssm":["English"],
-        "_version_":1799311557711101952,
-        "timestamp":"2024-05-17T14:46:59.801Z"},
+        "_version_":1801963428626038784,
+        "timestamp":"2024-06-15T21:17:20.984Z"},
       {
         "id":"arms_1988_002_plumbaspace_ref11_fxt",
         "ead_ssi":"arms_1988_002_plumb",
@@ -111,8 +113,8 @@
         "unitdate_end_ssm":["1947"],
         "unitdate_ssm":["Inclusive, 1892-1947"],
         "language_ssm":["English"],
-        "_version_":1799311557733122048,
-        "timestamp":"2024-05-17T14:46:59.823Z"},
+        "_version_":1801963428651204608,
+        "timestamp":"2024-06-15T21:17:21.008Z"},
       {
         "id":"arms_1988_002_plumbaspace_ref13_gwd",
         "ead_ssi":"arms_1988_002_plumb",
@@ -131,8 +133,8 @@
         "unitdate_end_ssm":["1968"],
         "unitdate_ssm":["Inclusive, 1911-1968"],
         "language_ssm":["English"],
-        "_version_":1799311557751996416,
-        "timestamp":"2024-05-17T14:46:59.841Z"},
+        "_version_":1801963428676370432,
+        "timestamp":"2024-06-15T21:17:21.031Z"},
       {
         "id":"arms_1988_002_plumbaspace_ref15_898",
         "ead_ssi":"arms_1988_002_plumb",
@@ -151,8 +153,8 @@
         "unitdate_end_ssm":["1955"],
         "unitdate_ssm":["Inclusive, 1901-1955"],
         "language_ssm":["English"],
-        "_version_":1799311557770870784,
-        "timestamp":"2024-05-17T14:46:59.859Z"}]
+        "_version_":1801963428712022016,
+        "timestamp":"2024-06-15T21:17:21.066Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -160,7 +162,8 @@
       "repository_sim":[
         "cbh",4],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Plumb, Alice",1],
       "date_range_sim":[
         "1801-1900",2,
         "1901-2000",4],

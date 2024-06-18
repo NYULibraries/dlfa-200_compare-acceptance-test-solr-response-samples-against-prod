@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":12,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["Sophie and Bernard Reitzes Papers"],
         "unitid_ssm":["WAG.359"],
         "abstract_ssm":["Bernard and Sophie Reitzes were active members of the Socialist Labor Party of America from the 1920s to 1970s. The Sophie and Bernard Reitzes Papers contain an assortment of printed materials, correspondence, photographs, and meeting minutes, all pertaining to the Socialist Labor Party of America. The collection also reflects the activities of other members of the Socialist Labor Party."],
+        "creator_ssm":["Reitzes, Bernard",
+          "Reitzes, Sophie",
+          "Reitzes, Bernard",
+          "Reitzes, Sophie"],
         "unitdate_normal_ssm":["1920/1977"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Socialist Labor Party"],
@@ -70,8 +74,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1920-1977"],
-        "_version_":1799335389620600832,
-        "timestamp":"2024-05-17T21:05:47.682Z"},
+        "_version_":1802197551708897280,
+        "timestamp":"2024-06-18T11:18:38.155Z"},
       {
         "id":"wag_359aspace_5268b420636daddd6cd5d5aa2bff374c",
         "ead_ssi":"wag_359",
@@ -86,14 +90,13 @@
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1, Folder: 1-7",
-          "Folder: 1-7",
           "Box: 2, Folder: 1-7"],
         "heading_ssm":["Committee Meeting Minutes, Correspondence, Photographs, Printed Material"],
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1977"],
         "unitdate_ssm":["Inclusive, 1920-1977"],
-        "_version_":1799335389640523776,
-        "timestamp":"2024-05-17T21:05:47.701Z"},
+        "_version_":1802197551719383040,
+        "timestamp":"2024-06-18T11:18:38.165Z"},
       {
         "id":"wag_359aspace_effad8d44639408704168ddf1b349419",
         "ead_ssi":"wag_359",
@@ -112,8 +115,8 @@
         "unitdate_start_ssm":["1928"],
         "unitdate_end_ssm":["1972"],
         "unitdate_ssm":["Inclusive, 1928-1972"],
-        "_version_":1799335389657300992,
-        "timestamp":"2024-05-17T21:05:47.717Z"}]
+        "_version_":1802197551727771648,
+        "timestamp":"2024-06-18T11:18:38.173Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -121,7 +124,9 @@
       "repository_sim":[
         "tamwag",3],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Reitzes, Bernard",1,
+        "Reitzes, Sophie",1],
       "date_range_sim":[
         "1901-2000",3],
       "subject_sim":[

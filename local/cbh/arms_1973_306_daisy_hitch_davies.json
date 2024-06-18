@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Daisy Hitch Davies genealogy typescript"],
         "unitid_ssm":["1973.306"],
         "abstract_ssm":["Typed family history of Daisy Hitch Davies (1877-1938), a resident of Floral Park, N.Y., compiled circa 1927 by Davies."],
+        "creator_ssm":["Davies, Daisy Hitch",
+          "Davies, Daisy Hitch"],
         "unitdate_normal_ssm":["1640/1937"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "famname_ssm":["Davies family"],
@@ -68,8 +70,8 @@
         "unitdate_end_ssm":["1937"],
         "unitdate_ssm":["Inclusive, circa 1650 to 1927"],
         "language_ssm":["English"],
-        "_version_":1799312378072924160,
-        "timestamp":"2024-05-17T15:00:02.159Z"}]
+        "_version_":1801960223235112960,
+        "timestamp":"2024-06-15T20:26:24.085Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -77,7 +79,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Davies, Daisy Hitch",1],
       "date_range_sim":[
         "1601-1700",1,
         "1901-2000",1],

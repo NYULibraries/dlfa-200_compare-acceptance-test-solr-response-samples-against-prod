@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Reese F. Alsop manuscript"],
         "unitid_ssm":["1973.183"],
         "abstract_ssm":["One volume of handwritten aphorisms, biblical quotes, and notes on ethics and religion, with a glossary of terms, created by Reese F. Alsop in 1873 while residing and preaching in Rye, N.Y."],
+        "creator_ssm":["Alsop, Reese F.",
+          "Alsop, Reese F."],
         "unitdate_normal_ssm":["1873/1873"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Volumes (documents by form)",
@@ -69,8 +71,8 @@
         "unitdate_start_ssm":["1873"],
         "unitdate_end_ssm":["1873"],
         "unitdate_ssm":["Inclusive, 1873"],
-        "_version_":1799256170605576192,
-        "timestamp":"2024-05-17T00:06:38.542Z"}]
+        "_version_":1801960045329514496,
+        "timestamp":"2024-06-15T20:23:34.421Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -78,7 +80,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Alsop, Reese F.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

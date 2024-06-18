@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":5,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["<em>Labor History</em> Records"],
         "unitid_ssm":["TAM.257"],
         "abstract_ssm":["Labor History is an academic journal publishing articles on the history of the labor movement in the United States and other countries.  Between 1960 and 2003 the journal was published by the Tamiment Institute, later the Tamiment Library at New York University.  The Labor History Records document the publication of the journal between 1960 and 2010 and consist of correspondence between editors and authors, and minutes of board meetings."],
+        "creator_ssm":["Labor History",
+          "Labor History"],
         "unitdate_normal_ssm":["1960/2010"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Labor History"],
@@ -67,8 +69,8 @@
         "unitdate_start_ssm":["1960"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, 1960-2010"],
-        "_version_":1775222795239686144,
-        "timestamp":"2023-08-25T17:26:25.719Z"},
+        "_version_":1801234968243863552,
+        "timestamp":"2024-06-07T20:18:47.027Z"},
       {
         "id":"tam_257aspace_6544c522f0fde5f25a7ccc1dbfb1ad8f",
         "ead_ssi":"tam_257",
@@ -82,14 +84,13 @@
         "repository_ssi":"tamwag",
         "repository_ssm":["tamwag"],
         "format_ssm":["Archival Object"],
-        "location_ssm":["Box: 31, Folder: 1-5",
-          "Folder: 1-5"],
+        "location_ssm":["Box: 31, Folder: 1-5"],
         "heading_ssm":["Editorial correspondence and board meeting minutes"],
         "unitdate_start_ssm":["1963"],
         "unitdate_end_ssm":["2010"],
         "unitdate_ssm":["Inclusive, 1963-2010"],
-        "_version_":1775222795292114944,
-        "timestamp":"2023-08-25T17:26:25.769Z"}]
+        "_version_":1801234968258543616,
+        "timestamp":"2024-06-07T20:18:47.041Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,7 +98,8 @@
       "repository_sim":[
         "tamwag",2],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Labor History",1],
       "date_range_sim":[
         "1901-2000",2,
         "2001-2100",2],

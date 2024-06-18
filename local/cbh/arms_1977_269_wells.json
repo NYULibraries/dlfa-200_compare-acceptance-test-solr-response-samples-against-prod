@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":10,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["John D. Wells diaries"],
         "unitid_ssm":["1977.269"],
         "abstract_ssm":["John D. Wells was pastor of the South Third Street Presbyterian Church in the Brooklyn neighborhood of Williamsburg from 1850 until his death in 1903.  The John D. Wells diaries are contained in six bound volumes and consist of daily entries recorded by Wells during the period 1862 to 1888.  Entries relate to Wells's work as pastor of the South Third Street Presbyterian Church, as well as the general affairs and activities of the congregation.  The diaries also contain records of parishioners who had died each year, including dates of death and, occasionally, names of family relatives and causes of death.  News clippings, correspondence, and programs are also interfiled throughout."],
+        "creator_ssm":["Wells, John D. (John Dunlap)",
+          "Wells, John D. (John Dunlap)"],
         "unitdate_normal_ssm":["1852/1888"],
         "corpname_ssm":["Brooklyn Historical Society",
           "South Third Street Presbyterian Church (Brooklyn, New York, N.Y.)"],
@@ -78,8 +80,8 @@
         "unitdate_end_ssm":["1888"],
         "unitdate_ssm":["Inclusive, 1852, 1862-1888"],
         "language_ssm":["English"],
-        "_version_":1799256468365508608,
-        "timestamp":"2024-05-17T00:11:22.508Z"}]
+        "_version_":1801961211624947712,
+        "timestamp":"2024-06-15T20:42:06.686Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -87,7 +89,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Wells, John D. (John Dunlap)",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

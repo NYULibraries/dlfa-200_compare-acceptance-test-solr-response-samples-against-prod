@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["McGivern Family Collection"],
         "unitid_ssm":["AIA.075"],
         "abstract_ssm":["This collection was created and collected by members of the McGivern and Burke families, who were active in the Belfast United Club in the Bronx during the 1950s. This collection consists of materials documenting the activities of the Belfast United Club in the Bronx, including photographs and brochures from the organization's functions and sporting events."],
+        "creator_ssm":["Mercurio, Nancy",
+          "Mercurio, Nancy"],
         "unitdate_normal_ssm":["1951/1954"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "geogname_ssm":["Belfast (Northern Ireland)"],
@@ -64,8 +66,8 @@
         "unitdate_start_ssm":["1951"],
         "unitdate_end_ssm":["1954"],
         "unitdate_ssm":["Inclusive, 1951-1954"],
-        "_version_":1799747577510363136,
-        "timestamp":"2024-05-22T10:17:20.686Z"}]
+        "_version_":1802110277205884928,
+        "timestamp":"2024-06-17T12:11:26.703Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -73,7 +75,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Mercurio, Nancy",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

@@ -47,6 +47,8 @@
         "unittitle_ssm":["Entre Nous Dramatic and Literary Association membership roll"],
         "unitid_ssm":["1977.118"],
         "abstract_ssm":["Membership roll of Entre Nous Dramatic and Literary Association of Brooklyn. The roll lists each member's name and address. Dated circa 1867."],
+        "creator_ssm":["Entre Nous Dramatic and Literary Association",
+          "Entre Nous Dramatic and Literary Association"],
         "unitdate_normal_ssm":["1867/1867"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Entre Nous Dramatic and Literary Association",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1867"],
         "unitdate_ssm":["circa 1867"],
         "language_ssm":["English"],
-        "_version_":1799256289432305664,
-        "timestamp":"2024-05-17T00:08:31.864Z"}]
+        "_version_":1801960739186933760,
+        "timestamp":"2024-06-15T20:34:36.135Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Entre Nous Dramatic and Literary Association",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

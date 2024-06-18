@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":8,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Benjamin Rowland account books"],
         "unitid_ssm":["ARC.075"],
         "abstract_ssm":["This collection consists of two account books kept by Benjamin Rowland between 1827 and 1828. The volumes detail monetary transactions for goods such as sugar, tobacco, tea, coffee, and paper. Each purchase is itemized with a date, customer name, and cost of items. In addition, periodic inventories of Rowland's goods appear in the ledgers. Rowland's regular customers lived throughout the New York area--in Flushing, Queens; Hempstead, Long Island; and Paterson, New Jersey--and included such well-known New York names as Van Brunt, Sutphen, and Ditmas."],
+        "creator_ssm":["Rowland, Benjamin S.",
+          "Rowland, Benjamin S."],
         "unitdate_normal_ssm":["1827/1828"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Account books"],
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1828"],
         "unitdate_ssm":["Inclusive, 1827-1828"],
         "language_ssm":["English"],
-        "_version_":1799256232121335808,
-        "timestamp":"2024-05-17T00:07:37.208Z"}]
+        "_version_":1801958898901450752,
+        "timestamp":"2024-06-15T20:05:21.101Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Rowland, Benjamin S.",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[

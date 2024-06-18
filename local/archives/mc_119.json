@@ -47,6 +47,8 @@
         "unittitle_ssm":["Collection of Masters Theses from the Faculty of Arts and Science, Department of Economics"],
         "unitid_ssm":["MC.119"],
         "abstract_ssm":["This collection contains a selection of masters theses written by students from the Department of Economics between 1971 and 1979."],
+        "creator_ssm":["New York University. Department of Economics",
+          "New York University. Department of Economics"],
         "unitdate_normal_ssm":["1971/1979"],
         "corpname_ssm":["New York University Archives",
           "New York University. Department of Economics"],
@@ -69,8 +71,8 @@
         "unitdate_end_ssm":["1979"],
         "unitdate_ssm":["Inclusive, 1971-1979"],
         "language_ssm":["English"],
-        "_version_":1799248643465674752,
-        "timestamp":"2024-05-16T22:07:00.101Z"},
+        "_version_":1801945761452130304,
+        "timestamp":"2024-06-15T16:36:32.254Z"},
       {
         "id":"mc_119aspace_ref10",
         "ead_ssi":"mc_119",
@@ -87,8 +89,8 @@
         "heading_ssm":["Theses (K-Z)"],
         "unitdate_ssm":["1979"],
         "language_ssm":["English"],
-        "_version_":1799248643683778560,
-        "timestamp":"2024-05-16T22:07:00.31Z"},
+        "_version_":1801945761647165440,
+        "timestamp":"2024-06-15T16:36:32.44Z"},
       {
         "id":"mc_119aspace_ref11",
         "ead_ssi":"mc_119",
@@ -105,8 +107,8 @@
         "heading_ssm":["Theses"],
         "unitdate_ssm":["Undated"],
         "language_ssm":["English"],
-        "_version_":1799248643698458624,
-        "timestamp":"2024-05-16T22:07:00.324Z"},
+        "_version_":1801945761663942656,
+        "timestamp":"2024-06-15T16:36:32.456Z"},
       {
         "id":"mc_119aspace_ref2",
         "ead_ssi":"mc_119",
@@ -123,8 +125,8 @@
         "heading_ssm":["Theses (A-F)"],
         "unitdate_ssm":["1971-1973"],
         "language_ssm":["English"],
-        "_version_":1799248643488743424,
-        "timestamp":"2024-05-16T22:07:00.124Z"},
+        "_version_":1801945761476247552,
+        "timestamp":"2024-06-15T16:36:32.277Z"},
       {
         "id":"mc_119aspace_ref3",
         "ead_ssi":"mc_119",
@@ -144,8 +146,8 @@
         "unitdate_end_ssm":["1973"],
         "unitdate_ssm":["Inclusive, 1973"],
         "language_ssm":["English"],
-        "_version_":1799248643521249280,
-        "timestamp":"2024-05-16T22:07:00.154Z"},
+        "_version_":1801945761494073344,
+        "timestamp":"2024-06-15T16:36:32.294Z"},
       {
         "id":"mc_119aspace_ref4",
         "ead_ssi":"mc_119",
@@ -162,8 +164,8 @@
         "heading_ssm":["Theses"],
         "unitdate_ssm":["1974"],
         "language_ssm":["English"],
-        "_version_":1799248643546415104,
-        "timestamp":"2024-05-16T22:07:00.179Z"},
+        "_version_":1801945761508753408,
+        "timestamp":"2024-06-15T16:36:32.308Z"},
       {
         "id":"mc_119aspace_ref5",
         "ead_ssi":"mc_119",
@@ -180,8 +182,8 @@
         "heading_ssm":["Theses"],
         "unitdate_ssm":["1975"],
         "language_ssm":["English"],
-        "_version_":1799248643575775232,
-        "timestamp":"2024-05-16T22:07:00.207Z"},
+        "_version_":1801945761528676352,
+        "timestamp":"2024-06-15T16:36:32.327Z"},
       {
         "id":"mc_119aspace_ref6",
         "ead_ssi":"mc_119",
@@ -198,8 +200,8 @@
         "heading_ssm":["Theses (A-E)"],
         "unitdate_ssm":["1976-1977"],
         "language_ssm":["English"],
-        "_version_":1799248643595698176,
-        "timestamp":"2024-05-16T22:07:00.226Z"},
+        "_version_":1801945761544404992,
+        "timestamp":"2024-06-15T16:36:32.342Z"},
       {
         "id":"mc_119aspace_ref7",
         "ead_ssi":"mc_119",
@@ -216,8 +218,8 @@
         "heading_ssm":["Theses (A-B)"],
         "unitdate_ssm":["1977-1978"],
         "language_ssm":["English"],
-        "_version_":1799248643618766848,
-        "timestamp":"2024-05-16T22:07:00.248Z"},
+        "_version_":1801945761562230784,
+        "timestamp":"2024-06-15T16:36:32.359Z"},
       {
         "id":"mc_119aspace_ref8",
         "ead_ssi":"mc_119",
@@ -234,8 +236,8 @@
         "heading_ssm":["Theses (C-Y)"],
         "unitdate_ssm":["1978"],
         "language_ssm":["English"],
-        "_version_":1799248643646029824,
-        "timestamp":"2024-05-16T22:07:00.274Z"},
+        "_version_":1801945761614659584,
+        "timestamp":"2024-06-15T16:36:32.409Z"},
       {
         "id":"mc_119aspace_ref9",
         "ead_ssi":"mc_119",
@@ -252,8 +254,8 @@
         "heading_ssm":["Theses (A-G)"],
         "unitdate_ssm":["1979"],
         "language_ssm":["English"],
-        "_version_":1799248643667001344,
-        "timestamp":"2024-05-16T22:07:00.294Z"}]
+        "_version_":1801945761631436800,
+        "timestamp":"2024-06-15T16:36:32.425Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -261,7 +263,8 @@
       "repository_sim":[
         "archives",11],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "New York University. Department of Economics",1],
       "date_range_sim":[
         "1901-2000",2,
         "undated & other",9],

@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -45,9 +45,10 @@
       {
         "author_ssm":["Alexandra Gomer"],
         "unittitle_ssm":["Metro New York Labor Communications Council Records"],
-        "unitid_ssm":["WAG.339",
-          "/repositories/2/resources/2482"],
+        "unitid_ssm":["WAG.339"],
         "abstract_ssm":["The Metro New York Labor Communications Council (Metro) was established in 1974 as a forum for labor communicators to discuss ideas and challenges of communications work within organized labor. Metro offers workshops on photography, writing, and web design, as well as seminars on issues facing the organized labor movement. It is affiliated with the International Labor Communications Association, the AFL-CIO, and maintains a relationship with the New York City Central Labor Council. The organization holds an annual convention and communications contest, rewarding labor journalists, photographers, graphic artists, editors, and publications. The Metro New York Labor Communications Council Records (dated 1974-2022) consist of materials created or collected by the Metro New York Labor Communications Council documenting the organization's activities, as well as the broader context of reporting on the labor movement. Administrative records are in both paper and electronic format, and include meeting agendas, meeting minutes, memoranda, newsletters, event ephemera, reports, and copies of articles on a variety of labor-related topics, such as union organizing, collective bargaining, legislation, and coalition building. The collection also includes the organization's historical materials, including a constitution, by-laws, a code of ethics, and financial reports. A substantial portion of the organization's administrative records document the organization's annual convention and annual communications awards, including planning documents and ephemera. The collection documents an expansive understanding of labor communications, encompassing websites, writing, photography, visual art, video graphic design, and social media. In addition to documenting the activities of the Metro New York Labor Communications Council, the collection also documents the broader context of labor journalism through materials used in workshops and electronic video recordings of panel discussions."],
+        "creator_ssm":["Metro New York Labor Communications Council",
+          "Metro New York Labor Communications Council"],
         "unitdate_normal_ssm":["1974/2022"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives",
           "Metro New York Labor Communications Council",
@@ -67,15 +68,15 @@
         "unitdate_start_ssm":["1974"],
         "unitdate_end_ssm":["2022"],
         "unitdate_ssm":["Inclusive, 1974-2016, ongoing"],
-        "_version_":1799805123924328448,
-        "timestamp":"2024-05-23T01:32:01.223Z"},
+        "_version_":1802197256387952640,
+        "timestamp":"2024-06-18T11:13:56.515Z"},
       {
         "id":"wag_339aspace_57748c08c989bef85b545cc6dbb07c69",
         "ead_ssi":"wag_339",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Metro New York Labor Communications Council Records"],
-        "collection_unitid_ssm":["WAG.339/repositories/2/resources/2482"],
+        "collection_unitid_ssm":["WAG.339"],
         "unittitle_ssm":["Administrative Records"],
         "unitid_ssm":["/repositories/2/archival_objects/981174"],
         "unitdate_normal_ssm":["1974/2022"],
@@ -86,21 +87,20 @@
         "format_ssm":["Archival Object"],
         "location_ssm":["Box: 1",
           "Box: 2",
-          "Box: Electronic Records, E-records: TW_WAG_339_ER_1",
-          "E-records: TW_WAG_339_ER_1"],
+          "Box: Electronic Records, E-records: TW_WAG_339_ER_1"],
         "heading_ssm":["Administrative Records"],
         "unitdate_start_ssm":["1974"],
         "unitdate_end_ssm":["2022"],
         "unitdate_ssm":["Inclusive, 1974-2016"],
-        "_version_":1799805123940057088,
-        "timestamp":"2024-05-23T01:32:01.238Z"},
+        "_version_":1802197256398438400,
+        "timestamp":"2024-06-18T11:13:56.525Z"},
       {
         "id":"wag_339aspace_9150e107cd99778aeab97cc25bbe3e60",
         "ead_ssi":"wag_339",
         "component_level_isim":[1],
         "component_children_bsi":false,
         "collection_ssm":["Metro New York Labor Communications Council Records"],
-        "collection_unitid_ssm":["WAG.339/repositories/2/resources/2482"],
+        "collection_unitid_ssm":["WAG.339"],
         "unittitle_ssm":["Archived Website"],
         "unitid_ssm":["/repositories/2/archival_objects/981173"],
         "unitdate_normal_ssm":["2011-06-12/2011-06-12"],
@@ -112,8 +112,8 @@
         "location_ssm":["Box: Electronic Records"],
         "heading_ssm":["Archived Website"],
         "unitdate_ssm":["June 2011-ongoing"],
-        "_version_":1799805123954737152,
-        "timestamp":"2024-05-23T01:32:01.252Z"}]
+        "_version_":1802197256406827008,
+        "timestamp":"2024-06-18T11:13:56.533Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -122,7 +122,8 @@
         "tamwag",3],
       "dao_sim":[
         "Online Access",3],
-      "creator_sim":[],
+      "creator_sim":[
+        "Metro New York Labor Communications Council",1],
       "date_range_sim":[
         "1901-2000",2,
         "2001-2100",2,

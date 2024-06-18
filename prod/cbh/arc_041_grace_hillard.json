@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":7,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Minnie Grace Hillard collection"],
         "unitid_ssm":["ARC.041"],
         "abstract_ssm":["The Minnie Grace Hillard collection is primarily focused on Brevoort Savings Bank, its employees and history. The collection includes correspondence, promotional material, publications, and a bank history collected by Hillard during her career at Brevoort Savings Bank. The history of the bank includes reminiscences from and biographical information on bank officers. A guest book from Hillard's father's funeral contains the signatures of several bank officers."],
+        "creator_ssm":["Hillard, M. Grace",
+          "Hillard, M. Grace"],
         "unitdate_normal_ssm":["1925/1986"],
         "corpname_ssm":["Brooklyn Historical Society",
           "P.S. 93 (Brooklyn, New York, N.Y.)",
@@ -67,8 +69,8 @@
         "unitdate_end_ssm":["1986"],
         "unitdate_ssm":["Inclusive, 1925-1986"],
         "language_ssm":["English"],
-        "_version_":1775226634571350016,
-        "timestamp":"2023-08-25T18:27:27.19Z"}]
+        "_version_":1800604225742307328,
+        "timestamp":"2024-05-31T21:13:24.103Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -76,7 +78,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Hillard, M. Grace",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

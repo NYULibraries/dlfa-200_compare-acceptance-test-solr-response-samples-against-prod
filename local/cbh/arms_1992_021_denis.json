@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":6,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Antonia Denis collection"],
         "unitid_ssm":["1992.021"],
         "abstract_ssm":["The Antonia Denis collection spans the period 1948 to 1983 and consists of correspondence, administrative documents, financial records, photocopied newspaper articles, calling cards, certificates, newsletters, pamphlets, and other ephemera relating to Denis's work with the cultural organizations La Casa de Puerto Rico and the Puerto Rican Pioneers Parade, as well as her political activism and work with the Betances Democratic Club and other organizations. A small amount of papers pertaining to Denis's personal life are also included."],
+        "creator_ssm":["Denis, Antonia",
+          "Denis, Antonia"],
         "unitdate_normal_ssm":["1948/1983"],
         "corpname_ssm":["Brooklyn Historical Society"],
         "genreform_ssm":["Visiting cards",
@@ -93,8 +95,8 @@
         "unitdate_start_ssm":["1948"],
         "unitdate_end_ssm":["1983"],
         "unitdate_ssm":["Inclusive, 1948-1983"],
-        "_version_":1799256289528774656,
-        "timestamp":"2024-05-17T00:08:31.956Z"}]
+        "_version_":1801963694574272512,
+        "timestamp":"2024-06-15T21:21:34.612Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -102,7 +104,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Denis, Antonia",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

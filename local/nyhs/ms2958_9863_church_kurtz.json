@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":3,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Frederick S. Church letters with drawings to Charles M. Kurtz"],
         "unitid_ssm":["AHMC - Church, Frederick S. - Kurtz"],
         "abstract_ssm":["Two autograph letters signed (ALS), each with a drawing, by the artist Frederick S. Church (1842-1924), writing to Charles M. Kurtz (1855-1909), identified by Church on the mailing envelopes as the Acting Secretary of the Committee on Art for the World's Fair at St. Louis (i.e., the Louisiana Purchase Exposition of 1904). Both letters are dated from Carnegie Hall, where Church lived. In the first letter, dated March 18, 1904, Church expresses his desire to be represented at the St. Louis Exposition, and upon Kurtz's consent, intends to ask a Mr. Bixby of St. Louis to loan the \"Sea Serpent\" and a Mr. McBride, also of St. Louis, to loan \"The Princess in the Fairy Tale.\" Church comments that he considers the Sea Serpent to be his \"most important\" and the Princess to be \"very interesting to the public.\" Church includes on the letter a drawing of a sea serpent and a putto (or cupid), though he notes that it is not Bixby's sea serpent. The second letter, dated April 4, 1904, is apparently written in response to a letter from Kurtz, who seems to have suggested \"Doll Matinee.\" Church says that is \"all right\" but urges Kurtz to consider works held by W.K. Bixby and W.J. McBride, though he now suggests different works than in his first letter. From Bixby, Church suggests \"a Big Polar Bear loaded with Cupids taking them to a Bath\" and from McBride \"an important picture of a Girl out in a racing boat rowed by Cupids.\" He notes that Bixby has a fine collection of American artists. On a separate sheet, Church includes a drawing of a polar bear with putti (cupids), noting that it is \"about like the one\" owned by Bixby. \n\nTo request this material for research, and for fuller information about it, please follow this link to the record in N-YHS's catalog, Bobcat: Frederick S. Church letters with drawings to Charles M. Kurtz"],
+        "creator_ssm":["Church, Frederick S. (Frederick Stuart), 1842-1924",
+          "Church, Frederick S. (Frederick Stuart), 1842-1924"],
         "corpname_ssm":["New-York Historical Society"],
         "persname_ssm":["Church, Frederick S. (Frederick Stuart), 1842-1924"],
         "collection_ssm":["Frederick S. Church letters with drawings to Charles M. Kurtz"],
@@ -57,8 +59,8 @@
         "format_ssm":["Archival Collection"],
         "heading_ssm":["Frederick S. Church letters with drawings to Charles M. Kurtz"],
         "unitdate_ssm":["Inclusive, 1904"],
-        "_version_":1799319242343972864,
-        "timestamp":"2024-05-17T16:49:08.438Z"}]
+        "_version_":1802083864494997504,
+        "timestamp":"2024-06-17T05:11:37.579Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -66,7 +68,8 @@
       "repository_sim":[
         "nyhs",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Church, Frederick S. (Frederick Stuart), 1842-1924",1],
       "date_range_sim":[
         "undated & other",1],
       "subject_sim":[],

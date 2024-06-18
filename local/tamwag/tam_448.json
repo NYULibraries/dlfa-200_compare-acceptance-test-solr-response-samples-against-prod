@@ -47,6 +47,8 @@
         "unittitle_ssm":["Vicki Morris Photographs and <em>Daily World</em> Clippings"],
         "unitid_ssm":["TAM.448"],
         "abstract_ssm":["Vicki Morris was a reporter and editorilist for the Daily World as well as the daughter of George Morris, the Communist Party labor secretary. This small collection contains many clippings of articles and editorials of Morris's work as well as photographs of Morris."],
+        "creator_ssm":["Morris, Vicki",
+          "Morris, Vicki"],
         "unitdate_normal_ssm":["1960/1999"],
         "corpname_ssm":["Tamiment Library and Robert F. Wagner Labor Archives"],
         "genreform_ssm":["Clippings (information artifacts)",
@@ -74,8 +76,8 @@
         "unitdate_end_ssm":["1999"],
         "unitdate_ssm":["Inclusive, 1960s-1990s"],
         "language_ssm":["English"],
-        "_version_":1799791114911219712,
-        "timestamp":"2024-05-22T21:49:21.187Z"}]
+        "_version_":1802183105915650048,
+        "timestamp":"2024-06-18T07:29:01.573Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -83,7 +85,8 @@
       "repository_sim":[
         "tamwag",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Morris, Vicki",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

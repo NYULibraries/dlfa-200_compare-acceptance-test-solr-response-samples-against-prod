@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":4,
+    "QTime":8,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,8 @@
         "unittitle_ssm":["Mariano Montagnino papers"],
         "unitid_ssm":["ARC.053"],
         "abstract_ssm":["The Mariano Montagnino papers contain a small number of items documenting Montagnino's early life. Materials include Montagnino's diploma from David A. Boody Junior High School, a graduation commencement program, and an autograph book containing inscriptions from classmates and school faculty, all from 1933. One yearbook from the school, dated 1952, is also included. Also included is Montagnino's United States Coast Guard identification card from 1942, and three photographs of Montagnino and unknown individuals, circa 1930s."],
+        "creator_ssm":["Montagnino, Mariano",
+          "Montagnino, Mariano"],
         "unitdate_normal_ssm":["1920/1952"],
         "corpname_ssm":["Brooklyn Historical Society",
           "David A. Boody Junior High School (Brooklyn, New York, N.Y.)",
@@ -77,8 +79,8 @@
         "unitdate_start_ssm":["1920"],
         "unitdate_end_ssm":["1952"],
         "unitdate_ssm":["Inclusive, circa 1930 to 1952"],
-        "_version_":1799312282778337280,
-        "timestamp":"2024-05-17T14:58:31.28Z"}]
+        "_version_":1801958819316629504,
+        "timestamp":"2024-06-15T20:04:05.204Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -86,7 +88,8 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Montagnino, Mariano",1],
       "date_range_sim":[
         "1901-2000",1],
       "subject_sim":[

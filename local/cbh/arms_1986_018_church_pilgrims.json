@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":5,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,12 @@
         "unittitle_ssm":["Church of the Pilgrims collection"],
         "unitid_ssm":["1986.018"],
         "abstract_ssm":["The Church of the Pilgrims collection is housed in one manuscript box and contains printed material documenting the Church's activities for the period 1846 to 1932.  Items consist of manuals and yearbooks, registers of officers and members, worship service programs, a psalmbook, pamphlets on organizations within the Church, and an issue of the Church's newsletter. The Church of the Pilgrims, Brooklyn's first Congregational church, was established on December 22, 1844.  Construction on the Church's building, located at the corner of Henry and Remsen Streets in the neighorhood of Brooklyn Heights, had begun in July of 1844, though it was not until May of 1846 that the building was officially dedicated.  The Church's first pastor, the Reverend Richard Salter Storrs (1821-1900), was installed in November of 1846."],
+        "creator_ssm":["Church of the Pilgrims (Brooklyn, New York, N.Y.)",
+          "Church of the Pilgrims (Brooklyn, New York, N.Y.). Pilgrim Chapel",
+          "Church of the Pilgrims (Brooklyn, New York, N.Y.). Young Men's Club",
+          "Church of the Pilgrims (Brooklyn, New York, N.Y.)",
+          "Church of the Pilgrims (Brooklyn, New York, N.Y.). Pilgrim Chapel",
+          "Church of the Pilgrims (Brooklyn, New York, N.Y.). Young Men's Club"],
         "unitdate_normal_ssm":["1846/1932"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Church of the Pilgrims (Brooklyn, New York, N.Y.)",
@@ -100,8 +106,8 @@
         "unitdate_end_ssm":["1932"],
         "unitdate_ssm":["Inclusive, 1846-1932"],
         "language_ssm":["English"],
-        "_version_":1799256165795758080,
-        "timestamp":"2024-05-17T00:06:33.955Z"}]
+        "_version_":1801963215629844480,
+        "timestamp":"2024-06-15T21:13:57.855Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -109,7 +115,10 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Church of the Pilgrims (Brooklyn, New York, N.Y.)",1,
+        "Church of the Pilgrims (Brooklyn, New York, N.Y.). Pilgrim Chapel",1,
+        "Church of the Pilgrims (Brooklyn, New York, N.Y.). Young Men's Club",1],
       "date_range_sim":[
         "1801-1900",1,
         "1901-2000",1],

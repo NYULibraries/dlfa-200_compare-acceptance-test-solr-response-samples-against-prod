@@ -1,7 +1,7 @@
 {
   "responseHeader":{
     "status":0,
-    "QTime":3,
+    "QTime":4,
     "params":{
       "f.date_range_sim.facet.limit":"-1",
       "ps":"50",
@@ -47,6 +47,10 @@
         "unittitle_ssm":["William Richardson papers"],
         "unitid_ssm":["1977.169"],
         "abstract_ssm":["The William Richardson papers span the period 1858 to 1895 primarily document Richardson's ownership of the Atlantic Avenue Railroad Company and his prominent role in the development of rail transportation in the City of Brooklyn during the 19th century. Included in the collection are correspondence, government and legal records, newspaper clippings, business records, and other documents."],
+        "creator_ssm":["Brooklyn (New York, N.Y.). Common Council",
+          "Richardson, William",
+          "Brooklyn (New York, N.Y.). Common Council",
+          "Richardson, William"],
         "unitdate_normal_ssm":["1858/1895"],
         "corpname_ssm":["Brooklyn Historical Society",
           "Brooklyn (New York, N.Y.). Common Council",
@@ -88,8 +92,8 @@
         "unitdate_end_ssm":["1895"],
         "unitdate_ssm":["Inclusive, 1858-1895"],
         "language_ssm":["English"],
-        "_version_":1799311583433719808,
-        "timestamp":"2024-05-17T14:47:24.333Z"}]
+        "_version_":1801960846280097792,
+        "timestamp":"2024-06-15T20:36:18.267Z"}]
   },
   "facet_counts":{
     "facet_queries":{},
@@ -97,7 +101,9 @@
       "repository_sim":[
         "cbh",1],
       "dao_sim":[],
-      "creator_sim":[],
+      "creator_sim":[
+        "Brooklyn (New York, N.Y.). Common Council",1,
+        "Richardson, William",1],
       "date_range_sim":[
         "1801-1900",1],
       "subject_sim":[
